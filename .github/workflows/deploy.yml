@@ -1,0 +1,149 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  # Allow manual workflow dispatch
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Build and test job
+  build-and-test:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Run security audit
+      run: npm audit --audit-level=moderate || echo "Security audit completed with warnings"
+      
+    - name: Run tests
+      run: npm run test -- --coverage --watchAll=false
+      env:
+        CI: true
+        
+    - name: Build project
+      run: npm run build
+      env:
+        NODE_ENV: production
+        GENERATE_SOURCEMAP: false
+        
+    - name: Bundle size analysis
+      if: matrix.node-version == '20.x'
+      run: |
+        echo "Build size analysis:"
+        du -sh build/
+        echo "JavaScript bundle sizes:"
+        find build/static/js -name "*.js" -exec ls -lh {} \; || true
+        echo "CSS bundle sizes:"  
+        find build/static/css -name "*.css" -exec ls -lh {} \; || true
+      
+    - name: Upload build artifacts
+      if: matrix.node-version == '20.x'
+      uses: actions/upload-artifact@v4
+      with:
+        name: build-files
+        path: build/
+        retention-days: 1
+
+  # Deployment job - only runs on master branch pushes after successful build
+  deploy:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Use Node.js 20.x
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20.x
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build project
+      run: npm run build
+      env:
+        NODE_ENV: production
+        GENERATE_SOURCEMAP: false
+        
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Upload to GitHub Pages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: build/
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+
+  # Security and quality checks
+  security-scan:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Use Node.js 20.x
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20.x
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Run security audit (fail on high/critical)
+      run: npm audit --audit-level=high
+      
+    - name: Check for outdated packages
+      run: npm outdated || true
+      
+    - name: License compatibility check
+      run: npx license-checker --onlyAllow "MIT;Apache-2.0;BSD-2-Clause;BSD-3-Clause;ISC;0BSD;CC0-1.0;Unlicense" --summary || echo "License check completed with warnings"
+      
+    - name: Dependency vulnerability scan with Snyk
+      run: |
+        npm install -g snyk
+        snyk auth ${{ secrets.SNYK_TOKEN }} || echo "Snyk token not configured - skipping advanced scan"
+        snyk test --severity-threshold=high || echo "Snyk scan completed with warnings"
+      continue-on-error: true
