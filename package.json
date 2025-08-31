@@ -44,10 +44,10 @@
     ]
   },
   "jest": {
-    "transformIgnorePatterns": [
-      "node_modules/(?!(react-leaflet|leaflet)/)"
-    ]
-  },
+  "transformIgnorePatterns": [
+    "node_modules/(?!(@react-leaflet|react-leaflet|leaflet)/)"
+  ]
+}
   "browserslist": {
     "production": [
       ">0.2%",
