@@ -15,7 +15,6 @@
     "@types/react-dom": "^19.1.7",
     "axios": "^1.11.0",
     "leaflet": "^1.9.4",
-    "nominatim-geocoder": "^0.1.4",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-leaflet": "^5.0.0",
@@ -44,10 +43,10 @@
     ]
   },
   "jest": {
-  "transformIgnorePatterns": [
-    "node_modules/(?!(@react-leaflet|react-leaflet|leaflet)/)"
-  ]
-}
+    "transformIgnorePatterns": [
+      "node_modules/(?!(@react-leaflet|react-leaflet|leaflet)/)"
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",

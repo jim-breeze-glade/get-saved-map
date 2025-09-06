@@ -19,10 +19,13 @@ interface ChurchMapProps {
 
 // Create custom colored markers for each church category
 const createCustomIcon = (color: string) => {
+  // Sanitize color input to prevent XSS - only allow valid CSS color values
+  const sanitizedColor = color.match(/^#[0-9A-Fa-f]{6}$/) ? color : '#666666';
+  
   return L.divIcon({
     html: `
       <div style="
-        background-color: ${color};
+        background-color: ${sanitizedColor};
         border: 2px solid white;
         border-radius: 50%;
         width: 20px;
