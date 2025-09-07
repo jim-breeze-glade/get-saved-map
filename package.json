@@ -60,6 +60,11 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "@types/cheerio": "^0.22.35",
+    "@types/node-geocoder": "^4.2.6",
+    "cheerio": "^1.1.2",
+    "gh-pages": "^6.3.0",
+    "node-geocoder": "^4.4.1",
+    "puppeteer": "^24.19.0"
   }
 }
