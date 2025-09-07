@@ -8,8 +8,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.8485,
-    "longitude": -72.9159,
+    "latitude": 41.9481,
+    "longitude": -71.859,
     "phone": "(401) 738-0600",
     "website": "https://www.nbbcri.org",
     "pastor": "MARK LEARY SR",
@@ -17,17 +17,17 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK LEARY SR. 1642 W SHORE RD WARWICK RI 02889 SS 930,SM 1030,SN 6,W 7 DEAF, CHILDRENS KJB church."
+    "description": "WARWICK RI 02889 SS 930,SM 1030,SN 6,W 7 DEAF, CHILDRENS KJB church"
   },
   {
     "id": "4282",
     "name": "FREEDOM ROAD BAPTIST CHURCH",
-    "address": "10 LEILA JEAN DR",
+    "address": "10 LEILA JEAN DR BRIST",
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 40.7011,
-    "longitude": -70.7579,
+    "latitude": 41.5222,
+    "longitude": -71.3434,
     "phone": "(401) 254-0440",
     "website": "",
     "pastor": "TIMOTHY KUHN",
@@ -36,7 +36,7 @@ export const rhodeislandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIMOTHY KUHN. 10 LEILA JEAN DR BRISTOL RI 02809 SS 10,SM 11,W 7 KJB, UNAFFILIATED IGLESIA BAUTISTA BIBLICA"
+    "description": "OL RI 02809 SS 10,SM 11,W 7 KJB, UNAFFILIATED IGLESIA BAUTISTA BIBLICA"
   },
   {
     "id": "4283",
@@ -45,8 +45,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.2398,
-    "longitude": -72.3036,
+    "latitude": 41.1678,
+    "longitude": -71.6832,
     "phone": "(401) 548-8776",
     "website": "http://www.iglesiabautistabiblicacf.org",
     "pastor": "CHRIS BAKER",
@@ -56,7 +56,7 @@ export const rhodeislandChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by CHRIS BAKER. 161 CROSS ST CENTRAL FALLS RI 02863 SS 10,SM 11,SN 7,W 7,SAT 7 SPANISH SPEAKING KJB, UNAFFILIATED"
+    "description": "CENTRAL FALLS RI 02863 SS 10,SM 11,SN 7,W 7,SAT 7 SPANISH SPEAKING KJB, UNAFFILIATED"
   },
   {
     "id": "4284",
@@ -65,8 +65,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.1794,
-    "longitude": -72.9553,
+    "latitude": 41.127,
+    "longitude": -71.5931,
     "phone": "(401) 828-5856",
     "website": "http://knottyoak.org",
     "pastor": "BRYAN K SPERONI",
@@ -75,7 +75,7 @@ export const rhodeislandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRYAN K SPERONI. 11 KNOTTY OAK RD COVENTRY RI 02816 SM 10,SN 6,W 630 AWANA, RADIO, TEENS, AUDIO SERMONS & BIBLE STUDIES KJB, UNAFFILIATED"
+    "description": "COVENTRY RI 02816 SM 10,SN 6,W 630 AWANA, RADIO, TEENS, AUDIO SERMONS & BIBLE STUDIES KJB, UNAFFILIATED"
   },
   {
     "id": "4285",
@@ -84,8 +84,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 40.9982,
-    "longitude": -72.6582,
+    "latitude": 41.7151,
+    "longitude": -71.1951,
     "phone": "(401) 568-5263",
     "website": "http://pcbcri.org",
     "pastor": "RANDY D LEWIS",
@@ -93,7 +93,7 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY D LEWIS. 111 CHURCH ST PASCOAG RI 02859 SM 10, SN 7, W 7 KJB, GIBF"
+    "description": "PASCOAG RI 02859 SM 10, SN 7, W 7 KJB, GIBF"
   },
   {
     "id": "4286",
@@ -106,13 +106,13 @@ export const rhodeislandChurches: Church[] = [
     "longitude": -71.8561,
     "phone": "(401) 766-8024",
     "website": "http://www.bvbcministries.org",
-    "pastor": "",
+    "pastor": "KJB, BBF",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "40 PINE SWAMP RD CUMBERLAND RI 02864 WOONSOCKET AREA SS 930,SM 11,SN 630,W 630 KINGS KIDS WED, LOV LADIES, AUDIO SERMONS; BLACKSTONE VALLEY CHRISTIAN ACADEMY K-12; NEEDS PASTOR KJB, BBF"
+    "description": "CUMBERLAND RI 02864 WOONSOCKET AREA SS 930,SM 11,SN 630,W 630 KINGS KIDS WED, LOV LADIES, AUDIO SERMONS; BLACKSTONE VALLEY CHRISTIAN ACADEMY K-12; NEEDS"
   },
   {
     "id": "4287",
@@ -121,8 +121,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 40.9521,
-    "longitude": -71.0234,
+    "latitude": 41.4175,
+    "longitude": -71.4934,
     "phone": "(401) 231-4796",
     "website": "http://www.gribt.com",
     "pastor": "GEORGE A WARREN",
@@ -130,7 +130,7 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE A WARREN. PO BOX 19006 JOHNSTON RI 02919 671 GREENVILLE AVE SS 945,SM 11,SN 6,W 7 DEAF, CHOIR, BUS, AUDIO SERMONS KJB, NEW ENGLAND-BC"
+    "description": "PO BOX 19006 JOHNSTON RI 02919 SS 945,SM 11,SN 6,W 7 DEAF, CHOIR, BUS, AUDIO SERMONS KJB, NEW ENGLAND-BC"
   },
   {
     "id": "4288",
@@ -139,8 +139,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.8334,
-    "longitude": -70.0919,
+    "latitude": 41.8092,
+    "longitude": -71.8384,
     "phone": "(401) 568-6051",
     "website": "http://newhoperi.org",
     "pastor": "ANDREW MCDADE",
@@ -148,17 +148,17 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW MCDADE. 65 S MAIN ST PASCOAG RI 02859 SS 10,SM 11,SN 630,W 630 TEXT MESSAGES KJB church."
+    "description": "PASCOAG RI 02859 SS 10,SM 11,SN 630,W 630 TEXT MESSAGES KJB church"
   },
   {
     "id": "4289",
     "name": "THE PILGRIMS WAY BAPTIST CHURCH",
-    "address": "27 CHASE HILL RD",
+    "address": "27 CHASE HILL RD ASHAWAY",
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 40.9483,
-    "longitude": -72.7545,
+    "latitude": 41.8413,
+    "longitude": -71.1074,
     "phone": "(401) 377-6077",
     "website": "https://www.pilgrimsbaptist.com",
     "pastor": "OBADIAH DESENT",
@@ -167,17 +167,17 @@ export const rhodeislandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by OBADIAH DESENT. 27 CHASE HILL RD ASHAWAY RI 02804 near WESTERLY SS 945,SM 11,SN 6,W 7 BUS, VIDEO SERMONS ONLINE KJB, UNAFFILIATED"
+    "description": "RI 02804 near WESTERLY SS 945,SM 11,SN 6,W 7 BUS, VIDEO SERMONS ONLINE KJB, UNAFFILIATED"
   },
   {
     "id": "4290",
     "name": "HISTORIC BAPTIST CHURCH",
-    "address": "220 W MAIN ST",
+    "address": "220 W MAIN ST NORTH KINGST",
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 42.0881,
-    "longitude": -72.3459,
+    "latitude": 41.7559,
+    "longitude": -71.4136,
     "phone": "(401) 294-9065",
     "website": "http://www.historicbaptist.org",
     "pastor": "PAUL CHAPLIN",
@@ -185,7 +185,7 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL CHAPLIN. 220 W MAIN ST NORTH KINGSTOWN RI 02852 SS 10,SM 11,SN 3,W 630,SAT 630 KJB, HAC"
+    "description": "OWN RI 02852 SS 10,SM 11,SN 3,W 630,SAT 630 KJB, HAC"
   },
   {
     "id": "4291",
@@ -194,8 +194,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 40.8034,
-    "longitude": -70.3742,
+    "latitude": 41.9685,
+    "longitude": -71.6308,
     "phone": "(401) 783-8179",
     "website": "http://www.curtiscornerbaptist.com",
     "pastor": "CARLOS ALAAN",
@@ -203,7 +203,7 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARLOS ALAAN. 591 CURTIS CORNER RD WAKEFIELD RI 02879 SS 9,SM 10,SN 6,W 7 KJB church."
+    "description": "WAKEFIELD RI 02879 SS 9,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "4292",
@@ -212,8 +212,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.5552,
-    "longitude": -70.6075,
+    "latitude": 41.2261,
+    "longitude": -71.1851,
     "phone": "(401) 846-4554",
     "website": "http://www.calvarybaptistri.com",
     "pastor": "",
@@ -230,8 +230,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 42.4628,
-    "longitude": -72.976,
+    "latitude": 41.2377,
+    "longitude": -71.4242,
     "phone": "",
     "website": "",
     "pastor": "MICHAEL SOKOLL",
@@ -240,17 +240,17 @@ export const rhodeislandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MICHAEL SOKOLL. NOT KJV ONLY, BBF KJB church."
+    "description": "NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "4294",
     "name": "PROVIDENCE BAPTIST CHURCH",
-    "address": "40 DUKE ST",
+    "address": "PO BOX 28455",
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.6284,
-    "longitude": -72.6841,
+    "latitude": 41.1326,
+    "longitude": -71.4576,
     "phone": "(401) 274-1016",
     "website": "",
     "pastor": "",
@@ -258,7 +258,7 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 28455 40 DUKE ST PROVIDENCE RI 02908"
+    "description": "40 DUKE ST PROVIDENCE RI 02908"
   },
   {
     "id": "4295",
@@ -267,8 +267,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 42.5737,
-    "longitude": -71.9381,
+    "latitude": 41.8667,
+    "longitude": -71.3533,
     "phone": "",
     "website": "",
     "pastor": "JIM SOLE",
@@ -276,17 +276,17 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM SOLE. SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, TULIP-S.GRACE, REFORMED KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, TULIP-S.GRACE, REFORMED KJB church"
   },
   {
     "id": "4296",
     "name": "QUIDNESSETT BAPTIST CHURCH",
-    "address": "6356 POST RD",
+    "address": "6356 POST RD NORTH KINGST",
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 42.1181,
-    "longitude": -71.9922,
+    "latitude": 41.7832,
+    "longitude": -71.4041,
     "phone": "(401) 884-9111",
     "website": "http://www.qbchurch.org",
     "pastor": "KEVIN MANSFIELD",
@@ -295,17 +295,17 @@ export const rhodeislandChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEVIN MANSFIELD. 6356 POST RD NORTH KINGSTON RI 02852 SM 9,SS 1030,SN 6,W 7 TV, SENIOR, CHOIR PREACH KJV, USE NKJV, ASB, NIV KJB church."
+    "description": "ON RI 02852 SM 9,SS 1030,SN 6,W 7 TV, SENIOR, CHOIR PREACH KJV, USE NKJV, ASB, NIV KJB church"
   },
   {
     "id": "4297",
     "name": "SHANNOCK BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 268",
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.9095,
-    "longitude": -70.342,
+    "latitude": 41.1773,
+    "longitude": -71.3377,
     "phone": "(401) 364-7015",
     "website": "http://www.shannockbaptist.org",
     "pastor": "ARCHIE P EMERSON",
@@ -314,7 +314,7 @@ export const rhodeislandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ARCHIE P EMERSON. PO BOX 268 SHANNOCK RI 02875 SS  9:30  SM  11  SN  6  W  7 CABLE TV, YOUTH, MONTHLY AT PROVIDENCE RESCUE MISSION, PRISON AT ACI, SUMMER CAMP NOT KJV ONLY,BBF, BBC-MO, CCM KJB church."
+    "description": "SHANNOCK RI 02875 SS 9:30 SM 11 SN 6 W 7 CABLE TV, YOUTH, MONTHLY AT PROVIDENCE RESCUE MISSION, PRISON AT ACI, SUMMER CAMP NOT KJV ONLY,BBF, BBC-MO, CCM KJB church"
   },
   {
     "id": "4298",
@@ -323,8 +323,8 @@ export const rhodeislandChurches: Church[] = [
     "city": "Providence",
     "state": "RI",
     "zipCode": "",
-    "latitude": 41.9077,
-    "longitude": -72.2022,
+    "latitude": 41.8577,
+    "longitude": -71.5275,
     "phone": "(401) 231-1980",
     "website": "http://www.osbc.org",
     "pastor": "",
@@ -332,6 +332,6 @@ export const rhodeislandChurches: Church[] = [
     "affiliation": [
       "SBC"
     ],
-    "description": "600 DOUGLAS PK SMITHFIELD RI 02917 SS 10,SM 11,SN 6,W 730 DEAF, YOUTH, TEEN SBC church."
+    "description": "600 DOUGLAS PK SMITHFIELD RI 02917 SS 10,SM 11,SN 6,W 730 DEAF, YOUTH, TEEN SBC church"
   }
 ];

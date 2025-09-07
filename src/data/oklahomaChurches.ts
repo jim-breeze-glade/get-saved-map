@@ -17,7 +17,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN HECKLE. 1410 SHELLEY AVE CLINTON OK 73601 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
+    "description": "CLINTON OK 73601 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
   },
   {
     "id": "3873",
@@ -35,7 +35,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL GENTRY. 112 W GENTRY HENRYETTA OK 74437 SS 10,SM 11,SN 5,W 7 KJB, HBBC"
+    "description": "112 W GENTRY HENRYETTA OK 74437 SS 10,SM 11,SN 5,W 7 KJB, HBBC"
   },
   {
     "id": "3874",
@@ -53,12 +53,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CORLEY. 8611 E 21ST ST TULSA OK 74129 SM 1030,SN 6,W 7 KJB church."
+    "description": "TULSA OK 74129 SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3875",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "10088 N LARK RD",
+    "address": "10088 N LARK RD WEATHERFORD",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "10088",
@@ -72,7 +72,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHAD HANDY. 10088 N LARK RD WEATHERFORD OK 73096 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "OK 73096 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3876",
@@ -91,7 +91,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RUSS BISHOP. 1600 E NORTH ST CUSHING OK 74023 SS 10,SM 11,SN 630,W 7 SUNDAY SCHOOL 510 FRONT ST KJB, HBBC, GIBF"
+    "description": "CUSHING OK 74023 SS 10,SM 11,SN 630,W 7 SUNDAY SCHOOL 510 FRONT ST KJB, HBBC, GIBF"
   },
   {
     "id": "3877",
@@ -104,13 +104,13 @@ export const oklahomaChurches: Church[] = [
     "longitude": -96.3423,
     "phone": "(405) 760-5159",
     "website": "http://www.lighthousebaptistchurchedmond.com",
-    "pastor": "",
+    "pastor": "KJB, GIBF",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "3717 N BRYANT AVE EDMOND OK 73034 SM 1030, SN 6, W 7 SOULWINNING, SENIORS, COLLEGE CAREER IN SEARCH OF A PASTOR KJB, GIBF"
+    "description": "EDMOND OK 73034 SM 1030, SN 6, W 7 SOULWINNING, SENIORS, COLLEGE CAREER IN SEARCH OF A"
   },
   {
     "id": "3878",
@@ -128,7 +128,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN NEWPORT. 21953 N COUNTY RD 3250 PAULS VALLEY OK 73075 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
+    "description": "PAULS VALLEY OK 73075 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
   },
   {
     "id": "3879",
@@ -146,7 +146,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES MORGAN. 1112 W GRAND AVE PONCA CITY OK 74601 SS 915,SM 1030,SN 6,W 6 BUS, TEEN CHURCH WED, CHARACTER KIDS WED, MEN’S NIGHT ON 3RD TUE, LADIES BIBLE STUDY FELLOWSHIP ON 1ST TUE, AUDIO SERMONS KJB church."
+    "description": "PONCA CITY OK 74601 SS 915,SM 1030,SN 6,W 6 BUS, TEEN CHURCH WED, CHARACTER KIDS WED, MEN’S NIGHT ON 3RD TUE, LADIES BIBLE STUDY FELLOWSHIP ON 1ST TUE, AUDIO SERMONS KJB church"
   },
   {
     "id": "3880",
@@ -166,7 +166,7 @@ export const oklahomaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KEITH CROSS. 26858 E 121ST ST S COWETA OK 74429 SS 930, SM 1030, SN 6, W 7 SOULWINNING, VISITATION, NURSERY, YOUNG MARRIED, SENIORS, YOUTH, MISSIONS KJB, UNAFFILIATED"
+    "description": "COWETA OK 74429 SS 930, SM 1030, SN 6, W 7 SOULWINNING, VISITATION, NURSERY, YOUNG MARRIED, SENIORS, YOUTH, MISSIONS KJB, UNAFFILIATED"
   },
   {
     "id": "3881",
@@ -184,7 +184,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK MACQUEEN. 8124 E 126TH ST S BIXBY OK 74008 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
+    "description": "BIXBY OK 74008 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
   },
   {
     "id": "3882",
@@ -203,12 +203,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GERONIMO DE LEON. 14108 US 177 SHAWNEE OK 74801 KJB, UNAFFILIATED PO BOX 531 CHANDLER OK 74834 PHYSICAL ADDRESS 403 N INDUSTRIAL RD CHANDLER OK 74834 SS 10, SM 11, SN 6, W 7 KJB, HBBC"
+    "description": "14108 US 177 SHAWNEE OK 74801 KJB, UNAFFILIATED PO BOX 531 CHANDLER OK 74834 PHYSICAL ADDRESS CHANDLER OK 74834 SS 10, SM 11, SN 6, W 7 KJB, HBBC"
   },
   {
     "id": "3883",
     "name": "SUBURBAN BAPTIST CHURCH",
-    "address": "424 E MAIN ST",
+    "address": "7 FAITH BIBLE INST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -222,7 +222,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOE GROOMS. 424 E MAIN ST MOORE OK 73160 SS 945,SM 1045,SN 6,W 7 FAITH BIBLE INSTITUTE KJB, UNAFFILIATED"
+    "description": "MOORE OK 73160 SS 945,SM 1045,SN 6,W ITUTE KJB, UNAFFILIATED"
   },
   {
     "id": "3884",
@@ -240,7 +240,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD W WHITE. 700 N TUCKER AVE SHAWNEE OK 74801 SS 945,SM 1045,SN 630,W 630 KJB, PRE-MIL, PRE-TRIB"
+    "description": "SHAWNEE OK 74801 SS 945,SM 1045,SN 630,W 630 KJB, PRE-MIL, PRE-TRIB"
   },
   {
     "id": "3885",
@@ -260,7 +260,7 @@ export const oklahomaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by BRIAN TAYLOR. 23 E WELLS BLVD SAPULPA OK 74066 SS 945, SM 1050, SN 630, W 7 AUDIO SERMONS KJB, UNAFFILIATED, HBBC"
+    "description": "SAPULPA OK 74066 SS 945, SM 1050, SN 630, W 7 AUDIO SERMONS KJB, UNAFFILIATED, HBBC"
   },
   {
     "id": "3886",
@@ -279,12 +279,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID PRESSON. 2015 N SARA RD YUKON OK 73099 SS 930,SM 1045,SN 6,W 7 SOULWINNING, CHOIR, YOUTH, NURSERY, FELLOWSHIP, VIDEO SERMONS & MUSIC KJB church."
+    "description": "YUKON OK 73099 SS 930,SM 1045,SN 6,W 7 SOULWINNING, CHOIR, YOUTH, NURSERY, FELLOWSHIP, VIDEO SERMONS & MUSIC KJB church"
   },
   {
     "id": "3887",
     "name": "OLD PATHWAY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 401",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -298,7 +298,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by AARON HAWN. PO BOX 401 607 HWY 270 W (WISTER LAKE RD) HEAVENER OK 74937 SS 10,SM 11,SN 530,W 7,SOULWINNING TH 6 KJB, HBBC"
+    "description": "607 HWY 270 W (WISTER LAKE RD) HEAVENER OK 74937 SS 10,SM 11,SN 530,W 7,SOULWINNING TH 6 KJB, HBBC"
   },
   {
     "id": "3888",
@@ -316,7 +316,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN SCHEXNAYDER. 11271 HWY 76 HEALDTON OK 73438 KJB church."
+    "description": "11271 HWY 76 HEALDTON OK 73438 KJB church"
   },
   {
     "id": "3889",
@@ -335,12 +335,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by J D STEELMAN. PO BOX 1056 3333 E TUXEDO BLVD BARTLESVILLE OK 74005 SS 945, SM 11, SN 530, W 7 1670 SR 123 BARTLESVILLE OK 74006 SS 10,SM 11,SN 630,W 630 AUDIO SERMONS KJB, HBBC"
+    "description": "PO BOX 1056 BARTLESVILLE OK 74005 SS 945, SM 11, SN 530, W 7 1670 SR 123 BARTLESVILLE OK 74006 SS 10,SM 11,SN 630,W 630 AUDIO SERMONS KJB, HBBC"
   },
   {
     "id": "3890",
     "name": "NEW TESTAMENT BAPTIST CHURCH",
-    "address": "101 SW 4TH ST",
+    "address": "516 W PARK PLACE DR MUST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -354,7 +354,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BEN SHAIN. 101 SW 4TH ST TUTTLE OK 73089 SS 10, SM 11, SN 6, W 7 SOULWINNING, VICTORY KIDS 516 W PARK PLACE DR MUSTANG OK 73064 SS 10 SM 11,SN 6,W 7 BUS, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS KJB church."
+    "description": "101 SW 4TH ST TUTTLE OK 73089 SS 10, SM 11, SN 6, W 7 SOULWINNING, VICTORY KIDS ANG OK 73064 SS 10 SM 11,SN 6,W 7 BUS, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS KJB church"
   },
   {
     "id": "3891",
@@ -372,7 +372,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SVEN LARSON. 821 GIBSON ST MUSKOGEE OK 74403 KJB church."
+    "description": "MUSKOGEE OK 74403 KJB church"
   },
   {
     "id": "3892",
@@ -391,7 +391,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVEN MEIER. 2501 S BROADWAY MOORE OK 73160 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING KJB church."
+    "description": "MOORE OK 73160 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING KJB church"
   },
   {
     "id": "3893",
@@ -411,7 +411,7 @@ export const oklahomaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by BRIAN SCHEXNAYDER. 1225 N WASHINGTON ST ENID OK 73701 SS 10,SM 11,SN 6,W 7 KINGS KIDS, TV 3333 E TUXEDO BLVD BARTLESVILLE OK 74006 SS 945, SM 11, SN 530, W 7 KJB, HBBC 1000 N GRAND AVE OKMULGEE OK 74447 KJB, UNAFFILIATE"
+    "description": "ENID OK 73701 SS 10,SM 11,SN 6,W 7 KINGS KIDS, TV 3333 E TUXEDO BLVD BARTLESVILLE OK 74006 SS 945, SM 11, SN 530, W 7 KJB, HBBC 1000 N GRAND AVE OKMULGEE OK 74447 KJB, UNAFFILIATE"
   },
   {
     "id": "3894",
@@ -431,7 +431,7 @@ export const oklahomaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by ROGER T DUNN. PO BOX 81 16401 N LUTHER RD LUTHER OK 73054 SS 10,SM 11,SN 6,W 7 KJB, NO-CCM, UNAFFILIATED PO BOX 488 1102 CEDAR ST PERRY OK 73077 SS 945,SM 1030,SN 600,W 7"
+    "description": "PO BOX 81 LUTHER OK 73054 SS 10,SM 11,SN 6,W 7 KJB, NO-CCM, UNAFFILIATED PO BOX 488 1102 CEDAR ST PERRY OK 73077 SS 945,SM 1030,SN 600,W 7"
   },
   {
     "id": "3895",
@@ -449,7 +449,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHIP PINKERTON. 1517 E COUNTRY CLUB DR VINITA, OK 74301 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "VINITA, OK 74301 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "3896",
@@ -470,12 +470,12 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by CHUCK PATTERSON. ROUTE 2 BOX 725 BROKEN BOW OK 74728 LUKFATA COMMUNITY SS 10,SM 1045,SN 6, KJB, BBFI, GIBF, HBBC PO BOX 822 1102 S 13TH ST CHICKASHA OK 73023 SS 945,SM 1045,SN 6,W 7 SEASONED SAINTS, LIFEBUILDERS, KIDZ"
+    "description": "ROUTE 2 BOX 725 BROKEN BOW OK 74728 LUKFATA COMMUNITY SS 10,SM 1045,SN 6, KJB, BBFI, GIBF, HBBC PO BOX 822 CHICKASHA OK 73023 SS 945,SM 1045,SN 6,W 7 SEASONED SAINTS, LIFEBUILDERS, KIDZ"
   },
   {
     "id": "3897",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "126 K ST NW",
+    "address": "1515 EASLEY DR ARD",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -483,13 +483,13 @@ export const oklahomaChurches: Church[] = [
     "longitude": -96.988,
     "phone": "(580) 223-6488",
     "website": "http://bbcardmore.com",
-    "pastor": "TRACY CURINGTON",
+    "pastor": "ARDMORE OK 73401 SS 10,SM 11,SN 7,W 630 THURSDAY & SATURDAY SOULWINNING, PROSPECT TEAM, KINGS KIDS, BUS CARING HE KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TRACY CURINGTON. 126 K ST NW ARDMORE OK 73401 SS 945, SM 11, SN 6, W 6 MUSIC, YOUTH, BUS 1515 EASLEY DR ARDMORE OK 73401 SS 10,SM 11,SN 7,W 630 THURSDAY & SATURDAY SOULWINNING, PROSPECT TEAM, KINGS KIDS, BUS CARING HE KJB church."
+    "description": "MORE OK 73401 SS 945, SM 11, SN 6, W 6 MUSIC, YOUTH, BUS MORE OK 73401 SS 10,SM 11,SN 7,W 630 THURSDAY & SATURDAY SOULWINNING, PROSPECT TEAM, KINGS KIDS, BUS CARING HE KJB church"
   },
   {
     "id": "3898",
@@ -507,12 +507,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID ALLEN.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3899",
     "name": "GRACE BAPTIST TEMPLE",
-    "address": "",
+    "address": "2810 MOUNT WASHINGTON ARD",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -526,7 +526,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ERIC KOONS. 2810 MOUNT WASHINGTON ARDMORE OK 73401 KJB,UNAFFILIATED"
+    "description": "MORE OK 73401 KJB,UNAFFILIATED"
   },
   {
     "id": "3900",
@@ -545,7 +545,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE MARTINEZ. 32 S ADAIR PRYOR OK 74361 SS 945,SM 1045,SN 6,W 7 PATCH PIRATE 1717 S CHICKASAW PAULS VALLEY OK 73075 KJB, BBF"
+    "description": "32 S ADAIR PRYOR OK 74361 SS 945,SM 1045,SN 6,W 7 PATCH PIRATE 1717 S CHICKASAW PAULS VALLEY OK 73075 KJB, BBF"
   },
   {
     "id": "3901",
@@ -564,7 +564,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DENNIS MEADOR JR. PO BOX 184 1906 W MAPLE ST COLLINSVILLE OK 74021 1906 W MAPLE ST & 19TH (FUTURE LOCATION) 13300 E 136 ST N SS 10,SM 1055,SN 6,W 7 AWANA,FPM KJB church."
+    "description": "PO BOX 184 COLLINSVILLE OK 74021 & 19TH (FUTURE LOCATION) 13300 E 136 ST N SS 10,SM 1055,SN 6,W 7 AWANA,FPM KJB church"
   },
   {
     "id": "3902",
@@ -583,7 +583,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DR JOE C HOCKING. 7525 N PEORIA AVE TULSA OK 74126 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, IBC-FORT WORTH"
+    "description": "TULSA OK 74126 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, IBC-FORT WORTH"
   },
   {
     "id": "3903",
@@ -601,7 +601,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LITTLE BEAVER WILDCAT. 3501 SE 59TH OKLAHOMA CITY OK 73135 SS 945,SM 1050,SN 6,W 7 CHOIR,TEEN KJB church."
+    "description": "3501 SE 59TH OKLAHOMA CITY OK 73135 SS 945,SM 1050,SN 6,W 7 CHOIR,TEEN KJB church"
   },
   {
     "id": "3904",
@@ -619,7 +619,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by T J WILLINGHAM. 409 S BLUFF AVE TAHLEQUAH OK 74464 KJB church."
+    "description": "TAHLEQUAH OK 74464 KJB church"
   },
   {
     "id": "3905",
@@ -637,12 +637,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHUCK BASCUE. 1200 S PARK LANE ALTUS OK 73521 SS 945,SM 11,SN 6,W 7 ALTUS AFB KJB, OBC"
+    "description": "ALTUS OK 73521 SS 945,SM 11,SN 6,W 7 ALTUS AFB KJB, OBC"
   },
   {
     "id": "3906",
     "name": "PIONEER BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 3004",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -655,7 +655,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 3004 519 W FARRALL SHAWNEE OK 74802-3004 SS 10,SM 11,SN 6,W 7 TINKER AFB 30 MINS KJB, GRAY, MAY"
+    "description": "519 W FARRALL SHAWNEE OK 74802-3004 SS 10,SM 11,SN 6,W 7 TINKER AFB 30 MINS KJB, GRAY, MAY"
   },
   {
     "id": "3907",
@@ -675,7 +675,7 @@ export const oklahomaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CLAYTON STEVICKS. PO BOX 532 104 N 49TH AVE DURANT OK 74072 SS 10,SM 11,SN 6,W 7 BUS, DEAF, SOULWINNING; WESTSIDE BAPTIST ACADEMY, K5-12, LANDMARK FREEDOM CURR; KJB, UNAFFILIATED"
+    "description": "PO BOX 532 DURANT OK 74072 SS 10,SM 11,SN 6,W 7 BUS, DEAF, SOULWINNING; WESTSIDE BAPTIST ACADEMY, K5-12, LANDMARK FREEDOM CURR; KJB, UNAFFILIATED"
   },
   {
     "id": "3908",
@@ -693,7 +693,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM VINEYARD. 905 W RUSH ENID OK 73701 KJB church."
+    "description": "905 W RUSH ENID OK 73701 KJB church"
   },
   {
     "id": "3909",
@@ -713,7 +713,7 @@ export const oklahomaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by TIM TAYLOR. 6810 NW 122ND ST OKLAHOMA CITY OK 73142 SS 945,SM 11,SN 6,W 730 VIDEO SERMONS ONLINE, BUS, YOUTH, TEEN, MISSIONS; HIGHER PLAIN CHRISTIAN ACADEMY, K-12; OKLAHOMA BAPTIST COLLEGE KJB, UNAFFILIATED"
+    "description": "OKLAHOMA CITY OK 73142 SS 945,SM 11,SN 6,W 730 VIDEO SERMONS ONLINE, BUS, YOUTH, TEEN, MISSIONS; HIGHER PLAIN CHRISTIAN ACADEMY, K-12; OKLAHOMA BAPTIST COLLEGE KJB, UNAFFILIATED"
   },
   {
     "id": "3910",
@@ -732,7 +732,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID PRESSON. 8801 NE 13TH ST MIDWEST CITY OK 73110 OKLAHOMA CITY AREA SS 10,SM 11,SN 630,W 715 BUS, BIBLE CLUB, TEEN CHURCH; AUDIO SERMONS PO BOX 401 607 HWY 270 W (WISTER LAKE RD) HEAVENER OK 74937 SS 10,SM 11,SN KJB church."
+    "description": "MIDWEST CITY OK 73110 OKLAHOMA CITY AREA SS 10,SM 11,SN 630,W 715 BUS, BIBLE CLUB, TEEN CHURCH; AUDIO SERMONS PO BOX 401 607 HWY 270 W (WISTER LAKE RD) HEAVENER OK 74937 SS 10,SM 11,SN KJB church"
   },
   {
     "id": "3911",
@@ -751,12 +751,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MORRIS FREEMAN. 9713 N COUNTY LINE RD YUKON OK 73099 OKLAHOMA CITY AREA SS 930,SM 1045,SN 6,W 7 CHOIR, AWANA; HARVEST HILLS CHRISTIAN SCHOOL, PS-12; 1018 W B AVE ELK CITY OK 73644-4114 SS 10,SM 11,SN 6,W 7 KJB, BBF P"
+    "description": "YUKON OK 73099 OKLAHOMA CITY AREA SS 930,SM 1045,SN 6,W 7 CHOIR, AWANA; HARVEST HILLS CHRISTIAN SCHOOL, PS-12; 1018 W B AVE ELK CITY OK 73644-4114 SS 10,SM 11,SN 6,W 7 KJB, BBF P"
   },
   {
     "id": "3912",
     "name": "TRINITY BIBLE BAPTIST CHURCH",
-    "address": "1229 S CHOCTAW RD",
+    "address": "1229 S CHOCTAW RD CHOCT",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -769,7 +769,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMOTHY PETTIT. PO BOX 248 1229 S CHOCTAW RD CHOCTAW OK 73020 KJB church."
+    "description": "PO BOX 248 AW OK 73020 KJB church"
   },
   {
     "id": "3913",
@@ -787,7 +787,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK WILLIAMS. 2728 S PORTLAND AVE OKLAHOMA CITY OK 73108 SM 11,SN 7, W 730 1009 BLACK RD HWY 81 S MARLOW OK 73055 KJB, HBBC PO BOX 608 1440 S COUNTRY CLUB EL RENO OK 73036 SS 10,SM 11,SN 6,W 7"
+    "description": "OKLAHOMA CITY OK 73108 SM 11,SN 7, W 730 1009 BLACK RD HWY 81 S MARLOW OK 73055 KJB, HBBC PO BOX 608 1440 S COUNTRY CLUB EL RENO OK 73036 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "3914",
@@ -807,7 +807,7 @@ export const oklahomaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by BOB WEGER. 3786 N PORTER NORMAN OK 73071 SS 10,SM 11,SN 6,W 730 SOULWINNING KJB, BBFI, SOUTHWIDE, GIBF 7501 SW LEE BLVD LAWTON OK 73501 SS 945,SM 830 & 1045,SN 6,W 7 KJB,BBFI"
+    "description": "3786 N PORTER NORMAN OK 73071 SS 10,SM 11,SN 6,W 730 SOULWINNING KJB, BBFI, SOUTHWIDE, GIBF LAWTON OK 73501 SS 945,SM 830 & 1045,SN 6,W 7 KJB,BBFI"
   },
   {
     "id": "3915",
@@ -827,7 +827,7 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by TROY DORRELL. 5304 S 33RD W AVE TULSA OK 74107 SS 945,SM 1045,SN 5,W 7 KINGS KIDS KJB, BBFI"
+    "description": "TULSA OK 74107 SS 945,SM 1045,SN 5,W 7 KINGS KIDS KJB, BBFI"
   },
   {
     "id": "3916",
@@ -847,7 +847,7 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by T A CHICK. 1835 S 129TH E AVE TULSA OK 74108 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED 309 N 11TH ST ENID OK 73701 CORNER OF 11TH AND E MAPLE SS 10,SM 1050,SN 6,W 7 BUS, ASSISTED LIVING, PRISON, CL"
+    "description": "TULSA OK 74108 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED 309 N 11TH ST ENID OK 73701 CORNER OF 11TH AND E MAPLE SS 10,SM 1050,SN 6,W 7 BUS, ASSISTED LIVING, PRISON, CL"
   },
   {
     "id": "3917",
@@ -865,7 +865,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ETHAN COLE. 6901 E 91ST ST TULSA OK 74133 SS 945,SM 11,SN 6,W 7 AWANA, CHOIR, MEN FOR MISSIONS, LACE KJB church."
+    "description": "TULSA OK 74133 SS 945,SM 11,SN 6,W 7 AWANA, CHOIR, MEN FOR MISSIONS, LACE KJB church"
   },
   {
     "id": "3918",
@@ -883,7 +883,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUSSELL M TUCK. 5801 S AGNEW OKLAHOMA CITY OK 73119 KJB, HAC, VINEYARD RR 3 BOX 180 MARLOW OK 73533 3 MILE NORTH OF DUNCAN ON HWY 81 AT THE DUNCAN BYPASS SS 10,SM 11,SN 6,W 7 FT SILL"
+    "description": "5801 S AGNEW OKLAHOMA CITY OK 73119 KJB, HAC, VINEYARD RR 3 BOX 180 MARLOW OK 73533 3 MILE NORTH OF DUNCAN ON HWY 81 AT THE DUNCAN BYPASS SS 10,SM 11,SN 6,W 7 FT SILL"
   },
   {
     "id": "3919",
@@ -902,7 +902,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID STORY. RT 2 BOX 189 3299 HWY 412E WATTS OK 74964 SILOAM SPRINGS OK 72761 KJB, UNAFFILIATED, HBBC 24601 N WESTERN EDMOND OK 73003 SS 945,SM 1045,SN 6,W 7 TINKER AFB"
+    "description": "RT 2 BOX 189 3299 HWY 412E WATTS OK 74964 SILOAM SPRINGS OK 72761 KJB, UNAFFILIATED, HBBC EDMOND OK 73003 SS 945,SM 1045,SN 6,W 7 TINKER AFB"
   },
   {
     "id": "3920",
@@ -922,7 +922,7 @@ export const oklahomaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by DANNY HARRIS. 5043 S FULTON TULSA OK 74134 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS PO BOX 381 200 5TH ST TALIHINA OK 74571 SS 10,SM 11,SN 5,W 7 KJB, UNAFFILIATED"
+    "description": "5043 S FULTON TULSA OK 74134 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS PO BOX 381 TALIHINA OK 74571 SS 10,SM 11,SN 5,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3921",
@@ -940,7 +940,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM TURK. 3313 NW 32ND ST NEWCASTLE OK 73065 SS 930,SM 1045,SN 6 (1SUN 130),W 730 KJB church."
+    "description": "NEWCASTLE OK 73065 SS 930,SM 1045,SN 6 (1SUN 130),W 730 KJB church"
   },
   {
     "id": "3922",
@@ -959,7 +959,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DR PHILIP KOPYSCINSKI. PO BOX 15175 4101 THOMAS DR DEL CITY OK 73115 SS 10, SM 11, SN 6, W 7 TINKER AFB 3 MILES KJB, UNAFFILIATED"
+    "description": "PO BOX 15175 DEL CITY OK 73115 SS 10, SM 11, SN 6, W 7 TINKER AFB 3 MILES KJB, UNAFFILIATED"
   },
   {
     "id": "3923",
@@ -978,7 +978,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ZACH KLASSEN. 1845 S COUNCIL RD, HWY 76 NEWCASTLE OK 73065 SS 945,SM 1045,SN 6,W 730 4316 E 96TH ST N SPERRY OK 74073 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1300 SW 54TH ST OKLAHOMA CITY OK 73119 SS 945,SM 1045,SN"
+    "description": "HWY 76 NEWCASTLE OK 73065 SS 945,SM 1045,SN 6,W 730 4316 E 96TH ST N SPERRY OK 74073 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1300 SW 54TH ST OKLAHOMA CITY OK 73119 SS 945,SM 1045,SN"
   },
   {
     "id": "3924",
@@ -996,12 +996,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "1732 E COLEMAN RD PONCA CITY OK 74601 SS 930,SM 1030,SN 6,W 7 TEEN, AWANA, KEENAGERS, AUDIO SERMONS KJB, HAC"
+    "description": "PONCA CITY OK 74601 SS 930,SM 1030,SN 6,W 7 TEEN, AWANA, KEENAGERS, AUDIO SERMONS KJB, HAC"
   },
   {
     "id": "3925",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "",
+    "address": "100 W ST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1015,12 +1015,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICKEY HOLLARS. RR 1 BOX 78B HWY 100 W STILWELL OK 74960 KJB, UNAFFILIATED"
+    "description": "RR 1 BOX 78B HWY ILWELL OK 74960 KJB, UNAFFILIATED"
   },
   {
     "id": "3926",
     "name": "ADA BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 2115",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1036,7 +1036,7 @@ export const oklahomaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by ROBERT HOWARD. PO BOX 2115 301 NAPIER ADA OK 74820 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS, YOUTH, SPECIAL NEEDS, OTHERS, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "301 NAPIER ADA OK 74820 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS, YOUTH, SPECIAL NEEDS, OTHERS, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3927",
@@ -1055,7 +1055,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN HOOS. 16404 E HWY 20 CLAREMORE OK 74019 SS 10, SM 11, SN 6, W 630 KJB,UNAFFILIATED PO BOX 546 821 E 141 ST GLENPOOL OK 74033 SS 10,SM 11,SN 6, W 7"
+    "description": "16404 E HWY 20 CLAREMORE OK 74019 SS 10, SM 11, SN 6, W 630 KJB,UNAFFILIATED PO BOX 546 GLENPOOL OK 74033 SS 10,SM 11,SN 6, W 7"
   },
   {
     "id": "3928",
@@ -1074,7 +1074,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILL R HOLCOMB. 119 WADDLE ST POTEAU OK 74953 SS 10,SM 11,SN 6,W 7 BUS, YOUTH, SPANISH KJB, BBF"
+    "description": "POTEAU OK 74953 SS 10,SM 11,SN 6,W 7 BUS, YOUTH, SPANISH KJB, BBF"
   },
   {
     "id": "3929",
@@ -1087,17 +1087,17 @@ export const oklahomaChurches: Church[] = [
     "longitude": -97.1751,
     "phone": "(918) 456-5010",
     "website": "https://blessedhopetahlequah.com",
-    "pastor": "MARK WESLEY",
+    "pastor": "2013 PO BOX 815 111 SE “E” ST ANTLERS OK 74523 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK WESLEY. PO BOX 1062 17119 W 782 RD TAHLEQUAH OK 74465 SS 10,SM 11 PO BOX 703 2405 HWY 70 E DURANT OK 74072 SS 945,SM 1045,SN 6,W 7 NEW PASTOR 2013 PO BOX 815 111 SE “E” ST ANTLERS OK 74523 KJB church."
+    "description": "PO BOX 1062 TAHLEQUAH OK 74465 SS 10,SM 11 PO BOX 703 2405 HWY 70 E DURANT OK 74072 SS 945,SM 1045,SN 6,W 7 NEW"
   },
   {
     "id": "3930",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "1410 SHELLEY AVE",
+    "address": "317 E VIRGINIA AVE",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1112,12 +1112,12 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by J R TAYLOR. PO BOX 5184 1410 SHELLEY AVE CLINTON OK 73601 KJB, UNAFFILIATED 317 E VIRGINIA AVE WALTERS OK 73572 SS 10,SM 1050,SN 630,W 730 FT SILL S 24 MILES,SHEPHERD 35 MILES N KJB, IFBI, BBF PO BOX 933 1704 OKL"
+    "description": "PO BOX 5184 CLINTON OK 73601 KJB, UNAFFILIATED WALTERS OK 73572 SS 10,SM 1050,SN 630,W 730 FT SILL S 24 MILES,SHEPHERD 35 MILES N KJB, IFBI, BBF PO BOX 933 1704 OKL"
   },
   {
     "id": "3931",
     "name": "NEW HAVEN BIBLE BAPTIST CHURCH",
-    "address": "55 NE 1ST",
+    "address": "PO BOX 1264",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1131,7 +1131,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHUCK MUNSON. PO BOX 1264 KREBS OK 74554 55 NE 1ST MCALESTER OK 74501 KJB, UNAFFILIATED"
+    "description": "KREBS OK 74554 55 NE 1ST MCALESTER OK 74501 KJB, UNAFFILIATED"
   },
   {
     "id": "3932",
@@ -1149,12 +1149,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON DIEHL. PO BOX 1865 1207 W EDMOND RD EDMOND OK 73003 SS 945,SM 1050,SN 6,W 7 SPANISH, LIGHT BRIGADE, AUDIO SERMONS, PROPHETS CHAMBER, TRANSPORTATION AVAILABLE KJB church."
+    "description": "PO BOX 1865 EDMOND OK 73003 SS 945,SM 1050,SN 6,W 7 SPANISH, LIGHT BRIGADE, AUDIO SERMONS, PROPHETS CHAMBER, TRANSPORTATION AVAILABLE KJB church"
   },
   {
     "id": "3933",
     "name": "AMAZING GRACE BAPTIST CHURCH",
-    "address": "216 S MAIN ST",
+    "address": "513 N RIDGEWAY ST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1170,7 +1170,7 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by DAVID ZIMMERMAN. 216 S MAIN ST SAPULPA OK 74066 dondiehl@sbcglobal SS 930,SM 1040,SN 630,TH 630 KJB, HBBC, WEST COAST 513 N RIDGEWAY ST SAPULPA OK 74066 SS 10, SM 11, SN 6, W 7 BUS, SOULWINNING KJB, HBBC PO BOX 1986 E"
+    "description": "SAPULPA OK 74066 dondiehl@sbcglobal SS 930,SM 1040,SN 630,TH 630 KJB, HBBC, WEST COAST SAPULPA OK 74066 SS 10, SM 11, SN 6, W 7 BUS, SOULWINNING KJB, HBBC PO BOX 1986 E"
   },
   {
     "id": "3934",
@@ -1189,12 +1189,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEREMY TAYLOR. 400 W VANDAMENT AVE YUKON OK 73099 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED 3012 W ELK AVE DUNCAN OK 73533"
+    "description": "YUKON OK 73099 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED 3012 W ELK AVE DUNCAN OK 73533"
   },
   {
     "id": "3935",
     "name": "BROKEN ARROW BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 1197",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1209,7 +1209,7 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by ROBERT C WILLIAMS. PO BOX 1197 2701 E ALBANY BROKEN ARROW OK 74013 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB,BBFI"
+    "description": "2701 E ALBANY BROKEN ARROW OK 74013 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB,BBFI"
   },
   {
     "id": "3936",
@@ -1228,12 +1228,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ISAAC W FARNSWORTH. 1504 CLEVELAND ST IDABEL OK 74745 KJB, UNAFFILIATED PO BOX 953 2 MILES S OF KINGFISHER ON US 81 S KINGFISHER OK 73740 SS 945,SM 1045,SN 6,W 730 VANCE AFB 30 MILES KJB, HBBC"
+    "description": "IDABEL OK 74745 KJB, UNAFFILIATED PO BOX 953 2 MILES S OF KINGFISHER ON US 81 S KINGFISHER OK 73740 SS 945,SM 1045,SN 6,W 730 VANCE AFB 30 MILES KJB, HBBC"
   },
   {
     "id": "3937",
     "name": "VICTORY BAPTIST TEMPLE",
-    "address": "8627 E MAIN ST",
+    "address": "8627 E MAIN ST MIDWEST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1246,7 +1246,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by VANCE HASKINS. PO BOX 10893 8627 E MAIN ST MIDWEST CITY OK 73110 BUS, DISCOVERY PROGRAM, TAPE/CD, PRISON, REFORMERS UNANIMOUS, YOUNG MARRIED, SINGLES, YOUTH GROUP, PAINTBALL, JR CHURCH, NURSERY"
+    "description": "PO BOX 10893 CITY OK 73110 BUS, DISCOVERY PROGRAM, TAPE/CD, PRISON, REFORMERS UNANIMOUS, YOUNG MARRIED, SINGLES, YOUTH GROUP, PAINTBALL, JR CHURCH, NURSERY"
   },
   {
     "id": "3938",
@@ -1264,7 +1264,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BRENT MOREY. 23038 CR 1379 ANADARKO OK 73005 1600 N 15TH ST FREDERICK OK 73542 SS 10,SM 11,SN 630,W 7 BBF church."
+    "description": "23038 CR 1379 ANADARKO OK 73005 FREDERICK OK 73542 SS 10,SM 11,SN 630,W 7 BBF church"
   },
   {
     "id": "3939",
@@ -1282,7 +1282,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by HAROLD HOLT. PO BOX 1423 333 S WASHINGTON ST PONCA CITY OK 74602 PO BOX 1345 415 E 12TH ADA OK 74820 SS 10,SM 11,SN 6,W 6 3661 120TH AVE SE NORMAN OK 73070 SS 945,SM 11,SN 6,W 7 PO BOX 726 10 NW 5TH ST PRYOR OK 74 BBF church."
+    "description": "PO BOX 1423 PONCA CITY OK 74602 PO BOX 1345 415 E 12TH ADA OK 74820 SS 10,SM 11,SN 6,W 6 3661 120TH AVE SE NORMAN OK 73070 SS 945,SM 11,SN 6,W 7 PO BOX 726 10 NW 5TH ST PRYOR OK 74 BBF church"
   },
   {
     "id": "3940",
@@ -1300,7 +1300,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by NEWEL J POTEET. 525 M ST NW MIAMI OK 74354"
+    "description": "MIAMI OK 74354"
   },
   {
     "id": "3941",
@@ -1318,7 +1318,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by GUY MORROW. RR 2 BOX 260-1 24826 S 470 RD TAHLEQUAH OK 74464 SW OF CITY"
+    "description": "RR 2 BOX 260-1 TAHLEQUAH OK 74464 SW OF CITY"
   },
   {
     "id": "3942",
@@ -1336,12 +1336,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by VAN HECKLE. PO BOX 935 FORD RD GROVE OK 74344 709 N ELLISON ST GUYMON OK 73942 BBF church."
+    "description": "PO BOX 935 FORD RD GROVE OK 74344 GUYMON OK 73942 BBF church"
   },
   {
     "id": "3943",
     "name": "FUNDAMENTAL INDIAN BAPTIST CHURCH",
-    "address": "615 S OKLAHOMA ST",
+    "address": "412 ON STATELINE RD WEST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1354,12 +1354,12 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by CRAIG INGRAM. 615 S OKLAHOMA ST OKMULGEE OK 74447 RT 2 BOX 189 WATTS OK 74964 3/10 MILE S OF 412 ON STATELINE RD WEST SALOAM SPRINGS Independent church."
+    "description": "OKMULGEE OK 74447 RT 2 BOX 189 WATTS OK 74964 3/10 MILE S OF SALOAM SPRINGS Independent church"
   },
   {
     "id": "3944",
     "name": "BRISTOW INDEPENDENT BAPTIST CHURCH",
-    "address": "1513 S OAK ST",
+    "address": "1513 S OAK ST BRIST",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1374,7 +1374,7 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DAVID WHEATLEY. PO BOX 106 1513 S OAK ST BRISTOW OK 74010 SS 945,SM 11,SN 6,W 7 PO BOX 892 NICOMA PARK OK 73066 11498 NE 10TH ST SS 10,SM 11,SN 6,W 7 BUS,YOUTH,TEENS MP3 AUDIO SERMONS ONLINE KJB, UNAFFILIATED, S.GRAC"
+    "description": "PO BOX 106 OW OK 74010 SS 945,SM 11,SN 6,W 7 PO BOX 892 NICOMA PARK OK 73066 11498 NE 10TH ST SS 10,SM 11,SN 6,W 7 BUS,YOUTH,TEENS MP3 AUDIO SERMONS ONLINE KJB, UNAFFILIATED, S.GRAC"
   },
   {
     "id": "3945",
@@ -1392,7 +1392,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS JONES. PO BOX 741 BROKEN ARROW OK 74012 500 W COLLEGE ST SS 10,SM 11,SN 2,W 7 MEXICO MISSIONS NOT KJV ONLY KJB church."
+    "description": "PO BOX 741 BROKEN ARROW OK 74012 SS 10,SM 11,SN 2,W 7 MEXICO MISSIONS NOT KJV ONLY KJB church"
   },
   {
     "id": "3946",
@@ -1410,7 +1410,7 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE SMITH. 900 S FRANCES AVE EL RENO OK 73036 NOT KJV ONLY, BBC-MO KJB church."
+    "description": "EL RENO OK 73036 NOT KJV ONLY, BBC-MO KJB church"
   },
   {
     "id": "3947",
@@ -1429,7 +1429,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LEO T SMITH. 3325 DEL RD OKLAHOMA CITY OK 73115 DEL CITY AREA SS 10,SM 11,SN 6,W 7 TINKER AFB NOT KJV ONLY 3141 NW 10TH ST OKLAHOMA CITY OK 73107 SS 945,SM 1050,SN 6,W 7 TINKER AFB KJB, S.GRACE-REFORMED-TULIP 1902"
+    "description": "OKLAHOMA CITY OK 73115 DEL CITY AREA SS 10,SM 11,SN 6,W 7 TINKER AFB NOT KJV ONLY 3141 NW 10TH ST OKLAHOMA CITY OK 73107 SS 945,SM 1050,SN 6,W 7 TINKER AFB KJB, S.GRACE-REFORMED-TULIP 1902"
   },
   {
     "id": "3948",
@@ -1448,7 +1448,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CORY BRONANDER. 106 N MAIN OWASSO OK 74055 SS 945,SM 830 & 1045,SN 6,W 7 AWANA, TEEN NOT KJV ONLY, GARBC 1908 W RANDOLPH ST ENID OK 73703 VANCE AFB NOT KJV ONLY, BBF KJB church."
+    "description": "106 N MAIN OWASSO OK 74055 SS 945,SM 830 & 1045,SN 6,W 7 AWANA, TEEN NOT KJV ONLY, GARBC ENID OK 73703 VANCE AFB NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "3949",
@@ -1469,7 +1469,7 @@ export const oklahomaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by KIM C HAYES. PO BOX 450 12602 N MEMORIAL DR COLINSVILLE OK 74021 SS 930,S M 1030,SN 6,W 7 NOT KJV ONLY, BBF, CCM PO BOX 762 1828 S 13TH ST CHICKASHA OK 73023 NKJV, BBFI, BBC-MO, LIBERTY-U PO BOX 850867 4901 N SARA KJB church."
+    "description": "PO BOX 450 COLINSVILLE OK 74021 SS 930,S M 1030,SN 6,W 7 NOT KJV ONLY, BBF, CCM PO BOX 762 1828 S 13TH ST CHICKASHA OK 73023 NKJV, BBFI, BBC-MO, LIBERTY-U PO BOX N SARA KJB church"
   },
   {
     "id": "3950",
@@ -1488,7 +1488,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREG BAXTER. 5TH AND MISSOURI CHICKASHA OK 73018 SM 11,SN 6,W 630 NOT KJV ONLY, BBF KJB church."
+    "description": "5TH AND MISSOURI CHICKASHA OK 73018 SM 11,SN 6,W 630 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "3951",
@@ -1507,12 +1507,12 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DENNIS NEWKIRK. 6201 NW ELM LAWTON OK 73505 FORT SILL, ALTUS AFB NOT KJV ONLY KJB church."
+    "description": "6201 NW ELM LAWTON OK 73505 FORT SILL, ALTUS AFB NOT KJV ONLY KJB church"
   },
   {
     "id": "3952",
     "name": "HENDERSON HILLS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 715",
     "city": "Oklahoma City",
     "state": "OK",
     "zipCode": "",
@@ -1527,7 +1527,7 @@ export const oklahomaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by PHILLIP HOOS. EDMOND, OK 73003 SS 915 & 1045,SM 8 & 915 & 1045,W 630 PRISON, YOUTH, TEENS NASB, KJV PO BOX 715 17300 S MINGO BIXBY OK 74008 SM 1030,SN 6,W 7 NOT KJV ONLY, BBF KJB church."
+    "description": "EDMOND, OK 73003 SS 915 & 1045,SM 8 & 915 & 1045,W 630 PRISON, YOUTH, TEENS NASB, KJV 17300 S MINGO BIXBY OK 74008 SM 1030,SN 6,W 7 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "3953",
@@ -1546,7 +1546,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CHARLES BISHOP. 4820 S DIVISION GUTHRIE OK 73044 BUS, AWANA, NOT KJV ONLY PO BOX 983 1505 S 29TH ST CHICKASHA OK 73018 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "4820 S DIVISION GUTHRIE OK 73044 BUS, AWANA, NOT KJV ONLY PO BOX 983 CHICKASHA OK 73018 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3954",
@@ -1565,7 +1565,7 @@ export const oklahomaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KEVIN STROPE. 1230 N SOONER RD EDMOND OK 73034 NOT KJV ONLY, BBF KJB church."
+    "description": "EDMOND OK 73034 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "3955",
@@ -1583,6 +1583,6 @@ export const oklahomaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DILLON AWES. 2918 W RANDOLPH AVE ENID OK 73703 SS 930,SM 1030,SN 6,W 7 VANCE AFB KJB, POST-TRIB PRE-WRATH, ANDERSON 6444 NORTHWEST EXPY #405 OKLAHOMA CITY OK 73132 SM 1030,SN 530,TH 7"
+    "description": "ENID OK 73703 SS 930,SM 1030,SN 6,W 7 VANCE AFB KJB, POST-TRIB PRE-WRATH, ANDERSON 6444 NORTHWEST EXPY #405 OKLAHOMA CITY OK 73132 SM 1030,SN 530,TH 7"
   }
 ];

@@ -18,12 +18,12 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRENT KIRSCHENMANN. 23 WORD AVE N RED LODGE MT 59068 KJB, UNAFFILIATED, HYMNS"
+    "description": "RED LODGE MT 59068 KJB, UNAFFILIATED, HYMNS"
   },
   {
     "id": "2707",
     "name": "BLESSED HOPE BAPTIST CHURCH",
-    "address": "101 E MAIN ST",
+    "address": "101 E MAIN ST EAST",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -36,12 +36,12 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY STENVICK. 101 E MAIN ST EAST HELENA MT 59635 SS 945,SM 1030, W 630 AUDIO SERMONS KJB, HYMNS, OLD FASHIONED"
+    "description": "HELENA MT 59635 SS 945,SM 1030, W 630 AUDIO SERMONS KJB, HYMNS, OLD FASHIONED"
   },
   {
     "id": "2708",
     "name": "WHITEWATER BAPTIST CHURCH",
-    "address": "80 MAIN ST",
+    "address": "59544 MEETING IN ADDITION OF PAST",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -55,7 +55,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE FRYMIER. 80 MAIN ST WHITEWATER MT 59544 MEETING IN ADDITION OF PASTORS HOUSE SM 1030,W 6 KJB, UNAFFILIATED"
+    "description": "WHITEWATER MT ORS HOUSE SM 1030,W 6 KJB, UNAFFILIATED"
   },
   {
     "id": "2709",
@@ -74,7 +74,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MATTHEW INBODEN. 186 GARDEN DR BOZEMAN MT 59718 YOUTH GROUP, COLLEGE, SENIORS, MASTER CLUBS, AUDIO SERMONS , SOULWINNING KJB, AMBASSADOR-BC"
+    "description": "BOZEMAN MT 59718 YOUTH GROUP, COLLEGE, SENIORS, MASTER CLUBS, AUDIO SERMONS , SOULWINNING KJB, AMBASSADOR-BC"
   },
   {
     "id": "2710",
@@ -92,7 +92,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON BARTOSIK. 3220 ST ANN ST BUTTE MT 59701 SS 10,SM 11,SN 2,W 630 KJB church."
+    "description": "BUTTE MT 59701 SS 10,SM 11,SN 2,W 630 KJB church"
   },
   {
     "id": "2711",
@@ -110,7 +110,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON STORY. PO BOX 5493 22 N LAST CHANCE GULCH HELENA MT 59601 SM 3,W 630 KJB, HBBC"
+    "description": "PO BOX 5493 HELENA MT 59601 SM 3,W 630 KJB, HBBC"
   },
   {
     "id": "2712",
@@ -128,7 +128,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA JETT. 3102 FLOOD RD GREAT FALLS MT 59404 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "GREAT FALLS MT 59404 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2713",
@@ -147,7 +147,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STAN MARTIN. 115 2ND ST E ROUNDUP MT 59072 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "ROUNDUP MT 59072 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2714",
@@ -166,7 +166,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEVIN TURMAN. 1830 MT HWY 35 KALISPELL MT 59903 SS 930,SM 11,SN 6,W 7 BUS, SOULWINNING, TAPE, STREET PREACHING, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS, PROPHETS CHAMBER KJB church."
+    "description": "1830 MT HWY 35 KALISPELL MT 59903 SS 930,SM 11,SN 6,W 7 BUS, SOULWINNING, TAPE, STREET PREACHING, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "2715",
@@ -184,7 +184,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 498 508 W RAILROAD ST WHITEHALL MT 59759"
+    "description": "PO BOX 498 WHITEHALL MT 59759"
   },
   {
     "id": "2716",
@@ -202,7 +202,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN SAUNDERS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2717",
@@ -220,7 +220,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN EVANS. PO BOX 189 1050 EASTSIDE HWY CORVALLIS MT 59828 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "PO BOX 189 CORVALLIS MT 59828 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2718",
@@ -238,7 +238,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE LEMMON. 20 N STACY AVE MILES CITY MT 59301 SS 10,SM 11,SN 5,W 630 CONSERVATIVE MUSIC KJB church."
+    "description": "MILES CITY MT 59301 SS 10,SM 11,SN 5,W 630 CONSERVATIVE MUSIC KJB church"
   },
   {
     "id": "2719",
@@ -256,7 +256,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUSSELL HOOVER. PO BOX 646 21000 FRONTAGE RD, SUITE 10 MANHATTAN MT 59741 SM 10, W 7 KJB church."
+    "description": "PO BOX 646 , SUITE 10 MANHATTAN MT 59741 SM 10, W 7 KJB church"
   },
   {
     "id": "2720",
@@ -275,7 +275,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DON BERGSTROM. PO BOX 32 13 LOWER RIVER RD HERON MT 59844 SS 10,SM 11,W 7 TEEN GROUP, PUBLIC SCHOOL BIBLE STUDY, SOULWINNING KJB church."
+    "description": "PO BOX 32 HERON MT 59844 SS 10,SM 11,W 7 TEEN GROUP, PUBLIC SCHOOL BIBLE STUDY, SOULWINNING KJB church"
   },
   {
     "id": "2721",
@@ -294,7 +294,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MATT KOOIENGA. PO BOX 8091 1385 COLUMBIA FALLS STAGE RD WHITEFISH MT 59920 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 8091 WHITEFISH MT 59920 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2722",
@@ -314,12 +314,12 @@ export const montanaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by DR ROBERT SNYDER. 24 NIGHTINGALE DR BILLINGS MT 59101 SS 10, SM 11, SN 6 SOULWINNING, AUDIO SERMONS KJB, IMBF, BBF, HYLES, ETC 323 W BLVD LEWISTOWN MT 59457 SS 930, SM 11,SN 7,W 7 KJB, PBI, RUCKMAN 805 16TH ST W BILLIN"
+    "description": "BILLINGS MT 59101 SS 10, SM 11, SN 6 SOULWINNING, AUDIO SERMONS KJB, IMBF, BBF, HYLES, ETC 323 W BLVD LEWISTOWN MT 59457 SS 930, SM 11,SN 7,W 7 KJB, PBI, RUCKMAN 805 16TH ST W BILLIN"
   },
   {
     "id": "2723",
     "name": "BREAD OF LIFE MISSIONARY BAPTIST CHURCH",
-    "address": "900 REYNOLDS AVE",
+    "address": "900 REYNOLDS AVE LEWIST",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -332,7 +332,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS LARUE. 900 REYNOLDS AVE LEWISTOWN MT 59457 SS 10,SM 11 KJB, RUCKMAN"
+    "description": "OWN MT 59457 SS 10,SM 11 KJB, RUCKMAN"
   },
   {
     "id": "2724",
@@ -351,12 +351,12 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JIM GROSSE. 103 RUBY ST SHERIDAN MT 59749 SS 945,SM 11,SN 6,W 7 VAN, ANCHOR CLUB, PATCH PRIATE CLUB, YOUTH GROUP, SOULWINNING, TAPE KJB, IMBF"
+    "description": "SHERIDAN MT 59749 SS 945,SM 11,SN 6,W 7 VAN, ANCHOR CLUB, PATCH PRIATE CLUB, YOUTH GROUP, SOULWINNING, TAPE KJB, IMBF"
   },
   {
     "id": "2725",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 108",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -369,7 +369,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ARA. PO BOX 108 SEBREE & IDAHO STS DILLON MT 59725 SS 945,SM 11,SN 7,W 7 KJB church."
+    "description": "SEBREE & IDAHO STS DILLON MT 59725 SS 945,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "2726",
@@ -387,7 +387,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID E KLASS. 626 N 13TH ST LIVINGSTON MT 59047 SS 10, SM 11, SN  6, W 7 MEN’S & LADIES’ MEETINGS, YOUTH NIGHTS,CD KJB church."
+    "description": "LIVINGSTON MT 59047 SS 10, SM 11, SN 6, W 7 MEN’S & LADIES’ MEETINGS, YOUTH NIGHTS,CD KJB church"
   },
   {
     "id": "2727",
@@ -406,7 +406,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JR THOMPSON. 7 FRIENDSHIP LN MONTANA CITY MT 59634 CLANCY MT 59634 KJB, UNAFFILIATED PO BOX 309 305 MAIN AVE SUPERIOR MT 59872 SS 10, SM 11, SN 5, TU 7 KJB, UNAFFILIATED"
+    "description": "MONTANA CITY MT 59634 CLANCY MT 59634 KJB, UNAFFILIATED PO BOX 309 305 MAIN AVE SUPERIOR MT 59872 SS 10, SM 11, SN 5, TU 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2728",
@@ -425,7 +425,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GARY MORSE. PO BOX 459 131 WALL ST HOT SPRINGS MT 59845 SM 2 , TH 7 SOULWINNING, CONSERVATIVE MUSIC KJB, HAC"
+    "description": "PO BOX 459 HOT SPRINGS MT 59845 SM 2 , TH 7 SOULWINNING, CONSERVATIVE MUSIC KJB, HAC"
   },
   {
     "id": "2729",
@@ -443,7 +443,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KIM R EARHART. PO BOX 3587 2630 W MAIN ST BOZEMAN MT 59772 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 3587 BOZEMAN MT 59772 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2730",
@@ -461,7 +461,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BACKHAUS. PO BOX 176 PLAINS MT 59859 105 E LYNCH SS 10,SM 11, SN 6,W 7 502 S CENTRAL AVE 109 5TH ST SE SIDNEY MT 59270-4999 BELL CHOIR; LIBERTY CHRISTIAN SCHOOL,K-12 KJB, HAC"
+    "description": "PO BOX 176 PLAINS MT 59859 105 E LYNCH SS 10,SM 11, SN 6,W 7 109 5TH ST SE SIDNEY MT 59270-4999 BELL CHOIR; LIBERTY CHRISTIAN SCHOOL,K-12 KJB, HAC"
   },
   {
     "id": "2731",
@@ -480,7 +480,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PETE HENGEL. 1246 COOK AVE BILLINGS MT 59102 SS 10,SM 11,SN 6,W 7 BUS, TEEN, PATCH PIRATE, SOULWINNING KJB church."
+    "description": "BILLINGS MT 59102 SS 10,SM 11,SN 6,W 7 BUS, TEEN, PATCH PIRATE, SOULWINNING KJB church"
   },
   {
     "id": "2732",
@@ -498,7 +498,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE STURGEON. 1111 MAIN ST STE 15 BILLINGS MT 59101 KJB church."
+    "description": "BILLINGS MT 59101 KJB church"
   },
   {
     "id": "2733",
@@ -517,12 +517,12 @@ export const montanaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by EDWARD KEOUGH. 539 THOMSEN AVE DILLON MT 59725 BIG SKY BIBLE CONFERENCE 4TH SUNDAY IN JUNE EACH YEAR, AUDIO SERMONS KJB, RUCKMAN PO BOX 5432 2648 US HWY E KALISPELL MT 59901 PO BOX 454 5 JACK FARM RD TOWNSEND MT 596"
+    "description": "DILLON MT 59725 BIG SKY BIBLE CONFERENCE 4TH SUNDAY IN JUNE EACH YEAR, AUDIO SERMONS KJB, RUCKMAN PO BOX 5432 2648 US HWY E KALISPELL MT 59901 PO BOX 454 5 JACK FARM RD TOWNSEND MT 596"
   },
   {
     "id": "2734",
     "name": "ROCKY MOUNTAIN BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1519",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -535,7 +535,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD A DION. PO BOX 1519 2387 MONTANA HWY 35 KALISPELL MT 59903-1519 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "2387 MONTANA HWY 35 KALISPELL MT 59903-1519 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2735",
@@ -554,7 +554,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by TIM JOHNSON. 824 3RD AVE N GREAT FALLS MT 59401 SS 945,SM 11,SN 6,W 7 VIDEO SERMONS, BUS,TEEN TIME,ANCHOR CLUB,JAIL; TREASURE STATE ACADEMY K5-12; MOUNTAIN STATE BAPTIST COLLEGE; MALMSTROM AFB KJB church."
+    "description": "GREAT FALLS MT 59401 SS 945,SM 11,SN 6,W 7 VIDEO SERMONS, BUS,TEEN TIME,ANCHOR CLUB,JAIL; TREASURE STATE ACADEMY K5-12; MOUNTAIN STATE BAPTIST COLLEGE; MALMSTROM AFB KJB church"
   },
   {
     "id": "2736",
@@ -590,12 +590,12 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM LEMMONS. SS 10,SM 11,SN 6,W 7 PO BOX 411 5425 GHARRETT AVE MISSOULA MT 59806-0411 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 PO BOX 411 MISSOULA MT 59806-0411 KJB church"
   },
   {
     "id": "2738",
     "name": "LIGHTHOUSE BAPTIST ACADEMY",
-    "address": "400 7TH AVE",
+    "address": "10 MILES WEST",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -608,7 +608,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALTER WIDDIS. KJB, IMBF 400 7TH AVE LAUREL MT 59044 10 MILES WEST OF BILLINGS ON I-90 SS 930,SM 1045,SN 6,W 7 PODCAST AUDIO SERMONS"
+    "description": "KJB, IMBF 400 7TH AVE LAUREL MT 59044 OF BILLINGS ON I-90 SS 930,SM 1045,SN 6,W 7 PODCAST AUDIO SERMONS"
   },
   {
     "id": "2739",
@@ -626,7 +626,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 575 313 18ST SW GREAT FALLS MT 59403"
+    "description": "PO BOX 575 GREAT FALLS MT 59403"
   },
   {
     "id": "2740",
@@ -644,7 +644,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK PEACOCK. SS 10,SM 11,SN 6,W 7 AWANA, MALMSTROM AFB KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 AWANA, MALMSTROM AFB KJB church"
   },
   {
     "id": "2741",
@@ -663,7 +663,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DR SHELDON C SHEARER. 201 S 4TH ST HAMILTON MT 59840 KJB, UNAFFILIATED, IMBF"
+    "description": "HAMILTON MT 59840 KJB, UNAFFILIATED, IMBF"
   },
   {
     "id": "2742",
@@ -681,7 +681,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL BOGARDUS. PO BOX 2002 900 52ND ST N GREAT FALLS MT 59403 SS 945,SM 11,SN, 6, W 730 KJB, HAC"
+    "description": "PO BOX 2002 GREAT FALLS MT 59403 SS 945,SM 11,SN, 6, W 730 KJB, HAC"
   },
   {
     "id": "2743",
@@ -700,7 +700,7 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN P HAVEMAN. HWY 83 S SEELEY LAKE MT 59868 SS 945,SM 11,SN 630,W 630 KJB, RUCKMAN"
+    "description": "HWY 83 S SEELEY LAKE MT 59868 SS 945,SM 11,SN 630,W 630 KJB, RUCKMAN"
   },
   {
     "id": "2744",
@@ -718,12 +718,12 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAT HARRIS. PO BOX 4042 135 KNOWLES ST MISSOULA MT 59806 SS 10,SM 11,SN 6,W 7 INDIAN RESERVATION KJB church."
+    "description": "PO BOX 4042 MISSOULA MT 59806 SS 10,SM 11,SN 6,W 7 INDIAN RESERVATION KJB church"
   },
   {
     "id": "2745",
     "name": "STAR BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 91",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -736,7 +736,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEREK LOEWEN. PO BOX 91 BROWNING MT 59417 KJB church."
+    "description": "BROWNING MT 59417 KJB church"
   },
   {
     "id": "2746",
@@ -754,7 +754,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HAROLD UNDERWOOD. 5003 WYNNE RD BUTTE MT 59901 KJB church."
+    "description": "BUTTE MT 59901 KJB church"
   },
   {
     "id": "2747",
@@ -773,12 +773,12 @@ export const montanaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN MCKINNEY. HWY 89 N BABB MT 59411 HIGHWAYS & HEDGES MINISTRIES SS & SN 6 PM KJB, UNAFFILIATED, BIMI 3616 BROADWATER AVE BILLINGS MT 59102 SS 10,SM 11,SN 6,W 7 AUDIO & TEXT SERMONS, JAIL-MONTANA WOMENS PRISON; GR"
+    "description": "HWY 89 N BABB MT 59411 HIGHWAYS & HEDGES MINISTRIES SS & SN 6 PM KJB, UNAFFILIATED, BIMI BILLINGS MT 59102 SS 10,SM 11,SN 6,W 7 AUDIO & TEXT SERMONS, JAIL-MONTANA WOMENS PRISON; GR"
   },
   {
     "id": "2748",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 911",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -791,7 +791,7 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN ADLER. PO BOX 911 HELENA MT 59624 GREEN MEADOW & W SIERRA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, BIMI"
+    "description": "HELENA MT 59624 GREEN MEADOW & W SIERRA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, BIMI"
   },
   {
     "id": "2749",
@@ -809,12 +809,12 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED HANSON. 1008 1ST AVE NW GREAT FALLS MT 59404 KJB, GIPP"
+    "description": "GREAT FALLS MT 59404 KJB, GIPP"
   },
   {
     "id": "2750",
     "name": "COLUMBIA BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1179",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -827,12 +827,12 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF CHAUSSEE. PO BOX 1179 2557 HWY 2 COLUMBIA FALLS MT 59912 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "2557 HWY 2 COLUMBIA FALLS MT 59912 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2751",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "601 WILDER AVE",
+    "address": "10815 EL TORO LN",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -845,12 +845,12 @@ export const montanaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON ELLINGSON. 601 WILDER AVE HELENA MT 59601 SS 945,SM 11,W 7 10815 EL TORO LN MISSOULA, MT  59808 NOT KJV ONLY,GARBC 116 E KEWANEE AVE BAKER MT 59313 NOT KJV ONLY,GARBC 6933 MT HWY BIGFORK MT 59911 NOT KJV ONLY,GA KJB church."
+    "description": "HELENA MT 59601 SS 945,SM 11,W 7 MISSOULA, MT 59808 NOT KJV ONLY,GARBC 116 E KEWANEE AVE BAKER MT 59313 NOT KJV ONLY,GARBC 6933 MT HWY BIGFORK MT 59911 NOT KJV ONLY,GA KJB church"
   },
   {
     "id": "2752",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "936 4TH AVE W",
+    "address": "180 PLEASANT VALLEY RD",
     "city": "Helena",
     "state": "MT",
     "zipCode": "",
@@ -865,7 +865,7 @@ export const montanaChurches: Church[] = [
       "Non-KJV",
       "ABA"
     ],
-    "description": "Led by GENE SPEER. 936 4TH AVE W KALISPELL MT 59901 NOT KJV ONLY, GARBC 180 PLEASANT VALLEY RD MARION MT 59925 NOT KJV ONLY, GARBC, FAITH-BC-AKENY 6262 US HWY S WHITEFISH MT 59937 Preach-KJV, NKJV, NASB, ABA KJB church."
+    "description": "936 4TH AVE W KALISPELL MT 59901 NOT KJV ONLY, GARBC MARION MT 59925 NOT KJV ONLY, GARBC, FAITH-BC-AKENY 6262 US HWY S WHITEFISH MT 59937 Preach-KJV, NKJV, NASB, ABA KJB church"
   },
   {
     "id": "2753",
@@ -886,6 +886,6 @@ export const montanaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by STEVE VAN WINKLE. 3803 BROOKS ST CONFERENCE CENTER #229-31 MISSOULA MT 59804 SS 10, SM 11 NOT KJV ONLY, BBF 34 WILDCAT WAY BOZEMAN MT 5971 PREACH-KJV STUDY OTHERS, UNAFFILIATED, USE RBP S.S. MATERIALS 2853 BRIGGS ST MI KJB church."
+    "description": "CONFERENCE CENTER #229-31 MISSOULA MT 59804 SS 10, SM 11 NOT KJV ONLY, BBF 34 WILDCAT WAY BOZEMAN MT 5971 PREACH-KJV STUDY OTHERS, UNAFFILIATED, USE RBP S.S. MATERIALS 2853 BRIGGS ST MI KJB church"
   }
 ];

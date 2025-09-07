@@ -17,7 +17,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN RAHN. 710 SALZBURG AVE BAY CITY MI 48706 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BAY CITY MI 48706 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2183",
@@ -37,7 +37,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOHN YOUNG. PO BOX 178 1979 S STATE IONIA MI 48846 SS 10,SM 11,SN 6, W 7 SOULWINNING, AWANA,BUS KJB, UNAFFILIATED"
+    "description": "PO BOX 178 IONIA MI 48846 SS 10,SM 11,SN 6, W 7 SOULWINNING, AWANA,BUS KJB, UNAFFILIATED"
   },
   {
     "id": "2184",
@@ -56,12 +56,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVEN SMAIL. 16990 S 38TH ST MENDON MI 49072 VICKSBURG, THREE RIVERS, SCHOOLCRAFT, ATHENS, LEONIDAS, PAVILION, PARKVILLE, COLON, SHERWOOD, UNION CITY, CENTREVILLE SS 10, SM 11, SN 6 SOULWINNING, AUDIO SERMONS, FAM KJB church."
+    "description": "MENDON MI 49072 VICKSBURG, THREE RIVERS, SCHOOLCRAFT, ATHENS, LEONIDAS, PAVILION, PARKVILLE, COLON, SHERWOOD, UNION CITY, CENTREVILLE SS 10, SM 11, SN 6 SOULWINNING, AUDIO SERMONS, FAM KJB church"
   },
   {
     "id": "2185",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "12220 CRESSEY RD",
+    "address": "12220 CRESSEY RD PL",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "12220",
@@ -69,12 +69,12 @@ export const michiganChurches: Church[] = [
     "longitude": -84.8587,
     "phone": "(269) 664-3229",
     "website": "http://lbcplainwell.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "12220 CRESSEY RD PLAINWELL MI 49080 SS 9,SM 10,SN 6,W 7 AUDIO SERMONS; LIGHTHOUSE BAPTIST ACADEMY PASTOR KJB church."
+    "description": "AINWELL MI 49080 SS 9,SM 10,SN 6,W 7 AUDIO SERMONS; LIGHTHOUSE BAPTIST ACADEMY"
   },
   {
     "id": "2186",
@@ -92,7 +92,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYLE DYE. 233 CAVANAUGH ST ALPENA MI 49707 SS 10,SM 11,SN 6,W 7 KJB, HYLES"
+    "description": "ALPENA MI 49707 SS 10,SM 11,SN 6,W 7 KJB, HYLES"
   },
   {
     "id": "2187",
@@ -112,7 +112,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by STEVEN ZANTJER. 94 BIDWELL ST BATTLE CREEK MI 49015 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING KJB, UNAFFILIATED, FUNDAMENTAL"
+    "description": "BATTLE CREEK MI 49015 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING KJB, UNAFFILIATED, FUNDAMENTAL"
   },
   {
     "id": "2188",
@@ -130,7 +130,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG ROSS. 6914 EAST ML AVE KALAMAZOO MI 49048 COMSTOCK, CLIMAX, GALESBURG AREAS SS 945, SM 11, SN 6, W 7 KJB church."
+    "description": "KALAMAZOO MI 49048 COMSTOCK, CLIMAX, GALESBURG AREAS SS 945, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2189",
@@ -148,7 +148,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JASON DOUGLASS. 80575 MAIN ST MEMPHIS MI 48041 SINGING THE OLD HYMNS"
+    "description": "MEMPHIS MI 48041 SINGING THE OLD HYMNS"
   },
   {
     "id": "2190",
@@ -167,7 +167,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FRANKLIN J SENTERS. KJB, MIDWESTERN-BC 5879 STATE RD FT GRATIOT MI 48059 SS 945,SM 1045,SN 5,W 7 KJB, UNAFFILIATED"
+    "description": "KJB, MIDWESTERN-BC FT GRATIOT MI 48059 SS 945,SM 1045,SN 5,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2191",
@@ -186,7 +186,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT BOYCE. 1909 TRANSPORT LANE HOLLAND MI 49423 SS 10,SM 11,SN 6,W 7 BUS, MASTER CLUB, S.W.A.T.TEENS, SOULWINNING, MEDIA,TV, INTERNET, IRON MEN, WOW WOMEN, TEENS, AUDIO SERMONS, KJB church."
+    "description": "HOLLAND MI 49423 SS 10,SM 11,SN 6,W 7 BUS, MASTER CLUB, S.W.A.T.TEENS, SOULWINNING, MEDIA,TV, INTERNET, IRON MEN, WOW WOMEN, TEENS, AUDIO SERMONS, KJB church"
   },
   {
     "id": "2192",
@@ -204,7 +204,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ELMER ASH. PO BOX 81 24180 GIBRALTAR RD FLAT ROCK MI 48134 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS KJB church."
+    "description": "PO BOX 81 FLAT ROCK MI 48134 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2193",
@@ -222,12 +222,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY CHILDRESS. 4257 S STATE RD GLENNIE MI 48737 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "GLENNIE MI 48737 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2194",
     "name": "OXFORD BAPTIST CHURCH",
-    "address": "",
+    "address": "254 LAUREL LEAH OXFORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -241,7 +241,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID WRUCK. 254 LAUREL LEAH OXFORD MI 48371 KJB, UNAFFILIATED"
+    "description": "MI 48371 KJB, UNAFFILIATED"
   },
   {
     "id": "2195",
@@ -259,7 +259,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by A C CAINCROSS. 4215 N EDON RD ALLEN MI 49227 AUDIO SERMONS KJB church."
+    "description": "ALLEN MI 49227 AUDIO SERMONS KJB church"
   },
   {
     "id": "2196",
@@ -278,12 +278,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JASON REAVES. PO BOX 116 2430 S STATE GREENBUSH MI 48738 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 116 GREENBUSH MI 48738 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2197",
     "name": "UNITED BAPTIST CHURCH",
-    "address": "236 MIDDLEBELT RD",
+    "address": "236 MIDDLEBELT RD UNITED CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -296,7 +296,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID M GARVER SR. 236 MIDDLEBELT RD UNITED CHRISTIAN SCHOOL 29205 FLORENCE ST GARDEN CITY MI 48135 BUS, CHILDREN’S, TEENS, ADULTS, AUDIO SERMONS, UCS KDG-8TH KJB church."
+    "description": "IAN SCHOOL 29205 FLORENCE ST GARDEN CITY MI 48135 BUS, CHILDREN’S, TEENS, ADULTS, AUDIO SERMONS, UCS KDG-8TH KJB church"
   },
   {
     "id": "2198",
@@ -314,12 +314,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL MADONNA. 400 E FREDERICK AVE LANSING MI 48906 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB church."
+    "description": "LANSING MI 48906 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB church"
   },
   {
     "id": "2199",
     "name": "COVENANT BAPTIST CHURCH",
-    "address": "11455 CANAL RD",
+    "address": "11455 CANAL RD ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "11455",
@@ -333,12 +333,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BILL V BARTLETT. 11455 CANAL RD STERLING HEIGHTS MI 48314 SS 10,SM 11,SN 6,W 7 SOULWINNING, TEENS, AUDIO SERMONS KJB, RUCKMAN"
+    "description": "ERLING HEIGHTS MI 48314 SS 10,SM 11,SN 6,W 7 SOULWINNING, TEENS, AUDIO SERMONS KJB, RUCKMAN"
   },
   {
     "id": "2200",
     "name": "WYLDEWOOD BAPTIST CHURCH",
-    "address": "7979 MONROE RD",
+    "address": "7979 MONROE RD JUST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -351,7 +351,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAYSON GODSEY. PO BOX 707 LAMBERTVILLE MI 48144 CURRENTLY MEETING AT: MONROE ROAD ELEMENTARY SCHOOL 7979 MONROE RD JUST OUTSIDE OF TOLEDO OH SS 930,SM 1015,SN 630,W 7 KJB church."
+    "description": "PO BOX 707 LAMBERTVILLE MI 48144 CURRENTLY MEETING AT: MONROE ROAD ELEMENTARY SCHOOL OUTSIDE OF TOLEDO OH SS 930,SM 1015,SN 630,W 7 KJB church"
   },
   {
     "id": "2201",
@@ -369,7 +369,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GABE SHADY. 1138 BURLINGAME ST CADILLAC MI 49601 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "CADILLAC MI 49601 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2202",
@@ -388,7 +388,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by THOMAS J GUERTIN. PO BOX 342 3101 MAIN ST MARLETTE MI 48453 SS 10, SM 11, SN 6, TH 630 KJB, UNAFFILIATED"
+    "description": "PO BOX 342 MARLETTE MI 48453 SS 10, SM 11, SN 6, TH 630 KJB, UNAFFILIATED"
   },
   {
     "id": "2203",
@@ -406,7 +406,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS TODD. 635 E FORESTER RD SANDUSKY MI 48471 KJB church."
+    "description": "SANDUSKY MI 48471 KJB church"
   },
   {
     "id": "2204",
@@ -425,12 +425,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN MILTON. 10730 ELIZABETH LAKE RD WHITE LAKE MI 48386 SS 10,SM 830 & 11,SN 7,W 7 KJB, WEST COAST, CROWN, UNAFFILIATED"
+    "description": "WHITE LAKE MI 48386 SS 10,SM 830 & 11,SN 7,W 7 KJB, WEST COAST, CROWN, UNAFFILIATED"
   },
   {
     "id": "2205",
     "name": "SPARLINGVILLE BAPTIST CHURCH",
-    "address": "5230 GRISWOLD RD",
+    "address": "48074 FAITH BIBLE INST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -444,7 +444,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVE HOBBINS. 5230 GRISWOLD RD KIMBALL TOWNSHIP MI 48074 FAITH BIBLE INSTITUTE, BUS, SOULWINNING, CHILDREN/TEENS, GROWING MEN/FATHER, NURSERY SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "KIMBALL TOWNSHIP MI ITUTE, BUS, SOULWINNING, CHILDREN/TEENS, GROWING MEN/FATHER, NURSERY SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2206",
@@ -462,12 +462,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY BORITZKI. 6320 LEWIS AVE TEMPERANCE MI 48182 SS 945,SM 1045,SN 630,W 7 KJB, MIDWESTERN"
+    "description": "TEMPERANCE MI 48182 SS 945,SM 1045,SN 630,W 7 KJB, MIDWESTERN"
   },
   {
     "id": "2207",
     "name": "NEW BEGINNING BAPTIST CHURCH",
-    "address": "",
+    "address": "2562 DIXIE HWY WATERFORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -480,12 +480,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY HOSE. 2562 DIXIE HWY WATERFORD MI 48055 PONTIAC AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "MI 48055 PONTIAC AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2208",
     "name": "LAKE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 405",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -498,7 +498,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARIO CHADINHA. PO BOX 405 9144 GIBSON LAKE LAKE MI 48632 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, MIDWESTERN-BC"
+    "description": "9144 GIBSON LAKE LAKE MI 48632 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, MIDWESTERN-BC"
   },
   {
     "id": "2209",
@@ -516,7 +516,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARTH HUTCHINSON. 179 WOODRUFF HIGHLAND MI 48357 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HIGHLAND MI 48357 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2210",
@@ -534,7 +534,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS STOUT. 842 PONTALUNA RD MUSKEGON MI 49444 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MUSKEGON MI 49444 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2211",
@@ -553,12 +553,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JAMES. 19526 MARCELLUS HWY MARCELLUS MI 49067 DECATUR AREA SS 945,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS 7420 US HWY 23 N ALPENA MI 49707 KJB, FAIRHAVEN-BC"
+    "description": "19526 MARCELLUS HWY MARCELLUS MI 49067 DECATUR AREA SS 945,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS 7420 US HWY 23 N ALPENA MI 49707 KJB, FAIRHAVEN-BC"
   },
   {
     "id": "2212",
     "name": "ZION BAPTIST CHURCH",
-    "address": "6563 E HARRYS RD",
+    "address": "6563 E HARRYS RD TRAVE",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -571,7 +571,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY A TANNER. 6563 E HARRYS RD TRAVERSE CITY MI 49684 SS 10,SM 11,SN 6,W 7 3088 MOSTETLER RD HARRISON MI 48625 SS 945,SM 11,SN 6,W 7 MASTERS CLUB, TEENS KJB, FAIRHAVEN PO BOX 207 US HWY 31 BEAR LAKE MI 49614"
+    "description": "RSE CITY MI 49684 SS 10,SM 11,SN 6,W 7 3088 MOSTETLER RD HARRISON MI 48625 SS 945,SM 11,SN 6,W 7 MASTERS CLUB, TEENS KJB, FAIRHAVEN PO BOX 207 US HWY 31 BEAR LAKE MI 49614"
   },
   {
     "id": "2213",
@@ -590,7 +590,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEVIN C SPENCER. 7527 WHITMORE LAKE RD WHITMORE LAKE MI 48189 36560 49TH AVE PAW PAW MI 49079 SM 10,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "WHITMORE LAKE MI 48189 36560 49TH AVE PAW PAW MI 49079 SM 10,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2214",
@@ -608,7 +608,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3400 MORGAN RD ORION MI 48359 SS 10,SM 11,SN 7,W 7,"
+    "description": "ORION MI 48359 SS 10,SM 11,SN 7,W 7"
   },
   {
     "id": "2215",
@@ -626,7 +626,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL GAYMON. BUS, AUDIO SERMONS; MIDWESTERN BAPTIST COLLEGE 6910 CADE RD BROWN CITY MI 48416 SS 10,SM 11,SN 7,W 7 AWANA,TEENS, SENIORS, KJB church."
+    "description": "BUS, AUDIO SERMONS; MIDWESTERN BAPTIST COLLEGE BROWN CITY MI 48416 SS 10,SM 11,SN 7,W 7 AWANA,TEENS, SENIORS, KJB church"
   },
   {
     "id": "2216",
@@ -644,12 +644,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM MCQUEEN. G-4386 FENTON RD FLINT MI 48507 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, HYLES"
+    "description": "FLINT MI 48507 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, HYLES"
   },
   {
     "id": "2217",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "",
+    "address": "131 SOUTH BORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -662,7 +662,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5280 US-131 SOUTH BORDMAN MI 49680"
+    "description": "5280 US-MAN MI 49680"
   },
   {
     "id": "2218",
@@ -680,7 +680,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT MCINTYRE. KJB, HYLES 3783 MANNION RD SAGINAW MI 48603 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
+    "description": "KJB, HYLES SAGINAW MI 48603 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "2219",
@@ -700,12 +700,12 @@ export const michiganChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by RYAN BEILFUSS. 2592 S MICHIGAN RD (M-99) EATON RAPIDS MI 48827 (517) 663D-5690 CH SS 945,SM 11,SN 630,W 7 KJB, FUNDAMENTAL 327 N MAIN ST PO BOX 397 EVART MI 49631 SS 10, SM 11, SN 6, W 7 SENIORS, YOUTH, REFORMERS UN"
+    "description": "EATON RAPIDS MI 48827 (517) 663D-5690 CH SS 945,SM 11,SN 630,W 7 KJB, FUNDAMENTAL 327 N MAIN ST PO BOX 397 EVART MI 49631 SS 10, SM 11, SN 6, W 7 SENIORS, YOUTH, REFORMERS UN"
   },
   {
     "id": "2220",
     "name": "ANCHOR BAPTIST CHURCH",
-    "address": "",
+    "address": "43 SOUTH HAVE",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -719,7 +719,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID CHITTENDEN. 71925  M-43 SOUTH HAVEN MI 49090 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE CLUBS, TEEN, SENIORS KJB, BBF"
+    "description": "71925 M-N MI 49090 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE CLUBS, TEEN, SENIORS KJB, BBF"
   },
   {
     "id": "2221",
@@ -737,7 +737,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM RADER. 2112 E MAPLE AVE FLINT MI 48507 SS 10,SM 11,SN 6,W 7 AWANA, TEXT & AUDIO SERMONS KJB church."
+    "description": "FLINT MI 48507 SS 10,SM 11,SN 6,W 7 AWANA, TEXT & AUDIO SERMONS KJB church"
   },
   {
     "id": "2222",
@@ -755,7 +755,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "3255 W M-80 KINROSS MI 49752 Independent church."
+    "description": "3255 W M-80 KINROSS MI 49752 Independent church"
   },
   {
     "id": "2223",
@@ -773,7 +773,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS A REW.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2224",
@@ -792,7 +792,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DANIEL HEMMES. 535 E LAKE ST HARBOR SPRINGS MI 49740 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, MAIN ST BIBLE INSTITUTE, AUDIO SERMONS KJB church."
+    "description": "HARBOR SPRINGS MI 49740 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, MAIN ST BIBLE INSTITUTE, AUDIO SERMONS KJB church"
   },
   {
     "id": "2225",
@@ -810,7 +810,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN R HESTER. 416 W 7TH ST MANTON MI 49663 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MANTON MI 49663 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2226",
@@ -829,12 +829,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES BRABSON. 701 W MIDLAND ST BAY CITY MI 48706 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "BAY CITY MI 48706 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2227",
     "name": "NORTH COUNTRY BAPTIST CHURCH",
-    "address": "",
+    "address": "7 EVANGELIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -848,7 +848,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL MARQUEZ. 14392 M-68 HWY MILLERSBURG MI 49759 SM 1030,SN 630,THUR 7 EVANGELISTIC, FUNDAMENTAL, COUNTRY CHURCH, YOUTH KJB, SHAWNEE"
+    "description": "14392 M-68 HWY MILLERSBURG MI 49759 SM 1030,SN 630,THUR IC, FUNDAMENTAL, COUNTRY CHURCH, YOUTH KJB, SHAWNEE"
   },
   {
     "id": "2228",
@@ -866,7 +866,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON D SPRINGER. 619 W STATE ST CHEBOYGAN MI 49721 SS 10,SM 1045,SN 6,W 7 REFORMERS UNANIMOUS KJB church."
+    "description": "CHEBOYGAN MI 49721 SS 10,SM 1045,SN 6,W 7 REFORMERS UNANIMOUS KJB church"
   },
   {
     "id": "2229",
@@ -886,12 +886,12 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by THOMAS BLOSSOM. PO BOX 107 6020 MAIN ST WOLVERINE MI 49799 BIBLE PREACHING, SOULWINNING, VAN, SUNDAY SCHOOL, FAITH PROMICE MISSIONS, OLD-FASHONED, CONSERVATIVE KJB, BBF"
+    "description": "PO BOX 107 WOLVERINE MI 49799 BIBLE PREACHING, SOULWINNING, VAN, SUNDAY SCHOOL, FAITH PROMICE MISSIONS, OLD-FASHONED, CONSERVATIVE KJB, BBF"
   },
   {
     "id": "2230",
     "name": "TRI CITY BAPTIST CHURCH",
-    "address": "4020 E TATHAM RD",
+    "address": "6116 S STATE RD GOODR",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -906,7 +906,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by KEVIN HOLLAND. 4020 E TATHAM RD SAGINAW MI 48601 SS 10,SM 11,SN 630,W 7 CHOIR, BUS, SOULWINNING 6116 S STATE RD GOODRICH MI 48438 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB, BBF, GIBF"
+    "description": "SAGINAW MI 48601 SS 10,SM 11,SN 630,W 7 CHOIR, BUS, SOULWINNING ICH MI 48438 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB, BBF, GIBF"
   },
   {
     "id": "2231",
@@ -924,7 +924,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM MCKINNIES. 6710 TEXTILE RD YPSILANTI MI 48197 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "YPSILANTI MI 48197 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2232",
@@ -942,12 +942,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENT BURKE. PO BOX 39 8687 BUNTON RD WILLIS MI 48191 SS 945,SM 11,SN 6,W 7 BUS, PATCH PIRATE, TEEN, REFORMERS UNAMIMOUS KJB, IFBI"
+    "description": "PO BOX 39 WILLIS MI 48191 SS 945,SM 11,SN 6,W 7 BUS, PATCH PIRATE, TEEN, REFORMERS UNAMIMOUS KJB, IFBI"
   },
   {
     "id": "2233",
     "name": "FIRST BAPTIST CHURCH OF WESTLAND",
-    "address": "30409 KING RD",
+    "address": "1033 S WILDWOOD WEST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "30409",
@@ -960,7 +960,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY AMMON. 1033 S WILDWOOD WESTLAND MI 48186 SS 10,SM 11,SN 6,W 7 KJB, IBFI 30409 KING RD ROMULUS MI 48174 SS 10,SM 11,SN 6,W 7 3642 WASHINGTON ST HARTLAND MI 48353 SS 10,SM 11,SN 6,W 7 74940 N FULTON AVE ARMADA"
+    "description": "LAND MI 48186 SS 10,SM 11,SN 6,W 7 KJB, IBFI 30409 KING RD ROMULUS MI 48174 SS 10,SM 11,SN 6,W 7 3642 WASHINGTON ST HARTLAND MI 48353 SS 10,SM 11,SN 6,W 7 74940 N FULTON AVE ARMADA"
   },
   {
     "id": "2234",
@@ -981,7 +981,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by MIKE GOFORTH. 431 ADRIAN ST JONESVILLE MI 49250 SS 10,SM 11,SN 6,W 630 BUS, SOULWINNING,SENIORS, COLLEGE CAREER, TEENS PO BOX 549 6718 PROSPECT CASEVILLE MI 48725-0549 KJB, GSBC"
+    "description": "JONESVILLE MI 49250 SS 10,SM 11,SN 6,W 630 BUS, SOULWINNING,SENIORS, COLLEGE CAREER, TEENS PO BOX 549 6718 PROSPECT CASEVILLE MI 48725-0549 KJB, GSBC"
   },
   {
     "id": "2235",
@@ -1000,7 +1000,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by E KOVALCHUK. 1040 N M-88 CENTRAL LAKE, MI 49622 SS 10,SM 11,SN 6,W 7 BUS, AWANA, TEEN, CHOIR 1100 S BALDWIN OXFORD MI 48371 SS 10,SM 11,SN 7,W 7 KJB,HYLES PO BOX 497 3315 E TOWNLINE LK RD HARRISON MI 48625 SS 945,"
+    "description": "1040 N M-88 CENTRAL LAKE, MI 49622 SS 10,SM 11,SN 6,W 7 BUS, AWANA, TEEN, CHOIR 1100 S BALDWIN OXFORD MI 48371 SS 10,SM 11,SN 7,W 7 KJB,HYLES PO BOX 497 HARRISON MI 48625 SS 945"
   },
   {
     "id": "2236",
@@ -1018,7 +1018,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY PETERS. 6508 COOPER RD JACKSON MI 49201 KJB church."
+    "description": "JACKSON MI 49201 KJB church"
   },
   {
     "id": "2237",
@@ -1037,12 +1037,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRIAN MASON. 9825 HOLLAND RD TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2238",
     "name": "NORTH STAR BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 539",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1056,7 +1056,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DON LETSON. PO BOX 539 45537 M-26 SOUTH RANGE MI 49963 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "45537 M-26 SOUTH RANGE MI 49963 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2239",
@@ -1075,7 +1075,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by HECTOR SHARPETA. 2860 S OAK LN MUSKEGON MI 49444 SS 930, SM 1045, SN 6, W 7 BUS, TEENS, RESCUE MISSION, PATCH PIRATE, SOULWINNING; BROADWAY BAPTIST SCHOOL; K-12, ACE KJB church."
+    "description": "MUSKEGON MI 49444 SS 930, SM 1045, SN 6, W 7 BUS, TEENS, RESCUE MISSION, PATCH PIRATE, SOULWINNING; BROADWAY BAPTIST SCHOOL; K-12, ACE KJB church"
   },
   {
     "id": "2240",
@@ -1093,7 +1093,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES WHITMAN. 2140 STEPHENS WARRENS MI 48091 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "WARRENS MI 48091 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2241",
@@ -1111,7 +1111,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FREDERICK C SMITH. 141 S FINLAY BATTLE CREEK MI 49015 KJB, HBBC 6205 BIRCH RUN RD BIRCH RUN MI 48415 AUDIO SERMONS KJB, REVIVAL FIRES"
+    "description": "141 S FINLAY BATTLE CREEK MI 49015 KJB, HBBC BIRCH RUN MI 48415 AUDIO SERMONS KJB, REVIVAL FIRES"
   },
   {
     "id": "2242",
@@ -1129,7 +1129,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES A JONES. 701 FIELD RD CLIO MI 48420 SS 945,SM 1045,SN 6,W 7 KJB, HYLES, WEST COAST BC, GRACE BC,"
+    "description": "CLIO MI 48420 SS 945,SM 1045,SN 6,W 7 KJB, HYLES, WEST COAST BC, GRACE BC"
   },
   {
     "id": "2243",
@@ -1148,7 +1148,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREGORY ALBRIGHT. 1620 WADHAMS RD KIMBALL MI 48074 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "KIMBALL MI 48074 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2244",
@@ -1167,7 +1167,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RYAN KOOIENGA. 25866 VAN BORN RD DEARBORN HEIGHTS MI  48125 SS 10,SM 11,SN 7,WED MORNING BIBLE STUDY 10,W 730 AUDIO SERMONS KJB, MASSILLON-BC 5444 PLEASANT AVE HUDSONVILLE MI 49426 SS 10,SM 11,SN 6,W 7 BUS, MASTERS"
+    "description": "DEARBORN HEIGHTS MI 48125 SS 10,SM 11,SN 7,WED MORNING BIBLE STUDY 10,W 730 AUDIO SERMONS KJB, MASSILLON-BC 5444 PLEASANT AVE HUDSONVILLE MI 49426 SS 10,SM 11,SN 6,W 7 BUS, MASTERS"
   },
   {
     "id": "2245",
@@ -1185,7 +1185,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LAWRENCE MENDEZ. 3060 SEYMOUR LAKE RD ORTONVILLE MI 48462 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ORTONVILLE MI 48462 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2246",
@@ -1203,12 +1203,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE HALLECK. 3464 CICOTTE AVE DETROIT MI 48210 SS 1030,SM 1130,SN 6,W 7 BUS, TAPES, AUDIO SERMONS KJB church."
+    "description": "DETROIT MI 48210 SS 1030,SM 1130,SN 6,W 7 BUS, TAPES, AUDIO SERMONS KJB church"
   },
   {
     "id": "2247",
     "name": "CHARITY BAPTIST CHURCH",
-    "address": "17380 RACHO RD",
+    "address": "17380 RACHO RD BROWNST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "17380",
@@ -1222,7 +1222,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DAVID R MCCARTHY. 17380 RACHO RD BROWNSTOWN MI 48193 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "OWN MI 48193 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2248",
@@ -1240,7 +1240,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BART W SPENCER. 609 N JEFFERSON MANCELONA MI 49659 SS 10,SM 11,SN 6,W 7 KIDZ KLUB,YOUTH KJB, TRIEBER, MATTINGLY, SEXTON 501 E 24TH ST HOLLAND MI 49423 1 BLOCK WEST OF US31 SS 945,SM 1045,SN 6,W 7 KJB, IFBA OF MICHIGA"
+    "description": "609 N JEFFERSON MANCELONA MI 49659 SS 10,SM 11,SN 6,W 7 KIDZ KLUB,YOUTH KJB, TRIEBER, MATTINGLY, SEXTON HOLLAND MI 49423 1 BLOCK WEST OF US31 SS 945,SM 1045,SN 6,W 7 KJB, IFBA OF MICHIGA"
   },
   {
     "id": "2249",
@@ -1258,12 +1258,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD CHANDONNET. 28440 LYNDON LIVONIA MI 48154 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "28440 LYNDON LIVONIA MI 48154 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2250",
     "name": "GOSPEL LIGHT BAPTIST CHURCH",
-    "address": "105 N DENNIS RD",
+    "address": "1000 ABERDEEN ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1278,7 +1278,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by PJ PALLINI. 105 N DENNIS RD LUDINGTON MI 49431 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS 1000 ABERDEEN ST NE GRAND RAPIDS MI 49505 BUS, SOULWINNING SS 10, SM 11, SN 5, W 7 KJB, UNAFFILIATED"
+    "description": "LUDINGTON MI 49431 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS NE GRAND RAPIDS MI 49505 BUS, SOULWINNING SS 10, SM 11, SN 5, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2251",
@@ -1297,12 +1297,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GORDON L RYDMAN. PO BOX 677 GRAND BLANC MI 48439 5339 S SAGINAW ST FLINT MI 48507 SS 10,SM 11,SN 630,W 630 BUS, SOULWINNING, JAIL, MASTERS CLUBS, WORLD WIDE MISSIONS, SUNDAY NIGHT KIDS CLUBS, AUDIO SERMONS KJB church."
+    "description": "PO BOX 677 GRAND BLANC MI 48439 FLINT MI 48507 SS 10,SM 11,SN 630,W 630 BUS, SOULWINNING, JAIL, MASTERS CLUBS, WORLD WIDE MISSIONS, SUNDAY NIGHT KIDS CLUBS, AUDIO SERMONS KJB church"
   },
   {
     "id": "2252",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "1101 W BROADWAY",
+    "address": "1101 W BROADWAY MT PL",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1315,12 +1315,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY CLARK. 1101 W BROADWAY MT PLEASANT MI 48858 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "EASANT MI 48858 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2253",
     "name": "SAFE HARBOR BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 355",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1333,7 +1333,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by REGINALD L ADKINS. PO BOX 355 ACME MI 49610 9039 OLD M 72 in WILLIAMSBURG KJB church."
+    "description": "ACME MI 49610 9039 OLD M 72 in WILLIAMSBURG KJB church"
   },
   {
     "id": "2254",
@@ -1352,7 +1352,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "300 N DELANEY RD OWOSSO MI 48867 SS 10,SM 11,SN 6,W 7 ACTIVE YOUTH, SOULWINNING, NURSERY, TRANSPORTATION AVAILABLE; GILEAD BAPTIST ACADEMY,K-12; KJB church."
+    "description": "OWOSSO MI 48867 SS 10,SM 11,SN 6,W 7 ACTIVE YOUTH, SOULWINNING, NURSERY, TRANSPORTATION AVAILABLE; GILEAD BAPTIST ACADEMY,K-12; KJB church"
   },
   {
     "id": "2255",
@@ -1372,12 +1372,12 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TIMOTHY PARRISH. 1018 230TH AVE NEWAYGO MI 49337 SS 945,SM 11,SN 7,W 7 SOULWINNING, FOODBANK, PATCH PIRATE, DISCIPLESHIP 31707 7TH ST WARREN MI 48092 SS 945,SM 11 RODOLFO R DIAZ-PONS KJB, UNAFFILIATED"
+    "description": "NEWAYGO MI 49337 SS 945,SM 11,SN 7,W 7 SOULWINNING, FOODBANK, PATCH PIRATE, DISCIPLESHIP 31707 7TH ST WARREN MI 48092 SS 945,SM 11 RODOLFO R DIAZ-PONS KJB, UNAFFILIATED"
   },
   {
     "id": "2256",
     "name": "RIVERBEND BAPTIST CHURCH",
-    "address": "705 WHITNEY PLACE",
+    "address": "705 WHITNEY PLACE ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1390,12 +1390,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AL HOSKINSON. 705 WHITNEY PLACE ST LOUIS MI 48880 SS 945,SM 11,SN 6,W 7 RADIO ,CHILDRENS BIBLE CLUB KJB church."
+    "description": "LOUIS MI 48880 SS 945,SM 11,SN 6,W 7 RADIO ,CHILDRENS BIBLE CLUB KJB church"
   },
   {
     "id": "2257",
     "name": "ROMANS ROAD BAPTIST CHURCH",
-    "address": "53500 N FOSTER RD",
+    "address": "53500 N FOSTER RD CHEST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "53500",
@@ -1408,7 +1408,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT W MACK. 53500 N FOSTER RD CHESTERFIELD MI 48051 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ERFIELD MI 48051 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2258",
@@ -1428,12 +1428,12 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by STEVEN LANG. 1175 S GROVE RD YIPSLANTI MI 48198 ANN ARBOR AREA SS 930,SM 1030,SN 630,W 7 BUS, SOULWINNING, DEAF, WORD OF LIFE, AUDIO SERMONS KJB church."
+    "description": "YIPSLANTI MI 48198 ANN ARBOR AREA SS 930,SM 1030,SN 630,W 7 BUS, SOULWINNING, DEAF, WORD OF LIFE, AUDIO SERMONS KJB church"
   },
   {
     "id": "2259",
     "name": "HOPE BIBLE BAPTIST CHURCH",
-    "address": "508 S MAPLE ST",
+    "address": "508 S MAPLE ST MAPL",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1447,7 +1447,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRIAN V NUTTER. PO BOX 156 508 S MAPLE ST MAPLE RAPIDS MI 48871 SOULWINNING, BUS, REFORMERS UNANIMOUS KJB, HAC, FAIRHAVEN, PCC, BJU, MARANATHA, NORTHLAND 192 SPRING ST HILLSDALE MI 49242"
+    "description": "PO BOX 156 E RAPIDS MI 48871 SOULWINNING, BUS, REFORMERS UNANIMOUS KJB, HAC, FAIRHAVEN, PCC, BJU, MARANATHA, NORTHLAND 192 SPRING ST HILLSDALE MI 49242"
   },
   {
     "id": "2260",
@@ -1466,7 +1466,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "LADIES,YOUTH,VAN,SOULWINNING KJB, REVIVAL FIRES, 10183 LAPEER RD DAVISON MI 48423 FLINT AREA"
+    "description": "LADIES,YOUTH,VAN,SOULWINNING KJB, REVIVAL FIRES, DAVISON MI 48423 FLINT AREA"
   },
   {
     "id": "2261",
@@ -1484,7 +1484,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL FREY. SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "2262",
@@ -1503,7 +1503,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVEN MILAM. 8073 CATHRO RD ALPENA MI 49707 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, BUS,SOULWINNING; ANTIPAS BAPTIST BIBLE INSTITUTE KJB, BWM"
+    "description": "ALPENA MI 49707 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, BUS,SOULWINNING; ANTIPAS BAPTIST BIBLE INSTITUTE KJB, BWM"
   },
   {
     "id": "2263",
@@ -1521,7 +1521,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD LAKE. PO BOX 1525 9480 W LAKE CITY RD HOUGHTON LAKE MI 48629 (ON THE CORNER OF US-27 & M-55) SS 945,SM 11,SN 6,W 7 AWANA, SENIORS, YOUTH, TEENS, AUDIO SERMONS KJB, HYLES"
+    "description": "PO BOX 1525 HOUGHTON LAKE MI 48629 (ON THE CORNER OF US-27 & M-55) SS 945,SM 11,SN 6,W 7 AWANA, SENIORS, YOUTH, TEENS, AUDIO SERMONS KJB, HYLES"
   },
   {
     "id": "2264",
@@ -1539,7 +1539,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN FIELDS. 2114 MONACO ST FLINT MI 48532 KJB, HYLES"
+    "description": "FLINT MI 48532 KJB, HYLES"
   },
   {
     "id": "2265",
@@ -1557,12 +1557,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID ISEMINGER. 2024 PONTIAC RD AUBURN HILLS MI 48326-2453 SS 10,SM 11,SN 6,W 7 BUS, SENIORS, TEENS; HERITAGE CHRISTIAN SCHOOL,K-12,ACE; AUDIO MUSIC KJB church."
+    "description": "AUBURN HILLS MI 48326-2453 SS 10,SM 11,SN 6,W 7 BUS, SENIORS, TEENS; HERITAGE CHRISTIAN SCHOOL,K-12,ACE; AUDIO MUSIC KJB church"
   },
   {
     "id": "2266",
     "name": "NEEDMORE INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "7 GRAND LEDGE NATIONAL GUARD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1576,12 +1576,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUG ROGERS. 319 W NEEDMORE HWY CHARLOTTE MI 48813 SS 10,SM 11,SN 6,W 7 GRAND LEDGE NATIONAL GUARDS  9 MILES KJB church."
+    "description": "319 W NEEDMORE HWY CHARLOTTE MI 48813 SS 10,SM 11,SN 6,W S 9 MILES KJB church"
   },
   {
     "id": "2267",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "751 W MAUMEE ST",
+    "address": "751 W MAUMEE ST ADR",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1594,7 +1594,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "751 W MAUMEE ST ADRIAN MI 49221 BUS,DEAF,"
+    "description": "IAN MI 49221 BUS,DEAF"
   },
   {
     "id": "2268",
@@ -1613,7 +1613,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MICHAEL KRUCHKOW. KJB, BBF"
+    "description": "KJB, BBF"
   },
   {
     "id": "2269",
@@ -1631,7 +1631,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "175 MANITOU RD MANITOU BEACH MI 49253 SS 930,SM 1045,SN 6,W 7,SW"
+    "description": "MANITOU BEACH MI 49253 SS 930,SM 1045,SN 6,W 7,SW"
   },
   {
     "id": "2270",
@@ -1650,12 +1650,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by L E TRAXLER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2271",
     "name": "ROCHESTER HILLS BAPTIST CHURCH",
-    "address": "3300 S LIVERNOIS RD",
+    "address": "3300 S LIVERNOIS RD ROCHEST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1668,7 +1668,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HANSEN. 3300 S LIVERNOIS RD ROCHESTER HILLS MI 48307-4538 SS 10,SM 11,SN 6,W 7,SW TH 630 AUDIO & VIDEO SERMONS, AWANA, BUS, TEENS, 560 AM RADIO; ROCHESTER HILLS CHRISTIAN SCHOOL,PS-12 KJB church."
+    "description": "ER HILLS MI 48307-4538 SS 10,SM 11,SN 6,W 7,SW TH 630 AUDIO & VIDEO SERMONS, AWANA, BUS, TEENS, 560 AM RADIO; ROCHESTER HILLS CHRISTIAN SCHOOL,PS-12 KJB church"
   },
   {
     "id": "2272",
@@ -1686,7 +1686,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL GAYMON. 2794 W MAPLEHURST DR ROSCOMMON MI 48653 SS 10,SM 11,SN 6,W 7 MASTER CLUBS, TEEN;IMMANUEL CHRISTIAN SCHOOL,MACS PO BOX 238 6910 CADE RD BROWN CITY MI 48416 SS 10,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS KJB"
+    "description": "ROSCOMMON MI 48653 SS 10,SM 11,SN 6,W 7 MASTER CLUBS, TEEN;IMMANUEL CHRISTIAN SCHOOL,MACS PO BOX 238 6910 CADE RD BROWN CITY MI 48416 SS 10,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS KJB"
   },
   {
     "id": "2273",
@@ -1704,7 +1704,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUANE SWEET. 7971 WASHINGTON ST MELVIN MI 48454 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "MELVIN MI 48454 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "2274",
@@ -1717,14 +1717,14 @@ export const michiganChurches: Church[] = [
     "longitude": -83.5489,
     "phone": "(810) 736-9220",
     "website": "http://gibaptist.blogspot.com",
-    "pastor": "BRIAN S BLOUNT",
+    "pastor": "LUDINGTON MI 49431 SS 10,SM 11,SN 6,W 7",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF",
       "Independent"
     ],
-    "description": "Led by BRIAN S BLOUNT. 4498 N GENESEE RD FLINT MI 48506 SS 945,SM 11,SN 6,W 630 KJB, BBF 1950 N JEBAVY DR LUDINGTON MI 49431 SS 10,SM 11,SN 6,W 7"
+    "description": "FLINT MI 48506 SS 945,SM 11,SN 6,W 630 KJB, BBF 1950 N JEBAVY DR LUDINGTON MI 49431 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2275",
@@ -1742,12 +1742,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYLE OHMAN.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2276",
     "name": "JUNIATA BAPTIST CHURCH",
-    "address": "5656 WASHBURN RD",
+    "address": "730 JUNIATA CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1755,13 +1755,13 @@ export const michiganChurches: Church[] = [
     "longitude": -84.8492,
     "phone": "(989) 823-7848",
     "website": "http://www.juniatabaptist.org",
-    "pastor": "KEITH WALL",
+    "pastor": "IRON MOUNTAIN MI 49801 SS 930,SM 1030,SN 6,W 730 KJ",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "ABA"
     ],
-    "description": "Led by KEITH WALL. 5656 WASHBURN RD VASSAR MI 48768 SS 10,SM 11,SN 7,W 730 JUNIATA CHRISTIAN SCHOOL,TRAD.,K5-12; AUDIO SERMONS KJB, REVIVAL FIRES, 1301 W FRANK PIPP DR IRON MOUNTAIN MI 49801 SS 930,SM 1030,SN 6,W 730 KJ"
+    "description": "VASSAR MI 48768 SS 10,SM 11,SN 7,W IAN SCHOOL,TRAD.,K5-12; AUDIO SERMONS KJB, REVIVAL FIRES, 1301 W FRANK PIPP DR IRON MOUNTAIN MI 49801 SS 930,SM 1030,SN 6,W 730 KJ"
   },
   {
     "id": "2277",
@@ -1780,7 +1780,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIMOTHY J WHALEN. PO BOX 09248 2135 SPRINGWELLS AVE DETROIT MI 48209 SS 10,SM 11,SN 6,W 7 119 HOYT ST OWOSSO MI 48867 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, VIDEO, SOULWINNING 5855 M-66 N CHARLEVOIX MI 49720 SS 10,SM 11,SN KJB church."
+    "description": "PO BOX 09248 DETROIT MI 48209 SS 10,SM 11,SN 6,W 7 119 HOYT ST OWOSSO MI 48867 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, VIDEO, SOULWINNING 5855 M-66 N CHARLEVOIX MI 49720 SS 10,SM 11,SN KJB church"
   },
   {
     "id": "2278",
@@ -1798,7 +1798,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES PAYNE SR. 28875 7 MILE RD LIVONIA MI 48152 KJB church."
+    "description": "LIVONIA MI 48152 KJB church"
   },
   {
     "id": "2279",
@@ -1811,18 +1811,18 @@ export const michiganChurches: Church[] = [
     "longitude": -85.1047,
     "phone": "(989) 631-1384",
     "website": "http://www.midlandbaptist.net",
-    "pastor": "",
+    "pastor": "KJB, HYLES",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "5009 N JEFFERSON MIDLAND MI 48640 SS 10,SM 11,SN 6,W 7 TEEN, YOUTH, SOULWINNING, BUS, SENIORS, AUDIO SERMONS, PROPHETS CHAMBER NEEDS PASTOR KJB, HYLES"
+    "description": "5009 N JEFFERSON MIDLAND MI 48640 SS 10,SM 11,SN 6,W 7 TEEN, YOUTH, SOULWINNING, BUS, SENIORS, AUDIO SERMONS, PROPHETS CHAMBER NEEDS"
   },
   {
     "id": "2280",
     "name": "ANTRIM BAPTIST CHURCH",
-    "address": "4509 LOVEJOY RD",
+    "address": "1 E OF FOWLERVILLE RD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1835,7 +1835,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY TOLAR. 4509 LOVEJOY RD BYRON MI 48418 1 E OF FOWLERVILLE RD SS 10,SM 11,SN 6 AUDIO SERMONS, BUS,YOUTH KJB, HYLES"
+    "description": "BYRON MI 48418 SS 10,SM 11,SN 6 AUDIO SERMONS, BUS,YOUTH KJB, HYLES"
   },
   {
     "id": "2281",
@@ -1853,12 +1853,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT. 17999 WASHBURN RD GRASS LAKE MI 49240 JACKSON & ANN ARBOR AREA SS 10,SM 11,SN 6,W 7 BUS, TEEN 6504 W M 72 GRAYLING MI 49738 SS 945,SM 1030,SN 6,W 7 SENIORS, AWANA; CALVARY BAPTIST ACADEMY,ACE,K-12; CA KJB church."
+    "description": "GRASS LAKE MI 49240 JACKSON & ANN ARBOR AREA SS 10,SM 11,SN 6,W 7 BUS, TEEN 6504 W M 72 GRAYLING MI 49738 SS 945,SM 1030,SN 6,W 7 SENIORS, AWANA; CALVARY BAPTIST ACADEMY,ACE,K-12; CA KJB church"
   },
   {
     "id": "2282",
     "name": "JOY BAPTIST CHURCH",
-    "address": "37055 JOY RD",
+    "address": "37055 JOY RD WEST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "37055",
@@ -1871,12 +1871,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN HENRY. 37055 JOY RD WESTLAND MI 48185 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS ONLINE PATCH PIRATE, BUS, PRINTING, TEEN, SENIORS, BAPTIST BREAD DAILY DEVOTIONAL KJB church."
+    "description": "LAND MI 48185 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS ONLINE PATCH PIRATE, BUS, PRINTING, TEEN, SENIORS, BAPTIST BREAD DAILY DEVOTIONAL KJB church"
   },
   {
     "id": "2283",
     "name": "FOSTORIA BAPTIST CHURCH",
-    "address": "8933 FOSTORIA RD",
+    "address": "8933 FOSTORIA RD FOST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1890,12 +1890,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by LOU JURVA. 8933 FOSTORIA RD FOSTORIA MI 48435 SS 10,SM 11,SN 7,W 7 KJB, HYLES"
+    "description": "ORIA MI 48435 SS 10,SM 11,SN 7,W 7 KJB, HYLES"
   },
   {
     "id": "2284",
     "name": "SHERIDAN ROAD BAPTIST CHURCH",
-    "address": "6911 SHERIDAN RD",
+    "address": "7 SHERIDAN RD CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1909,7 +1909,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PAUL L OWENS. 6911 SHERIDAN RD SAGINAW MI 48601 SS 10,SM 11,SN 6,W 7 SHERIDAN RD CHRISTIAN SCHOOL,PS-12 KJB, BBFI, WBFI"
+    "description": "SAGINAW MI 48601 SS 10,SM 11,SN 6,W IAN SCHOOL,PS-12 KJB, BBFI, WBFI"
   },
   {
     "id": "2285",
@@ -1927,12 +1927,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J TODD VANAMAN. PO BOX 29099 47 E JOSEPH ST ECORSE MI 48229 SS 10,SM 11,SN 6,W 7 BIBLE COLLEGE KJB, BEMA, RICE RANCH, BJU"
+    "description": "PO BOX 29099 ECORSE MI 48229 SS 10,SM 11,SN 6,W 7 BIBLE COLLEGE KJB, BEMA, RICE RANCH, BJU"
   },
   {
     "id": "2286",
     "name": "DIXIE BAPTIST CHURCH",
-    "address": "",
+    "address": "8585 DIXIE HWY CLARKST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -1946,7 +1946,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CODY KUEHL. 8585 DIXIE HWY CLARKSTON MI 48348 SS 10,SM 11,SN 6,W 7 AWANA; SPRINGFIELD CHRISTIAN ACADEMY,1-12 KJB, BBF"
+    "description": "ON MI 48348 SS 10,SM 11,SN 6,W 7 AWANA; SPRINGFIELD CHRISTIAN ACADEMY,1-12 KJB, BBF"
   },
   {
     "id": "2287",
@@ -1964,7 +1964,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY E DUTY. 5040 BRETON RD SE KENTWOOD MI 49508 PO BOX 226 875 STATE ST BOYNE CITY MI SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "KENTWOOD MI 49508 PO BOX 226 875 STATE ST BOYNE CITY MI SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2288",
@@ -1982,7 +1982,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1007 300 ARTHUR ST PINCONNING MI 48650 SS 10,SM 11,SN 1,W 6"
+    "description": "PO BOX 1007 PINCONNING MI 48650 SS 10,SM 11,SN 1,W 6"
   },
   {
     "id": "2289",
@@ -2000,7 +2000,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BARRY BEDWELL. KJB, IBFI,BBC-MO, ARLINGTON-BC, MIDWESTERN-BC 26305 FORD RD DEARBORN HEIGHTS MI 48127 SS 10,SM 11,SN 6, W 730 KJB, HYLES"
+    "description": "KJB, IBFI,BBC-MO, ARLINGTON-BC, MIDWESTERN-BC DEARBORN HEIGHTS MI 48127 SS 10,SM 11,SN 6, W 730 KJB, HYLES"
   },
   {
     "id": "2290",
@@ -2018,7 +2018,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BARRY SHAFF. PO BOX 562 47100 I-94 N SERVICE DR BELLEVILLE MI 48111 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "PO BOX 562 BELLEVILLE MI 48111 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "2291",
@@ -2036,12 +2036,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG C HURLEY. 1501 COURT ST PORT HURON MI 48060 SS 10,SM 11,SN 6 (2ND & 4TH WEEK 130),W 7 280 E LINCOLN BIRMINGHAM MI 48009-3673 SS 10,SM 11,SN 6,W 730 AWANA,DEAF, BIRMINGHAM BIBLE INSTITUTE KJB church."
+    "description": "PORT HURON MI 48060 SS 10,SM 11,SN 6 (2ND & 4TH WEEK 130),W 7 280 E LINCOLN BIRMINGHAM MI 48009-3673 SS 10,SM 11,SN 6,W 730 AWANA,DEAF, BIRMINGHAM BIBLE INSTITUTE KJB church"
   },
   {
     "id": "2292",
     "name": "BILLS LAKE BAPTIST CHURCH",
-    "address": "8549 SWAN AVE",
+    "address": "49337 PUBLIC ACCESS SIGN IS LOCATED AT SWAN AVE",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2054,7 +2054,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN GREGORY. 8549 SWAN AVE NEWAYGO MI 49337 PUBLIC ACCESS SIGN IS LOCATED AT SWAN AVE SS 10,SM 11,SN 6,W 7 KJB,MIDWESTERN-BC"
+    "description": "GO MI SS 10,SM 11,SN 6,W 7 KJB,MIDWESTERN-BC"
   },
   {
     "id": "2293",
@@ -2072,7 +2072,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN G BROWN. 5388 LIPPINCOTT BLVD LAPEER MI 48446-9711 KJB church."
+    "description": "LAPEER MI 48446-9711 KJB church"
   },
   {
     "id": "2294",
@@ -2090,7 +2090,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID T SMITH. 9375 STARK RD LIVONIA MI 48150 SS 945,SM 1030,SN KJB, WEST COAST-BC, CROWN BC"
+    "description": "LIVONIA MI 48150 SS 945,SM 1030,SN KJB, WEST COAST-BC, CROWN BC"
   },
   {
     "id": "2295",
@@ -2109,12 +2109,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by R J MORELLI. 600 BUTTERNUT DR HOLLAND MI 49424 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED, PRE-TRIB PO BOX 28 3706 MT OLIVET KALAMAZOO MI 49004 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS"
+    "description": "HOLLAND MI 49424 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED, PRE-TRIB PO BOX 28 3706 MT OLIVET KALAMAZOO MI 49004 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS"
   },
   {
     "id": "2296",
     "name": "DOWNRIVER BAPTIST TEMPLE",
-    "address": "1706 OLD GODDARD",
+    "address": "1706 OLD GODDARD LINCOLN",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2127,7 +2127,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1706 OLD GODDARD LINCOLN PARK MI 48146"
+    "description": "PARK MI 48146"
   },
   {
     "id": "2297",
@@ -2145,7 +2145,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GENE KRACHENFELS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2298",
@@ -2163,7 +2163,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY BIGGS. 620 N WIXOM RD WIXOM MI 48393 SS 945,SM 1045,SN 6,W 7 CHILDRENS,TEENS; WIXOM CHRISTIAN SCHOOL,K-12; SIGNS OF A CHILD DAYCARE INFANT-5 KJB, HYLES"
+    "description": "WIXOM MI 48393 SS 945,SM 1045,SN 6,W 7 CHILDRENS,TEENS; WIXOM CHRISTIAN SCHOOL,K-12; SIGNS OF A CHILD DAYCARE INFANT-5 KJB, HYLES"
   },
   {
     "id": "2299",
@@ -2181,7 +2181,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALTER JONES. 1182 KEMP RD PETOSKEY MI 49770 SS 10,SM 11,SN 6,W 7 BUS, REFORMERS UNANIMOUS, UPWARD BOUND, AUDIO SERMONS KJB church."
+    "description": "PETOSKEY MI 49770 SS 10,SM 11,SN 6,W 7 BUS, REFORMERS UNANIMOUS, UPWARD BOUND, AUDIO SERMONS KJB church"
   },
   {
     "id": "2300",
@@ -2200,7 +2200,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DALE A HAMMOND. 11285 E TEN MILE RD WARREN MI 48089 SS 10,SM 11,SN 6 KJB,UNAFFILIATED"
+    "description": "WARREN MI 48089 SS 10,SM 11,SN 6 KJB,UNAFFILIATED"
   },
   {
     "id": "2301",
@@ -2218,7 +2218,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6510 MANISTEE ST BOX 154 FREDERIC MI 49733"
+    "description": "FREDERIC MI 49733"
   },
   {
     "id": "2302",
@@ -2236,7 +2236,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE LEWIS. SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2303",
@@ -2254,7 +2254,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD WAGNER. 7500 W MT MORRIS RD FLUSHING MI 48433 SS 10,SM 11,SN 6,W 630 KJB,BJU,NORTHLAND-BC"
+    "description": "FLUSHING MI 48433 SS 10,SM 11,SN 6,W 630 KJB,BJU,NORTHLAND-BC"
   },
   {
     "id": "2304",
@@ -2274,7 +2274,7 @@ export const michiganChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by ARTHUR BARTON. 23970 HALL RD CLINTON TOWNSHIP MI 48043 SS 930,SM 1045,SN 6,W 645 (DURING SCHL YR) & 7 (WHEN SCHOOL IS OUT) AWANA, YOUTH, COUPLES, CHOIR, MEN & LADIES BIBLE STUDY, 1 MILE: SELFRIDGE ANG BASE KJB, PBI"
+    "description": "CLINTON TOWNSHIP MI 48043 SS 930,SM 1045,SN 6,W 645 (DURING SCHL YR) & 7 (WHEN SCHOOL IS OUT) AWANA, YOUTH, COUPLES, CHOIR, MEN & LADIES BIBLE STUDY, 1 MILE: SELFRIDGE ANG BASE KJB, PBI"
   },
   {
     "id": "2305",
@@ -2311,7 +2311,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NEIL RANDALL. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "2307",
@@ -2329,7 +2329,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL F AUSTIN. 939 E MICHIGAN AVE GRASS LAKE MI 49240 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GRASS LAKE MI 49240 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2308",
@@ -2347,7 +2347,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID ROGERS. 803 W WASHINGTON GREENVILLE MI 48838 KJB, HYLES"
+    "description": "803 W WASHINGTON GREENVILLE MI 48838 KJB, HYLES"
   },
   {
     "id": "2309",
@@ -2367,7 +2367,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TIM BERLIN. 2946 M 68 APT #M ROGERS CITY MI 49779 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS; ROGERS CHRISTIAN ACADEMY,K-12 KJB (Anti-Ruckman), MBBC 26510 SCHOENHERR RD WARREN MI 48089 SS 945,SM 11,SN 6,W 7 FAITH CHRI"
+    "description": "2946 M 68 APT #M ROGERS CITY MI 49779 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS; ROGERS CHRISTIAN ACADEMY,K-12 KJB (Anti-Ruckman), MBBC WARREN MI 48089 SS 945,SM 11,SN 6,W 7 FAITH CHRI"
   },
   {
     "id": "2310",
@@ -2386,7 +2386,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES HOWIE. 10774 NINE MILE RD WHITMORE LAKE MI 48189-9131 SS 945,SM 11,SN 6,W 7 PATCH PIRATE, FLAME ARTICLES ONLINE KJB, BBF, GARBC"
+    "description": "WHITMORE LAKE MI 48189-9131 SS 945,SM 11,SN 6,W 7 PATCH PIRATE, FLAME ARTICLES ONLINE KJB, BBF, GARBC"
   },
   {
     "id": "2311",
@@ -2405,12 +2405,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY J WITTE. 426 W 14 MILE RD CLAWSON MI 48017 SS 10,SM 11,SN 6,W 11AM JOY CLUB, YOUTH GROUP, TEENS KJB, HYLES 1006 E 4TH AVE SAULT SAINTE MARIE MI 49783 COMMUNITY BC, K5-12, AACS 56 W OREGON ST LAPEER MI 48446 SS"
+    "description": "CLAWSON MI 48017 SS 10,SM 11,SN 6,W 11AM JOY CLUB, YOUTH GROUP, TEENS KJB, HYLES 1006 E 4TH AVE SAULT SAINTE MARIE MI 49783 COMMUNITY BC, K5-12, AACS 56 W OREGON ST LAPEER MI 48446 SS"
   },
   {
     "id": "2312",
     "name": "GATEWAY ANABAPTIST CHURCH",
-    "address": "6146 E DUNBAR RD",
+    "address": "406 GRAND RIVER RD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2424,12 +2424,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JEFF WALTERS. 6146 E DUNBAR RD MONROE MI 48161 SS 10,SM 11,SN 6,W 7 STREET,PATCH PIRATE,CHOIR, FREEDOM SCHOOL, INSTITUTE SUNDAY NIGHTS 1994 S VAN DYKE MARLETTE MI 48453 SS 10,SM 11,SN 6,W 7 406 GRAND RIVER RD BANCR KJB church."
+    "description": "MONROE MI 48161 SS 10,SM 11,SN 6,W 7 STREET,PATCH PIRATE,CHOIR, FREEDOM SCHOOL, INSTITUTE SUNDAY NIGHTS 1994 S VAN DYKE MARLETTE MI 48453 SS 10,SM 11,SN 6,W 7 BANCR KJB church"
   },
   {
     "id": "2313",
     "name": "FENMORE BAPTIST CHURCH",
-    "address": "7888 N HOLLISTER RD",
+    "address": "7888 N HOLLISTER RD BANNIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2442,7 +2442,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MAC WOODY. 7888 N HOLLISTER RD BANNISTER MI 48807 KJB, PRE-MIL"
+    "description": "ER MI 48807 KJB, PRE-MIL"
   },
   {
     "id": "2314",
@@ -2461,7 +2461,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JEFF WALTERS. 664 DAHLSTROM RD GWINN MI 49841 SS 10,SM 11,THU 7 SOULWINNING, RADIO, CHURCH PLANTERS INSTITUTE, HIWATHA BIBLE INSTITUTE, TENT, AVIATION, CHURCH PLANTING 44 BEEBE ST LAKE ORION MI 48362 1380 E ROUND L KJB church."
+    "description": "GWINN MI 49841 SS 10,SM 11,THU 7 SOULWINNING, RADIO, CHURCH PLANTERS INSTITUTE, HIWATHA BIBLE INSTITUTE, TENT, AVIATION, CHURCH PLANTING 44 BEEBE ST LAKE ORION MI 48362 1380 E ROUND L KJB church"
   },
   {
     "id": "2315",
@@ -2480,12 +2480,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAY CHAMBERS. 10310 ANDERSONVILLE RD DAVISBURG MI 48350-3101 KJB, BBF"
+    "description": "DAVISBURG MI 48350-3101 KJB, BBF"
   },
   {
     "id": "2316",
     "name": "CALVARY BAPTIST CHURCH OF GAYLORD",
-    "address": "",
+    "address": "225 S WISCONSIN GAYLORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2498,12 +2498,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 220 225 S WISCONSIN GAYLORD MI 49735"
+    "description": "PO BOX 220 MI 49735"
   },
   {
     "id": "2317",
     "name": "CALVARY BAPTIST ACADEMY",
-    "address": "30268 MARQUETTE ST",
+    "address": "30268 MARQUETTE ST GARD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "30268",
@@ -2517,7 +2517,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LUTHER STANLEY. KJB, MIDWESTERN-BC 30268 MARQUETTE ST GARDEN CITY MI 48135 SS 10,SM 11,SN 6,W 7 VAN, KINGS KIDS 8414 SAINT CLAIR RD LEXINGTON MI 48450 M-25 @ GALBRAITH LINE RD SM 11,SN 630,W 7 KJV, BBF PO BOX 40 164"
+    "description": "KJB, MIDWESTERN-BC EN CITY MI 48135 SS 10,SM 11,SN 6,W 7 VAN, KINGS KIDS 8414 SAINT CLAIR RD LEXINGTON MI 48450 M-25 @ GALBRAITH LINE RD SM 11,SN 630,W 7 KJV, BBF PO BOX 40 164"
   },
   {
     "id": "2318",
@@ -2535,12 +2535,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL A WILLIAMS. 4222 N ELMS RD FLUSHING MI 48433 BUS, RU, TEEN KJB,HYLES"
+    "description": "FLUSHING MI 48433 BUS, RU, TEEN KJB,HYLES"
   },
   {
     "id": "2319",
     "name": "NORTHSTAR BAPTIST CHURCH",
-    "address": "3041 REEDER RD",
+    "address": "3041 REEDER RD CLARKST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2553,7 +2553,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB NOGALSKI. RR 3 BOX 2784 MCMILLAN MI 49853 7254 CR 415 KJB, ESTEP, TABB 3041 REEDER RD CLARKSTON MI 48346 SS 10,SM 11,SN 6,W 7 AUDIO VIDEO SERMONS KJB, IBFI"
+    "description": "RR 3 BOX 2784 MCMILLAN MI 49853 7254 CR 415 KJB, ESTEP, TABB ON MI 48346 SS 10,SM 11,SN 6,W 7 AUDIO VIDEO SERMONS KJB, IBFI"
   },
   {
     "id": "2320",
@@ -2571,7 +2571,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILIP SCHOUT. 24949 HASS ST DEARBORN HEIGHTS MI 48127 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DEARBORN HEIGHTS MI 48127 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2321",
@@ -2589,7 +2589,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH ALDRICH. 244 BALDWIN ST JENISON MI 49428 KJB church."
+    "description": "JENISON MI 49428 KJB church"
   },
   {
     "id": "2322",
@@ -2607,7 +2607,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAGAN. 6020 23 MILE RD SS 945,SM 11,SN 630,W 630 YOUTH GROUP, WOMENS BIBLE STUDY, KINGS KIDS; COOKS PRAIRIE BAPTIST ACADEMY,K-12 KJB, RUCKMAN"
+    "description": "SS 945,SM 11,SN 630,W 630 YOUTH GROUP, WOMENS BIBLE STUDY, KINGS KIDS; COOKS PRAIRIE BAPTIST ACADEMY,K-12 KJB, RUCKMAN"
   },
   {
     "id": "2323",
@@ -2625,12 +2625,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES BOUSLOG. 52909 TEN MILE RD NORTHVILLE MI 48167 SOUTH LYON AREA SM 1030,SN 115 AUDIO & VIDEO SERMONS 7 E CLAY ST #254 NEW BUFFALO MI 49117 SS 945,SM 1045,SN 7,W 7 KJB church."
+    "description": "NORTHVILLE MI 48167 SOUTH LYON AREA SM 1030,SN 115 AUDIO & VIDEO SERMONS 7 E CLAY ST #254 NEW BUFFALO MI 49117 SS 945,SM 1045,SN 7,W 7 KJB church"
   },
   {
     "id": "2324",
     "name": "STURGIS BAPTIST CHURCH",
-    "address": "26268 W CHICAGO RD",
+    "address": "26268 W CHICAGO RD ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "26268",
@@ -2644,7 +2644,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TERRY BOYD. 26268 W CHICAGO RD STURGIS MI 49091 KJB, UNAFFILIATED"
+    "description": "URGIS MI 49091 KJB, UNAFFILIATED"
   },
   {
     "id": "2325",
@@ -2662,7 +2662,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN C BROADUS. 142 SYCAMORE ST JACKSON MI 49202 SS 10,SM 11,SN 6,W 7 BUS, MASTER CLUBS, TEENS, SUPER SENIORS, LADIES KJB church."
+    "description": "JACKSON MI 49202 SS 10,SM 11,SN 6,W 7 BUS, MASTER CLUBS, TEENS, SUPER SENIORS, LADIES KJB church"
   },
   {
     "id": "2326",
@@ -2680,7 +2680,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH STEFFES. 21117 WICK RD TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS KJB church."
+    "description": "TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS KJB church"
   },
   {
     "id": "2327",
@@ -2698,12 +2698,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARC DALTON. 4265 LUNA PIER RD LUNA PIER MI 48157 SS 10,SM 11,SN 630,W 7 BUS, MASTERS CLUB KJB church."
+    "description": "LUNA PIER MI 48157 SS 10,SM 11,SN 630,W 7 BUS, MASTERS CLUB KJB church"
   },
   {
     "id": "2328",
     "name": "LAKECREST BAPTIST CHURCH",
-    "address": "35 AIRPORT RD",
+    "address": "35 AIRPORT RD WATERFORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2718,7 +2718,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by JIM SHUSTER. 35 AIRPORT RD WATERFORD MI 48327 SS 10,SM 11,SN 6,W 7 KJB, PCC"
+    "description": "MI 48327 SS 10,SM 11,SN 6,W 7 KJB, PCC"
   },
   {
     "id": "2329",
@@ -2736,12 +2736,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG MCFADDEN. 2135 E LUDINGTON DR CLARE MI 48617 KJB church."
+    "description": "CLARE MI 48617 KJB church"
   },
   {
     "id": "2330",
     "name": "PRAYER BAPTIST CHURCH",
-    "address": "855 EDWIN ST",
+    "address": "855 EDWIN ST WEST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2754,12 +2754,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL WHITE. 855 EDWIN ST WESTLAND MI 48186 SS 930,SM 1030,SN 6,W 7 YOUTH, TEEN, SINGLES, COUPLES, BUS, DRAMA, CHOIR, SENIORS, PRISON 3200 RED RD CLARKLAKE MI 49201 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "LAND MI 48186 SS 930,SM 1030,SN 6,W 7 YOUTH, TEEN, SINGLES, COUPLES, BUS, DRAMA, CHOIR, SENIORS, PRISON 3200 RED RD CLARKLAKE MI 49201 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2331",
     "name": "PARKER MEMORIAL BAPTIST CHURCH",
-    "address": "1902 CAVANAUGH RD",
+    "address": "512 SUNDAY LAKE ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -2773,7 +2773,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN D WENGER. 1902 CAVANAUGH RD LANSING MI 48910 KJB, BBF 512 SUNDAY LAKE ST WAKEFIELD MI 49968 6575 N LUMBERJACK RD RIVERDALE MI 48877 LANSING AREA"
+    "description": "LANSING MI 48910 KJB, BBF WAKEFIELD MI 49968 6575 N LUMBERJACK RD RIVERDALE MI 48877 LANSING AREA"
   },
   {
     "id": "2332",
@@ -2791,7 +2791,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN HASKIN. PO BOX 165 1158 W CARSON CITY RD GREENVILLE MI 48838 SS 10,SM 11,SN 7,W 7 BUS; BETH HAVEN CHRISTIAN SCHOOL,K-12 KJB church."
+    "description": "PO BOX 165 GREENVILLE MI 48838 SS 10,SM 11,SN 7,W 7 BUS; BETH HAVEN CHRISTIAN SCHOOL,K-12 KJB church"
   },
   {
     "id": "2333",
@@ -2810,7 +2810,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICHARD SMITH. 4938 MOORE RD WILLIAMSBURG MI 49690 PHYSICAL ADD: 8909 US 31 N KJB, BBF, ABWE, BMM, BEMA"
+    "description": "WILLIAMSBURG MI 49690 PHYSICAL ADD: 8909 US 31 N KJB, BBF, ABWE, BMM, BEMA"
   },
   {
     "id": "2334",
@@ -2828,7 +2828,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SIMMONS. 29475 6 MILE RD LIVONIA MI 48152 SS 10,SM 11,SN 6,W 7 AWANA, TEEN, SENIORS PO BOX 64 308 ELM ST LUTHER MI 49656 SS 10, SM 11, SN 6, W 7 KJB, WEST COAST-BC 10500 GRANDBLANC RD GAINES MI 48436 SS 930,SM"
+    "description": "LIVONIA MI 48152 SS 10,SM 11,SN 6,W 7 AWANA, TEEN, SENIORS PO BOX 64 308 ELM ST LUTHER MI 49656 SS 10, SM 11, SN 6, W 7 KJB, WEST COAST-BC 10500 GRANDBLANC RD GAINES MI 48436 SS 930,SM"
   },
   {
     "id": "2335",
@@ -2848,7 +2848,7 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by GLENN TATTERSON. 2301 N ELM ST JACKSON MI 49201 SS 945, SM1045, SN 6,W 7 MASTERS CLUB, SOULWINNING, PRISON & JAIL, TEEN PROGRAMS KJB, BBFI, WBF"
+    "description": "JACKSON MI 49201 SS 945, SM1045, SN 6,W 7 MASTERS CLUB, SOULWINNING, PRISON & JAIL, TEEN PROGRAMS KJB, BBFI, WBF"
   },
   {
     "id": "2336",
@@ -2866,7 +2866,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1430 E BISTOL RD BURTON MI 48529"
+    "description": "BURTON MI 48529"
   },
   {
     "id": "2337",
@@ -2885,7 +2885,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JOSEPH L CROWDER. SS 10,SM 11,SN 630,W 7 MASTERS CLUB, YOUTH, BUS KJB, HAC 118 E ELK ST MANISTIQUE MI 49854 SS 9,SM 10,SN 6,W 7 MASTERS CLUB; BETHEL BAPTIST CHRISTIAN SCHOOL,K5-12 KJB, GOLDEN STATE BC"
+    "description": "SS 10,SM 11,SN 630,W 7 MASTERS CLUB, YOUTH, BUS KJB, HAC MANISTIQUE MI 49854 SS 9,SM 10,SN 6,W 7 MASTERS CLUB; BETHEL BAPTIST CHRISTIAN SCHOOL,K5-12 KJB, GOLDEN STATE BC"
   },
   {
     "id": "2338",
@@ -2904,7 +2904,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ANDREW GROSJEAN. 11210 E PQ AVE SCOTTS MI 49088 near CLIMAX BUS,KINGS KIDS,TEENS,NURSING; PRAIRIE BAPTIST SCHOOL,PS-12 KJB, BBF & MIDWESTERN BIBLE"
+    "description": "SCOTTS MI 49088 near CLIMAX BUS,KINGS KIDS,TEENS,NURSING; PRAIRIE BAPTIST SCHOOL,PS-12 KJB, BBF & MIDWESTERN BIBLE"
   },
   {
     "id": "2339",
@@ -2922,7 +2922,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "26805 VAN BORN RD TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7"
+    "description": "TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2340",
@@ -2941,7 +2941,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DOUGLAS R JACKSON. KJB,IFBA,MBBC 8331 GRATIOT RD  (M-46) SAGINAW MI 48609 Located in the Shields/Thomas Township area. SS 10,SM 11,SN 6,W 730 BUS, SOULWINNING, DEAF, AUDIO SERMONS; COMMUNITY BAPTIST CHRISTIAN SCHOOL,DAY"
+    "description": "KJB,IFBA,MBBC SAGINAW MI 48609 Located in the Shields/Thomas Township area. SS 10,SM 11,SN 6,W 730 BUS, SOULWINNING, DEAF, AUDIO SERMONS; COMMUNITY BAPTIST CHRISTIAN SCHOOL,DAY"
   },
   {
     "id": "2341",
@@ -2960,7 +2960,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRAD LOMAX. 7832 W MT HOPE HWY (JUST WEST OF CANAL RD) GRAND LEDGE MI 48837 SS 945, SM 11, SN 6, W 7 SOULWINNING, TRADITIONAL HYMNS, BUS KJB, MI-IFBA"
+    "description": "7832 W MT HOPE HWY (JUST WEST OF CANAL RD) GRAND LEDGE MI 48837 SS 945, SM 11, SN 6, W 7 SOULWINNING, TRADITIONAL HYMNS, BUS KJB, MI-IFBA"
   },
   {
     "id": "2342",
@@ -2979,7 +2979,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by THURMAN HOLMES. 216 BEESON RD NILES MI 49120 KJB, BBF"
+    "description": "NILES MI 49120 KJB, BBF"
   },
   {
     "id": "2343",
@@ -2997,7 +2997,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY HASELHUHN. 1102 OAK ST WYANDOTTE MI 48192 KJB, WBF, ARLINGTON-BC"
+    "description": "WYANDOTTE MI 48192 KJB, WBF, ARLINGTON-BC"
   },
   {
     "id": "2344",
@@ -3015,7 +3015,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM HUBBARD. 44500 CHERRYHILL RD CANTON MI 48187 SS 930,SM 1030,SN 6,W 7 AWANA, INSTITUTE FOR CHRISTIAN TRAINING KJB church."
+    "description": "CANTON MI 48187 SS 930,SM 1030,SN 6,W 7 AWANA, INSTITUTE FOR CHRISTIAN TRAINING KJB church"
   },
   {
     "id": "2345",
@@ -3033,7 +3033,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG LAPIANKA. 23231 16TH AVE CASNOVIA MI 49318 SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "CASNOVIA MI 49318 SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "2346",
@@ -3051,12 +3051,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN SULLIVAN. PO BOX 62 8916 HWY 23 S OSSINEKE MI 49766 SS 10,SM 11,W 7 KJV, NBBC KJB church."
+    "description": "PO BOX 62 8916 HWY 23 S OSSINEKE MI 49766 SS 10,SM 11,W 7 KJV, NBBC KJB church"
   },
   {
     "id": "2347",
     "name": "FAMILY BAPTIST CHURCH",
-    "address": "535 E BREITUNG AVE",
+    "address": "535 E BREITUNG AVE KINGSFORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3069,7 +3069,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT G HUGAN. 535 E BREITUNG AVE KINGSFORD MI 49802 SM 1045 KJB church."
+    "description": "MI 49802 SM 1045 KJB church"
   },
   {
     "id": "2348",
@@ -3087,7 +3087,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "27260 BROWN ST FLAT ROCK MI 48134 SS 10,SM 11,S BS 530,SN 6,W 7,SW"
+    "description": "FLAT ROCK MI 48134 SS 10,SM 11,S BS 530,SN 6,W 7,SW"
   },
   {
     "id": "2349",
@@ -3105,7 +3105,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STACEY ALAN WILDER. KJV, BJU, WCBC KJB church."
+    "description": "KJV, BJU, WCBC KJB church"
   },
   {
     "id": "2350",
@@ -3123,7 +3123,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by REGGIE COLEMAN. 27032 MARCELLUS HWY DOWAGIAC MI 49047 SS 945,SM 11,SN 6,W 7 KINGS KIDS,ANCHOR BIBLE CAMP; CALVARY BIBLE ACADEMY,5-12 KJB, MI-IFBA"
+    "description": "27032 MARCELLUS HWY DOWAGIAC MI 49047 SS 945,SM 11,SN 6,W 7 KINGS KIDS,ANCHOR BIBLE CAMP; CALVARY BIBLE ACADEMY,5-12 KJB, MI-IFBA"
   },
   {
     "id": "2351",
@@ -3142,7 +3142,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID ISEMINGER. 108 E AVE NAPOLEON MI 49261 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "NAPOLEON MI 49261 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2352",
@@ -3161,7 +3161,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JONATHAN M BARBER. 345 E LINCOLN AVE IONIA MI 48846 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "IONIA MI 48846 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2353",
@@ -3181,12 +3181,12 @@ export const michiganChurches: Church[] = [
       "Soulwinning",
       "ABA"
     ],
-    "description": "Led by STEVEN D HARDUK. 2150 S WAGNER RD ANN ARBOR MI 48103 SS 945,SM 11,SN 6, W 7 KJB, ABWE"
+    "description": "ANN ARBOR MI 48103 SS 945,SM 11,SN 6, W 7 KJB, ABWE"
   },
   {
     "id": "2354",
     "name": "FIRST BAPTIST CHURCH OF ALTO",
-    "address": "20473 ELSDEN ST",
+    "address": "20473 ELSDEN ST ONAWAY",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "20473",
@@ -3199,7 +3199,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA FERRAIUOLO. 6015 BANCROFT ALTO MI 49302 SS 10,SM 11,SN 6,W 7 PO BOX 702 20473 ELSDEN ST ONAWAY MI 49765 SS 10,SM 11,SN 6,W 6 KJB church."
+    "description": "6015 BANCROFT ALTO MI 49302 SS 10,SM 11,SN 6,W 7 PO BOX 702 MI 49765 SS 10,SM 11,SN 6,W 6 KJB church"
   },
   {
     "id": "2355",
@@ -3217,12 +3217,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LON RUSSELL. 2253 BAKER RD BOX 4 DEXTER MI 48130 SS 930,SM 1030,SN 6,W 630 3755 COUNTY RD 456 E SKANDIA MI 49885 SS 10,SM 11, SN 6,W 630 KJB church."
+    "description": "DEXTER MI 48130 SS 930,SM 1030,SN 6,W 630 3755 COUNTY RD 456 E SKANDIA MI 49885 SS 10,SM 11, SN 6,W 630 KJB church"
   },
   {
     "id": "2356",
     "name": "RAVINE ROAD BAPTIST CHURCH",
-    "address": "4445 RAVINE RD",
+    "address": "41 N BEDFORD RD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3235,7 +3235,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON KENNEY. 4445 RAVINE RD KALAMAZOO MI 49007 41 N BEDFORD RD BATTLE CREEK MI 49017 KJB church."
+    "description": "KALAMAZOO MI 49007 BATTLE CREEK MI 49017 KJB church"
   },
   {
     "id": "2357",
@@ -3253,7 +3253,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PAUL E PICKELL. 2233 MICHIGAN ST NE GRAND RAPIDS MI 49503 SS 930,SM 1045,SN 6,W 7 AWANA,1570 AM, BUS, DEAF 117 S HILLSDALE NORTH ADAMS MI 49262 218 E MAIN ST SS 10,SM 11,SN 6,W 7"
+    "description": "GRAND RAPIDS MI 49503 SS 930,SM 1045,SN 6,W 7 AWANA,1570 AM, BUS, DEAF 117 S HILLSDALE NORTH ADAMS MI 49262 218 E MAIN ST SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2358",
@@ -3271,12 +3271,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by GENE HAYMAKER. 11400 PLUM ORCHARD RD MUNITH MI 49259 SS 10,SM 11,SN 6,W 7 REFORMERS UNANIMOUS"
+    "description": "MUNITH MI 49259 SS 10,SM 11,SN 6,W 7 REFORMERS UNANIMOUS"
   },
   {
     "id": "2359",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "1440 S ISABELLA RD",
+    "address": "1440 S ISABELLA RD MT PL",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3289,7 +3289,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CLIVE ELLIS. 1440 S ISABELLA RD MT PLEASANT MI 48858"
+    "description": "EASANT MI 48858"
   },
   {
     "id": "2360",
@@ -3307,12 +3307,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by G ERIC BERGMAN. 1346 BIRCHVILLE DR ALGER MI 48610 17009 11 1/2 MILE RD BATTLE CREEK MI 49015 SS 9,SM 10,SN 6,W 6"
+    "description": "ALGER MI 48610 17009 11 1/2 MILE RD BATTLE CREEK MI 49015 SS 9,SM 10,SN 6,W 6"
   },
   {
     "id": "2361",
     "name": "NORTHERN MICHIGAN BIBLE CHURCH",
-    "address": "1833 MCMICHAEL RD",
+    "address": "1833 MCMICHAEL RD NORTHERN MICHIGAN CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3325,7 +3325,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DONALD O PHILLIPS. PO BOX 287 BURT LAKE MI 49717 1833 MCMICHAEL RD NORTHERN MICHIGAN CHRISTIAN ACADEMY,PS-12,AACS 2899 HOLT RD MASON MI 48854 945,SM 11,SN 6,W 7 FAITHWAY-BC, BJU, MBBC"
+    "description": "PO BOX 287 BURT LAKE MI 49717 IAN ACADEMY,PS-12,AACS 2899 HOLT RD MASON MI 48854 945,SM 11,SN 6,W 7 FAITHWAY-BC, BJU, MBBC"
   },
   {
     "id": "2362",
@@ -3343,7 +3343,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD ST AMAND. 2120 SCOFIELD CARLETON RD CARLETON MI 48117 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS"
+    "description": "CARLETON MI 48117 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "2363",
@@ -3361,12 +3361,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD ECKELBARGER. 23000 SHADER ST CLINTON TOWNSHIP MI 48036 IFBA of MI 5501 E PECK RD CROSWELL MI 48422 SS 10,SM 11,SN 7"
+    "description": "CLINTON TOWNSHIP MI 48036 IFBA of MI 5501 E PECK RD CROSWELL MI 48422 SS 10,SM 11,SN 7"
   },
   {
     "id": "2364",
     "name": "LUZERNE BAPTIST CHURCH",
-    "address": "3642 W PARK RD",
+    "address": "49412 FAITH CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3380,12 +3380,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRYAN TANIS. PO BOX 335 LUZERNE MI 48636-0335 3642 W PARK RD SM 11,SN 6 7729 W 48TH ST FREMONT MI 49412 FAITH CHRISTIAN SCHOOL,K5-12 PO BOX 1007 300 ARTHUR ST PINCONNING MI 48650 5525 N HOPE RD HOPE MI 48628 SM 10 KJB church."
+    "description": "PO BOX 335 LUZERNE MI 48636-0335 SM 11,SN 6 7729 W 48TH ST FREMONT MI IAN SCHOOL,K5-12 PO BOX 1007 300 ARTHUR ST PINCONNING MI 48650 5525 N HOPE RD HOPE MI 48628 SM 10 KJB church"
   },
   {
     "id": "2365",
     "name": "HAMILTON BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 244",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3398,12 +3398,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL ROWLAND. PO BOX 244 3690 M-40 HAMILTON MI 49419 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, MBBC, MI-IFBA KJB church."
+    "description": "3690 M-40 HAMILTON MI 49419 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, MBBC, MI-IFBA KJB church"
   },
   {
     "id": "2366",
     "name": "BAPTIST CHURCH OF HADLEY",
-    "address": "4566 PRATT RD",
+    "address": "295 S ALMONT AVE",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3416,7 +3416,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY ERICSON. 4566 PRATT RD HADLEY MI 48440 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY 295 S ALMONT AVE IMLAY CITY MI 48444 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, IFCA KJB church."
+    "description": "HADLEY MI 48440 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY IMLAY CITY MI 48444 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, IFCA KJB church"
   },
   {
     "id": "2367",
@@ -3435,7 +3435,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by THOMAS HOLLOWOOD. PO BOX 337 150 BROAD ST MICHIGAN CENTER MI 49254 NOT KJV ONLY,BBF KJB church."
+    "description": "PO BOX 337 MICHIGAN CENTER MI 49254 NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "2368",
@@ -3453,12 +3453,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY ADKINS. 980 HAVEN RD ALBION MI 49224 SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY KJB church."
+    "description": "ALBION MI 49224 SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "2369",
     "name": "NEW HOPE BAPTIST CHURCH",
-    "address": "24105 HASS ST",
+    "address": "7306 E ATHERTON RD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "24105",
@@ -3471,7 +3471,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAWN KOOK. PO BOX 62 24105 HASS ST DEARBORN HEIGHTS MI 48127 NOT KJV ONLY, IFBA, FBF 7306 E ATHERTON RD DAVISON MI 48423 KJB church."
+    "description": "PO BOX 62 DEARBORN HEIGHTS MI 48127 NOT KJV ONLY, IFBA, FBF DAVISON MI 48423 KJB church"
   },
   {
     "id": "2370",
@@ -3489,7 +3489,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by JOHN CHIPPEWA. NASB, MI-IFBA, WOL Non-KJV church."
+    "description": "NASB, MI-IFBA, WOL Non-KJV church"
   },
   {
     "id": "2371",
@@ -3508,12 +3508,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SHAWN DEJONG. 3080 N VAN DYKE RD IMLAY CITY MI 48440 SS 10,SM 830 & 11,SN 6,W 7 NOT KJV ONLY, BBF, CEDARVILLE,CCM KJB church."
+    "description": "IMLAY CITY MI 48440 SS 10,SM 830 & 11,SN 6,W 7 NOT KJV ONLY, BBF, CEDARVILLE,CCM KJB church"
   },
   {
     "id": "2372",
     "name": "JAMESTOWN BAPTIST CHURCH",
-    "address": "2472 QUINCY ST",
+    "address": "28237 WARREN RD GARD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3528,12 +3528,12 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JONATHAN D ALLEN. 2472 QUINCY ST HUDSONVILLE MI 49426 NOT KJV ONLY, BBF 28237 WARREN RD GARDEN CITY MI 48135 NOT KJV ONLY, GARBC PO BOX 387 135 4TH ST DOLLAR BAY MI 49922-0387 SS 940,SM 830 & 1050,SN 6 NIV, GARBC 6434  KJB church."
+    "description": "HUDSONVILLE MI 49426 NOT KJV ONLY, BBF EN CITY MI 48135 NOT KJV ONLY, GARBC PO BOX 387 135 4TH ST DOLLAR BAY MI 49922-0387 SS 940,SM 830 & 1050,SN 6 NIV, GARBC 6434 KJB church"
   },
   {
     "id": "2373",
     "name": "GALILEE BAPTIST CHURCH",
-    "address": "291 ORCHARD ST",
+    "address": "5200 PARK RD EAST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3546,12 +3546,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM R BLOUNT. 291 ORCHARD ST SARANAC MI 48881 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC 5200 PARK RD EAST CHINA MI 48054 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, GARBC 1145 W CENTER AVE ESSEXVILLE MI 4873 KJB church."
+    "description": "SARANAC MI 48881 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC CHINA MI 48054 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, GARBC 1145 W CENTER AVE ESSEXVILLE MI 4873 KJB church"
   },
   {
     "id": "2374",
     "name": "FIRST BAPTIST ACADEMY",
-    "address": "134 N LINCOLN ST",
+    "address": "630 VARIOUS BIBLE ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3565,7 +3565,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by SHANE VANDE VREDE. NASB, GARBC BOX 788 134 N LINCOLN ST STANTON MI 48888 SS 945,SM 11,SN 630 VARIOUS BIBLE STUDIES NOT KJV ONLY, MARBC, GARBC KJB church."
+    "description": "NASB, GARBC BOX 788 ANTON MI 48888 SS 945,SM 11,SN UDIES NOT KJV ONLY, MARBC, GARBC KJB church"
   },
   {
     "id": "2375",
@@ -3583,7 +3583,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLENN M RAY JR. 7461 W HIGGINS LAKE DR ROSCOMMON MI 48653 CR 200 in ROSCOMMON SS 10,SM 11,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY 2300 N WAVERLY LANSING MI 48906 SS 930,SM 1045,SN 6,W 7 AWANAS, SENIORS, TEENS NOT KJV ONL KJB church."
+    "description": "ROSCOMMON MI 48653 CR 200 in ROSCOMMON SS 10,SM 11,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY 2300 N WAVERLY LANSING MI 48906 SS 930,SM 1045,SN 6,W 7 AWANAS, SENIORS, TEENS NOT KJV ONL KJB church"
   },
   {
     "id": "2376",
@@ -3601,7 +3601,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by H JACK MILLER. 6830 EASTERN AVE GRAND RAPIDS MI 49508 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "GRAND RAPIDS MI 49508 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2377",
@@ -3619,7 +3619,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2875 52ND ST SE KENTWOOD MI 49508 SS 930,SM 1030,SN 6,W 7"
+    "description": "KENTWOOD MI 49508 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "2378",
@@ -3637,7 +3637,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD PEW. NOT KJV ONLY, GARBC E12551 M28 SHINGLETON MI 49884 near WETMORE NOT KJV ONLY, CERDARVILLE-U KJB church."
+    "description": "NOT KJV ONLY, GARBC E12551 M28 SHINGLETON MI 49884 near WETMORE NOT KJV ONLY, CERDARVILLE-U KJB church"
   },
   {
     "id": "2379",
@@ -3655,7 +3655,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH LARSON. 1258 PALMS RD COLUMBUS MI 48063 NOT KJV ONLY, GARBC, MARBC 3905 12TH ST WAYLAND MI 49348-9552 NOT KJV ONLY, GARBC, GFA, ABWE, BMM KJB church."
+    "description": "COLUMBUS MI 48063 NOT KJV ONLY, GARBC, MARBC 3905 12TH ST WAYLAND MI 49348-9552 NOT KJV ONLY, GARBC, GFA, ABWE, BMM KJB church"
   },
   {
     "id": "2380",
@@ -3673,7 +3673,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3015 ROCHESTER RD ROYAL OAK MI 48073 SS 10,SM 11,SN 6,W 7"
+    "description": "ROYAL OAK MI 48073 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2381",
@@ -3691,7 +3691,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM TRUMBULL. PREACH KJV, STUDY OTHERS, IFBF KJB church."
+    "description": "PREACH KJV, STUDY OTHERS, IFBF KJB church"
   },
   {
     "id": "2382",
@@ -3709,12 +3709,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF HALSTED. 4200 COLUMBIAVILLE RD COLUMBIAVILLE MI 48421 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, S.GRACE-TULIP, GARBC 1200 28TH ST SE GRAND RAPIDS MI 49508 NOT KJV ONLY, CEDARVILLE-U, PILLSBURY-BC KJB church."
+    "description": "COLUMBIAVILLE MI 48421 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, S.GRACE-TULIP, GARBC 1200 28TH ST SE GRAND RAPIDS MI 49508 NOT KJV ONLY, CEDARVILLE-U, PILLSBURY-BC KJB church"
   },
   {
     "id": "2383",
     "name": "LAKESHORE BAPTIST CHURCH",
-    "address": "13664 LAKESHORE DR",
+    "address": "13664 LAKESHORE DR GRAND HAVE",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "13664",
@@ -3727,7 +3727,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM H BROOKS. 13664 LAKESHORE DR GRAND HAVEN MI 49417 KJB, S.GRACE-TULIP"
+    "description": "N MI 49417 KJB, S.GRACE-TULIP"
   },
   {
     "id": "2384",
@@ -3746,12 +3746,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIMOTHY DUREY. 3500 E 12 MILE RD WARREN MI 48092 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, IBFI KJB church."
+    "description": "WARREN MI 48092 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, IBFI KJB church"
   },
   {
     "id": "2385",
     "name": "VENTURA BAPTIST CHURCH",
-    "address": "6004 152ND AVE",
+    "address": "16240 QUINCY ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3764,12 +3764,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL RILEY. 6004 152ND AVE WEST OLIVE MI 49460 16240 QUINCY ST HOLLAND MI 49424 NOT KJV ONLY PO BOX 52 1201 PETERS ST WAKEFIELD MI 49968 SS 10 SM 11 SN 6 W 6 NOT KJV ONLY, GARBC KJB church."
+    "description": "6004 152ND AVE WEST OLIVE MI 49460 HOLLAND MI 49424 NOT KJV ONLY PO BOX 52 1201 PETERS ST WAKEFIELD MI 49968 SS 10 SM 11 SN 6 W 6 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2386",
     "name": "OAKLAND BAPTIST CHURCH",
-    "address": "23893 BECK RD",
+    "address": "703 RIVER RD ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "23893",
@@ -3782,7 +3782,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LUKE PRIEBE. 23893 BECK RD NOVI MI 48374 NOT KJV ONLY, MBBC E703 RIVER RD STEPHENSON MI 49887 SS 930,SM 1030,SN 7,W 7 NOT KJV ONLY, IFCA, IBM KJB church."
+    "description": "NOVI MI 48374 NOT KJV ONLY, MBBC EEPHENSON MI 49887 SS 930,SM 1030,SN 7,W 7 NOT KJV ONLY, IFCA, IBM KJB church"
   },
   {
     "id": "2387",
@@ -3800,7 +3800,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KYLE VEGTER. 113 S STATE RD WHITE CLOUD MI 49349 NOT KJV ONLY, MBBC KJB church."
+    "description": "WHITE CLOUD MI 49349 NOT KJV ONLY, MBBC KJB church"
   },
   {
     "id": "2388",
@@ -3818,7 +3818,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN JONES. 703 E MCDEVITT AVE JACKSON MI 49203 108 MAURICE NOT KJV ONLY PO BOX 87961 CANTON MI 48187-0961 NOT KJV ONLY, GARBC 51 W OAK ST FREMONT MI 49412 NOT KJV ONLY KJB church."
+    "description": "JACKSON MI 49203 108 MAURICE NOT KJV ONLY PO BOX 87961 CANTON MI 48187-0961 NOT KJV ONLY, GARBC 51 W OAK ST FREMONT MI 49412 NOT KJV ONLY KJB church"
   },
   {
     "id": "2389",
@@ -3837,12 +3837,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVE LAMB. 8390 COMMERCE RD COMMERCE TWP MI 48382 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC 1415 NORTHRUP NW GRAND RAPIDS MI 49504-2598 217 N WING ST NORTHVILLE MI 48167 SS 945,SM 11,SN 6,W 7 GARBC, PREACH-VAR KJB church."
+    "description": "COMMERCE TWP MI 48382 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC 1415 NORTHRUP NW GRAND RAPIDS MI 49504-2598 217 N WING ST NORTHVILLE MI 48167 SS 945,SM 11,SN 6,W 7 GARBC, PREACH-VAR KJB church"
   },
   {
     "id": "2390",
     "name": "CUSTER BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 143",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3855,7 +3855,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH E FLOYD. PO BOX 143 1463 E US 10 CUSTER MI 49405 SCOTTVILLE MI 49454 SS SM 9 & 11, SMALL GROUPS VARIOUS TIMES RADIO,YOUTH,CHILDREN’S NOT KJV ONLY, GARBC KJB church."
+    "description": "1463 E US ER MI 49405 SCOTTVILLE MI 49454 SS SM 9 & 11, SMALL GROUPS VARIOUS TIMES RADIO,YOUTH,CHILDREN’S NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2391",
@@ -3873,7 +3873,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3365 COIT AVE NE GRAND RAPIDS MI 49505"
+    "description": "GRAND RAPIDS MI 49505"
   },
   {
     "id": "2392",
@@ -3892,7 +3892,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JAMES HOWARD. NOT KJV ONLY, GARBC 233 S MAIN ST #387 CEDAR SPRING MI 49319 SS 930,SM 1045,SN 6,W 7 KJB church."
+    "description": "NOT KJV ONLY, GARBC CEDAR SPRING MI 49319 SS 930,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "2393",
@@ -3910,7 +3910,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN PETERS. 1534 MASON ST DANSVILLE MI 48819 SS 10,SM 11,SN 145 NOT KJV ONLY KJB church."
+    "description": "DANSVILLE MI 48819 SS 10,SM 11,SN 145 NOT KJV ONLY KJB church"
   },
   {
     "id": "2394",
@@ -3929,7 +3929,7 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by ARTHUR LARSON. 24230 CR 98 MCMILLAN MI 49853 SM 10,SN 7,W 7 NASB,BBF Non-KJV church."
+    "description": "24230 CR 98 MCMILLAN MI 49853 SM 10,SN 7,W 7 NASB,BBF Non-KJV church"
   },
   {
     "id": "2395",
@@ -3948,12 +3948,12 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DYKE CYPHERS. 9100 LEE RD BRIGHTON MI 48116 SS 930,SM 1030,SN 630,W 630 AWANA, TEEN, CHOIR, BRIGHTON BIBLE INSTITUTE BBF, NIV Non-KJV church."
+    "description": "BRIGHTON MI 48116 SS 930,SM 1030,SN 630,W 630 AWANA, TEEN, CHOIR, BRIGHTON BIBLE INSTITUTE BBF, NIV Non-KJV church"
   },
   {
     "id": "2396",
     "name": "RIVES JUNCTION BAPTIST CHURCH",
-    "address": "2800 W BERRY RD",
+    "address": "2800 W BERRY RD RIVES JUNCT",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -3966,7 +3966,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2800 W BERRY RD RIVES JUNCTION MI 49277"
+    "description": "ION MI 49277"
   },
   {
     "id": "2397",
@@ -3984,7 +3984,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by DOUGLAS STRADER. SS 945,SM 11,SN 6,W 7 Non-KJV church."
+    "description": "SS 945,SM 11,SN 6,W 7 Non-KJV church"
   },
   {
     "id": "2398",
@@ -4003,7 +4003,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MARK REYNOLDS. 31 FERMAN ST MILAN MI 48160 SS 930,SM 11,SN 6,W 7 SS 945,SM 11,SN 6,W 7, 19700 15 MILE RD CLINTON TOWNSHIP MI 48035 SM 815 & 11,SN 6,W 7 NOT KJV ONLY, MARBC KJB church."
+    "description": "MILAN MI 48160 SS 930,SM 11,SN 6,W 7 SS 945,SM 11,SN 6,W 7, 19700 15 MILE RD CLINTON TOWNSHIP MI 48035 SM 815 & 11,SN 6,W 7 NOT KJV ONLY, MARBC KJB church"
   },
   {
     "id": "2399",
@@ -4021,12 +4021,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by SCOTT ESTELL. PO BOX 229 124 W PINE ST EDMORE MI 48829-0229"
+    "description": "PO BOX 229 EDMORE MI 48829-0229"
   },
   {
     "id": "2400",
     "name": "FAITHWAY BAPTIST CHURCH",
-    "address": "2020 PACKARD RD",
+    "address": "15 MILE ROAD BAPTIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4039,7 +4039,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH MCDONALD. NOT KJV ONLY 2020 PACKARD RD YPSILANTI MI 48197 SS 930,SM 1030,SN 530,W 7 RADIO, BUS, CHOIR, AWANA, NOT KJV ONLY, WOL 15 MILE ROAD BAPTIST CHURCH 2020 15 MILE RD STERLING HEIGHTS MI 48310 SS 945,SM 10 KJB church."
+    "description": "NOT KJV ONLY YPSILANTI MI 48197 SS 930,SM 1030,SN 530,W 7 RADIO, BUS, CHOIR, AWANA, NOT KJV ONLY, WOL CHURCH 2020 15 MILE RD STERLING HEIGHTS MI 48310 SS 945,SM 10 KJB church"
   },
   {
     "id": "2401",
@@ -4058,7 +4058,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVID O SIMS. 4700 ALLEN RD ALLEN PARK MI 48101 SS 930,SM 1030,SN 6,W 7 AWANA,STUDENT GLOBAL IMPACT; INTER CITY BAPTIST SCHOOL; DETROIT BAPTIST THEO. SEM; AUDIO SERMONS, SELFRIDGE ANG,TOLEDO AFB,45 MINS NOT KJV ONL KJB church."
+    "description": "ALLEN PARK MI 48101 SS 930,SM 1030,SN 6,W 7 AWANA,STUDENT GLOBAL IMPACT; INTER CITY BAPTIST SCHOOL; DETROIT BAPTIST THEO. SEM; AUDIO SERMONS, SELFRIDGE ANG,TOLEDO AFB,45 MINS NOT KJV ONL KJB church"
   },
   {
     "id": "2402",
@@ -4077,7 +4077,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by R MARK SHAW. 5461 LAPEER RD PORT HURON MI 48060 SS 10,SM 830 & 11,SN 6,W 630 AWANA,CHOIR GARBC, NKJV 130 N LURAY ST GREENVILLE MI 48838 4 BLOCKS N OF THE WATER TOWER SS 945,SM 11,SN 7,W 7 S.GRACE-TULIP KJB church."
+    "description": "PORT HURON MI 48060 SS 10,SM 830 & 11,SN 6,W 630 AWANA,CHOIR GARBC, NKJV 130 N LURAY ST GREENVILLE MI 48838 4 BLOCKS N OF THE WATER TOWER SS 945,SM 11,SN 7,W 7 S.GRACE-TULIP KJB church"
   },
   {
     "id": "2403",
@@ -4095,7 +4095,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK BOOTH. 7040 IMLAY CITY RD RUBY MI 48049 GOODELLS AREA MARANATHA-BC, NOT KJV ONLY 825 N COCHRAN CHARLOTTE MI 48813 SS 945,SM 11,SN 6,W 7 AWANA,TEENS GARBC, NOT KJV ONLY KJB church."
+    "description": "RUBY MI 48049 GOODELLS AREA MARANATHA-BC, NOT KJV ONLY 825 N COCHRAN CHARLOTTE MI 48813 SS 945,SM 11,SN 6,W 7 AWANA,TEENS GARBC, NOT KJV ONLY KJB church"
   },
   {
     "id": "2404",
@@ -4113,7 +4113,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACK DELANEY. PO BOX 56 1519 JACKSON ST MARNE MI 49435 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, PK KJB church."
+    "description": "PO BOX 56 MARNE MI 49435 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, PK KJB church"
   },
   {
     "id": "2405",
@@ -4132,7 +4132,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by LESTER DEGROOT. 2786 WOODWARD AVE SW WYOMING MI 49509 BETWEEN 52 & 56 STS AT BYRON CENTER SS 10,SM 1045,SN 6,W 630 NOT KJV ONLY, SPROUL, S.GRACE-TULIP KJB church."
+    "description": "WYOMING MI 49509 BETWEEN 52 & 56 STS AT BYRON CENTER SS 10,SM 1045,SN 6,W 630 NOT KJV ONLY, SPROUL, S.GRACE-TULIP KJB church"
   },
   {
     "id": "2406",
@@ -4151,7 +4151,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DOUGLAS SCHMIDT. 304 PHILLIPS ST NASHVILLE MI 49073 SS 10,SM 11,SN 6,W 7 CHILDREN, TEEN, CHOIR, SENIORS, AUDIO SERMONS NOT KJV ONLY, MARANATHA, CCM KJB church."
+    "description": "NASHVILLE MI 49073 SS 10,SM 11,SN 6,W 7 CHILDREN, TEEN, CHOIR, SENIORS, AUDIO SERMONS NOT KJV ONLY, MARANATHA, CCM KJB church"
   },
   {
     "id": "2407",
@@ -4169,7 +4169,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM BJERK. 3193 ROCHESTER RD TROY MI 48083 SAT 6,SS ,SM 930 & 11,SN 6 SINGLES, TEENS, YOUTH, AUDIO PREACHING NOT KJV ONLY, NORTHLAND-BBC KJB church."
+    "description": "TROY MI 48083 SAT 6,SS ,SM 930 & 11,SN 6 SINGLES, TEENS, YOUTH, AUDIO PREACHING NOT KJV ONLY, NORTHLAND-BBC KJB church"
   },
   {
     "id": "2408",
@@ -4187,7 +4187,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN TERRELL. 23321 S CHRYSLER DR HAZEL PARK MI 48030 CHOIR, AWANA, TEENS, SENIORS, ARABIC, AUDIO SERMONS NOT KJV ONLY, ARLINGTON-BC 55437 WILBER RD THREE RIVERS MI 49093 SS 10,SM 11,SN 6 NOT KJV ONLY, IFBA, CEDARV KJB church."
+    "description": "HAZEL PARK MI 48030 CHOIR, AWANA, TEENS, SENIORS, ARABIC, AUDIO SERMONS NOT KJV ONLY, ARLINGTON-BC 55437 WILBER RD THREE RIVERS MI 49093 SS 10,SM 11,SN 6 NOT KJV ONLY, IFBA, CEDARV KJB church"
   },
   {
     "id": "2409",
@@ -4205,12 +4205,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID LOGGINS. 16994 TELEGRAPH RD TAYLOR MI 48180 SS 945,SM 11,SN 6,W 7 AWANA, DEAF​ NOT KJV ONLY, ABC, MBBC 47151 BETTY ST SHELBY CHARTER TOWNSHIP MI 48317 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY 3104 N OAK RD DAVISON KJB church."
+    "description": "TAYLOR MI 48180 SS 945,SM 11,SN 6,W 7 AWANA, DEAF​ NOT KJV ONLY, ABC, MBBC 47151 BETTY ST SHELBY CHARTER TOWNSHIP MI 48317 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY 3104 N OAK RD DAVISON KJB church"
   },
   {
     "id": "2410",
     "name": "OSCODA BAPTIST CHURCH",
-    "address": "150 PONTIAC ST",
+    "address": "150 PONTIAC ST OXFORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4224,12 +4224,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CLAUDE WIGGINS. 5589 N US HWY 23 OSCODA MI 48750 WURTSMITH AFB NOT KJV ONLY, GARBC 150 PONTIAC ST OXFORD MI 48371 NOT KJV ONLY, IBFI PO BOX 378 HOWELL MI 48843 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, MI-IFBA, BJU, MBBC 77 KJB church."
+    "description": "5589 N US HWY 23 OSCODA MI 48750 WURTSMITH AFB NOT KJV ONLY, GARBC MI 48371 NOT KJV ONLY, IBFI PO BOX 378 HOWELL MI 48843 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, MI-IFBA, BJU, MBBC 77 KJB church"
   },
   {
     "id": "2411",
     "name": "LAKE LANSING BAPTIST CHURCH",
-    "address": "2925 GOODELLS RD",
+    "address": "5960 NORTH OKEMOS EAST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4242,12 +4242,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDALL E CLARK. 5960 NORTH OKEMOS EAST LANSING MI 48823 SS 945,SM 11,SN 6,W 7 AWANA, CHOIR NOT KJV ONLY, BJU, NORTHLAND, MARANATHA, 2925 GOODELLS RD GOODELLS MI 48027 AWANA, PATCH PIRATE, BUS, KJV, S.GRACE-TULIP KJB church."
+    "description": "LANSING MI 48823 SS 945,SM 11,SN 6,W 7 AWANA, CHOIR NOT KJV ONLY, BJU, NORTHLAND, MARANATHA, 2925 GOODELLS RD GOODELLS MI 48027 AWANA, PATCH PIRATE, BUS, KJV, S.GRACE-TULIP KJB church"
   },
   {
     "id": "2412",
     "name": "EMMANUEL MISSIONARY BAPTIST CHURCH",
-    "address": "11071 E 11 MILE RD",
+    "address": "45301 ELEVEN MILE RD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "11071",
@@ -4263,7 +4263,7 @@ export const michiganChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by GARY F ELFNER. 11071 E 11 MILE RD WARREN MI 48093 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, XBBF 45301 ELEVEN MILE RD NOVI MI 48375 SS 945,SM 11,SN 6,W 7 NOVI CHRISTIAN SCHOOL,K-1,ACE-S.O.T. PREACH-NIV, STUDY-ALL KJB church."
+    "description": "WARREN MI 48093 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, XBBF NOVI MI 48375 SS 945,SM 11,SN 6,W 7 NOVI CHRISTIAN SCHOOL,K-1,ACE-S.O.T. PREACH-NIV, STUDY-ALL KJB church"
   },
   {
     "id": "2413",
@@ -4281,7 +4281,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUGLAS ARMSTRONG. 29321 FRYER DR GIBRALTAR MI 48173 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "GIBRALTAR MI 48173 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "2414",
@@ -4299,7 +4299,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT SWIATEK. 2007 E LAKE RD CLIO MI 48420 NOT KJV ONLY, NABC KJB church."
+    "description": "CLIO MI 48420 NOT KJV ONLY, NABC KJB church"
   },
   {
     "id": "2415",
@@ -4318,7 +4318,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TREVOR GUILES. 21336 MACK AVE GROSSE POINT WOODS MI 48236 SS 945,SM 830 & 11,W 615 NOT KJV ONLY, MACARTHUR, CCM PO BOX 183 11514 S MACKINAW TRAIL REED CITY MI 49677 SS 10,SM 11,SN 6,W 630 AWANA, AUDIO SERMONS NOT KJ KJB church."
+    "description": "GROSSE POINT WOODS MI 48236 SS 945,SM 830 & 11,W 615 NOT KJV ONLY, MACARTHUR, CCM PO BOX 183 11514 S MACKINAW TRAIL REED CITY MI 49677 SS 10,SM 11,SN 6,W 630 AWANA, AUDIO SERMONS NOT KJ KJB church"
   },
   {
     "id": "2416",
@@ -4338,7 +4338,7 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BMA"
     ],
-    "description": "Led by JUAN MORENO. 6538 RAWSONVILLE RD BELLEVILLE MI 48111 NOT KJV ONLY 225 SCRIPPS RD LAKE ORION MI 48360 KJB church."
+    "description": "BELLEVILLE MI 48111 NOT KJV ONLY 225 SCRIPPS RD LAKE ORION MI 48360 KJB church"
   },
   {
     "id": "2417",
@@ -4356,12 +4356,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN BOWMAN. 11984 ROME RD MANITOU BEACH MI 49253 NOT KJV ONLY, GARBC KJB church."
+    "description": "MANITOU BEACH MI 49253 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2418",
     "name": "ORANGEVILLE BAPTIST CHURCH",
-    "address": "6921 MARSH RD",
+    "address": "6921 MARSH RD PL",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4374,7 +4374,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL W HARDING. 6921 MARSH RD PLAINWELL MI 49080 SS 945,SM 11,SN 6,W 630 KJV-PREACH, NOT KJV ONLY, FBF, BJU KJB church."
+    "description": "AINWELL MI 49080 SS 945,SM 11,SN 6,W 630 KJV-PREACH, NOT KJV ONLY, FBF, BJU KJB church"
   },
   {
     "id": "2419",
@@ -4392,12 +4392,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON LAFLAMME. 2601 JOHN R RD TROY MI 48083 SS 9,SM 1015,SN 6,W 7 YOUTH,TEEN; BETHANY CHRISTIAN SCHOOL NOT KJV ONLY KJB church."
+    "description": "TROY MI 48083 SS 9,SM 1015,SN 6,W 7 YOUTH,TEEN; BETHANY CHRISTIAN SCHOOL NOT KJV ONLY KJB church"
   },
   {
     "id": "2420",
     "name": "MUNISING BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 339",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4410,7 +4410,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 339 WETMORE MI 49895 CORNER OF M 28 & CONNERS RD in MUNISING"
+    "description": "WETMORE MI 49895 CORNER OF M 28 & CONNERS RD in MUNISING"
   },
   {
     "id": "2421",
@@ -4430,7 +4430,7 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by TERRY MCINTOSH. NIV, MARBC, GARBC 38303 8 MILE RD LIVONIA MI 48152 SS 930,SM 1045,SN 6,W 645 CHOIR, AWANA NOT KJV ONLY, BBF, IBFI KJB church."
+    "description": "NIV, MARBC, GARBC LIVONIA MI 48152 SS 930,SM 1045,SN 6,W 645 CHOIR, AWANA NOT KJV ONLY, BBF, IBFI KJB church"
   },
   {
     "id": "2422",
@@ -4450,12 +4450,12 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by PHIL DILERNIA. 21721 NORTHLINE RD TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7 TEEN,AWANA, AUDIO SERMONS NKJV,BBF KJB church."
+    "description": "TAYLOR MI 48180 SS 10,SM 11,SN 6,W 7 TEEN,AWANA, AUDIO SERMONS NKJV,BBF KJB church"
   },
   {
     "id": "2423",
     "name": "FIRST BAPTIST CHURCH OF WAYNE",
-    "address": "36125 GLENWOOD RD",
+    "address": "3411 AIRPORT RD WATERFORD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "36125",
@@ -4470,7 +4470,7 @@ export const michiganChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by JAMES COMBS JR. 36125 GLENWOOD RD WAYNE, MI 48184 SS 930,SM 1045,SN 6,W 7 AWANA, AUDIO SERMONS NOT KJV ONLY, BBF, IBFI, TRAD & CONT SERVICES 3411 AIRPORT RD WATERFORD MI 48329 WATERFORD CHRISTIAN ACADEMY,K-12 NOT KJV KJB church."
+    "description": "NE, MI 48184 SS 930,SM 1045,SN 6,W 7 AWANA, AUDIO SERMONS NOT KJV ONLY, BBF, IBFI, TRAD & CONT SERVICES MI 48329 WATERFORD CHRISTIAN ACADEMY,K-12 NOT KJV KJB church"
   },
   {
     "id": "2424",
@@ -4490,12 +4490,12 @@ export const michiganChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by THOMAS R DOWNS. 309 DECKER RD WALLED LAKE MI 48390 SS 930,SM 1030,SN 6,W 7 CHILDREN, TEEN KJV, NKJV, BBF 12501 S TELEGRAPH RD TAYLOR MI 48180 SS 9,SM 1015,SN 5,W 7 BAPTIST PARK SCHOOLS; AUDIO SERMONS NOT KJV ONLY KJB church."
+    "description": "WALLED LAKE MI 48390 SS 930,SM 1030,SN 6,W 7 CHILDREN, TEEN KJV, NKJV, BBF 12501 S TELEGRAPH RD TAYLOR MI 48180 SS 9,SM 1015,SN 5,W 7 BAPTIST PARK SCHOOLS; AUDIO SERMONS NOT KJV ONLY KJB church"
   },
   {
     "id": "2425",
     "name": "CASCADES BAPTIST CHURCH",
-    "address": "",
+    "address": "49283 JACKSON CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4508,7 +4508,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE SUNDBERG. 1012 W HIGH JACKSON MI 49203 PHY ADD: 6001 SPRINGSIDE SPRING ARBOR MI 49283 JACKSON CHRISTIAN SCHOOL,PS-12 NOT KJV ONLY, IBFA, DETROIT BAPT THEO SEM 7447 N TELEGRAPH MONROE MI 48162 NOT KJV ONLY ,PREA KJB church."
+    "description": "1012 W HIGH JACKSON MI 49203 PHY ADD: 6001 SPRINGSIDE SPRING ARBOR MI IAN SCHOOL,PS-12 NOT KJV ONLY, IBFA, DETROIT BAPT THEO SEM 7447 N TELEGRAPH MONROE MI 48162 NOT KJV ONLY ,PREA KJB church"
   },
   {
     "id": "2426",
@@ -4527,7 +4527,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBERT J PAYNE. PO BOX 332 MANISTIQUE MI 49854 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJV, NAS, UNAFFILIATED, IBFNA, DISPENSATIONAL, CONSERVATIVE MUSIC 6889 BELLEVILLE RD BELLEVILLE MI 48111 SS 945,SM 11,SN 6,W 7 PREA KJB church."
+    "description": "PO BOX 332 MANISTIQUE MI 49854 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJV, NAS, UNAFFILIATED, IBFNA, DISPENSATIONAL, CONSERVATIVE MUSIC BELLEVILLE MI 48111 SS 945,SM 11,SN 6,W 7 PREA KJB church"
   },
   {
     "id": "2427",
@@ -4547,7 +4547,7 @@ export const michiganChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by DEL WARD. 13615 10 MILE RD GREENVILLE, MI 48838 SS 10,SM 830 & 11,SN 6,W 7 RADIO,KIDZ CLUB, AUDIO SERMONS NOT KJV ONLY, BJU 33380 RYAN RD STERLING HEIGHTS MI 48310 SS 915,SM 1030,SN 6,W 7 AWANA, AUDIO SERMONS;  KJB church."
+    "description": "GREENVILLE, MI 48838 SS 10,SM 830 & 11,SN 6,W 7 RADIO,KIDZ CLUB, AUDIO SERMONS NOT KJV ONLY, BJU 33380 RYAN RD STERLING HEIGHTS MI 48310 SS 915,SM 1030,SN 6,W 7 AWANA, AUDIO SERMONS; KJB church"
   },
   {
     "id": "2428",
@@ -4565,12 +4565,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE O. NOT KJV ONLY, IFCA, WOL KJB church."
+    "description": "NOT KJV ONLY, IFCA, WOL KJB church"
   },
   {
     "id": "2429",
     "name": "MOUNT HOPE BIBLE CHURCH",
-    "address": "12884 TRIST RD",
+    "address": "1212 KNOLLWOOD ST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "12884",
@@ -4583,12 +4583,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CRABB. 12884 TRIST RD GRASS LAKE MI 49240 SS 10,SM 11,W 7 NOT KJV ONLY, GARBC 1212 KNOLLWOOD ST LAPEER MI 48446 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BJU 5311 PONTIAC LAKE RD WATERFORD MI 48327 AUDIO SERMONS N KJB church."
+    "description": "GRASS LAKE MI 49240 SS 10,SM 11,W 7 NOT KJV ONLY, GARBC LAPEER MI 48446 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BJU 5311 PONTIAC LAKE RD WATERFORD MI 48327 AUDIO SERMONS N KJB church"
   },
   {
     "id": "2430",
     "name": "PARMA BAPTIST CHURCH",
-    "address": "5790 FLEMMINGS LAKE RD",
+    "address": "5790 FLEMMINGS LAKE RD CLARKST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4602,7 +4602,7 @@ export const michiganChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GLEN CURRIE. 10320 E MICHIGAN PARMA MI 49269 NOT KJV ONLY, IFBA-MI 5790 FLEMMINGS LAKE RD CLARKSTON MI 48348 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, BBFI KJB church."
+    "description": "10320 E MICHIGAN PARMA MI 49269 NOT KJV ONLY, IFBA-MI ON MI 48348 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, BBFI KJB church"
   },
   {
     "id": "2431",
@@ -4620,12 +4620,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAN CHITTOCK. 5345 MILLETT HWY LANSING MI 48917 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS & SINGING, SENIORS, YOUNG ADULTS, TEENS REFORMED"
+    "description": "5345 MILLETT HWY LANSING MI 48917 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS & SINGING, SENIORS, YOUNG ADULTS, TEENS REFORMED"
   },
   {
     "id": "2432",
     "name": "BETHESDA BAPTIST CHURCH",
-    "address": "10000 REECK RD",
+    "address": "6100 PERRINE RD",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "10000",
@@ -4639,12 +4639,12 @@ export const michiganChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DAN DICKERSON. 10000 REECK RD ALLEN PARK MI 48101 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, BJU, NORTHLAND 6100 PERRINE RD MIDLAND MI 48640 SS 9,SM 1015,SN 6,W 630 AWANA,TEEN,AUDIO SERMONS; CALVARY BAPTIST KJB church."
+    "description": "ALLEN PARK MI 48101 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, BJU, NORTHLAND MIDLAND MI 48640 SS 9,SM 1015,SN 6,W 630 AWANA,TEEN,AUDIO SERMONS; CALVARY BAPTIST KJB church"
   },
   {
     "id": "2433",
     "name": "VICTORY BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "2331 FORT PARK LINCOLN",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4657,7 +4657,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RUSSELL C GIBBS. 2331 FORT PARK LINCOLN PARK MI 48146"
+    "description": "PARK MI 48146"
   },
   {
     "id": "2434",
@@ -4675,7 +4675,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PAUL NESTOR. PO BOX 266 210 N CHESTNUT ST BLOOMINGDALE MI 49026 GRANVILLE MI 49418 600 W MAIN ST FARWELL MI 48622"
+    "description": "PO BOX 266 BLOOMINGDALE MI 49026 GRANVILLE MI 49418 600 W MAIN ST FARWELL MI 48622"
   },
   {
     "id": "2435",
@@ -4693,12 +4693,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MARVIS D HALE. PO BOX 156 10247 S WALL LAKE RD DELTON MI 49046 SS 945,SM 11,SN 6,W 7 5959 N STATE RD ORLEANS MI 48865 BBF church."
+    "description": "PO BOX 156 DELTON MI 49046 SS 945,SM 11,SN 6,W 7 5959 N STATE RD ORLEANS MI 48865 BBF church"
   },
   {
     "id": "2436",
     "name": "HOLY GROUND BAPTIST CHURCH",
-    "address": "4381 STANLEY RD",
+    "address": "3931 AUBURN AVE ROCHEST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4711,7 +4711,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by GERLAND C SPANGLER. 4381 STANLEY RD GENESEE MI 48437 SS 10,SM 11,W 7 3931 AUBURN AVE ROCHESTER HILLS MI 48309 BBF church."
+    "description": "GENESEE MI 48437 SS 10,SM 11,W 7 ER HILLS MI 48309 BBF church"
   },
   {
     "id": "2437",
@@ -4729,7 +4729,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CHRIS WARDEN or LAWRENCE MENDEZ. 9981 W MASON RD FOWLERVILLE MI 48836 3801 MARTIN ST DETROIT MI 48210"
+    "description": "FOWLERVILLE MI 48836 3801 MARTIN ST DETROIT MI 48210"
   },
   {
     "id": "2438",
@@ -4765,7 +4765,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PAUL BOSTWICK. 6250 GILMORE BELLEVILLE MI 48111 IBFI, MBBC"
+    "description": "6250 GILMORE BELLEVILLE MI 48111 IBFI, MBBC"
   },
   {
     "id": "2440",
@@ -4783,7 +4783,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by TIMOTHY BOLES. PO BOX 336 140 W ALLEN HANOVER MI 49241 119 E MAPLE ST VICKSBURG MI 49097 BBF church."
+    "description": "PO BOX 336 140 W ALLEN HANOVER MI 49241 VICKSBURG MI 49097 BBF church"
   },
   {
     "id": "2441",
@@ -4801,12 +4801,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DUANE YOUNG. 7760 E MONROE RD TECUMSEH MI 49286"
+    "description": "TECUMSEH MI 49286"
   },
   {
     "id": "2442",
     "name": "BRIDGETON BAPTIST CHURCH",
-    "address": "6031 104TH ST",
+    "address": "6 HERITAGE CHRIST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "",
@@ -4819,7 +4819,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "Led by GLEN ROBINETT. 6031 104TH ST FREMONT MI 49412 4151 WILD TURKEY TRL REED CITY MI 49677 SS 930,SM 1030,SN 6,W 6 HERITAGE CHRISTIAN ACADEMY; AUDIO SERMONS 4677 18TH RD ESCANABA MI 49829 SM 11,SN 6"
+    "description": "6031 104TH ST FREMONT MI 49412 4151 WILD TURKEY TRL REED CITY MI 49677 SS 930,SM 1030,SN 6,W IAN ACADEMY; AUDIO SERMONS 4677 18TH RD ESCANABA MI 49829 SM 11,SN 6"
   },
   {
     "id": "2443",
@@ -4837,7 +4837,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DAVID M MOTT. 4140 S LAKE WILSON RD HILLSDALE MI 49242 PO BOX 326 949 FRUIT ST ALGONAC MI 48001 SS 10,SM 11,S N 6,W 7 BBF church."
+    "description": "HILLSDALE MI 49242 PO BOX 326 949 FRUIT ST ALGONAC MI 48001 SS 10,SM 11,S N 6,W 7 BBF church"
   },
   {
     "id": "2444",
@@ -4855,7 +4855,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JIMMY COLLINS. PO BOX 177 13527 WEBSTER RD BATH MI 48808 BBF church."
+    "description": "PO BOX 177 BATH MI 48808 BBF church"
   },
   {
     "id": "2445",
@@ -4873,7 +4873,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by TED NELSON. 25255 E M 60 SS 10,SM 11 BBF church."
+    "description": "25255 E M 60 SS 10,SM 11 BBF church"
   },
   {
     "id": "2446",
@@ -4891,12 +4891,12 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BILL ADKINS. PO BOX 534 37669 W 1ST ST HULBERT MI 49748 SS 10,SM 11,SN 6,W 7 BBF church."
+    "description": "PO BOX 534 HULBERT MI 49748 SS 10,SM 11,SN 6,W 7 BBF church"
   },
   {
     "id": "2447",
     "name": "LIBERTY BAPTIST CHURCH OF NEW BOSTON",
-    "address": "19100 HURON RIVER DR",
+    "address": "19100 HURON RIVER DR NEW BOST",
     "city": "Lansing",
     "state": "MI",
     "zipCode": "19100",
@@ -4909,7 +4909,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JERRY HARRINGTON. PO BOX 251 19100 HURON RIVER DR NEW BOSTON MI 48164 BBF church."
+    "description": "PO BOX 251 ON MI 48164 BBF church"
   },
   {
     "id": "2448",
@@ -4927,7 +4927,7 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PAUL SILVKA. PO BOX 367 23695 NORTHLINE RD TAYLOR MI 48180 IFBA of MI"
+    "description": "PO BOX 367 TAYLOR MI 48180 IFBA of MI"
   },
   {
     "id": "2449",
@@ -4945,6 +4945,6 @@ export const michiganChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 630 6363 E SANILAC RD PORT SANILAC MI 48469 SS 10,SM 11,SN 7"
+    "description": "PO BOX 630 PORT SANILAC MI 48469 SS 10,SM 11,SN 7"
   }
 ];

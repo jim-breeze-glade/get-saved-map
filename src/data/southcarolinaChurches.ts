@@ -17,12 +17,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE PERTICONE. 1631 MAIN ST BONNEAU SC 29431 SS 9,SM 10,SN 630,W 7 KJB church."
+    "description": "BONNEAU SC 29431 SS 9,SM 10,SN 630,W 7 KJB church"
   },
   {
     "id": "4300",
     "name": "MT PLEASANT BAPTIST CHURCH",
-    "address": "310 GATOR RD",
+    "address": "310 GATOR RD GAST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -35,7 +35,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY CLARK. 310 GATOR RD GASTON SC 29053 SS 10,SM 11,W 7 KJB church."
+    "description": "ON SC 29053 SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "4301",
@@ -53,7 +53,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILLY WAYNE ELDER. 1885 MYRTLE BEACH HWY SUMTER SC 29153 SS 945,SM 11,SN 6,W 6 KJB church."
+    "description": "1885 MYRTLE BEACH HWY SUMTER SC 29153 SS 945,SM 11,SN 6,W 6 KJB church"
   },
   {
     "id": "4302",
@@ -72,7 +72,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY NATHANIEL SR. 2032 PACOLET HWY GAFFNEY SC 29340 SS 10,SM 11,SN 5,W 7 KJB, OLD TIME WORSHIP 1130 N ST PAUL CHURCH RD SUMTER SC 29154 SS 930 SM 1030 SN 530 W 7 ANNUAL CAMP MEETING, WEEKLY VISITATION, YOUTUBE, VBS, VI"
+    "description": "2032 PACOLET HWY GAFFNEY SC 29340 SS 10,SM 11,SN 5,W 7 KJB, OLD TIME WORSHIP SUMTER SC 29154 SS 930 SM 1030 SN 530 W 7 ANNUAL CAMP MEETING, WEEKLY VISITATION, YOUTUBE, VBS, VI"
   },
   {
     "id": "4303",
@@ -91,7 +91,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID NEAL. P O BOX 565 327 CAPPS RD WALHALLA SC 29691 SS 10, SM 11, SN 6, W 630 KJB church."
+    "description": "P O BOX 565 WALHALLA SC 29691 SS 10, SM 11, SN 6, W 630 KJB church"
   },
   {
     "id": "4304",
@@ -109,7 +109,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD WATSON. 1319 HWY 29 S ANDERSON SC 29626 (GPS 1319 US 29 BUSINESS) SS 10,SM 11,SN 6,W 7 KINGS KIDS, TEENS KJB church."
+    "description": "1319 HWY 29 S ANDERSON SC 29626 (GPS 1319 US 29 BUSINESS) SS 10,SM 11,SN 6,W 7 KINGS KIDS, TEENS KJB church"
   },
   {
     "id": "4305",
@@ -127,7 +127,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHIL SYBRANT. PO BOX 699 1529 W OLD CAMDEN RD HARTSVILLE SC 29550 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "PO BOX 699 HARTSVILLE SC 29550 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4306",
@@ -146,7 +146,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DEREK FARMER. 2535 MT LEBANON RD CAMPOBELLO SC 29322 SS 10,SM 11,SN 6,W 7 SOULWINNING, TRANSPORTATION, RADIO SUNDAY 5 PM 91.5 WTBI KJB church."
+    "description": "CAMPOBELLO SC 29322 SS 10,SM 11,SN 6,W 7 SOULWINNING, TRANSPORTATION, RADIO SUNDAY 5 PM 91.5 WTBI KJB church"
   },
   {
     "id": "4307",
@@ -164,12 +164,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN EDENS. 406 SARAH DR GOOSE CREEK SC 29445 SS 10,SM 11,SN 630,W 730 AUDIO PREACHING KJB church."
+    "description": "GOOSE CREEK SC 29445 SS 10,SM 11,SN 630,W 730 AUDIO PREACHING KJB church"
   },
   {
     "id": "4308",
     "name": "ANCHOR BAPTIST CHURCH",
-    "address": "1525 DOUGLAS RD",
+    "address": "1525 DOUGLAS RD LANCAST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -182,7 +182,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1525 DOUGLAS RD LANCASTER SC 29720"
+    "description": "ER SC 29720"
   },
   {
     "id": "4309",
@@ -201,12 +201,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIMMY JONES. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "4310",
     "name": "BEACON BAPTIST CHURCH",
-    "address": "1982 EVANS DR",
+    "address": "1982 EVANS DR LANCAST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -220,12 +220,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICK KIRCHINGER. PO BOX 931 1982 EVANS DR LANCASTER SC 29721 SS 10,SM 11,SN 6,W 730 SOULWINNING 418 N BRICKYARD RD COLUMBIA SC 29223 SS 930, SM 1030,SN 530, W 7 AUDIO SERMONS KJB church."
+    "description": "PO BOX 931 ER SC 29721 SS 10,SM 11,SN 6,W 730 SOULWINNING 418 N BRICKYARD RD COLUMBIA SC 29223 SS 930, SM 1030,SN 530, W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4311",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "730 COMMUNITY CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -238,7 +238,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEY DURHAM. 15943 BELLS HWY LODGE SC 29082 SS 10,SM 11,SN 6,W 730 COMMUNITY CHRISTIAN ACADEMY K-5 THRU 12TH FOR CHURCH MEMBERS ONLY KJB church."
+    "description": "15943 BELLS HWY LODGE SC 29082 SS 10,SM 11,SN 6,W IAN ACADEMY K-5 THRU 12TH FOR CHURCH MEMBERS ONLY KJB church"
   },
   {
     "id": "4312",
@@ -257,12 +257,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GERALD MOSS JR. 180 OLD MANNING RD SUMTER SC 29150 SS 10, SM 11 SN 6  W 7 SHAW AFB 14 MILES KJB, UNAFFILIATED"
+    "description": "SUMTER SC 29150 SS 10, SM 11 SN 6 W 7 SHAW AFB 14 MILES KJB, UNAFFILIATED"
   },
   {
     "id": "4313",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "",
+    "address": "1903 J A COCHRAN BYPASS CHEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -275,7 +275,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES H BAKER. 1903 J A COCHRAN BYPASS CHESTER SC 29706 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "ER SC 29706 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4314",
@@ -293,7 +293,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN SHOOK. 536 WELCH CREEK RD WALTERBORO SC 29488 PATCH PIRATE KJB church."
+    "description": "WALTERBORO SC 29488 PATCH PIRATE KJB church"
   },
   {
     "id": "4315",
@@ -311,7 +311,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN HAMILTON. 2061 HWY 72 GREENWOOD SC 29646 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "2061 HWY 72 GREENWOOD SC 29646 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4316",
@@ -329,7 +329,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL G WATERS. 2825 ASHLAND RD COLUMBIA SC 29210 SS 945,SM 11,SN 6,W 7 BUS, DEAF, TEEN, CHILDREN, CHOIR, ORCHESTRA, SENIORS KJB, PRE-MIL"
+    "description": "COLUMBIA SC 29210 SS 945,SM 11,SN 6,W 7 BUS, DEAF, TEEN, CHILDREN, CHOIR, ORCHESTRA, SENIORS KJB, PRE-MIL"
   },
   {
     "id": "4317",
@@ -347,12 +347,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEY CURADO. 1592 HIGHWAY 14 SOUTH GREER SC 29650 SS 10,SM 11,SN 6,W 7 FAITH BIBLE INSTITUTE, 3 YEAR BIBLE STUDY, TUE NIGHTS 630-930 PM KJB church."
+    "description": "GREER SC 29650 SS 10,SM 11,SN 6,W 7 FAITH BIBLE INSTITUTE, 3 YEAR BIBLE STUDY, TUE NIGHTS 630-930 PM KJB church"
   },
   {
     "id": "4318",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "130 BERLIN RD",
+    "address": "1724 W MAIN ST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -366,7 +366,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE CUMMINS. 130 BERLIN RD SALLEY SC 29137 SS 10, SM 11, SN 6, TH 730 1724 W MAIN ST LEXINGTON SC 29072 SS 915,SM 1030,SN 6,W 630 PATCH PIRATE, DAYCARE, TEEN, PROPHETS CHAMBER’ 25 MILES FROM FORT JACKSON KJB, UNAF"
+    "description": "SALLEY SC 29137 SS 10, SM 11, SN 6, TH 730 LEXINGTON SC 29072 SS 915,SM 1030,SN 6,W 630 PATCH PIRATE, DAYCARE, TEEN, PROPHETS CHAMBER’ 25 MILES FROM FORT JACKSON KJB, UNAF"
   },
   {
     "id": "4319",
@@ -384,7 +384,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEAN KING. PO BOX 1437 2216 HARRY BYRD HWY DARLINGTON, SC 29540 KJB church."
+    "description": "PO BOX 1437 DARLINGTON, SC 29540 KJB church"
   },
   {
     "id": "4320",
@@ -403,7 +403,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ZACK NIX. MAIL: 800 OLD RIVER RD PIEDMONT SC 29673 LOCATION: 651 OLD RIVER RD PELZER SC 29669 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PIEDMONT SC 29673 LOCATION: 651 OLD RIVER RD PELZER SC 29669 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4321",
@@ -421,7 +421,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN BRANYAN. 400 ROANOKE RD LIBERTY SC 29657 near PICKENS KJB church."
+    "description": "LIBERTY SC 29657 near PICKENS KJB church"
   },
   {
     "id": "4322",
@@ -440,12 +440,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FRANK BAILEY. 1 WOODLAWN AVE GREENVILLE SC 29611-4143 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "GREENVILLE SC 29611-4143 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "4323",
     "name": "TRI-CITY BAPTIST CHURCH",
-    "address": "152 LAZY HILL RD",
+    "address": "2775 MONTAGUE AVE",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -459,7 +459,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEVIN HEMBREE. 152 LAZY HILL RD MONCKS CORNER SC 29461 SS 945,SM 11,SN 6,W 7 AWANA, SOULWINNING, TAPE, REFORMERS UNANIMOUS, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS 2775 MONTAGUE AVE EXT GREENWOOD SC 29649 SS 1 KJB church."
+    "description": "MONCKS CORNER SC 29461 SS 945,SM 11,SN 6,W 7 AWANA, SOULWINNING, TAPE, REFORMERS UNANIMOUS, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS EXT GREENWOOD SC 29649 SS 1 KJB church"
   },
   {
     "id": "4324",
@@ -477,12 +477,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN GRIFFITH. 322 FRETWELL DR ANDERSON SC 29624 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB, SOUTHERN GOSPEL"
+    "description": "ANDERSON SC 29624 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB, SOUTHERN GOSPEL"
   },
   {
     "id": "4325",
     "name": "MOUNTAIN VIEW BAPTIST CHURCH",
-    "address": "650 BATTLEGROUND RD",
+    "address": "7 MOUNTAIN VIEW CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -495,7 +495,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LUKE DUNCAN. 650 BATTLEGROUND RD COWPENS SC 29330 SS 10,SM 11,SN 6,W 7 MOUNTAIN VIEW CHRISTIAN ACADEMY PS-12 KJB church."
+    "description": "COWPENS SC 29330 SS 10,SM 11,SN 6,W IAN ACADEMY PS-12 KJB church"
   },
   {
     "id": "4326",
@@ -513,7 +513,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT JARVIS. 2140 STATE PARK RD GREENVILLE SC 29609 SS 930,SM 1045,SN 6,W 7 SERMONS ONLINE KJB church."
+    "description": "GREENVILLE SC 29609 SS 930,SM 1045,SN 6,W 7 SERMONS ONLINE KJB church"
   },
   {
     "id": "4327",
@@ -532,7 +532,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BEN WHARTON. 206 NICHOLS AVE UNION SC 29379 BUS, KING’S KIDS, SOULWINNING KJB church."
+    "description": "UNION SC 29379 BUS, KING’S KIDS, SOULWINNING KJB church"
   },
   {
     "id": "4328",
@@ -550,7 +550,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS BLACKWELL. 1895-A GENTRY MEMORIAL HIGHWAY EASLEY SC 29640 near PICKENS KJB church."
+    "description": "EASLEY SC 29640 near PICKENS KJB church"
   },
   {
     "id": "4329",
@@ -568,7 +568,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS J SPIVEY. 4487 CANNONS CAMPGROUND RD COWPENS SC 29307 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "COWPENS SC 29307 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4330",
@@ -586,12 +586,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM DUNCAN. 277 COVE CREEK RD PICKENS SC 29671 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "PICKENS SC 29671 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4331",
     "name": "GETHSEMANE BAPTIST TEMPLE",
-    "address": "",
+    "address": "81 S ST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -604,7 +604,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN KUYKENDALL. 6116 HWY 81 S STARR SC 29684 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "6116 HWY ARR SC 29684 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4332",
@@ -622,12 +622,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK CAMP. 104 LAKESIDE DR SIX MILE SC 29682 SS 10,SM 11,SN 6,W 7 CHOIR,KIDS CLUBS AUDIO SERMONS ONLINE RADIO 91.7 FM TH 830 pm SM SERVICE 633 W SMITH AVE DARLINGTON SC 29532 SS 10,SM 1045,SN 6,W 7 BUS, MASTER C KJB church."
+    "description": "SIX MILE SC 29682 SS 10,SM 11,SN 6,W 7 CHOIR,KIDS CLUBS AUDIO SERMONS ONLINE RADIO 91.7 FM TH 830 pm SM SERVICE 633 W SMITH AVE DARLINGTON SC 29532 SS 10,SM 1045,SN 6,W 7 BUS, MASTER C KJB church"
   },
   {
     "id": "4333",
     "name": "EMMANUEL BAPTIST CHURCH OF GREENWOOD",
-    "address": "",
+    "address": "PO BOX 51003",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -640,12 +640,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT GORDON. PO BOX 51003 2513 MCCORMICK HWY GREENWOOD SC 29649 KJB church."
+    "description": "2513 MCCORMICK HWY GREENWOOD SC 29649 KJB church"
   },
   {
     "id": "4334",
     "name": "FRIENDSHIP BAPTIST CHURCH",
-    "address": "608 6TH AVE S",
+    "address": "14447 ATOMIC RD",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -658,12 +658,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN HILL. PO BOX 914 608 6TH AVE S MYRTLE BEACH SC 29578 SS 10,SM 11,SN 130,W 7 AUDIO SERMONS; MYRTLE BEACH AFB 14447 ATOMIC RD BEECH ISLAND SC 29841 KJB church."
+    "description": "PO BOX 914 608 6TH AVE S MYRTLE BEACH SC 29578 SS 10,SM 11,SN 130,W 7 AUDIO SERMONS; MYRTLE BEACH AFB BEECH ISLAND SC 29841 KJB church"
   },
   {
     "id": "4335",
     "name": "TRINITY BIBLE CHURCH",
-    "address": "3589 MARY ADER DR",
+    "address": "3589 MARY ADER DR CHARLEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -676,7 +676,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE ZYSKOWSKI. 3589 MARY ADER DR CHARLESTON SC 29414 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ON SC 29414 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4336",
@@ -695,7 +695,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUG MCDARIS. 8841 AUGUSTA RD PELZER SC  29605 SS 10,SM 11,SN 6,W 6 KJB, UNAFFILIATED"
+    "description": "PELZER SC 29605 SS 10,SM 11,SN 6,W 6 KJB, UNAFFILIATED"
   },
   {
     "id": "4337",
@@ -714,12 +714,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JERRY DARNELL. PO BOX 146 260 GIN SHOALS RD SIX MILE SC 29682 SS 10,SM 1030,SN 6,W 7 KJB church."
+    "description": "PO BOX 146 SIX MILE SC 29682 SS 10,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4338",
     "name": "OLD FASHIONED BAPTIST CHURCH",
-    "address": "",
+    "address": "2 TRAMROD TRAIL TRAVELERS REST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -732,7 +732,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT DEAN. 2 TRAMROD TRAIL TRAVELERS REST SC 29690 SS 10,SM 11,SN 6,W 6 KJB church."
+    "description": "SC 29690 SS 10,SM 11,SN 6,W 6 KJB church"
   },
   {
     "id": "4339",
@@ -750,7 +750,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN WHITT. PO BOX 14083 421 RANGEVIEW CIR GREENVILLE SC 29611 KJB church."
+    "description": "PO BOX 14083 GREENVILLE SC 29611 KJB church"
   },
   {
     "id": "4340",
@@ -769,7 +769,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ESTON HANKS. 509 OLD ASBURY RD ANDERSON SC 29625 SS 945,SN 1045,SN 6,W 7 KINGS KIDS, BUS, PROPHETS CHAMBER, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "ANDERSON SC 29625 SS 945,SN 1045,SN 6,W 7 KINGS KIDS, BUS, PROPHETS CHAMBER, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "4341",
@@ -787,12 +787,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by UNKNOWN. 116 GOSPEL HILL CT ORANGEBURG SC 29115 SS 10, SM 11, SN 6, W 7 PROPHETS CHAMBER KJB church."
+    "description": "ORANGEBURG SC 29115 SS 10, SM 11, SN 6, W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "4342",
     "name": "NEW HOPE BAPTIST CHURCH",
-    "address": "3254 PRINCETON RD",
+    "address": "3254 PRINCETON RD WEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -805,7 +805,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JASON CASEY. 3254 PRINCETON RD WEST COLUMBIA SC 29169 SM 10,SS 11,SN 12"
+    "description": "COLUMBIA SC 29169 SM 10,SS 11,SN 12"
   },
   {
     "id": "4343",
@@ -823,7 +823,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE SMILING. 140 VICTORIOUS VALLEY DR SUNSET NC 29685 KJB church."
+    "description": "SUNSET NC 29685 KJB church"
   },
   {
     "id": "4344",
@@ -841,7 +841,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT GRISWOLD. 105 HICKORY FOREST DR COLUMBIA SC 29209 KJB church."
+    "description": "COLUMBIA SC 29209 KJB church"
   },
   {
     "id": "4345",
@@ -859,12 +859,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBBIE BURTON. PO BOX 361 PIEDMONT SC 29673 572 BESSIE RD SS 945,SM 11,SN 6,W 7 LIVE AUDIO SERMONS ONLINE RADIO WTBI 91.7 FM 130 PM SAT & SUN KJB church."
+    "description": "PO BOX 361 PIEDMONT SC 29673 SS 945,SM 11,SN 6,W 7 LIVE AUDIO SERMONS ONLINE RADIO WTBI 91.7 FM 130 PM SAT & SUN KJB church"
   },
   {
     "id": "4346",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "",
+    "address": "7 LIGHTHOUSE CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -878,7 +878,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL JONES. 2916 HWY 72 E ABBEVILLE SC 29620 NEAR GREENWOOD SS 10,SM 11,SN 6,W 7 LIGHTHOUSE CHRISTIAN SCHOOL K-12; LIGHTHOUSE BAPTIST BIBLE COLLEGE KJB, UNAFFILIATED"
+    "description": "2916 HWY 72 E ABBEVILLE SC 29620 NEAR GREENWOOD SS 10,SM 11,SN 6,W IAN SCHOOL K-12; LIGHTHOUSE BAPTIST BIBLE COLLEGE KJB, UNAFFILIATED"
   },
   {
     "id": "4347",
@@ -896,12 +896,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY C TURNER. 304 PEARMAN DAIRY RD ANDERSON SC 29625 SS 930, SM 1030, SN 6,W 7 OAKWOOD CHRISTIAN SCHOOL K4-12 ABEKA BJU SAXON; OAKWOOD CHILD CARE CENTER, 6 WEEKS-4 YEARS PART 2 330 W FINGER ST LANDRUM SC 29356 SS 9 KJB church."
+    "description": "ANDERSON SC 29625 SS 930, SM 1030, SN 6,W 7 OAKWOOD CHRISTIAN SCHOOL K4-12 ABEKA BJU SAXON; OAKWOOD CHILD CARE CENTER, 6 WEEKS-4 YEARS PART 2 330 W FINGER ST LANDRUM SC 29356 SS 9 KJB church"
   },
   {
     "id": "4348",
     "name": "EMMANUEL BAPTIST CHURCH",
-    "address": "423 S BUNCOMBE RD",
+    "address": "161 MAPLE RIDGE RD",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -915,7 +915,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JEROME HODGE. 423 S BUNCOMBE RD GREER SC 29650 SS 10,SM 11,SN 630,W 7 161 MAPLE RIDGE RD WALTERBORO SC 29488 SS 945,SM 11,SN 6,W 730 KJB church."
+    "description": "GREER SC 29650 SS 10,SM 11,SN 630,W 7 WALTERBORO SC 29488 SS 945,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "4349",
@@ -933,7 +933,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL WILKINS. 4305 COLUMBIA RD NE ORANGEBURG SC 29118 SS 10, SM 11, SN 6, W 7 FORT JACKSON, SHAW AFB KJB church."
+    "description": "ORANGEBURG SC 29118 SS 10, SM 11, SN 6, W 7 FORT JACKSON, SHAW AFB KJB church"
   },
   {
     "id": "4350",
@@ -952,7 +952,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTT BASS. 130 FAIRVIEW DR PICKENS SC 29671 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church."
+    "description": "PICKENS SC 29671 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "4351",
@@ -971,7 +971,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RUDY W SMITH. 4705 SANDHILL RD MARION SC 29571 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MARION SC 29571 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4352",
@@ -989,7 +989,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAMMY KAY SR. 830 COUNTRY CLUB RD PICKENS SC 29657 LIBERTY AREA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PICKENS SC 29657 LIBERTY AREA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4353",
@@ -1008,7 +1008,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIM RUTLAND. PO BOX 14999 200 SALUDA DAM RD GREENVILLE SC 29610-4999 SS 10,SM 11,SN 730,W 730 TEEN, SENIORS, AWANA, AUDIO SERMONS KJB,UNAFFILIATED"
+    "description": "PO BOX 14999 GREENVILLE SC 29610-4999 SS 10,SM 11,SN 730,W 730 TEEN, SENIORS, AWANA, AUDIO SERMONS KJB,UNAFFILIATED"
   },
   {
     "id": "4354",
@@ -1026,7 +1026,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON LYNCH. 14201 HWY 25 HONEA PATH SC 29654 PRINCETON AREA SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "14201 HWY 25 HONEA PATH SC 29654 PRINCETON AREA SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "4355",
@@ -1044,7 +1044,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID DUNCAN. 363 PINE LOG RD BEACH ISLAND SC 29842 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BEACH ISLAND SC 29842 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4356",
@@ -1062,7 +1062,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY L GWINN. 980 BISHOP RD INMAN SC 29349 SS 10,SM 11,SN 630,W 7 DEAF,VAN,RADIO 91.7 FM SUN 4 PM KJB, PIEDMONT BAPT. FELL, TABERNACLE-BC"
+    "description": "INMAN SC 29349 SS 10,SM 11,SN 630,W 7 DEAF,VAN,RADIO 91.7 FM SUN 4 PM KJB, PIEDMONT BAPT. FELL, TABERNACLE-BC"
   },
   {
     "id": "4357",
@@ -1080,7 +1080,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN WILLIAMSON. 4463 OLD EASLEY BRIDGE RD EASLEY SC 29642 SS 930,SM 1030,SN 530,W 7 WTBI RADIO KJB church."
+    "description": "EASLEY SC 29642 SS 930,SM 1030,SN 530,W 7 WTBI RADIO KJB church"
   },
   {
     "id": "4358",
@@ -1098,12 +1098,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRACEY CLEMENTS. 300 ALLIANCE RD LEXINGTON SC 29073 SS 10,SM 11,SN 6, WED 7 PO BOX 863 6105 BELTON HWY BELTON SC 29627 KJB church."
+    "description": "LEXINGTON SC 29073 SS 10,SM 11,SN 6, WED 7 PO BOX 863 6105 BELTON HWY BELTON SC 29627 KJB church"
   },
   {
     "id": "4359",
     "name": "CALVARYBAPTISTBELTONSC",
-    "address": "",
+    "address": "7 CALVARY CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1116,7 +1116,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRYAN COLE. SS 10,SM 11,SN 6,W 7 CALVARY CHRISTIAN SCHOOL PS-12 SCACS AACS KJB church."
+    "description": "SS 10,SM 11,SN 6,W IAN SCHOOL PS-12 SCACS AACS KJB church"
   },
   {
     "id": "4360",
@@ -1134,7 +1134,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CALEB WEEMS. 1103 FARRS BRIDGE RD PICKENS SC 29671 On HWY 183, 2 MILES N OF PICKENS AUDIO SERMONS PO BOX 466 DUNCAN SC 29334 807 E MAIN ST SS 10,SM 11,SN 6,W 7 AWANA, BIBLE COLLEGE KJB church."
+    "description": "PICKENS SC 29671 On HWY 183, 2 MILES N OF PICKENS AUDIO SERMONS PO BOX 466 DUNCAN SC 29334 807 E MAIN ST SS 10,SM 11,SN 6,W 7 AWANA, BIBLE COLLEGE KJB church"
   },
   {
     "id": "4361",
@@ -1153,12 +1153,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN ROGERSON. 1229 CONGAREE CHURCH RD GADSDEN SC 29052 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED"
+    "description": "GADSDEN SC 29052 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED"
   },
   {
     "id": "4362",
     "name": "JOEL BAPTIST CHURCH",
-    "address": "1165 OLD BARNWELL RD",
+    "address": "1165 OLD BARNWELL RD WEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1171,12 +1171,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1165 OLD BARNWELL RD WEST COLUMBIA SC 29170"
+    "description": "COLUMBIA SC 29170"
   },
   {
     "id": "4363",
     "name": "JOELBAPTISTCHURCHSC",
-    "address": "215 EVANS RD",
+    "address": "490 GRIGGS RD",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1191,12 +1191,12 @@ export const southcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by LEONARD R CONNER. SS 945,SM 11,SN 6,W 730 SOULWINNING, VBS, SHAW AFB, FORT JACKSON 215 EVANS RD PELZER SC 29669 SS 10,SM 11,SN 6,W 730 CHILDCARE PO BOX 315 490 GRIGGS RD CLOVER SC 29710 SS 10,SM 11,SN 6,W 7 AUDIO SERMO KJB church."
+    "description": "SS 945,SM 11,SN 6,W 730 SOULWINNING, VBS, SHAW AFB, FORT JACKSON PELZER SC 29669 SS 10,SM 11,SN 6,W 730 CHILDCARE PO BOX 315 CLOVER SC 29710 SS 10,SM 11,SN 6,W 7 AUDIO SERMO KJB church"
   },
   {
     "id": "4364",
     "name": "TRI CITY BAPTIST CHURCH",
-    "address": "129 OLD SENECA RD APT B",
+    "address": "129 OLD SENECA RD APT B WESTMINST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1209,12 +1209,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "129 OLD SENECA RD APT B WESTMINSTER SC 29693"
+    "description": "ER SC 29693"
   },
   {
     "id": "4365",
     "name": "TRICITYBAPTISTCH",
-    "address": "3 SUTLER RD",
+    "address": "229 EDGEWATER DR",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1222,12 +1222,12 @@ export const southcarolinaChurches: Church[] = [
     "longitude": -80.7595,
     "phone": "(843) 987-0084",
     "website": "http://www.landmark1611.com",
-    "pastor": "RONNIE WILCOX",
+    "pastor": "GAFFNEY SC 29340 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE WILCOX. SS 10,SM 11,SN 630,W 730 PO BOX 1184 3 SUTLER RD RIDGELAND SC 29936 SS 10,SM 11,SN 6,W 7 229 EDGEWATER DR GAFFNEY SC 29340 KJB church."
+    "description": "SS 10,SM 11,SN 630,W 730 PO BOX 1184 RIDGELAND SC 29936 SS 10,SM 11,SN 6,W 7 GAFFNEY SC 29340 KJB church"
   },
   {
     "id": "4366",
@@ -1245,7 +1245,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM STRONG. SS 10,SM 11,SN 5,W 7 638 WHETSTONE RD SWANSEA SC 29160 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 5,W 7 SWANSEA SC 29160 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4367",
@@ -1263,7 +1263,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BUCKSHOT WILLIAMS. 150 OLD SPARTANBURG HWY PACOLET SC 29372 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "150 OLD SPARTANBURG HWY PACOLET SC 29372 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4368",
@@ -1281,12 +1281,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT SUTTLE. 205 PINE ST PO BOX 31 PELION SC 29123 SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "PO BOX 31 PELION SC 29123 SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "4369",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "241 OAK GROVE RD",
+    "address": "7 HERITAGE CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1301,7 +1301,7 @@ export const southcarolinaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by STEPHEN COX. PO BOX 547 241 OAK GROVE RD BLACKSBURG SC 29707 SS 10,SM 11,SN 6,W 7 HERITAGE CHRISTIAN SCHOOL K4-12 KJB, CROWN-BC 233 HARRISON BRIDGE RD SIMPSONVILLE SC 29680-7131 SS 10,SM 11,SN 6,W 730 BUS, SENIORS"
+    "description": "PO BOX 547 BLACKSBURG SC 29707 SS 10,SM 11,SN 6,W IAN SCHOOL K4-12 KJB, CROWN-BC 233 HARRISON BRIDGE RD SIMPSONVILLE SC 29680-7131 SS 10,SM 11,SN 6,W 730 BUS, SENIORS"
   },
   {
     "id": "4370",
@@ -1319,7 +1319,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE WESTMORELAND. 281 WILDWOOD LN LUGOFF SC 29078 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LUGOFF SC 29078 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4371",
@@ -1337,7 +1337,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW THARP. 2295 HARPER ST SUMTER SC 29153 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, MASTERS CLUB, WSSC RADIO 1340 AM, SHAW AFB 6 MILES KJB, HAC"
+    "description": "SUMTER SC 29153 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, MASTERS CLUB, WSSC RADIO 1340 AM, SHAW AFB 6 MILES KJB, HAC"
   },
   {
     "id": "4372",
@@ -1356,7 +1356,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PHIL PECK. PO BOX 1059 GOOSE CREEK SC 29445 100 MONTAGUE PLANTATION RD SS 930, SM 11, SN 630, W 730 KJB, UNAFFILIATED 378 PARRIS ISLAND GATEWAY BEAUFORT SC 29906 SS 10,SM 11,SN 630,W 7 BUS, PATCH PIRATE, TEENS,"
+    "description": "PO BOX 1059 GOOSE CREEK SC 29445 SS 930, SM 11, SN 630, W 730 KJB, UNAFFILIATED 378 PARRIS ISLAND GATEWAY BEAUFORT SC 29906 SS 10,SM 11,SN 630,W 7 BUS, PATCH PIRATE, TEENS"
   },
   {
     "id": "4373",
@@ -1375,12 +1375,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MERIDETH SEARS. 120 PINEWOOD DR SUMTER SC 29150 SS 10,SM 11,SN 6,W 7 AWANA, PRISON, ACTS YOUTH, AUDIO SERMONS, SHAW AFB 8 MILES KJB, CROWN-BC, GSBC,WCBC"
+    "description": "SUMTER SC 29150 SS 10,SM 11,SN 6,W 7 AWANA, PRISON, ACTS YOUTH, AUDIO SERMONS, SHAW AFB 8 MILES KJB, CROWN-BC, GSBC,WCBC"
   },
   {
     "id": "4374",
     "name": "COASTAL LIGHT BAPTIST CHURCH",
-    "address": "2543 ASHLEY RIVER RD",
+    "address": "2543 ASHLEY RIVER RD CHARLEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1394,7 +1394,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by G L BROWN. 2543 ASHLEY RIVER RD CHARLESTON SC 29414 SS 945, SM 11, SN 6, W 7 CHARLESTON AFB 20 MINS KJB, BBF"
+    "description": "ON SC 29414 SS 945, SM 11, SN 6, W 7 CHARLESTON AFB 20 MINS KJB, BBF"
   },
   {
     "id": "4375",
@@ -1412,7 +1412,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACK SMITH & NEIL ALLISON. 1262 BELVEDERE DR HANAHAN SC 29406 KJB church."
+    "description": "HANAHAN SC 29406 KJB church"
   },
   {
     "id": "4376",
@@ -1431,12 +1431,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID JOHNSTON. 2200 LOWER RICHLAND BLVD HOPKINS SC 29061 KJB, UNAFFILIATED PO BOX 107 21235 HWY 76 E LAURENS SC 29360 SS 10, SM 11, SN 6, W 7"
+    "description": "HOPKINS SC 29061 KJB, UNAFFILIATED PO BOX 107 21235 HWY 76 E LAURENS SC 29360 SS 10, SM 11, SN 6, W 7"
   },
   {
     "id": "4377",
     "name": "BLYTHEWOOD BAPTIST CHURCH",
-    "address": "101 BASS RD",
+    "address": "500 W LEE RD",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1449,7 +1449,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBIN MORROW. 101 BASS RD BLYTHEWOOD SC 29016 SS 945,SM 11,SN 6,W 7 VIDEO SERMONS KJB, FBF 500 W LEE RD TAYLORS SC 29687 SS 930,SM 1045,SN 6,W 7,SUN JAPAN 4PM CHOIR, ORCHESTRA, TEEN, YOUTH, JAPANESE; HIDDEN TREASUR"
+    "description": "BLYTHEWOOD SC 29016 SS 945,SM 11,SN 6,W 7 VIDEO SERMONS KJB, FBF TAYLORS SC 29687 SS 930,SM 1045,SN 6,W 7,SUN JAPAN 4PM CHOIR, ORCHESTRA, TEEN, YOUTH, JAPANESE; HIDDEN TREASUR"
   },
   {
     "id": "4378",
@@ -1467,7 +1467,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 24948 4930 ALPINE RD & PERCIVAL RD COLUMBIA SC 29224-4948 Exit 76 off I-20 toward Florence, 29223"
+    "description": "PO BOX 24948 COLUMBIA SC 29224-4948 Exit 76 off I-20 toward Florence, 29223"
   },
   {
     "id": "4379",
@@ -1485,7 +1485,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBBIE DODD. SS 945,SM 11,SN 6,W 730 FT JACKSON - 10 MILES FROM VA HOSPITAL 1870 GOODJOIN RD CAMPOBELLO SC 29322 SS 10,SM 11,SN 6,W 7 KJB, SCBF"
+    "description": "SS 945,SM 11,SN 6,W 730 FT JACKSON - 10 MILES FROM VA HOSPITAL CAMPOBELLO SC 29322 SS 10,SM 11,SN 6,W 7 KJB, SCBF"
   },
   {
     "id": "4380",
@@ -1503,7 +1503,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM. PO BOX 170067 390 WINGO HEIGHTS RD SPARTANBURG SC 29301 SS 10, SM 11, SN 7, W 730 KJB church."
+    "description": "PO BOX 170067 SPARTANBURG SC 29301 SS 10, SM 11, SN 7, W 730 KJB church"
   },
   {
     "id": "4381",
@@ -1521,12 +1521,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY J FINNEY. PO BOX 12809 2308 S IRBY ST FLORENCE SC 29504 SS & MS 9 & 10,SN 6,W 730 TEENS, SINGLES, COUPLES, SENIOR, AUDIO SERMONS; FLORENCE CHRISTIAN SCHOOL; KJB church."
+    "description": "PO BOX 12809 FLORENCE SC 29504 SS & MS 9 & 10,SN 6,W 730 TEENS, SINGLES, COUPLES, SENIOR, AUDIO SERMONS; FLORENCE CHRISTIAN SCHOOL; KJB church"
   },
   {
     "id": "4382",
     "name": "FIRST BAPTIST CHURCH OF CONESTEE",
-    "address": "16 2ND ST",
+    "address": "PO BOX 157",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1539,12 +1539,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH MENDENHALL. PO BOX 157 16 2ND ST CONESTEE SC 29636 SS 10,SM 11,SN 6,W 7 CHILDREN, TEENS, PRISON, SENIORS, AUDIO & VIDEO SERMONS; CONESTEE BAPTIST DAY SCHOOL PS-12; 335 WOODLAND SHORES RD CHARLESTON SC 29412 SS 94 KJB church."
+    "description": "16 2ND ST CONESTEE SC 29636 SS 10,SM 11,SN 6,W 7 CHILDREN, TEENS, PRISON, SENIORS, AUDIO & VIDEO SERMONS; CONESTEE BAPTIST DAY SCHOOL PS-12; 335 WOODLAND SHORES RD CHARLESTON SC 29412 SS 94 KJB church"
   },
   {
     "id": "4383",
     "name": "BETHEL BIBLE BAPTIST CHURCH",
-    "address": "607 JORDAN ST",
+    "address": "722 CONCORD RD",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1558,7 +1558,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GUY ROBERTS. 607 JORDAN ST GREENWOOD SC 29648 SS 10,SM 11,W 7 722 CONCORD RD PICKENS SC 29671 SS 10,SM 11,SN 6,W 7 2862 BAMBERG HWY (HWY 601 N) HAMPTON SC 29924 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "GREENWOOD SC 29648 SS 10,SM 11,W 7 PICKENS SC 29671 SS 10,SM 11,SN 6,W 7 2862 BAMBERG HWY (HWY 601 N) HAMPTON SC 29924 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4384",
@@ -1576,7 +1576,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY ESUARY. 104 BERKELEY SQUARE LANE, PMB 102 GOOSE CREEK SC 29445 PHYSICAL LOCATION: 654 RED BANK RD SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "PMB 102 GOOSE CREEK SC 29445 PHYSICAL LOCATION: 654 RED BANK RD SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "4385",
@@ -1595,7 +1595,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NATHAN THOMAS. PO BOX 1086 1126 OLD NORRIS RD PICKENS SC 29671 near CENTRAL & LIBERTY 101 CALVARY ST GREER SC 29650 SS 10,SM 11,SN 6,W 7 CALVARY CHRISTIAN SCHOOL PS-12 KJB, UNAFFILIATED PO BOX 220 LANDRUM SC 29356 P"
+    "description": "PO BOX 1086 PICKENS SC 29671 near CENTRAL & LIBERTY 101 CALVARY ST GREER SC 29650 SS 10,SM 11,SN 6,W 7 CALVARY CHRISTIAN SCHOOL PS-12 KJB, UNAFFILIATED PO BOX 220 LANDRUM SC 29356 P"
   },
   {
     "id": "4386",
@@ -1613,7 +1613,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "154 ARTILLERY CT PIEDMONT SC 29673 HWY 20 SS 10,SM 11,SN 6,W 730"
+    "description": "PIEDMONT SC 29673 HWY 20 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "4387",
@@ -1631,7 +1631,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN B GRIFFITH.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4388",
@@ -1650,7 +1650,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL BRENDEL. 4905 GEER HWY HWY 11 CLEVELAND SC 29635 SS 10,SM 11,SE 6,W 730 276 FLINT DR WARRENVILLE SC 29816 SS 10,SM 11,SN 6,W 7 KJB, BBC-MO, AMBASSADOR-BC, ATLANTIC-BC PO BOX 266 255 S 21 BYPASS FORT MILL SC 29"
+    "description": "4905 GEER HWY HWY 11 CLEVELAND SC 29635 SS 10,SM 11,SE 6,W 730 WARRENVILLE SC 29816 SS 10,SM 11,SN 6,W 7 KJB, BBC-MO, AMBASSADOR-BC, ATLANTIC-BC PO BOX 266 255 S 21 BYPASS FORT MILL SC 29"
   },
   {
     "id": "4389",
@@ -1669,7 +1669,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WILLIAM PICKEL. PO BOX 1325 3440 NORTH RD ORANGEBURG SC 29116 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 1325 ORANGEBURG SC 29116 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4390",
@@ -1687,7 +1687,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 369 7210 S PINE ST PACOLET SC 29372"
+    "description": "PO BOX 369 PACOLET SC 29372"
   },
   {
     "id": "4391",
@@ -1700,12 +1700,12 @@ export const southcarolinaChurches: Church[] = [
     "longitude": -81.4447,
     "phone": "(864) 590-7539",
     "website": "https://calvaryhillbaptistpress.com",
-    "pastor": "JEFF JONES",
+    "pastor": "COLUMBIA SC 29223 SS 10,SM 11,W 7 AUDIO SERMONS FT JACKSON, SHAW AFB KJB, SCBF 462 BRICKHOUSE RD GAFFNEY S",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF JONES. 451 PLEASANT VALLEY RD SPARTANBURG SC 29307 near COWPENS SS 10,SM 11,SN 6,W 7 1502 FARAWAY DR COLUMBIA SC 29223 SS 10,SM 11,W 7 AUDIO SERMONS FT JACKSON, SHAW AFB KJB, SCBF 462 BRICKHOUSE RD GAFFNEY S"
+    "description": "SPARTANBURG SC 29307 near COWPENS SS 10,SM 11,SN 6,W 7 1502 FARAWAY DR COLUMBIA SC 29223 SS 10,SM 11,W 7 AUDIO SERMONS FT JACKSON, SHAW AFB KJB, SCBF 462 BRICKHOUSE RD GAFFNEY S"
   },
   {
     "id": "4392",
@@ -1723,7 +1723,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT DAVIS. PO BOX 7077 1410 S FLOYD CIR FLORENCE SC 29501 SS 10,SM 11,SN 115 KJB, PIEDMONT-BC"
+    "description": "PO BOX 7077 FLORENCE SC 29501 SS 10,SM 11,SN 115 KJB, PIEDMONT-BC"
   },
   {
     "id": "4393",
@@ -1741,12 +1741,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON RODDEY. 1025 E DEADFALL RD GREENWOOD SC 29649 SS 10, SM 11, SN 6, W 7 AWANA, YOUTH GROUP, CHOIR KJB, NCBF"
+    "description": "GREENWOOD SC 29649 SS 10, SM 11, SN 6, W 7 AWANA, YOUTH GROUP, CHOIR KJB, NCBF"
   },
   {
     "id": "4394",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "100 MEADOWBROOK DR",
+    "address": "29644 BEREAN CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1759,12 +1759,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATE BEAM. 455 HANDS MILL HWY ROCK HILL SC 29732 SS 945,SM 11,SN 6,W 7 100 MEADOWBROOK DR FOUNTAIN INN SC 29644 BEREAN CHRISTIAN ACADEMY PS-12 KJB church."
+    "description": "455 HANDS MILL HWY ROCK HILL SC 29732 SS 945,SM 11,SN 6,W 7 FOUNTAIN INN SC IAN ACADEMY PS-12 KJB church"
   },
   {
     "id": "4395",
     "name": "EASTSIDE BAPTIST CHURCH",
-    "address": "614 IKES RD",
+    "address": "7 EASTSIDE CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1780,7 +1780,7 @@ export const southcarolinaChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by DAVID MOYER. 1908 HWY 72-221 E GREENWOOD SC 29648 SS 10,SM 11,SN 6,W 7 EASTSIDE CHRISTIAN SCHOOL PS-12 AACS KJB, BBF 7921 HWY 544 W MYRTLE BEACH SC 29588 SS 10, SM 11, SN 6, W 7 PO BOX 835 614 IKES RD TAYLORS SC 2"
+    "description": "1908 HWY 72-221 E GREENWOOD SC 29648 SS 10,SM 11,SN 6,W IAN SCHOOL PS-12 AACS KJB, BBF 7921 HWY 544 W MYRTLE BEACH SC 29588 SS 10, SM 11, SN 6, W 7 PO BOX 835 614 IKES RD TAYLORS SC 2"
   },
   {
     "id": "4396",
@@ -1798,12 +1798,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by UNKNOWN. 19 SIDNEY ST GREENVILLE SC 29609 SS 10,SM 11,SN 6,W 730 AWANA, SENIORS PO BOX 553 1220 9TH AVE S MYRTLE BEACH SC 29578 SS 10,SM 11,SN 6,W 7 1317 JEFFERSON DAVIS HWY CAMDEN SC 29020 SS 10,SM 11,SN 630, KJB church."
+    "description": "GREENVILLE SC 29609 SS 10,SM 11,SN 6,W 730 AWANA, SENIORS PO BOX 553 1220 9TH AVE S MYRTLE BEACH SC 29578 SS 10,SM 11,SN 6,W 7 1317 JEFFERSON DAVIS HWY CAMDEN SC 29020 SS 10,SM 11,SN 630, KJB church"
   },
   {
     "id": "4397",
     "name": "GANTT ST BAPTIST CHURCH",
-    "address": "2121 GANTT ST",
+    "address": "620 W MARTINTOWN RD NORTH AUGUST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1817,7 +1817,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CT TOWNSEND. 2121 GANTT ST CAYCE SC 29033 SS 10,SN 11,SN 6,W 730 AUDIO SERMONS, AWANA, SENIOR ADULTS, YOUTH ALL AGES, PROPHETS CHAMBER, FORT JACKSON 12 MILES 620 W MARTINTOWN RD NORTH AUGUSTA SC 29841 SS 945,SM 10 KJB church."
+    "description": "CAYCE SC 29033 SS 10,SN 11,SN 6,W 730 AUDIO SERMONS, AWANA, SENIOR ADULTS, YOUTH ALL AGES, PROPHETS CHAMBER, FORT JACKSON 12 MILES A SC 29841 SS 945,SM 10 KJB church"
   },
   {
     "id": "4398",
@@ -1835,7 +1835,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN AIKEN. 110 OLD RUTHERFORD RD TAYLORS SC 29687 GREER AREA 1401 GRIFFIN MILL RD EASLEY SC 29640 SS 10,SM 11,SN 6,W 7 KJB, NATIONWIDE 416 DENHAM AVE WEST COLUMBIA SC 29169 SS 10,SM 11,SN 630,W 715,SW TH 7, AWAN"
+    "description": "TAYLORS SC 29687 GREER AREA 1401 GRIFFIN MILL RD EASLEY SC 29640 SS 10,SM 11,SN 6,W 7 KJB, NATIONWIDE 416 DENHAM AVE WEST COLUMBIA SC 29169 SS 10,SM 11,SN 630,W 715,SW TH 7, AWAN"
   },
   {
     "id": "4399",
@@ -1854,7 +1854,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JONATHAN DOSS. 323 KINGS MOUNTAIN ST YORK SC 29745 SM 11,SN 630,W 730 SOULWINNING, PRISON, ARMY RESERVE, TRACT, TAPE, AUDIO SERMONS KJB church."
+    "description": "YORK SC 29745 SM 11,SN 630,W 730 SOULWINNING, PRISON, ARMY RESERVE, TRACT, TAPE, AUDIO SERMONS KJB church"
   },
   {
     "id": "4400",
@@ -1874,7 +1874,7 @@ export const southcarolinaChurches: Church[] = [
       "Soulwinning",
       "BMA"
     ],
-    "description": "Led by TYLER DONOUGH. 1131 COLLEGE PARK RD SUMMERVILLE SC 29483 NEAR LADSON SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, SOULWINNING, TRUCK STOP, TAPE, CHARLESTON AFB, GOOSE CREEK, COAST GUARD KJB, GIBF"
+    "description": "SUMMERVILLE SC 29483 NEAR LADSON SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, SOULWINNING, TRUCK STOP, TAPE, CHARLESTON AFB, GOOSE CREEK, COAST GUARD KJB, GIBF"
   },
   {
     "id": "4401",
@@ -1893,7 +1893,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOMAS ED BOWEN. 1229 ANDERSON RD ROCK HILL SC 29730 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, PATCH THE PIRATE CLUBS, PEE WEE PATCH CLUBS, SPANISH, RADIO WRHJ, 93.1 FM KJB, PRE-MIL, UNAFFILIATED, BIMI"
+    "description": "ROCK HILL SC 29730 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, PATCH THE PIRATE CLUBS, PEE WEE PATCH CLUBS, SPANISH, RADIO WRHJ, 93.1 FM KJB, PRE-MIL, UNAFFILIATED, BIMI"
   },
   {
     "id": "4402",
@@ -1911,12 +1911,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON DAVIS. 1502 CHERRYVALE DR SUMTER SC 29154 SS 10 SM 11, SN 6-7,W 7 SHAW AFB KJB, BJU PCC"
+    "description": "SUMTER SC 29154 SS 10 SM 11, SN 6-7,W 7 SHAW AFB KJB, BJU PCC"
   },
   {
     "id": "4403",
     "name": "SUMTER BIBLE CHURCH",
-    "address": "",
+    "address": "7 SUMTER CHRIST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -1929,7 +1929,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LESLIE BOURDESS. 420 S PIKE W SUMTER SC 29153 SS 10,SM 11,SN 630,W 7 SUMTER CHRISTIAN SCHOOL BJU & ABEKA CURR,PS-12; SHAW AFB 8 MILES KJB church."
+    "description": "420 S PIKE W SUMTER SC 29153 SS 10,SM 11,SN 630,W IAN SCHOOL BJU & ABEKA CURR,PS-12; SHAW AFB 8 MILES KJB church"
   },
   {
     "id": "4404",
@@ -1949,7 +1949,7 @@ export const southcarolinaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ENOCH D WILSON. 111 N CEDAR ROCK RD EASLEY SC 29640 SS 10,SM 11,SN 6,W 7 23994 HWY 221 N ENOREE SC 29335 KJB, lightly BBF, SBF"
+    "description": "EASLEY SC 29640 SS 10,SM 11,SN 6,W 7 23994 HWY 221 N ENOREE SC 29335 KJB, lightly BBF, SBF"
   },
   {
     "id": "4405",
@@ -1967,7 +1967,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY ST JOHN. 1447 GLEASON DR LADSON SC 29456 SS 10,SM 11,SN 630,W 7 907 E ONEAL ST BOX 792 GAFFNEY SC 29340 SS 10,SM 11,SN 6,W 7 1032 ATOMIC RD N AUGUSTA SC 29841-4411 SS 955,SM 11,SN 6,W 7 KJB church."
+    "description": "LADSON SC 29456 SS 10,SM 11,SN 630,W 7 907 E ONEAL ST BOX 792 GAFFNEY SC 29340 SS 10,SM 11,SN 6,W 7 1032 ATOMIC RD N AUGUSTA SC 29841-4411 SS 955,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4406",
@@ -1985,7 +1985,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE HURTE. 115 WESSINGER RD PROSPERITY SC 29127 SS 945,SM 11,SN 6,W 7 KJB, HAC 404 WARNER RD ANDERSON SC 29621 SS 930,SM 1030,SN 6,W 7 AWANA, SENIORS, TEEN, AUDIO SERMONS, FAITH BIBLE INSTITUTE"
+    "description": "PROSPERITY SC 29127 SS 945,SM 11,SN 6,W 7 KJB, HAC 404 WARNER RD ANDERSON SC 29621 SS 930,SM 1030,SN 6,W 7 AWANA, SENIORS, TEEN, AUDIO SERMONS, FAITH BIBLE INSTITUTE"
   },
   {
     "id": "4407",
@@ -2003,7 +2003,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE THOMAS. 116 CAMP CREEK RD CENTRAL SC 29630 SS 945,SM 11,SN 6,W 7 PO BOX 86 6707 HWY 81 S STARR SC 29684 SS 10,SM 11,SN 6,W 7 KJB, SCBF"
+    "description": "CENTRAL SC 29630 SS 945,SM 11,SN 6,W 7 PO BOX 86 6707 HWY 81 S STARR SC 29684 SS 10,SM 11,SN 6,W 7 KJB, SCBF"
   },
   {
     "id": "4408",
@@ -2021,7 +2021,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF STEWART. 1600 OLD FURNACE RD PO BOX 16086 SPARTANBURG SC 29316 BOILING SPRINGS SS 10,SM 11,SN 630,W 7 KJB, IFFB"
+    "description": "PO BOX 16086 SPARTANBURG SC 29316 BOILING SPRINGS SS 10,SM 11,SN 630,W 7 KJB, IFFB"
   },
   {
     "id": "4409",
@@ -2040,7 +2040,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTT L'HEUREUX. 5910 OLD BUNCOMBE RD GREENVILLE SC 29609 SS 945,SM 11,SN 6,W 730 AUDIO SERMONS, BUS,RADIO WTBI 91.7 KJB, UNAFFILIATED"
+    "description": "GREENVILLE SC 29609 SS 945,SM 11,SN 6,W 730 AUDIO SERMONS, BUS,RADIO WTBI 91.7 KJB, UNAFFILIATED"
   },
   {
     "id": "4410",
@@ -2058,12 +2058,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEY DURHAM. 1907 W PARKER RD GREENVILLE SC 29611 SS 930,SM 1030,SN 6,W 7 TEEN, RADIO WTBI 91.7, AWANA, SENIORS, CHOIR KJB church."
+    "description": "GREENVILLE SC 29611 SS 930,SM 1030,SN 6,W 7 TEEN, RADIO WTBI 91.7, AWANA, SENIORS, CHOIR KJB church"
   },
   {
     "id": "4411",
     "name": "FLAT SHOALS BAPTIST CHURCH",
-    "address": "656 FLAT SHOALS RD",
+    "address": "8723 SALAMANDER RD N CHARLEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2076,12 +2076,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT W BOOFER. 656 FLAT SHOALS RD WALHALLA SC 29691 SS 10,SM 11,SN 6,W 7 8723 SALAMANDER RD N CHARLESTON SC 29406 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "WALHALLA SC 29691 SS 10,SM 11,SN 6,W 7 ON SC 29406 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4412",
     "name": "LAKESIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1728",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2094,7 +2094,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID JOHNSON. PO BOX 1728 4280 JEFFERSON DAVIS HWY CLEARWATER SC 29822 SS 930,SM 1045,SN 6,W 7 KJB church."
+    "description": "4280 JEFFERSON DAVIS HWY CLEARWATER SC 29822 SS 930,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "4413",
@@ -2112,12 +2112,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN CRESSWELL. 3143 DRAG STRIP RD NORTH SC 29112 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "NORTH SC 29112 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "4414",
     "name": "NORTHSIDE BAPTIST CHURCH",
-    "address": "7800 NORTHSIDE DR",
+    "address": "7800 NORTHSIDE DR NORTH CHARLEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2130,7 +2130,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KITRAL BENTON. 7800 NORTHSIDE DR NORTH CHARLESTON SC 29420 SS 945,SM 11,SN 630,W 7 ;NORTHSIDE CHRISTIAN SCHOOL PS-12; BIBLE INSTITUTE, CHARLESTON AFB, GLOBAL VISION, SPANISH, YOUTH, SENIORS, AUDIO SERMONS KJB church."
+    "description": "ON SC 29420 SS 945,SM 11,SN 630,W 7 ;NORTHSIDE CHRISTIAN SCHOOL PS-12; BIBLE INSTITUTE, CHARLESTON AFB, GLOBAL VISION, SPANISH, YOUTH, SENIORS, AUDIO SERMONS KJB church"
   },
   {
     "id": "4415",
@@ -2148,7 +2148,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUSTIN DUKE. 2182 N FIFTH ST HARTSVILLE SC 29550 KJB, ABC 9261 ASHEVILLE HWY SPARTANBURG SC 29316 SS 945,SM 1045,SN 6,W 730"
+    "description": "HARTSVILLE SC 29550 KJB, ABC 9261 ASHEVILLE HWY SPARTANBURG SC 29316 SS 945,SM 1045,SN 6,W 730"
   },
   {
     "id": "4416",
@@ -2166,7 +2166,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID RICKERD. 1617 COLUMBIA HWY N AIKEN SC 29801 SS 10,SM 11,SN 6"
+    "description": "1617 COLUMBIA HWY N AIKEN SC 29801 SS 10,SM 11,SN 6"
   },
   {
     "id": "4417",
@@ -2184,7 +2184,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by SAMY SCOTT. 700 E WHITNER ST ANDERSON SC 29624 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
+    "description": "ANDERSON SC 29624 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "4418",
@@ -2204,7 +2204,7 @@ export const southcarolinaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by TRAVIS JONES. 1809 FORK SHOALS RD GREENVILLE SC 29605 PO BOX 41 708 N HANKINSON ST JACKSON SC 29831 434 MUSEUM RD ROCK HILL SC 29730 PO BOX 763 14 HWY 71 ABBEVILLE SC 29620 NOT KJV ONLY, BBF, WOL KJB church."
+    "description": "GREENVILLE SC 29605 PO BOX 41 708 N HANKINSON ST JACKSON SC 29831 434 MUSEUM RD ROCK HILL SC 29730 PO BOX 763 14 HWY 71 ABBEVILLE SC 29620 NOT KJV ONLY, BBF, WOL KJB church"
   },
   {
     "id": "4419",
@@ -2222,7 +2222,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BRENTON COOK. PO BOX 23464 2243 PERCIVAL RD COLUMBIA SC 29224 TEEN, SINGLES, CHILDREN, SENIORS, SHAW AFB,FORT JACKSON NORTHLAND-BBC, GFA, BJU"
+    "description": "PO BOX 23464 COLUMBIA SC 29224 TEEN, SINGLES, CHILDREN, SENIORS, SHAW AFB,FORT JACKSON NORTHLAND-BBC, GFA, BJU"
   },
   {
     "id": "4420",
@@ -2240,12 +2240,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by JIM WETTERLUND. PO BOX 1643 411 PENDLETON RD CLEMSON SC 29633 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS Non-KJV church."
+    "description": "PO BOX 1643 CLEMSON SC 29633 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS Non-KJV church"
   },
   {
     "id": "4421",
     "name": "SUBER ROAD BAPTIST CHURCH",
-    "address": "445 S SUBER RD",
+    "address": "3446 TIGERVILLE RD",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2259,7 +2259,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by F RON VITOSKY. 445 S SUBER RD GREER SC 29687 PREACH KJV, STUDY VARIOUS, UNAFFILIATED 3446 TIGERVILLE RD TAYLORS SC 29687-6937 SS 930,SM 1030,SN 5,W 7 KJV-TRINITY BC,CCM KJB church."
+    "description": "GREER SC 29687 PREACH KJV, STUDY VARIOUS, UNAFFILIATED TAYLORS SC 29687-6937 SS 930,SM 1030,SN 5,W 7 KJV-TRINITY BC,CCM KJB church"
   },
   {
     "id": "4422",
@@ -2278,7 +2278,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by FREDDIE M YOUNG. PO BOX 235 612 ASCAUGA LAKE RD GRANITEVILLE SC 29829 SS 10,SM 11,SN 6,W 7 BUS, TEEN, BIBLE CAMP, AWANA, AUDIO SERMONS NOT KJV ONLY, BBF KJB church."
+    "description": "PO BOX 235 GRANITEVILLE SC 29829 SS 10,SM 11,SN 6,W 7 BUS, TEEN, BIBLE CAMP, AWANA, AUDIO SERMONS NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "4423",
@@ -2296,7 +2296,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIGUEL A BETANCOURT II. 350 HOSPITALITY LN MYRTLE BEACH SC 29577 PREACH KJV, NOT KJV ONLY, BJU, WILDS KJB church."
+    "description": "MYRTLE BEACH SC 29577 PREACH KJV, NOT KJV ONLY, BJU, WILDS KJB church"
   },
   {
     "id": "4424",
@@ -2315,7 +2315,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by WILLIAM H WILLIAMSON. 901 FOSTER CREEK RD HANAHAN SC 29410-4703 KIDS 4 TRUTH CLUBS, AUDIO SERMONS NOT KJV ONLY 300 SIMS AVE COLUMBIA SC 29205 SS 945,SM 1045,SN 645,W 745 NOT KJV ONLY, BJU 364 CALVARY RD CHERAW SC 29520 SS  KJB church."
+    "description": "HANAHAN SC 29410-4703 KIDS 4 TRUTH CLUBS, AUDIO SERMONS NOT KJV ONLY 300 SIMS AVE COLUMBIA SC 29205 SS 945,SM 1045,SN 645,W 745 NOT KJV ONLY, BJU 364 CALVARY RD CHERAW SC 29520 SS KJB church"
   },
   {
     "id": "4425",
@@ -2333,7 +2333,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES WOOTEN. 721 NEELY FERRY RD SIMPSONVILLE SC 29680 SS 10,SM 11,SN 6,W 7,VIS SAT 11 NOT KJV ONLY, PCC KJB church."
+    "description": "SIMPSONVILLE SC 29680 SS 10,SM 11,SN 6,W 7,VIS SAT 11 NOT KJV ONLY, PCC KJB church"
   },
   {
     "id": "4426",
@@ -2352,7 +2352,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CARL WOOD. 1990 OLD REIDVILLE RD SPARTANBURG SC 29301 SS 10,SM 11,SN 7,W 7 AWANA; WESTGATE CHRISTIAN SCHOOL K3-12 AACS SAXON-BJUP ABEKA; NOT KJV ONLY,GFA 3300 HIGHWAY 50 LITTLE RIVER SC 29566 NEAR NORTH MYRTLE B KJB church."
+    "description": "SPARTANBURG SC 29301 SS 10,SM 11,SN 7,W 7 AWANA; WESTGATE CHRISTIAN SCHOOL K3-12 AACS SAXON-BJUP ABEKA; NOT KJV ONLY,GFA 3300 HIGHWAY 50 LITTLE RIVER SC 29566 NEAR NORTH MYRTLE B KJB church"
   },
   {
     "id": "4427",
@@ -2370,7 +2370,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE JOHNS. 31 N HIGHWAY 25 BYP GREENVILLE SC 29617 SS 10,SM 11,SN 6,W 7 PREACH KJV, NOT KJV ONLY KJB church."
+    "description": "GREENVILLE SC 29617 SS 10,SM 11,SN 6,W 7 PREACH KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "4428",
@@ -2388,7 +2388,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERNIE SPENCE. 1526 KENNERLY RD IRMO SC 29063 COLUMBIA AREA SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, BJU KJB church."
+    "description": "IRMO SC 29063 COLUMBIA AREA SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "4429",
@@ -2407,7 +2407,7 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TED ALLSTON. 3670 LADSON RD LADSON SC 29456 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, BJU KJB church."
+    "description": "LADSON SC 29456 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, BJU KJB church"
   },
   {
     "id": "4430",
@@ -2420,12 +2420,12 @@ export const southcarolinaChurches: Church[] = [
     "longitude": -80.4749,
     "phone": "(864) 232-5691",
     "website": "http://hamptonpark.org",
-    "pastor": "",
+    "pastor": "NOT KJV ONLY, BJU KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "875 STATE PARK RD GREENVILLE SC 29609 SS 930,SM 1030,BS 430,SN 530,W 730 TEEN, SINGLE, SENIOR, AWANA, BUS, SCHOOL NEEDS PASTOR NOT KJV ONLY, BJU KJB church."
+    "description": "GREENVILLE SC 29609 SS 930,SM 1030,BS 430,SN 530,W 730 TEEN, SINGLE, SENIOR, AWANA, BUS, SCHOOL NEEDS"
   },
   {
     "id": "4431",
@@ -2443,12 +2443,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK A MINNICK. 1115 PELHAM RD GREENVILLE SC 29615 SS 930,SM 1030,SN 530,W 730 AWANA, BUS, DEAF, SENIORS, OPEN DOOR BAPTIST MISSIONS PREACH KJV, STUDY NASV, FBF KJB church."
+    "description": "GREENVILLE SC 29615 SS 930,SM 1030,SN 530,W 730 AWANA, BUS, DEAF, SENIORS, OPEN DOOR BAPTIST MISSIONS PREACH KJV, STUDY NASV, FBF KJB church"
   },
   {
     "id": "4432",
     "name": "MT CALVARY BAPTIST CHURCH",
-    "address": "115 CEDAR LANE RD",
+    "address": "1519 STEELE HILL RD LANCAST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2463,7 +2463,7 @@ export const southcarolinaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by RICKY D COPE. 115 CEDAR LANE RD GREENVILLE SC 29601 SS  915,SM 1030,SN 6,W 715 NOT KJV ONLY, CCM, CONTEMPORARY SERVICES PO BOX 59 VAN WYCK SC 29744 1519 STEELE HILL RD LANCASTER SC 29720 NOT KJV ONLY, IFFB, BJU 930 KJB church."
+    "description": "GREENVILLE SC 29601 SS 915,SM 1030,SN 6,W 715 NOT KJV ONLY, CCM, CONTEMPORARY SERVICES PO BOX 59 VAN WYCK SC 29744 ER SC 29720 NOT KJV ONLY, IFFB, BJU 930 KJB church"
   },
   {
     "id": "4433",
@@ -2482,12 +2482,12 @@ export const southcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GEORGE AUTRY. PO BOX 4930 3354 HOFFMEYER RD FLORENCE SC 29502 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBFI, BBC-MO, BBC-MA, LIBERTY U, KJB church."
+    "description": "PO BOX 4930 FLORENCE SC 29502 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBFI, BBC-MO, BBC-MA, LIBERTY U, KJB church"
   },
   {
     "id": "4434",
     "name": "COASTAL SHORES BAPTIST CHURCH",
-    "address": "8310 DORCHESTER RD",
+    "address": "8310 DORCHESTER RD CHARLEST",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2502,7 +2502,7 @@ export const southcarolinaChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by RALPH SCHNECK. 8310 DORCHESTER RD CHARLESTON SC 29418 SS 915,SM 1030,SN 6,W 630 AWANA; HARVEST BAPTIST SCHOOL K-12; CHARLESTON AFB NOT KJV ONLY, BBF, CCM KJB church."
+    "description": "ON SC 29418 SS 915,SM 1030,SN 6,W 630 AWANA; HARVEST BAPTIST SCHOOL K-12; CHARLESTON AFB NOT KJV ONLY, BBF, CCM KJB church"
   },
   {
     "id": "4435",
@@ -2520,7 +2520,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL GRAY. 415 BARR RD LEXINGTON SC 29072 SS 9,SM 8 & 1030,SN 6,W 7 DRAMA, CHOIR, AWANA NOT KJV ONLY, BJU, FBFI KJB church."
+    "description": "LEXINGTON SC 29072 SS 9,SM 8 & 1030,SN 6,W 7 DRAMA, CHOIR, AWANA NOT KJV ONLY, BJU, FBFI KJB church"
   },
   {
     "id": "4436",
@@ -2538,7 +2538,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN H HILL. 525 TAYLORS RD TAYLORS SC 29687 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BJU, PCC KJB church."
+    "description": "TAYLORS SC 29687 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BJU, PCC KJB church"
   },
   {
     "id": "4437",
@@ -2556,7 +2556,7 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF MILLER. 10665 DORCHESTER RD SUMMERVILLE SC 29485 NOT KJV ONLY, BJU KJB church."
+    "description": "SUMMERVILLE SC 29485 NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "4438",
@@ -2574,12 +2574,12 @@ export const southcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK WILLIAMSON. 400 RAINBOW DR GREENVILLE SC 29617 SS 945,SM 1045,SN 6,W 7 KJB, CCM"
+    "description": "GREENVILLE SC 29617 SS 945,SM 1045,SN 6,W 7 KJB, CCM"
   },
   {
     "id": "4439",
     "name": "CAROLINA BAPTIST CHURCH",
-    "address": "256 FLOYD RD",
+    "address": "3810 GRANDVIEW DR",
     "city": "Columbia",
     "state": "SC",
     "zipCode": "",
@@ -2587,13 +2587,13 @@ export const southcarolinaChurches: Church[] = [
     "longitude": -81.0917,
     "phone": "(864) 582-3812",
     "website": "http://www.carolinabaptist.org",
-    "pastor": "DUSTIN ROGERS",
+    "pastor": "SIMPSONVILLE SC 29680-3161 SS & MS 915 & 1030,SN 6,W 7 PATCH THE PIRATE, YOUTH, TEEN, SENIOR, RADI KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV",
       "ABA"
     ],
-    "description": "Led by DUSTIN ROGERS. 256 FLOYD RD SPARTANBURG SC 29303 SM 11,SN 6,W 7 AUDIO SERMONS NASB, NKJV, BJU, FBF 3810 GRANDVIEW DR SIMPSONVILLE SC 29680-3161 SS & MS 915 & 1030,SN 6,W 7 PATCH THE PIRATE, YOUTH, TEEN, SENIOR, RADI KJB church."
+    "description": "SPARTANBURG SC 29303 SM 11,SN 6,W 7 AUDIO SERMONS NASB, NKJV, BJU, FBF SIMPSONVILLE SC 29680-3161 SS & MS 915 & 1030,SN 6,W 7 PATCH THE PIRATE, YOUTH, TEEN, SENIOR, RADI KJB church"
   }
 ];

@@ -17,12 +17,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN GORTON.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5456",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "3500 BEAVER DAM RD",
+    "address": "3500 BEAVER DAM RD WEST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -37,7 +37,7 @@ export const wisconsinChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by STEPHEN ROVICS. 3500 BEAVER DAM RD WEST BEND WI 53095 PROKIDS, PROTEENS, SOULWINNING, MENS PRAYER SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "BEND WI 53095 PROKIDS, PROTEENS, SOULWINNING, MENS PRAYER SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "5457",
@@ -55,7 +55,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW DOLL. W5923 SHADY LANE RD JUNEAU WI 53039 KJB, HAC 1110 N MARQUETTE RD PRAIRIE DU CHIEN WI 53821 PRAIRIE CHRISTIAN ACADEMY K-12; PROPHETS CHAMBER"
+    "description": "JUNEAU WI 53039 KJB, HAC 1110 N MARQUETTE RD PRAIRIE DU CHIEN WI 53821 PRAIRIE CHRISTIAN ACADEMY K-12; PROPHETS CHAMBER"
   },
   {
     "id": "5458",
@@ -73,7 +73,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TROY MIDDLETON. 650 WOODWARD AVE CHIPPEWA FALLS WI 54729 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "CHIPPEWA FALLS WI 54729 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5459",
@@ -91,7 +91,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HENRY STILLER. 507 EAST 9TH AVE BRODHEAD WI 53520 SS 930,SM 1045,SN 130,W 7 AUDIO SERMONS KJB church."
+    "description": "BRODHEAD WI 53520 SS 930,SM 1045,SN 130,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5460",
@@ -109,7 +109,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDALL HOFFMAN. W5498 HAZEL RIDGE RD ELKHORN WI 53147 near LAKE GENEVA KJB church."
+    "description": "ELKHORN WI 53147 near LAKE GENEVA KJB church"
   },
   {
     "id": "5461",
@@ -127,7 +127,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RALPH W BROWN JR. 315 SANBORN AVE SUITE 200 ASHLAND WI 54806 KJB church."
+    "description": "SUITE 200 ASHLAND WI 54806 KJB church"
   },
   {
     "id": "5462",
@@ -145,7 +145,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2409 E PARK PL MILWAUKEE WI 53211 SS 10,SM 1045,SN 6,W 7"
+    "description": "MILWAUKEE WI 53211 SS 10,SM 1045,SN 6,W 7"
   },
   {
     "id": "5463",
@@ -163,7 +163,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG KUMMER. KJB, HAC"
+    "description": "KJB, HAC"
   },
   {
     "id": "5464",
@@ -182,7 +182,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT LOVE SR. 2023 S RIDGE RD GREEN BAY WI 54304 SS 945,SM 1030,SN 6 BETH HAVEN ACADEMY 1-12 KJB, WIS-FBC, W-BBF, MBBC"
+    "description": "GREEN BAY WI 54304 SS 945,SM 1030,SN 6 BETH HAVEN ACADEMY 1-12 KJB, WIS-FBC, W-BBF, MBBC"
   },
   {
     "id": "5465",
@@ -200,7 +200,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL BOWSER. 101 N WEST ST WAUPUN WI 53963 SS 915,SM 1030,SN 6,W 7 KJB church."
+    "description": "WAUPUN WI 53963 SS 915,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "5466",
@@ -218,12 +218,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID J MOORE. 780 TENNY AVE HARTLAND WI 53029 SS 9,SM 10,SN 530,W 7 AUDIO SERMONS, AWANA KJB, WCBC, HBBC, FLORIDA BAPTIST COLLEGE"
+    "description": "HARTLAND WI 53029 SS 9,SM 10,SN 530,W 7 AUDIO SERMONS, AWANA KJB, WCBC, HBBC, FLORIDA BAPTIST COLLEGE"
   },
   {
     "id": "5467",
     "name": "KEYSTONE BAPTIST CHURCH",
-    "address": "E10003A TROUT RD",
+    "address": "630 MONDAY  BIBLE ST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -236,7 +236,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD M KING. E10003A TROUT RD WISCONSIN DELLS WI 53965 SS 930,1045,SN 6,W 630 MONDAY  BIBLE STUDY FOR MEN AND WOMEN, AUDIO SERMONS KJB church."
+    "description": "E10003A TROUT RD WISCONSIN DELLS WI 53965 SS 930,1045,SN 6,W UDY FOR MEN AND WOMEN, AUDIO SERMONS KJB church"
   },
   {
     "id": "5468",
@@ -254,7 +254,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL J DUNCAN. 5584 US HWY 41 OCONTO WI 54153 SS 10,SM 11,SN 1230 KJB church."
+    "description": "5584 US HWY 41 OCONTO WI 54153 SS 10,SM 11,SN 1230 KJB church"
   },
   {
     "id": "5469",
@@ -273,7 +273,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GREG BLANCHARD. 3401 SPRINGBROOK RD PRAIRIE WI 53158 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA, AUDIO & TEXT SERMONS KJB, UNAFFLIATED"
+    "description": "PRAIRIE WI 53158 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA, AUDIO & TEXT SERMONS KJB, UNAFFLIATED"
   },
   {
     "id": "5470",
@@ -291,7 +291,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "709 S ONEIDA ST GREEN BAY WI 54304"
+    "description": "GREEN BAY WI 54304"
   },
   {
     "id": "5471",
@@ -310,7 +310,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAN LINDSEY. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "5472",
@@ -328,12 +328,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK WEISS. 309 WATER ST SAUK CITY WI 53583 SS 930,SM 1030,SN 7,W 730 TRADITIONAL HYMNS AND CHORUSES, AUDIO & TEXT SERMONS KJB church."
+    "description": "SAUK CITY WI 53583 SS 930,SM 1030,SN 7,W 730 TRADITIONAL HYMNS AND CHORUSES, AUDIO & TEXT SERMONS KJB church"
   },
   {
     "id": "5473",
     "name": "STOUGHTON BAPTIST CHURCH",
-    "address": "",
+    "address": "125 COUNTY HWY B ST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -346,7 +346,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL D HOOVER. 125 COUNTY HWY B STOUGHTON WI 53589 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "OUGHTON WI 53589 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5474",
@@ -364,12 +364,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID E REED. 3800 S HOWELL AVE MILWAUKEE WI 53207 SS 10,SM 11,SN 6,TH 7 KJB church."
+    "description": "MILWAUKEE WI 53207 SS 10,SM 11,SN 6,TH 7 KJB church"
   },
   {
     "id": "5475",
     "name": "LIGHTHOUSE BIBLE BAPTIST CHURCH",
-    "address": "800 VILAS ST",
+    "address": "1607 NORTH ST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -382,12 +382,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID KIMMEL. 800 VILAS ST ONALASKA WI 54650 CURRENTLY MEETING IN THE HARRY J OLSEN CENTER 1607 NORTH ST in LA CROSSE SS 1030,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "ONALASKA WI 54650 CURRENTLY MEETING IN THE HARRY J OLSEN CENTER in LA CROSSE SS 1030,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5476",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "1223 KRUMREY ST",
+    "address": "1223 KRUMREY ST PL",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -401,7 +401,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROGER HARRISON. 1223 KRUMREY ST PLYMOUTH WI 53073 SS 930,SM 1045,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "YMOUTH WI 53073 SS 930,SM 1045,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5477",
@@ -419,7 +419,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FREDDY MCMILLEN. 2021 S 14TH ST MANITOWOC WI 54220 SS 10,SM 11,SN 2,W 7 NURSERY,AUDIO SERMONS, WED NIGHT CHILDREN'S CLASS, CONSERVATIVE MUSIC, LUNCH AFTER THE MORNING SERVICE KJB, WISCONSIN FELL. OF IBC"
+    "description": "MANITOWOC WI 54220 SS 10,SM 11,SN 2,W 7 NURSERY,AUDIO SERMONS, WED NIGHT CHILDREN'S CLASS, CONSERVATIVE MUSIC, LUNCH AFTER THE MORNING SERVICE KJB, WISCONSIN FELL. OF IBC"
   },
   {
     "id": "5478",
@@ -437,7 +437,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURTIS E MCMILLER. 216 GRAND AVE MERRILL WI 54452 SS 930,SM 1030,SN 7,W 7 LAMPLIGHTERS CLUB on WED, CONSERVATIVE MUSIC KJB, HAC, ROLOFF, NORRIS, GRAY-TX"
+    "description": "MERRILL WI 54452 SS 930,SM 1030,SN 7,W 7 LAMPLIGHTERS CLUB on WED, CONSERVATIVE MUSIC KJB, HAC, ROLOFF, NORRIS, GRAY-TX"
   },
   {
     "id": "5479",
@@ -455,7 +455,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY BORNER. 6442 22ND AVE KENOSHA WI  53143 SS 930,SM 1030,SN 6,W 630 KJB, NTAIBC"
+    "description": "KENOSHA WI 53143 SS 930,SM 1030,SN 6,W 630 KJB, NTAIBC"
   },
   {
     "id": "5480",
@@ -473,7 +473,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEROY NELSON. 2700 S BROADWAY MENOMONIE WI 54751 SS 945,SM 11,SN 7,W 7 KINGS KIDS; IMMANUEL BAPTIST SCHOOL,K5-12 KJB church."
+    "description": "MENOMONIE WI 54751 SS 945,SM 11,SN 7,W 7 KINGS KIDS; IMMANUEL BAPTIST SCHOOL,K5-12 KJB church"
   },
   {
     "id": "5481",
@@ -491,7 +491,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES SCHEELE. PO BOX 54 KNAPP WI 54749 312 MAIN ST KJB church."
+    "description": "PO BOX 54 KNAPP WI 54749 KJB church"
   },
   {
     "id": "5482",
@@ -509,12 +509,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PATRICK GERWITZ. 19 N 3RD ST TOMAHAWK WI 54487 SS 930,SM 1045,SN 6,W 7 KJB church."
+    "description": "TOMAHAWK WI 54487 SS 930,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "5483",
     "name": "SOUTHSIDE BAPTIST CHURCH",
-    "address": "1501 S 73RD ST",
+    "address": "10550 S HOWELL RD",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -528,12 +528,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DAVID L BROWN. 1501 S 73RD ST WEST ALLIS WI 53214 SS 9,SM 10,SN 7,W 7 10550 S HOWELL RD OAK CREEK WI 53154 SS 930,SM 1045,SN 615,W 7 TEXT & AUDIO SERMONS, CHOIR, RADIO, 440th AIRLIFT WING MILWAUKEE KJB church."
+    "description": "1501 S 73RD ST WEST ALLIS WI 53214 SS 9,SM 10,SN 7,W 7 OAK CREEK WI 53154 SS 930,SM 1045,SN 615,W 7 TEXT & AUDIO SERMONS, CHOIR, RADIO, 440th AIRLIFT WING MILWAUKEE KJB church"
   },
   {
     "id": "5484",
     "name": "WYLDEWOOD BAPTIST CHURCH",
-    "address": "3030 WITZEL AVE",
+    "address": "6 WINGS OF EAGLES PLANE",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -546,7 +546,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD J TOBIN. 3030 WITZEL AVE OSHKOSH WI 54904-9371 SS 930,SM 1030,SN 6 WINGS OF EAGLES PLANE MISSIONARY TRANSPORTION,BUS,TEENS,AUDIO SERMONS; WYLDEWOOD CHRISTIAN SCHOOL K5-12; WYLDEWOOD BAPTIST BIBLE INSTITUTE KJB"
+    "description": "OSHKOSH WI 54904-9371 SS 930,SM 1030,SN MISSIONARY TRANSPORTION,BUS,TEENS,AUDIO SERMONS; WYLDEWOOD CHRISTIAN SCHOOL K5-12; WYLDEWOOD BAPTIST BIBLE INSTITUTE KJB"
   },
   {
     "id": "5485",
@@ -565,12 +565,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY GRAHAM. 1701 HOLLISTER AVE TOMAH WI 54660 SS 930,SM 1030,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "TOMAH WI 54660 SS 930,SM 1030,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5486",
     "name": "GRACE BAPTIST CHURCH",
-    "address": "",
+    "address": "720 LINDBERGH APPL",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -585,7 +585,7 @@ export const wisconsinChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by HARLEY KECK. PO BOX 2484 TEMPORARY MEETING AT 720 LINDBERGH APPLETON WI 54912 SS 930,SM 1030,TEENS 530,SN 630,W 7 SOULWINNING KJB, UNAFFILIATED"
+    "description": "PO BOX 2484 TEMPORARY MEETING AT ETON WI 54912 SS 930,SM 1030,TEENS 530,SN 630,W 7 SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "5487",
@@ -603,7 +603,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALVIS FRANK WILLIAMS. 2605 S LIBAL ST GREEN BAY WI 54301 SS 930,SM 1030,SN 7 KJB church."
+    "description": "GREEN BAY WI 54301 SS 930,SM 1030,SN 7 KJB church"
   },
   {
     "id": "5488",
@@ -621,7 +621,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH G MCGEE. 4835 TAYLOR AVE RACINE WI 53177 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "RACINE WI 53177 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "5489",
@@ -640,7 +640,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KELVIN SWANSON. PO BOX 303 309 WISCONSIN ST THERESA WI 53091 SS 1030,SM 1030,SN 6,W 6 KJB, BBF, MBBC 3045 PETUNIA LN BELOIT WI 53511 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB-TR, PRE-MIL, BBF, WFBC, HAC"
+    "description": "PO BOX 303 THERESA WI 53091 SS 1030,SM 1030,SN 6,W 6 KJB, BBF, MBBC 3045 PETUNIA LN BELOIT WI 53511 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB-TR, PRE-MIL, BBF, WFBC, HAC"
   },
   {
     "id": "5490",
@@ -659,12 +659,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MAT DVORCHEK. 8040 LOVERS LANE RD HWY 100 FRANKLIN WI 53132 Near MUSKEGO SS 945,SM 11,SN 630,W 7 NUR 10AM,TH SW 7,SAT SW 10 AWANA, RESCUE, YOUTH, TRADITIONAL OLD HYMNS KJB, IFCA, BBF 608 JEFFERSON ST OSHKOSH WI 549"
+    "description": "FRANKLIN WI 53132 Near MUSKEGO SS 945,SM 11,SN 630,W 7 NUR 10AM,TH SW 7,SAT SW 10 AWANA, RESCUE, YOUTH, TRADITIONAL OLD HYMNS KJB, IFCA, BBF 608 JEFFERSON ST OSHKOSH WI 549"
   },
   {
     "id": "5491",
     "name": "EAST DELAVAN BAPTIST CHURCH",
-    "address": "3205 THEATRE RD",
+    "address": "50 AT THEATRE RD",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -678,7 +678,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY WANDELL. 3205 THEATRE RD DELAVAN WI 53115 HWY 50 AT THEATRE RD SS 930, SM 1045,SN 630,W 7 SPANISH, YOUTH, DEAF, AUDIO TEXT SERMONS 1850 TOWNLINE AVE BELOIT WI 53511 SS 930,SM 1045,SN 630,W 630 KJB, WFBC, BBF,"
+    "description": "DELAVAN WI 53115 HWY SS 930, SM 1045,SN 630,W 7 SPANISH, YOUTH, DEAF, AUDIO TEXT SERMONS 1850 TOWNLINE AVE BELOIT WI 53511 SS 930,SM 1045,SN 630,W 630 KJB, WFBC, BBF"
   },
   {
     "id": "5492",
@@ -698,7 +698,7 @@ export const wisconsinChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by MATT ABRAHAMSON. 12628 W STARK ST BUTLER WI 53007 SS 10,SM 11,SN 630,W 7 SOULWINNING, BUS & VAN, RADIO, TEEN & CHILDREN, AUDIO SERMONS KJB, WI-FBC 300 W MAIN ST WAUNAKEE WI 53597 SS 9,SM 1015,SN 5,W 630 KJB, WI-BBF"
+    "description": "BUTLER WI 53007 SS 10,SM 11,SN 630,W 7 SOULWINNING, BUS & VAN, RADIO, TEEN & CHILDREN, AUDIO SERMONS KJB, WI-FBC 300 W MAIN ST WAUNAKEE WI 53597 SS 9,SM 1015,SN 5,W 630 KJB, WI-BBF"
   },
   {
     "id": "5493",
@@ -718,7 +718,7 @@ export const wisconsinChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by J MARK WAGENSCHUTZ. 331 MAIN ST BLACK RIVER FALLS WI 54615 SS 10,SM 11,SN 6,TH 6 SOULWINNING, FORT MCCOY KJB, BBF"
+    "description": "BLACK RIVER FALLS WI 54615 SS 10,SM 11,SN 6,TH 6 SOULWINNING, FORT MCCOY KJB, BBF"
   },
   {
     "id": "5494",
@@ -737,7 +737,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HERMAN HASS. 208 52ND AVE E SUPERIOR WI 54880 1831 E 4TH ST SUPERIOR WI 54880 SM 10,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "SUPERIOR WI 54880 1831 E 4TH ST SUPERIOR WI 54880 SM 10,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5495",
@@ -755,7 +755,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN R DINGMAN SR. 1704 N 17TH ST SHEBOYGAN WI 53081 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "SHEBOYGAN WI 53081 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "5496",
@@ -774,12 +774,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LARRY MOODIE. 3301 DOUGLASS AVE RACINE WI 53402 S 10,SM 11,SN 7,W 7 KJB, WI-BBF"
+    "description": "RACINE WI 53402 S 10,SM 11,SN 7,W 7 KJB, WI-BBF"
   },
   {
     "id": "5497",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "1130 FIELD RD",
+    "address": "4685 NELSON AVE",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -787,13 +787,13 @@ export const wisconsinChurches: Church[] = [
     "longitude": -90.056,
     "phone": "(715) 693-6134",
     "website": "http://www.fbcmosinee.org",
-    "pastor": "RAY ANDERSON",
+    "pastor": "W 4685 NELSON AVE IRMA WI 54442-0008 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RAY ANDERSON. 1130 FIELD RD MOSINEE WI 54455 SS 930,SM 1030,SN 630,W 7 BUS, SOULWINNING NEEDS PASTOR W 4685 NELSON AVE IRMA WI 54442-0008 KJB church."
+    "description": "MOSINEE WI 54455 SS 930,SM 1030,SN 630,W 7 BUS, SOULWINNING NEEDS"
   },
   {
     "id": "5498",
@@ -812,7 +812,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIMOTHY A HALLETT JR. N 8096 6TH AVE NEW LISBON WI 53950 SS 930,.SM 1030,SN 1245,W 7 KJB, WI-BBF"
+    "description": "NEW LISBON WI 53950 SS 930,.SM 1030,SN 1245,W 7 KJB, WI-BBF"
   },
   {
     "id": "5499",
@@ -830,7 +830,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE VAN GELDEREN JR. 3120 BIRCH ST EAU CLAIRE WI 54703 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, AUDIO & TEXT SERMONS KJB church."
+    "description": "EAU CLAIRE WI 54703 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, AUDIO & TEXT SERMONS KJB church"
   },
   {
     "id": "5500",
@@ -848,7 +848,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "N69 W12703 APPLETON AVE MENOMONEE FALLS WI 53051"
+    "description": "MENOMONEE FALLS WI 53051"
   },
   {
     "id": "5501",
@@ -866,7 +866,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW SPOONHOUR. SS 945,SM 1045,SN 6,W 7 BUS, RADIO, AUDIO SERMONS; FALLS BAPTIST ACADEMY K-12 TRADITIONAL; BAPTIST COLLEGE OF MINISTRY 853 31ST AVE MONROE WI 53566 SS 930,SM 1030,SN 6,W 7 KJB, WFBC, WGARBC 3646 COUNT"
+    "description": "SS 945,SM 1045,SN 6,W 7 BUS, RADIO, AUDIO SERMONS; FALLS BAPTIST ACADEMY K-12 TRADITIONAL; BAPTIST COLLEGE OF MINISTRY MONROE WI 53566 SS 930,SM 1030,SN 6,W 7 KJB, WFBC, WGARBC 3646 COUNT"
   },
   {
     "id": "5502",
@@ -886,7 +886,7 @@ export const wisconsinChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by STEPHEN L TERPSTRA. 191 E PINE ST LAKE MILLS WI 53551 SS 930,SM 1045,SN 6,W 7 KINGS KIDS, AUDIO SERMONS KJB, WWFBC 3615 S 28TH ST LACROSSE WI 54601 SS 930,SM 1045,SN 6,W 7 MUSIC, JAIL, TEEN, BUS, SOULWINNING, DISCIPLINE;"
+    "description": "LAKE MILLS WI 53551 SS 930,SM 1045,SN 6,W 7 KINGS KIDS, AUDIO SERMONS KJB, WWFBC 3615 S 28TH ST LACROSSE WI 54601 SS 930,SM 1045,SN 6,W 7 MUSIC, JAIL, TEEN, BUS, SOULWINNING, DISCIPLINE"
   },
   {
     "id": "5503",
@@ -904,12 +904,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RONALD GAY. 1704 N 17TH ST SHEBOYGAN WI 53801 SS 930,SM 1035,SN 6,W 7"
+    "description": "SHEBOYGAN WI 53801 SS 930,SM 1035,SN 6,W 7"
   },
   {
     "id": "5504",
     "name": "GRACE INDEPENDENT BAPTIST CHURCH",
-    "address": "31 W CHURCH ST",
+    "address": "36107 GENESEE LAKE RD",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -922,7 +922,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by JON ANDERSON. PO BOX 126 31 W CHURCH ST EVANSVILLE WI 53536 SS 10,SM 11,SN 730,W 730 36107 GENESEE LAKE RD OCONOMOWOC WI 53066 SS 930,SM 1030,SN 6,W 7 624 CLARENCE LN BRODHEAD WI 53520 Independent church."
+    "description": "PO BOX 126 EVANSVILLE WI 53536 SS 10,SM 11,SN 730,W 730 OCONOMOWOC WI 53066 SS 930,SM 1030,SN 6,W 7 624 CLARENCE LN BRODHEAD WI 53520 Independent church"
   },
   {
     "id": "5505",
@@ -940,12 +940,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MICHAEL T GJEFLE. 127 CHARLES ST SCHOFIELD WI 54476"
+    "description": "SCHOFIELD WI 54476"
   },
   {
     "id": "5506",
     "name": "FAITH INDEPENDENT BAPTIST CHURCH",
-    "address": "501 E SOUTH ST",
+    "address": "606 W MADISON ST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -958,7 +958,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by STEVE COLE. 501 E SOUTH ST ONTARIO WI 54651 PO BOX 176 606 W MADISON ST DURAND WI 54736 709 W PROSPECT ST SS 10,SM 11,W 6 AUDIO SERMONS UNAFFILIATED, BWM Independent church."
+    "description": "ONTARIO WI 54651 PO BOX 176 DURAND WI 54736 709 W PROSPECT ST SS 10,SM 11,W 6 AUDIO SERMONS UNAFFILIATED, BWM Independent church"
   },
   {
     "id": "5507",
@@ -976,7 +976,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JOHN J ROTH. 121 N LAKE AVE PHILLIPS WI 54555 SS 945 ,SM 11,SN 6-2ND 130,W 6 MISSIONARY AVIATION SCHOOL WI-FBC"
+    "description": "PHILLIPS WI 54555 SS 945 ,SM 11,SN 6-2ND 130,W 6 MISSIONARY AVIATION SCHOOL WI-FBC"
   },
   {
     "id": "5508",
@@ -994,7 +994,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD CHROMY. N2738 CR V LODI WI 53555 MBBC, WI-FBC"
+    "description": "N2738 CR V LODI WI 53555 MBBC, WI-FBC"
   },
   {
     "id": "5509",
@@ -1012,7 +1012,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TOM LOGGANS. 6111 TRENKOLM ST HANNIBAL WI 54439 SS 930,SM 1030,SN 730,W 730 MARANATHA-BBC"
+    "description": "HANNIBAL WI 54439 SS 930,SM 1030,SN 730,W 730 MARANATHA-BBC"
   },
   {
     "id": "5510",
@@ -1030,7 +1030,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "5651 S 51ST ST GREENDALE WI 53129 SS 930,SM 1045,SN 5,W 7 CHOIR,SOULWINNING,"
+    "description": "GREENDALE WI 53129 SS 930,SM 1045,SN 5,W 7 CHOIR,SOULWINNING"
   },
   {
     "id": "5511",
@@ -1049,12 +1049,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TERRY L KELB. 201 BROADWAY AVE BROKAW WI 54403 NOT KJV ONLY, WAIBC, BJU KJB church."
+    "description": "BROKAW WI 54403 NOT KJV ONLY, WAIBC, BJU KJB church"
   },
   {
     "id": "5512",
     "name": "BAY CITY BAPTIST CHURCH",
-    "address": "1840 BOND ST",
+    "address": "216 MILLTOWN AVE",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -1068,12 +1068,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MARLON MIELKE. 1840 BOND ST GREEN BAY WI 54303 SS 930,SM 1030,SN 6,W 7 AWANA, CHOIR, ORCHESTRA; BAY CITY BAPTIST SCHOOL K4-12 TRAD ABEKA NOT KJV ONLY, NTAIBC, MBBC PO BOX 129 216 MILLTOWN AVE N MILLTOWN  WI  54858 N KJB church."
+    "description": "GREEN BAY WI 54303 SS 930,SM 1030,SN 6,W 7 AWANA, CHOIR, ORCHESTRA; BAY CITY BAPTIST SCHOOL K4-12 TRAD ABEKA NOT KJV ONLY, NTAIBC, MBBC PO BOX 129 N MILLTOWN WI 54858 N KJB church"
   },
   {
     "id": "5513",
     "name": "BETHLEHEM BAPTIST CHURCH",
-    "address": "700 E DECKER ST",
+    "address": "54665 VIROQUA CHRIST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -1086,7 +1086,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD WAGNER. 700 E DECKER ST VIROQUA WI 54665 VIROQUA CHRISTIAN SCHOOL K5-6 NOT KJV ONLY 321 N ROCK AVE VIROQUA WI 54665 NOT KJV ONLY, GARBC 469 AIRPORT AVE WISCONSIN RAPIDS WI 54494 SS 930,SM 815 & 1045,SN 6,W 64 KJB church."
+    "description": "VIROQUA WI IAN SCHOOL K5-6 NOT KJV ONLY 321 N ROCK AVE VIROQUA WI 54665 NOT KJV ONLY, GARBC 469 AIRPORT AVE WISCONSIN RAPIDS WI 54494 SS 930,SM 815 & 1045,SN 6,W 64 KJB church"
   },
   {
     "id": "5514",
@@ -1104,7 +1104,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD D SPRINGER. N2232 DUBORG RD COLUMBUS WI 53925 SS 930,SM 1030,SN 7,W 7 NOT KJV ONLY, GARBC 407 PADDOCK AVE PARK FALLS WI 54552 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, WFBC, MBBC PO BOX 174 1475 RAILROAD AVE CHETEK WI 5 KJB church."
+    "description": "COLUMBUS WI 53925 SS 930,SM 1030,SN 7,W 7 NOT KJV ONLY, GARBC 407 PADDOCK AVE PARK FALLS WI 54552 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, WFBC, MBBC PO BOX 174 1475 RAILROAD AVE CHETEK WI 5 KJB church"
   },
   {
     "id": "5515",
@@ -1123,7 +1123,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRUCE SCHMIDT. 505 S WISCONSIN ST WHITEWATER, WI  53190 SS 930, SM 1045, SN 6, W 6 NOT KJV ONLY, WBBF, NBBC, LIBERTY-U KJB church."
+    "description": "WHITEWATER, WI 53190 SS 930, SM 1045, SN 6, W 6 NOT KJV ONLY, WBBF, NBBC, LIBERTY-U KJB church"
   },
   {
     "id": "5516",
@@ -1141,12 +1141,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA SHERMAN. 11591 17TH AVE CHIPPEWA FALLS WI 54729 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, WARBC, MBBC KJB church."
+    "description": "CHIPPEWA FALLS WI 54729 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY, WARBC, MBBC KJB church"
   },
   {
     "id": "5517",
     "name": "RIPON BAPTIST CHURCH",
-    "address": "204 E GRISWOLD ST",
+    "address": "601 W MONTGOMERY ST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -1159,7 +1159,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD SHERID. 204 E GRISWOLD ST RIPON WI 54971 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, WIS-FBC, NTAIBC 601 W MONTGOMERY ST SPARTA WI 54656 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, WARBC, GARBC KJB church."
+    "description": "RIPON WI 54971 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, WIS-FBC, NTAIBC SPARTA WI 54656 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, WARBC, GARBC KJB church"
   },
   {
     "id": "5518",
@@ -1177,12 +1177,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLYDE M EWERS. 106 S HAZELDELL CRANDON WI 54520 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY, WI-FBC KJB church."
+    "description": "106 S HAZELDELL CRANDON WI 54520 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY, WI-FBC KJB church"
   },
   {
     "id": "5519",
     "name": "AMBASSADOR BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 514",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -1195,7 +1195,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KURT SCHRODER. PO BOX 514 HWY 16 E SPARTA WI 54656 FORT MCCOY NOT KJV ONLY, WARBC, GARBC KJB church."
+    "description": "HWY 16 E SPARTA WI 54656 FORT MCCOY NOT KJV ONLY, WARBC, GARBC KJB church"
   },
   {
     "id": "5520",
@@ -1214,7 +1214,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE MAYHAK. PO BOX 350 WOODRUFF WI 54568 THIRD AND CEDAR SS 945,SM 11,SN 7,W 7 NOT KJV ONLY, MBBC, WFBC PO BOX 8515 MADISON, WI  53708 4325 HAWK TRAIL (SUNDAYS) in DEFOREST WARNER PARK COMMUNITY RECREATION CENTER KJB church."
+    "description": "PO BOX 350 WOODRUFF WI 54568 THIRD AND CEDAR SS 945,SM 11,SN 7,W 7 NOT KJV ONLY, MBBC, WFBC PO BOX 8515 MADISON, WI 53708 4325 HAWK TRAIL (SUNDAYS) in DEFOREST WARNER PARK COMMUNITY RECREATION CENTER KJB church"
   },
   {
     "id": "5521",
@@ -1233,7 +1233,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAN LEEDS. BOX 349 2055 ALLISON PARK DR RICHLAND PARK WI 53581 NKJV, WIS FELL OF BC, KJB church."
+    "description": "BOX 349 RICHLAND PARK WI 53581 NKJV, WIS FELL OF BC, KJB church"
   },
   {
     "id": "5522",
@@ -1251,7 +1251,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by BRIAN KENNER. PO BOX 1453 FOND DU LAC WI 54936 400 E JOHNSON ST SS 848,SM 1015,SN 630,W 7 AWANA; TRINITY BAPTIST SCHOOL K5-12 ESV, FBFA Non-KJV church."
+    "description": "PO BOX 1453 FOND DU LAC WI 54936 SS 848,SM 1015,SN 630,W 7 AWANA; TRINITY BAPTIST SCHOOL K5-12 ESV, FBFA Non-KJV church"
   },
   {
     "id": "5523",
@@ -1269,12 +1269,12 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT JONES. 3765 N 35TH ST MILWAUKEE WI 53209 NOT KJV ONLY, NTAIBC KJB church."
+    "description": "MILWAUKEE WI 53209 NOT KJV ONLY, NTAIBC KJB church"
   },
   {
     "id": "5524",
     "name": "SOUTHPORT BAPTIST CHURCH",
-    "address": "13266 WILMOT RD",
+    "address": "53142 near BRIST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "13266",
@@ -1287,7 +1287,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "13266 WILMOT RD KENOSHA WI 53142 near BRISTOL"
+    "description": "KENOSHA WI OL"
   },
   {
     "id": "5525",
@@ -1305,7 +1305,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN D OWENS. SS 1015,SM 9,SN 530,W 630 NOT KJV ONLY KJB church."
+    "description": "SS 1015,SM 9,SN 530,W 630 NOT KJV ONLY KJB church"
   },
   {
     "id": "5526",
@@ -1323,7 +1323,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL MATTOX. 821 13TH AVE MONROE WI 53566 NOT KJV ONLY, GARBC, CCM KJB church."
+    "description": "MONROE WI 53566 NOT KJV ONLY, GARBC, CCM KJB church"
   },
   {
     "id": "5527",
@@ -1341,7 +1341,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT M LOGAN. 2817 PRAIRIE RD MADISON WI 53719 SS 930,SM 11,SN 6 NOT KJV ONLY, WOL, WIS-FBC KJB church."
+    "description": "MADISON WI 53719 SS 930,SM 11,SN 6 NOT KJV ONLY, WOL, WIS-FBC KJB church"
   },
   {
     "id": "5528",
@@ -1360,7 +1360,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BRAD ANDERSON. 3227 MAGNOLIA RD JANESVILLE WI 53545 SS 930,SM 1030,SN 630,W 7 KJV, NKJV, WFBC 311 2ND AVE ANTIGO WI 54409 SS 930, SM 1030, SN 630, W 630 KIDS4TRUTH NOT KJV ONLY PO BOX 612 MERTON WI 53056-0612 N74-W2 KJB church."
+    "description": "JANESVILLE WI 53545 SS 930,SM 1030,SN 630,W 7 KJV, NKJV, WFBC 311 2ND AVE ANTIGO WI 54409 SS 930, SM 1030, SN 630, W 630 KIDS4TRUTH NOT KJV ONLY PO BOX 612 MERTON WI 53056-0612 N74-W2 KJB church"
   },
   {
     "id": "5529",
@@ -1379,12 +1379,12 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATTHEW DECLEENE. 4609 38TH AVE KENOSHA WI 53144 SS 930,SM1030,SN 630,W 630, GREAT LAKES NAVAL BASE KJB church."
+    "description": "KENOSHA WI 53144 SS 930,SM1030,SN 630,W 630, GREAT LAKES NAVAL BASE KJB church"
   },
   {
     "id": "5530",
     "name": "TWIN CITY BAPTIST CHURCH",
-    "address": "911 ELIZABETH ST",
+    "address": "1500 HOOVER AVE PL",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -1392,7 +1392,7 @@ export const wisconsinChurches: Church[] = [
     "longitude": -89.6568,
     "phone": "(715) 735-9181",
     "website": "http://www.twincitybaptist.net",
-    "pastor": "CARLOS GALVAN",
+    "pastor": "NKJV, GARBC 1500 HOOVER AVE PLOVER WI 54481 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -1400,7 +1400,7 @@ export const wisconsinChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by CARLOS GALVAN. PO BOX 941 911 ELIZABETH ST MARINETTE WI 54143 SS 930,SM 1030, SN 6, W 7 TRUTH TRACKERS, PRISON, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS NEEDS PASTOR NKJV, GARBC 1500 HOOVER AVE PLOVER WI 54481  KJB church."
+    "description": "PO BOX 941 MARINETTE WI 54143 SS 930,SM 1030, SN 6, W 7 TRUTH TRACKERS, PRISON, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS NEEDS"
   },
   {
     "id": "5531",
@@ -1419,7 +1419,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by TERRY PAULEY. PO BOX 185 315 SUMMER ST GENOA CITY WI 53128 SS 9,SM 1015,SN 6,TH 630 -SCHOOL YEAR MUSIC, DRAMA, PIONEER CLUBS NOT KJV ONLY 715 W LADD LN EDGERTON WI 53534 NKJV KJV, BJU, NBBC, MBBC, WFBC KJB church."
+    "description": "PO BOX 185 GENOA CITY WI 53128 SS 9,SM 1015,SN 6,TH 630 -SCHOOL YEAR MUSIC, DRAMA, PIONEER CLUBS NOT KJV ONLY 715 W LADD LN EDGERTON WI 53534 NKJV KJV, BJU, NBBC, MBBC, WFBC KJB church"
   },
   {
     "id": "5532",
@@ -1438,7 +1438,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ADAM W JONES. 4470 PILGRIM RD BROOKFIELD WI 53005 SS/SM 9 & 1015, SN 6,W 7 AWANA, JR CHURCH, TEENS, COLLEGE, M & W BS, AUDIO & VIDEO SERMONS, RADIO SUN 930 AM-MWF 615 AM on 107.7 FM ESV, S.GRACE-TULIP PO BOX 421 61 KJB church."
+    "description": "BROOKFIELD WI 53005 SS/SM 9 & 1015, SN 6,W 7 AWANA, JR CHURCH, TEENS, COLLEGE, M & W BS, AUDIO & VIDEO SERMONS, RADIO SUN 930 AM-MWF 615 AM on 107.7 FM ESV, S.GRACE-TULIP PO BOX 421 61 KJB church"
   },
   {
     "id": "5533",
@@ -1457,7 +1457,7 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MATTHEW FILENIUS. W7656 MCHUGH RD HOLMAN WI 54636 SS 930,SM 1045,SN 6,W 7 PATCH PIRATE KJB, UNAFFILIATED, POST-TRIB, ANTI-ISRAEL"
+    "description": "HOLMAN WI 54636 SS 930,SM 1045,SN 6,W 7 PATCH PIRATE KJB, UNAFFILIATED, POST-TRIB, ANTI-ISRAEL"
   },
   {
     "id": "5534",
@@ -1475,7 +1475,7 @@ export const wisconsinChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "43496 COUNTY ROAD X SOLDIERS GROVE WI 54655 ABA church."
+    "description": "SOLDIERS GROVE WI 54655 ABA church"
   },
   {
     "id": "5535",
@@ -1495,12 +1495,12 @@ export const wisconsinChurches: Church[] = [
       "Non-KJV",
       "ABA"
     ],
-    "description": "Led by JOHN TERPSTRA. NKJV, KJV, MBBC MARANATHA BIBLE-BC 36 CITYVIEW DR BARRON WI 54812 SS 945,SM 1045,SN 7,W 7 AUDIO SERMONS NOT KJV ONLY,GARBC KJB church."
+    "description": "NKJV, KJV, MBBC MARANATHA BIBLE-BC BARRON WI 54812 SS 945,SM 1045,SN 7,W 7 AUDIO SERMONS NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "5536",
     "name": "MEMORIAL BAPTIST CHURCH",
-    "address": "201 S MAIN ST",
+    "address": "224 BUTTERNUT ST WEST",
     "city": "Madison",
     "state": "WI",
     "zipCode": "",
@@ -1514,6 +1514,6 @@ export const wisconsinChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BRUCE DUNFORD. PO BOX 930400 201 S MAIN ST VERONA WI 53593 SS 9,SM 1030,SN 630,W 630 AUDIO SERMONS ESV, MBBC, NBBC 224 BUTTERNUT ST WEST BEND WI 53095 SS 930,SM 8 & 1030,SN 6,W 7 JAIL, AWANA; FIRST BAPTIST SCHOOL AA KJB church."
+    "description": "PO BOX 930400 VERONA WI 53593 SS 9,SM 1030,SN 630,W 630 AUDIO SERMONS ESV, MBBC, NBBC BEND WI 53095 SS 930,SM 8 & 1030,SN 6,W 7 JAIL, AWANA; FIRST BAPTIST SCHOOL AA KJB church"
   }
 ];

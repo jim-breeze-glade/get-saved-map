@@ -17,7 +17,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDDIE KILLIAN. PO BOX 1214 307 N 3RD ST CORDELE GA 31015 KJB church."
+    "description": "PO BOX 1214 CORDELE GA 31015 KJB church"
   },
   {
     "id": "905",
@@ -35,12 +35,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN WHEELER. 1020 MT VERNON RD RINGGOLD GA 30736 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "RINGGOLD GA 30736 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "906",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "65 LIBERTY DR",
+    "address": "7 OFF JOHNSON RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -53,12 +53,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JUSTIN GAZAWAY. 65 LIBERTY DR CHICKAMAUGA GA 30707 SS 10, SM 11, SN 6, W 7 OFF JOHNSON RD KJB church."
+    "description": "CHICKAMAUGA GA 30707 SS 10, SM 11, SN 6, W KJB church"
   },
   {
     "id": "907",
     "name": "CATOOSA BAPTIST TABERNACLE",
-    "address": "",
+    "address": "PO BOX 459",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -72,12 +72,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JEREMY ALLEN. PO BOX 459 4994 HWY 41 RINGGOLD GA 30736 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB church."
+    "description": "4994 HWY 41 RINGGOLD GA 30736 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "908",
     "name": "CALVARYS GRACE BAPTIST CHURCH",
-    "address": "515 COLLEGE ST",
+    "address": "515 COLLEGE ST EAST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -90,7 +90,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD BELL. 515 COLLEGE ST EASTMAN GA 31023 SS 10,SM 11, SN 6 KJB church."
+    "description": "MAN GA 31023 SS 10,SM 11, SN 6 KJB church"
   },
   {
     "id": "909",
@@ -109,12 +109,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RONNIE WILCOX. PO BOX ELLENWOOD GA 30294 3351 REX RD REX GA 30273 SS 10,SM 11,SN 3,W 4 KJB church."
+    "description": "PO BOX ELLENWOOD GA 30294 REX GA 30273 SS 10,SM 11,SN 3,W 4 KJB church"
   },
   {
     "id": "910",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "60 COLLINS ST",
+    "address": "60 COLLINS ST HAZLEHURST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -127,7 +127,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD CRANK. 60 COLLINS ST HAZLEHURST GA 31539 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GA 31539 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "911",
@@ -146,7 +146,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOMMY COKER. 970 CARL VINSON PKWY WARNER ROBINS GA 31093 SS 10, SM 11, SN 530, W 6 NEAR ROBINS AFB MP3 AUDIO SERMONS ONLINE KJB, UNAFFILIATED"
+    "description": "970 CARL VINSON PKWY WARNER ROBINS GA 31093 SS 10, SM 11, SN 530, W 6 NEAR ROBINS AFB MP3 AUDIO SERMONS ONLINE KJB, UNAFFILIATED"
   },
   {
     "id": "912",
@@ -166,7 +166,7 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TIM JONES. 113 KUHLMAN ST ADAIRSVILLE GA 30103 PHYSICAL ADD: 101 N MAIN ST SOULWINNING, MISSIONS, BUS, DISCIPLESHIP KJB, UNAFFILIATED"
+    "description": "ADAIRSVILLE GA 30103 PHYSICAL ADD: 101 N MAIN ST SOULWINNING, MISSIONS, BUS, DISCIPLESHIP KJB, UNAFFILIATED"
   },
   {
     "id": "913",
@@ -185,7 +185,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by RANDY CAPE. 1660 BEAVERDALE RD NE DALTON GA 30741 KJB church."
+    "description": "DALTON GA 30741 KJB church"
   },
   {
     "id": "914",
@@ -204,12 +204,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAMES HORTON. 3966 BROWNSVILLE RD POWDER SPRINGS GA 30127 SS 930, SM 1030, SN 5, W 7 KIDS 4 CHRIST CLUBS, BUS TRANSPORTATION OLD FASHIONED SOULWINNING KJB church."
+    "description": "POWDER SPRINGS GA 30127 SS 930, SM 1030, SN 5, W 7 KIDS 4 CHRIST CLUBS, BUS TRANSPORTATION OLD FASHIONED SOULWINNING KJB church"
   },
   {
     "id": "915",
     "name": "CHRISTCHURCH BAPTIST",
-    "address": "6945 SETTER DR",
+    "address": "5351 SIDNEY SIMONS BLVD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -222,7 +222,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH SEREMAK. 6945 SETTER DR COLUMBUS GA 31909 PHYSICAL ADD DOUBLETREE HOTEL COLUMBUS 5351 SIDNEY SIMONS BLVD COLUMBUS GA 31904 SM 11,SN 630 AUDIO SERMONS ONLINE KJB church."
+    "description": "COLUMBUS GA 31909 PHYSICAL ADD DOUBLETREE HOTEL COLUMBUS COLUMBUS GA 31904 SM 11,SN 630 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "916",
@@ -240,7 +240,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "601 OLD JESUP RD BRUNSWICK GA 31520 SS 10, SM 11, SN 6, TH 7 KJB church."
+    "description": "BRUNSWICK GA 31520 SS 10, SM 11, SN 6, TH 7 KJB church"
   },
   {
     "id": "917",
@@ -258,12 +258,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JOSH SHANNON. 564 HAGIN STILL RD DOERUN GA 31744 SS 10,SM 11,W 7"
+    "description": "DOERUN GA 31744 SS 10,SM 11,W 7"
   },
   {
     "id": "918",
     "name": "TWIN OAKS BAPTIST TABERNACLE",
-    "address": "55 OLD YATESVILLE RD",
+    "address": "55 OLD YATESVILLE RD THOMAST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -279,7 +279,7 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by SETH HON. 55 OLD YATESVILLE RD THOMASTON GA 30286 SS 10,SM 11,SN 6,W 7 SOULWINNING, FAITH PROMISE,BUS,TRADITIONAL KJB,UNAFFILIATED"
+    "description": "ON GA 30286 SS 10,SM 11,SN 6,W 7 SOULWINNING, FAITH PROMISE,BUS,TRADITIONAL KJB,UNAFFILIATED"
   },
   {
     "id": "919",
@@ -297,7 +297,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by G MICHAEL COPE. 2915 14TH AVE COLUMBUS GA 31904 SS 945,SM 11,SN 7,W 7 KJB church."
+    "description": "COLUMBUS GA 31904 SS 945,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "920",
@@ -310,12 +310,12 @@ export const georgiaChurches: Church[] = [
     "longitude": -82.7118,
     "phone": "(706) 863-5131",
     "website": "http://jonescreekbaptist.org",
-    "pastor": "",
+    "pastor": "EVANS GA 30809 SS 10,SM 11,SN 6,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 2386 4289 SOUTHERN PINES DR EVANS GA 30809 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 2386 EVANS GA 30809 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "921",
@@ -333,12 +333,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON HARRIS. 5033 HOG MOUNTAIN RD FLOWERY BRANCH GA 30542 SS 10,SM 11,SN 7 KJB church."
+    "description": "FLOWERY BRANCH GA 30542 SS 10,SM 11,SN 7 KJB church"
   },
   {
     "id": "922",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "507 BORRELL BLVD",
+    "address": "507 BORRELL BLVD ST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -351,7 +351,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN HANEY. 507 BORRELL BLVD ST MARYS GA 31558 SS 10,SM 11,SN 6 KJB church."
+    "description": "MARYS GA 31558 SS 10,SM 11,SN 6 KJB church"
   },
   {
     "id": "923",
@@ -369,7 +369,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY L MASON. 2613 LAKEVIEW DR ROSSVILLE GA 30741 SS 930,SM 1030,SN 6,W 7 KJB, AMBASSADOR-BC"
+    "description": "ROSSVILLE GA 30741 SS 930,SM 1030,SN 6,W 7 KJB, AMBASSADOR-BC"
   },
   {
     "id": "924",
@@ -387,7 +387,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY CASON. PO BOX 3004 470 TRACKROCK GAP RD BLAIRSVILLE GA 30512 SS 10,SM 11,SN 6,W 7 PATCH PIRATE KJB church."
+    "description": "PO BOX 3004 BLAIRSVILLE GA 30512 SS 10,SM 11,SN 6,W 7 PATCH PIRATE KJB church"
   },
   {
     "id": "925",
@@ -405,7 +405,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CASON EX-NAVY. 1710 BELCHER LN BAINBRIDGE GA 39817 SS 10 SM 11 SN 6 W 7 KJB church."
+    "description": "BAINBRIDGE GA 39817 SS 10 SM 11 SN 6 W 7 KJB church"
   },
   {
     "id": "926",
@@ -423,7 +423,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE QUALLS. 1489 S PHILEMA RD LEESBURG GA 31763 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LEESBURG GA 31763 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "927",
@@ -441,7 +441,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY MUNDY. 29 E MAIN ST LAKELAND GA 31635 SS 10,SM 1105,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "LAKELAND GA 31635 SS 10,SM 1105,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "928",
@@ -459,12 +459,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE BROWN. 4364 UPPER RIVER RD GRAY GA 31032 SS 945,SM 1045,SN 6,W 7 PROPHETS CHAMBER, AUDIO & VIDEO SERMONS ONLINE KJB church."
+    "description": "GRAY GA 31032 SS 945,SM 1045,SN 6,W 7 PROPHETS CHAMBER, AUDIO & VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "929",
     "name": "GETHSEMANE BAPTIST CHURCH",
-    "address": "68 VANDIVER RD",
+    "address": "123 FAIRGROUND RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -477,7 +477,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STACEY PENLAND. 68 VANDIVER RD ROSSVILLE GA 30741 PROPHETS CHAMBER PO BOX 1766 123 FAIRGROUND RD TOCCOA GA 30577 SS 10, SM 11, SN 630, W 7 BUS, YOUTH, CHILDRENS 1843 PEEKSVILLE RD LOCUST GROVE GA 30248 SS 10,SM 11,SN KJB church."
+    "description": "ROSSVILLE GA 30741 PROPHETS CHAMBER PO BOX 1766 TOCCOA GA 30577 SS 10, SM 11, SN 630, W 7 BUS, YOUTH, CHILDRENS 1843 PEEKSVILLE RD LOCUST GROVE GA 30248 SS 10,SM 11,SN KJB church"
   },
   {
     "id": "930",
@@ -513,12 +513,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF SPENCER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "932",
     "name": "NORTHSIDE BAPTIST CHURCH",
-    "address": "458 W E SMITH RD",
+    "address": "20 MILES FROM FORT ST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -532,12 +532,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by SHANE EVANS. 458 W E SMITH RD PEMBROKE GA 31321 SS 10, SM 11, SN 6, W 7 20 MILES FROM FORT STEWART, 30 MILES FROM HUNTER ARMY AIRFIELD KJB church."
+    "description": "PEMBROKE GA 31321 SS 10, SM 11, SN 6, W 7 EWART, 30 MILES FROM HUNTER ARMY AIRFIELD KJB church"
   },
   {
     "id": "933",
     "name": "NEW BEGINNING BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1004",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -550,7 +550,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1004 OAKWOOD GA 30566 PHYSICAL ADD: 4403 WINDER HWY FLOWERY BRANCH GA 30542"
+    "description": "OAKWOOD GA 30566 PHYSICAL ADD: 4403 WINDER HWY FLOWERY BRANCH GA 30542"
   },
   {
     "id": "934",
@@ -569,12 +569,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM CAMPBELL. KJB UNAFFILIATED"
+    "description": "KJB UNAFFILIATED"
   },
   {
     "id": "935",
     "name": "OLD SUWANEE BAPTIST CHURCH",
-    "address": "4118 OLD SUWANEE RD",
+    "address": "4118 OLD SUWANEE RD BUFORD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -587,7 +587,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK KELLER. 4118 OLD SUWANEE RD BUFORD GA 30518 SS 10 SM 11 SN 6 W 7 OLD SUWANEE CHRISTIAN SCHOOL; K4-12TH GRADE TRAD ABEKA/BOBJONES GACS/AACS KJB church."
+    "description": "GA 30518 SS 10 SM 11 SN 6 W 7 OLD SUWANEE CHRISTIAN SCHOOL; K4-12TH GRADE TRAD ABEKA/BOBJONES GACS/AACS KJB church"
   },
   {
     "id": "936",
@@ -605,7 +605,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMY PEMBERTON. 63 PINE VALLEY RD HIRAM GA 30141 SS 945,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church."
+    "description": "HIRAM GA 30141 SS 945,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "937",
@@ -623,12 +623,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL GODBEE. 626 45TH ST COLUMBUS GA 31904 SS 1030, SM 1130, SN 6, W 7 FORT BENNING 8 MILES KJB, PBI, RUCKMAN"
+    "description": "COLUMBUS GA 31904 SS 1030, SM 1130, SN 6, W 7 FORT BENNING 8 MILES KJB, PBI, RUCKMAN"
   },
   {
     "id": "938",
     "name": "EMMANUEL BAPTIST CHURCH",
-    "address": "5630 LIBERTY CHURCH RD",
+    "address": "5630 LIBERTY CHURCH RD WINST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -641,12 +641,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK BOWEN. PO BOX 1005 989 HWY 292 LYONS GA 30436 SS 10, SM 11, SN 6, W 7 5630 LIBERTY CHURCH RD WINSTON GA 30187 SS 10,SM 11,W 7 KJB church."
+    "description": "PO BOX 1005 989 HWY 292 LYONS GA 30436 SS 10, SM 11, SN 6, W 7 ON GA 30187 SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "939",
     "name": "LEATHERWOOD BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 785",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -659,7 +659,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK EAVES. PO BOX 785 2152 HWY 105 BALDWIN GA 30511 SS 10,SM 11,SN 6 AUDIO & VIDEO SERMONS ONLINE,BUS, RADIO KJB church."
+    "description": "2152 HWY 105 BALDWIN GA 30511 SS 10,SM 11,SN 6 AUDIO & VIDEO SERMONS ONLINE,BUS, RADIO KJB church"
   },
   {
     "id": "940",
@@ -672,12 +672,12 @@ export const georgiaChurches: Church[] = [
     "longitude": -83.1234,
     "phone": "(770) 942-6022",
     "website": "https://clearviewbaptistchurchga.com",
-    "pastor": "",
+    "pastor": "DOUGLASVILLE GA 30134 SS 10,SM 11,SN 6,W 7 AWANA, BUS, TEEN KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "4456 DODSON DR DOUGLASVILLE GA 30134 SS 10,SM 11,SN 6,W 7 AWANA, BUS, TEEN KJB church."
+    "description": "DOUGLASVILLE GA 30134 SS 10,SM 11,SN 6,W 7 AWANA, BUS, TEEN KJB church"
   },
   {
     "id": "941",
@@ -695,7 +695,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED HARRELL. 77 HACKETT RD RINGGOLD GA 30736-8694 KJB, NF-SG-PF"
+    "description": "RINGGOLD GA 30736-8694 KJB, NF-SG-PF"
   },
   {
     "id": "942",
@@ -714,12 +714,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUG GRANT. 1160 SALEM CHURCH RD CLIMAX GA 39834 SS 10,SM 11,W 730 KJB church."
+    "description": "CLIMAX GA 39834 SS 10,SM 11,W 730 KJB church"
   },
   {
     "id": "943",
     "name": "PLEASANT GROVE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 916",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -732,12 +732,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLEN SCOGGIN. PO BOX 916 2227 HWY 301 TRENTON GA 30752 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "2227 HWY 301 TRENTON GA 30752 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "944",
     "name": "HICKORY HEAD BAPTIST CHURCH",
-    "address": "46 HICKORY HEAD RD",
+    "address": "120 NORTHSIDE CHURCH RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -750,7 +750,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAD SMITH. 46 HICKORY HEAD RD QUITMAN GA 31643 120 NORTHSIDE CHURCH RD DALLAS GA SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "QUITMAN GA 31643 DALLAS GA SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "945",
@@ -769,12 +769,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JIMMY THOMASSON. 1061 WATER TANK RD NW CALHOUN GA 30701-8117 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB church."
+    "description": "CALHOUN GA 30701-8117 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB church"
   },
   {
     "id": "946",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "308 BOYNTON DR",
+    "address": "730 PROVIDENCE CHRIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -787,7 +787,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON IVEY. P O BOX 821 308 BOYNTON DR RINGGOLD GA 20736 SS 10, SM 1045, SN 6, W 730 PROVIDENCE CHRISTIAN ACADEMY KJB church."
+    "description": "P O BOX 821 RINGGOLD GA 20736 SS 10, SM 1045, SN 6, W IAN ACADEMY KJB church"
   },
   {
     "id": "947",
@@ -805,7 +805,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON FULLER. 720 JACK NEELY RD NEWTON GA 30016 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "NEWTON GA 30016 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "948",
@@ -823,7 +823,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC JUSTICE. 840 WAYSIDE LANE DALLAS GA 30132 SS, SM, SN, W 7 KJB church."
+    "description": "DALLAS GA 30132 SS, SM, SN, W 7 KJB church"
   },
   {
     "id": "949",
@@ -841,7 +841,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDDIE KILLIAN. PO BOX 933 2373 HOG JOWL RD CHICKAMAUGA GA 30707 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 933 CHICKAMAUGA GA 30707 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "950",
@@ -859,7 +859,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID C MOODY. 18 N STEELE ST LAFAYETTE GA 30728 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS ONLINE KJB church."
+    "description": "LAFAYETTE GA 30728 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "951",
@@ -878,12 +878,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MARK SUMMERS. 10119 ACCESS RD COVINGTON GA 30014 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING, JAIL/PRISON, MISSIONS, SENIORS, TEENS, CHILDREN, TAPE/CD BIBLE INSTITUTE PO BOX 284 959 CHURCH ST BLACKSHEAR GA 31516 KJB,I"
+    "description": "COVINGTON GA 30014 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING, JAIL/PRISON, MISSIONS, SENIORS, TEENS, CHILDREN, TAPE/CD BIBLE INSTITUTE PO BOX 284 959 CHURCH ST BLACKSHEAR GA 31516 KJB,I"
   },
   {
     "id": "952",
     "name": "TRINITY BAPTIST CHURCH",
-    "address": "4594 COLUMBIA RD",
+    "address": "4594 COLUMBIA RD AUGUST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -896,7 +896,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4594 COLUMBIA RD AUGUSTA GA 30907 MARTINEZ AREA SS 930,SM 1045,SN 6,W 630 AWANA,YOUTH,SENIORS"
+    "description": "A GA 30907 MARTINEZ AREA SS 930,SM 1045,SN 6,W 630 AWANA,YOUTH,SENIORS"
   },
   {
     "id": "953",
@@ -914,7 +914,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON W LONG.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "954",
@@ -932,7 +932,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID BENTLEY. 420 STRICKLAND AVE BLACKSHEAR GA 31516 PROPHETS CHAMBER KJB church."
+    "description": "BLACKSHEAR GA 31516 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "955",
@@ -950,7 +950,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY HIPPS. 1665 IDLEWOOD RD TUCKER GA 30084 near LILBURN & ATLANTA SS 10,SM 11,SN 6,W 7 SERMONS ONLINE KJB church."
+    "description": "TUCKER GA 30084 near LILBURN & ATLANTA SS 10,SM 11,SN 6,W 7 SERMONS ONLINE KJB church"
   },
   {
     "id": "956",
@@ -968,7 +968,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE BOWKER. 155 SYCAMORE ST JESUP GA 31545-1603 SS 10,SM 11,SN 630,W 7 KJB,AMBASSADOR-BC"
+    "description": "JESUP GA 31545-1603 SS 10,SM 11,SN 630,W 7 KJB,AMBASSADOR-BC"
   },
   {
     "id": "957",
@@ -986,7 +986,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG BEARDEN. 5151 COLUMBUS RD MACON GA 31206 SS 945,SM11,SN 600,W 7 PROTEENS, MASTERS CLUB, SPANISH ROBINS AFB KJB church."
+    "description": "MACON GA 31206 SS 945,SM11,SN 600,W 7 PROTEENS, MASTERS CLUB, SPANISH ROBINS AFB KJB church"
   },
   {
     "id": "958",
@@ -1004,7 +1004,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MAX CLIFTON. 202 CENTRAL HIGH RD CARROLLTON GA 30116 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church."
+    "description": "CARROLLTON GA 30116 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "959",
@@ -1022,7 +1022,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID L SAMPSON. 2700 ZINGARA RD CONYERS GA 30207 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB church."
+    "description": "CONYERS GA 30207 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB church"
   },
   {
     "id": "960",
@@ -1040,7 +1040,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM LILLEY. 65 STUART RD FORT OGLETHORPE GA 30741 SS 945,SM 1045,SN 6,W 7 KJB,BIMI,NIBF"
+    "description": "FORT OGLETHORPE GA 30741 SS 945,SM 1045,SN 6,W 7 KJB,BIMI,NIBF"
   },
   {
     "id": "961",
@@ -1058,7 +1058,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM BELL. 11041 HWY 11 S TRENTON GA 30752 SS 10,SM 11,SN 6,W 7 SM 10,SN 6,W 7 KJB church."
+    "description": "11041 HWY 11 S TRENTON GA 30752 SS 10,SM 11,SN 6,W 7 SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "962",
@@ -1076,7 +1076,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "5304 BETHEL RD CLERMONT GA 30527 SS 10,SM 11,SN 6,W 7 Non-KJV church."
+    "description": "CLERMONT GA 30527 SS 10,SM 11,SN 6,W 7 Non-KJV church"
   },
   {
     "id": "963",
@@ -1095,7 +1095,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by STEVE POWERS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "964",
@@ -1113,12 +1113,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH ALLISON. 4501 MACON HWY BISHOP GA 30621 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "4501 MACON HWY BISHOP GA 30621 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "965",
     "name": "FAIRFIELD BAPTIST CHURCH",
-    "address": "",
+    "address": "105 DEMOREST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1133,12 +1133,12 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by STACY MYERS. 2236 HWY 105 DEMOREST GA 30535 NEAR CLARKESVILLE & CORNELIA SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE KJB,UNAFFILIATED"
+    "description": "2236 HWY GA 30535 NEAR CLARKESVILLE & CORNELIA SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE KJB,UNAFFILIATED"
   },
   {
     "id": "966",
     "name": "ST JOHN BAPTIST CHURCH",
-    "address": "4948 WILKINS RD",
+    "address": "144 JENNINGS MILL RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1153,7 +1153,7 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JASON SMITH. 4948 WILKINS RD DECATUR GA 30035 SS 10,SM 11,SN 5,W 730 144 JENNINGS MILL RD ATHENS GA 30606 SS 945,SM 11,SN 6,W 7 BUS, YOUTH, COLLEGE & CAREER KJB,UNAFFILIATED 863 LITTLE NEW YORK RD WHITESBURG GA 30"
+    "description": "DECATUR GA 30035 SS 10,SM 11,SN 5,W 730 ATHENS GA 30606 SS 945,SM 11,SN 6,W 7 BUS, YOUTH, COLLEGE & CAREER KJB,UNAFFILIATED 863 LITTLE NEW YORK RD WHITESBURG GA 30"
   },
   {
     "id": "967",
@@ -1171,7 +1171,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KELLY RUNELS. 105 BURLEYSON DR MCDONOUGH GA 30253 SS 10,SM 11,SN 6,TH 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "MCDONOUGH GA 30253 SS 10,SM 11,SN 6,TH 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "968",
@@ -1207,7 +1207,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRETT ELLINBURG. 1865 TALLAHASSEE HWY BAINBRIDGE GA 39819 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "1865 TALLAHASSEE HWY BAINBRIDGE GA 39819 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "970",
@@ -1225,12 +1225,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HUGH D HARRISON. 1012 E 36TH ST SAVANNAH GA 30401 SS 930,SM 1045,SN 6, W 7 ASHE TREE LEARNING CENTER ACADEMY K-12 KJB church."
+    "description": "SAVANNAH GA 30401 SS 930,SM 1045,SN 6, W 7 ASHE TREE LEARNING CENTER ACADEMY K-12 KJB church"
   },
   {
     "id": "971",
     "name": "PEOPLES LIBERTY BAPTIST CHURCH",
-    "address": "10063 POST RD",
+    "address": "31543 LIBERTY CHRIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "10063",
@@ -1243,12 +1243,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEONARD RICHARDS. 10063 POST RD HORTENSE GA 31543 LIBERTY CHRISTIAN SCHOOL, K5-12 FAITH BIBLE INSTITUTE KJB,FBFA"
+    "description": "HORTENSE GA IAN SCHOOL, K5-12 FAITH BIBLE INSTITUTE KJB,FBFA"
   },
   {
     "id": "972",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "342 MARKET ST",
+    "address": "30401 IGLASIA BAUTIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1256,12 +1256,12 @@ export const georgiaChurches: Church[] = [
     "longitude": -83.9947,
     "phone": "(478) 237-6171",
     "website": "https://www.ebcobb.org",
-    "pastor": "ROBERT RAMOS",
+    "pastor": "MARIETTA GA 30060 SS 10,SM 10,SN 6,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT RAMOS. 342 MARKET ST SWAINSBORO GA 30401 IGLASIA BAUTISTA EMANUEL 1785 AIRCRAFT DR MARIETTA GA 30060 SS 10,SM 10,SN 6,W 7 KJB church."
+    "description": "SWAINSBORO GA A EMANUEL 1785 AIRCRAFT DR MARIETTA GA 30060 SS 10,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "973",
@@ -1279,7 +1279,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN MCNEESE.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "974",
@@ -1297,12 +1297,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN DENT. 305 OLD GREY ROCK RD MIDLAND GA 31820 NEAR COLUMBUS SM 1030,SN 6,TH 7 KJB church."
+    "description": "MIDLAND GA 31820 NEAR COLUMBUS SM 1030,SN 6,TH 7 KJB church"
   },
   {
     "id": "975",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "",
+    "address": "31709 Near PL",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1315,7 +1315,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUB GALLOWAY. PO BOX 235 817 US HWY 280 W AMERICUS GA 31709 Near PLAINS KJB church."
+    "description": "PO BOX 235 817 US HWY 280 W AMERICUS GA AINS KJB church"
   },
   {
     "id": "976",
@@ -1333,7 +1333,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK DAVIS. 18 VAN CLEVE ST FORT OGLETHORPE GA 30742 KJB church."
+    "description": "FORT OGLETHORPE GA 30742 KJB church"
   },
   {
     "id": "977",
@@ -1351,7 +1351,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED STRICKLAND. PO BOX 1061 2571 HWY 130 E VIDALIA GA 30474 SS 10,SM 11,W 7 6401 HOG MOUNTAIN RD WATKINSVILLE GA 30677 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS & MUSIC ONLINE KJB church."
+    "description": "PO BOX 1061 2571 HWY 130 E VIDALIA GA 30474 SS 10,SM 11,W 7 WATKINSVILLE GA 30677 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS & MUSIC ONLINE KJB church"
   },
   {
     "id": "978",
@@ -1369,7 +1369,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK STROUD.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "979",
@@ -1389,7 +1389,7 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by KEITH A LEE. 9365 HWY 52 E MURRAYVILLE GA 30564 near GAINESVILLE KJB, UNAFFILIATED"
+    "description": "9365 HWY 52 E MURRAYVILLE GA 30564 near GAINESVILLE KJB, UNAFFILIATED"
   },
   {
     "id": "980",
@@ -1408,7 +1408,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JUSTIN TROTTER. 139 WHITE OAK CHURCH RD DALLAS GA 30157 SS 10,SM 11,SN 6,W 730 BUS, CHILDRENS CHURCH, TEEN, REFORMERS UNANIMOUS, SERMONS ONLINE KJB church."
+    "description": "DALLAS GA 30157 SS 10,SM 11,SN 6,W 730 BUS, CHILDRENS CHURCH, TEEN, REFORMERS UNANIMOUS, SERMONS ONLINE KJB church"
   },
   {
     "id": "981",
@@ -1426,7 +1426,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN BOWMAN. 885 MANN RD VILLA RICA GA 30180 near DOUGLASSVILLE SS 10,SM 11,SN 5,W 730 SERMONS ONLINE 1109 W HWY 166 BOWDON GA 30108 SS 945,SM 11,SN 7,W 730 RADIO 1440 AM, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "VILLA RICA GA 30180 near DOUGLASSVILLE SS 10,SM 11,SN 5,W 730 SERMONS ONLINE 1109 W HWY 166 BOWDON GA 30108 SS 945,SM 11,SN 7,W 730 RADIO 1440 AM, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "982",
@@ -1444,7 +1444,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN DORSEY. 6751 HOUSTON RD MACON GA 31216 SS 945,SM 830 & 11,SN 6,W 7 AWANA,ORCHESTRA,RU, SCHOOL OF THE BIBLE ROBINS AFB KJB church."
+    "description": "MACON GA 31216 SS 945,SM 830 & 11,SN 6,W 7 AWANA,ORCHESTRA,RU, SCHOOL OF THE BIBLE ROBINS AFB KJB church"
   },
   {
     "id": "983",
@@ -1462,7 +1462,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4785 ADAIRSVILLE RD NE ADAIRSVILLE GA 30103"
+    "description": "ADAIRSVILLE GA 30103"
   },
   {
     "id": "984",
@@ -1480,7 +1480,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH SPRINGER. SM 10,SN 6,W 7 KJB,TRINITY-BC"
+    "description": "SM 10,SN 6,W 7 KJB,TRINITY-BC"
   },
   {
     "id": "985",
@@ -1499,7 +1499,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ERIC BYRD. PO BOX 253 305 WEISENBAKER RD RINCON GA 31326 SS 10,SM 11,SN 630,W 7 PROPHETS CHAMBER KJB,TRADITIONAL MUSIC 3121 HWY 42 N FORSYTH GA 31029 SS 930,SM 1030,SN 6,W 730 PHILLY KIDS,SOULWINNING, TEENS"
+    "description": "PO BOX 253 RINCON GA 31326 SS 10,SM 11,SN 630,W 7 PROPHETS CHAMBER KJB,TRADITIONAL MUSIC 3121 HWY 42 N FORSYTH GA 31029 SS 930,SM 1030,SN 6,W 730 PHILLY KIDS,SOULWINNING, TEENS"
   },
   {
     "id": "986",
@@ -1518,7 +1518,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by PHILLIP ALLEN. PO BOX 908578 1040 MORNINGSIDE CIR GAINESVILLLE GA 30503 SS 10,SM 11,W 7 3550 SPRUELL CIR ALPHARETTA GA 30022 KJB church."
+    "description": "PO BOX MORNINGSIDE CIR GAINESVILLLE GA 30503 SS 10,SM 11,W 7 3550 SPRUELL CIR ALPHARETTA GA 30022 KJB church"
   },
   {
     "id": "987",
@@ -1536,12 +1536,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SWAYNE CARLAN. 605 MORNINGSIDE DR DALTON GA 30721 SS 10, SM 11, SN 6, W 730 YOUTH CHRISTIAN SCHOOL,PS-12,ABEKA, BOB JONES 25 MILES FROM DOBBINS AFB KJB church."
+    "description": "DALTON GA 30721 SS 10, SM 11, SN 6, W 730 YOUTH CHRISTIAN SCHOOL,PS-12,ABEKA, BOB JONES 25 MILES FROM DOBBINS AFB KJB church"
   },
   {
     "id": "988",
     "name": "SOLID ROCK BAPTIST CHURCH",
-    "address": "467 HICKORY CRK RD",
+    "address": "3229 MADISON HWY VALDOST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1556,7 +1556,7 @@ export const georgiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by STEVE WARD. PO BOX 292 467 HICKORY CRK RD MAYSVILLE GA 30558 3229 MADISON HWY VALDOSTA GA 31601 SS 10,SM 11,SN 6,W 7 AWANA,RADIO VICTORY CHRISTIAN SCHOOL,1-12,ACE KJB,UNAFFILIATED PO BOX 295 1933 TALMADGE RD ALLE"
+    "description": "PO BOX 292 MAYSVILLE GA 30558 A GA 31601 SS 10,SM 11,SN 6,W 7 AWANA,RADIO VICTORY CHRISTIAN SCHOOL,1-12,ACE KJB,UNAFFILIATED PO BOX 295 1933 TALMADGE RD ALLE"
   },
   {
     "id": "989",
@@ -1574,7 +1574,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY JENKINS. PO BOX 367 4684 STORY MILL RD HEPHZIBAH GA 30815 SM 11,SN 6,W 7 FORT GORDON, STORY MILL ROAD BIBLE INSTITUTE KJB church."
+    "description": "PO BOX 367 HEPHZIBAH GA 30815 SM 11,SN 6,W 7 FORT GORDON, STORY MILL ROAD BIBLE INSTITUTE KJB church"
   },
   {
     "id": "990",
@@ -1593,7 +1593,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by WILL JACKSON. 7624 HWY 225 S CHATSWORTH GA 30705 PHYSICAL ADD: 4102 NICKLESVILLE RD NE RESECA GA 30735 SS 10,SM 1050,SN 630,W 730 CANAANLAND CHRISTIAN SCHOOL,K-12 110 PAPERMILL RD LAWRENCEVILLE GA 30045 SS 945,SM 1 KJB church."
+    "description": "7624 HWY 225 S CHATSWORTH GA 30705 PHYSICAL ADD: RESECA GA 30735 SS 10,SM 1050,SN 630,W 730 CANAANLAND CHRISTIAN SCHOOL,K-12 110 PAPERMILL RD LAWRENCEVILLE GA 30045 SS 945,SM 1 KJB church"
   },
   {
     "id": "991",
@@ -1611,7 +1611,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT THOMAS. 2861 BALL GROUND HWY CANTON GA 30147 SS 10,SM 11,SN 6,W 730 BUS, SPANISH, SERMONS ONLINE CROSSROADS CHRISTIAN ACADEMY,K-12 KJB church."
+    "description": "2861 BALL GROUND HWY CANTON GA 30147 SS 10,SM 11,SN 6,W 730 BUS, SPANISH, SERMONS ONLINE CROSSROADS CHRISTIAN ACADEMY,K-12 KJB church"
   },
   {
     "id": "992",
@@ -1630,12 +1630,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID YOUNG. 125 PINE RIDGE CHURCH RD DALLAS GA 30141 SS 945,SM 11,SN 5 KJB,UNAFFILIATED"
+    "description": "DALLAS GA 30141 SS 945,SM 11,SN 5 KJB,UNAFFILIATED"
   },
   {
     "id": "993",
     "name": "ANTIOCH BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 781",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1648,7 +1648,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 781 723 HWY 78 W HARLEM GA 30814 SS 10,SM 11,SN 7,W 730"
+    "description": "723 HWY 78 W HARLEM GA 30814 SS 10,SM 11,SN 7,W 730"
   },
   {
     "id": "994",
@@ -1666,7 +1666,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOBY POWERS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "995",
@@ -1684,7 +1684,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE BENTON. 56 TAYLOR CIR CARROLLTON GA 30117 PHYSICAL ADD: 1196 HWY 78, CARROLLTON GA 30117 SS 10, SM 11, SN 6 AUDIO SERMONS ONLINE KJB church."
+    "description": "CARROLLTON GA 30117 PHYSICAL ADD: 1196 HWY 78, CARROLLTON GA 30117 SS 10, SM 11, SN 6 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "996",
@@ -1702,7 +1702,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT BALLEW. 5505 HOG MOUNTAIN RD FLOWERY BRANCH GA 30542 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "FLOWERY BRANCH GA 30542 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "997",
@@ -1720,7 +1720,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNY VICE. 838 S ANTIOCH RD MCDONOUGH GA 30252 SS 11,SM 12,SN 6,THU 730 TAPE, DIVORCE PREVENTION CLASS, CHILD TRAINING CLASS, BOOK, FAMILY VISITATION 1900 W GOLDEN RD TIFTON GA 31793 KJB church."
+    "description": "MCDONOUGH GA 30252 SS 11,SM 12,SN 6,THU 730 TAPE, DIVORCE PREVENTION CLASS, CHILD TRAINING CLASS, BOOK, FAMILY VISITATION 1900 W GOLDEN RD TIFTON GA 31793 KJB church"
   },
   {
     "id": "998",
@@ -1739,12 +1739,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROOSEVELT LOVELESS. PROPHETS CHAMBER 5143 SECOND ST MORROW GA 30260 SS10,SM 11,W 730 SOULWINNING, YOUTH, ADULT FELLOWSHIPS, FORT GILLEM 2 MILES, FORT MACPHERSON 10 MILES KJB church."
+    "description": "PROPHETS CHAMBER MORROW GA 30260 SS10,SM 11,W 730 SOULWINNING, YOUTH, ADULT FELLOWSHIPS, FORT GILLEM 2 MILES, FORT MACPHERSON 10 MILES KJB church"
   },
   {
     "id": "999",
     "name": "SWAMP ROAD BAPTIST CHURCH",
-    "address": "4490 SWAMP RD",
+    "address": "4490 SWAMP RD WAY",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1752,13 +1752,13 @@ export const georgiaChurches: Church[] = [
     "longitude": -84.026,
     "phone": "(912) 284-9008",
     "website": "http://swamproadbaptist.org",
-    "pastor": "EDDIE ADAMS",
+    "pastor": "ELBERTON GA 30635 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by EDDIE ADAMS. 4490 SWAMP RD WAYCROSS GA 31503 SS 10, SM 11, SN 6, W 7 AUDIO SERMONS ONLINE 1030 SUNSET DR ELBERTON GA 30635 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "CROSS GA 31503 SS 10, SM 11, SN 6, W 7 AUDIO SERMONS ONLINE 1030 SUNSET DR ELBERTON GA 30635 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1000",
@@ -1776,7 +1776,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "101 WOODLAWN AVE GRIFFIN GA 30223"
+    "description": "GRIFFIN GA 30223"
   },
   {
     "id": "1001",
@@ -1795,7 +1795,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICK WILLIAMS. SS 10,SM 11,SN 6,W 730 RADIO, TRACT, SOULWINNING, OLD TIME PREACHING KJB church."
+    "description": "SS 10,SM 11,SN 6,W 730 RADIO, TRACT, SOULWINNING, OLD TIME PREACHING KJB church"
   },
   {
     "id": "1002",
@@ -1832,7 +1832,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS ANDERSON. SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1004",
@@ -1850,7 +1850,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "2724 SARDIS CHURCH RD GAINESVILLE GA 30506 Non-KJV church."
+    "description": "GAINESVILLE GA 30506 Non-KJV church"
   },
   {
     "id": "1005",
@@ -1869,12 +1869,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FREDDY W THOMAS. SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1006",
     "name": "GOSPEL LIGHT BAPTIST CHURCH",
-    "address": "1194 E MAIN ST",
+    "address": "730 KIDS CLUB EASY TO FIND IN DOWNTOWN BLUE RIDGE OFF INTERST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1887,12 +1887,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF HEGWOOD. PO BOX 811 1194 E MAIN ST BLUE RIDGE GA 30513 SS 10,SM 11,SN 6,W 730 KIDS CLUB EASY TO FIND IN DOWNTOWN BLUE RIDGE OFF INTERSTATE 575 OR HIGHWAY 515 847 MONTICELLO HWY EATONTON GA 31024 SS 10,SM 11,SN KJB church."
+    "description": "PO BOX 811 BLUE RIDGE GA 30513 SS 10,SM 11,SN 6,W ATE 575 OR HIGHWAY 515 847 MONTICELLO HWY EATONTON GA 31024 SS 10,SM 11,SN KJB church"
   },
   {
     "id": "1007",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "223 TORRINGTON DR",
+    "address": "817 S MAIN ST SYLVEST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -1906,7 +1906,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRENT WEAVER. PO BOX 640 223 TORRINGTON DR DAHLONEGA GA 30533 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED 817 S MAIN ST SYLVESTER GA 31791 SS 10, SM 11, SN 6, W 7 LOCATED BETWEEN ALBANY & TIFTON KJB,UNAFFILIATED PO BOX"
+    "description": "PO BOX 640 DAHLONEGA GA 30533 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED ER GA 31791 SS 10, SM 11, SN 6, W 7 LOCATED BETWEEN ALBANY & TIFTON KJB,UNAFFILIATED PO BOX"
   },
   {
     "id": "1008",
@@ -1925,7 +1925,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DALE MATHIS. 210 E HWY 80 BLOOMINGDALE GA 31320 SS 10,SM 11,SN 6,W 730 SOULWINNING HUNTER ARMY AIRFIELD 10 MINS KJB church."
+    "description": "210 E HWY 80 BLOOMINGDALE GA 31320 SS 10,SM 11,SN 6,W 730 SOULWINNING HUNTER ARMY AIRFIELD 10 MINS KJB church"
   },
   {
     "id": "1009",
@@ -1944,7 +1944,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN WHITMAN. PO BOX 606 5137 OLD LOUISVILLE RD POOLER GA 31322 SS 10,SM 11,SN 6,W 7 PRISON KJB, UNAFFILIATED"
+    "description": "PO BOX 606 POOLER GA 31322 SS 10,SM 11,SN 6,W 7 PRISON KJB, UNAFFILIATED"
   },
   {
     "id": "1010",
@@ -1962,7 +1962,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN GUIDER. 1683 HWY 82 N JEFFERSON GA 30549 SS 10,SM 1115,SN 630,W 730 STREET PREACHING, MP3 AUDIO SERMONS ONLINE AND CD SERMONS BY MAIL, PROPHETS CHAMBER KJB church."
+    "description": "1683 HWY 82 N JEFFERSON GA 30549 SS 10,SM 1115,SN 630,W 730 STREET PREACHING, MP3 AUDIO SERMONS ONLINE AND CD SERMONS BY MAIL, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1011",
@@ -1980,7 +1980,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WESLEY DYKES. 5172 GROOVERS LANDING RD ACWORTH GA 30101 SS 10,SM 11,SN 5,W 7 BUS,TEEN BAPTIST INTERNATIONAL BIBLE INSTITUTE KJB, CCM"
+    "description": "ACWORTH GA 30101 SS 10,SM 11,SN 5,W 7 BUS,TEEN BAPTIST INTERNATIONAL BIBLE INSTITUTE KJB, CCM"
   },
   {
     "id": "1012",
@@ -1998,7 +1998,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J ERON WHITE. 10200 HWY 18 PINE MOUNTAIN GA 31822 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "10200 HWY 18 PINE MOUNTAIN GA 31822 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1013",
@@ -2016,7 +2016,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3521 SYLVESTER RD ALBANY GA 31705 VAN,REFORMERS UNANIMOUS"
+    "description": "ALBANY GA 31705 VAN,REFORMERS UNANIMOUS"
   },
   {
     "id": "1014",
@@ -2034,7 +2034,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD CAROTHERS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1015",
@@ -2052,7 +2052,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1159 COUNTY LINE RD HARLEM GA 30808"
+    "description": "HARLEM GA 30808"
   },
   {
     "id": "1016",
@@ -2070,7 +2070,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH TRUELOVE. SS 10,SM 11, SN 630,TH 7 KJB church."
+    "description": "SS 10,SM 11, SN 630,TH 7 KJB church"
   },
   {
     "id": "1017",
@@ -2089,7 +2089,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDALL RICKNER. 6216 SPOUT SPRINGS RD FLOWERY BRANCH GA 30542 SS 10,SM 11,SN 630,W 7 KJB,UNAFFILIATED"
+    "description": "FLOWERY BRANCH GA 30542 SS 10,SM 11,SN 630,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1018",
@@ -2109,7 +2109,7 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by REGGIE REMPLE. 1099 HIGHWAY 81 WEST MCDONOUGH GA 30253 APPROX. 2 MILES FROM EXIT 218 ON I-75 near HAMPTON SS 945,SM 1045,SN 6,W 7 SOULWINNING,VAN,ADULT/TEEN CHOIR,TEEN GROUP,YOUTH KJB,BIMI"
+    "description": "MCDONOUGH GA 30253 APPROX. 2 MILES FROM EXIT 218 ON I-75 near HAMPTON SS 945,SM 1045,SN 6,W 7 SOULWINNING,VAN,ADULT/TEEN CHOIR,TEEN GROUP,YOUTH KJB,BIMI"
   },
   {
     "id": "1019",
@@ -2127,7 +2127,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1314 OLD THREE NOTCH RD RINGGOLD GA 30736 SS 945,SM 11,SA 230,W 7 VIDEO SERMONS ONLINE INTERPRETED FOR THE HEARING, NOAH’S ARK CLUB, MAKE A DIFFERENCE (TEEN), DEAF YOUTH OUTREACH, BUS MINISTRY AND THE"
+    "description": "RINGGOLD GA 30736 SS 945,SM 11,SA 230,W 7 VIDEO SERMONS ONLINE INTERPRETED FOR THE HEARING, NOAH’S ARK CLUB, MAKE A DIFFERENCE (TEEN), DEAF YOUTH OUTREACH, BUS MINISTRY AND THE"
   },
   {
     "id": "1020",
@@ -2145,7 +2145,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS PERRY.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1021",
@@ -2163,7 +2163,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEXTER LANDERS. 1451 STEPHENSON RD LITHONIA GA 30058 SS 945,SM 11,W 7 KJB,HYLES-HAC"
+    "description": "LITHONIA GA 30058 SS 945,SM 11,W 7 KJB,HYLES-HAC"
   },
   {
     "id": "1022",
@@ -2183,7 +2183,7 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RICK STUCKE. 8414 E HWY 5 WHITESBURG GA 30185 SS 10,SM 11,SN 6,WED 7 BUS,YOUTH,SOULWINNING MT ZION CHRISTIAN ACADEMY,K5-12,ACE KJB,UNAFFILIATED 1066 HONEY CREEK RD SE CONYERS GA 30208 SS 945,SM 11,SN 6, W 730 MP3"
+    "description": "8414 E HWY 5 WHITESBURG GA 30185 SS 10,SM 11,SN 6,WED 7 BUS,YOUTH,SOULWINNING MT ZION CHRISTIAN ACADEMY,K5-12,ACE KJB,UNAFFILIATED CONYERS GA 30208 SS 945,SM 11,SN 6, W 730 MP3"
   },
   {
     "id": "1023",
@@ -2201,7 +2201,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK BICE. 4263 MARTIN RD OAKWOOD GA 30542 SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "OAKWOOD GA 30542 SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "1024",
@@ -2220,7 +2220,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY C LYNN. PO BOX 9 470 ANGHAM RD HIRAM GA 30141 SS 930,SM 1030,SN 5,W 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 9 HIRAM GA 30141 SS 930,SM 1030,SN 5,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1025",
@@ -2239,7 +2239,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN R TRAMELL JR. 2864 BATTLEFIELD PARKWAY FORT OGLETHORPE GA 30742-4011 SS 10,SM 11,SN 6,W 7 BUS,PATCH PIRATE,TEEN KJB,BBFI"
+    "description": "FORT OGLETHORPE GA 30742-4011 SS 10,SM 11,SN 6,W 7 BUS,PATCH PIRATE,TEEN KJB,BBFI"
   },
   {
     "id": "1026",
@@ -2257,7 +2257,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD GORDON. 11100 WHITE BLUFF RD SAVANNAH GA 31404 SS 10,SM 11,SN 6,W 730 WMA AUDIO SERMONS ONLINE, CHOIR,PATCH PIRATE,TEENS, FORT STEWART, FORT HUNTER KJB church."
+    "description": "SAVANNAH GA 31404 SS 10,SM 11,SN 6,W 730 WMA AUDIO SERMONS ONLINE, CHOIR,PATCH PIRATE,TEENS, FORT STEWART, FORT HUNTER KJB church"
   },
   {
     "id": "1027",
@@ -2275,12 +2275,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY BARRETT. 180 SHILOH RD JACKSON GA 30233 SUN-PRAYER 915,SS 945,SM 11,SN 6,W 7,SAT PRAYER 6PM KJB,HYLES"
+    "description": "JACKSON GA 30233 SUN-PRAYER 915,SS 945,SM 11,SN 6,W 7,SAT PRAYER 6PM KJB,HYLES"
   },
   {
     "id": "1028",
     "name": "CORNISH MOUNTAIN BAPTIST CHURCH",
-    "address": "1089 CORNISH MOUNTAIN CHURCH RD SE",
+    "address": "1089 CORNISH MOUNTAIN CHURCH RD SE OXFORD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2293,12 +2293,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLARK HERRING. 1089 CORNISH MOUNTAIN CHURCH RD SE OXFORD GA 30054 KJB, OLD FASHIONED 163 GREENSBORO RD EATONTON GA 31024 SS 10,SM 11,SN 6,W 7 SENIORS, YOUNG MARRIED, CHOIR, MISSIONS, NURSERY"
+    "description": "GA 30054 KJB, OLD FASHIONED 163 GREENSBORO RD EATONTON GA 31024 SS 10,SM 11,SN 6,W 7 SENIORS, YOUNG MARRIED, CHOIR, MISSIONS, NURSERY"
   },
   {
     "id": "1029",
     "name": "FAITHWAY BAPTIST CHURCH",
-    "address": "7110 MAJORS RD",
+    "address": "973 STANDING ROCK RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2311,7 +2311,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SMITH. 7110 MAJORS RD CUMMING GA 30040 SS 10,SM 11,W 7 PATCH PIRATE 973 STANDING ROCK RD SENOIA GA 30276 SS 945,SM 11,SN 6,W 7 RM AUDIO & TEXT SERMONS ONLINE, CHOIR,NURSING 2700 ZINGARA RD NE CONYERS GA 3001 KJB church."
+    "description": "CUMMING GA 30040 SS 10,SM 11,W 7 PATCH PIRATE SENOIA GA 30276 SS 945,SM 11,SN 6,W 7 RM AUDIO & TEXT SERMONS ONLINE, CHOIR,NURSING 2700 ZINGARA RD NE CONYERS GA 3001 KJB church"
   },
   {
     "id": "1030",
@@ -2329,7 +2329,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH HAYMAN. CHOIR, BUS, DEAF KJB,HYLES"
+    "description": "CHOIR, BUS, DEAF KJB,HYLES"
   },
   {
     "id": "1031",
@@ -2347,7 +2347,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "6456 THE KINGS WAY DOUGLASVILLE GA 30135 SS 10,SM 11,SN 6,W 730 SPANISH,BUS,DEAF,SOULWINNING,REFORMERS UNANOMOUS THE KINGS WAY CHRISTIAN SCHOOL,K3-12,TRAD"
+    "description": "DOUGLASVILLE GA 30135 SS 10,SM 11,SN 6,W 730 SPANISH,BUS,DEAF,SOULWINNING,REFORMERS UNANOMOUS THE KINGS WAY CHRISTIAN SCHOOL,K3-12,TRAD"
   },
   {
     "id": "1032",
@@ -2365,7 +2365,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARIO  ARJONA. KJB & RVA,HYLES 6456 THE KINGS WAY DOUGLASVILLE GA 30135 810 COLLEGE ST ROCKMART GA 30153 SS 10,SM 11,SN 6,W 730"
+    "description": "KJB & RVA,HYLES DOUGLASVILLE GA 30135 810 COLLEGE ST ROCKMART GA 30153 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "1033",
@@ -2384,7 +2384,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TERRY D SELLARS. 1921 HAMILTON RD LAGRANGE GA 30241 SS 945, SM 1045, SN 6, W 7 RADIO - WOAK 90.9FM, SOUTHERN GOSPEL KJB,UNAFFILIATED PO BOX 100 12 S MCDONALD LUDOWICI GA 31316 SS 10,SM 11,SN 6,W 7 JAIL, FAITH BAPTIST"
+    "description": "LAGRANGE GA 30241 SS 945, SM 1045, SN 6, W 7 RADIO - WOAK 90.9FM, SOUTHERN GOSPEL KJB,UNAFFILIATED PO BOX 100 12 S MCDONALD LUDOWICI GA 31316 SS 10,SM 11,SN 6,W 7 JAIL, FAITH BAPTIST"
   },
   {
     "id": "1034",
@@ -2403,7 +2403,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ALTON T MIDGETT JR. KJB,UNAFFILIATED"
+    "description": "KJB,UNAFFILIATED"
   },
   {
     "id": "1035",
@@ -2421,7 +2421,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH HAMILTON. 762 SMOKEY RD NEWNAN GA 30263 SS 945,SM 11,SN 630,W 7 AUDIO SERMONS ONLINE SERMON OUTLINES ONLINE CHOIR,TEENS,SINGLES,YOUTH, BASE 35 MILES AWAY KJB church."
+    "description": "NEWNAN GA 30263 SS 945,SM 11,SN 630,W 7 AUDIO SERMONS ONLINE SERMON OUTLINES ONLINE CHOIR,TEENS,SINGLES,YOUTH, BASE 35 MILES AWAY KJB church"
   },
   {
     "id": "1036",
@@ -2439,7 +2439,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERNEST GROCE. 2849 MOUNTAIN VIEW RD SNELLVILLE GA 30079 Near STONE MOUNTAIN SS 930,SM 1030,SN 630,W 7 SERMONS ONLINE CHOIRS,ORCHESTRA,DEAF 1013 LAFAYETTE RD ROSSVILLE GA 30741 CHATTANOOGA AREA SS 950,SM 1050,SN 6,W KJB church."
+    "description": "SNELLVILLE GA 30079 Near STONE MOUNTAIN SS 930,SM 1030,SN 630,W 7 SERMONS ONLINE CHOIRS,ORCHESTRA,DEAF 1013 LAFAYETTE RD ROSSVILLE GA 30741 CHATTANOOGA AREA SS 950,SM 1050,SN 6,W KJB church"
   },
   {
     "id": "1037",
@@ -2457,7 +2457,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM KING. 2601 WATSON BLVD WARNER ROBINS GA 31903 2695 WATSON BLVD (SCHOOL) SS 10,SM 11,SN 6,W 7 VIDEO SERMONS ONLINE WARNER ROBINS CHRISTIAN ACADEMY,PS-12 ROBINS AFB / ROBBINS ALC FOLKSTON GA 31537 SS 10,SM 11 KJB church."
+    "description": "WARNER ROBINS GA 31903 2695 WATSON BLVD (SCHOOL) SS 10,SM 11,SN 6,W 7 VIDEO SERMONS ONLINE WARNER ROBINS CHRISTIAN ACADEMY,PS-12 ROBINS AFB / ROBBINS ALC FOLKSTON GA 31537 SS 10,SM 11 KJB church"
   },
   {
     "id": "1038",
@@ -2475,7 +2475,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY HOLLAND. 938 N PINETREE BLVD THOMASVILLE GA 31792 SS 10,SM 11,SN 7,W 7 PROPHETS CHAMBER KJB church."
+    "description": "THOMASVILLE GA 31792 SS 10,SM 11,SN 7,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1039",
@@ -2494,12 +2494,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHARLES BLACKSTOCK. PO BOX 686 123 JOHN PERRY RD DAWSONVILLE GA 30534 SS 10,SM 11,SN 6,W 7 CHILDRENS CHURCH, HIS KIDS PROGRAM ON WEDNESDAY.  NURSERY PROVIDED IN A.M. SERVICES.  BUS ROUTES.  STRONG MISSIONS PROGRAM, AUDIO KJB church."
+    "description": "PO BOX 686 DAWSONVILLE GA 30534 SS 10,SM 11,SN 6,W 7 CHILDRENS CHURCH, HIS KIDS PROGRAM ON WEDNESDAY. NURSERY PROVIDED IN A.M. SERVICES. BUS ROUTES. STRONG MISSIONS PROGRAM, AUDIO KJB church"
   },
   {
     "id": "1040",
     "name": "GRACE BIBLE BAPTIST CHURCH",
-    "address": "305 AZALEA DR",
+    "address": "2780 MOUNT CARMEL RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2513,7 +2513,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LOREN REIGER. 305 AZALEA DR SYLVANIA GA 30467 SS 10,SM 11,SN 7,W 730 YOUTH, KINGS KIDS, FOOD BANK KJB,BBF 2780 MOUNT CARMEL RD HAMPTON GA 30228 RIVERDALE & ATLANTA AREA SS 945,SM 1050,SN 6,W 7 COUPLES, SINGLES, YOU"
+    "description": "SYLVANIA GA 30467 SS 10,SM 11,SN 7,W 730 YOUTH, KINGS KIDS, FOOD BANK KJB,BBF HAMPTON GA 30228 RIVERDALE & ATLANTA AREA SS 945,SM 1050,SN 6,W 7 COUPLES, SINGLES, YOU"
   },
   {
     "id": "1041",
@@ -2531,7 +2531,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK BROWN. 3156 LANGLEY RD LOGANVILLE GA 30052 STONE MOUNTIAN AREA SS 945,SM 11,SN 6,W 730 AWANA, BAPTIST INSTITUTE OF AMERICA & SEMINARY KJB,IBFI"
+    "description": "LOGANVILLE GA 30052 STONE MOUNTIAN AREA SS 945,SM 11,SN 6,W 730 AWANA, BAPTIST INSTITUTE OF AMERICA & SEMINARY KJB,IBFI"
   },
   {
     "id": "1042",
@@ -2549,7 +2549,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY L SOUTH. 303 DOUBLE CHURCHES RD COLUMBUS GA 31904 SS 10,SM 11,SN 630,W 730 FORT BENNING KJB church."
+    "description": "COLUMBUS GA 31904 SS 10,SM 11,SN 630,W 730 FORT BENNING KJB church"
   },
   {
     "id": "1043",
@@ -2568,7 +2568,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY LEDFORD. 6490 SANDY POINT RD LIZELLA GA 31052 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED"
+    "description": "LIZELLA GA 31052 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED"
   },
   {
     "id": "1044",
@@ -2586,7 +2586,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "1375 FERNWOOD CIR ATLANTA GA 30319 NORTHEAST ATLANTA AREA SS 10,SM 11,SN 6,W 7 Non-KJV church."
+    "description": "ATLANTA GA 30319 NORTHEAST ATLANTA AREA SS 10,SM 11,SN 6,W 7 Non-KJV church"
   },
   {
     "id": "1045",
@@ -2606,7 +2606,7 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by DENNIS DILLS. PROPHETS CHAMBER 15 MILES FROM DOBBINS AFB PO BOX 2424 1743 ROBERTSON LOOP RD CLARKESVILLE GA 30523 SS 10,SM 11,SN 6,W 7 1010 OLD JESUP RD BRUNSWICK GA 31520 SS 945,SM 11,SN 630,W 7 AWANA,BUS EMMANUEL KJB church."
+    "description": "PROPHETS CHAMBER 15 MILES FROM DOBBINS AFB PO BOX 2424 CLARKESVILLE GA 30523 SS 10,SM 11,SN 6,W 7 1010 OLD JESUP RD BRUNSWICK GA 31520 SS 945,SM 11,SN 630,W 7 AWANA,BUS EMMANUEL KJB church"
   },
   {
     "id": "1046",
@@ -2626,7 +2626,7 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by ALLEN SINCLAIR. 605 MAIN ST VILLA RICA GA 30180 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, SOULWINNING, BUS, TEEN, STREET PREACHING, HAPPY VALLEY BAPTIST ACADEMY, K4-12, ABEKA, ANNUAL CAMP MEETING KJB, HYLES 284"
+    "description": "VILLA RICA GA 30180 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, SOULWINNING, BUS, TEEN, STREET PREACHING, HAPPY VALLEY BAPTIST ACADEMY, K4-12, ABEKA, ANNUAL CAMP MEETING KJB, HYLES 284"
   },
   {
     "id": "1047",
@@ -2644,7 +2644,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID MADDOX. PO BOX 578 587 LANDERS DR POWDER SPRINGS GA 30127 MABLETON GA 30059 SS 8 & 930,SM 11,SN 6,W 720 BUS, AWANA, JAIL, HISPANIC, CHOIR KJB church."
+    "description": "PO BOX 578 POWDER SPRINGS GA 30127 MABLETON GA 30059 SS 8 & 930,SM 11,SN 6,W 720 BUS, AWANA, JAIL, HISPANIC, CHOIR KJB church"
   },
   {
     "id": "1048",
@@ -2680,7 +2680,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH EVERETT.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1050",
@@ -2698,12 +2698,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN ANDERSON. PO BOX 277 160 ROCK ST LOGANVILLE GA 30249 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "PO BOX 277 LOGANVILLE GA 30249 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "1051",
     "name": "PINECREST BAPTIST CHURCH",
-    "address": "175 FOSTER DR",
+    "address": "4565 BEMISS RD VALDOST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2718,12 +2718,12 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by JIMMY BURT. 175 FOSTER DR MCDONOUGH GA 30253 SS 930,SM 1045,SN 6,W 7 YOUTH, COUPLES, SENIORS,AWANA, AUDIO & VIDEO SERMONS ONLINE, PROPHETS CHAMBER, FORT GILLEM, FORT MCPHERSON 4565 BEMISS RD VALDOSTA GA 31605 3 M KJB church."
+    "description": "MCDONOUGH GA 30253 SS 930,SM 1045,SN 6,W 7 YOUTH, COUPLES, SENIORS,AWANA, AUDIO & VIDEO SERMONS ONLINE, PROPHETS CHAMBER, FORT GILLEM, FORT MCPHERSON A GA 31605 3 M KJB church"
   },
   {
     "id": "1052",
     "name": "COASTAL BAPTIST CHURCH",
-    "address": "106 CATHERINE ST",
+    "address": "106 CATHERINE ST ST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2737,12 +2737,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by BILL MANUS. 106 CATHERINE ST ST MARYS GA 31558 SS 10,SM 11,SN 6,W 7 INSTITUTE KINGS BAY NAVAL SUBMARINE BASE KJB church."
+    "description": "MARYS GA 31558 SS 10,SM 11,SN 6,W 7 INSTITUTE KINGS BAY NAVAL SUBMARINE BASE KJB church"
   },
   {
     "id": "1053",
     "name": "RIDGEWAY BAPTIST CHURCH",
-    "address": "942 E RIDGEWAY RD",
+    "address": "942  E RIDGEWAY RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2755,7 +2755,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE MEALOR. 942  E RIDGEWAY RD COMMERCE GA 30529 1 MILE OFF EXIT 149 ON I85 KJB church."
+    "description": "COMMERCE GA 30529 1 MILE OFF EXIT 149 ON I85 KJB church"
   },
   {
     "id": "1054",
@@ -2773,7 +2773,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY OWENS. 2675 BROCKTON RD JEFFERSON GA 30549 SS 10,SM 11,SN 6,W 7 KJB,HIGHLAND PARK BC"
+    "description": "JEFFERSON GA 30549 SS 10,SM 11,SN 6,W 7 KJB,HIGHLAND PARK BC"
   },
   {
     "id": "1055",
@@ -2791,7 +2791,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6364 SLYGO RD WILDWOOD GA 30757"
+    "description": "WILDWOOD GA 30757"
   },
   {
     "id": "1056",
@@ -2810,7 +2810,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK ERNST. SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1057",
@@ -2829,7 +2829,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSHUA HAN. 7131 MT VERNON RD LITHIA SPRINGS GA 30057 SS 930,SM 1050,SN 6,W 730 AWANA,WORD OF LIFE COLONIAL HILLS CHRISTIAN SCHOOL KJB,UNAFFILIATED"
+    "description": "LITHIA SPRINGS GA 30057 SS 930,SM 1050,SN 6,W 730 AWANA,WORD OF LIFE COLONIAL HILLS CHRISTIAN SCHOOL KJB,UNAFFILIATED"
   },
   {
     "id": "1058",
@@ -2847,7 +2847,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA JOHNSON. 5415 MACLAND RD POWDER SPRINGS GA 30127 SS 930,SM 1030,SN 5,W 630 BUS,YOUTH KJB church."
+    "description": "POWDER SPRINGS GA 30127 SS 930,SM 1030,SN 5,W 630 BUS,YOUTH KJB church"
   },
   {
     "id": "1059",
@@ -2865,7 +2865,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FELIX CAMPS. 1390 MONFORT RD LAWRENCEVILLE GA 30071 SS 10,SM 11,SN 6,W 7 BUS, SERMONS ONLINE KJB church."
+    "description": "LAWRENCEVILLE GA 30071 SS 10,SM 11,SN 6,W 7 BUS, SERMONS ONLINE KJB church"
   },
   {
     "id": "1060",
@@ -2884,12 +2884,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENNETH COFER. 1026 S HOUSTON LAKE RD WARNER ROBINS GA 31088 SS 10,SM 11,SN 6,W 7 ROBINS AFB KJB,UNAFFILIATED"
+    "description": "WARNER ROBINS GA 31088 SS 10,SM 11,SN 6,W 7 ROBINS AFB KJB,UNAFFILIATED"
   },
   {
     "id": "1061",
     "name": "TRINITY HILL BAPTIST CHURCH",
-    "address": "4798 BUFORD HWY",
+    "address": "3155 BETHELVIEW RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2902,7 +2902,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN GHERARDINI. PO BOX 579 BETHLEHEM GA 30620 4798 BUFORD HWY NORCROSS GA 30071 SS 10,SM 11,SN 6,W 730 PROPHETS CHAMBER PO BOX 1707 3155 BETHELVIEW RD CUMMING GA 30130 SS 10,SM 11,SN 630,W 730 PO BOX 410 536 S VICTOR KJB church."
+    "description": "PO BOX 579 BETHLEHEM GA 30620 NORCROSS GA 30071 SS 10,SM 11,SN 6,W 730 PROPHETS CHAMBER PO BOX 1707 CUMMING GA 30130 SS 10,SM 11,SN 630,W 730 PO BOX 410 536 S VICTOR KJB church"
   },
   {
     "id": "1062",
@@ -2938,7 +2938,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TAYLOR FLEURY. DEAF, RADIO, JAIL, CHILDREN, TEEN, VIDEO SERMONS ONLINE SS 10,SM 11,SN 7,W 730 PO BOX 565 109 OAK ST HAMPTON GA 30228 SS 10,SM 11,SN 6,W 7 PATCH PIRATE,CHORUS,TEEN,BUS,YOUTH, PRISON,PRIME-TIMERS FT MC KJB church."
+    "description": "DEAF, RADIO, JAIL, CHILDREN, TEEN, VIDEO SERMONS ONLINE SS 10,SM 11,SN 7,W 730 PO BOX 565 HAMPTON GA 30228 SS 10,SM 11,SN 6,W 7 PATCH PIRATE,CHORUS,TEEN,BUS,YOUTH, PRISON,PRIME-TIMERS FT MC KJB church"
   },
   {
     "id": "1064",
@@ -2956,12 +2956,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY EDWARDS. 2295 MORGAN RD NE MARIETTA GA 30066 DOBBINS AFB KJB church."
+    "description": "MARIETTA GA 30066 DOBBINS AFB KJB church"
   },
   {
     "id": "1065",
     "name": "BEMISS ROAD BAPTIST CHURCH",
-    "address": "3307 BEMISS RD",
+    "address": "3307 BEMISS RD VALDOST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -2974,7 +2974,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3307 BEMISS RD VALDOSTA GA 31602 SS 10,SM 1,SN 6,W 7 WAFT 101.1 FM"
+    "description": "A GA 31602 SS 10,SM 1,SN 6,W 7 WAFT 101.1 FM"
   },
   {
     "id": "1066",
@@ -2992,7 +2992,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE SPANGLER. MOODY AFB KJB church."
+    "description": "MOODY AFB KJB church"
   },
   {
     "id": "1067",
@@ -3010,7 +3010,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAY REED. 65 BERRY BENNETT RD CHATSWORTH GA 30705 KJB church."
+    "description": "CHATSWORTH GA 30705 KJB church"
   },
   {
     "id": "1068",
@@ -3029,7 +3029,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRENSON JENNINGS. 142 OLD PEACHTREE RD NW SUWANEE GA 30147 SS 10,SM 11,SN 7,W 730 CHOIR,BUS,PRISON,SOULWINNING, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "SUWANEE GA 30147 SS 10,SM 11,SN 7,W 730 CHOIR,BUS,PRISON,SOULWINNING, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1069",
@@ -3047,7 +3047,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC LEE. 6202 JEFFERSON RIVER ATHENS GA 30607 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "6202 JEFFERSON RIVER ATHENS GA 30607 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1070",
@@ -3065,7 +3065,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NOLAN JACKSON. 1370 E VIEW RD CONYERS GA 30207 PROPHETS CHAMBER KJB church."
+    "description": "CONYERS GA 30207 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1071",
@@ -3083,12 +3083,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SE. CONYERS GA 30208 SS 930,SM 1045,SN 6,W 6 BELMONT GAZETTE KJB church."
+    "description": "CONYERS GA 30208 SS 930,SM 1045,SN 6,W 6 BELMONT GAZETTE KJB church"
   },
   {
     "id": "1072",
     "name": "VICTORY INDEPENDENT BAPTIST CHURCH",
-    "address": "3150 N LUMPKIN RD",
+    "address": "7 VICTORY BIBLE INST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3102,12 +3102,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PARKER EX-NAVY. 3150 N LUMPKIN RD COLUMBUS GA 31903 SS 945,SM 11,SN 7,W 7 VICTORY BIBLE INSTITUTE,3 YR COURSE FORT BENNING 3 MILES KJB church."
+    "description": "COLUMBUS GA 31903 SS 945,SM 11,SN 7,W ITUTE,3 YR COURSE FORT BENNING 3 MILES KJB church"
   },
   {
     "id": "1073",
     "name": "REST HAVEN BAPTIST CHURCH",
-    "address": "132 LEDFORD RD",
+    "address": "132 LEDFORD RD BUFORD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3120,7 +3120,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE C ARTHUR. 132 LEDFORD RD BUFORD GA 30518 SS 10,SM 11,SN 630,W 730 PROPHETS CHAMBER KJB church."
+    "description": "GA 30518 SS 10,SM 11,SN 630,W 730 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1074",
@@ -3138,7 +3138,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1974 WALT STEPHENS RD JONESBORO GA 30236 SS 10,SM 11,SN 6,W 7 AWANA,TEENS,SENIORS"
+    "description": "JONESBORO GA 30236 SS 10,SM 11,SN 6,W 7 AWANA,TEENS,SENIORS"
   },
   {
     "id": "1075",
@@ -3156,7 +3156,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH KUYKENDALL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1076",
@@ -3174,7 +3174,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD SIVNKSTY. 1391 BRASELTON HWY LAWRENCEVILLE GA 30043 SS 8, SM 9,SN 5,W 7 AWANA,TV,SHORTWAVE, VIDEO SERMONS ONLINE 1405 HEWATT RD LILBURN GA 30047 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, FRONTLINE CLUBS KJB church."
+    "description": "1391 BRASELTON HWY LAWRENCEVILLE GA 30043 SS 8, SM 9,SN 5,W 7 AWANA,TV,SHORTWAVE, VIDEO SERMONS ONLINE LILBURN GA 30047 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, FRONTLINE CLUBS KJB church"
   },
   {
     "id": "1077",
@@ -3193,7 +3193,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LYNN MCCLAIN. 905 HOGAN RD ROSSVILLE GA 30741 SS 945,SM 1040,SN 6,W 7 AWANA, TEEN, CHOIR, BUS, SOULWINNING KJB church."
+    "description": "ROSSVILLE GA 30741 SS 945,SM 1040,SN 6,W 7 AWANA, TEEN, CHOIR, BUS, SOULWINNING KJB church"
   },
   {
     "id": "1078",
@@ -3211,12 +3211,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG ANDERSON. 229 KENWOOD RD FAYETTEVILLE GA 30214 SS 945,SM 11,SN 6,W 7 SERMONS ONLINE KJB church."
+    "description": "FAYETTEVILLE GA 30214 SS 945,SM 11,SN 6,W 7 SERMONS ONLINE KJB church"
   },
   {
     "id": "1079",
     "name": "TRI-COUNTY BAPTIST CHURCH",
-    "address": "1410 VALLEY HILL RD",
+    "address": "1410 VALLEY HILL RD ST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3229,12 +3229,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT GRIMES. PO BOX 391 5445 E HWY 16 SENOIA GA 30276 SS 10,SM 11,SN 6,W 715 PO BOX 352 1410 VALLEY HILL RD STOCKBRIDGE GA 30281 SS 10,SM 11,SN 6,W 7 AWANA, BUS, PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 391 5445 E HWY 16 SENOIA GA 30276 SS 10,SM 11,SN 6,W 715 PO BOX 352 OCKBRIDGE GA 30281 SS 10,SM 11,SN 6,W 7 AWANA, BUS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1080",
     "name": "ATLANTIC BAPTIST COLLEGE",
-    "address": "",
+    "address": "2088 YATESVILLE HWY THOMAST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3249,7 +3249,7 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by BUDDY WALL. 2088 YATESVILLE HWY THOMASTON GA 30286 SS 10,SM 11,SN 630,W 730 UPSON CHRISTIAN ACADEMY, K4-12,ABEKA,ACE SOULWINNING KJB,HYLES"
+    "description": "ON GA 30286 SS 10,SM 11,SN 630,W 730 UPSON CHRISTIAN ACADEMY, K4-12,ABEKA,ACE SOULWINNING KJB,HYLES"
   },
   {
     "id": "1081",
@@ -3268,7 +3268,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE JAY. 734 SENOIA RD TYRONE GA 30290 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, SOULWINNING, CRESTWOOD CHRISTIAN ACADEMY, K-12, HAMMOND,ACE SS 10,SM 11,SN 7,W 730 BUS,SERMONS ONLINE, REPENTANCE-NOT HYLES VIEW KJB church."
+    "description": "TYRONE GA 30290 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, SOULWINNING, CRESTWOOD CHRISTIAN ACADEMY, K-12, HAMMOND,ACE SS 10,SM 11,SN 7,W 730 BUS,SERMONS ONLINE, REPENTANCE-NOT HYLES VIEW KJB church"
   },
   {
     "id": "1082",
@@ -3286,7 +3286,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMY CHAPMAN. 176 GOSPEL BAPTIST RD CLAXTON GA 30417 HWY 301 S PROPHETS CHAMBER KJB, CROWN-BC, GPA PO BOX 710 217 NEWTOWN RD WASHINGTON GA 30673 SS 10,SM 11,SN 6,W 730 TEXT SERMONS ONLINE"
+    "description": "CLAXTON GA 30417 HWY 301 S PROPHETS CHAMBER KJB, CROWN-BC, GPA PO BOX 710 217 NEWTOWN RD WASHINGTON GA 30673 SS 10,SM 11,SN 6,W 730 TEXT SERMONS ONLINE"
   },
   {
     "id": "1083",
@@ -3299,12 +3299,12 @@ export const georgiaChurches: Church[] = [
     "longitude": -81.7472,
     "phone": "(706) 278-5289",
     "website": "https://www.facebook.com/abundantlifebaptistchurch1",
-    "pastor": "WAYNE COFIELD",
+    "pastor": "DALTON GA 30721 SS 10,SM 11,SN 6,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE COFIELD. 811 J & J DR DALTON GA 30721 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "811 J & J DR DALTON GA 30721 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1084",
@@ -3322,7 +3322,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WINFORD. PO BOX 215 2134 DUG GAP RD DALTON GA 30722-0215 SS 10,SM 11,SN 6,W 7 MASTERS CLUB,TEEN,COUPLES,SINGLES, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "PO BOX 215 DALTON GA 30722-0215 SS 10,SM 11,SN 6,W 7 MASTERS CLUB,TEEN,COUPLES,SINGLES, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1085",
@@ -3340,12 +3340,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD GUFFEY. 198 PLEDGER ST LAFAYETTE GA 30728 KJB church."
+    "description": "LAFAYETTE GA 30728 KJB church"
   },
   {
     "id": "1086",
     "name": "ELEVENTH AVE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 921",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3358,7 +3358,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM LANE. PO BOX 921 2550 SOUTH BYPASS DALTON GA 30720 SS 10,SM 1045,SN 6,W DEAF,TEEN,SENIORS, REAL AUDIO SERMONS & SONGS ONLINE 351 HWY 96 W BONAIRE GA 31005 SS 10,SM 1045,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "2550 SOUTH BYPASS DALTON GA 30720 SS 10,SM 1045,SN 6,W DEAF,TEEN,SENIORS, REAL AUDIO SERMONS & SONGS ONLINE 351 HWY 96 W BONAIRE GA 31005 SS 10,SM 1045,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1087",
@@ -3377,7 +3377,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES SOWDEN. 13845 HWY 42 S BYRON GA 31008 SS 945,SM 1050,SN 6,W 7 PROPHETS CHAMBER, BUS, FRONTLINE CLUBS, SENIORS, TEEN, DEAF KJB,GA INDEPENDENT BAPTIST PO BOX 5042 328 PARKERS DAIRY RD DUBLIN GA 31021 SS 10,SM 1"
+    "description": "13845 HWY 42 S BYRON GA 31008 SS 945,SM 1050,SN 6,W 7 PROPHETS CHAMBER, BUS, FRONTLINE CLUBS, SENIORS, TEEN, DEAF KJB,GA INDEPENDENT BAPTIST PO BOX 5042 DUBLIN GA 31021 SS 10,SM 1"
   },
   {
     "id": "1088",
@@ -3395,7 +3395,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HARRELL D ROGERS. 2081 HWY 78 E MONROE GA 30656 SS 10,SM 11,SN 7,W 730 KJB church."
+    "description": "2081 HWY 78 E MONROE GA 30656 SS 10,SM 11,SN 7,W 730 KJB church"
   },
   {
     "id": "1089",
@@ -3415,12 +3415,12 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by KENNY HAMM. 1780 HWY 441 N DUBLIN GA 31021 SS 10,SM 11,SN 6,W 730 KJB,BJU 5687 HOUSTON RD MACON GA 31206 SS 945,SM 11,SN 6,W 7 ROBINS AFB 1406 AIRPORT RD HINESVILLE GA 31313 SS 945,SM 11,SN 6,W 7 BUS,KIDS FOR CHR"
+    "description": "1780 HWY 441 N DUBLIN GA 31021 SS 10,SM 11,SN 6,W 730 KJB,BJU MACON GA 31206 SS 945,SM 11,SN 6,W 7 ROBINS AFB 1406 AIRPORT RD HINESVILLE GA 31313 SS 945,SM 11,SN 6,W 7 BUS,KIDS FOR CHR"
   },
   {
     "id": "1090",
     "name": "GREATER VISION BAPTIST CHURCH",
-    "address": "135 NEW ERA RD",
+    "address": "1945 NEW HOPE RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3434,7 +3434,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GWYN HAYES. 135 NEW ERA RD AMERICUS GA 31709 SS 10,SM 11,SN 6,W 7 3224 HWY 84 E CAIRO GA 39828 1945 NEW HOPE RD LAWRENCEVILLE GA 30045 SM 11,SN 6,W 7 KJB,BBF 1209 GRAVE SPRINGS RD LEESBURG GA 31763 1209 GRAVES SP"
+    "description": "AMERICUS GA 31709 SS 10,SM 11,SN 6,W 7 3224 HWY 84 E CAIRO GA 39828 LAWRENCEVILLE GA 30045 SM 11,SN 6,W 7 KJB,BBF 1209 GRAVE SPRINGS RD LEESBURG GA 31763 1209 GRAVES SP"
   },
   {
     "id": "1091",
@@ -3452,7 +3452,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LANDON STREET. PO BOX 579 1717 OLD DOERUN RD MOULTRIE GA 31776 KJB church."
+    "description": "PO BOX 579 MOULTRIE GA 31776 KJB church"
   },
   {
     "id": "1092",
@@ -3470,12 +3470,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS GREEN. 1612 COLLINS HILL RD LAWRENCEVILLE GA 30043 SS 945,SM 11,SN 6,W 7 BUS, SERMONS ONLINE COLLINS HILL CHRISTIAN SCHOOL,PS-6 STATESBORO GA 30458 SS 10,SM 11,SN 5,TU 7 2600 GA HWY THOMASVILLE GA 31792 KJB church."
+    "description": "LAWRENCEVILLE GA 30043 SS 945,SM 11,SN 6,W 7 BUS, SERMONS ONLINE COLLINS HILL CHRISTIAN SCHOOL,PS-6 STATESBORO GA 30458 SS 10,SM 11,SN 5,TU 7 2600 GA HWY THOMASVILLE GA 31792 KJB church"
   },
   {
     "id": "1093",
     "name": "CAMDEN BAPTIST TEMPLE",
-    "address": "725 DOUGLAS DR",
+    "address": "725 DOUGLAS DR ST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3488,7 +3488,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID T JOHNSON. PO BOX 824 725 DOUGLAS DR ST MARYS GA 31558 PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 824 MARYS GA 31558 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1094",
@@ -3506,12 +3506,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J CRAIG HOLMES. PO BOX 56 9650 LEE RD 240 PHENIX CITY AL 36868-0056 FORTSON GA 31808 SS 10,SM 11,SN 630,W 7 CHRISTIAN SCHOOLK-12 FT BENNING KJB church."
+    "description": "PO BOX 56 PHENIX CITY AL 36868-0056 FORTSON GA 31808 SS 10,SM 11,SN 630,W 7 CHRISTIAN SCHOOLK-12 FT BENNING KJB church"
   },
   {
     "id": "1095",
     "name": "GILEAD BAPTIST CHURCH",
-    "address": "4800 IVERY DR",
+    "address": "7 GILEAD CHRIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3524,7 +3524,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARTIN FULLER. 4800 IVERY DR MACON GA 31206 SS 10,SM 11,SN 6,W 7 GILEAD CHRISTIAN ACADEMY,PS-12 GILEAD BIBLE INSTITUTE PROPHETS CHAMBER, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "MACON GA 31206 SS 10,SM 11,SN 6,W IAN ACADEMY,PS-12 GILEAD BIBLE INSTITUTE PROPHETS CHAMBER, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1096",
@@ -3542,12 +3542,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILLY INGRAM. PO BOX 23027 1014 QUACCO RD SAVANNAH GA 31409 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 23027 SAVANNAH GA 31409 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1097",
     "name": "CANAAN BAPTIST CHURCH",
-    "address": "5581 SALEM RD",
+    "address": "218 PHILLIPS CIR ROYST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3561,7 +3561,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAN S BAILEY. 5581 SALEM RD COVINGTON GA 30209 SS 10,SM 11,SN 6,W 730 MP3 AUDIO SERMONS ONLINE, DEAF,BUS,YOUTH,DRAMA, PO BOX 591 218 PHILLIPS CIR ROYSTON GA 30662 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED 927 GORDON"
+    "description": "COVINGTON GA 30209 SS 10,SM 11,SN 6,W 730 MP3 AUDIO SERMONS ONLINE, DEAF,BUS,YOUTH,DRAMA, PO BOX 591 ON GA 30662 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED 927 GORDON"
   },
   {
     "id": "1098",
@@ -3579,7 +3579,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH SMITH.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1099",
@@ -3592,13 +3592,13 @@ export const georgiaChurches: Church[] = [
     "longitude": -81.9746,
     "phone": "(229) 435-4080",
     "website": "http://www.pinebluffbaptist.net",
-    "pastor": "DAVID L COOPER",
+    "pastor": "MARIETTA GA 30066 SS 10,SM 11,SN 6,W 7 SERMONS ONLINE 1422 CR KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVID L COOPER. 499 PINEBLUFF RD ALBANY GA 31705 SS 945,SM 11,SN 630,W 7 JAIL,BUS,TEEN,CHILDRENS,CHOIR VENTURE OF FAITH CAMP PROPHETS CHAMBER 2025 EULA DR MARIETTA GA 30066 SS 10,SM 11,SN 6,W 7 SERMONS ONLINE 1422 CR KJB church."
+    "description": "ALBANY GA 31705 SS 945,SM 11,SN 630,W 7 JAIL,BUS,TEEN,CHILDRENS,CHOIR VENTURE OF FAITH CAMP PROPHETS CHAMBER 2025 EULA DR MARIETTA GA 30066 SS 10,SM 11,SN 6,W 7 SERMONS ONLINE 1422 CR KJB church"
   },
   {
     "id": "1100",
@@ -3616,7 +3616,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE BURRIS. 885 BEN ADAMS RD CHATSWORTH GA 30705 KJB church."
+    "description": "CHATSWORTH GA 30705 KJB church"
   },
   {
     "id": "1101",
@@ -3634,12 +3634,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY DUNN JR. 3227 FLAT SHOALS RD DECATUR GA 30034 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DECATUR GA 30034 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1102",
     "name": "GOSPEL LIGHT BAPTIST MISSION",
-    "address": "",
+    "address": "PO BOX 275",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3652,7 +3652,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL AYRES. PO BOX 275 HOGANSVILLE GA 30230 KJB church."
+    "description": "HOGANSVILLE GA 30230 KJB church"
   },
   {
     "id": "1103",
@@ -3671,7 +3671,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS MCPHERSON. 169 JACKSON RD MILLEDGEVILLE GA 31061 SS 945,SM 11,SN 6,W 7 KINGS KIDS KJB, NFSG-FELLOWSHIP"
+    "description": "MILLEDGEVILLE GA 31061 SS 945,SM 11,SN 6,W 7 KINGS KIDS KJB, NFSG-FELLOWSHIP"
   },
   {
     "id": "1104",
@@ -3689,12 +3689,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE PINION. 197 HOPEWELL RD MOULTRIE GA 31768 KJB church."
+    "description": "MOULTRIE GA 31768 KJB church"
   },
   {
     "id": "1105",
     "name": "ELIZABETH TERRACE BAPTIST CHURCH",
-    "address": "600 MOHAWK ST",
+    "address": "7 IGLESIA BAUTIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3708,7 +3708,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by F BARRIOS. 600 MOHAWK ST ROSSVILLE GA 30741 SS 945,SM 1050,SN 6,W 7 IGLESIA BAUTISTA EL TABERNACULO 678 STAGECOACH RD STOCKBRIDGE GA 30181 SS 945,SM 11,SN 6,W 7 KJB, BIMI"
+    "description": "ROSSVILLE GA 30741 SS 945,SM 1050,SN 6,W A EL TABERNACULO 678 STAGECOACH RD STOCKBRIDGE GA 30181 SS 945,SM 11,SN 6,W 7 KJB, BIMI"
   },
   {
     "id": "1106",
@@ -3726,12 +3726,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD KENNISON. PO BOX 737 889 PINEY RD TRENTON GA 30752 SS 10,SM 11,SN 6,W 645 AM 1420 RADIO,AWANA,WORD OF LIFE,DEAF, SENOIRS,RESCUE MISSION,CHOIR KJB church."
+    "description": "PO BOX 737 TRENTON GA 30752 SS 10,SM 11,SN 6,W 645 AM 1420 RADIO,AWANA,WORD OF LIFE,DEAF, SENOIRS,RESCUE MISSION,CHOIR KJB church"
   },
   {
     "id": "1107",
     "name": "SOUTHSIDE INDEPENDENT BAPTIST CHURCH",
-    "address": "336 LAMBS BRIDGE RD",
+    "address": "3988 POWDER SPRINGS RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3745,7 +3745,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JUSTIN HAYLES. 336 LAMBS BRIDGE RD SWAINSBORO GA 30401 SUMMERTOWN AREA SS 10,SM 11,SN 730,W 730 3988 POWDER SPRINGS RD POWDER SPRINGS GA 30127 SS 10,SM 11,SN 6,W 730 20732 US HWY 441 S COMMERCE GA 46226 KJB church."
+    "description": "SWAINSBORO GA 30401 SUMMERTOWN AREA SS 10,SM 11,SN 730,W 730 POWDER SPRINGS GA 30127 SS 10,SM 11,SN 6,W 730 20732 US HWY 441 S COMMERCE GA 46226 KJB church"
   },
   {
     "id": "1108",
@@ -3765,7 +3765,7 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by KEN ANDERSON. 5407 HUBERT STEPHENS RD MURRAYVILLE GA 30564 GAINESVILLE SS 945,SM 1045,SN 6,W 7 FAITH BIBLE INSTITUTE MP3 AUDIO SERMONS & MUSIC ONLINE, DEAF,SINGLES,AWANA,MISSIONS,SOULWINNING 3125 ANTIOCH CAMPGROUND KJB church."
+    "description": "MURRAYVILLE GA 30564 GAINESVILLE SS 945,SM 1045,SN 6,W 7 FAITH BIBLE INSTITUTE MP3 AUDIO SERMONS & MUSIC ONLINE, DEAF,SINGLES,AWANA,MISSIONS,SOULWINNING 3125 ANTIOCH CAMPGROUND KJB church"
   },
   {
     "id": "1109",
@@ -3783,7 +3783,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARTY WALKER. 508 PEACHTREE ST CHATSWORTH GA 30705 612 W MAIN ST CLAXTON GA 30417 SS 945,SM 11 FORT STEWART 30 MILES KJB church."
+    "description": "CHATSWORTH GA 30705 612 W MAIN ST CLAXTON GA 30417 SS 945,SM 11 FORT STEWART 30 MILES KJB church"
   },
   {
     "id": "1110",
@@ -3801,7 +3801,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARLTON SHELTON. 1134 HARDGROVE LAKE RD COLBERT GA 30628 SM 11,SN 6 AUDIO SERMONS ONLINE KJB church."
+    "description": "COLBERT GA 30628 SM 11,SN 6 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1111",
@@ -3819,7 +3819,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HAROLD THOMSON. 1930 ELDER RD HIGH SHOALS GA 30645 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HIGH SHOALS GA 30645 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1112",
@@ -3837,7 +3837,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBBIE BLACK. 951 UNION HILL CHURCH RD HILLSBORO GA 31038 KJB church."
+    "description": "HILLSBORO GA 31038 KJB church"
   },
   {
     "id": "1113",
@@ -3857,12 +3857,12 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RON CERTAIN. 4921 JACKSON TRL RD HOSCHTON GA 30549 SS 945,SM 11,SN 6,W 7 KJB,UNAFFILIATED PO BOX 638 700 HARTWELL RD LAVONIA GA 30553 SS 10,SM 11,SN 6,W 7 BUS,SOULWINNING,VISITATION COAST GUARD BASE NEARBY 287 FOR"
+    "description": "HOSCHTON GA 30549 SS 945,SM 11,SN 6,W 7 KJB,UNAFFILIATED PO BOX 638 700 HARTWELL RD LAVONIA GA 30553 SS 10,SM 11,SN 6,W 7 BUS,SOULWINNING,VISITATION COAST GUARD BASE NEARBY 287 FOR"
   },
   {
     "id": "1114",
     "name": "TEMPLE MISSIONARY BAPTIST CHURCH",
-    "address": "1618 LYMAN ST",
+    "address": "24 FAITH CHURCH RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3878,7 +3878,7 @@ export const georgiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by EMORY ALEXANDER. 1618 LYMAN ST GAINESVILLE GA 30103 SS 10,SM 11,SN 5,W 7 PO BOX 783 24 FAITH CHURCH RD BLAIRSVILLE GA 30512 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE 1906 STREAK HILL RD HIAWASSEE GA 30546 SS 10 SM 11 KJB church."
+    "description": "GAINESVILLE GA 30103 SS 10,SM 11,SN 5,W 7 PO BOX 783 BLAIRSVILLE GA 30512 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE 1906 STREAK HILL RD HIAWASSEE GA 30546 SS 10 SM 11 KJB church"
   },
   {
     "id": "1115",
@@ -3896,12 +3896,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD C PROSSER. 3951 SIMON RD DOUGLASVILLE GA 301135 SS 10,SM 11,SN 630,W 730 RADIO,COUPLES,DEAF,TAPE,YOUTH KJB,ABBC,PCC,BJU"
+    "description": "DOUGLASVILLE GA 301135 SS 10,SM 11,SN 630,W 730 RADIO,COUPLES,DEAF,TAPE,YOUTH KJB,ABBC,PCC,BJU"
   },
   {
     "id": "1116",
     "name": "THE PROVIDENCE BAPTIST CHURCH",
-    "address": "3850 WRIGHTSBORO RD",
+    "address": "3850 WRIGHTSBORO RD AUGUST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3915,12 +3915,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RONNY TAYLOR. 3850 WRIGHTSBORO RD AUGUSTA GA 30909 SS 930,SM 1030,SN 6,W 730 YOUTH, PROPHETS CHAMBER, VIDEO SERVICES ONLINE LIVE & ARCHIVED CHRISTIAN SCHOOL BIBLE COLLEGE FORT GORDON KJB,BBF,SOUTHWIDE PO BOX 305 LA"
+    "description": "A GA 30909 SS 930,SM 1030,SN 6,W 730 YOUTH, PROPHETS CHAMBER, VIDEO SERVICES ONLINE LIVE & ARCHIVED CHRISTIAN SCHOOL BIBLE COLLEGE FORT GORDON KJB,BBF,SOUTHWIDE PO BOX 305 LA"
   },
   {
     "id": "1117",
     "name": "FLOYD RD BAPTIST CHURCH",
-    "address": "3996 FLOYD RD",
+    "address": "3996 FLOYD RD AUST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3935,7 +3935,7 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by RICARDO VIELMAS. 3996 FLOYD RD AUSTELL GA 30001 SS 945,SM 1045,SN 6,W 730 CHOIR,TEEN,SENIORS,AWANA IGLESIA BAUTISTA LIBERTAD PO BOX 7431 CHESTNUT MOUNTAIN GA 30502 2143 SPRING RD GAINESVILLE GA 30504 SM 10,SN 6,W 7 KJ KJB church."
+    "description": "ELL GA 30001 SS 945,SM 1045,SN 6,W 730 CHOIR,TEEN,SENIORS,AWANA IGLESIA BAUTISTA LIBERTAD PO BOX 7431 CHESTNUT MOUNTAIN GA 30502 2143 SPRING RD GAINESVILLE GA 30504 SM 10,SN 6,W 7 KJ KJB church"
   },
   {
     "id": "1118",
@@ -3954,7 +3954,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE CORLEY. 1761 CAMP CREEK RD CORNELIA GA 30531 SS 945,SM 1045,SN 630, W 7 BUS, AWANA KJB, BBF 6510 WATERS AVE SAVANNAH GA 31406 SS 10, SM 11"
+    "description": "CORNELIA GA 30531 SS 945,SM 1045,SN 630, W 7 BUS, AWANA KJB, BBF 6510 WATERS AVE SAVANNAH GA 31406 SS 10, SM 11"
   },
   {
     "id": "1119",
@@ -3973,12 +3973,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DARRON MONCUS. 1601 GLENWOOD DR THOMASVILLE GA  31792-3897 SS 945,SM 11,SN 6,W 7 KJB, BBF 3151 PEACH PKWY FORT VALLEY GA 31030 SS 10,SM 11,SN 630,W 7 TEEN, SENIORS, LADIES, PROPHETS CHAMBER KJB,BBFI,GBBF"
+    "description": "THOMASVILLE GA 31792-3897 SS 945,SM 11,SN 6,W 7 KJB, BBF 3151 PEACH PKWY FORT VALLEY GA 31030 SS 10,SM 11,SN 630,W 7 TEEN, SENIORS, LADIES, PROPHETS CHAMBER KJB,BBFI,GBBF"
   },
   {
     "id": "1120",
     "name": "LUMPKIN RD BAPTIST CHURCH",
-    "address": "2540 LUMPKIN RD",
+    "address": "2540 LUMPKIN RD AUGUST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -3993,12 +3993,12 @@ export const georgiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by BRIAN PATRICK. 2540 LUMPKIN RD AUGUSTA GA 30906 SS 10,SM 11,SN 6,W 730 AWANA,CHOIR, FORT GORDON CALVARY’S GRACE BAPTIST CHURCH 777 HWY 280 AILEY GA 30410 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS KJV,BBF KJB church."
+    "description": "A GA 30906 SS 10,SM 11,SN 6,W 730 AWANA,CHOIR, FORT GORDON CALVARY’S GRACE BAPTIST CHURCH 777 HWY 280 AILEY GA 30410 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS KJV,BBF KJB church"
   },
   {
     "id": "1121",
     "name": "SOUTHGATE BAPTIST CHURCH",
-    "address": "2226 PEACH ORCHARD RD",
+    "address": "2226 PEACH ORCHARD RD AUGUST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4011,12 +4011,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICKEY B WISEHART. PO BOX 5130 2226 PEACH ORCHARD RD AUGUSTA GA 30906 SS ,SM 11,SN ,W 7 AWANA,TEENS, FORT GORDON 2700 N FORREST ST VALDOSTA GA 31602 SS 945,SM 11,SN 630,W 730 TEEN,PATCH PIRATE FAITH CHRISTIAN ACADEMY,PS KJB church."
+    "description": "PO BOX 5130 A GA 30906 SS ,SM 11,SN ,W 7 AWANA,TEENS, FORT GORDON 2700 N FORREST ST VALDOSTA GA 31602 SS 945,SM 11,SN 630,W 730 TEEN,PATCH PIRATE FAITH CHRISTIAN ACADEMY,PS KJB church"
   },
   {
     "id": "1122",
     "name": "GWINNETT COUNTY BAPTIST CHURCH",
-    "address": "2964 VINSON CT",
+    "address": "2964 VINSON CT BUFORD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4030,7 +4030,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JASON ANGLIN. 2964 VINSON CT BUFORD GA 50318 Near SUWANEE SS 10,SM 11,SN 6,W 7 AWANA, FAITH PROMISE, SOULWINNING KJB church."
+    "description": "GA 50318 Near SUWANEE SS 10,SM 11,SN 6,W 7 AWANA, FAITH PROMISE, SOULWINNING KJB church"
   },
   {
     "id": "1123",
@@ -4048,7 +4048,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "1051 AUBURN RD DACULA GA 30211 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DACULA GA 30211 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1124",
@@ -4061,12 +4061,12 @@ export const georgiaChurches: Church[] = [
     "longitude": -83.09,
     "phone": "(229) 246-2218",
     "website": "",
-    "pastor": "MIKE SOOP",
+    "pastor": "KJB,RUCKMAN PO BOX 76 BLACK CREEK GA 31308",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE SOOP. 179 OLD PELHAM RD BAINBRIDGE GA 39817-8121 NEEDS PASTOR KJB,RUCKMAN PO BOX 76 BLACK CREEK GA 31308"
+    "description": "BAINBRIDGE GA 39817-8121 NEEDS"
   },
   {
     "id": "1125",
@@ -4084,7 +4084,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MIKE HAMMOND. 922 HI-HOPE RD LAWRENCEVILLE GA 30045 SS 945,SM 1045,SN 6,W 7 SERMONS ONLINE 814 HAMPTON RD MCDONOUGH GA 30251 LUTHERSVILLE GA SM 11,SN 6,W 7 PO BOX 705 261 COBB ST JEFFERSON GA 30547"
+    "description": "LAWRENCEVILLE GA 30045 SS 945,SM 1045,SN 6,W 7 SERMONS ONLINE 814 HAMPTON RD MCDONOUGH GA 30251 LUTHERSVILLE GA SM 11,SN 6,W 7 PO BOX 705 261 COBB ST JEFFERSON GA 30547"
   },
   {
     "id": "1126",
@@ -4107,7 +4107,7 @@ export const georgiaChurches: Church[] = [
   {
     "id": "1127",
     "name": "LAKEMONT BAPTIST CHURCH",
-    "address": "608 W WOLF CREEK RD",
+    "address": "505 N HOUSTON LAKE BLVD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4120,7 +4120,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MATT OLSEN. PO BOX 546 608 W WOLF CREEK RD LAKEMONT GA 30552 505 N HOUSTON LAKE BLVD CENTERVILLE GA 31028 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 546 LAKEMONT GA 30552 CENTERVILLE GA 31028 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1128",
@@ -4139,12 +4139,12 @@ export const georgiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by ALVIE BRINKLEY. 5000 COOL SPRINGS RD GAINESVILLE GA 30506 35 LEADER RD MARIETTA GA 30060 Non-KJV church."
+    "description": "GAINESVILLE GA 30506 35 LEADER RD MARIETTA GA 30060 Non-KJV church"
   },
   {
     "id": "1129",
     "name": "SOUTHSIDE BAPTIST CHURCH",
-    "address": "301 BRUNEL ST",
+    "address": "301 BRUNEL ST WAY",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4158,12 +4158,12 @@ export const georgiaChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by DONNIE DURRANCE. 301 BRUNEL ST WAYCROSS GA 31502 SS 930,SM 1030,SN 630,W 7 BUS,DEAF,CHOIRS SOUTHSIDE CHRISTIAN SCHOOL,K3-12,GAPSAC BBF church."
+    "description": "CROSS GA 31502 SS 930,SM 1030,SN 630,W 7 BUS,DEAF,CHOIRS SOUTHSIDE CHRISTIAN SCHOOL,K3-12,GAPSAC BBF church"
   },
   {
     "id": "1130",
     "name": "SUNNYSIDE BAPTIST CHURCH",
-    "address": "2009 NEAL ST",
+    "address": "2009 NEAL ST WAY",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4176,7 +4176,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by W A SEAWELL JR. PO BOX 378 2009 NEAL ST WAYCROSS GA 31502 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 378 CROSS GA 31502 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1131",
@@ -4195,7 +4195,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVE PICK. RT 1 GATE RD THOMASVILLE GA 27360 NOT KJV ONLY,BBF,CONTEMPORARY KJB church."
+    "description": "THOMASVILLE GA 27360 NOT KJV ONLY,BBF,CONTEMPORARY KJB church"
   },
   {
     "id": "1132",
@@ -4232,7 +4232,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SCOTT CRAMER. KJB,CCM 1375 NEW HOPE RD SE LAWRENCEVILLE GA 30045-6545 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,BBF"
+    "description": "KJB,CCM LAWRENCEVILLE GA 30045-6545 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,BBF"
   },
   {
     "id": "1134",
@@ -4251,12 +4251,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREG A BUTLER. PO BOX 337 2410 PATTERSON THOMASVILLE GA 31799 NOT KJV ONLY,WOL PO BOX 1024 1108 OLD MADISION/MONROE RD MONROE GA 30655 POPLAR ST & OLD MADISON HWY SS 10,SM 11,SN 630,W 730 CHOIR,ORCHESTRA,KINGS KIDS, KJB church."
+    "description": "PO BOX 337 2410 PATTERSON THOMASVILLE GA 31799 NOT KJV ONLY,WOL PO BOX 1024 1108 OLD MADISION/MONROE RD MONROE GA 30655 POPLAR ST & OLD MADISON HWY SS 10,SM 11,SN 630,W 730 CHOIR,ORCHESTRA,KINGS KIDS, KJB church"
   },
   {
     "id": "1135",
     "name": "BIBLE BAPTIST SCHOOL",
-    "address": "1020 S MADISON AVE",
+    "address": "730 PATCH THE PIRATES CLUB THOUGH WE USE THE KJV EXCLUSIVELY IN OUR MINIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4269,7 +4269,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN SMALLWOOD. PREACH-KJV,NOT KJV ONLY,BJU PO BOX 1301 1020 S MADISON AVE MONROE GA 30655 SS 945,SM 11,SN 6,W 730 PATCH THE PIRATES CLUB THOUGH WE USE THE KJV EXCLUSIVELY IN OUR MINISTRIES, WE ARE NOT KJV ONLY KJB,C"
+    "description": "PREACH-KJV,NOT KJV ONLY,BJU PO BOX 1301 MONROE GA 30655 SS 945,SM 11,SN 6,W RIES, WE ARE NOT KJV ONLY KJB,C"
   },
   {
     "id": "1136",
@@ -4287,12 +4287,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE ANDERSON. 2433 BROWNSVILLE RD POWDER SPRINGS GA 30127 SS 10,SM 11,SN 6,W 7 KJB,LORDSHIP SALVATION,S.GRACE"
+    "description": "POWDER SPRINGS GA 30127 SS 10,SM 11,SN 6,W 7 KJB,LORDSHIP SALVATION,S.GRACE"
   },
   {
     "id": "1137",
     "name": "NEW HOPE INDEPENDENT BAPTIST",
-    "address": "1114 PALMETTO DR",
+    "address": "1114 PALMETTO DR ST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4306,12 +4306,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHARLES L ALLIGOOD. 1114 PALMETTO DR ST MARYS GA 31558 SS 10,SM 11,SN 7, KJB,S.GRACE-TULIP"
+    "description": "MARYS GA 31558 SS 10,SM 11,SN 7, KJB,S.GRACE-TULIP"
   },
   {
     "id": "1138",
     "name": "GRACE BAPTIST CHURCH OF FLOWERY BRANCH",
-    "address": "",
+    "address": "PO BOX 1420",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4325,7 +4325,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JEFF APPLING. 5315 ATLANTA HWY PO BOX 1420 FLOWERY BRANCH GA 30542 NOT KJV ONLY,NLT,GN,NIV KJB church."
+    "description": "5315 ATLANTA HWY FLOWERY BRANCH GA 30542 NOT KJV ONLY,NLT,GN,NIV KJB church"
   },
   {
     "id": "1139",
@@ -4343,7 +4343,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JODY EVERETT. 1702 GROVE LEVEL RD MAYSVILLE GA 30558 BUS,SINGLES BIBLE INSTITUTE"
+    "description": "MAYSVILLE GA 30558 BUS,SINGLES BIBLE INSTITUTE"
   },
   {
     "id": "1140",
@@ -4361,7 +4361,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1868 AZALEA RD LAWRENCEVILLE GA 30045 SS 10,SM 11,SN 6,W 7 CHOIR,YOUTH,TEENS,MEN & LADIES BIBLE STUDY,"
+    "description": "LAWRENCEVILLE GA 30045 SS 10,SM 11,SN 6,W 7 CHOIR,YOUTH,TEENS,MEN & LADIES BIBLE STUDY"
   },
   {
     "id": "1141",
@@ -4379,7 +4379,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RAY SMITH. NRSV,FBF,GARBC"
+    "description": "NRSV,FBF,GARBC"
   },
   {
     "id": "1142",
@@ -4397,12 +4397,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by ED ELLIOT. 1663 BOULDERCREST RD DECATUR GA 30034 SS 950,SM 11,SNBS 530,SN 630,W 730 SOULWINNING S.GRACE"
+    "description": "DECATUR GA 30034 SS 950,SM 11,SNBS 530,SN 630,W 730 SOULWINNING S.GRACE"
   },
   {
     "id": "1143",
     "name": "ALVATON BAPTIST CHURCH",
-    "address": "5275 ALVATON RD",
+    "address": "30218 NEEDS PAST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4416,7 +4416,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROD BELL JR. 5275 ALVATON RD ALVATON GA 30218 NEEDS PASTOR S.GRACE, BBF 8614 WHITFIELD AVE SAVANNAH GA 31406 PREACH KJV, OTHERS USED FOR REFERENCE, TABERNACLE-BBC, BJU 5135 McEVER RD OAKWOOD GA 30566 SS 945,SM  10 KJB church."
+    "description": "ALVATON GA 30218 NEEDS GRACE, BBF 8614 WHITFIELD AVE SAVANNAH GA 31406 PREACH KJV, OTHERS USED FOR REFERENCE, TABERNACLE-BBC, BJU 5135 McEVER RD OAKWOOD GA 30566 SS 945,SM 10 KJB church"
   },
   {
     "id": "1144",
@@ -4435,7 +4435,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CHRISTOPHER HOLDEN. OLD PAVO RD MOULTRIE GA 31768 KJB,CCM 889 GA Hwy 24 STATESBORO GA 30458 SS 10,SM 11,SN 6,W 7 DOBBINS AFB 1 HOUR"
+    "description": "OLD PAVO RD MOULTRIE GA 31768 KJB,CCM 889 GA Hwy 24 STATESBORO GA 30458 SS 10,SM 11,SN 6,W 7 DOBBINS AFB 1 HOUR"
   },
   {
     "id": "1145",
@@ -4454,12 +4454,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PAUL W DOWNEY. 137 HIGHTOWER RD BALL GROUND GA 30107 CANTON AREA SS 10,SM 11,SN 6,W 7 NOT KJV ONLY,BBF 2725 CHROKEE RD ATHENS GA 30605 SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE PREACH-KJV,BJU,FBF KJB church."
+    "description": "BALL GROUND GA 30107 CANTON AREA SS 10,SM 11,SN 6,W 7 NOT KJV ONLY,BBF 2725 CHROKEE RD ATHENS GA 30605 SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE PREACH-KJV,BJU,FBF KJB church"
   },
   {
     "id": "1146",
     "name": "MCEVER RD BAPTIST CHURCH",
-    "address": "5135 MCEVER RD",
+    "address": "7 MARANATHA CHRIST",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4472,7 +4472,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WYNNE KIMBROUGH. 5135 MCEVER RD, PO BOX 877 OAKWOOD GA 30566 SS 945,SM 1045,SN 6,W 7 MARANATHA CHRISTIAN ACADEMY,ABEKA,BJUP,ACE,PS-12 NOT KJV ONLY,MACARTHUR 2980 OLD PEACHTREE RD DACULA GA  30515 SS 930,SM 1030,SN 115 KJB church."
+    "description": "PO BOX 877 OAKWOOD GA 30566 SS 945,SM 1045,SN 6,W IAN ACADEMY,ABEKA,BJUP,ACE,PS-12 NOT KJV ONLY,MACARTHUR 2980 OLD PEACHTREE RD DACULA GA 30515 SS 930,SM 1030,SN 115 KJB church"
   },
   {
     "id": "1147",
@@ -4491,7 +4491,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by VICTOR BLEDSOE. 1080 BETHANY CHURCH RD MADISON GA 30650 BBF,NOT KJV ONLY KJB church."
+    "description": "MADISON GA 30650 BBF,NOT KJV ONLY KJB church"
   },
   {
     "id": "1148",
@@ -4509,12 +4509,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES KEKOKER. 75 HAWKINGS STORE RD 260 HAWKINS STORE RD (SCHOOL?) KENNESAW GA 30144 SS 10,SM 11,SN 630,W 7 KJB,CCM"
+    "description": "260 HAWKINS STORE RD (SCHOOL?) KENNESAW GA 30144 SS 10,SM 11,SN 630,W 7 KJB,CCM"
   },
   {
     "id": "1149",
     "name": "OAKLAND HEIGHTS BAPTIST CHURCH",
-    "address": "16 HIGHLAND WAY NE",
+    "address": "825 DANIELSVILLE RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4528,7 +4528,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by FLOYD V MCKEEL. PO BOX 200904 CARTERSVILLE GA 30120 16 HIGHLAND WAY NE SS 10,SM 11,SN 6,W 630 CHOIR, CHILDRENS BREAKFAST WITH SANTA IN DEC, AUDIO SERMONS NOT KJV ONLY 825 DANIELSVILLE RD ATHENS GA 30601 SS 10,SM 11,S KJB church."
+    "description": "PO BOX 200904 CARTERSVILLE GA 30120 SS 10,SM 11,SN 6,W 630 CHOIR, CHILDRENS BREAKFAST WITH SANTA IN DEC, AUDIO SERMONS NOT KJV ONLY ATHENS GA 30601 SS 10,SM 11,S KJB church"
   },
   {
     "id": "1150",
@@ -4541,12 +4541,12 @@ export const georgiaChurches: Church[] = [
     "longitude": -84.1575,
     "phone": "(770) 963-6600",
     "website": "http://www.daculafirstbaptist.org",
-    "pastor": "EFTON GREEN",
+    "pastor": "BJU,NOT KJV ONLY KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EFTON GREEN. 2534 WINDER HWY DACULA GA 30211-2240 SS 930,SM 1045,SN 6,W 7 AWANA,CHOIR NOT KJV ONLY 607 AIMWELL RD VIDALIA GA 30434 2001 MURRAY DR BJU,NOT KJV ONLY KJB church."
+    "description": "2534 WINDER HWY DACULA GA 30211-2240 SS 930,SM 1045,SN 6,W 7 AWANA,CHOIR NOT KJV ONLY VIDALIA GA 30434 2001 MURRAY DR BJU,NOT KJV ONLY KJB church"
   },
   {
     "id": "1151",
@@ -4564,12 +4564,12 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG DAVIS. 2411 VULCAN DR LITHIA SPRINGS GA 30057 SM 10,SS 10,SN 6,W 7 NOT KJV ONLY,FBF KJB church."
+    "description": "LITHIA SPRINGS GA 30057 SM 10,SS 10,SN 6,W 7 NOT KJV ONLY,FBF KJB church"
   },
   {
     "id": "1152",
     "name": "HURST BAPTIST CHURCH",
-    "address": "769 HURST CHURCH RD",
+    "address": "7439 W COUNTY LINE RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4582,7 +4582,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES ARNETT. 769 HURST CHURCH RD SYLVANIA GA 30467 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE NOT KJV ONLY 7439 W COUNTY LINE RD LULA GA 30554 PREACH-KJV,NOT KJV ONLY,BJU,FBF 204 S PLEASANT HILL RD WARNER ROBIN KJB church."
+    "description": "SYLVANIA GA 30467 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE NOT KJV ONLY LULA GA 30554 PREACH-KJV,NOT KJV ONLY,BJU,FBF 204 S PLEASANT HILL RD WARNER ROBIN KJB church"
   },
   {
     "id": "1153",
@@ -4600,7 +4600,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE WIMBERLY. 1746 HWY 138 SE JONESBORO GA 30236 NOT KJV ONLY,CCM,CONTEMPORARY SERVICES KJB church."
+    "description": "1746 HWY 138 SE JONESBORO GA 30236 NOT KJV ONLY,CCM,CONTEMPORARY SERVICES KJB church"
   },
   {
     "id": "1154",
@@ -4619,12 +4619,12 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT B PEACOCK. 905 MAPLE ST CARROLLTON GA 30117 SS 9,SM 1030,W 7 NOT KJV ONLY,CCM,BBF KJB church."
+    "description": "CARROLLTON GA 30117 SS 9,SM 1030,W 7 NOT KJV ONLY,CCM,BBF KJB church"
   },
   {
     "id": "1155",
     "name": "SOUTHWEST BAPTIST CHURCH",
-    "address": "831 LITTLE NECK RD",
+    "address": "261 FLOWING WELLS RD",
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "",
@@ -4638,7 +4638,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT J LEHN. 831 LITTLE NECK RD SAVANNAH GA 31405 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,MBBC,BJU,MCCARTHUR 261 FLOWING WELLS RD MARTINEZ A 30907 SS 9, SM 10, SN 5, W 7 RESCUE MISSION, PRISON, AWANA, SERMONS ONLINE, KJB church."
+    "description": "SAVANNAH GA 31405 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,MBBC,BJU,MCCARTHUR MARTINEZ A 30907 SS 9, SM 10, SN 5, W 7 RESCUE MISSION, PRISON, AWANA, SERMONS ONLINE, KJB church"
   },
   {
     "id": "1156",
@@ -4657,7 +4657,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by TOM MORGAN. 11250 CRABAPPLE RD ROSWELL GA 30075 SS 9,SM 1030,SN 6,W 6 NOT KJV ONLY,GARBC KJB church."
+    "description": "ROSWELL GA 30075 SS 9,SM 1030,SN 6,W 6 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1157",
@@ -4675,7 +4675,7 @@ export const georgiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3149 OLD ATLANTA RD SUWANEE GA 30024 SS 945,SM 11,SN 6,W 730 BUS,DEAF,SPANISH,PRISON"
+    "description": "SUWANEE GA 30024 SS 945,SM 11,SN 6,W 730 BUS,DEAF,SPANISH,PRISON"
   },
   {
     "id": "1158",
@@ -4694,7 +4694,7 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY ROSBROOK. KJV-PREACHED & RECOM,UNAFFILIATED,S.GRACE-TULIP KJB church."
+    "description": "KJV-PREACHED & RECOM,UNAFFILIATED,S.GRACE-TULIP KJB church"
   },
   {
     "id": "1159",
@@ -4713,6 +4713,6 @@ export const georgiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TRENT CORNWELL. PO BOX 1563 521 HWY 41 S PERRY GA 31069 3/4 Mile off I-75 for all travelers N & S SS 10,SM 11,SN BS 6,SN 7,W 730 15 MILES FROM ROBBINS AFB KJB,UNAFFILIATED PO BOX 442 1225 OLD ALPHARETTA HWY ALPHARETT"
+    "description": "PO BOX 1563 521 HWY 41 S PERRY GA 31069 SS 10,SM 11,SN BS 6,SN 7,W 730 15 MILES FROM ROBBINS AFB KJB,UNAFFILIATED PO BOX 442 1225 OLD ALPHARETTA HWY ALPHARETT"
   }
 ];

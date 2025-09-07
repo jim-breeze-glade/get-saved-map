@@ -39,7 +39,7 @@ const createCustomIcon = (color: string) => {
   });
 };
 
-// Component to fit map bounds to markers
+// Component to fit map bounds to markers with better zoom handling
 const MapBounds: React.FC<{ churches: Church[] }> = ({ churches }) => {
   const map = useMap();
 
@@ -48,7 +48,28 @@ const MapBounds: React.FC<{ churches: Church[] }> = ({ churches }) => {
       const bounds = L.latLngBounds(
         churches.map(church => [church.latitude, church.longitude])
       );
-      map.fitBounds(bounds, { padding: [20, 20] });
+      
+      // Calculate the area to determine appropriate zoom settings
+      const latSpan = bounds.getNorth() - bounds.getSouth();
+      const lngSpan = bounds.getEast() - bounds.getWest();
+      
+      // Dynamic padding based on the spread of churches
+      let padding = [20, 20];
+      if (latSpan > 8 || lngSpan > 8) {
+        // Large states like California, Texas - use more padding
+        padding = [50, 50];
+      } else if (latSpan < 2 && lngSpan < 2) {
+        // Small states like Delaware, Rhode Island - use less padding
+        padding = [10, 10];
+      }
+      
+      // Set max zoom to prevent over-zooming on single churches
+      const maxZoom = churches.length === 1 ? 10 : 12;
+      
+      map.fitBounds(bounds, { 
+        padding: padding,
+        maxZoom: maxZoom 
+      });
     }
   }, [churches, map]);
 
@@ -60,8 +81,15 @@ const ChurchMap: React.FC<ChurchMapProps> = ({
   selectedChurch, 
   onChurchSelect 
 }) => {
-  // Arkansas center coordinates
-  const arkansasCenter: [number, number] = [34.7465, -92.2896];
+  // Calculate center based on churches or use US center as fallback
+  const mapCenter: [number, number] = useMemo(() => {
+    if (churches.length > 0) {
+      const latSum = churches.reduce((sum, church) => sum + church.latitude, 0);
+      const lngSum = churches.reduce((sum, church) => sum + church.longitude, 0);
+      return [latSum / churches.length, lngSum / churches.length];
+    }
+    return [39.8283, -98.5795]; // Center of US
+  }, [churches]);
 
   // Memoize markers for performance
   const markers = useMemo(() => {
@@ -133,8 +161,8 @@ const ChurchMap: React.FC<ChurchMapProps> = ({
   return (
     <div className="church-map-container">
       <MapContainer
-        center={arkansasCenter}
-        zoom={7}
+        center={mapCenter}
+        zoom={churches.length > 0 ? 6 : 4}
         style={{ height: '100%', width: '100%' }}
         className="church-map"
       >

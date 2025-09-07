@@ -17,7 +17,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRETT REITENBACH. 40 SUMMER ST FITCHBURG MA 01420 SS 10,SM 11,SN 6,W 6 KJB church."
+    "description": "FITCHBURG MA 01420 SS 10,SM 11,SN 6,W 6 KJB church"
   },
   {
     "id": "2124",
@@ -35,7 +35,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH RIZZUTI JR. PO BOX 1078 138 MAIN ST GREENFIELD MA 0130 SS 930,SM 1030,SN 6,W 630 AUDIO SERMONS KJB church."
+    "description": "PO BOX 1078 GREENFIELD MA 0130 SS 930,SM 1030,SN 6,W 630 AUDIO SERMONS KJB church"
   },
   {
     "id": "2125",
@@ -53,7 +53,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID COOPER SR. 889 SOUTHBRIDGE ST AUBURN MA 01501 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "AUBURN MA 01501 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "2126",
@@ -71,7 +71,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN BROCK. 261 TREMONT ST TAUNTON MA 02780-2495 SS 930,SM 1030,SN 6,W 7 TEEN, YOUTH, DEAF KJB church."
+    "description": "TAUNTON MA 02780-2495 SS 930,SM 1030,SN 6,W 7 TEEN, YOUTH, DEAF KJB church"
   },
   {
     "id": "2127",
@@ -89,12 +89,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM RIVEIRO. 61 BRIDGE ST SALEM MA 01970 SS 10, SM 11, SN 6, TH 7 KJB, GIBF, HBBC"
+    "description": "SALEM MA 01970 SS 10, SM 11, SN 6, TH 7 KJB, GIBF, HBBC"
   },
   {
     "id": "2128",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "800 WASHINGTON ST",
+    "address": "800 WASHINGTON ST EAST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -109,7 +109,7 @@ export const massachusettsChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BRIAN CRUMP. 800 WASHINGTON ST EASTON MA 02375 SS 10,SM 11,SN 5,W 7 SOULWINNING, VAN ROUTE KJB, UNAFFILIATED"
+    "description": "ON MA 02375 SS 10,SM 11,SN 5,W 7 SOULWINNING, VAN ROUTE KJB, UNAFFILIATED"
   },
   {
     "id": "2129",
@@ -129,7 +129,7 @@ export const massachusettsChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RICHARD REID. PO BOX 434 217 CENTRE ST HOLBROOK MA 02343 SS 10,SM 11,SN 6,W 7 SOULWINNING; LIGHTHOUSE BAPTIST CHRISTIAN ACADEMY,K4-12; H.O.P.E FOR ADDICTIONS, FN 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 434 HOLBROOK MA 02343 SS 10,SM 11,SN 6,W 7 SOULWINNING; LIGHTHOUSE BAPTIST CHRISTIAN ACADEMY,K4-12; H.O.P.E FOR ADDICTIONS, FN 7 KJB,UNAFFILIATED"
   },
   {
     "id": "2130",
@@ -138,8 +138,8 @@ export const massachusettsChurches: Church[] = [
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 43.0453,
-    "longitude": -70.7101,
+    "latitude": 42.6217,
+    "longitude": -69.9146,
     "phone": "(508) 580-1400",
     "website": "http://www.jesussavesinbrockton.com",
     "pastor": "DANIEL HERR",
@@ -147,12 +147,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL HERR. 899 N MAIN ST BROCKTON MA 02401 SM 11,SN 230,W 7 SEPARATED CONSERVATIVE MUSIC ONLY KJB church."
+    "description": "BROCKTON MA 02401 SM 11,SN 230,W 7 SEPARATED CONSERVATIVE MUSIC ONLY KJB church"
   },
   {
     "id": "2131",
     "name": "CHESTER BAPTIST CHURCH",
-    "address": "15 RIVER FRONT ST",
+    "address": "15 RIVER FRONT ST CHEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -166,7 +166,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DOUG MANN. PO BOX 94 15 RIVER FRONT ST CHESTER MA 01011 SS 945,SM 1045,SN 6,W 630 SOULWINNING KJB church."
+    "description": "PO BOX 94 ER MA 01011 SS 945,SM 1045,SN 6,W 630 SOULWINNING KJB church"
   },
   {
     "id": "2132",
@@ -184,7 +184,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE K FISHER. PO BOX 257 190 PLEASANT ST RT 102 LEE MA 01238 SS 945,SM 11,SN 2,W 630 KJB church."
+    "description": "PO BOX 257 LEE MA 01238 SS 945,SM 11,SN 2,W 630 KJB church"
   },
   {
     "id": "2133",
@@ -202,17 +202,17 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KRISTOPHER CASEY. PO BOX 438 54 BRIGHTON ST BELMONT MA 02478 SS 930,SM 1045,SN 530/630 (SUMMER 6),W 7 HANSCOM 10 MILES KJB church."
+    "description": "PO BOX 438 BELMONT MA 02478 SS 930,SM 1045,SN 530/630 (SUMMER 6),W 7 HANSCOM 10 MILES KJB church"
   },
   {
     "id": "2134",
     "name": "ADAMS SQUARE BAPTIST CHURCH",
-    "address": "266 LINCOLN ST",
+    "address": "266 LINCOLN ST WORCEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 42.9591,
-    "longitude": -70.726,
+    "latitude": 42.6599,
+    "longitude": -72.0869,
     "phone": "(508) 752-3193",
     "website": "https://www.adamssquarebaptist.com",
     "pastor": "DAVID R PETERS",
@@ -222,7 +222,7 @@ export const massachusettsChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by DAVID R PETERS. 266 LINCOLN ST WORCESTER MA 01605 SS 945,SM 11,SN 6,W 7 KJB, BBF"
+    "description": "ER MA 01605 SS 945,SM 11,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "2135",
@@ -241,12 +241,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ERYN STEWART. PO BOX 412 345 RALPH TALBOT RD SOUTH WEYMOUTH MA 02190 SS 10,SM 11,SN 6,W 730 KJB, UNAFFILIATED, PRE-TRIB, PRE MIL"
+    "description": "PO BOX 412 SOUTH WEYMOUTH MA 02190 SS 10,SM 11,SN 6,W 730 KJB, UNAFFILIATED, PRE-TRIB, PRE MIL"
   },
   {
     "id": "2136",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "132 JOUVETTE ST",
+    "address": "132 JOUVETTE ST NEW BEDFORD",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -259,7 +259,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CAL FULLER. 132 JOUVETTE ST NEW BEDFORD MA 02744 SS 10,SM 11,SN 6,W 6 KJB church."
+    "description": "MA 02744 SS 10,SM 11,SN 6,W 6 KJB church"
   },
   {
     "id": "2137",
@@ -278,7 +278,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KIRK DIVIETRO. 615 WASHINGTON ST NORWOOD MA 02062 SS 945,SM 1030,SN 6,W 7 SOULWINNING KJB church."
+    "description": "NORWOOD MA 02062 SS 945,SM 1030,SN 6,W 7 SOULWINNING KJB church"
   },
   {
     "id": "2138",
@@ -296,12 +296,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY PIETTE. PO BOX 382 69 BEAVER ST FRANKLIN MA 02038 SS 930,SM 1030,SN 6,W 7,BS FRI 730 AUDIO & LIVE SERMONS KJB church."
+    "description": "PO BOX 382 FRANKLIN MA 02038 SS 930,SM 1030,SN 6,W 7,BS FRI 730 AUDIO & LIVE SERMONS KJB church"
   },
   {
     "id": "2139",
     "name": "SOLID ROCK BIBLE BAPTIST CHURCH",
-    "address": "214 MAIN ST",
+    "address": "214 MAIN ST BLACKST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -314,12 +314,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS DIGIACOMO. 214 MAIN ST BLACKSTONE MA 01504 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "ONE MA 01504 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "2140",
     "name": "LIFELINE BAPTIST CHURCH",
-    "address": "14 BRANDY BROW RD",
+    "address": "14 BRANDY BROW RD HAVE",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -332,7 +332,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LANE BRIGGS JR. 14 BRANDY BROW RD HAVERHILL MA 01830 SS 10, SM 11, SN 6, W 7 KJB, HAC"
+    "description": "RHILL MA 01830 SS 10, SM 11, SN 6, W 7 KJB, HAC"
   },
   {
     "id": "2141",
@@ -351,7 +351,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by STEPHEN MILLER. PO BOX 975 1980 S MAIN ST FALL RIVER MA 02722 SS 10,SM 11,SN 630 KJB, GSBC, PCC"
+    "description": "PO BOX 975 FALL RIVER MA 02722 SS 10,SM 11,SN 630 KJB, GSBC, PCC"
   },
   {
     "id": "2142",
@@ -360,8 +360,8 @@ export const massachusettsChurches: Church[] = [
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 42.9702,
-    "longitude": -71.5407,
+    "latitude": 41.9423,
+    "longitude": -71.0117,
     "phone": "(413) 532-0381",
     "website": "http://www.mvbcholyoke.com",
     "pastor": "ALLEN JOHNSON",
@@ -369,7 +369,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN JOHNSON. 310 APREMONT HWY HOLYOKE MA 01040 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, KING KIDS, BUS, TEEN, SPANISH KJB, GRAY-TX"
+    "description": "310 APREMONT HWY HOLYOKE MA 01040 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, KING KIDS, BUS, TEEN, SPANISH KJB, GRAY-TX"
   },
   {
     "id": "2143",
@@ -387,7 +387,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN BEALS JR. 29A MONTVALE AVE WOBURN MA 01801 SS 945,SM 11,SN 6,W 7 BUS, TEEN KJB church."
+    "description": "WOBURN MA 01801 SS 945,SM 11,SN 6,W 7 BUS, TEEN KJB church"
   },
   {
     "id": "2144",
@@ -406,12 +406,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES MONTORO. 92 ALGER ST BROCKTON MA 02402 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "BROCKTON MA 02402 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2145",
     "name": "PIONEER VALLEY BAPTIST CHURCH",
-    "address": "265 PONDERS HOLLOW RD",
+    "address": "265 PONDERS HOLLOW RD WEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -425,12 +425,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOSEPH HAWKINS. 265 PONDERS HOLLOW RD WESTFIELD MA 01085 SS 930, SM 1030, SN 6, W 7 SOULWINNING, STREET EVANGELISM; PIONEER VALLEY BAPTIST ACADEMY, K-12, MEMBERS ONLY; WESTOVER AFB KJB church."
+    "description": "FIELD MA 01085 SS 930, SM 1030, SN 6, W 7 SOULWINNING, STREET EVANGELISM; PIONEER VALLEY BAPTIST ACADEMY, K-12, MEMBERS ONLY; WESTOVER AFB KJB church"
   },
   {
     "id": "2146",
     "name": "NEW ENGLAND BAPTIST CHURCH",
-    "address": "30 SALEM ST",
+    "address": "7 NEW ENGLAND CHRIST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -443,7 +443,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS TEFFT. 30 SALEM ST MEDFORD MA 02155 SS 930,SM 1030,SN 6,W 7 NEW ENGLAND CHRISTIAN ACADEMY,1-12, ACE; HANSCOMB AFB 30-40 MINS AWAY KJB, HAC"
+    "description": "MA 02155 SS 930,SM 1030,SN 6,W IAN ACADEMY,1-12, ACE; HANSCOMB AFB 30-40 MINS AWAY KJB, HAC"
   },
   {
     "id": "2147",
@@ -461,7 +461,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER QUALLS. 190 CENTER ST CARVER MA 02360 SS 945,SM 1045,SN 6,W 630 AUDIO SERMONS, BUS, DEAF, JAIL, TEEN, PATCH PIRATE,SINGLES KJB, NEBC"
+    "description": "CARVER MA 02360 SS 945,SM 1045,SN 6,W 630 AUDIO SERMONS, BUS, DEAF, JAIL, TEEN, PATCH PIRATE,SINGLES KJB, NEBC"
   },
   {
     "id": "2148",
@@ -470,8 +470,8 @@ export const massachusettsChurches: Church[] = [
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 42.9623,
-    "longitude": -70.4571,
+    "latitude": 42.0091,
+    "longitude": -70.0513,
     "phone": "(978) 368-1516",
     "website": "http://www.fbbcclinton.com",
     "pastor": "DOUGLAS B NEINER",
@@ -479,7 +479,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUGLAS B NEINER. 391 HIGH ST CLINTON MA 01510 SS 10,SM 11,SN 630,W 7 FORT DEVENS 532 WEST ST PITTSFIELD MA 01201 1123 WEST ST SS 945,SM 11,SN 6,TUES 7 KJB church."
+    "description": "CLINTON MA 01510 SS 10,SM 11,SN 630,W 7 FORT DEVENS 532 WEST ST PITTSFIELD MA 01201 1123 WEST ST SS 945,SM 11,SN 6,TUES 7 KJB church"
   },
   {
     "id": "2149",
@@ -498,7 +498,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by ROSS GOULD. 25 CHURCH ST SWANSEA MA 02777 SS 945,SM 830 & 1045,SN 6,W 7 KJB church."
+    "description": "SWANSEA MA 02777 SS 945,SM 830 & 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "2150",
@@ -516,7 +516,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "219 FLORENCE RD FLORENCE MA 01060"
+    "description": "FLORENCE MA 01060"
   },
   {
     "id": "2151",
@@ -525,8 +525,8 @@ export const massachusettsChurches: Church[] = [
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 43.2218,
-    "longitude": -70.3297,
+    "latitude": 42.0814,
+    "longitude": -72.046,
     "phone": "",
     "website": "",
     "pastor": "JARED DUNBAR",
@@ -535,7 +535,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JARED DUNBAR. SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2152",
@@ -553,12 +553,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS BARRETT. PO BOX 341 PEABODY MA 01960 11 SUMMER ST SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church."
+    "description": "PO BOX 341 PEABODY MA 01960 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "2153",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "7 PARK AVE",
+    "address": "7 PARK AVE FAIRHAVE",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -571,12 +571,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL KUHN. 7 PARK AVE FAIRHAVEN MA 02719 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "N MA 02719 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2154",
     "name": "MILFORD BIBLE BAPTIST CHURCH",
-    "address": "7 GRANT ST",
+    "address": "7 GRANT ST MILFORD",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -589,12 +589,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOB HICKS. 7 GRANT ST MILFORD MA 01757 SS 10,SM 11, SN 6, TH 7 KJB church."
+    "description": "MA 01757 SS 10,SM 11, SN 6, TH 7 KJB church"
   },
   {
     "id": "2155",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "575 MORGAN RD",
+    "address": "575 MORGAN RD WEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -607,7 +607,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "575 MORGAN RD WEST SPRINGFIELD MA 01089"
+    "description": "SPRINGFIELD MA 01089"
   },
   {
     "id": "2156",
@@ -616,8 +616,8 @@ export const massachusettsChurches: Church[] = [
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 43,
-    "longitude": -70.3133,
+    "latitude": 41.3129,
+    "longitude": -72.1279,
     "phone": "",
     "website": "",
     "pastor": "GARY M ARMSTRONG",
@@ -625,12 +625,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY M ARMSTRONG.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2157",
     "name": "NEW TESTAMENT BAPTIST CHURCH",
-    "address": "491 HIGGINS CROWELL RD",
+    "address": "491 HIGGINS CROWELL RD WEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -644,12 +644,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY W CORBIN. 491 HIGGINS CROWELL RD WEST YARMOUTH MA 02673 SS 930,SM 1030,SN 6,W 7 CAPE COD BIBLE INSTITUTE KJB, UNAFFILIATED 34 ADAMS ST BOSTON MA 02122 DORCHESTER AREA SS 1030, SM 1130,SN 6 ,W 730 STREET PREACHI"
+    "description": "YARMOUTH MA 02673 SS 930,SM 1030,SN 6,W 7 CAPE COD BIBLE INSTITUTE KJB, UNAFFILIATED 34 ADAMS ST BOSTON MA 02122 DORCHESTER AREA SS 1030, SM 1130,SN 6 ,W 730 STREET PREACHI"
   },
   {
     "id": "2158",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "413 MAIN ST",
+    "address": "413 MAIN ST EAST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -663,12 +663,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ERIC MALACHUK. 413 MAIN ST EASTHAMPTON MA 01027 SS 930, SM 1045,SN 630, W 630 KJB, BBF"
+    "description": "HAMPTON MA 01027 SS 930, SM 1045,SN 630, W 630 KJB, BBF"
   },
   {
     "id": "2159",
     "name": "FIRST BIBLE BAPTIST CHURCH",
-    "address": "35 NOTCH RD",
+    "address": "251 SHEARER ST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -681,7 +681,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL W ANDERSON. PO BOX 922 35 NOTCH RD NORTH ADAMS MA 01247 SS 930,SM 1030,SN 6,W 7 KIDS CLUB, BUS,DEAF, NURSING, LIVE STREAM & AUDIO & VIDEO SERMONS; MT GREYLOCK CHRISTIAN ACADEMY, K-12 KJB, FBF 251 SHEARER ST PALME"
+    "description": "PO BOX 922 NORTH ADAMS MA 01247 SS 930,SM 1030,SN 6,W 7 KIDS CLUB, BUS,DEAF, NURSING, LIVE STREAM & AUDIO & VIDEO SERMONS; MT GREYLOCK CHRISTIAN ACADEMY, K-12 KJB, FBF PALME"
   },
   {
     "id": "2160",
@@ -699,12 +699,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD R CROSS. PO BOX 499 365 MAIN ST GROTON MA 01450 SS 930, SM 1045, SN 6, W 7 KJB, RUCKMAN, IBPF"
+    "description": "PO BOX 499 GROTON MA 01450 SS 930, SM 1045, SN 6, W 7 KJB, RUCKMAN, IBPF"
   },
   {
     "id": "2161",
     "name": "WORD OF TRUTH BAPTIST CHURCH",
-    "address": "11 ROBERT TONER BLVD",
+    "address": "11 ROBERT TONER BLVD ST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -717,7 +717,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL CARRIER. 11 ROBERT TONER BLVD STE. 5-212 ATTLEBORO MA 02763-1156 SS 930, SM 1030, SN 6, W 7 KJB church."
+    "description": "E. 5-212 ATTLEBORO MA 02763-1156 SS 930, SM 1030, SN 6, W 7 KJB church"
   },
   {
     "id": "2162",
@@ -735,12 +735,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRISTOPHER KEAY. 365 HARTFORD AVE BELLINGHAM MA 02019 SS 915, SM 1030, SN 6, W 7 KJB church."
+    "description": "BELLINGHAM MA 02019 SS 915, SM 1030, SN 6, W 7 KJB church"
   },
   {
     "id": "2163",
     "name": "QUABBIN VALLEY BAPTIST CHURCH",
-    "address": "258 MALBOEUF RD",
+    "address": "33 E MAIN ST WEBST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -754,12 +754,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUG CONLEY. PO BOX 328 258 MALBOEUF RD WARE MA 01082 SS 10, SM 11, SN 6 33 E MAIN ST WEBSTER MA 01570 SS 10,SM  11,SN 6,W 7 TEEN, NURSING KJB, UNAFFILIATED"
+    "description": "PO BOX 328 WARE MA 01082 SS 10, SM 11, SN 6 ER MA 01570 SS 10,SM 11,SN 6,W 7 TEEN, NURSING KJB, UNAFFILIATED"
   },
   {
     "id": "2164",
     "name": "SOUTH MIDDLESEX BAPTIST CHURCH",
-    "address": "86 BRIDGES ST EXT",
+    "address": "62 WALTHAM ST MAYNARD",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -773,12 +773,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WALTER MYERS. 86 BRIDGES ST EXT FRAMINGHAM MA 01702 SS 945,SM 11,SN 6,W 7 PO BOX 161 62 WALTHAM ST MAYNARD MA 01754 SS 10,SM 11,SN 6,W 7 7 CHURCH ST GARDNER MA 01440 SS 945,SM 11,W 630 560 N MAIN ST WEST BRIDGEWATE KJB church."
+    "description": "FRAMINGHAM MA 01702 SS 945,SM 11,SN 6,W 7 PO BOX 161 MA 01754 SS 10,SM 11,SN 6,W 7 7 CHURCH ST GARDNER MA 01440 SS 945,SM 11,W 630 560 N MAIN ST WEST BRIDGEWATE KJB church"
   },
   {
     "id": "2165",
     "name": "BIBLE WAY BAPTIST CHURCH",
-    "address": "18 HEARD ST in AUBURN",
+    "address": "18 HEARD ST in AUBURN WORCEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -791,7 +791,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACOB COLE. PO BOX 30306 18 HEARD ST in AUBURN WORCESTER MA 01603 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 30306 ER MA 01603 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2166",
@@ -809,12 +809,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL MAZZILLI. 247 W CENTRAL ST NATICK MA 01760 SS 10,SM 11,SN 6,W 6 NATICK BIBLE TRAINING SCHOOL; FORT DEVENS 20 MILES KJB church."
+    "description": "NATICK MA 01760 SS 10,SM 11,SN 6,W 6 NATICK BIBLE TRAINING SCHOOL; FORT DEVENS 20 MILES KJB church"
   },
   {
     "id": "2167",
     "name": "NEW LIFE BAPTIST CHURCH",
-    "address": "128 HERRING POND RD",
+    "address": "128 HERRING POND RD PL",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -827,12 +827,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHIL CRESSEY. 128 HERRING POND RD PLYMOUTH MA 02532 BUZZARDS BAY AREA SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC, NRBFC 147 MAIN ST ROWLEY MA 01969 NOT KJV ONLY, LIBERTY-U KJB church."
+    "description": "YMOUTH MA 02532 BUZZARDS BAY AREA SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC, NRBFC 147 MAIN ST ROWLEY MA 01969 NOT KJV ONLY, LIBERTY-U KJB church"
   },
   {
     "id": "2168",
     "name": "TWIN CITY BAPTIST TEMPLE",
-    "address": "194 ELECTRIC AVE",
+    "address": "7 TWIN CITY CHRIST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -845,7 +845,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES BORDONARO. 194 ELECTRIC AVE LUNENBURG MA 01462 SS 10,SM 11,SN 6,W 7 TWIN CITY CHRISTIAN SCHOOL, K4-12 NOT KJV ONLY KJB church."
+    "description": "LUNENBURG MA 01462 SS 10,SM 11,SN 6,W IAN SCHOOL, K4-12 NOT KJV ONLY KJB church"
   },
   {
     "id": "2169",
@@ -854,8 +854,8 @@ export const massachusettsChurches: Church[] = [
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 43.0592,
-    "longitude": -70.2177,
+    "latitude": 42.3454,
+    "longitude": -71.2753,
     "phone": "(413) 498-2739",
     "website": "http://northfieldbaptistchurch.com",
     "pastor": "ERIC SMITH",
@@ -863,12 +863,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC SMITH. 87 MAIN ST NORTHFIELD MA 01360 SS 945,SM 11,SN 6,W 7 KIDS CLUBS, TEEN NOT KJV ONLY KJB church."
+    "description": "NORTHFIELD MA 01360 SS 945,SM 11,SN 6,W 7 KIDS CLUBS, TEEN NOT KJV ONLY KJB church"
   },
   {
     "id": "2170",
     "name": "COLLINSVILLE BIBLE CHURCH",
-    "address": "2075 LAKEVIEW DR",
+    "address": "245 W BARNSTABLE RD OST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -882,7 +882,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN KERNS. 2075 LAKEVIEW DR DRACUT MA 01826 SS 10,SS 1115,SN 630,W 7 NOT KJV ONLY, BBF 245 W BARNSTABLE RD OSTERVILLE MA 02655 NOT KJV ONLY, BBC-MA KJB church."
+    "description": "ACUT MA 01826 SS 10,SS 1115,SN 630,W 7 NOT KJV ONLY, BBF ERVILLE MA 02655 NOT KJV ONLY, BBC-MA KJB church"
   },
   {
     "id": "2171",
@@ -901,7 +901,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT RATHBURN. PO BOX 189 129 LEXINGTON ST BURLINGTON MA 01803 SS 1030,SM 11,SN 6,W 7 NOT KJV ONLY 5TH STREET BAPTIST CHURCH 28 W 5TH ST LOWELL MA 01850 NOT KJV ONLY, BBF, BBC-MA, BBC-MO 640 PLUMTREE RD SPRINGFIELD  KJB church."
+    "description": "PO BOX 189 BURLINGTON MA 01803 SS 1030,SM 11,SN 6,W 7 NOT KJV ONLY 5TH STREET BAPTIST CHURCH 28 W 5TH ST LOWELL MA 01850 NOT KJV ONLY, BBF, BBC-MA, BBC-MO 640 PLUMTREE RD SPRINGFIELD KJB church"
   },
   {
     "id": "2172",
@@ -919,7 +919,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT E DAULTON. 722 FLORENCE RD NORTHAMPTON MA 01062-3607 SS 945,SM 11,SN 6,W 7 THE PATCH CLUB PREACH-KJV, FBF KJB church."
+    "description": "NORTHAMPTON MA 01062-3607 SS 945,SM 11,SN 6,W 7 THE PATCH CLUB PREACH-KJV, FBF KJB church"
   },
   {
     "id": "2173",
@@ -938,7 +938,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GEORGE LAVOIE. 343 ASHBURNHAM ST FITCHBURG MA 01420 SS 945,SM 105,SN 6,W 7 BBF, CBA, NOT KJV ONLY KJB church."
+    "description": "FITCHBURG MA 01420 SS 945,SM 105,SN 6,W 7 BBF, CBA, NOT KJV ONLY KJB church"
   },
   {
     "id": "2174",
@@ -951,19 +951,19 @@ export const massachusettsChurches: Church[] = [
     "longitude": -72.2467,
     "phone": "(508) 673-5535",
     "website": "http://www.3rdbaptistchurch.org",
-    "pastor": "DAVID MEUNIER",
+    "pastor": "PREACH KJV, STUDY OTHERS, NASB, UNAFFILIATED 377 COURT ST SUITE 109 PLYMOUTH MA 02360 NOT KJV O KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by DAVID MEUNIER. 260 STAFFORD RD FALL RIVER MA 02721 SS 10,SM 9 & 11,SN 6,W 7 DEAF, YOUTH; CHRISTIAN SCHOOL NEEDS PASTOR PREACH KJV, STUDY OTHERS, NASB, UNAFFILIATED 377 COURT ST  SUITE 109 PLYMOUTH MA 02360 NOT KJV O KJB church."
+    "description": "FALL RIVER MA 02721 SS 10,SM 9 & 11,SN 6,W 7 DEAF, YOUTH; CHRISTIAN SCHOOL NEEDS"
   },
   {
     "id": "2175",
     "name": "PLAINVILLE BAPTIST CHURCH",
-    "address": "62 SOUTH ST",
+    "address": "62 SOUTH ST PL",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -977,17 +977,17 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by FRED T MASSIE. 62 SOUTH ST PLAINVILLE MA 02762 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY, BBF, CCM KJB church."
+    "description": "AINVILLE MA 02762 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY, BBF, CCM KJB church"
   },
   {
     "id": "2176",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "5 INDIAN LANE",
+    "address": "5 INDIAN LANE WEBST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
-    "latitude": 43.1368,
-    "longitude": -72.1881,
+    "latitude": 42.2477,
+    "longitude": -72.9087,
     "phone": "(508) 943-3193",
     "website": "http://www.gotolbc.com/minichurch.asp",
     "pastor": "WILLIAM",
@@ -996,12 +996,12 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WILLIAM. 5 INDIAN LANE WEBSTER MA 01570 NOT KJV ONLY, BBC-EAST, BBFI, CCM KJB church."
+    "description": "ER MA 01570 NOT KJV ONLY, BBC-EAST, BBFI, CCM KJB church"
   },
   {
     "id": "2177",
     "name": "TEMPLE BAPTIST CHURCH",
-    "address": "540 MANLEY ST",
+    "address": "540 MANLEY ST WEST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -1014,7 +1014,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY R BAILEY. 540 MANLEY ST WEST BRIDGEWATER MA 02379 SS 10,SM 11,SN 6,W 7 PATCH PIRATE PREACH KJV, NOT KJV ONLY, IBFNA, GARBC 1000 OAKHILL AVE ATTLEBORO MA 02703 SS 10,SM 11,SN 630,W 7 KIDS,TEENS; GRACE BAPTIST CH KJB church."
+    "description": "BRIDGEWATER MA 02379 SS 10,SM 11,SN 6,W 7 PATCH PIRATE PREACH KJV, NOT KJV ONLY, IBFNA, GARBC 1000 OAKHILL AVE ATTLEBORO MA 02703 SS 10,SM 11,SN 630,W 7 KIDS,TEENS; GRACE BAPTIST CH KJB church"
   },
   {
     "id": "2178",
@@ -1032,7 +1032,7 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK GASSMAN. 2388 COUNTY ST DIGHTON MA 02715 NOT KJV ONLY, CCM KJB church."
+    "description": "DIGHTON MA 02715 NOT KJV ONLY, CCM KJB church"
   },
   {
     "id": "2179",
@@ -1051,7 +1051,7 @@ export const massachusettsChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JEFFREY D LAVOIE. 472 MAIN ST SPENCER MA 01562 SM 11,SN 6 TEENS, PRAISE BAND NOT KJV ONLY, BBF PO BOX 510 SOUTH & MONPONSETT HANSON MA 02341 NOT KJV ONLY KJB church."
+    "description": "SPENCER MA 01562 SM 11,SN 6 TEENS, PRAISE BAND NOT KJV ONLY, BBF PO BOX 510 SOUTH & MONPONSETT HANSON MA 02341 NOT KJV ONLY KJB church"
   },
   {
     "id": "2180",
@@ -1069,12 +1069,12 @@ export const massachusettsChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR MONTEL WILDER. 70 N LEVERETT RD LEVERETT MA 01054 SS 930,SM 11,SN 7,W 7 PREACH KJV, NOT KJV ONLY PO BOX 679 42 RIVER RD PEPPERELL MA 01463 SS 930,SM 1045,SN 630,W 7 PEPPERELL CHRISTIAN ACADEMY,ACE; AUDIO SERMONS & M KJB church."
+    "description": "LEVERETT MA 01054 SS 930,SM 11,SN 7,W 7 PREACH KJV, NOT KJV ONLY PO BOX 679 42 RIVER RD PEPPERELL MA 01463 SS 930,SM 1045,SN 630,W 7 PEPPERELL CHRISTIAN ACADEMY,ACE; AUDIO SERMONS & M KJB church"
   },
   {
     "id": "2181",
     "name": "FIRST CENTRAL BAPTIST CHURCH",
-    "address": "50 BROADWAY ST",
+    "address": "50 PARKER ST EAST",
     "city": "Boston",
     "state": "MA",
     "zipCode": "",
@@ -1089,6 +1089,6 @@ export const massachusettsChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DAVID BROWN. 50 BROADWAY ST CHICOPEE MA 01020 PREACH KJV, NOT KJV ONLY, BBF, WOL 50 PARKER ST EAST LONGMEADOW MA 01028 SM 930 & 11,W 630 AWANA, AUDIO SERMONS; BAPTIST VILLAGE ACADEMY,K-12,ACE KJV & NIV, GARBC 10 P KJB church."
+    "description": "CHICOPEE MA 01020 PREACH KJV, NOT KJV ONLY, BBF, WOL LONGMEADOW MA 01028 SM 930 & 11,W 630 AWANA, AUDIO SERMONS; BAPTIST VILLAGE ACADEMY,K-12,ACE KJV & NIV, GARBC 10 P KJB church"
   }
 ];

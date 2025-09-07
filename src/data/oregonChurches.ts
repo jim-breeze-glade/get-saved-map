@@ -17,7 +17,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB CRAWFORD. 24645 SW OLD HWY 99W SHERWOOD OR 97140 SS 10,SM 11,SN 5,TH 7 KJB church."
+    "description": "24645 SW OLD HWY 99W SHERWOOD OR 97140 SS 10,SM 11,SN 5,TH 7 KJB church"
   },
   {
     "id": "3957",
@@ -36,7 +36,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DARRELL R HANSEN. 1750 SW 3RD ST CORVALLIS OR 97333 ALBANY AREA SS 10,SM 11,SN 6,W 7 DEAF, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "CORVALLIS OR 97333 ALBANY AREA SS 10,SM 11,SN 6,W 7 DEAF, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3958",
@@ -55,7 +55,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SHAWN HARTSELL. PO BOX 444 575 B ST WEST VALE OR 97918 SS 945,SM 11, YOUTH GROUP 430, SN 6,WED NOON KJB, UNAFFILIATED"
+    "description": "PO BOX 444 VALE OR 97918 SS 945,SM 11, YOUTH GROUP 430, SN 6,WED NOON KJB, UNAFFILIATED"
   },
   {
     "id": "3959",
@@ -75,7 +75,7 @@ export const oregonChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by LARRY BOND. 6649 HILYARD AVE KLAMATH FALLS OR 97603 SS 10, SM 11, SN 6,W 645 KJB, UNAFFILIATED"
+    "description": "KLAMATH FALLS OR 97603 SS 10, SM 11, SN 6,W 645 KJB, UNAFFILIATED"
   },
   {
     "id": "3960",
@@ -94,7 +94,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SKIP HINTON. 23632 EVERGREEN RD CLATSKANIE OR 97016 SM 11, SN 12, W 7 AGE INTEGRATED, FAMILY FRIENDLY, SOULWINNING, VERY CONSERVATIVE, NO CCM, HYMNS ONLY, AUDIO SERMONS KJB church."
+    "description": "CLATSKANIE OR 97016 SM 11, SN 12, W 7 AGE INTEGRATED, FAMILY FRIENDLY, SOULWINNING, VERY CONSERVATIVE, NO CCM, HYMNS ONLY, AUDIO SERMONS KJB church"
   },
   {
     "id": "3961",
@@ -113,7 +113,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DOLAN CLASSEN. 310 NE 7TH ST PRINEVILLE OR 97754 SS 10,SM 11,SN 5, W 7 SOULWINNING KJB church."
+    "description": "PRINEVILLE OR 97754 SS 10,SM 11,SN 5, W 7 SOULWINNING KJB church"
   },
   {
     "id": "3962",
@@ -132,7 +132,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WAYNE L WARD. 12234 RIVER RD NE GERVAIS OR 97026 SS 10,SM 11,SN BIBLE THEOLOGY 5,SN 6,W 630 YOUTH RALLY’S, CHURCH CAMP, SCHOOL OF BIBLE KJB, UNAFFILIATED"
+    "description": "GERVAIS OR 97026 SS 10,SM 11,SN BIBLE THEOLOGY 5,SN 6,W 630 YOUTH RALLY’S, CHURCH CAMP, SCHOOL OF BIBLE KJB, UNAFFILIATED"
   },
   {
     "id": "3963",
@@ -150,12 +150,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES A BEATTY. PO BOX 1426 1732 B LAUREL PLACE FLORENCE OR 97439 SS 10, SM 11, SN 6 PRAYER 6 SAT KJB church."
+    "description": "PO BOX 1426 FLORENCE OR 97439 SS 10, SM 11, SN 6 PRAYER 6 SAT KJB church"
   },
   {
     "id": "3964",
     "name": "TOWN CENTER BAPTIST CHURCH",
-    "address": "10505 SE 85 AVE",
+    "address": "7 ISAAC BACKUS BIBLE INST",
     "city": "Salem",
     "state": "OR",
     "zipCode": "10505",
@@ -168,12 +168,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BELL. 10505 SE 85 AVE HAPPY VALLEY OR 97086 SS 10,SM 11,SN 145,W 7 ISAAC BACKUS BIBLE INSTITUTE, GIRLS AND BOYS CLUB, JUNIOR CHURCH KJB, STOCKER, GIPP, MODLISH, RUCKMAN"
+    "description": "10505 SE 85 AVE HAPPY VALLEY OR 97086 SS 10,SM 11,SN 145,W ITUTE, GIRLS AND BOYS CLUB, JUNIOR CHURCH KJB, STOCKER, GIPP, MODLISH, RUCKMAN"
   },
   {
     "id": "3965",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "1025 WEST N ST",
+    "address": "7 COAST GUARD IN AST",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -186,7 +186,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK GILLASPIE. 1025 WEST N ST SPRINGFIELD OR 97477 SS 10, SM 11, SA 2, W 7 COAST GUARD IN ASTORIA PO BOX 333 SPRINGFIELD OR 97477 AMERICAN LEGION HALL 344 8TH ST, SPRINGFIELD SS 10,SM 11,W 7 KJB church."
+    "description": "SPRINGFIELD OR 97477 SS 10, SM 11, SA 2, W ORIA PO BOX 333 SPRINGFIELD OR 97477 AMERICAN LEGION HALL 344 8TH ST, SPRINGFIELD SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "3966",
@@ -205,7 +205,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by THOREN C SODE. 101 E PETTIBONE HINES OR 97738 near BURNS SS 10,SM 11,SN 6,W 7 KJB, AMBASSADOR-BC, UNAFFILIATED"
+    "description": "101 E PETTIBONE HINES OR 97738 near BURNS SS 10,SM 11,SN 6,W 7 KJB, AMBASSADOR-BC, UNAFFILIATED"
   },
   {
     "id": "3967",
@@ -223,7 +223,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON HARDY. PO BOX 1127 330 MONMOUTH ST INDEPENDENCE OR 97351 SM 1030, SN 1215 KJB church."
+    "description": "PO BOX 1127 INDEPENDENCE OR 97351 SM 1030, SN 1215 KJB church"
   },
   {
     "id": "3968",
@@ -241,7 +241,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID VAN DE VLIET. PO BOX 3275 SALEM OR 97302 3215 FISHER RD NE SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church."
+    "description": "PO BOX 3275 SALEM OR 97302 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "3969",
@@ -254,18 +254,18 @@ export const oregonChurches: Church[] = [
     "longitude": -123.5089,
     "phone": "(541) 687-0096",
     "website": "http://www.victoryeugene.com",
-    "pastor": "",
+    "pastor": "KJB, UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "3455 COUNTY FARM RD EUGENE OR 97401 SS 10,SM 11,SN 6,W 7 NEEDS PASTOR KJB, UNAFFILIATED"
+    "description": "EUGENE OR 97401 SS 10,SM 11,SN 6,W 7 NEEDS"
   },
   {
     "id": "3970",
     "name": "FIRST MISSIONARY BAPTIST CHURCH",
-    "address": "2625 GABLE RD",
+    "address": "2625 GABLE RD ST",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -279,7 +279,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ANDREW HOUSE. 2625 GABLE RD ST HELENS OR 97051 SS 930, SM 1030, SN BIBLE STUDY 5, SN 6, W 7 KJB, UNAFFILIATED"
+    "description": "HELENS OR 97051 SS 930, SM 1030, SN BIBLE STUDY 5, SN 6, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3971",
@@ -298,7 +298,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROY DELIA. MEETING AT SAND RIDGE CHARTER SCHOOL 2900 SOUTH MAIN RD LEBANON OR 97355 SS 10, SM 11,SN 6,W 7 VIDEO SERMONS KJB, UNAFFILIATED"
+    "description": "MEETING AT SAND RIDGE CHARTER SCHOOL LEBANON OR 97355 SS 10, SM 11,SN 6,W 7 VIDEO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3972",
@@ -316,7 +316,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLYDE S JONES. PO BOX 69 35 SE 5TH AVE #2 ONTARIO OR 97914 SM 1045,SN 5,W 5 KJB church."
+    "description": "PO BOX 69 ONTARIO OR 97914 SM 1045,SN 5,W 5 KJB church"
   },
   {
     "id": "3973",
@@ -334,12 +334,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES WINESBURGH. 10722 E BURNSIDE PORTLAND OR 97216 KJB, IBC-FORT WORTH"
+    "description": "10722 E BURNSIDE PORTLAND OR 97216 KJB, IBC-FORT WORTH"
   },
   {
     "id": "3974",
     "name": "CLOVERDALE BAPTIST CHURCH",
-    "address": "34465 BRIDGE ST",
+    "address": "34465 BRIDGE ST CLOVERD",
     "city": "Salem",
     "state": "OR",
     "zipCode": "34465",
@@ -352,7 +352,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 191 34465 BRIDGE ST CLOVERDALE OR 97112"
+    "description": "PO BOX 191 ALE OR 97112"
   },
   {
     "id": "3975",
@@ -370,12 +370,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GIL HANSEN. SS 10,SM 11,SN 6 KJB church."
+    "description": "SS 10,SM 11,SN 6 KJB church"
   },
   {
     "id": "3976",
     "name": "MOUNT VIEW BAPTIST TEMPLE",
-    "address": "",
+    "address": "97281 SW BOONSFERRY RD",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -388,7 +388,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK WATKINS. PO BOX 230922 TIGARD OR 97281 SW BOONSFERRY RD & AVERY RD TUALATIN OR 97062 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX OR & AVERY RD TUALATIN OR 97062 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3977",
@@ -407,7 +407,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DANIEL DAVIDSON. PO BOX 521 8 NW 9TH ST PENDLETON OR 97801 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, CD KJB church."
+    "description": "PO BOX 521 PENDLETON OR 97801 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, CD KJB church"
   },
   {
     "id": "3978",
@@ -425,7 +425,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL R HANSEN. PO BOX 70002 EUGENE OR 97477 6596 THURSTON RD, SPRINGFIELD OR 97477 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 70002 EUGENE OR 97477 , SPRINGFIELD OR 97477 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3979",
@@ -444,7 +444,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEPHAN A BROWN. 2140 HWY 20 VALE OR 97918 KJB church."
+    "description": "2140 HWY 20 VALE OR 97918 KJB church"
   },
   {
     "id": "3980",
@@ -463,7 +463,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "5412 LIBERTY RD S SALEM OR 97141 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "SALEM OR 97141 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3981",
@@ -482,7 +482,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL MCDOWELL. 407 MAIN ST NYSSA OR 97913 KJB, UNAFFILIATED"
+    "description": "NYSSA OR 97913 KJB, UNAFFILIATED"
   },
   {
     "id": "3982",
@@ -500,12 +500,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN SHRADER. PO BOX 365 701 FIRST ST FOSSIL OR 97830 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "PO BOX 365 FOSSIL OR 97830 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "3983",
     "name": "HERITAGE BIBLE BAPTIST CHURCH",
-    "address": "800 E 14TH ST",
+    "address": "7 LIGHT BRIGADE CHILDR",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -518,7 +518,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD R PEIL. 800 E 14TH ST THE DALLES OR 97058 1100 PENTLAND SS 10,SM 11,SN 6,TH 7 LIGHT BRIGADE CHILDREN’S PROGRAM, BIBLE TRADING CARDS KJB church."
+    "description": "800 E 14TH ST THE DALLES OR 97058 1100 PENTLAND SS 10,SM 11,SN 6,TH EN’S PROGRAM, BIBLE TRADING CARDS KJB church"
   },
   {
     "id": "3984",
@@ -537,7 +537,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by MICHAEL DOCKERY. PO BOX 6133 21530 NE BUTLER MARKET RD BEND OR 97708 SS 10,SM 11,SN 6,W 7 KJB, ABA"
+    "description": "PO BOX 6133 BEND OR 97708 SS 10,SM 11,SN 6,W 7 KJB, ABA"
   },
   {
     "id": "3985",
@@ -556,7 +556,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY WINESBURGH. PO BOX 2071 OREGON CITY OR 97045 SS 945,SM 11,SN 6,W 7 KJB,UNAFFILIATED 300 W MAIN ST JOHN DAY OR 97845 KJB, HAC"
+    "description": "PO BOX 2071 OREGON CITY OR 97045 SS 945,SM 11,SN 6,W 7 KJB,UNAFFILIATED JOHN DAY OR 97845 KJB, HAC"
   },
   {
     "id": "3986",
@@ -574,7 +574,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN JAQUITH. 2500 NEILSEN RD TILLAMOOK OR 97141-1181 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "TILLAMOOK OR 97141-1181 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3987",
@@ -592,7 +592,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRUCE PERKINS. 12930 S SCHOLLS FERR RD PORTLAND OR 97223 TIGARD AREA SS 915,SM 1030,SN 6,W 7 DEAF, BIBLE TIME; WESTAGE CHRISTIAN SCHOOL, PS-12; KJB church."
+    "description": "PORTLAND OR 97223 TIGARD AREA SS 915,SM 1030,SN 6,W 7 DEAF, BIBLE TIME; WESTAGE CHRISTIAN SCHOOL, PS-12; KJB church"
   },
   {
     "id": "3988",
@@ -610,7 +610,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD GLENN. PO BOX 2087 1226 N DEAN ST COQUILLE OR 97423 SS 945,SM 11,SN 6,W 7 KJB, GIPP, MELTON"
+    "description": "PO BOX 2087 COQUILLE OR 97423 SS 945,SM 11,SN 6,W 7 KJB, GIPP, MELTON"
   },
   {
     "id": "3989",
@@ -628,7 +628,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE MILLER JR. 11811 SE HAROLD ST PORTLAND OR 97266 SS 10, SM 11,SN 1ST & 3RD SUNDAYS 6;2ND & 5TH SUNDAYS 2, W 7 KJB church."
+    "description": "PORTLAND OR 97266 SS 10, SM 11,SN 1ST & 3RD SUNDAYS 6;2ND & 5TH SUNDAYS 2, W 7 KJB church"
   },
   {
     "id": "3990",
@@ -646,7 +646,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 7080 557 HEMLOCK ST BROOKINGS OR 97415"
+    "description": "PO BOX 7080 BROOKINGS OR 97415"
   },
   {
     "id": "3991",
@@ -665,12 +665,12 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE MUTCHLER. SS 10,SM 11,SN 6,TH 630 PATCH PIRATE, SOULWINNING KJB, HAC"
+    "description": "SS 10,SM 11,SN 6,TH 630 PATCH PIRATE, SOULWINNING KJB, HAC"
   },
   {
     "id": "3992",
     "name": "GRAND VIEW BAPTIST CHURCH",
-    "address": "14855 S LELAND RD",
+    "address": "14855 S LELAND RD BEAVE",
     "city": "Salem",
     "state": "OR",
     "zipCode": "14855",
@@ -684,7 +684,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICK ADAMS. 14855 S LELAND RD BEAVERCREEK OR 97004 OREGON CITY AREA SS 10,SM 830 & 11,SN 6,W 7 KJB, UNAFFILIATED, TRINITY-BC"
+    "description": "RCREEK OR 97004 OREGON CITY AREA SS 10,SM 830 & 11,SN 6,W 7 KJB, UNAFFILIATED, TRINITY-BC"
   },
   {
     "id": "3993",
@@ -703,7 +703,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KYLE CAVINESS. 17800 SE MAIN PORTLAND OR 97233 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, DEAF, BUS, CHOIR, SOULWINNING, TV, LIGHTHOUSE TEENS; GREATER PORTLAND CHRISTIAN ACADEMY KJB, WCBC"
+    "description": "17800 SE MAIN PORTLAND OR 97233 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, DEAF, BUS, CHOIR, SOULWINNING, TV, LIGHTHOUSE TEENS; GREATER PORTLAND CHRISTIAN ACADEMY KJB, WCBC"
   },
   {
     "id": "3994",
@@ -722,12 +722,12 @@ export const oregonChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE B BURMAN. 650 N 1ST ST AUMSVILLE OR 97325 SS 10,SM 11,SN 6,W 7 KJB, BBF 3405 WILLIAMS HWY GRANTS PASS OR 97527 KJB, HAC"
+    "description": "AUMSVILLE OR 97325 SS 10,SM 11,SN 6,W 7 KJB, BBF 3405 WILLIAMS HWY GRANTS PASS OR 97527 KJB, HAC"
   },
   {
     "id": "3995",
     "name": "SHERIDAN BAPTIST CHURCH",
-    "address": "643 E MAIN ST",
+    "address": "179 KINCAID DR",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -735,12 +735,12 @@ export const oregonChurches: Church[] = [
     "longitude": -120.9642,
     "phone": "(503) 843-3158",
     "website": "http://www.sheridanbaptist.org",
-    "pastor": "CLINT CAVINESS",
+    "pastor": "ROSEBURG OR 97470 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLINT CAVINESS. 643 E MAIN ST SHERIDAN OR 97378 MP3 AUDIO SERMONS ONLINE 179 KINCAID DR ROSEBURG OR 97470 KJB church."
+    "description": "SHERIDAN OR 97378 MP3 AUDIO SERMONS ONLINE ROSEBURG OR 97470 KJB church"
   },
   {
     "id": "3996",
@@ -759,7 +759,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TOM COUNTS. 2460 NE GRIFFIN OAKS ST HILLSBORO OR 97124 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, SOULWINNING 21129 REED MARKET BEND OR 97702 SS 945,SM 1050,SN 630,W 730, MON VIS 730,TUE YOUTH 730, THU YOUNG ADULT BIBLE  KJB church."
+    "description": "HILLSBORO OR 97124 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, SOULWINNING 21129 REED MARKET BEND OR 97702 SS 945,SM 1050,SN 630,W 730, MON VIS 730,TUE YOUTH 730, THU YOUNG ADULT BIBLE KJB church"
   },
   {
     "id": "3997",
@@ -777,7 +777,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 705 2660 MARION ST SE ALBANY OR 97321"
+    "description": "PO BOX 705 ALBANY OR 97321"
   },
   {
     "id": "3998",
@@ -796,12 +796,12 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL T COOK. SS 10,SM 11,SN 6,W 7 2397 NW KINGS BLVD CORVALLIS OR 97333 KJB, UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 6,W 7 CORVALLIS OR 97333 KJB, UNAFFILIATED"
   },
   {
     "id": "3999",
     "name": "HARVEST BAPTIST TEMPLE",
-    "address": "2001 S COLUMBUS AVE",
+    "address": "2001 S COLUMBUS AVE MEDFORD",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -815,7 +815,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by FRANKLIN E HUMBER. 2001 S COLUMBUS AVE MEDFORD OR 97501 AUDIO/VIDEO SERMONS, SOULWINNING, BUS,; CHRISTIAN SCHOOL; CHILDREN’S, YOUTH, COLLEGE & CAREER, SINGLES, RU, BIBLE STUDIES, MEN’S, LADIES KJB church."
+    "description": "OR 97501 AUDIO/VIDEO SERMONS, SOULWINNING, BUS,; CHRISTIAN SCHOOL; CHILDREN’S, YOUTH, COLLEGE & CAREER, SINGLES, RU, BIBLE STUDIES, MEN’S, LADIES KJB church"
   },
   {
     "id": "4000",
@@ -834,12 +834,12 @@ export const oregonChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by EARNEST H JOHNSON. PO BOX 164 507 JEFFERSON ST SUMMERVILLE OR 97876 SS 945,SM 11,SN 6,W 7 RADIO, TV, BUS, SENIORS, CHOIR KJB, ABA"
+    "description": "PO BOX 164 SUMMERVILLE OR 97876 SS 945,SM 11,SN 6,W 7 RADIO, TV, BUS, SENIORS, CHOIR KJB, ABA"
   },
   {
     "id": "4001",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "125 E BEACH AVE",
+    "address": "125 E BEACH AVE HERMIST",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -853,7 +853,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SAM BROWN. PO BOX 1094 125 E BEACH AVE HERMISTON OR 97838 KJB, UNAFFILIATED"
+    "description": "PO BOX 1094 ON OR 97838 KJB, UNAFFILIATED"
   },
   {
     "id": "4002",
@@ -871,7 +871,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK LOONEY. 235 S 15TH ST HELENS OR 97051 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
+    "description": "235 S 15TH ST HELENS OR 97051 SS 10,SM 11,SN 6,W 7 KJB, HBBC"
   },
   {
     "id": "4003",
@@ -890,7 +890,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "3520 BIRCH ST BAKER CITY OR 97814 SS 930,SM 1045,SN 6 KJB, ABA"
+    "description": "BAKER CITY OR 97814 SS 930,SM 1045,SN 6 KJB, ABA"
   },
   {
     "id": "4004",
@@ -908,7 +908,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE DIXON. 219 SE NEAL LN MYRTLE CREEK OR 97457 KJB church."
+    "description": "MYRTLE CREEK OR 97457 KJB church"
   },
   {
     "id": "4005",
@@ -926,7 +926,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "202 PEACH TREE LN NE ALBANY OR 97321 PHYSICAL: 710 SW WALNUT ST"
+    "description": "ALBANY OR 97321 PHYSICAL: 710 SW WALNUT ST"
   },
   {
     "id": "4006",
@@ -944,12 +944,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4007",
     "name": "TOLEDO LANDMARK MISSIONARY BAPTIST CHURCH",
-    "address": "1290 STRUDEVANT RD",
+    "address": "220 BUTLER BRIDGE RD",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -962,7 +962,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERNIE HALL. 1290 STRUDEVANT RD TOLEDO OR 97391 PHYSICAL: 220 BUTLER BRIDGE RD TLMBC SCHOOL K-12 KJB church."
+    "description": "TOLEDO OR 97391 PHYSICAL: TLMBC SCHOOL K-12 KJB church"
   },
   {
     "id": "4008",
@@ -980,7 +980,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED SHRUM. PO BOX 125 302 OREGON AVE CRESWELL OR 97426 KJB church."
+    "description": "PO BOX 125 CRESWELL OR 97426 KJB church"
   },
   {
     "id": "4009",
@@ -998,7 +998,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER CRABTREE. 285 N 21 ST REEDSPORT OR 97467 KJB church."
+    "description": "REEDSPORT OR 97467 KJB church"
   },
   {
     "id": "4010",
@@ -1016,12 +1016,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE HALL. 421 S 40TH ST SPRINGFIELD OR 97477 SS 945,SM 11,SN 6,W 730 LIVE AUDIO AND VIDEO; FIRST LANDMARK MISSIONARY BAPTIST SCHOOL K-12 KJB church."
+    "description": "SPRINGFIELD OR 97477 SS 945,SM 11,SN 6,W 730 LIVE AUDIO AND VIDEO; FIRST LANDMARK MISSIONARY BAPTIST SCHOOL K-12 KJB church"
   },
   {
     "id": "4011",
     "name": "FIRST LANDMARK MISSIONARY BAPTIST CHURCH OF UNION GAP",
-    "address": "",
+    "address": "PO BOX 1030",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -1034,12 +1034,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN THOMAS. PO BOX 1030 SUTHERLIN OR 97479 15535 OLD HWY  99 OAKLAND OR 97462 KJB church."
+    "description": "SUTHERLIN OR 97479 15535 OLD HWY 99 OAKLAND OR 97462 KJB church"
   },
   {
     "id": "4012",
     "name": "MEDFORD MISSIONARY BAPTIST CHURCH",
-    "address": "3900 S STAGE",
+    "address": "3900 S STAGE MEDFORD",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -1053,12 +1053,12 @@ export const oregonChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROY R MEKSCH. PO BOX 32 3900 S STAGE MEDFORD OR 97501 SS 945,SM 11,SN 6,W 7 KJB, BBF"
+    "description": "PO BOX 32 OR 97501 SS 945,SM 11,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "4013",
     "name": "BAY AREA BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 75",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -1071,7 +1071,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "Led by JEFF HARLAN. PO BOX 75 NORTH BEND OR 97459 SS 10,SM 11,SN 7,W 7 ABA church."
+    "description": "NORTH BEND OR 97459 SS 10,SM 11,SN 7,W 7 ABA church"
   },
   {
     "id": "4014",
@@ -1089,7 +1089,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "Led by PHARRIS T HUGHEY. 19925 SW KINNAMAN RD ALOHA OR 97123 SS 945,SM 11,SN 230,W 7 ABA church."
+    "description": "ALOHA OR 97123 SS 945,SM 11,SN 230,W 7 ABA church"
   },
   {
     "id": "4015",
@@ -1107,12 +1107,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DARRIN GOODRICH. 4455 SW 175TH AVE BEAVERTON OR 97007 SS 10,SM 11,SN 1,W 7"
+    "description": "BEAVERTON OR 97007 SS 10,SM 11,SN 1,W 7"
   },
   {
     "id": "4016",
     "name": "YAQUINA BAY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 2213",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -1125,7 +1125,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BRITTON. PO BOX 2213 NEWPORT OR 97365 ASTORIA AREA"
+    "description": "NEWPORT OR ORIA AREA"
   },
   {
     "id": "4017",
@@ -1143,12 +1143,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "931 N SKIDMORE ST PORTLAND OR 97217"
+    "description": "PORTLAND OR 97217"
   },
   {
     "id": "4018",
     "name": "LINCOLN CITY BAPTIST CHURCH",
-    "address": "",
+    "address": "97367 Behind the IGA St",
     "city": "Salem",
     "state": "OR",
     "zipCode": "",
@@ -1161,7 +1161,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICK BENTON. PO BOX 351 2403 HWY 101 LINCOLN CITY OR 97367 Behind the IGA Store SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 351 2403 HWY CITY OR ore SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4019",
@@ -1179,7 +1179,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by HAROLDSON. PO BOX 746 816 ELKTON SUTHERLIN HWY SUTHERLIN OR 97479 ABM,GEM,ABWE BOX 1412 624 SW 28TH DR PENDLETON OR 97801 BBF, CARBC"
+    "description": "PO BOX 746 816 ELKTON SUTHERLIN HWY SUTHERLIN OR 97479 ABM,GEM,ABWE BOX 1412 PENDLETON OR 97801 BBF, CARBC"
   },
   {
     "id": "4020",
@@ -1197,7 +1197,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TIM BAKER. PO BOX 1291 244 SW K ST GRANTS PASS OR 97526 EAGLE POINT and WHITE CITY AREAS"
+    "description": "PO BOX 1291 GRANTS PASS OR 97526 EAGLE POINT and WHITE CITY AREAS"
   },
   {
     "id": "4021",
@@ -1215,7 +1215,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL BERHAR. 1150 HILFIKER LN SE SALEM OR 97302 SS 945,SM 11,SN 6,W 7 1842 NE VERONICA LN BEND OR 97701 CH KJB, S.GRACE-TULIP"
+    "description": "SALEM OR 97302 SS 945,SM 11,SN 6,W 7 1842 NE VERONICA LN BEND OR 97701 CH KJB, S.GRACE-TULIP"
   },
   {
     "id": "4022",
@@ -1233,7 +1233,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 950 SPRINGFIELD OR 97477 CHURCH BUILDING: 175 C ST & PIONEER PARKWAY"
+    "description": "PO BOX 950 SPRINGFIELD OR 97477 CHURCH BUILDING:"
   },
   {
     "id": "4023",
@@ -1251,7 +1251,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN BUSSE. SM 10,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "SM 10,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "4024",
@@ -1270,7 +1270,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KENNETH W WOOTEN. 3000 LANSING AVE NE SALEM OR 97303 SM 1030,SN 6,W 7 BBF, PK, B.GRAHAM, NOT KJV ONLY KJB church."
+    "description": "SALEM OR 97303 SM 1030,SN 6,W 7 BBF, PK, B.GRAHAM, NOT KJV ONLY KJB church"
   },
   {
     "id": "4025",
@@ -1289,7 +1289,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DICK HADEEN. 18390 SW FARMINGTON RD ALOHA OR 97007 SS 945,SM 11,SN 6,W KJV NKJV NIV, GARBC KJB church."
+    "description": "ALOHA OR 97007 SS 945,SM 11,SN 6,W KJV NKJV NIV, GARBC KJB church"
   },
   {
     "id": "4026",
@@ -1307,7 +1307,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE MOORE. 6501 SW MULTNOMAH BLVD PORTLAND OR 97223 TIGARD AREA SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "PORTLAND OR 97223 TIGARD AREA SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "4027",
@@ -1327,7 +1327,7 @@ export const oregonChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by GREG KAMINSKI. 913 FOOTS CREEK RD GOLD HILL OR 97525 NKJV, RSV, BBF, FBF KJB church."
+    "description": "GOLD HILL OR 97525 NKJV, RSV, BBF, FBF KJB church"
   },
   {
     "id": "4028",
@@ -1345,7 +1345,7 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAN BROWN. 1310 ECHO HOLLOW RD EUGENE OR 97402 SS 945,SM 11,W 7 AUDIO SERMONS; WESTSIDE CHRISTIAN ACADEMY K5-12 AACS; PROPHETS CHAMBER"
+    "description": "EUGENE OR 97402 SS 945,SM 11,W 7 AUDIO SERMONS; WESTSIDE CHRISTIAN ACADEMY K5-12 AACS; PROPHETS CHAMBER"
   },
   {
     "id": "4029",
@@ -1364,7 +1364,7 @@ export const oregonChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROD WILGUS. 208 SE 148TH PORTLAND OR 97233 SS 945,SM 11,SN 6,W 7, NOT KJV ONLY, BBF, WCA KJB church."
+    "description": "208 SE 148TH PORTLAND OR 97233 SS 945,SM 11,SN 6,W 7, NOT KJV ONLY, BBF, WCA KJB church"
   },
   {
     "id": "4030",
@@ -1382,12 +1382,12 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MEL TITTLE. PO BOX 596 2ND ST & B ST ELKTON OR 97436 NOT KJV ONLY KJB church."
+    "description": "PO BOX 596 ELKTON OR 97436 NOT KJV ONLY KJB church"
   },
   {
     "id": "4031",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "27710 SE STREBIN RD",
+    "address": "97060 OPEN DOOR CHRIST",
     "city": "Salem",
     "state": "OR",
     "zipCode": "27710",
@@ -1401,12 +1401,12 @@ export const oregonChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR KEN R MCCORMICK. 27710 SE STREBIN RD TROUTDALE OR 97060 OPEN DOOR CHRISTIAN ACADEMY PS-12 NOT KJV ONLY, BBF, WOF KJB church."
+    "description": "TROUTDALE OR IAN ACADEMY PS-12 NOT KJV ONLY, BBF, WOF KJB church"
   },
   {
     "id": "4032",
     "name": "TRI CITY BAPTIST TEMPLE",
-    "address": "18025 SE WEBSTER RD",
+    "address": "18025 SE WEBSTER RD GLADST",
     "city": "Salem",
     "state": "OR",
     "zipCode": "18025",
@@ -1419,6 +1419,6 @@ export const oregonChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 787 18025 SE WEBSTER RD GLADSTONE OR 97027 SS 945,SM 11,SN 6,W 7 AWANA, TEENS, SENIORS, SINGLES, CHOIR, DRAMA"
+    "description": "PO BOX 787 ONE OR 97027 SS 945,SM 11,SN 6,W 7 AWANA, TEENS, SENIORS, SINGLES, CHOIR, DRAMA"
   }
 ];

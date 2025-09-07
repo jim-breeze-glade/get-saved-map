@@ -17,7 +17,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by JERRY AKERS. 747 W MAGNOLIA AVE MCKENZIE TN 38201 SS 10,SM 11,SN 130,W 7 SOULWINNING, SENIORS, AUDIO SERMONS"
+    "description": "MCKENZIE TN 38201 SS 10,SM 11,SN 130,W 7 SOULWINNING, SENIORS, AUDIO SERMONS"
   },
   {
     "id": "4472",
@@ -36,7 +36,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHARLIE TINDELL. KJB, UNAFFILIATED 3021 WESTCOTT RD WHITE BLUFF TN 37187 SM 11, DINNER ON THE GROUNDS 12-1, SN 1 AUDIO SERMONS AND POWER POINT NOTES"
+    "description": "KJB, UNAFFILIATED WHITE BLUFF TN 37187 SM 11, DINNER ON THE GROUNDS 12-1, SN 1 AUDIO SERMONS AND POWER POINT NOTES"
   },
   {
     "id": "4473",
@@ -55,7 +55,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSH LEATHERS. 289 CARDEN GAP RD HEISKELL TN 37754 KJB, UNAFFILIATED"
+    "description": "HEISKELL TN 37754 KJB, UNAFFILIATED"
   },
   {
     "id": "4474",
@@ -74,7 +74,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIMMY FORTUNATO. 504 W CHURCH ST LEWISBURG TN 37091 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "LEWISBURG TN 37091 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4475",
@@ -92,7 +92,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE JAMES. 170 4TH ST COOKEVILLE TN 38506 KJB church."
+    "description": "COOKEVILLE TN 38506 KJB church"
   },
   {
     "id": "4476",
@@ -110,7 +110,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY L LIGHT. 196 CORVIN RD DAYTON TN 37321 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DAYTON TN 37321 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4477",
@@ -128,7 +128,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD PINION. 2024 E WOLF VALLEY RD CLINTON TN 37716 AUDIO SERMONS KJB, HYLES"
+    "description": "CLINTON TN 37716 AUDIO SERMONS KJB, HYLES"
   },
   {
     "id": "4478",
@@ -147,7 +147,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LUKE HURST. 102 CIRCLE DR LEBANON TN 37087 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS, NURSERY, CHILDREN’S CHURCH KJB church."
+    "description": "LEBANON TN 37087 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS, NURSERY, CHILDREN’S CHURCH KJB church"
   },
   {
     "id": "4479",
@@ -156,8 +156,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9716,
-    "longitude": -86.111,
+    "latitude": 36.1849,
+    "longitude": -88.7184,
     "phone": "(423) 369-3500",
     "website": "https://luke.christy.hurst",
     "pastor": "MIKE POWELL",
@@ -165,7 +165,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE POWELL. 295 POWERS RD OAKDALE TN 37829 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "OAKDALE TN 37829 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4480",
@@ -183,7 +183,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE HUTCHINSON. 2315 LURAY RD HURON TN 38313 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "HURON TN 38313 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4481",
@@ -201,7 +201,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN COPELAND. 3214 FORESTDALE AVE KNOXVILLE TN 37917 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS 1660 DOGWALK RD ALPINE TN 38543 SS 10, SM 11, SN 6, W 7 JAIL, RADIO, BUS, YOUTH KJB, OLD TIME HYMNS"
+    "description": "KNOXVILLE TN 37917 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS 1660 DOGWALK RD ALPINE TN 38543 SS 10, SM 11, SN 6, W 7 JAIL, RADIO, BUS, YOUTH KJB, OLD TIME HYMNS"
   },
   {
     "id": "4482",
@@ -210,8 +210,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8733,
-    "longitude": -87.8761,
+    "latitude": 36.1749,
+    "longitude": -86.9381,
     "phone": "(615) 308-6398",
     "website": "",
     "pastor": "JUNIOR WARD",
@@ -219,7 +219,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JUNIOR WARD. 4144 HYW 96 BURNS TN 37029 SS 10, SM 11, SN 6, W 7 VAN, CALL FOR PICKUP"
+    "description": "4144 HYW 96 BURNS TN 37029 SS 10, SM 11, SN 6, W 7 VAN, CALL FOR PICKUP"
   },
   {
     "id": "4483",
@@ -238,7 +238,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSHUA SPANGLER. PO BOX 453 1962 BROWDER HOLLOW RD LENOIR CITY TN 37771 SS 10, SM 11, SN 6, W 730 HYMNS, CHOIR, YOUTH, VISITATION, BUS KJB, UNAFFILIATED"
+    "description": "PO BOX 453 LENOIR CITY TN 37771 SS 10, SM 11, SN 6, W 730 HYMNS, CHOIR, YOUTH, VISITATION, BUS KJB, UNAFFILIATED"
   },
   {
     "id": "4484",
@@ -257,12 +257,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES BURKE. PO BOX 17 723 CALLOWAY RD LOUDON, TN 37774 KJB church."
+    "description": "PO BOX 17 LOUDON, TN 37774 KJB church"
   },
   {
     "id": "4485",
     "name": "CEDAR BLUFF BAPTIST CHURCH",
-    "address": "9215 FLOYD LN",
+    "address": "710 GRACE CHURCH RD DANDR",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -275,7 +275,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PERRY DAVIS. 9215 FLOYD LN KNOXVILLE TN 37923 SS 930,SM 1030,SN 6,W 7 710 GRACE CHURCH RD DANDRIDGE TN 37725 (865) 484- 6550 CH SS 945,SM 1030,SN 630,W 7 AUDIO SERMONS KJB church."
+    "description": "KNOXVILLE TN 37923 SS 930,SM 1030,SN 6,W 7 IDGE TN 37725 (865) 484- 6550 CH SS 945,SM 1030,SN 630,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4486",
@@ -294,7 +294,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SHAWN BICKEL. 160 DAYCO DR DAYTON TN 37321 Near GRAYSVILLE SS 10,SM 11,W 7 KJB, UNAFFILIATED"
+    "description": "DAYTON TN 37321 Near GRAYSVILLE SS 10,SM 11,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4487",
@@ -312,7 +312,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BYRON CHESNEY. 158 N WATER AVE GALLATIN TN 37066 SS 10,SM 11,W 7 KJB, CROWN-BC"
+    "description": "GALLATIN TN 37066 SS 10,SM 11,W 7 KJB, CROWN-BC"
   },
   {
     "id": "4488",
@@ -330,7 +330,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLINT W KERNS. 6014 BABELAY RD KNOXVLLE TN 37924 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "KNOXVLLE TN 37924 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4489",
@@ -348,7 +348,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM NELSON. 1335 US 70 CROSSVILLE TN 38555 TRAC TEAM, KINGS KIDS KJB church."
+    "description": "1335 US 70 CROSSVILLE TN 38555 TRAC TEAM, KINGS KIDS KJB church"
   },
   {
     "id": "4490",
@@ -367,12 +367,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BEN GRAHAM. 2000 MEADOW VIEW PKWY KINGSPORT TN 37660 SS 10,SM 11,SN 6,W 7 SOULWINNING, TAPE, CORRESPONDENCE, SENIORS, TEENS, VIDEO SERMONS, PROPHETS CHAMBER KJB church."
+    "description": "2000 MEADOW VIEW PKWY KINGSPORT TN 37660 SS 10,SM 11,SN 6,W 7 SOULWINNING, TAPE, CORRESPONDENCE, SENIORS, TEENS, VIDEO SERMONS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "4491",
     "name": "MUSIC CITY BAPTIST CHURCH",
-    "address": "616 DUE WEST",
+    "address": "525 WEST END AVE",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -386,7 +386,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM FITTIS. 616 DUE WEST MADISON TN 37115 near NASHVILLE SS 10,SM 11,TH 7 LIVE & AUDIO SERMONS 525 WEST END AVE MCMINNVILLE TN 37110 11430 BIRCHWOOD PIKE HARRISON TN 37341 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "MADISON TN 37115 near NASHVILLE SS 10,SM 11,TH 7 LIVE & AUDIO SERMONS MCMINNVILLE TN 37110 11430 BIRCHWOOD PIKE HARRISON TN 37341 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4492",
@@ -404,12 +404,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE HENSLEY. 475 US HWY 51 BY-PASS N DYERSBURG TN 38024 SS 10,SM 11,SN 6,W 7 KJB, NON-CALVINISTIC, TRADITIONAL MUSIC"
+    "description": "475 US HWY 51 BY-PASS N DYERSBURG TN 38024 SS 10,SM 11,SN 6,W 7 KJB, NON-CALVINISTIC, TRADITIONAL MUSIC"
   },
   {
     "id": "4493",
     "name": "NEW HOPE INDEPENDENT BAPTIST CHURCH",
-    "address": "112 SIPES ST",
+    "address": "112 SIPES ST WINCHEST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -423,7 +423,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN WESTERFIELD. 2219 WATTS BAR HWY SPRING CITY TN 37381 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 112 SIPES ST WINCHESTER TN 37398 SS 10,SM 11,SN 6,W 7"
+    "description": "2219 WATTS BAR HWY SPRING CITY TN 37381 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED ER TN 37398 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4494",
@@ -441,7 +441,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by A J SMITH. 14422 STORMER RD SALE CREEK TN 37373 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILATED"
+    "description": "SALE CREEK TN 37373 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILATED"
   },
   {
     "id": "4495",
@@ -459,12 +459,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CHRIS HAZELWOOD. 1999 MAPLE SPRINGS RD DAYTON TN 37321 SS 10,SM 11, SN 6,W 630 BUS, YOUTH"
+    "description": "DAYTON TN 37321 SS 10,SM 11, SN 6,W 630 BUS, YOUTH"
   },
   {
     "id": "4496",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "1410 DAVIS ST",
+    "address": "1410 DAVIS ST MORRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -477,7 +477,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG WILSON. 1410 DAVIS ST MORRISTOWN TN 37814 SS 10, SM 11, SN 6, W 7 KJB, UNAFFILATED"
+    "description": "OWN TN 37814 SS 10, SM 11, SN 6, W 7 KJB, UNAFFILATED"
   },
   {
     "id": "4497",
@@ -486,8 +486,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 36.7312,
-    "longitude": -85.477,
+    "latitude": 35.5936,
+    "longitude": -82.9431,
     "phone": "(615) 670-4271",
     "website": "http://www.newsongbaptistchurch.com",
     "pastor": "NICK LUNDY",
@@ -497,7 +497,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by NICK LUNDY. 104 PUBLIC SQUARE LAFAYETTE TN 37083 SS 930,SM 1030,SN 5,W 7 SOULWINNING, CONSERVATIVE MUSIC, PREMIL KJB, UNAFFILIATED"
+    "description": "104 PUBLIC SQUARE LAFAYETTE TN 37083 SS 930,SM 1030,SN 5,W 7 SOULWINNING, CONSERVATIVE MUSIC, PREMIL KJB, UNAFFILIATED"
   },
   {
     "id": "4498",
@@ -516,7 +516,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE RUE. 516 LAFAYETTE RD CLARKSVILLE TN 37042 SS 10,SM 11,SN 6,W 7 SOULWINNING, SINGLE YOUNG ADULTS, PARENTS NIGHT OUT, TEENS, AUDIO SERMONS, CROSSROADS COLLEGE OF THE BIBLE, FORT CAMPBELL 4 MILES KJB church."
+    "description": "CLARKSVILLE TN 37042 SS 10,SM 11,SN 6,W 7 SOULWINNING, SINGLE YOUNG ADULTS, PARENTS NIGHT OUT, TEENS, AUDIO SERMONS, CROSSROADS COLLEGE OF THE BIBLE, FORT CAMPBELL 4 MILES KJB church"
   },
   {
     "id": "4499",
@@ -534,12 +534,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM HAYNES. 801 GLADES RD. GATLINBURG TN 37738 KJB church."
+    "description": "GATLINBURG TN 37738 KJB church"
   },
   {
     "id": "4500",
     "name": "NEW GRACE BAPTIST CHURCH",
-    "address": "3055 W STATE ST",
+    "address": "3055 W STATE ST BRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -552,7 +552,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BRENDEL. 3055 W STATE ST BRISTOL TN 37620 SS 10,SM 11,SN 6,W 7 LIVE STREAMING VIDEO & AUDIO SERMONS KJB, UNAFFLIATED"
+    "description": "OL TN 37620 SS 10,SM 11,SN 6,W 7 LIVE STREAMING VIDEO & AUDIO SERMONS KJB, UNAFFLIATED"
   },
   {
     "id": "4501",
@@ -570,7 +570,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOBY GREEN. PO BOX 52 862 ELK CREEK RD CUMBERLAND CITY TN 37050 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, FORT CAMPBELL KJB church."
+    "description": "PO BOX 52 CUMBERLAND CITY TN 37050 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, FORT CAMPBELL KJB church"
   },
   {
     "id": "4502",
@@ -589,7 +589,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY SUTHERLAND. 1674 OAK RIDGE HWY CLINTON TN 37716 462 SUGAR HOLLOW RD PINEY FLATS TN 37686 KJB, UNAFFILIATED"
+    "description": "1674 OAK RIDGE HWY CLINTON TN 37716 PINEY FLATS TN 37686 KJB, UNAFFILIATED"
   },
   {
     "id": "4503",
@@ -609,7 +609,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by NEEDED. 3020 WALRIDGE RD KNOXVILLE TN 37921 SS 10,SM 11,SN 6,W 7 BUS, CHILDREN’S CHURCH, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, LADIES, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "KNOXVILLE TN 37921 SS 10,SM 11,SN 6,W 7 BUS, CHILDREN’S CHURCH, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, LADIES, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "4504",
@@ -627,7 +627,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL ADAMS JR. 3201 SUGAR CREEK RD WOODLAWN TN 37191 NEAR CLARKSVILLE TN NEAR FORT CAMPBELL SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "WOODLAWN TN 37191 NEAR CLARKSVILLE TN NEAR FORT CAMPBELL SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4505",
@@ -646,12 +646,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID HELTON. 4213 KEDRON DR SPRING HILL TN 37174 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "SPRING HILL TN 37174 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4506",
     "name": "HIGHER GROUND BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 293",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -664,12 +664,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR JERRY HONEYCUTT. PO BOX 293 4615 RUTLEDGE PIKE RUTLEDGE TN 37861 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "4615 RUTLEDGE PIKE RUTLEDGE TN 37861 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "4507",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "",
+    "address": "730 VICTORY BIBLE INST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -682,7 +682,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL SOUTHERLAND. PO BOX 100 7241 HWY 19E ROAN MOUNTAIN TN 37687 SS 10,SM 11,SN 6,W 730 VICTORY BIBLE INSTITUTE, RADIO, BOOKSTORE, PRINTING, RECORDING KJB church."
+    "description": "PO BOX 100 7241 HWY 19E ROAN MOUNTAIN TN 37687 SS 10,SM 11,SN 6,W ITUTE, RADIO, BOOKSTORE, PRINTING, RECORDING KJB church"
   },
   {
     "id": "4508",
@@ -701,7 +701,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN COUCH. 6665 PUSH RD HORNBEAK TN 38232 KJB church."
+    "description": "HORNBEAK TN 38232 KJB church"
   },
   {
     "id": "4509",
@@ -719,7 +719,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BOBBY CLARK. 205 HARRISON ST JOHNSON CITY TN 37604 SS 930, SM 1030,SN 630,W 7 BIBM MISSIONS AGENCY, AUDIO SERMONS"
+    "description": "JOHNSON CITY TN 37604 SS 930, SM 1030,SN 630,W 7 BIBM MISSIONS AGENCY, AUDIO SERMONS"
   },
   {
     "id": "4510",
@@ -738,7 +738,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LEONARD FLETCHER. KJB, UNAFFILIATED, TRADITIONAL MUSIC PO BOX 462 92 WALKER ST CROSSVILLE TN 38557 SS 10, SM 11, SN 6, W 7"
+    "description": "KJB, UNAFFILIATED, TRADITIONAL MUSIC PO BOX 462 CROSSVILLE TN 38557 SS 10, SM 11, SN 6, W 7"
   },
   {
     "id": "4511",
@@ -756,7 +756,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM BRANSCOMB. 8483 ROAN CREEK RD BUTLER TN 37640 MASTER CLUB, RADIO, CHOIR, AUDIO SERMONS 3102 PROSPECT CIR CLARKSVILLE TN 37043 SS 10,SM 11,SN 6,W 7 YOUTH GROUP, CHOIR, REFORMERS UNANIMOUS, NEAR FORT CAMPBELL KJB church."
+    "description": "BUTLER TN 37640 MASTER CLUB, RADIO, CHOIR, AUDIO SERMONS 3102 PROSPECT CIR CLARKSVILLE TN 37043 SS 10,SM 11,SN 6,W 7 YOUTH GROUP, CHOIR, REFORMERS UNANIMOUS, NEAR FORT CAMPBELL KJB church"
   },
   {
     "id": "4512",
@@ -765,8 +765,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7622,
-    "longitude": -85.6576,
+    "latitude": 36.6665,
+    "longitude": -84.8469,
     "phone": "(423) 479-2269",
     "website": "",
     "pastor": "DAVID CARROLL",
@@ -774,7 +774,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CARROLL. 4000 DALTON PK SE CLEVELAND TN 37323 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "4000 DALTON PK SE CLEVELAND TN 37323 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4513",
@@ -792,7 +792,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM TOWNSEND. PO BOX 602 1200 N MAIN ST CROSSVILLE TN 38557 PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 602 CROSSVILLE TN 38557 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "4514",
@@ -810,7 +810,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "942 TURNER ST MARYVILLE TN 37801 SS 10, SM 11, SN 6, W 7"
+    "description": "MARYVILLE TN 37801 SS 10, SM 11, SN 6, W 7"
   },
   {
     "id": "4515",
@@ -829,7 +829,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RONALD B PAUL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4516",
@@ -847,7 +847,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 511 119 4TH AVE COLUMBIA TN 38402"
+    "description": "PO BOX 511 COLUMBIA TN 38402"
   },
   {
     "id": "4517",
@@ -856,8 +856,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8378,
-    "longitude": -85.6505,
+    "latitude": 35.8102,
+    "longitude": -83.417,
     "phone": "",
     "website": "",
     "pastor": "BEN WHITTENBARGER",
@@ -865,7 +865,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN WHITTENBARGER. SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4518",
@@ -883,7 +883,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN EDWARDS. 1300 N HWY 27 ROCKWOOD TN 37854 SS 950,SM 1050,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "1300 N HWY 27 ROCKWOOD TN 37854 SS 950,SM 1050,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4519",
@@ -901,7 +901,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN SHULER. 138 FAIRVIEW CIRCLE OLIVER SPRINGS TN 37840 SS 10,SM 1045,SN 6,W 7 KJB church."
+    "description": "OLIVER SPRINGS TN 37840 SS 10,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "4520",
@@ -919,7 +919,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY HICKSON. PO BOX 3100 2200 MEMORIAL CT KINGSPORT TN 37664 SS 10,SM 11,SN 6,W 7 AWANA, CHOIR, RADIO WKPT 1400AM SN 6, AUDIO SERMONS KJB church."
+    "description": "PO BOX 3100 KINGSPORT TN 37664 SS 10,SM 11,SN 6,W 7 AWANA, CHOIR, RADIO WKPT 1400AM SN 6, AUDIO SERMONS KJB church"
   },
   {
     "id": "4521",
@@ -937,7 +937,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL RANDALL. 8000 HWY 51 N BYPASS HALLS TN 38040 KJB church."
+    "description": "8000 HWY 51 N BYPASS HALLS TN 38040 KJB church"
   },
   {
     "id": "4522",
@@ -955,7 +955,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY LEFFEW. 914 N CHESTNUT ST MONTEREY TN 38574 KJB church."
+    "description": "MONTEREY TN 38574 KJB church"
   },
   {
     "id": "4523",
@@ -964,8 +964,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7687,
-    "longitude": -85.5204,
+    "latitude": 35.2778,
+    "longitude": -83.5111,
     "phone": "(865) 354-1504",
     "website": "http://www.facebook.com/pages/Gateway-Baptist-Church/153691544664303",
     "pastor": "TRAVIS SHAFFER",
@@ -973,7 +973,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS SHAFFER. 109 E ROCKWOOD ST ROCKWOOD TN 37854 SM 10,SN 6,W 7 PROPHETS CHAMBER KJB, SOL"
+    "description": "ROCKWOOD TN 37854 SM 10,SN 6,W 7 PROPHETS CHAMBER KJB, SOL"
   },
   {
     "id": "4524",
@@ -991,7 +991,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE JONES. 1070 GRAY STATION RD GRAY TN 37615 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GRAY TN 37615 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4525",
@@ -1000,8 +1000,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8814,
-    "longitude": -86.9791,
+    "latitude": 35.8016,
+    "longitude": -83.3673,
     "phone": "(423) 238-9235",
     "website": "http://www.glbjackson.com",
     "pastor": "WADE CASH",
@@ -1010,12 +1010,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WADE CASH. PO BOX 686 7134 WHITE OAK VALLEY CIR MCDONALD TN 37353 KJB, UNAFFILIATED 627 BOONE LN JACKSON TN 38301 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 686 MCDONALD TN 37353 KJB, UNAFFILIATED 627 BOONE LN JACKSON TN 38301 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4526",
     "name": "NEW TESTAMENT BAPTIST CHURCH",
-    "address": "9325 MAYNARDVILLE HWY",
+    "address": "9325 MAYNARDVILLE HWY MAYNARD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1028,7 +1028,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PASTOR KEN MCCLANAHAN. 9325 MAYNARDVILLE HWY MAYNARDVILLE TN 37807 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "VILLE TN 37807 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4527",
@@ -1046,7 +1046,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK FOWLER. 1798 JAYELL RD SEVIERVILLE TN 37862 SS 10,SM 11,SN 6,W 7 KJB, CROWN-BC"
+    "description": "SEVIERVILLE TN 37862 SS 10,SM 11,SN 6,W 7 KJB, CROWN-BC"
   },
   {
     "id": "4528",
@@ -1064,7 +1064,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH GRIFFIS. 172 TAYLOR AVE ELIZABETHTON TN 37643 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS & MUSIC Part 2 KJB, UNAFFILATED, TRAD MUSIC"
+    "description": "ELIZABETHTON TN 37643 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS & MUSIC Part 2 KJB, UNAFFILATED, TRAD MUSIC"
   },
   {
     "id": "4529",
@@ -1075,14 +1075,14 @@ export const tennesseeChurches: Church[] = [
     "zipCode": "",
     "latitude": 35.7456,
     "longitude": -88.1986,
-    "phone": "",
+    "phone": "(423) 727-8742",
     "website": "http://www.mountaincitybaptist.org",
     "pastor": "EDWARD GRAVETTE",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD GRAVETTE. 936 N CHURCH ST MOUNTAIN CITY TN 37683 (423)  727-8742 CH SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "MOUNTAIN CITY TN 37683 CH SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "4530",
@@ -1100,7 +1100,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR GENE HOOKER. 4017 NORCROSS RD HIXSON TN 37343 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HIXSON TN 37343 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4531",
@@ -1119,12 +1119,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MALCOLM HARRISON. 8018 GEORGETOWN RD OOLTEWAH TN  37363 KJB, OLD FASHIONED 1403 TENNESSEE AVE SOUTH PARSONS TN 38363 SS 10,SM 11,SN 6,W 7 SOULWINNING, HYMN SINGING"
+    "description": "OOLTEWAH TN 37363 KJB, OLD FASHIONED 1403 TENNESSEE AVE SOUTH PARSONS TN 38363 SS 10,SM 11,SN 6,W 7 SOULWINNING, HYMN SINGING"
   },
   {
     "id": "4532",
     "name": "GROVE CITY BAPTIST CHURCH",
-    "address": "802 VIRGINIA AVE",
+    "address": "201 MONTGOMERY RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1138,7 +1138,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN F VESPIE. 802 VIRGINIA AVE KNOXVILLE TN 37921 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS KJB, PBI 201 MONTGOMERY RD LANCING TN 37770"
+    "description": "KNOXVILLE TN 37921 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS KJB, PBI LANCING TN 37770"
   },
   {
     "id": "4533",
@@ -1158,7 +1158,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by VIRGIL SMITH. SOULWINNING, US KNOXVILLE MEPS PO BOX 1385 COLLIERVILLE TN 38027-1385 5285 CAYCE RD, BYHALIA MS 38611 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "SOULWINNING, US KNOXVILLE MEPS PO BOX 1385 COLLIERVILLE TN 38027-1385 , BYHALIA MS 38611 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4534",
@@ -1177,7 +1177,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LOGAN PARTON. MAILING ADDRESS PO BOX 19115 CHATTANOOGA TN 37416 1928 HAMILL RD HIXSON TN 37343 SS 930,SM 1030,SN 530,W 7 SOULWINNING, TRADITIONAL KJB church."
+    "description": "MAILING ADDRESS PO BOX 19115 CHATTANOOGA TN 37416 HIXSON TN 37343 SS 930,SM 1030,SN 530,W 7 SOULWINNING, TRADITIONAL KJB church"
   },
   {
     "id": "4535",
@@ -1195,12 +1195,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM SMARTT. 9013 SOLWAY FERRY RD KNOXVILLE TN 37921 SOLWAY AREA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "KNOXVILLE TN 37921 SOLWAY AREA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4536",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "52 WOODVILLE RD",
+    "address": "52 WOODVILLE RD RIPL",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1213,7 +1213,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLARENCE DUNCAN. 52 WOODVILLE RD RIPLEY TN 38063 SS 10,SM 11,SN 6,W 7 MASTER CLUB, TEENS, AUDIO SERMONS KJB church."
+    "description": "EY TN 38063 SS 10,SM 11,SN 6,W 7 MASTER CLUB, TEENS, AUDIO SERMONS KJB church"
   },
   {
     "id": "4537",
@@ -1231,12 +1231,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD G VONBUSKIRK JR. 380 ASBURY RD JACKSBORO TN 37757 SS 10,SM 11,SN 6,W 7 AWANA, TV-4, RADIO, MASTER CLUB, AWANA, TV, RADIO, BETHEL BAPTIST BIBLE INSTITUTE KJB church."
+    "description": "JACKSBORO TN 37757 SS 10,SM 11,SN 6,W 7 AWANA, TV-4, RADIO, MASTER CLUB, AWANA, TV, RADIO, BETHEL BAPTIST BIBLE INSTITUTE KJB church"
   },
   {
     "id": "4538",
     "name": "ANCHOR BAPTIST CHURCH",
-    "address": "1765 E FIRST ST",
+    "address": "1932 FAIRVIEW AVE",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1249,12 +1249,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM SCHOOLFIELD. 8054 NELSON MILLINGTON TN 38053 SS 10,SM 11,SN 6,W 7 1765 E FIRST ST CROSSVILLE TN 38555 SS 10, SM 11,SN 6,W 7 TRADITIONAL MUSIC ONLY, ANTI-CALVINISTIC 1932 FAIRVIEW AVE KINGSPORT TN 37665 SS 10,SM 11 KJB church."
+    "description": "8054 NELSON MILLINGTON TN 38053 SS 10,SM 11,SN 6,W 7 CROSSVILLE TN 38555 SS 10, SM 11,SN 6,W 7 TRADITIONAL MUSIC ONLY, ANTI-CALVINISTIC KINGSPORT TN 37665 SS 10,SM 11 KJB church"
   },
   {
     "id": "4539",
     "name": "FAMILY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 736",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1267,12 +1267,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRENT A BAUGHMAN. PO BOX 736 1562 OLD HWY 99 COLUMBIA TN 38401 SS 945,SM 1045,SM 6,W 7 KJB, BJU, PCC, NBBC"
+    "description": "1562 OLD HWY 99 COLUMBIA TN 38401 SS 945,SM 1045,SM 6,W 7 KJB, BJU, PCC, NBBC"
   },
   {
     "id": "4540",
     "name": "STANLEY HEIGHTS BAPTIST CHURCH",
-    "address": "1512 MCBRIEN RD",
+    "address": "1512 MCBRIEN RD EAST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1285,7 +1285,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY HUTSON. 1512 MCBRIEN RD EAST RIDGE TN 37412 SS 930,SM 1030,SN 7,W 7 KJB church."
+    "description": "RIDGE TN 37412 SS 930,SM 1030,SN 7,W 7 KJB church"
   },
   {
     "id": "4541",
@@ -1304,12 +1304,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MICHAEL KERLEY. 217 N TENNESSEE BLVD MURFREESBORO TN 37130 SS 9,SM 10,SN 6,W 7 BUS, SOULWINNING, TEEN, SENIORS KJB church."
+    "description": "MURFREESBORO TN 37130 SS 9,SM 10,SN 6,W 7 BUS, SOULWINNING, TEEN, SENIORS KJB church"
   },
   {
     "id": "4542",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "806 MILLER AVE",
+    "address": "38557 CORNER OF MILLER AVE",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1322,7 +1322,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 2750 806 MILLER AVE CROSSVILLE TN 38557 CORNER OF MILLER AVE & 10TH ST SS 10,SM 11,SN 630,W 7"
+    "description": "PO BOX 2750 CROSSVILLE TN & 10TH ST SS 10,SM 11,SN 630,W 7"
   },
   {
     "id": "4543",
@@ -1331,22 +1331,22 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9641,
-    "longitude": -85.3716,
+    "latitude": 35.7269,
+    "longitude": -89.0022,
     "phone": "(423) 263-1807",
     "website": "",
-    "pastor": "DONALD HARRIS",
+    "pastor": "TALBOTT TN 37877 SS 10,SM 11,SN 7,W 7 BUS, YOUTH, TEEN, SENIORS, PROPHETS CHAMBER KJB, UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DONALD HARRIS. 515 WASHINGTON AVE ETOWAH TN 37331 SS 10,SM 11,W 7 5608 AMY DR TALBOTT TN 37877 SS 10,SM 11,SN 7,W 7 BUS, YOUTH, TEEN, SENIORS, PROPHETS CHAMBER KJB, UNAFFILIATED"
+    "description": "ETOWAH TN 37331 SS 10,SM 11,W 7 5608 AMY DR TALBOTT TN 37877 SS 10,SM 11,SN 7,W 7 BUS, YOUTH, TEEN, SENIORS, PROPHETS CHAMBER KJB, UNAFFILIATED"
   },
   {
     "id": "4544",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "415 CENTRAL CHURCH RD",
+    "address": "415 CENTRAL CHURCH RD MORRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1360,12 +1360,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by FINLEY CUTSHAW. 415 CENTRAL CHURCH RD MORRISTOWN TN 37814 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING KJB church."
+    "description": "OWN TN 37814 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING KJB church"
   },
   {
     "id": "4545",
     "name": "EASTSIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "7 MAST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1378,7 +1378,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF LEDBETTER. 3232 COVINGTON PIKE MEMPHIS TN 38128 SS 915,SM 1015,SN 6,W 7 MASTER CLUB, TEENS, CHOIR, SENIORS, DEAF, MEMPHIS NAS KJB church."
+    "description": "3232 COVINGTON PIKE MEMPHIS TN 38128 SS 915,SM 1015,SN 6,W ER CLUB, TEENS, CHOIR, SENIORS, DEAF, MEMPHIS NAS KJB church"
   },
   {
     "id": "4546",
@@ -1396,7 +1396,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY KING. 845 W HWY 25-70 NEWPORT TN 37821 SS 930,SM 1030,SN 7,W 7 ;CHRISTIAN SCHOOL K-12; AUDIO SERMONS KJB, HAC"
+    "description": "845 W HWY 25-70 NEWPORT TN 37821 SS 930,SM 1030,SN 7,W 7 ;CHRISTIAN SCHOOL K-12; AUDIO SERMONS KJB, HAC"
   },
   {
     "id": "4547",
@@ -1414,17 +1414,17 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY DEASON. 700 GREENWOOD ST UNION CITY TN 38261 950 N OLD KENTUCKY COOKEVILLE TN 38501 SS 945,SM 11,SN 6,W 7 KJB, HAC 3812 KIRBY PKWY MEMPHIS TN 38115 SS 10, SM 11, SN 6, W 7 BUS, TEEN, NURSERY, COLLEGE AGE, COU"
+    "description": "UNION CITY TN 38261 950 N OLD KENTUCKY COOKEVILLE TN 38501 SS 945,SM 11,SN 6,W 7 KJB, HAC 3812 KIRBY PKWY MEMPHIS TN 38115 SS 10, SM 11, SN 6, W 7 BUS, TEEN, NURSERY, COLLEGE AGE, COU"
   },
   {
     "id": "4548",
     "name": "SHENANDOAH BAPTIST CHURCH",
-    "address": "138 OSMENT RD SE",
+    "address": "260 NEW SHACKLE ISLAND RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9497,
-    "longitude": -86.7951,
+    "latitude": 35.0093,
+    "longitude": -85.8788,
     "phone": "(423) 339-0103",
     "website": "http://www.sbcministries.com",
     "pastor": "GREG MUTSCH",
@@ -1434,7 +1434,7 @@ export const tennesseeChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by GREG MUTSCH. PO BOX 5207 138 OSMENT RD SE CLEVELAND  TN 37320-5207 SS 945,SM 11,SN 6,W 7 BOYS RANCH, GIRLS HAVEN, LIVE SERMONS; SHENANDOAH BAPTIST ACADEMY ABEKA K5-12; KJB, BBF 260 NEW SHACKLE ISLAND RD HENDERSONV"
+    "description": "PO BOX 5207 CLEVELAND TN 37320-5207 SS 945,SM 11,SN 6,W 7 BOYS RANCH, GIRLS HAVEN, LIVE SERMONS; SHENANDOAH BAPTIST ACADEMY ABEKA K5-12; KJB, BBF HENDERSONV"
   },
   {
     "id": "4549",
@@ -1452,7 +1452,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON BROWN. 1530 N MAIN ST TENNESSEE RIDGE TN 37178 KJB church."
+    "description": "TENNESSEE RIDGE TN 37178 KJB church"
   },
   {
     "id": "4550",
@@ -1461,8 +1461,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9848,
-    "longitude": -86.0563,
+    "latitude": 35.8107,
+    "longitude": -82.1391,
     "phone": "(615) 890-5567",
     "website": "https://www.facebook.com/100064698396187",
     "pastor": "JIM TEDDER",
@@ -1471,7 +1471,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JIM TEDDER. 1150 MIDDLE TENNESSEE BLVD MURFREESBORO TN 37130 SS 10,SM 11,SN 6,W 7 YOUTH, CHILD, BUS, SOULWINNING, KING KIDS, DEAF, SENIORS, FAMILY, COLLEGE & CAREER; BELLWOOD CHRISTIAN ACADEMY K-12 ACE; KJB, HAC"
+    "description": "MURFREESBORO TN 37130 SS 10,SM 11,SN 6,W 7 YOUTH, CHILD, BUS, SOULWINNING, KING KIDS, DEAF, SENIORS, FAMILY, COLLEGE & CAREER; BELLWOOD CHRISTIAN ACADEMY K-12 ACE; KJB, HAC"
   },
   {
     "id": "4551",
@@ -1490,7 +1490,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DENNY PATTERSON. PO BOX 1030 2000 S CANNON BLVD SHELBYVILLE TN 37160 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 1030 SHELBYVILLE TN 37160 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4552",
@@ -1508,7 +1508,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY DIXON. 5106 NOLENSVILLE RD NASHVILLE TN 37211 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "NASHVILLE TN 37211 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4553",
@@ -1528,7 +1528,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID BRAGG. 7503 BELL RD KNOXVILLE TN 37918 SS 10,SM 11,SN 6,W 7 AWANA, TEEN, SOULWINNING, DEAF KJB, UNAFFILIATED"
+    "description": "KNOXVILLE TN 37918 SS 10,SM 11,SN 6,W 7 AWANA, TEEN, SOULWINNING, DEAF KJB, UNAFFILIATED"
   },
   {
     "id": "4554",
@@ -1546,7 +1546,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN R KURTZ. 6626 HUNTER RD HARRISON TN 37341 SS 10,SM 11,SN 6,W 730 SPANISH, CHOIR, BUS, SENIORS, AUDIO & VIDEO SERMONS KJB church."
+    "description": "HARRISON TN 37341 SS 10,SM 11,SN 6,W 730 SPANISH, CHOIR, BUS, SENIORS, AUDIO & VIDEO SERMONS KJB church"
   },
   {
     "id": "4555",
@@ -1565,7 +1565,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JASON WILEY. 3604 RINGGOLD RD CHATTANOOGA TN 37412 SS 945,SM 1045,SN 630,W 730 KJB, BBF"
+    "description": "CHATTANOOGA TN 37412 SS 945,SM 1045,SN 630,W 730 KJB, BBF"
   },
   {
     "id": "4556",
@@ -1574,8 +1574,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7968,
-    "longitude": -86.9199,
+    "latitude": 35.702,
+    "longitude": -89.6874,
     "phone": "(423) 926-1500",
     "website": "",
     "pastor": "JODY JENKINS",
@@ -1584,7 +1584,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JODY JENKINS. 901 WILSON AVE JOHNSON CITY TN 37604 SS 915,SM 1015,SN 630,W 7 KJB, BBF"
+    "description": "JOHNSON CITY TN 37604 SS 915,SM 1015,SN 630,W 7 KJB, BBF"
   },
   {
     "id": "4557",
@@ -1602,7 +1602,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD ABBEY. PO BOX 8247 197 SUNCREST ST GRAY TN 37615 SS 10,SM 11,SN ,W 7 CHOIR, BUS KJB, BJU"
+    "description": "PO BOX 8247 GRAY TN 37615 SS 10,SM 11,SN ,W 7 CHOIR, BUS KJB, BJU"
   },
   {
     "id": "4558",
@@ -1620,12 +1620,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "100 BOBBIE AVE GREENEVILLE TN 37743 NEWPORT HWY"
+    "description": "GREENEVILLE TN 37743 NEWPORT HWY"
   },
   {
     "id": "4559",
     "name": "CBCHURCH",
-    "address": "",
+    "address": "7 VICT",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1638,12 +1638,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK EVERHART. SS 930,SM 1045,SN 7,W 7 VICTORY CLUBS, PRO-TEENS; CHRISTIAN SCHOOL KJB church."
+    "description": "SS 930,SM 1045,SN 7,W ORY CLUBS, PRO-TEENS; CHRISTIAN SCHOOL KJB church"
   },
   {
     "id": "4560",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "206 E COFFEE ST",
+    "address": "1734 DICK LONAS RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1656,7 +1656,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN JOHNSON. 206 E COFFEE ST TULLAHOMA TN 37352 SS 10,SM 11,SN 6,W 7 1734 DICK LONAS RD KNOXVILLE TN 37909 KJB church."
+    "description": "TULLAHOMA TN 37352 SS 10,SM 11,SN 6,W 7 KNOXVILLE TN 37909 KJB church"
   },
   {
     "id": "4561",
@@ -1674,7 +1674,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SCOGGINS. PO BOX 801 148 BURTON RD ROGERSVILLE TN 37857 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS & MUSIC KJB church."
+    "description": "PO BOX 801 ROGERSVILLE TN 37857 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS & MUSIC KJB church"
   },
   {
     "id": "4562",
@@ -1692,12 +1692,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN MYSLIWIEC. 288 HWY 70 W LENOIR CITY TN 37771 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "288 HWY 70 W LENOIR CITY TN 37771 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4563",
     "name": "LAFOLLETTE BAPTIST TEMPLE",
-    "address": "199 MYERS LN",
+    "address": "205 LAWNVILLE RD KINGST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1711,7 +1711,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY GRIFFIS. 199 MYERS LN LAFOLLETTE TN 37766 SS 10,SM 11,SN 6,W 7 BUS, MP3 AUDIO SERMONS PO BOX 447 205 LAWNVILLE RD KINGSTON TN 37763 SS 10,SM 1055,SN 6,W 7 RADIO, VIDEO SERMONS KJB, BBF PO BOX 844 900 STURGIS S"
+    "description": "LAFOLLETTE TN 37766 SS 10,SM 11,SN 6,W 7 BUS, MP3 AUDIO SERMONS PO BOX 447 ON TN 37763 SS 10,SM 1055,SN 6,W 7 RADIO, VIDEO SERMONS KJB, BBF PO BOX 844 900 STURGIS S"
   },
   {
     "id": "4564",
@@ -1729,7 +1729,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES JONES.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4565",
@@ -1747,7 +1747,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON KUHNS. 1420 OLD ROANE ST HARRIMAN TN 37748 KJB church."
+    "description": "HARRIMAN TN 37748 KJB church"
   },
   {
     "id": "4566",
@@ -1765,7 +1765,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3935 CROMWELL RD CHATTANOOGA TN 37421 SS 10,SM 11,SN 430"
+    "description": "CHATTANOOGA TN 37421 SS 10,SM 11,SN 430"
   },
   {
     "id": "4567",
@@ -1784,7 +1784,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY AYERS. PREPARING SITE: TIMBER RIDGE BIBLE CAMP & CONFERENCE CENTER KJB, UNAFFILIATED 535 5TH ST LAWRENCEBURG TN 38464 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, BUS, PATCH PIRATE, RU FRIDAY 630, BIBLE INSTITUTE"
+    "description": "PREPARING SITE: TIMBER RIDGE BIBLE CAMP & CONFERENCE CENTER KJB, UNAFFILIATED LAWRENCEBURG TN 38464 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, BUS, PATCH PIRATE, RU FRIDAY 630, BIBLE INSTITUTE"
   },
   {
     "id": "4568",
@@ -1803,7 +1803,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM GIDDENS. 1328 STAIR AVE KNOXVILLE TN 37921 SS 10,SM 11,SN 7,W 7 198 MELODY LN SPRING CITY TN 37381 SOULWINNIG, OLD FASHIONED, BUS, PROPHETS CHAMBER KJB, UNAFFILIATED, TBF"
+    "description": "KNOXVILLE TN 37921 SS 10,SM 11,SN 7,W 7 198 MELODY LN SPRING CITY TN 37381 SOULWINNIG, OLD FASHIONED, BUS, PROPHETS CHAMBER KJB, UNAFFILIATED, TBF"
   },
   {
     "id": "4569",
@@ -1821,7 +1821,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1061 902 I C KING RD SEYMOUR TN 37865"
+    "description": "PO BOX 1061 SEYMOUR TN 37865"
   },
   {
     "id": "4570",
@@ -1839,7 +1839,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY BELL. SS 10, SM 11, SN 6, WED 7 VAN, WED YOUTH PROGRAM, VISITATION, TAPE, PRISON, RADIO WKXV 900AM, TN FAITH BIBLE INSTITUTE, LAYMENS BIBLE COLLEGE 3 YEAR PROGRAM; APPALACHIAN MOUNTAIN MISSION: KJB church."
+    "description": "SS 10, SM 11, SN 6, WED 7 VAN, WED YOUTH PROGRAM, VISITATION, TAPE, PRISON, RADIO WKXV 900AM, TN FAITH BIBLE INSTITUTE, LAYMENS BIBLE COLLEGE 3 YEAR PROGRAM; APPALACHIAN MOUNTAIN MISSION: KJB church"
   },
   {
     "id": "4571",
@@ -1848,8 +1848,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7861,
-    "longitude": -86.2017,
+    "latitude": 36.4125,
+    "longitude": -89.9151,
     "phone": "(423) 877-7728",
     "website": "https://www.facebook.com/pages/Lupton-Drive-Baptist-Church/217618151597427",
     "pastor": "FRED RUSSELL",
@@ -1857,12 +1857,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED RUSSELL. 859 LUPTON DR CHATTANOOGA TN 37421 SS 10,SM 1050,SN 6,W 7 KJB church."
+    "description": "CHATTANOOGA TN 37421 SS 10,SM 1050,SN 6,W 7 KJB church"
   },
   {
     "id": "4572",
     "name": "HILLTOP BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 3061",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1875,7 +1875,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER WAGNER. PO BOX 3061 116 CR 86 RICEVILLE TN 37370 KJB church."
+    "description": "116 CR 86 RICEVILLE TN 37370 KJB church"
   },
   {
     "id": "4573",
@@ -1893,7 +1893,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LELAND FRAZIER. 2355 BUCKS POCKET RD SE CLEVELAND TN 37362 309 11TH AVE DAYTON TN 37321 KJB church."
+    "description": "CLEVELAND TN 37362 309 11TH AVE DAYTON TN 37321 KJB church"
   },
   {
     "id": "4574",
@@ -1911,7 +1911,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW B RAY. 84 PEACHTREE ST NASHVILLE TN 37210 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "NASHVILLE TN 37210 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4575",
@@ -1929,12 +1929,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE COZART. 5709 N BROADWAY KNOXVILLE TN 37918 SS 10, SM 11, SN 6, WN 7 2251 HWY 43 S LEOMA TN 38468 KJB church."
+    "description": "KNOXVILLE TN 37918 SS 10, SM 11, SN 6, WN 7 2251 HWY 43 S LEOMA TN 38468 KJB church"
   },
   {
     "id": "4576",
     "name": "HOLY MOUNTAIN BAPTIST CHURCH",
-    "address": "3121 ASHLEY ST",
+    "address": "3686 OVERTON CROSSING ST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1948,7 +1948,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CLENTON PATTERSON. PO BOX 4177 3121 ASHLEY ST KINGSPORT TN 37664 SS 10,SM 11,SN 6,W 7 AWANA, DEAF 3686 OVERTON CROSSING ST MEMPHIS TN 38117 KJB, BBF"
+    "description": "PO BOX 4177 KINGSPORT TN 37664 SS 10,SM 11,SN 6,W 7 AWANA, DEAF MEMPHIS TN 38117 KJB, BBF"
   },
   {
     "id": "4577",
@@ -1967,12 +1967,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY JACKSON. PO BOX 341 107 OLD HEN VALLEY RD OLIVER SPRINGS TN 37840 SS 10,SM 1045,SN 630,W 7 RADIO, TV, AWANA, BUS, DEAF, PRISON, SENIORS, SPANISH, PRINTING, VIDEO & SERMON OUTLINES; MOUNT PISGAH CHRISTIAN ACADE KJB church."
+    "description": "PO BOX 341 OLIVER SPRINGS TN 37840 SS 10,SM 1045,SN 630,W 7 RADIO, TV, AWANA, BUS, DEAF, PRISON, SENIORS, SPANISH, PRINTING, VIDEO & SERMON OUTLINES; MOUNT PISGAH CHRISTIAN ACADE KJB church"
   },
   {
     "id": "4578",
     "name": "CROSS AND CROWN BAPTIST CHURCH",
-    "address": "1220 HAZELWOOD RD",
+    "address": "101 WHITES SCHOOL RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -1987,7 +1987,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID A HEADRICK. PO BOX 31491 1220 HAZELWOOD RD CLARKSVILLE TN 37040 SS 10,SM 11,SN 6,W 7 SOLDIER’S WIVES, SOULWINNING, BUS, CHOIR, KIDS CHOIR, SENIORS 101 WHITES SCHOOL RD KNOXVILLE TN 37920 KJB, UNAFFILIATED 1044 JA"
+    "description": "PO BOX 31491 CLARKSVILLE TN 37040 SS 10,SM 11,SN 6,W 7 SOLDIER’S WIVES, SOULWINNING, BUS, CHOIR, KIDS CHOIR, SENIORS KNOXVILLE TN 37920 KJB, UNAFFILIATED 1044 JA"
   },
   {
     "id": "4579",
@@ -2005,7 +2005,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROSS WILLIFORD. 2000 TEMPLE HILL RD ERWIN TN 37650 KJB church."
+    "description": "ERWIN TN 37650 KJB church"
   },
   {
     "id": "4580",
@@ -2024,7 +2024,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NICK BAILEY. 7007 WRIGHT RD KNOXVILLE TN 37931 SS 10 , SM 11, SN 6,W 7 SS ALL AGES, MASTERS CLUB WED @ 7 KJB, CROWN-BC"
+    "description": "KNOXVILLE TN 37931 SS 10 , SM 11, SN 6,W 7 SS ALL AGES, MASTERS CLUB WED @ 7 KJB, CROWN-BC"
   },
   {
     "id": "4581",
@@ -2044,12 +2044,12 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DONNIE BRYANT. 116 NANCI LANE APT 1 GREENEVILLE TN 37745 SS 945,SM 1055,SN 6,W 7 HIS KIDS,BUS, SOULWINNING, CHOIR, LADIES JUBILEE KJB, UNAFFILIATED 2806 HWY 41 S GREENBRIER TN 37073 SS 945,SM 11,SN 6, W 7"
+    "description": "GREENEVILLE TN 37745 SS 945,SM 1055,SN 6,W 7 HIS KIDS,BUS, SOULWINNING, CHOIR, LADIES JUBILEE KJB, UNAFFILIATED 2806 HWY 41 S GREENBRIER TN 37073 SS 945,SM 11,SN 6, W 7"
   },
   {
     "id": "4582",
     "name": "TEEN CHURCH WED",
-    "address": "81 FRANKLIN RD",
+    "address": "661 WEARS VALLEY RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2064,7 +2064,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOE NELMS. KJB, UNAFFILIATED PO BOX 1039 81 FRANKLIN RD LEBANON TN 37088 SS 10,SM 11,SN 5,W 7 BUS, NURSERY, CHILD., TEENS, LADIES, SOULWINNING, RADIO 661 WEARS VALLEY RD SEVIERVILLE TN 37862 SS 10,SM 1045,SN 6,"
+    "description": "KJB, UNAFFILIATED PO BOX 1039 LEBANON TN 37088 SS 10,SM 11,SN 5,W 7 BUS, NURSERY, CHILD., TEENS, LADIES, SOULWINNING, RADIO SEVIERVILLE TN 37862 SS 10,SM 1045,SN 6"
   },
   {
     "id": "4583",
@@ -2082,7 +2082,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILLIP H LANE. KJB, SOUTHERN GOSPEL"
+    "description": "KJB, SOUTHERN GOSPEL"
   },
   {
     "id": "4584",
@@ -2091,8 +2091,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 36.7168,
-    "longitude": -86.9478,
+    "latitude": 36.009,
+    "longitude": -87.4956,
     "phone": "(276) 386-2255",
     "website": "http://www.roadsidebaptist.com",
     "pastor": "JACOB C SHELTON",
@@ -2100,7 +2100,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACOB C SHELTON. 1309 RIDGECREST AVE KINGSPORT TN 37660-6106 PHYSICAL: HWY 71 N, GATE CITY, VA (SNOWFLAKE COMMUNITY) SS 10,SM 11,SN 6,W 7 TAP, AUDIO SERMONS & MUSIC 2170 CHESTOA PIKE ERWIN TN 37650 KJB church."
+    "description": "KINGSPORT TN 37660-6106 PHYSICAL: HWY 71 N, GATE CITY, VA (SNOWFLAKE COMMUNITY) SS 10,SM 11,SN 6,W 7 TAP, AUDIO SERMONS & MUSIC 2170 CHESTOA PIKE ERWIN TN 37650 KJB church"
   },
   {
     "id": "4585",
@@ -2118,7 +2118,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "ABA church."
+    "description": "ABA church"
   },
   {
     "id": "4586",
@@ -2137,17 +2137,17 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JAMES JOHNSON.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4587",
     "name": "MT HARMONY BAPTIST CHURCH",
-    "address": "171 COLE RD",
+    "address": "171 COLE RD TELLICO PL",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9845,
-    "longitude": -86.9281,
+    "latitude": 35.6835,
+    "longitude": -87.2348,
     "phone": "(423) 253-6948",
     "website": "https://earthlink.net",
     "pastor": "PHIL SHELLABARGER",
@@ -2157,7 +2157,7 @@ export const tennesseeChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by PHIL SHELLABARGER. 171 COLE RD TELLICO PLAINS TN 37385 SS 10,SM 1045,SN 630,W 7 STREET PREACHING, RADIO KJB church."
+    "description": "AINS TN 37385 SS 10,SM 1045,SN 630,W 7 STREET PREACHING, RADIO KJB church"
   },
   {
     "id": "4588",
@@ -2175,7 +2175,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LANNY TATE. 4208 ACCESS RD CHATTANOOGA TN 37343 SS 945,SM 1045,SN 530,W 7 KJB church."
+    "description": "CHATTANOOGA TN 37343 SS 945,SM 1045,SN 530,W 7 KJB church"
   },
   {
     "id": "4589",
@@ -2194,7 +2194,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOMINIC CARDAMONE. 444 FREDONIA RD DUNLAP TN 37327 SS 10,SM 1045,SN 6,W 630 AUDIO SERMONS & MUSIC, RADIO, KINGS KIDS KJB, UNAFFILIATED"
+    "description": "DUNLAP TN 37327 SS 10,SM 1045,SN 6,W 630 AUDIO SERMONS & MUSIC, RADIO, KINGS KIDS KJB, UNAFFILIATED"
   },
   {
     "id": "4590",
@@ -2212,7 +2212,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN KEEVER. 4040 MARYDALE DR NASHVILLE TN 37207 SS 945,SM 11,SN 6,W 7 AWANA, CHOIR KJB church."
+    "description": "NASHVILLE TN 37207 SS 945,SM 11,SN 6,W 7 AWANA, CHOIR KJB church"
   },
   {
     "id": "4591",
@@ -2230,12 +2230,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY ROLEN. 720 LINDEN GREEN DR HERMITAGE TN 37076 KJB church."
+    "description": "HERMITAGE TN 37076 KJB church"
   },
   {
     "id": "4592",
     "name": "HIGH RIDGE BAPTIST CHURCH",
-    "address": "260 HIGH RIDGE RD",
+    "address": "260 HIGH RIDGE RD KINGST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2248,7 +2248,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CALVIN HEADRICK. 260 HIGH RIDGE RD KINGSTON TN 37763 SS 10,SM 11,SN 6,W 7 BUS, JAIL, JR CHURCH, BEGINNERS CHURCH,YOUTH,CHOIR KJB church."
+    "description": "ON TN 37763 SS 10,SM 11,SN 6,W 7 BUS, JAIL, JR CHURCH, BEGINNERS CHURCH,YOUTH,CHOIR KJB church"
   },
   {
     "id": "4593",
@@ -2266,7 +2266,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS WASHAM. 1031 E WOLF VALLEY RD HEISKELL TN 37754 SS 945,SM 11,SN 6,WED 7 KJB, CROWN-BC"
+    "description": "HEISKELL TN 37754 SS 945,SM 11,SN 6,WED 7 KJB, CROWN-BC"
   },
   {
     "id": "4594",
@@ -2275,8 +2275,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7707,
-    "longitude": -87.291,
+    "latitude": 35.2672,
+    "longitude": -89.1789,
     "phone": "(865) 688-3932",
     "website": "https://www.facebook.com/dutchvalleybaptist",
     "pastor": "NE",
@@ -2284,7 +2284,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NE. CLINTON TN 37918 SS 10,SM 11,SN  6,W 7 KJB,CROWN-BC 2245 S WALNUT ST WHITE PINE TN 37890 SS 945,SM 1045,SN 630,W 7 AUDIO SERMONS"
+    "description": "CLINTON TN 37918 SS 10,SM 11,SN 6,W 7 KJB,CROWN-BC 2245 S WALNUT ST WHITE PINE TN 37890 SS 945,SM 1045,SN 630,W 7 AUDIO SERMONS"
   },
   {
     "id": "4595",
@@ -2297,18 +2297,18 @@ export const tennesseeChurches: Church[] = [
     "longitude": -88.1131,
     "phone": "(423) 942-0460",
     "website": "",
-    "pastor": "HAROLD BLEDSOE",
+    "pastor": "MUNFORD TN 38058 SS 10,SM 11,SN 6,W 7 YOUTH, MASTERS CLUB, 10 MINUTES NSA MILLINGT KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HAROLD BLEDSOE. 4163 SEQUATCHIE MOUNTAIN RD SEQUATCHIE TN 37374 SS 10,SM 11,SN 5,W 6 LADIES, MEN, TEEN, FAMILY, CHILDREN 55 ANDREA DR MUNFORD TN 38058 SS 10,SM 11,SN 6,W 7 YOUTH, MASTERS CLUB, 10 MINUTES NSA MILLINGT KJB church."
+    "description": "SEQUATCHIE TN 37374 SS 10,SM 11,SN 5,W 6 LADIES, MEN, TEEN, FAMILY, CHILDREN 55 ANDREA DR MUNFORD TN 38058 SS 10,SM 11,SN 6,W 7 YOUTH, MASTERS CLUB, 10 MINUTES NSA MILLINGT KJB church"
   },
   {
     "id": "4596",
     "name": "OLD PATHS BIBLE BAPTIST CHURCH",
-    "address": "10642 ED LYELL RD",
+    "address": "1340 DINAH SHORE BLVD WINCHEST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "10642",
@@ -2322,7 +2322,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN HINSON. 10642 ED LYELL RD LYLES TN 37098 AUDIO SERMONS KJB, UNAFFILIATED PO BOX 613 1340 DINAH SHORE BLVD WINCHESTER TN 37398 SS 10,SM 11,SN 6,W 7 ARNOLD AFB 15 MILES KJB, UNAFFILIATED, PRE-MIL"
+    "description": "LYLES TN 37098 AUDIO SERMONS KJB, UNAFFILIATED PO BOX 613 ER TN 37398 SS 10,SM 11,SN 6,W 7 ARNOLD AFB 15 MILES KJB, UNAFFILIATED, PRE-MIL"
   },
   {
     "id": "4597",
@@ -2331,8 +2331,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8264,
-    "longitude": -85.5944,
+    "latitude": 36.2641,
+    "longitude": -82.5914,
     "phone": "(423) 288-2161",
     "website": "http://www.biblewayonline.net",
     "pastor": "WAYNE SEXTON",
@@ -2340,7 +2340,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE SEXTON. 570 PACKING HOUSE RD KINGSPORT TN 37660 SS 10,SM 1050,SN 6,W 7 MASTERS CLUBS, AUDIO SERMONS, FREE BIBLE CORRESPONDENCE COURSES KJB church."
+    "description": "KINGSPORT TN 37660 SS 10,SM 1050,SN 6,W 7 MASTERS CLUBS, AUDIO SERMONS, FREE BIBLE CORRESPONDENCE COURSES KJB church"
   },
   {
     "id": "4598",
@@ -2358,7 +2358,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS HUFF. 4234 GAMBLE LN WALLAND TN 37886 SS 930,SM 1030,SN 6,W 7 VAN, DEFENDERS, LAMBS, YOUNG ADULT CHOIR, AUDIO SERMONS KJB church."
+    "description": "WALLAND TN 37886 SS 930,SM 1030,SN 6,W 7 VAN, DEFENDERS, LAMBS, YOUNG ADULT CHOIR, AUDIO SERMONS KJB church"
   },
   {
     "id": "4599",
@@ -2376,7 +2376,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY WALLER. 7003 RALEIGH MILLINGTON RD MILLINGTON TN 38053 KJB church."
+    "description": "MILLINGTON TN 38053 KJB church"
   },
   {
     "id": "4600",
@@ -2395,12 +2395,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MITCH AYERS. 2783 ROCK SPRINGS RD KINGSPORT TN 37659 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "KINGSPORT TN 37659 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "4601",
     "name": "CARTERTOWN BAPTIST CHURCH",
-    "address": "677 CARTERTOWN RD",
+    "address": "5422 DRUMMONDS RD DR",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2413,7 +2413,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY AARON. 677 CARTERTOWN RD GATLINBURG TN 37738 SS 945,SM 1045,SN 6,W 7 5422 DRUMMONDS RD DRUMMONDS TN 38023 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GATLINBURG TN 37738 SS 945,SM 1045,SN 6,W 7 UMMONDS TN 38023 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4602",
@@ -2432,7 +2432,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHNNY NIX JR. PO BOX 22224 3832 YOUNGSTOWN RD CHATTANOOGA TN 37422 SS 10,SM 11,SN 630,W 7 BUS, SINGLE, CHOIR, TEEN, YOUTH, RADIO, PROPHETS CHAMBER 3191 S LEE HWY MCDONALD TN 37320 SS 10,SM 1045,SN 6,W 7 AUDIO SERMO KJB church."
+    "description": "PO BOX 22224 CHATTANOOGA TN 37422 SS 10,SM 11,SN 630,W 7 BUS, SINGLE, CHOIR, TEEN, YOUTH, RADIO, PROPHETS CHAMBER 3191 S LEE HWY MCDONALD TN 37320 SS 10,SM 1045,SN 6,W 7 AUDIO SERMO KJB church"
   },
   {
     "id": "4603",
@@ -2451,12 +2451,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHRIS RIMES. 4560 HWY 70 W WAVERLY TN 37185 SS 945,SM 11,SN 630,W 7 5121 LEANNA RD MURFREESBORO TN 37129 SS 10,SM 11,SN 6,W 7 CHOIR, RADIO, SOULWINNING, KINGS KIDS, ZION HILL BIBLE INSTITUTE KJB church."
+    "description": "4560 HWY 70 W WAVERLY TN 37185 SS 945,SM 11,SN 630,W 7 MURFREESBORO TN 37129 SS 10,SM 11,SN 6,W 7 CHOIR, RADIO, SOULWINNING, KINGS KIDS, ZION HILL BIBLE INSTITUTE KJB church"
   },
   {
     "id": "4604",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "720 MARSHALL AVE",
+    "address": "720 MARSHALL AVE MORRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2469,17 +2469,17 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID PRICE. 720 MARSHALL AVE MORRISTOWN TN 37814 SS 10,SM 11,SN 6,WED 7 MISSIONARIES,YOUTH KJB, IFFB"
+    "description": "OWN TN 37814 SS 10,SM 11,SN 6,WED 7 MISSIONARIES,YOUTH KJB, IFFB"
   },
   {
     "id": "4605",
     "name": "PROVIDENCE BAPTIST CHURCH",
-    "address": "",
+    "address": "7 MAST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8749,
-    "longitude": -86.3713,
+    "latitude": 35.0623,
+    "longitude": -82.8541,
     "phone": "(615) 382-5480",
     "website": "http://providencecoopertown.com",
     "pastor": "MILTON PAUL RAINES",
@@ -2487,12 +2487,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MILTON PAUL RAINES. 3850 HWY 49 W SPRINGFIELD TN 37172 COOPERTOWN & GOODLETTSVILLE AREA SS 930,SM 1030,SN , W 7 MASTERS CLUB, YOUTH, AUDIO SERMONS, FORT CAMPBELL MINUTES AWAY Part 4 KJB church."
+    "description": "3850 HWY 49 W SPRINGFIELD TN 37172 COOPERTOWN & GOODLETTSVILLE AREA SS 930,SM 1030,SN , W ERS CLUB, YOUTH, AUDIO SERMONS, FORT CAMPBELL MINUTES AWAY Part 4 KJB church"
   },
   {
     "id": "4606",
     "name": "FAITH BAPTIST CHURCH OF CROSS BRIDGES",
-    "address": "",
+    "address": "412 W MT PL",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2505,7 +2505,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY B ROBBINS. 3074 HAMPSHIRE PIKE HWY 412 W MT PLEASANT TN 38474 SS 9,SM 10 KJB church."
+    "description": "3074 HAMPSHIRE PIKE HWY EASANT TN 38474 SS 9,SM 10 KJB church"
   },
   {
     "id": "4607",
@@ -2523,7 +2523,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY STEWART. PO BOX 444 1030 OLD BOONES RD JONESBOROUGH TN 37659 SS 10,SM 11,SN 6,W 7 RADIO WIGN 1550 & WZAP 690 KJB church."
+    "description": "PO BOX 444 JONESBOROUGH TN 37659 SS 10,SM 11,SN 6,W 7 RADIO WIGN 1550 & WZAP 690 KJB church"
   },
   {
     "id": "4608",
@@ -2559,7 +2559,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLENN LEFFEW. PO BOX 574 1010 MARGRAVE DR HARRIMAN TN 37748 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 574 HARRIMAN TN 37748 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4610",
@@ -2577,7 +2577,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE NELSON. 1058 GRAYSVILLE RD CHATTANOOGA TN 37421 SS 950,SM 1050,SN 6,W 7 AUDIO SERMONS, AWANA KJB church."
+    "description": "CHATTANOOGA TN 37421 SS 950,SM 1050,SN 6,W 7 AUDIO SERMONS, AWANA KJB church"
   },
   {
     "id": "4611",
@@ -2595,7 +2595,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "244 FRED DAVIS JR RD HARRIMAN TN 37748 SS 10,SM 11,SN 6,W 7"
+    "description": "HARRIMAN TN 37748 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4612",
@@ -2613,12 +2613,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES BUSSARD.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4613",
     "name": "PINECREST BAPTIST CHURCH",
-    "address": "210 LARRY DRIVE",
+    "address": "1010 HARMON SPRINGS RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2632,7 +2632,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RANDY BOGGESS. 2809 TAFT HWY SIGNAL MOUNTAIN TN 37377 SS 10,SM 11,SA 130,W 7 SOULWINNING, TEENS, AUDIO SERMONS & LIVESTREAM, NURSERY 210 LARRY DRIVE RINGGOLD GA 30736 SS 10,SM 11,SN 6,W 7 1010 HARMON SPRINGS RD DICK KJB church."
+    "description": "2809 TAFT HWY SIGNAL MOUNTAIN TN 37377 SS 10,SM 11,SA 130,W 7 SOULWINNING, TEENS, AUDIO SERMONS & LIVESTREAM, NURSERY RINGGOLD GA 30736 SS 10,SM 11,SN 6,W 7 DICK KJB church"
   },
   {
     "id": "4614",
@@ -2651,7 +2651,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRANDON SMITH. 1610 RIVERVIEW DR MURFREESBORO TN 37130 SS 9,SM 10,SN 6,W 7 CHILDREN’S CHURCH, BUS KJB church."
+    "description": "MURFREESBORO TN 37130 SS 9,SM 10,SN 6,W 7 CHILDREN’S CHURCH, BUS KJB church"
   },
   {
     "id": "4615",
@@ -2671,17 +2671,17 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOSEPH LANG. 801 BEUERLEIN ST LAWRENCEBURG TN 38464 KJB, SOL, PCC, CROWN 268 MARLIN RD WHITE HOUSE TN 37188 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED PO BOX 292 608 NEELY AVE SHELBYVILLE TN 37160 SS 945"
+    "description": "LAWRENCEBURG TN 38464 KJB, SOL, PCC, CROWN 268 MARLIN RD WHITE HOUSE TN 37188 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED PO BOX 292 608 NEELY AVE SHELBYVILLE TN 37160 SS 945"
   },
   {
     "id": "4616",
     "name": "STEELE CREEK MISSIONARY BAPTIST CHURCH",
-    "address": "627 OLD STAGE TRAIL",
+    "address": "627 OLD STAGE TRAIL BRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 36.7035,
-    "longitude": -87.4202,
+    "latitude": 35.2791,
+    "longitude": -89.8516,
     "phone": "(423) 968-7079",
     "website": "",
     "pastor": "FRED ALLRED",
@@ -2689,12 +2689,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED ALLRED. 627 OLD STAGE TRAIL BRISTOL TN 37620 KJB church."
+    "description": "OL TN 37620 KJB church"
   },
   {
     "id": "4617",
     "name": "FAITH BAPTIST TABERNACLE",
-    "address": "123 N MAIN ST",
+    "address": "123 N MAIN ST JAMEST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2707,7 +2707,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROY OGLE. PO BOX 1624 123 N MAIN ST JAMESTOWN TN 38556 SS 945,SM 11,SN 6,W 7 RADIO, TV, CHOIR, TEEN, WORD OF LIFE CLUBS KJB church."
+    "description": "PO BOX 1624 OWN TN 38556 SS 945,SM 11,SN 6,W 7 RADIO, TV, CHOIR, TEEN, WORD OF LIFE CLUBS KJB church"
   },
   {
     "id": "4618",
@@ -2726,7 +2726,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PAUL IANNELLO. 248 MEADOWLARK COVE RD SEVIERVILLE TN 37876 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "SEVIERVILLE TN 37876 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4619",
@@ -2744,12 +2744,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE CAPE. 2948 UNION ROAD WHITE HOUSE TN 37188 SS 10,SM 11,SN 3,W 7 KJB, HAC"
+    "description": "WHITE HOUSE TN 37188 SS 10,SM 11,SN 3,W 7 KJB, HAC"
   },
   {
     "id": "4620",
     "name": "HILLSIDE BAPTIST CHURCH",
-    "address": "6311 DAYTON BLVD",
+    "address": "5470 RALEIGH LAGRANGE RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -2762,7 +2762,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG ANDERSON. 6311 DAYTON BLVD HIXSON TN 37343 SS 950,SM 11, S BT 530,SN 630,W 730 BUS, RADIO, REFORMERS UNANIMOUS, CHILDREN, TEEN, DEAF, AUDIO SERMONS 5470 RALEIGH LAGRANGE RD MEMPHIS TN 38134-5698 PHYSICAL ADD: 1 KJB church."
+    "description": "HIXSON TN 37343 SS 950,SM 11, S BT 530,SN 630,W 730 BUS, RADIO, REFORMERS UNANIMOUS, CHILDREN, TEEN, DEAF, AUDIO SERMONS MEMPHIS TN 38134-5698 PHYSICAL ADD: 1 KJB church"
   },
   {
     "id": "4621",
@@ -2781,7 +2781,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID MARTIN. 464 HWY 21 HAMPTON TN 37658 SS 10,SM 11,SN 630,W 7 SOULWINNING KJB, RUCKMAN-PBI, TABB"
+    "description": "464 HWY 21 HAMPTON TN 37658 SS 10,SM 11,SN 630,W 7 SOULWINNING KJB, RUCKMAN-PBI, TABB"
   },
   {
     "id": "4622",
@@ -2799,7 +2799,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK GAGLIANO. 5893 OLD BROWNSVILLE RD BARTLETT TN 38135 SM 11,SN 6 NSA MEMPHIS (MILLINGTON) 10 MINUTES KJB, CROWN-BC"
+    "description": "BARTLETT TN 38135 SM 11,SN 6 NSA MEMPHIS (MILLINGTON) 10 MINUTES KJB, CROWN-BC"
   },
   {
     "id": "4623",
@@ -2808,16 +2808,16 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 36.7215,
-    "longitude": -86.3974,
+    "latitude": 36.3701,
+    "longitude": -83.2408,
     "phone": "(615) 384-5073",
     "website": "http://www.southhavenbaptist.org",
-    "pastor": "TONY KEETON",
+    "pastor": "(SCHOOL) SS 930,SM 1045,SN 630,W 7 BUS, AUDIO SERMONS; SOUTH HAVEN CHRISTIAN SCHOOL PS-12; FT CAMPBELL 20 MILES KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY KEETON. 116 ACADEMY DR SPRINGFIELD TN 37172 114 ACADEMY DR (SCHOOL) SS 930,SM 1045,SN 630,W 7 BUS, AUDIO SERMONS; SOUTH HAVEN CHRISTIAN SCHOOL PS-12; FT CAMPBELL 20 MILES KJB church."
+    "description": "SPRINGFIELD TN 37172 114 ACADEMY DR (SCHOOL) SS 930,SM 1045,SN 630,W 7 BUS, AUDIO SERMONS; SOUTH HAVEN CHRISTIAN SCHOOL PS-12; FT CAMPBELL 20 MILES KJB church"
   },
   {
     "id": "4624",
@@ -2835,7 +2835,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL CHISGAR. 1900 LONGVIEW RD UNION CITY TN 38261 SS 10,SM 11,SN 6,W 7 BUS, CAMP, TEENS, YOUTH, SENIORS, COUPLES KJB, HAC"
+    "description": "UNION CITY TN 38261 SS 10,SM 11,SN 6,W 7 BUS, CAMP, TEENS, YOUTH, SENIORS, COUPLES KJB, HAC"
   },
   {
     "id": "4625",
@@ -2853,7 +2853,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEO CROFFORD. 5742 SEMINARY RD SYMRNA TN 37167 SS 945,SM 1045,SN 6,W 7 SENIORS, TEEN, 2ND MILE CLUB, CHILDREN’S CHOIR, AUDIO SERMONS 4070 MACON RD MEMPHIS TN 38122 SS 10,SM 1045,SN 430,W 7 PO BOX 30515 131 CORPORAT KJB church."
+    "description": "SYMRNA TN 37167 SS 945,SM 1045,SN 6,W 7 SENIORS, TEEN, 2ND MILE CLUB, CHILDREN’S CHOIR, AUDIO SERMONS 4070 MACON RD MEMPHIS TN 38122 SS 10,SM 1045,SN 430,W 7 PO BOX 30515 131 CORPORAT KJB church"
   },
   {
     "id": "4626",
@@ -2871,17 +2871,17 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2437 E MAGNOLIA AVE 2434 E 5TH AVE (SCHOOL) KNOXVILLE TN 37917"
+    "description": "2434 E 5TH AVE (SCHOOL) KNOXVILLE TN 37917"
   },
   {
     "id": "4627",
     "name": "KNOXVILLE BAPTIST CHRISTIAN SCHOOL",
-    "address": "71 FAIRLANE DR",
+    "address": "71 FAIRLANE DR MANCHEST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7509,
-    "longitude": -85.5626,
+    "latitude": 35.6022,
+    "longitude": -83.7526,
     "phone": "(104) 932-4228",
     "website": "http://www.knoxvillebaptisttabernacle.com",
     "pastor": "GREG NASH",
@@ -2891,7 +2891,7 @@ export const tennesseeChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GREG NASH. SS 945,SM 11,SN 7,W 730 TEEN, SINGLES, SENIORS TUE KJB, UNAFFILIATED PO BOX 900 71 FAIRLANE DR MANCHESTER TN 37349 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, AWANA, YOUTH, SOULWINNING, AUDIO SERMONS; TEMPLE BAP"
+    "description": "SS 945,SM 11,SN 7,W 730 TEEN, SINGLES, SENIORS TUE KJB, UNAFFILIATED PO BOX 900 ER TN 37349 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, AWANA, YOUTH, SOULWINNING, AUDIO SERMONS; TEMPLE BAP"
   },
   {
     "id": "4628",
@@ -2900,8 +2900,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9306,
-    "longitude": -87.3509,
+    "latitude": 36.3929,
+    "longitude": -88.955,
     "phone": "(901) 313-2919",
     "website": "http://fbcatoka.org",
     "pastor": "JAMIE COLBERT",
@@ -2909,7 +2909,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMIE COLBERT. 102 KIMBROUGH AVE ATOKA TN 38004 SS 945, SM 1045,SN 6,W 7 AUDIO SERMONS, YOUTH, SENIORS, JAIL 4601 N TERRACE CHATTANOOGA TN 37411 406 S PARKDALE (PAS) SS 10,SM 11,SN 6,W 7 BUS,TEEN; CALVARY CHRISTIAN  KJB church."
+    "description": "ATOKA TN 38004 SS 945, SM 1045,SN 6,W 7 AUDIO SERMONS, YOUTH, SENIORS, JAIL 4601 N TERRACE CHATTANOOGA TN 37411 406 S PARKDALE (PAS) SS 10,SM 11,SN 6,W 7 BUS,TEEN; CALVARY CHRISTIAN KJB church"
   },
   {
     "id": "4629",
@@ -2927,7 +2927,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE NORRIS. 1585 MT TABOR RD MARYVILLE TN 37801 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "MARYVILLE TN 37801 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4630",
@@ -2945,7 +2945,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLARENCE SEXTON. 3148 FRANKLIN RD 3124 FRANKLIN RD (SCHOOL) MURFREESBORO TN 37128 SS 10,SM 11,SN 630,W 7 RADIO WSM 650 AM, BUS, LOATIAN, SPANISH; FRANKLIN RD CHRISTIAN SCHOOL PS-12; TENNESSEE BAPTIST INSTITUTE KJB, HA"
+    "description": "3124 FRANKLIN RD (SCHOOL) MURFREESBORO TN 37128 SS 10,SM 11,SN 630,W 7 RADIO WSM 650 AM, BUS, LOATIAN, SPANISH; FRANKLIN RD CHRISTIAN SCHOOL PS-12; TENNESSEE BAPTIST INSTITUTE KJB, HA"
   },
   {
     "id": "4631",
@@ -2964,7 +2964,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by WALTER WAGNER. PO BOX 249 WHITWELL TN 37397 SS 945,SM 11,SN 6,W 630 246 HILTON ST KINGSPORT TN 37662 SS 10,SM 11,SN 6,W 7 130 E MAPLE SHARON TN 38255 SS 930,SM 11,SN 230,W 7 KJB, PBI"
+    "description": "PO BOX 249 WHITWELL TN 37397 SS 945,SM 11,SN 6,W 630 KINGSPORT TN 37662 SS 10,SM 11,SN 6,W 7 130 E MAPLE SHARON TN 38255 SS 930,SM 11,SN 230,W 7 KJB, PBI"
   },
   {
     "id": "4632",
@@ -2982,7 +2982,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CECIL STURGILL. 3450 NEW LAKE RD SPRING CITY TN 37381 SS 10,SM 11,SN 6,W 7 KJB, KIDD"
+    "description": "SPRING CITY TN 37381 SS 10,SM 11,SN 6,W 7 KJB, KIDD"
   },
   {
     "id": "4633",
@@ -3000,7 +3000,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GALEN S HALL. 1444 BLOOMINGDALE RD KINGSPORT TN 37660 SS 10,SM 11,SN 6,W 7 BUS, PROPHETS CHAMBER KJB church."
+    "description": "KINGSPORT TN 37660 SS 10,SM 11,SN 6,W 7 BUS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "4634",
@@ -3018,7 +3018,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WESLEY DUNCAN. PO BOX 232 1203 LONE OAK DR UNION CITY TN 38281-0232 KJB, GIPP"
+    "description": "PO BOX 232 UNION CITY TN 38281-0232 KJB, GIPP"
   },
   {
     "id": "4635",
@@ -3037,7 +3037,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL E NAPIER. PO BOX 497 329 LONGVIEW DR WARTBURG TN 37887 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 497 WARTBURG TN 37887 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4636",
@@ -3055,7 +3055,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG BRACKIN. 124 E INSKIP DR KNOXVILLE TN 37912-4121 SS 10, SM 11,SN 2, W 730 KJB, SOL"
+    "description": "KNOXVILLE TN 37912-4121 SS 10, SM 11,SN 2, W 730 KJB, SOL"
   },
   {
     "id": "4637",
@@ -3073,17 +3073,17 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SONNY TOLBERT. 2940 CALDERWOOD HWY MARYVILLE TN 37801 SS 10,SM 11,SN 6,W 7 4680 RALEIGH LAGRANGE RD MEMPHIS TN 38128 KJB, MBA"
+    "description": "2940 CALDERWOOD HWY MARYVILLE TN 37801 SS 10,SM 11,SN 6,W 7 MEMPHIS TN 38128 KJB, MBA"
   },
   {
     "id": "4638",
     "name": "EASTWOOD BAPTIST CHURCH",
-    "address": "1552 ELGIN DR",
+    "address": "1552 ELGIN DR MORRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.783,
-    "longitude": -86.556,
+    "latitude": 36.412,
+    "longitude": -82.6825,
     "phone": "(423) 581-1615",
     "website": "http://www.bbcrickman.com",
     "pastor": "TIMOTHY A WILSON",
@@ -3091,7 +3091,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY A WILSON. 1552 ELGIN DR MORRISTOWN TN 37814 SS 10,SM 11,SN 6,W 730 3515 RICKMAN RD RICKMAN TN 38580 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "OWN TN 37814 SS 10,SM 11,SN 6,W 730 3515 RICKMAN RD RICKMAN TN 38580 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4639",
@@ -3110,7 +3110,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by CLAUDE E PARSON. 261 CR 439 ATHENS TN 37303 SS 10,SM 11,SN 6,W 7 KINGS KIDS, BUS, SPANISH, AUDIO SERMONS; FAIRVIEW CHRISTAIN ADADEMY PS-12 AACS; KJB, PRE-MIL, PRE-TRIB, NASTIBF-NORTH ALABAMA, S TN IBF, SOUTHWIDE PO BO"
+    "description": "261 CR 439 ATHENS TN 37303 SS 10,SM 11,SN 6,W 7 KINGS KIDS, BUS, SPANISH, AUDIO SERMONS; FAIRVIEW CHRISTAIN ADADEMY PS-12 AACS; KJB, PRE-MIL, PRE-TRIB, NASTIBF-NORTH ALABAMA, S TN IBF, SOUTHWIDE PO BO"
   },
   {
     "id": "4640",
@@ -3128,7 +3128,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE OWNBY. 3200 ROSSVILLE BLVD CHATTANOOGA TN 37407 MAILING ADDRESS: 3204 CLIO AVENUE SS 945/10; SM 1050, SN 6, W 7 CHILDREN, AWANA, YOUTH, SENIOR ADULTS, CHOIR, ORCHESTRA KJB church."
+    "description": "CHATTANOOGA TN 37407 MAILING ADDRESS: 3204 CLIO AVENUE SS 945/10; SM 1050, SN 6, W 7 CHILDREN, AWANA, YOUTH, SENIOR ADULTS, CHOIR, ORCHESTRA KJB church"
   },
   {
     "id": "4641",
@@ -3137,8 +3137,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9331,
-    "longitude": -85.5241,
+    "latitude": 36.1448,
+    "longitude": -90.0834,
     "phone": "(865) 429-1611",
     "website": "http://sowingtheseedministries.com",
     "pastor": "RON RALPH",
@@ -3147,7 +3147,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RON RALPH. 2330 WEBB RD SEVIERVILLE TN 37876 SS 930,SM 1045,SN 6,W 7 55 MASSEY RD CARTHAGE TN 37030 SS 10,SM 11,SN 6,W 7 SOULWINNING, RADIO, GERMAN, AUDIO SERMONS PO BOX 4204 ONEIDA TN 37852 in the CAPITAL HILL  KJB church."
+    "description": "SEVIERVILLE TN 37876 SS 930,SM 1045,SN 6,W 7 55 MASSEY RD CARTHAGE TN 37030 SS 10,SM 11,SN 6,W 7 SOULWINNING, RADIO, GERMAN, AUDIO SERMONS PO BOX 4204 ONEIDA TN 37852 in the CAPITAL HILL KJB church"
   },
   {
     "id": "4642",
@@ -3165,17 +3165,17 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN BONHAM. 1800 WILSON RD KNOXVILLE TN 37912 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "KNOXVILLE TN 37912 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "4643",
     "name": "FRIENDLY WELCOME BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 372",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9831,
-    "longitude": -86.3605,
+    "latitude": 35.9001,
+    "longitude": -81.9894,
     "phone": "(865) 483-1315",
     "website": "",
     "pastor": "RON WILLIAMS",
@@ -3183,7 +3183,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON WILLIAMS. PO BOX 372 OLIVER SPRINGS TN 37840 KJB church."
+    "description": "OLIVER SPRINGS TN 37840 KJB church"
   },
   {
     "id": "4644",
@@ -3202,12 +3202,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GEARY MILLER. PO BOX 532 LAFOLLETTE TN 37757 821 MT PARAN RD JACKSBORO AREA SS 930,SM 1030,SN 6,W 7 KJB, BBF"
+    "description": "PO BOX 532 LAFOLLETTE TN 37757 JACKSBORO AREA SS 930,SM 1030,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "4645",
     "name": "MORRISTOWN BAPTIST TABERNACLE",
-    "address": "918 JARNAGIN AVE",
+    "address": "918 JARNAGIN AVE MORRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3221,7 +3221,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL VAN ZEE. PO BOX 684 918 JARNAGIN AVE MORRISTOWN TN 37815 SS 10,SM 1045,SN 6,W 730 BUS, YOUTH, COUPLES, DAYCARE; LAKEWAY CHRISTIAN SCHOOL K-12 526 HIGHWAY 73 NEWPORT TN 37821 SS 930,SM 1030,SN 6,W 7-645 AWANA S KJB church."
+    "description": "PO BOX 684 OWN TN 37815 SS 10,SM 1045,SN 6,W 730 BUS, YOUTH, COUPLES, DAYCARE; LAKEWAY CHRISTIAN SCHOOL K-12 526 HIGHWAY 73 NEWPORT TN 37821 SS 930,SM 1030,SN 6,W 7-645 AWANA S KJB church"
   },
   {
     "id": "4646",
@@ -3240,7 +3240,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SAM CRAVETT. PO BOX 1046 420 COLE DR PIGEON FORGE TN 37863 SS 10,SM 11,SN 6,W 7 RADIO WSEV 930 AM, THE DESERT PLACE HAVEN OF REST KJB, UNAFFILIATED"
+    "description": "PO BOX 1046 PIGEON FORGE TN 37863 SS 10,SM 11,SN 6,W 7 RADIO WSEV 930 AM, THE DESERT PLACE HAVEN OF REST KJB, UNAFFILIATED"
   },
   {
     "id": "4647",
@@ -3258,7 +3258,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID BURRELL. 9200 PINE RIDGE RD CHATTANOOGA TN 37405 KJB church."
+    "description": "CHATTANOOGA TN 37405 KJB church"
   },
   {
     "id": "4648",
@@ -3276,12 +3276,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN STEWART. PO BOX 1162 114 HARBOR LIGHT DR JOHNSON CITY TN 37601 SS 10,SM 11,SN 6,W 730 890 ROCK SPRING RD SYMRNA TN 37167 SM 1030, SN 630, TH 7 AUDIO SERMONS PO BOX 897 4295 HWY 70 W DICKSON TN 37055 SS 10,SM 1 KJB church."
+    "description": "PO BOX 1162 JOHNSON CITY TN 37601 SS 10,SM 11,SN 6,W 730 890 ROCK SPRING RD SYMRNA TN 37167 SM 1030, SN 630, TH 7 AUDIO SERMONS PO BOX 897 4295 HWY 70 W DICKSON TN 37055 SS 10,SM 1 KJB church"
   },
   {
     "id": "4649",
     "name": "MILLERSBURG BAPTIST CHURCH",
-    "address": "5768 HOOVERS GAP RD",
+    "address": "5768 HOOVERS GAP RD CHRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3294,7 +3294,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK BRANDON. 5768 HOOVERS GAP RD CHRISTIANA TN 37037 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "IANA TN 37037 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4650",
@@ -3314,7 +3314,7 @@ export const tennesseeChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by RON WESTMORELAND. 518 BROWN’S FERRY RD CHATTANOOGA TN 37419 SS 945,SM 1050,SN 6,W 7 BUS, AUDO SERMONS KJB, BBF 6001 GOODMAN RD WALLS MS 38680 MEMPHIS TN"
+    "description": "518 BROWN’S FERRY RD CHATTANOOGA TN 37419 SS 945,SM 1050,SN 6,W 7 BUS, AUDO SERMONS KJB, BBF WALLS MS 38680 MEMPHIS TN"
   },
   {
     "id": "4651",
@@ -3327,13 +3327,13 @@ export const tennesseeChurches: Church[] = [
     "longitude": -86.7559,
     "phone": "(662) 781-7777",
     "website": "http://sites.netscape.net/tsbaptistcollege",
-    "pastor": "CHRIS BALL",
+    "pastor": "JACKSON TN 38305 SS 945,SM 11,SN 6,W 7 VANN DRIVE CHRISTIAN ACADEMY; BUS, SOULWINNING, CHOIR, CHILDREN NEW HOP KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHRIS BALL. SS 945,SM 1045,SN 6,W 7 1411 SCHOOL ST COLUMBIA TN 38401 SS 10,SM 11,SN 6,W 6 2155 VAN DR JACKSON TN 38305 SS 945,SM 11,SN 6,W 7 VANN DRIVE CHRISTIAN ACADEMY; BUS, SOULWINNING, CHOIR, CHILDREN NEW HOP KJB church."
+    "description": "SS 945,SM 1045,SN 6,W 7 COLUMBIA TN 38401 SS 10,SM 11,SN 6,W 6 2155 VAN DR JACKSON TN 38305 SS 945,SM 11,SN 6,W 7 VANN DRIVE CHRISTIAN ACADEMY; BUS, SOULWINNING, CHOIR, CHILDREN NEW HOP KJB church"
   },
   {
     "id": "4652",
@@ -3342,8 +3342,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8777,
-    "longitude": -86.7109,
+    "latitude": 36.123,
+    "longitude": -83.2756,
     "phone": "",
     "website": "",
     "pastor": "",
@@ -3351,12 +3351,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4653",
     "name": "IMMANUEL BAPTIST CHURCH",
-    "address": "7024 N MAIN ST",
+    "address": "7024 N  MAIN ST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3370,7 +3370,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SAM MORRIS. PO BOX 724 7024 N  MAIN ST MILAN TN 38358 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2934 HUNTSVILLE HWY FAYETTEVILLE TN 37334 SS 10, SM 11, MEAL, 2 SA ELK VALLEY CAMP MEETING, LOCAL CHURCH PLANTING, STRE"
+    "description": "PO BOX 724 MILAN TN 38358 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2934 HUNTSVILLE HWY FAYETTEVILLE TN 37334 SS 10, SM 11, MEAL, 2 SA ELK VALLEY CAMP MEETING, LOCAL CHURCH PLANTING, STRE"
   },
   {
     "id": "4654",
@@ -3388,7 +3388,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILL GOUGE. RR 1 BOX 473 JACKSBORO TN 37757 LAFOLLETTE AREA KJB, GIPP"
+    "description": "RR 1 BOX 473 JACKSBORO TN 37757 LAFOLLETTE AREA KJB, GIPP"
   },
   {
     "id": "4655",
@@ -3407,12 +3407,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICHARD SEVILLA JR. HWY 61 HARRIMAN TN 37748 HWY 61 JUST OUTSIDE OF  OLIVER SPRINGS TOWARDS HARRIMAN ACROSS FROM SCANDLYN LUMBER COMPANY SS 10,SM 11,SN 6,W 7 KJB, PCC"
+    "description": "HWY 61 HARRIMAN TN 37748 SS 10,SM 11,SN 6,W 7 KJB, PCC"
   },
   {
     "id": "4656",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "711 N HOUSTON LEVEE RD",
+    "address": "711 N HOUSTON LEVEE RD CORD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3425,7 +3425,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NORMAN C SMELCER SR. 711 N HOUSTON LEVEE RD CORDOVA TN 38018 SS 930,SM 1045,SN 530,W 7 AWANA, DEAF, SENIORS; HERITAGE BAPTIST ACADEMY KJB church."
+    "description": "OVA TN 38018 SS 930,SM 1045,SN 530,W 7 AWANA, DEAF, SENIORS; HERITAGE BAPTIST ACADEMY KJB church"
   },
   {
     "id": "4657",
@@ -3438,12 +3438,12 @@ export const tennesseeChurches: Church[] = [
     "longitude": -85.9898,
     "phone": "(865) 577-7114",
     "website": "http://reocities.com/Heartland/Ridge/1523",
-    "pastor": "DR JIM ROLEN",
+    "pastor": "TULLAHOMA TN 37388 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS & MUSIC, RADIO, ONLINE DEVOTIONS KJB, HYPER-DISPENSATIONAL",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR JIM ROLEN. 2637 BLOUNT AVE KNOXVILLE TN 37920 SS 945,SM 11,SN 630,W 7 408 WESTSIDE DR TULLAHOMA TN 37388 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS & MUSIC, RADIO, ONLINE DEVOTIONS KJB, HYPER-DISPENSATIONAL"
+    "description": "KNOXVILLE TN 37920 SS 945,SM 11,SN 630,W 7 408 WESTSIDE DR TULLAHOMA TN 37388 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS & MUSIC, RADIO, ONLINE DEVOTIONS KJB, HYPER-DISPENSATIONAL"
   },
   {
     "id": "4658",
@@ -3461,7 +3461,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY TEASTER. 3827 HIXSON PK CHATTANOOGA TN 37415 KJB church."
+    "description": "3827 HIXSON PK CHATTANOOGA TN 37415 KJB church"
   },
   {
     "id": "4659",
@@ -3479,7 +3479,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "4502 ROCKY BRANCH RD WALLAND TN 37886 KJB, CROWN,WEST COAST, GOLDEN STATE"
+    "description": "WALLAND TN 37886 KJB, CROWN,WEST COAST, GOLDEN STATE"
   },
   {
     "id": "4660",
@@ -3497,7 +3497,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM CRAIG. 1475 OLD HWY 27 ROBBINS TN 37852 SS 10,SM 11,SN 6,W 7 KINGS KIDS, PROTEENS KJB church."
+    "description": "1475 OLD HWY 27 ROBBINS TN 37852 SS 10,SM 11,SN 6,W 7 KINGS KIDS, PROTEENS KJB church"
   },
   {
     "id": "4661",
@@ -3516,7 +3516,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WAYNE PURCELL. 1451 BETHEL VALLEY RD OAK RIDGE TN 37831 SS 10,SM 11,SN 6,W 7 ORCHESTRA, TEENS KJB, UNAFFILIATED"
+    "description": "OAK RIDGE TN 37831 SS 10,SM 11,SN 6,W 7 ORCHESTRA, TEENS KJB, UNAFFILIATED"
   },
   {
     "id": "4662",
@@ -3534,7 +3534,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUSTY RAY. 6198 ERIN RD MCEWEN TN 37101 5 MILES N OF TOWN SS 10,SM 11,SN 530,W 7 FORT CAMPBELL KY 40 MILES KJB, HAC"
+    "description": "MCEWEN TN 37101 5 MILES N OF TOWN SS 10,SM 11,SN 530,W 7 FORT CAMPBELL KY 40 MILES KJB, HAC"
   },
   {
     "id": "4663",
@@ -3553,7 +3553,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KERMIT TROUTMAN. 307 E JEFFERSON PIKE MURFREESBORO TN 37129 SOULWINNING, PATCH PIRATE SS 945,SM 1045,SN 630,W 7 KJB church."
+    "description": "307 E JEFFERSON PIKE MURFREESBORO TN 37129 SOULWINNING, PATCH PIRATE SS 945,SM 1045,SN 630,W 7 KJB church"
   },
   {
     "id": "4664",
@@ -3566,12 +3566,12 @@ export const tennesseeChurches: Church[] = [
     "longitude": -87.3633,
     "phone": "(865) 932-0626",
     "website": "http://www.eastsidebaptist.info",
-    "pastor": "DAVID FOX",
+    "pastor": "GREENEVILLE TN 37745 SS 930,SM 1030,SN 630,W 7 5335 CLEMONS RD CHATTANOOGA TN 37412-3107 SS 10,SM 1050,SN 630 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID FOX. 8205 STRAWBERRY PLAINS PIKE KNOXVILLE TN 37924-4420 SS 10,SM 11,SN 630,W 730 195 SERRAL DR GREENEVILLE TN 37745 SS 930,SM 1030,SN 630,W 7 5335 CLEMONS RD CHATTANOOGA TN 37412-3107 SS 10,SM 1050,SN 630 KJB church."
+    "description": "KNOXVILLE TN 37924-4420 SS 10,SM 11,SN 630,W 730 195 SERRAL DR GREENEVILLE TN 37745 SS 930,SM 1030,SN 630,W 7 5335 CLEMONS RD CHATTANOOGA TN 37412-3107 SS 10,SM 1050,SN 630 KJB church"
   },
   {
     "id": "4665",
@@ -3589,7 +3589,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF BURKHART. 262 CEDAR CREEK RD GRAY TN 37615 SS 10,SM 11,SN 6,W 7 1105 FALL RIVER RD LAWRENCEBURG TN 38464 KJB church."
+    "description": "GRAY TN 37615 SS 10,SM 11,SN 6,W 7 1105 FALL RIVER RD LAWRENCEBURG TN 38464 KJB church"
   },
   {
     "id": "4666",
@@ -3607,7 +3607,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILLY E TUCKER. 3700 SCHAAD RD KNOXVILLE TN 37921 SS 10,SM 11,SN 730,W 730 KJB church."
+    "description": "KNOXVILLE TN 37921 SS 10,SM 11,SN 730,W 730 KJB church"
   },
   {
     "id": "4667",
@@ -3625,12 +3625,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC GEREN. 1125 VENDALL RD DYERSBURG TN 38024 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DYERSBURG TN 38024 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4668",
     "name": "STANDFIELD BAPTIST CHURCH",
-    "address": "1549 NO PONE RD",
+    "address": "1549 NO PONE RD CHARLEST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3643,12 +3643,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM RAMSEY. 1549 NO PONE RD CHARLESTON TN 37310 SS 10,SM 1050,SN 6,W 7 KJB church."
+    "description": "ON TN 37310 SS 10,SM 1050,SN 6,W 7 KJB church"
   },
   {
     "id": "4669",
     "name": "OLD FASHIONED GALLAHER ROAD BAPTIST",
-    "address": "104 OBERRY RD",
+    "address": "104 OBERRY RD KINGST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3661,7 +3661,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN BLACK. 104 OBERRY RD KINGSTON TN 37763 KJB church."
+    "description": "ON TN 37763 KJB church"
   },
   {
     "id": "4670",
@@ -3679,7 +3679,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK GABERT. 6300 BAILEYTON RD GREENEVILLE TN 37745 KJB church."
+    "description": "GREENEVILLE TN 37745 KJB church"
   },
   {
     "id": "4671",
@@ -3697,7 +3697,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN SCHWANKE. 4 JACKSON HWY MEDINA TN 38355 KJB church."
+    "description": "4 JACKSON HWY MEDINA TN 38355 KJB church"
   },
   {
     "id": "4672",
@@ -3715,12 +3715,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY GUPTON. 4256 COLUMBIA PIKE FRANKLIN TN 37064 SS 930,SN 1045,SN 6,W 7 KJB church."
+    "description": "4256 COLUMBIA PIKE FRANKLIN TN 37064 SS 930,SN 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "4673",
     "name": "HALLS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 5232",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3733,7 +3733,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TED CLOWER. PO BOX 5232 7747 ANDERSONVILLE PIKE KNOXVILLE TN 37938 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "7747 ANDERSONVILLE PIKE KNOXVILLE TN 37938 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4674",
@@ -3751,12 +3751,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS SIMPSON. RR 2 BOX 635 1212 SALEM VALLEY TEN MILE TN 37880 KJB, GIPP"
+    "description": "RR 2 BOX 635 1212 SALEM VALLEY TEN MILE TN 37880 KJB, GIPP"
   },
   {
     "id": "4675",
     "name": "CALVARY BIBLE CHURCH",
-    "address": "1701 MOODYVILLE RD",
+    "address": "1701 MOODYVILLE RD BYRDST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3769,7 +3769,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON FLYNN. 1701 MOODYVILLE RD BYRDSTOWN TN 38549 2370 TEMPLE HILL RD ERWIN TN 37650 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "OWN TN 38549 2370 TEMPLE HILL RD ERWIN TN 37650 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4676",
@@ -3787,7 +3787,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6909 CARTERS VALLEY RD CHURCH HILL TN 37642"
+    "description": "CHURCH HILL TN 37642"
   },
   {
     "id": "4677",
@@ -3805,7 +3805,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR HARRY E STANLEY II. SS 945,SM 11,SN 7,W 7 1301 PEACH ST SELMER TN 38375 SS 945,SM 11,SN 630, W7 KJB church."
+    "description": "SS 945,SM 11,SN 7,W 7 SELMER TN 38375 SS 945,SM 11,SN 630, W7 KJB church"
   },
   {
     "id": "4678",
@@ -3823,7 +3823,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED HOLCOMB JR.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4679",
@@ -3843,12 +3843,12 @@ export const tennesseeChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by DAVID CROSS. PO BOX 348 3005 CARTERS VALLEY RD CHURCH HILL TN 37642 SS 10,SM 11,SN 6,W 7 BUS, RADIO, AUDIO SERMONS, PROPHETS CHAMBER KJB, BBF 118 COLOSSIANS CT JEFFERSON CITY TN 37760 SS 945,SM 830 & 1045,SN 6,W 7"
+    "description": "PO BOX 348 CHURCH HILL TN 37642 SS 10,SM 11,SN 6,W 7 BUS, RADIO, AUDIO SERMONS, PROPHETS CHAMBER KJB, BBF 118 COLOSSIANS CT JEFFERSON CITY TN 37760 SS 945,SM 830 & 1045,SN 6,W 7"
   },
   {
     "id": "4680",
     "name": "EKKLESIA BAPTIST TABERNACLE",
-    "address": "8010 GEORGETOWN RD",
+    "address": "2304 SWEETWATER VONORE RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3861,12 +3861,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM LOY. 8010 GEORGETOWN RD OOLTEWAH TN 37363 SS 10,SM 11,SN 6,W 7 CHOIR, PIONEER CLUB, TEENS 2304 SWEETWATER VONORE RD SWEETWATER TN 37874 AUDIO SERMONS KJB, TRINITY-BC-FL 5201 DAYTON BLVD RED BANK TN 37415 C"
+    "description": "OOLTEWAH TN 37363 SS 10,SM 11,SN 6,W 7 CHOIR, PIONEER CLUB, TEENS SWEETWATER TN 37874 AUDIO SERMONS KJB, TRINITY-BC-FL 5201 DAYTON BLVD RED BANK TN 37415 C"
   },
   {
     "id": "4681",
     "name": "COVENANT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 631",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3879,7 +3879,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY D BRANNON. PO BOX 631 241 CR 608 ATHENS TN 37331 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "241 CR 608 ATHENS TN 37331 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4682",
@@ -3898,7 +3898,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PETER COURTWRIGHT. 7927 ANDERSONVILLE PK KNOXVILLE TN 37936 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, SOULWINNING, AUDIO SERMONS KJB, PCC, BJU"
+    "description": "7927 ANDERSONVILLE PK KNOXVILLE TN 37936 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, SOULWINNING, AUDIO SERMONS KJB, PCC, BJU"
   },
   {
     "id": "4683",
@@ -3917,7 +3917,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DR J MICHAEL BATES. PO BOX 1091 565 S WATER ST GALLATIN TN 37066 SS 10,SM 11,SN 6,W 7 BUS, KINGS KIDS, SOULWINNING, TAPE, SENIORS, TEENS, COLLEGE & CAREER KJB,EXEGETICAL PREACHING - TRADITIONAL MUSIC"
+    "description": "PO BOX 1091 GALLATIN TN 37066 SS 10,SM 11,SN 6,W 7 BUS, KINGS KIDS, SOULWINNING, TAPE, SENIORS, TEENS, COLLEGE & CAREER KJB,EXEGETICAL PREACHING - TRADITIONAL MUSIC"
   },
   {
     "id": "4684",
@@ -3936,12 +3936,12 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by VITIS BAILEY. 1966 NORTHPOINT BOULEVARD DR HIXSON TN 37343 (CHATTANOOGA SURBURB) SM 10, SN 6, W 7 MASTER CLUB, DEAF MEETS IN 641 WADE CIRCLE COUNTRY INN GOODLETTSVILLE TN 37072 KJB, TRADITIONAL 3830 EASTEND DR HUMB"
+    "description": "HIXSON TN 37343 (CHATTANOOGA SURBURB) SM 10, SN 6, W 7 MASTER CLUB, DEAF MEETS IN 641 WADE CIRCLE COUNTRY INN GOODLETTSVILLE TN 37072 KJB, TRADITIONAL 3830 EASTEND DR HUMB"
   },
   {
     "id": "4685",
     "name": "MACEDONIA BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1066",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -3954,7 +3954,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CALEB HICKMAN. PO BOX 1066 HWY 27 N RHEA COUNTY HWY SPRING CITY TN 37381 SS 10,SM 11,SN 6,W 715"
+    "description": "HWY 27 N RHEA COUNTY HWY SPRING CITY TN 37381 SS 10,SM 11,SN 6,W 715"
   },
   {
     "id": "4686",
@@ -3972,7 +3972,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DENNIS ARMES. 966 RIVERSIDE AVE KINGSPORT TN 37660 SS 10,SM 11,SN 6,W 7"
+    "description": "KINGSPORT TN 37660 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4687",
@@ -3990,12 +3990,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JAMES PETTY. 987 SWAN POND RD HARRIMAN TN 37748 SS 10,SM 11"
+    "description": "HARRIMAN TN 37748 SS 10,SM 11"
   },
   {
     "id": "4688",
     "name": "CLAX GAP BAPTIST CHURCH",
-    "address": "871 CLAX GAP RD",
+    "address": "37821 GRACE CHRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4008,12 +4008,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID GAMBLE. 871 CLAX GAP RD HARRIMAN TN 37748 SS 10,SM 11,SN 6 RT 7 WOOD ACRES 526 HWY 73 NEWPORT TN 37821 GRACE CHRISTIAN SCHOOL PS-12 KJB church."
+    "description": "HARRIMAN TN 37748 SS 10,SM 11,SN 6 RT 7 WOOD ACRES 526 HWY 73 NEWPORT TN IAN SCHOOL PS-12 KJB church"
   },
   {
     "id": "4689",
     "name": "MT TABOR BAPTIST CHURCH",
-    "address": "107 BIRCH AVE",
+    "address": "780 BUFFALO RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4026,7 +4026,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ROBERT L  CAUDILL. 1159 MIDDLE SETTLEMENTS MARYVILLE TN 37801 107 BIRCH AVE SOUTH PITTSBURG TN 37380 PO BOX 184 780 BUFFALO RD HOHENWALD TN 38462 PO BOX 141 316 N COLLEGE TULLAHOMA TN 37388 1600 ZINC PLANT RD CLARKSVILL BBF church."
+    "description": "1159 MIDDLE SETTLEMENTS MARYVILLE TN 37801 SOUTH PITTSBURG TN 37380 PO BOX 184 HOHENWALD TN 38462 PO BOX 141 316 N COLLEGE TULLAHOMA TN 37388 1600 ZINC PLANT RD CLARKSVILL BBF church"
   },
   {
     "id": "4690",
@@ -4044,7 +4044,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "235 WHITE BRIDGE RD NASHVILLE TN 37209 (PREB. CHURCH AT THIS ADDRESS)"
+    "description": "NASHVILLE TN 37209 (PREB. CHURCH AT THIS ADDRESS)"
   },
   {
     "id": "4691",
@@ -4062,12 +4062,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DON KELLEY. 14451 RHEA CNTY HWY EVENSVILLE TN 37332 9111 LOVELL RD SODDY DAISY TN 37343 SS 10,SM 11,SN 6,W 7"
+    "description": "14451 RHEA CNTY HWY EVENSVILLE TN 37332 SODDY DAISY TN 37343 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4692",
     "name": "NEW UNION BAPTIST CHURCH",
-    "address": "76 W RIDDLE RD",
+    "address": "76 W RIDDLE RD MANCHEST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4080,7 +4080,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RON LUMPKIN. 76 W RIDDLE RD MANCHESTER TN 37355 SS 10,SM 11,SN 6,W 7"
+    "description": "ER TN 37355 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4693",
@@ -4098,7 +4098,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TOM CRAIG. 10 MAIN ST, SUITE H CLARKSVILLE TN 37040"
+    "description": "SUITE H CLARKSVILLE TN 37040"
   },
   {
     "id": "4694",
@@ -4116,7 +4116,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DANNY R ELLIS. 1451 BETHEL VALLEY RD OAK RIDGE TN 37716-6083 SS 10,SM 11,SN 6,W 7 near CLINTON 130 STATE ST GREENEVILLE TN 37743 BBF church."
+    "description": "OAK RIDGE TN 37716-6083 SS 10,SM 11,SN 6,W 7 near CLINTON 130 STATE ST GREENEVILLE TN 37743 BBF church"
   },
   {
     "id": "4695",
@@ -4134,7 +4134,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by QUINTEN CALDWELL. 225 E BEECH ST LAFOLLETTE TN 37766 Independent church."
+    "description": "LAFOLLETTE TN 37766 Independent church"
   },
   {
     "id": "4696",
@@ -4152,7 +4152,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ANDY MILLER. 2527 S CARVER MARYVILLE TN 37801 SS 930,SM 1015,SN 6,W 630 BBF church."
+    "description": "2527 S CARVER MARYVILLE TN 37801 SS 930,SM 1015,SN 6,W 630 BBF church"
   },
   {
     "id": "4697",
@@ -4170,7 +4170,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CURTIS WELLS. PO 4 BOX 5851 320 ALLENSVILLE RD SEVIERVILLE TN 37862 SS 10,SM 11,SN 7,W 7 501 HIGH ST SEVIERVILLE TN 37864 SS 945,SM 11,SN 630,W 7 AWANA, CHOIR"
+    "description": "PO 4 BOX 5851 SEVIERVILLE TN 37862 SS 10,SM 11,SN 7,W 7 501 HIGH ST SEVIERVILLE TN 37864 SS 945,SM 11,SN 630,W 7 AWANA, CHOIR"
   },
   {
     "id": "4698",
@@ -4188,7 +4188,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by TERRY STINNETT. RR 1 BOX 24-A WARTBURG TN 37887 4400 MARTIN MILL PIKE KNOXVILLE TN 37920 BBF church."
+    "description": "RR 1 BOX 24-A WARTBURG TN 37887 4400 MARTIN MILL PIKE KNOXVILLE TN 37920 BBF church"
   },
   {
     "id": "4699",
@@ -4197,8 +4197,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.8816,
-    "longitude": -87.309,
+    "latitude": 36.1648,
+    "longitude": -83.4413,
     "phone": "(865) 573-1881",
     "website": "http://www.southside4you.com",
     "pastor": "BOB WATSON",
@@ -4207,12 +4207,12 @@ export const tennesseeChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by BOB WATSON. PO BOX 9805 1620 GOVERNOR JOHN SEIVER HWY KNOXVILLE TN 37940 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS & MUSIC, AWANA 1469 N ROYAL ST JACKSON TN 38301 SS 10,SM 11,SN 6,W BBF church."
+    "description": "PO BOX 9805 1620 GOVERNOR JOHN SEIVER HWY KNOXVILLE TN 37940 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS & MUSIC, AWANA JACKSON TN 38301 SS 10,SM 11,SN 6,W BBF church"
   },
   {
     "id": "4700",
     "name": "GANN COMMUNITY CHURCH",
-    "address": "525 GANN RD",
+    "address": "525 GANN RD BRADFORD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4225,7 +4225,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by CLARENCE JARED. 525 GANN RD BRADFORD TN 38316 4045 MIDDLE RD MILAN TN 38358 BBF church."
+    "description": "TN 38316 4045 MIDDLE RD MILAN TN 38358 BBF church"
   },
   {
     "id": "4701",
@@ -4243,7 +4243,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by STEPHEN SCRUGGS. 678 E 15TH ST COOKEVILLE TN 38501 SS 10,SM 11,SN 6,W 6 1424 OLD CHARLOTTE PIKE DICKSON TN 37055 SS 830 & 11,SM 945,SN 6,W 7 800 POPLAR ST NE CLEVELAND TN 37311-2136 SS 10,SM 11,W 7 7226 MOSES RD HIXSO"
+    "description": "COOKEVILLE TN 38501 SS 10,SM 11,SN 6,W 6 1424 OLD CHARLOTTE PIKE DICKSON TN 37055 SS 830 & 11,SM 945,SN 6,W 7 800 POPLAR ST NE CLEVELAND TN 37311-2136 SS 10,SM 11,W 7 7226 MOSES RD HIXSO"
   },
   {
     "id": "4702",
@@ -4261,7 +4261,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MICHAEL TAYLOR. 1690 TEXAS GROVE RD EVENSVILLE TN 37332 34TH STREET BAPTIST TABERNACLE 1908 E 34TH ST CHATTANOOGA TN 37407"
+    "description": "EVENSVILLE TN 37332 34TH STREET BAPTIST TABERNACLE 1908 E 34TH ST CHATTANOOGA TN 37407"
   },
   {
     "id": "4703",
@@ -4270,8 +4270,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9451,
-    "longitude": -88.2208,
+    "latitude": 35.3096,
+    "longitude": -83.284,
     "phone": "(150) 421-0916",
     "website": "https://www.facebook.com/Beulah-Land-Independent-Baptist-Church-150421091646666",
     "pastor": "SHAWN BREAZEALE",
@@ -4279,7 +4279,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by SHAWN BREAZEALE. 7166 CEDAR HILL RD TALBOTT TN 37877 3317 OLD KNOXVILLE HWY MARYVILLE TN 37804 Independent church."
+    "description": "TALBOTT TN 37877 3317 OLD KNOXVILLE HWY MARYVILLE TN 37804 Independent church"
   },
   {
     "id": "4704",
@@ -4297,7 +4297,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CHARLIE LYNCH. 99 ARKANSAS AVE OAK RIDGE TN 37380"
+    "description": "OAK RIDGE TN 37380"
   },
   {
     "id": "4705",
@@ -4315,12 +4315,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by LEN MCLEYEA. PO BOX 623 4900 HARRISON RD LENOIR CITY TN 37771 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, RADIO, DEAF"
+    "description": "PO BOX 623 LENOIR CITY TN 37771 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, RADIO, DEAF"
   },
   {
     "id": "4706",
     "name": "GREENHILL BAPTIST CHURCH",
-    "address": "494 GREEN HILL RD",
+    "address": "38168 HOUSTON LEVEE RD in CORD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4333,12 +4333,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD SEVILLA. 494 GREEN HILL RD DANDRIDGE TN 37725 PO BOX 280709 MEMPHIS TN 38168 HOUSTON LEVEE RD in CORDOVA SS 930,SM 1045,SN 530,W 7 AWANA, DEAF, SENIORS; THRIFTHAVEN BAPTIST ACADEMY"
+    "description": "IDGE TN 37725 PO BOX 280709 MEMPHIS TN OVA SS 930,SM 1045,SN 530,W 7 AWANA, DEAF, SENIORS; THRIFTHAVEN BAPTIST ACADEMY"
   },
   {
     "id": "4707",
     "name": "OAK CREST BAPTIST CHURCH",
-    "address": "3600 ARDMORE ST",
+    "address": "285 WHISKEY RIDGE RD",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4351,12 +4351,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by LARRY D FLATT. 3600 ARDMORE ST MEMPHIS TN 38127 285 WHISKEY RIDGE RD PARIS TN 38242"
+    "description": "MEMPHIS TN 38127 PARIS TN 38242"
   },
   {
     "id": "4708",
     "name": "GOOD SHEPHERD INDEPENDENT MISSIONARY BAPTIST CHURCH",
-    "address": "1163 CAMPBELL RD",
+    "address": "9105 E VAN HOOK ST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4370,7 +4370,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK LYNCH. 1163 CAMPBELL RD GOODLETTSVILLE TN 37072 JASPER TN 37347 PRE-MIL KJB, CCM PO BOX 735 9105 E VAN HOOK ST MILAN TN 38358 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS S.GRACE-TULIP"
+    "description": "GOODLETTSVILLE TN 37072 JASPER TN 37347 PRE-MIL KJB, CCM PO BOX 735 MILAN TN 38358 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS S.GRACE-TULIP"
   },
   {
     "id": "4709",
@@ -4389,7 +4389,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL W PARKER. PO BOX 494 23428 RHEA COUNTY HWY SPRING CITY TN 37381 NOT KJV ONLY 605 DOTSON MEMORIAL RD MARYVILLE TN 37801 SS 930,SM 815 & 1045,SN 6,W 7 KJB, UNAFFILIATED, POST-TRIB PRE-WRATH RAPTURE, NON-DISPENSAT"
+    "description": "PO BOX 494 23428 RHEA COUNTY HWY SPRING CITY TN 37381 NOT KJV ONLY MARYVILLE TN 37801 SS 930,SM 815 & 1045,SN 6,W 7 KJB, UNAFFILIATED, POST-TRIB PRE-WRATH RAPTURE, NON-DISPENSAT"
   },
   {
     "id": "4710",
@@ -4407,7 +4407,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by LARRY LAFFERTY. 4200 ASHEVILLE HIGHWAY KNOXVILLE TN 37914 SM 11,SN 4,W 7 SOULWINNING @ 2 SUNDAYS PO BOX 145 312 CHURCH ST DOVER TN 37058"
+    "description": "KNOXVILLE TN 37914 SM 11,SN 4,W 7 SOULWINNING @ 2 SUNDAYS PO BOX 145 312 CHURCH ST DOVER TN 37058"
   },
   {
     "id": "4711",
@@ -4416,8 +4416,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9337,
-    "longitude": -86.1622,
+    "latitude": 36.1936,
+    "longitude": -89.2534,
     "phone": "",
     "website": "",
     "pastor": "JEFFREY A CARTER",
@@ -4425,7 +4425,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY A CARTER. 25 MILES FROM FORT CAMPBELL AUDIO & TEXT SERMONS NOT KJV ONLY KJB church."
+    "description": "25 MILES FROM FORT CAMPBELL AUDIO & TEXT SERMONS NOT KJV ONLY KJB church"
   },
   {
     "id": "4712",
@@ -4434,8 +4434,8 @@ export const tennesseeChurches: Church[] = [
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.9983,
-    "longitude": -87.4124,
+    "latitude": 35.843,
+    "longitude": -89.5611,
     "phone": "(423) 622-2565",
     "website": "https://www.gracebaptisttabernacle.org",
     "pastor": "JAMES W DUNN",
@@ -4443,7 +4443,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES W DUNN. 2551 TUNNEL BLVD CHATTANOOGA TN 37406 SS 10,SM 1105,W 630 NOT KJV ONLY, FBFI KJB church."
+    "description": "CHATTANOOGA TN 37406 SS 10,SM 1105,W 630 NOT KJV ONLY, FBFI KJB church"
   },
   {
     "id": "4713",
@@ -4462,7 +4462,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by DALE CUNNINGHAM. 1813 THRASHER PK HIXSON TN 37343 NOT KJV ONLY, FBF, BJU KJB church."
+    "description": "1813 THRASHER PK HIXSON TN 37343 NOT KJV ONLY, FBF, BJU KJB church"
   },
   {
     "id": "4714",
@@ -4480,7 +4480,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by JEREMY WALLACE. 1528 OLD GRAY STATION RD JOHNSON CITY TN 37615 SS 930,SM 1030,SN 630,W 7 ORCHESTRA, CHOIR, PROTEENS Non-KJV church."
+    "description": "JOHNSON CITY TN 37615 SS 930,SM 1030,SN 630,W 7 ORCHESTRA, CHOIR, PROTEENS Non-KJV church"
   },
   {
     "id": "4715",
@@ -4498,12 +4498,12 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM MATTHEWS. 1701 HICKORY VALLEY RD CHATTANOOGA TN 37421 SS 10,SM 11,SN 630,W 7 PREACH KJV, STUDY OTHERS, BJU, NBBC, ABC PO BOX 115 213 N MAIN ST MIDDLETON TN 38052 SS 10,SM 11,SN 5,W 7 AUDIO SERMONS, PROPHETS CHA KJB church."
+    "description": "CHATTANOOGA TN 37421 SS 10,SM 11,SN 630,W 7 PREACH KJV, STUDY OTHERS, BJU, NBBC, ABC PO BOX 115 213 N MAIN ST MIDDLETON TN 38052 SS 10,SM 11,SN 5,W 7 AUDIO SERMONS, PROPHETS CHA KJB church"
   },
   {
     "id": "4716",
     "name": "SUNNYVIEW BAPTIST CHURCH",
-    "address": "1666 OGBURN CHAPEL RD",
+    "address": "2121 KINGSTON HWY KINGST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
@@ -4516,7 +4516,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY THOMAS. 1666 OGBURN CHAPEL RD CLARKSVILLE TN  37042-6831 SS 10,SN 11,SN 530,W 6 KJB, CCM 2121 KINGSTON HWY KINGSTON TN 37763 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, CCM"
+    "description": "CLARKSVILLE TN 37042-6831 SS 10,SN 11,SN 530,W 6 KJB, CCM ON TN 37763 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, CCM"
   },
   {
     "id": "4717",
@@ -4534,7 +4534,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLEN HUGUENIN. 3165 BUCHANAN RD SE CLEVELAND TN 37323-0452 NOT KJV ONLY 441 BEREAN LN HIXSON TN 37343 KJB church."
+    "description": "CLEVELAND TN 37323-0452 NOT KJV ONLY 441 BEREAN LN HIXSON TN 37343 KJB church"
   },
   {
     "id": "4718",
@@ -4553,7 +4553,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SAMUEL L POLSON. NOT KJV ONLY, BBF, ABWE, CCM KJB church."
+    "description": "NOT KJV ONLY, BBF, ABWE, CCM KJB church"
   },
   {
     "id": "4719",
@@ -4572,7 +4572,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR STEVE EULER. 8833 MIDDLEBROOK PIKE KNOXVILLE TN 37923 AUDIO SERMONS, AWANA, CHOIR, SINGLES, NOT KJV ONLY, ABWE 7815 SHALLOWFORD RD CHATTANOOGA TN 37421 SS 930,SM 1045,SN 6,W 7 TEEN, YOUTH, SINGLES, CHOIR, AWANA GR KJB church."
+    "description": "8833 MIDDLEBROOK PIKE KNOXVILLE TN 37923 AUDIO SERMONS, AWANA, CHOIR, SINGLES, NOT KJV ONLY, ABWE CHATTANOOGA TN 37421 SS 930,SM 1045,SN 6,W 7 TEEN, YOUTH, SINGLES, CHOIR, AWANA GR KJB church"
   },
   {
     "id": "4720",
@@ -4590,7 +4590,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6083 OLD MILLINGTON RD MILLINGTON TN 38053 SS 10,SM 11,SN 5,W 7"
+    "description": "MILLINGTON TN 38053 SS 10,SM 11,SN 5,W 7"
   },
   {
     "id": "4721",
@@ -4609,7 +4609,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT TILLERY. NOT KJV ONLY, BBF KJB church."
+    "description": "NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "4722",
@@ -4627,7 +4627,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILLY LEAMON. 1102 CAMPBELL ST JACKSON TN 38301 NOT KJV ONLY KJB church."
+    "description": "JACKSON TN 38301 NOT KJV ONLY KJB church"
   },
   {
     "id": "4723",
@@ -4646,7 +4646,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK MILLER. 306 CR 22 CALHOUN TN 37309 NOT KJV ONLY, CCM 2016 CORRAL RD SIGNAL MOUNTAIN TN 37377 NOT KJV ONLY 3020 HWY 126 BLOUNTVILLE TN 37617 NOT KJV ONLY, FPF, IFCA 4417 ROBERT MATTHEWS HWY SPARTA TN 38583 SS  KJB church."
+    "description": "306 CR 22 CALHOUN TN 37309 NOT KJV ONLY, CCM SIGNAL MOUNTAIN TN 37377 NOT KJV ONLY 3020 HWY 126 BLOUNTVILLE TN 37617 NOT KJV ONLY, FPF, IFCA 4417 ROBERT MATTHEWS HWY SPARTA TN 38583 SS KJB church"
   },
   {
     "id": "4724",
@@ -4664,7 +4664,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHIL MARTIN. TULIP-S.GRACE 6205 ELMORE RD MEMPHIS TN 38134 PREACH KJV, NOT KJV ONLY KJB church."
+    "description": "TULIP-S.GRACE MEMPHIS TN 38134 PREACH KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "4725",
@@ -4683,7 +4683,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by TOM D GOSS. 322 E CEDAR ST GOODLETTSVILLE TN 37115 SS 10,SM 11,SN 6,W AWANA, TEENS, BUS, TEXT SERMONS; METRO BAPTIST SCHOOL PS-12; KJB church."
+    "description": "GOODLETTSVILLE TN 37115 SS 10,SM 11,SN 6,W AWANA, TEENS, BUS, TEXT SERMONS; METRO BAPTIST SCHOOL PS-12; KJB church"
   },
   {
     "id": "4726",
@@ -4701,7 +4701,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by TYERRENCE JACKSON. 8448 SPRINGFIELD RD SODDY DAISY TN 37379 SS 10,SM 1050,SN 630,W 730 AUDIO SERMONS, TEENS, YOUTH, SENIORS, RADIO, CAMP TULIP-S.GRACE, BBF"
+    "description": "SODDY DAISY TN 37379 SS 10,SM 1050,SN 630,W 730 AUDIO SERMONS, TEENS, YOUTH, SENIORS, RADIO, CAMP TULIP-S.GRACE, BBF"
   },
   {
     "id": "4727",
@@ -4720,7 +4720,7 @@ export const tennesseeChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROB HOFFMAN. 2009 E 26TH ST CHATTANOOGA TN 37407 NOT KJV ONLY, BBF, LIBERTY-U PO BOX 4506 1025 MONTVALE MARYVILLE TN 37802 GATLINBURG PIGEON FORGE AREA SS 930,SM 1030,SN 6,W 7 AWANA, TEEN, CHOIR BBC-MO, S.GRACE-TU KJB church."
+    "description": "CHATTANOOGA TN 37407 NOT KJV ONLY, BBF, LIBERTY-U PO BOX 4506 1025 MONTVALE MARYVILLE TN 37802 GATLINBURG PIGEON FORGE AREA SS 930,SM 1030,SN 6,W 7 AWANA, TEEN, CHOIR BBC-MO, S.GRACE-TU KJB church"
   },
   {
     "id": "4728",
@@ -4733,22 +4733,22 @@ export const tennesseeChurches: Church[] = [
     "longitude": -86.6614,
     "phone": "(615) 360-6675",
     "website": "https://ourlord.org",
-    "pastor": "",
+    "pastor": "NASHVILLE TN 37222 SS 10,SM 11,W 7",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 110175 437 COVENTRY DR NASHVILLE TN 37222 SS 10,SM 11,W 7"
+    "description": "PO BOX 110175 NASHVILLE TN 37222 SS 10,SM 11,W 7"
   },
   {
     "id": "4729",
     "name": "BIBLE AIRES BAPTIST CHURCH",
-    "address": "1086 OLD WITT RD",
+    "address": "1086 OLD WITT RD MORRIST",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "",
-    "latitude": 34.7706,
-    "longitude": -86.8348,
+    "latitude": 35.1109,
+    "longitude": -83.1915,
     "phone": "(423) 581-7549",
     "website": "http://www.lbcmiddleton.com",
     "pastor": "MICHAEL DIRRIM",
@@ -4756,7 +4756,7 @@ export const tennesseeChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL DIRRIM. 1086 OLD WITT RD MORRISTOWN TN 37813 NOT KJV ONLY 142 N MAIN ST MIDDLETON TN 38052 AUDIO SERMONS S.GRACE TULIP KJB church."
+    "description": "OWN TN 37813 NOT KJV ONLY 142 N MAIN ST MIDDLETON TN 38052 AUDIO SERMONS S.GRACE TULIP KJB church"
   },
   {
     "id": "4730",
@@ -4769,12 +4769,12 @@ export const tennesseeChurches: Church[] = [
     "longitude": -86.152,
     "phone": "(901) 386-9701",
     "website": "https://concentric.net",
-    "pastor": "",
+    "pastor": "MEMPHIS TN 38135 SS 10,SM 11,SN 6,W 7",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "5143 DOWNS DR MEMPHIS TN 38135 SS 10,SM 11,SN 6,W 7"
+    "description": "MEMPHIS TN 38135 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4731",

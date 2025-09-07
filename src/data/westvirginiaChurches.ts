@@ -18,7 +18,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TOM J GRIBBLE. 204 OLD COLLIERS WAY WEIRTON WV 26062 SS 1015, SM 11, W 630 SOULWINNING, JUNIOR CHURCH, CONCERTS, FOOD/CLOTHING PANTRY, AUDIO SERMONS KJB church."
+    "description": "WEIRTON WV 26062 SS 1015, SM 11, W 630 SOULWINNING, JUNIOR CHURCH, CONCERTS, FOOD/CLOTHING PANTRY, AUDIO SERMONS KJB church"
   },
   {
     "id": "5306",
@@ -36,7 +36,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS COSNER. 4013 10TH AVE PARKERSBURG WV 26101 SM 1045,SN 6,W 6 KJB church."
+    "description": "PARKERSBURG WV 26101 SM 1045,SN 6,W 6 KJB church"
   },
   {
     "id": "5307",
@@ -56,7 +56,7 @@ export const westvirginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JEFF CANTERBURY. 106 MT ZION RD CLEVELAND WV 26215 SS 10,SM 11,SN 7,W 7 BUS, SOULWINNING, TAPE, PROPHETS CHAMBER KJB, BATA"
+    "description": "CLEVELAND WV 26215 SS 10,SM 11,SN 7,W 7 BUS, SOULWINNING, TAPE, PROPHETS CHAMBER KJB, BATA"
   },
   {
     "id": "5308",
@@ -75,7 +75,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by J BRET WILEY. 108 TEMPLE ST HINTON WV 25951 SS 10,SM 11 CHURCH PLANTING, STREET, EVANGELISM KJB church."
+    "description": "HINTON WV 25951 SS 10,SM 11 CHURCH PLANTING, STREET, EVANGELISM KJB church"
   },
   {
     "id": "5309",
@@ -93,7 +93,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF BENEDICT. PO BOX 700 2294 MAIN ST CLAY WV 26062 AUDIO SERMONS KJB church."
+    "description": "PO BOX 700 CLAY WV 26062 AUDIO SERMONS KJB church"
   },
   {
     "id": "5310",
@@ -112,7 +112,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEREMY RABY. 3401 CHAPLIN ST WHEELING WV 26003 REFORMERS UNANIMOUS KJB, UNAFFILIATED"
+    "description": "WHEELING WV 26003 REFORMERS UNANIMOUS KJB, UNAFFILIATED"
   },
   {
     "id": "5311",
@@ -132,7 +132,7 @@ export const westvirginiaChurches: Church[] = [
       "Soulwinning",
       "ABA"
     ],
-    "description": "Led by JOHN R FREEMAN. HC 71 BOX 777 DUCK WV 25063 KJB, MIDWESTERN-BC"
+    "description": "HC 71 BOX 777 DUCK WV 25063 KJB, MIDWESTERN-BC"
   },
   {
     "id": "5312",
@@ -150,7 +150,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "290 W MAIN ST SALEM WV 26426 SS 10,SM 11,SN 7,W 7"
+    "description": "SALEM WV 26426 SS 10,SM 11,SN 7,W 7"
   },
   {
     "id": "5313",
@@ -163,12 +163,12 @@ export const westvirginiaChurches: Church[] = [
     "longitude": -80.2967,
     "phone": "",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB, UNAFFLIATED",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "NEEDS PASTOR KJB, UNAFFLIATED"
+    "description": "NEEDS"
   },
   {
     "id": "5314",
@@ -186,12 +186,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED FRYER. ZID CAMP RD ASHTON WV 25503 KJB church."
+    "description": "ZID CAMP RD ASHTON WV 25503 KJB church"
   },
   {
     "id": "5315",
     "name": "SEWELL VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "7 RAINELLE CHRIST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -204,12 +204,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL TINCHER. PO BOX 784 JAMES RIVER & KANAWHA TNPKE RAINELLE WV 25962 1 MILE S OF RAINELLE SS 10,SM 11,SN 7, 7 RAINELLE CHRISTIAN ACADEMY; PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 784 JAMES RIVER & KANAWHA TNPKE RAINELLE WV 25962 1 MILE S OF RAINELLE SS 10,SM 11,SN 7, IAN ACADEMY; PROPHETS CHAMBER KJB church"
   },
   {
     "id": "5316",
     "name": "SINKING CREEK BAPTIST CHURCH",
-    "address": "",
+    "address": "82 SHOEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -217,12 +217,12 @@ export const westvirginiaChurches: Church[] = [
     "longitude": -81.5414,
     "phone": "(304) 438-6911",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 82 SHOESTRING TRL CLINTONVILLE WV 24931 NEEDS PASTOR KJB church."
+    "description": "PO BOX RING TRL CLINTONVILLE WV 24931 NEEDS"
   },
   {
     "id": "5317",
@@ -240,7 +240,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY WOODSIDE. HC 61 BOX 31-A WILEYVILLE WV 26581 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HC 61 BOX 31-A WILEYVILLE WV 26581 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5318",
@@ -258,7 +258,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAYMOND JORDON. RR 3 BOX 196A SHINNSTON WV 26431 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "RR 3 BOX 196A SHINNSTON WV 26431 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5319",
@@ -276,12 +276,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN DEAN. PO BOX 786 ST ALBANS WV 25177-0786 11910 COAL RIVER RD SS 10,SM 11,SN 6,W 7 KJB, APPALACHIAN-BC"
+    "description": "PO BOX 786 ST ALBANS WV 25177-0786 SS 10,SM 11,SN 6,W 7 KJB, APPALACHIAN-BC"
   },
   {
     "id": "5320",
     "name": "GRACE BAPTIST TEMPLE",
-    "address": "1901 MACCORKLE AVE",
+    "address": "1901 MACCORKLE AVE ST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -294,12 +294,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY J CONWAY. 1901 MACCORKLE AVE ST ALBANS WV 25177 SS 945,SM 1045,SN 6,W 7 AWANA,TV & VIDEO KJB church."
+    "description": "ALBANS WV 25177 SS 945,SM 1045,SN 6,W 7 AWANA,TV & VIDEO KJB church"
   },
   {
     "id": "5321",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "6911 MCCORKLE AVE",
+    "address": "6911 MCCORKLE AVE ST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -312,7 +312,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDAL WILSON. 6911 MCCORKLE AVE ST ALBANS WV 25177 KJB church."
+    "description": "ALBANS WV 25177 KJB church"
   },
   {
     "id": "5322",
@@ -331,7 +331,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LEE SWOR. PO BOX 486 171 BRANCH RD BELLE WV 25015 KJB, BBF, BJU, APPALACHIAN-BC,"
+    "description": "PO BOX 486 BELLE WV 25015 KJB, BBF, BJU, APPALACHIAN-BC"
   },
   {
     "id": "5323",
@@ -344,17 +344,17 @@ export const westvirginiaChurches: Church[] = [
     "longitude": -79.8198,
     "phone": "(304) 965-7062",
     "website": "http://www.mpbcwv.org",
-    "pastor": "GEORGE WOOD",
+    "pastor": "SS 10,SM 1050,SN 630,W 7 BUS,AWANA,TEEN,YOUTH; ELK VALLEY CHRISTIAN SCHOOL WVCEA AACS K-12; PROPHETS CHAMBER, BIBLE INSTITUTE KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE WOOD. 5110 ELK RIVER RD N ELKVIEW WV 25071 PHYSICAL ADD: 58 MT PLEASANT DR SS 10,SM 1050,SN 630,W 7 BUS,AWANA,TEEN,YOUTH; ELK VALLEY CHRISTIAN SCHOOL WVCEA AACS K-12; PROPHETS CHAMBER, BIBLE INSTITUTE KJB church."
+    "description": "ELKVIEW WV 25071 PHYSICAL ADD: 58 MT PLEASANT DR SS 10,SM 1050,SN 630,W 7 BUS,AWANA,TEEN,YOUTH; ELK VALLEY CHRISTIAN SCHOOL WVCEA AACS K-12; PROPHETS CHAMBER, BIBLE INSTITUTE KJB church"
   },
   {
     "id": "5324",
     "name": "STANAFORD MISSIONARY BAPTIST CHURCH",
-    "address": "123 HOIST RD",
+    "address": "123 HOIST RD STANAFORD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -368,12 +368,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JACK HOWELL. 123 HOIST RD STANAFORD WV 25927 SM 945,SS 1115,SN 6,W 7 AUDIO SERMONS & MUSIC KJB, BBF"
+    "description": "WV 25927 SM 945,SS 1115,SN 6,W 7 AUDIO SERMONS & MUSIC KJB, BBF"
   },
   {
     "id": "5325",
     "name": "TYGART VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "373 LEWIS ST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -386,12 +386,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN HINKLE. PO BOX 373 LEWIS ST BEVERLY WV 26253 KJB church."
+    "description": "PO BOX BEVERLY WV 26253 KJB church"
   },
   {
     "id": "5326",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 215",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -405,7 +405,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN TOLER. PO BOX 215 RT 33 E BUCKHANNON WV 26201 SS 945,SM 11,SN 7,W 7 PO BOX 355 9215 APPALACIAN HWY MATHENY WV 24860 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "RT 33 E BUCKHANNON WV 26201 SS 945,SM 11,SN 7,W 7 PO BOX 355 9215 APPALACIAN HWY MATHENY WV 24860 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5327",
@@ -424,7 +424,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NORMAN HAWKINS. 1792 POINT LICK DR TAD WV 25201 SS 10, SM 1045, SN 7, W 7 CHOIR, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "TAD WV 25201 SS 10, SM 1045, SN 7, W 7 CHOIR, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "5328",
@@ -442,7 +442,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PASTOR JEFF VAUGHAN. 1800 COUNTRY CLUB RD FAIRMONT WV 26554 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "FAIRMONT WV 26554 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5329",
@@ -462,12 +462,12 @@ export const westvirginiaChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by FRED HART. 1010 ORAL LAKE RD BRIDGEPORT WV 26330 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BRIDGEPORT WV 26330 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5330",
     "name": "GLEN FORK BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 30",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -480,12 +480,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS LIPSCOMB SR. PO BOX 30 GLEN FORK WV 25845 KJB, AMBASSADOR, CROWN, WCBC, PCC"
+    "description": "GLEN FORK WV 25845 KJB, AMBASSADOR, CROWN, WCBC, PCC"
   },
   {
     "id": "5331",
     "name": "LIVING WATER BAPTIST CHURCH",
-    "address": "132 COLEMAN AVE",
+    "address": "648 OLD DAVISSON RUN RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -499,12 +499,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GREG REESE. 132 COLEMAN AVE CLARKSBURG WV 26301 PHYSICAL ADD 648 OLD DAVISSON RUN RD SM 10,SN 6,W 7 VAN, SOULWINNING, AUDIO SERMONS KJB church."
+    "description": "CLARKSBURG WV 26301 PHYSICAL ADD SM 10,SN 6,W 7 VAN, SOULWINNING, AUDIO SERMONS KJB church"
   },
   {
     "id": "5332",
     "name": "WALNUT GAP BAPTIST CHURCH",
-    "address": "1091 WALNUT GAP RD",
+    "address": "1091 WALNUT GAP RD CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -517,12 +517,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS BRADLEY. RR 6 BOX 243 1091 WALNUT GAP RD CHARLESTON WV 25311 KJB church."
+    "description": "RR 6 BOX 243 ON WV 25311 KJB church"
   },
   {
     "id": "5333",
     "name": "PROVIDENCE BAPTIST CHURCH",
-    "address": "1106 THORNE RD",
+    "address": "1106 THORNE RD CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -537,12 +537,12 @@ export const westvirginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TONY TAYLOR. PO BOX 1027 1106 THORNE RD CHARLESTON WV 25324 SS 10,SM 11,SN 7,TH 730 SOULWINNING, NURSERY, CHILDREN, TEEN, ADULT, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "PO BOX 1027 ON WV 25324 SS 10,SM 11,SN 7,TH 730 SOULWINNING, NURSERY, CHILDREN, TEEN, ADULT, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "5334",
     "name": "VICTORY INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "35 VICT",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -556,12 +556,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL L CLARK. PO BOX 35 VICTOR WV 25938 PHYSICAL ADD: RT 60 KJB, UNAFFILIATED"
+    "description": "PO BOX OR WV 25938 PHYSICAL ADD: RT 60 KJB, UNAFFILIATED"
   },
   {
     "id": "5335",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "1238 BROAD ST",
+    "address": "745 N GLENDALE AVE",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -575,12 +575,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SHANE WYNN. 1238 BROAD ST SUMMERSVILLE WV 26651 PHYSICAL ADD: 745 N GLENDALE AVE SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TEENS, PROPHETS CHAMBER, PROPHETS CHAMBER KJB church."
+    "description": "SUMMERSVILLE WV 26651 PHYSICAL ADD: SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TEENS, PROPHETS CHAMBER, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "5336",
     "name": "BELL CREEK MISSIONARY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 154",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -593,7 +593,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALTER E LANCASTER. PO BOX 154 DIXIE WV 25059 SS 10,SM 11,SN 7,W 7 PROPHETS CHAMBER KJB church."
+    "description": "DIXIE WV 25059 SS 10,SM 11,SN 7,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "5337",
@@ -611,12 +611,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 517 RT 135 WESTERNPORT RD KEYSER WV 26726 One mile from MCCOOLE MD SS 10,SM 11,SN 630,W 7 KJB,AMBASSADOR-BC"
+    "description": "PO BOX 517 KEYSER WV 26726 One mile from MCCOOLE MD SS 10,SM 11,SN 630,W 7 KJB,AMBASSADOR-BC"
   },
   {
     "id": "5338",
     "name": "GREENBRIER VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 486",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -629,12 +629,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by T KEVAN BARTLETT. PO BOX 486 WHITE SULPHUR SPRINGS WV 24986 LOCATED 1.5 MILES NO ON RT 92 ON THE RIGHT SIDE SS 945,SM 11,SN 630,W 7 KJB church."
+    "description": "WHITE SULPHUR SPRINGS WV 24986 LOCATED 1.5 MILES NO ON RT 92 ON THE RIGHT SIDE SS 945,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "5339",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "",
+    "address": "1 MARANATHA ACRES CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -647,7 +647,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM VANCE. 1 MARANATHA ACRES CHARLESTON WV 25320 SS 930,SM 1030,SN 630,W 7 AWANA, TEENS, CHOIR, VIDEO SERMONS KJB church."
+    "description": "ON WV 25320 SS 930,SM 1030,SN 630,W 7 AWANA, TEENS, CHOIR, VIDEO SERMONS KJB church"
   },
   {
     "id": "5340",
@@ -666,7 +666,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SHAUN L BORNER. ROUTE 1 BOX 28 MOUNT HOPE WV 25880 SS 10,SM 11,SN 7,W 7 RADIO, SOULWINNING, MASTERS CLUB, CHOIR, AUDIO SERMONS KJB, HAC"
+    "description": "ROUTE 1 BOX 28 MOUNT HOPE WV 25880 SS 10,SM 11,SN 7,W 7 RADIO, SOULWINNING, MASTERS CLUB, CHOIR, AUDIO SERMONS KJB, HAC"
   },
   {
     "id": "5341",
@@ -685,12 +685,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "5 LAVA AVE WHEELING WV 26003 SS 10, SM 11, SN 6, W 7 SOULWINNING, BUS, NURSERY KJB,UNAFFLIATED"
+    "description": "WHEELING WV 26003 SS 10, SM 11, SN 6, W 7 SOULWINNING, BUS, NURSERY KJB,UNAFFLIATED"
   },
   {
     "id": "5342",
     "name": "FRIENDSHIP BAPTIST CHURCH",
-    "address": "",
+    "address": "26354 LOST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -703,7 +703,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "ROUTE 4 BOX 183 GRAFTON WV 26354 LOST RUN EXTENSION"
+    "description": "ROUTE 4 BOX 183 GRAFTON WV RUN EXTENSION"
   },
   {
     "id": "5343",
@@ -721,12 +721,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH M TOWNSEND. SS 10,SM 11,SN 7,W 7 FATHERS OUTREACH KJB, LARRY BROWN, NIX"
+    "description": "SS 10,SM 11,SN 7,W 7 FATHERS OUTREACH KJB, LARRY BROWN, NIX"
   },
   {
     "id": "5344",
     "name": "CAPITOL CITY BAPTIST CHURCH",
-    "address": "149 7TH AVE",
+    "address": "7 SOUTH CHARLESTON CHRIST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -739,7 +739,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARROLL B WILLIAMS. PO BOX 1141 149 7TH AVE CHARLESTON WV 25324 SS 10,SM 11,SN 6,W 7 SOUTH CHARLESTON CHRISTIAN ACADEMY PREK-12 KJB church."
+    "description": "PO BOX 1141 149 7TH AVE CHARLESTON WV 25324 SS 10,SM 11,SN 6,W IAN ACADEMY PREK-12 KJB church"
   },
   {
     "id": "5345",
@@ -758,12 +758,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHRISTOPHER SIZEMORE. 1029 LOST RD MARTINSBURG WV 25403 SS 945,SM 1045,SN 6,W 7 SOULWINNING, JOYFUL LIFE BIBLE CLUBS, TEEN DISCOVERY KJB church."
+    "description": "MARTINSBURG WV 25403 SS 945,SM 1045,SN 6,W 7 SOULWINNING, JOYFUL LIFE BIBLE CLUBS, TEEN DISCOVERY KJB church"
   },
   {
     "id": "5346",
     "name": "SANDY GROVE MISSIONARY BAPTIST CHURCH",
-    "address": "",
+    "address": "7 CHILDR",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -776,7 +776,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID JESSE. HCR 70 BOX 6AA AARONS FORK RD ELKVIEW WV 25071 SS 10,SM 11,SN 630,W 7 CHILDREN, MUSIC, YOUTH,CAMP MEETING, MEN & LADIES KJB church."
+    "description": "HCR 70 BOX 6AA AARONS FORK RD ELKVIEW WV 25071 SS 10,SM 11,SN 630,W EN, MUSIC, YOUTH,CAMP MEETING, MEN & LADIES KJB church"
   },
   {
     "id": "5347",
@@ -794,12 +794,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN P SHIFLET. PO BOX 21 ROCK CAVE WV 26234 KJB, ATLANTIC-BBC, AIBF PO BOX 3002 1514 HARRISON AVE ELKINS WV 26241-3391 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 21 ROCK CAVE WV 26234 KJB, ATLANTIC-BBC, AIBF PO BOX 3002 ELKINS WV 26241-3391 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5348",
     "name": "MT PISGAH BAPTIST CHURCH",
-    "address": "1770 SUGAR CREEK DR",
+    "address": "25312 COOPERS CREEK SCRIPTURE KNOWLEDGE INST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -812,7 +812,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VINCE BUTTON. 1770 SUGAR CREEK DR CHARLESTON WV 25312 COOPERS CREEK SCRIPTURE KNOWLEDGE INSTITUTE KJB, GPA"
+    "description": "ON WV ITUTE KJB, GPA"
   },
   {
     "id": "5349",
@@ -830,7 +830,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AUDIE SORG. 71 UPPER PINCH RD ELKVIEW WV 25071 SS 10,SM 11,SN 730,W 7 AUDIO SERMONS KJB church."
+    "description": "ELKVIEW WV 25071 SS 10,SM 11,SN 730,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5350",
@@ -849,7 +849,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JONATHAN COMER. HC 73 BOX 24 A ALDERSON WV 24910 SS 10,SM 11,SN 7,W 630 CAMP, BUS, SOULWINNING, AWANA KJB church."
+    "description": "HC 73 BOX 24 A ALDERSON WV 24910 SS 10,SM 11,SN 7,W 630 CAMP, BUS, SOULWINNING, AWANA KJB church"
   },
   {
     "id": "5351",
@@ -867,7 +867,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "246 GRAND AVE LEWISBURG WV 24901 SS 10,SM 11,SN 630,W 7"
+    "description": "LEWISBURG WV 24901 SS 10,SM 11,SN 630,W 7"
   },
   {
     "id": "5352",
@@ -885,7 +885,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5353",
@@ -904,12 +904,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES MEADOWS. 100 KELLY ST PRINCETON WV 24740 SS 10,SM 11, SN 6, W 7 WED YOUTH CLASSES KJB, UNAFFLIATED"
+    "description": "PRINCETON WV 24740 SS 10,SM 11, SN 6, W 7 WED YOUTH CLASSES KJB, UNAFFLIATED"
   },
   {
     "id": "5354",
     "name": "TEMPLE BAPTIST CHURCH",
-    "address": "RT 55",
+    "address": "PO BOX 689",
     "city": "3/4",
     "state": "WV",
     "zipCode": "",
@@ -922,7 +922,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT LYON SR. PO BOX 689 CRAIGSVILLE WV 26205 RT 55, 3/4 MI. ON RICHWOOD RD SS 945,SM 11,SN 6 KJB church."
+    "description": "CRAIGSVILLE WV 26205 RT 55, 3/4 MI. ON RICHWOOD RD SS 945,SM 11,SN 6 KJB church"
   },
   {
     "id": "5355",
@@ -940,7 +940,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by COBB. 525 FORT RUN RD MOOREFIELD WV 26836 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB, BATA"
+    "description": "MOOREFIELD WV 26836 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB, BATA"
   },
   {
     "id": "5356",
@@ -953,13 +953,13 @@ export const westvirginiaChurches: Church[] = [
     "longitude": -80.5103,
     "phone": "(304) 884-6682",
     "website": "http://gracebaptisttemple.weebly.com",
-    "pastor": "ROGER D BROWN",
+    "pastor": "JANE LEW WV 26372 WESTON area SS KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROGER D BROWN. PO BOX 145 SANDSTONE WV 25985 PHYSICAL LOCATION 258 NEW RICHMOND BOTTOM RD NEW RICHMOND 24867 SS 10, SM 11 CHURCH PLANTING, STREET EVANGELISM PO BOX 586 43 PARKWAY DR JANE LEW WV 26372 WESTON area SS  KJB church."
+    "description": "PO BOX 145 SANDSTONE WV 25985 PHYSICAL LOCATION NEW RICHMOND 24867 SS 10, SM 11 CHURCH PLANTING, STREET EVANGELISM PO BOX 586 43 PARKWAY DR JANE LEW WV 26372 WESTON area SS KJB church"
   },
   {
     "id": "5357",
@@ -978,7 +978,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ANDREW NEELY. PO BOX 2901 201 CRANBERRY DR BECKLEY WV 25802 SS 945,SM 1055,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 2901 BECKLEY WV 25802 SS 945,SM 1055,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5358",
@@ -996,7 +996,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY KEFFER. PO BOX 35 3087 LENS CREEK RD (RT 94) HERNSHAW WV 25107 SS 10,SM 11,SN 6,W 7 KJB, WCBC"
+    "description": "PO BOX 35 HERNSHAW WV 25107 SS 10,SM 11,SN 6,W 7 KJB, WCBC"
   },
   {
     "id": "5359",
@@ -1014,7 +1014,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFEREY S HUGGINS. 330 3RD AVE RIPLEY WV 25271 SS 930,SM 830 & 930,SN 6,W 7 CHOIR, VIDEO SERMONS KJB church."
+    "description": "RIPLEY WV 25271 SS 930,SM 830 & 930,SN 6,W 7 CHOIR, VIDEO SERMONS KJB church"
   },
   {
     "id": "5360",
@@ -1032,7 +1032,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG A JOHNSON. PO BOX 1511 MORGANTOWN WV 26507 367 DENTS RUN RD,  in WESTOVER SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 1511 MORGANTOWN WV 26507 , in WESTOVER SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5361",
@@ -1050,7 +1050,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1081 OAK GROVE RD INDEPENDENCE WV 26374"
+    "description": "INDEPENDENCE WV 26374"
   },
   {
     "id": "5362",
@@ -1069,7 +1069,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SCOTT MCGRAW. SS 930,SM 1030,SN 7,W 7 SOULWINNING, BUS, HOSPITAL, REFORMERS UNANIMOUS KJB church."
+    "description": "SS 930,SM 1030,SN 7,W 7 SOULWINNING, BUS, HOSPITAL, REFORMERS UNANIMOUS KJB church"
   },
   {
     "id": "5363",
@@ -1088,7 +1088,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE ROSE. PO BOX 351 301 CLARK ST BELMONT WV 26134 SS 930,SM 1045,SN 630,W 7 KINGS KIDS KJB, UNAFFILIATED"
+    "description": "PO BOX 351 BELMONT WV 26134 SS 930,SM 1045,SN 630,W 7 KINGS KIDS KJB, UNAFFILIATED"
   },
   {
     "id": "5364",
@@ -1107,7 +1107,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRIAN MCALISTER. 555 PINE ST LOGAN WV 25601 SS 10,SM 11,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "LOGAN WV 25601 SS 10,SM 11,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "5365",
@@ -1126,7 +1126,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHARLES C SNYDER. PO BOX 68 2190 LESTER HWY (HWY 54) LESTER WV 25865 SS 10,SM 11,SN 6,W 7 SOULWINNING, MEN’S, WOMEN’S, SENIOR CITIZENS, TEENS KJB church."
+    "description": "PO BOX 68 LESTER WV 25865 SS 10,SM 11,SN 6,W 7 SOULWINNING, MEN’S, WOMEN’S, SENIOR CITIZENS, TEENS KJB church"
   },
   {
     "id": "5366",
@@ -1144,7 +1144,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA JONES. PO BOX 783 5487 RIG RD MOOREFIELD WV 26836 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "PO BOX 783 MOOREFIELD WV 26836 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5367",
@@ -1163,12 +1163,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KENNETH HUFFMAN. 512 3RD AVE MARLINTON WV 24954 KJB, BBF"
+    "description": "MARLINTON WV 24954 KJB, BBF"
   },
   {
     "id": "5368",
     "name": "LONDON BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 9",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1181,12 +1181,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD M SETSER. PO BOX 9 LONDON WV 25126 KJB church."
+    "description": "LONDON WV 25126 KJB church"
   },
   {
     "id": "5369",
     "name": "KEGLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "129 BLUESTONE RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1199,12 +1199,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 129 BLUESTONE RD KEGLEY WV 24731"
+    "description": "PO BOX KEGLEY WV 24731"
   },
   {
     "id": "5370",
     "name": "KEGLEYBAPTISTCHURCHWV",
-    "address": "650 GRANDVIEW RD",
+    "address": "650 GRANDVIEW RD BEAVE",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1218,7 +1218,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY COCHRANE. SS 945,SM 1045,SN 6,W 7 PO BOX 736 650 GRANDVIEW RD BEAVER WV 25813 near BECKLEY SS 10,SM 11,SN 6,W 7 KJB, APPALACHIAN-BC"
+    "description": "SS 945,SM 1045,SN 6,W 7 PO BOX 736 R WV 25813 near BECKLEY SS 10,SM 11,SN 6,W 7 KJB, APPALACHIAN-BC"
   },
   {
     "id": "5371",
@@ -1236,7 +1236,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB LIZER. PO BOX 1110 CRAB ORCHARD WV 25827 320 1ST AVE & VALLEY VIEW RD in MIDWAY BUS, TEEN, AWANA KJB, HAC 7200 GRAND CENTRAL AVE PARKERSBURG WV 26105 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 1110 CRAB ORCHARD WV 25827 BUS, TEEN, AWANA KJB, HAC 7200 GRAND CENTRAL AVE PARKERSBURG WV 26105 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5372",
@@ -1255,12 +1255,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WILLIAM MILLER. KJB, BBF"
+    "description": "KJB, BBF"
   },
   {
     "id": "5373",
     "name": "CANAAN BAPTIST CHURCH",
-    "address": "1919 BIGLEY AVE",
+    "address": "1919 BIGLEY AVE CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1274,7 +1274,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by J LEE BOWMAN JR. PO BOX 6085 1919 BIGLEY AVE CHARLESTON WV 25362 RT 4 BOX 4 HWY 250 N MANNINGTON WV 26582 SS 10,SM 11,SN 6,W 7 BUS, TEEN, KIDS CLUBS, VIDEO SERMONS KJB, BBF HC 81 BOX 19 C RT 28 N & PARSONS AVE ROMNEY"
+    "description": "PO BOX 6085 ON WV 25362 RT 4 BOX 4 HWY 250 N MANNINGTON WV 26582 SS 10,SM 11,SN 6,W 7 BUS, TEEN, KIDS CLUBS, VIDEO SERMONS KJB, BBF HC 81 BOX 19 C RT 28 N & PARSONS AVE ROMNEY"
   },
   {
     "id": "5374",
@@ -1292,7 +1292,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN CARTER. PO BOX 67 24710 TURNPIKE RD BELVA WV 26656 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 67 BELVA WV 26656 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5375",
@@ -1310,12 +1310,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALTER BONNELL. 2037 S CALHOUN HWY GRANTSVILLE WV 26147 SS 10,SM 11,SN 6,W 7 ARMY RESERVE UNIT RT 5 W OF GRANTSVILLE KJB, AMBASSADOR-BC, CROWN-BC"
+    "description": "2037 S CALHOUN HWY GRANTSVILLE WV 26147 SS 10,SM 11,SN 6,W 7 ARMY RESERVE UNIT RT 5 W OF GRANTSVILLE KJB, AMBASSADOR-BC, CROWN-BC"
   },
   {
     "id": "5376",
     "name": "CASHMERE BAPTIST CHURCH",
-    "address": "130 WOODSON RD",
+    "address": "130 WOODSON RD BALLARD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1329,7 +1329,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by EDWARD W DECKER. 130 WOODSON RD BALLARD WV 24918 SS 10,SN 11,SN 730,W 730 VAN, MASTER CLUBS, SOULWINNING, RADIO, TEENS KJB church."
+    "description": "WV 24918 SS 10,SN 11,SN 730,W 730 VAN, MASTER CLUBS, SOULWINNING, RADIO, TEENS KJB church"
   },
   {
     "id": "5377",
@@ -1366,7 +1366,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID M COE. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "5379",
@@ -1384,12 +1384,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB JOHNSON. 65 ROCKLEY RD MORGANTOWN WV 26508 SS 930,SM 1030,SN 7,W 645 AUDIO SERMONS & OUTLINES KJB church."
+    "description": "MORGANTOWN WV 26508 SS 930,SM 1030,SN 7,W 645 AUDIO SERMONS & OUTLINES KJB church"
   },
   {
     "id": "5380",
     "name": "LIGHTHOUSE INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 546",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1404,12 +1404,12 @@ export const westvirginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by JOHN D SMITH. PO BOX 546 FRANKLIN WV 26807 11 MILES SOUTH OF FRANKLIN SS 945 SM 11,SN 6,W 730 KJB, BBF"
+    "description": "FRANKLIN WV 26807 11 MILES SOUTH OF FRANKLIN SS 945 SM 11,SN 6,W 730 KJB, BBF"
   },
   {
     "id": "5381",
     "name": "TEAYS VALLEY MISSIONARY BAPTIST CHURCH",
-    "address": "3926 TEAYS VALLEY RD",
+    "address": "504 SCOTT RIDGE RD BEAVE",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1422,7 +1422,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROLLAN A ROBERTS. PO BOX 441 3926 TEAYS VALLEY RD HURRICANE WV 25526 SS 945,SM 1045,SN 6,W 7 AWANA, YOUTH, SENIORS, BUS, AUDIO SERMONS, PROPHETS CHAMBER PO BOX 549 504 SCOTT RIDGE RD BEAVER WV 25813 OFF I-64 NEAR BECKL KJB church."
+    "description": "PO BOX 441 HURRICANE WV 25526 SS 945,SM 1045,SN 6,W 7 AWANA, YOUTH, SENIORS, BUS, AUDIO SERMONS, PROPHETS CHAMBER PO BOX 549 R WV 25813 OFF I-64 NEAR BECKL KJB church"
   },
   {
     "id": "5382",
@@ -1440,12 +1440,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON DOWLER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5383",
     "name": "FAITH WAY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 26",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1458,7 +1458,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEONARD LUDWICK. 11895 BARBOUR CO HWY BELINGTON WV 26250 MAILING ADD PO BOX 26 PHILIPPI WV 26416 SS 930,SM 1030,SN 630,W 7 KJB, HAC"
+    "description": "11895 BARBOUR CO HWY BELINGTON WV 26250 MAILING ADD PHILIPPI WV 26416 SS 930,SM 1030,SN 630,W 7 KJB, HAC"
   },
   {
     "id": "5384",
@@ -1471,13 +1471,13 @@ export const westvirginiaChurches: Church[] = [
     "longitude": -81.8985,
     "phone": "(304) 623-4388",
     "website": "http://otbcclarksburg.org",
-    "pastor": "BUTCH COLLINS",
+    "pastor": "SUMMERSVILLE WV 26651 SS 10,SM 11,SN 6,W 7",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BUTCH COLLINS. PO BOX 848 318 HARRISON ST CLARKSBURG WV 26301 SS 10,SM 11,SN 6,W 7 VAN, OLD TIME BAPTIST INSTITUTE KJB, UNAFFILIATED 800 LUNA DR SUMMERSVILLE WV 26651 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 848 CLARKSBURG WV 26301 SS 10,SM 11,SN 6,W 7 VAN, OLD TIME BAPTIST INSTITUTE KJB, UNAFFILIATED 800 LUNA DR SUMMERSVILLE WV 26651 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5385",
@@ -1496,7 +1496,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by HOWARD HARPER. 2251 WILLIAMSPORT PIKE MARTINSBURG WV 25404 SS 945,SM 1045,SN 7,W 7 PATCH CLUB, TEENS, SENIORS, BUS; MARTINSBURG CHRISTIAN ACADEMY K3-12 KJB, BBF"
+    "description": "2251 WILLIAMSPORT PIKE MARTINSBURG WV 25404 SS 945,SM 1045,SN 7,W 7 PATCH CLUB, TEENS, SENIORS, BUS; MARTINSBURG CHRISTIAN ACADEMY K3-12 KJB, BBF"
   },
   {
     "id": "5386",
@@ -1514,7 +1514,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY CUMBERLAND. RR 1 BOX 89 210 SCENIC HWY SUMMERSVILLE WV 26651 KJB church."
+    "description": "RR 1 BOX 89 210 SCENIC HWY SUMMERSVILLE WV 26651 KJB church"
   },
   {
     "id": "5387",
@@ -1533,12 +1533,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM MARTIN. 917 N PRESTON HWY KINGWOOD WV 26537 KJB church."
+    "description": "KINGWOOD WV 26537 KJB church"
   },
   {
     "id": "5388",
     "name": "FAIRHAVEN INDEPENDENT BAPTIST CHURCH",
-    "address": "689 FAIRHAVEN DR",
+    "address": "689 FAIRHAVEN DR CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1552,12 +1552,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RAY T LOVE. 689 FAIRHAVEN DR CHARLESTON WV 25306 SS 10,SM 11,SN 6,W 7 FAIR HAVEN CHRISTIAN SCHOOL K4-12 KJB church."
+    "description": "ON WV 25306 SS 10,SM 11,SN 6,W 7 FAIR HAVEN CHRISTIAN SCHOOL K4-12 KJB church"
   },
   {
     "id": "5389",
     "name": "TRI STATE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 657",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1571,7 +1571,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DAVID W BOARD SR. PO BOX 657 RT 340 CHARLES TOWN WV 25414 SS 945,SM 11,SN 630,W 730 KJB, SOL, CROWN-BC"
+    "description": "RT 340 CHARLES TOWN WV 25414 SS 945,SM 11,SN 630,W 730 KJB, SOL, CROWN-BC"
   },
   {
     "id": "5390",
@@ -1590,7 +1590,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROY HUFFMAN. 211 MILLER AVE HINTON WV 25951 SS 945,SM 11,SN 7,W 7 AUDIO SERMONS, PROPHETS CHAMBER PO BOX 614 NEWTON WV 25266-0614 SS 10,SM 11,SN 7,W 7 BUS, CHOIR, YOUTH, TEEN KJB, BJU"
+    "description": "HINTON WV 25951 SS 945,SM 11,SN 7,W 7 AUDIO SERMONS, PROPHETS CHAMBER PO BOX 614 NEWTON WV 25266-0614 SS 10,SM 11,SN 7,W 7 BUS, CHOIR, YOUTH, TEEN KJB, BJU"
   },
   {
     "id": "5391",
@@ -1609,7 +1609,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL LAMB. PO BOX 738 115 N STATE ST ATHENS WV 24712 SS 10,SM 11,SN 6,W 7 AWANA, CONCORD COLLEGE OUTREACH KJB, HAC 310 8TH AVE PARKERSBURG WV 26101 SS 10,SM 1050,SN 6,W 7 PO BOX 7 HWY 12 & SEMINOLE RD FOREST HIL"
+    "description": "PO BOX 738 ATHENS WV 24712 SS 10,SM 11,SN 6,W 7 AWANA, CONCORD COLLEGE OUTREACH KJB, HAC 310 8TH AVE PARKERSBURG WV 26101 SS 10,SM 1050,SN 6,W 7 PO BOX 7 HWY 12 & SEMINOLE RD FOREST HIL"
   },
   {
     "id": "5392",
@@ -1628,7 +1628,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DONALD L HANNAH. 875 NORWAY AVE HUNTINGTON WV 25705 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "HUNTINGTON WV 25705 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5393",
@@ -1647,12 +1647,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by S RICHARD PARSONS JR. HC76 BOX 167 NIMITZ WV 25978 SW CORNER OF WV ROUTE 3  AND ELLISON RIDGE RD SS 10,SM 11,SN 6,W 7 RADIO STATION WMLJ-FM 96.7, SCRIPTURE ASSEMBLY & DISTRIBUTION, AUDIO SERMONS KJB, BBF, MASSILLON BC, WBF"
+    "description": "HC76 BOX 167 NIMITZ WV 25978 SS 10,SM 11,SN 6,W 7 RADIO STATION WMLJ-FM 96.7, SCRIPTURE ASSEMBLY & DISTRIBUTION, AUDIO SERMONS KJB, BBF, MASSILLON BC, WBF"
   },
   {
     "id": "5394",
     "name": "SECOND BAPTIST CHURCH",
-    "address": "305 ELMWOOD ST",
+    "address": "305 ELMWOOD ST RAVE",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1666,7 +1666,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by CHARLES LETRICK. PO BOX 446 305 ELMWOOD ST RAVENSWOOD WV 26164 SS 10,SM 11,SN 7,W 7 BUS, RADIO, VIDEO SERMONS; HERITAGE CHRISTIAN ACADEMY PS-12 KJB church."
+    "description": "PO BOX 446 NSWOOD WV 26164 SS 10,SM 11,SN 7,W 7 BUS, RADIO, VIDEO SERMONS; HERITAGE CHRISTIAN ACADEMY PS-12 KJB church"
   },
   {
     "id": "5395",
@@ -1684,12 +1684,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK PERRINE. RR 8 BOX 394C (ORCHARD RD) FAIRMONT WV 26554 SS 930 SM 1030 SN 6 W 7 39.472784°  -80.114745° KJB, CROWN-BC"
+    "description": "RR 8 BOX 394C (ORCHARD RD) FAIRMONT WV 26554 SS 930 SM 1030 SN 6 W 7 39.472784° -80.114745° KJB, CROWN-BC"
   },
   {
     "id": "5396",
     "name": "RIPLEY BAPTIST TEMPLE",
-    "address": "320 CHARLESTON DR",
+    "address": "320 CHARLESTON DR RIPL",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1702,7 +1702,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN LEVERSEE. 320 CHARLESTON DR RIPLEY WV 25271 SS 930,SM 1030,SN 630,W 730 BUS, TEEN, PROPHETS CHAMBER, RIPLEY SCHOOL OF THE BIBLE KJB church."
+    "description": "EY WV 25271 SS 930,SM 1030,SN 630,W 730 BUS, TEEN, PROPHETS CHAMBER, RIPLEY SCHOOL OF THE BIBLE KJB church"
   },
   {
     "id": "5397",
@@ -1720,7 +1720,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ART HAGE. 3300 ROSEMAR RD VIENNA WV 26105 SS 10, SM 11,SN 7,W 7 AUDIO SERMONS, RADIO, BOOKSTORE KJB church."
+    "description": "VIENNA WV 26105 SS 10, SM 11,SN 7,W 7 AUDIO SERMONS, RADIO, BOOKSTORE KJB church"
   },
   {
     "id": "5398",
@@ -1739,7 +1739,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHARLES V MADAUS. PO BOX 151 2765 2ND ST HURRICANE WV 25526 SS 10,SM 11, SN 7,W 7 BUS, SOULWINNING, CAMP; TRUTH & LIBERTY CHRISTIAN SCHOOL K-12; TRUTH & LIBERTY BIBLE COLLEGE/SEMINARY KJB church."
+    "description": "PO BOX 151 HURRICANE WV 25526 SS 10,SM 11, SN 7,W 7 BUS, SOULWINNING, CAMP; TRUTH & LIBERTY CHRISTIAN SCHOOL K-12; TRUTH & LIBERTY BIBLE COLLEGE/SEMINARY KJB church"
   },
   {
     "id": "5399",
@@ -1752,14 +1752,14 @@ export const westvirginiaChurches: Church[] = [
     "longitude": -80.7383,
     "phone": "(304) 623-2630",
     "website": "http://www.biblebtemp.com",
-    "pastor": "GLENN STEVENSON JR",
+    "pastor": "FAIRMONT WV 26554 SS 10,SM 11,SN 7, W 730 AUDIO SERMON KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GLENN STEVENSON JR. PO BOX 8128 1450 COST AVE (RT 58) STONEWOOD WV 26301 SS 10,SM 1045,SN 645,W 7 SOULWINNING, TEEN, CHOIR, DEAF, BUS, AUDIO SERMONS 28 FELLOWSHIP DR FAIRMONT WV 26554 SS 10,SM 11,SN 7, W 730 AUDIO SERMON KJB church."
+    "description": "PO BOX 8128 STONEWOOD WV 26301 SS 10,SM 1045,SN 645,W 7 SOULWINNING, TEEN, CHOIR, DEAF, BUS, AUDIO SERMONS 28 FELLOWSHIP DR FAIRMONT WV 26554 SS 10,SM 11,SN 7, W 730 AUDIO SERMON KJB church"
   },
   {
     "id": "5400",
@@ -1777,12 +1777,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN SCHNEIDER. 1809 VINEYARD ST BLUEFIELD WV 24701 SS 945,SM 1045,SN 7,W 7 CHILDREN’S MINISTRIES KJB church."
+    "description": "BLUEFIELD WV 24701 SS 945,SM 1045,SN 7,W 7 CHILDREN’S MINISTRIES KJB church"
   },
   {
     "id": "5401",
     "name": "FIRST GUYANDOTTE BAPTIST CHURCH",
-    "address": "219 RICHMOND ST",
+    "address": "5110 ELK RIVER RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1796,7 +1796,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LELAND D SWOR. 219 RICHMOND ST HUNTINGTON WV 25702 SS 945,SM 1050,SN 6,W 630 KJV, BBF, BJU, APPALACHIAN-BC, PO BOX 625 5110 ELK RIVER RD N ELKVIEW WV 25071 SS 10,SM 1050,SN 630,W 7 BUS, AWANA, YOUTH CAMP; ELK VALLEY KJB church."
+    "description": "HUNTINGTON WV 25702 SS 945,SM 1050,SN 6,W 630 KJV, BBF, BJU, APPALACHIAN-BC, PO BOX 625 N ELKVIEW WV 25071 SS 10,SM 1050,SN 630,W 7 BUS, AWANA, YOUTH CAMP; ELK VALLEY KJB church"
   },
   {
     "id": "5402",
@@ -1814,7 +1814,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL ELDER. RR 1 BOX 7-B STURGEON BRANCH RD & LOOPS RD MEADOW BRIDGE WV 25976 Near RAINELLE KJB church."
+    "description": "RR 1 BOX 7-B STURGEON BRANCH RD & LOOPS RD MEADOW BRIDGE WV 25976 Near RAINELLE KJB church"
   },
   {
     "id": "5403",
@@ -1833,12 +1833,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BILL STUTLER. 406 27TH ST VIENNA WV 26105 KJV, AMBASSADOR-BC KJB church."
+    "description": "VIENNA WV 26105 KJV, AMBASSADOR-BC KJB church"
   },
   {
     "id": "5404",
     "name": "WEST MILFORD BAPTIST CHURCH",
-    "address": "3653 LAUREL PARK RD",
+    "address": "26301 NEAR WEST MILFORD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1851,12 +1851,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM BROWN. 3653 LAUREL PARK RD CLARKSBURG WV 26301 NEAR WEST MILFORD KJB church."
+    "description": "CLARKSBURG WV KJB church"
   },
   {
     "id": "5405",
     "name": "SUGAR CREEK BAPTIST CHURCH",
-    "address": "2409 ELK RIVER RD",
+    "address": "2409 ELK RIVER RD GASSAWAY",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1869,7 +1869,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BENNIE MORAN. PO BOX 188 2409 ELK RIVER RD GASSAWAY WV 26624 PROPHETS CHAMBER KJB, AMBASSADOR-BC, FBF 809 GREENBAG RD MORGANTOWN WV 26508 SS 10,SM 11,SN 7,W 7 MORGANTOWN CHRISTIAN ACADEMY K5-8; CAMPUS LIGHT MINISTR"
+    "description": "PO BOX 188 WV 26624 PROPHETS CHAMBER KJB, AMBASSADOR-BC, FBF 809 GREENBAG RD MORGANTOWN WV 26508 SS 10,SM 11,SN 7,W 7 MORGANTOWN CHRISTIAN ACADEMY K5-8; CAMPUS LIGHT MINISTR"
   },
   {
     "id": "5406",
@@ -1887,12 +1887,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by COREY C BRADLEY. RR 1 BOX 94P 49 ROCKVILLE MT NEBO RD (HWY 12) ALBRIGHT WV 26519 KJB church."
+    "description": "RR 1 BOX 94P ALBRIGHT WV 26519 KJB church"
   },
   {
     "id": "5407",
     "name": "TRUTH BAPTIST CHURCH",
-    "address": "3845 CHESTERFIELD AVE",
+    "address": "3845 CHESTERFIELD AVE CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1905,12 +1905,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3845 CHESTERFIELD AVE CHARLESTON WV 25304-2647"
+    "description": "ON WV 25304-2647"
   },
   {
     "id": "5408",
     "name": "TRUTHBAPTISTWV",
-    "address": "",
+    "address": "7 MAST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1923,12 +1923,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "SS 1020,SM 1105,SN 6,W 7 MASTERS CLUB"
+    "description": "SS 1020,SM 1105,SN 6,W ERS CLUB"
   },
   {
     "id": "5409",
     "name": "NEW TESTAMENT BAPTIST CHURCH",
-    "address": "",
+    "address": "26317 HALFWAY",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1942,12 +1942,12 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK D SECRIST. PO BOX 50 BIG SPRINGS WV 26317 HALFWAY BETWEEN SMITHVILLE AND GRANTSVILLE ON SR 16 KJB, UNAFFILIATED"
+    "description": "PO BOX 50 BIG SPRINGS WV BETWEEN SMITHVILLE AND GRANTSVILLE ON SR 16 KJB, UNAFFILIATED"
   },
   {
     "id": "5410",
     "name": "MOUNTAIN STATE BAPTIST CHURCH",
-    "address": "",
+    "address": "26651 W WEBST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1960,12 +1960,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALLAS PEYTON JR. PO BOX 7 SUMMERSVILLE WV 26651 W WEBSTER & HWY 19 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 7 SUMMERSVILLE WV ER & HWY 19 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5411",
     "name": "COOKS CHAPEL BAPTIST",
-    "address": "RT 20 BROADWAY RD",
+    "address": "20 BROADWAY RD PIPEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -1978,7 +1978,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES BROWNING. PO BOX 49 RT 20 BROADWAY RD PIPESTEM WV 25979 PATCH PIRATE, TEEN, CHOIR, AUDIO SERMONS; PIPESTEM CHRISTIAN ACADEMY K5-12; PIONEER BIBLE COLLEGE KJB, AMBASSADOR-BC"
+    "description": "PO BOX 49 RT EM WV 25979 PATCH PIRATE, TEEN, CHOIR, AUDIO SERMONS; PIPESTEM CHRISTIAN ACADEMY K5-12; PIONEER BIBLE COLLEGE KJB, AMBASSADOR-BC"
   },
   {
     "id": "5412",
@@ -1996,12 +1996,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM GREEN. 401 W 4TH AVE MADISON WV 25130 KJB, AMBASSADOR-BC PO BOX 282 111725 VETERANS MEMORIAL HWY REEDSVILLE WV 26520 SS 10,SM 11,SN 6,W 7"
+    "description": "MADISON WV 25130 KJB, AMBASSADOR-BC PO BOX 282 111725 VETERANS MEMORIAL HWY REEDSVILLE WV 26520 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5413",
     "name": "JOSEPH BAPTIST CHURCH",
-    "address": "103 103RD ST",
+    "address": "3160 CHARLES TOWN RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2014,7 +2014,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG BUSH. BOX 276 103 103RD ST LYNCO WV 24857 KJB, HAC 3160 CHARLES TOWN RD KEARNEYSVILLE WV 25430"
+    "description": "BOX 276 103 103RD ST LYNCO WV 24857 KJB, HAC KEARNEYSVILLE WV 25430"
   },
   {
     "id": "5414",
@@ -2032,7 +2032,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONZEL ROBERTS. 2176 PETTYVILLE RD PARKERSBURG WV 26101 SM 10,SN 6,W 7 KJB church."
+    "description": "PARKERSBURG WV 26101 SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "5415",
@@ -2050,12 +2050,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by SCOTT BANDY. 1259 BURNSVILLE RD BURNSVILLE WV 26335 NEAR GLENVILLE WV MBBC, AMBASSADOR-BC, NORTHLAND BBC, Independent church."
+    "description": "BURNSVILLE WV 26335 NEAR GLENVILLE WV MBBC, AMBASSADOR-BC, NORTHLAND BBC, Independent church"
   },
   {
     "id": "5416",
     "name": "TWIN CITY BIBLE CHURCH",
-    "address": "100 1ST AVE",
+    "address": "121 TALBERT AVE",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2068,7 +2068,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JUSTIN SEAY. 100 1ST AVE NITRO WV 25143 SS 930,SM 1030,SN 6, W 6 AUDIO SERMONS APPALACHIAN-BC 121 TALBERT AVE FAYETTEVILLE WV 25840 SS 10,SM 11,SN 6,W 7"
+    "description": "100 1ST AVE NITRO WV 25143 SS 930,SM 1030,SN 6, W 6 AUDIO SERMONS APPALACHIAN-BC FAYETTEVILLE WV 25840 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5417",
@@ -2086,12 +2086,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVE SPENCER. 5385 W PEA RIDGE RD HUNTINGTON WV 25705 SS 9,SM 10,SN 630,W 7 PROPHETS CHAMBER, AWANA, BUS, YOUTH, FOOD & CLOTHES PANTRIES, SENIORS, DIVORCE CARE, H.A.V.E.N., ORCHESTRA, CHOIR, AUDIO SERMONS"
+    "description": "HUNTINGTON WV 25705 SS 9,SM 10,SN 630,W 7 PROPHETS CHAMBER, AWANA, BUS, YOUTH, FOOD & CLOTHES PANTRIES, SENIORS, DIVORCE CARE, H.A.V.E.N., ORCHESTRA, CHOIR, AUDIO SERMONS"
   },
   {
     "id": "5418",
     "name": "BALLARD BAPTIST CHURCH",
-    "address": "1441 ADAIRS RIDGE RD",
+    "address": "1441 ADAIRS RIDGE RD BALLARD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2104,12 +2104,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by STEVE P HOWDOCK. PO BOX 131 1441 ADAIRS RIDGE RD BALLARD WV 24918 SS 10,SM 11,SN 7,W 7 BALLARD CHRISTIAN SCHOOL PREK-12 AACS PROPHETS CHAMBER"
+    "description": "PO BOX 131 WV 24918 SS 10,SM 11,SN 7,W 7 BALLARD CHRISTIAN SCHOOL PREK-12 AACS PROPHETS CHAMBER"
   },
   {
     "id": "5419",
     "name": "IMMANUEL BAPTIST CHURCH",
-    "address": "",
+    "address": "171 BALLARD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2122,12 +2122,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DANNY E MORGAN. RR 1 BOX 171 BALLARD WV 24918 RR 2 BOX 262 RONCEVERTE WV 24970 AMBASSADOR-BC"
+    "description": "RR 1 BOX WV 24918 RR 2 BOX 262 RONCEVERTE WV 24970 AMBASSADOR-BC"
   },
   {
     "id": "5420",
     "name": "INDEPENDENT MISSIONARY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 65",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2140,12 +2140,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by MAT BALDWIN. PO BOX 65 RT 214 ALUM CREEK WV 25003 Independent church."
+    "description": "RT 214 ALUM CREEK WV 25003 Independent church"
   },
   {
     "id": "5421",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "",
+    "address": "315 LITTLE LEFT HAND RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2158,12 +2158,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TIM YOUNG. HC 87 BOX 315 LITTLE LEFT HAND RD AMMA WV 25005"
+    "description": "HC 87 BOX AMMA WV 25005"
   },
   {
     "id": "5422",
     "name": "BICKMORE BAPTIST CHURCH",
-    "address": "",
+    "address": "226 FOLA RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2176,12 +2176,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KENNETH R PRITT. PO BOX 226 FOLA RD BICKMORE WV 25133 SS 10,SM 11,SN 7,W 7"
+    "description": "PO BOX BICKMORE WV 25133 SS 10,SM 11,SN 7,W 7"
   },
   {
     "id": "5423",
     "name": "SANDY GROVE BAPTIST CHURCH",
-    "address": "5707 RAVEN DR",
+    "address": "5707 RAVEN DR CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2194,12 +2194,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PAUL R RICE JR. 5707 RAVEN DR CHARLESTON WV 25306"
+    "description": "ON WV 25306"
   },
   {
     "id": "5424",
     "name": "VALLEY VIEW BAPTIST CHAPEL",
-    "address": "4894 W WASHINGTON ST",
+    "address": "4894 W WASHINGTON ST CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2212,7 +2212,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by UNKNOWN. 4894 W WASHINGTON ST CHARLESTON WV 25313 SS 10,SM 11,SN 6,W 645"
+    "description": "ON WV 25313 SS 10,SM 11,SN 6,W 645"
   },
   {
     "id": "5425",
@@ -2230,7 +2230,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WILLIAM CASSADY. 33088 HUNTINGTON RD ASHTON WV 25503"
+    "description": "ASHTON WV 25503"
   },
   {
     "id": "5426",
@@ -2248,7 +2248,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3641 MCCOMAS RD BARBOURSVILLE WV 25504"
+    "description": "BARBOURSVILLE WV 25504"
   },
   {
     "id": "5427",
@@ -2266,7 +2266,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 4566 437 MAIN ST CHAPMANVILLE WV 25508"
+    "description": "PO BOX 4566 CHAPMANVILLE WV 25508"
   },
   {
     "id": "5428",
@@ -2284,7 +2284,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MICHAEL ESKUE."
+    "description": ""
   },
   {
     "id": "5429",
@@ -2302,12 +2302,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by GARY BOWMAN. 4749 COW CREEK RD HURRICANE WV 25526"
+    "description": "HURRICANE WV 25526"
   },
   {
     "id": "5430",
     "name": "LORY BAPTIST CHURCH",
-    "address": "",
+    "address": "25529 CHRIST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2320,12 +2320,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DOUG BRAGG. RR 1 BOX 135 JULIAN WV 25529 CHRISTIAN SCHOOL"
+    "description": "RR 1 BOX 135 JULIAN WV IAN SCHOOL"
   },
   {
     "id": "5431",
     "name": "EVERGREEN HILLS BAPTIST CHURCH",
-    "address": "1009 W NEVILLE ST",
+    "address": "98 HEAVENS HILL DR",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2338,12 +2338,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MACK CANTERBURY. RR 2 BOX 98 HEAVENS HILL DR MILTON WV 25541 1009 W NEVILLE ST BECKLEY WV 25801 BBF church."
+    "description": "RR 2 BOX MILTON WV 25541 1009 W NEVILLE ST BECKLEY WV 25801 BBF church"
   },
   {
     "id": "5432",
     "name": "GUM SPRINGS BAPTIST CHURCH",
-    "address": "",
+    "address": "25812 BIG CREEK RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2356,12 +2356,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JIM BAKER. BOX 430 ANSTED WV 25812 BIG CREEK RD CHIMNEY CORNER WV"
+    "description": "BOX ED WV CHIMNEY CORNER WV"
   },
   {
     "id": "5433",
     "name": "GRAFTON BAPTIST CHURCH",
-    "address": "",
+    "address": "26354 SCHOOL ST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2374,7 +2374,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD. RR 1 BOX 156 GRAFTON WV 26354 SCHOOL ST"
+    "description": "RR 1 BOX 156 GRAFTON WV"
   },
   {
     "id": "5434",
@@ -2393,12 +2393,12 @@ export const westvirginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ROBERT M CRAMER. PO BOX 335 DANS RUN RD FORT ASHBY WV 26719 SS 930,SM 1030,SN 6,W 7 PO BOX 412 NEAR 17503 BRANDONVILLE PIKE BRUCETON MILLS WV 26525 SS 10,SM 11,SN 7,W 7 2878 PIEDMONT RD CHARLESTON WV 25311 BBF church."
+    "description": "PO BOX 335 DANS RUN RD FORT ASHBY WV 26719 SS 930,SM 1030,SN 6,W 7 PO BOX 412 NEAR 17503 BRANDONVILLE PIKE BRUCETON MILLS WV 26525 SS 10,SM 11,SN 7,W 7 CHARLESTON WV 25311 BBF church"
   },
   {
     "id": "5435",
     "name": "MAPLE HILL MISSIONARY BAPTIST CHURCH",
-    "address": "8 MAPLE HOLLOW RD",
+    "address": "8 MAPLE HOLLOW RD CHARLEST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2411,7 +2411,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LEROY CARPENTER. RR 6 BOX 274 C 8 MAPLE HOLLOW RD CHARLESTON WV 25311 HC 80 BOX 23 CRAIGSVILLE WV 26205 BBF church."
+    "description": "RR 6 BOX 274 C ON WV 25311 HC 80 BOX 23 CRAIGSVILLE WV 26205 BBF church"
   },
   {
     "id": "5436",
@@ -2429,12 +2429,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BRENT D SMITH. RR 1 BOX 493 A MT CLARE WV 26408"
+    "description": "RR 1 BOX 493 A MT CLARE WV 26408"
   },
   {
     "id": "5437",
     "name": "BAKER INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 247",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2447,12 +2447,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by DAVID SANDERSON. PO BOX 247 BAKER WV 26801 SS 10,SM 11,SN 6,W 7 Independent church."
+    "description": "BAKER WV 26801 SS 10,SM 11,SN 6,W 7 Independent church"
   },
   {
     "id": "5438",
     "name": "COTTAGEVILLE-EVANS BAPTIST CHURCH",
-    "address": "",
+    "address": "174 EVANS RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2465,7 +2465,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 174 EVANS RD COTTAGEVILLE WV 25239"
+    "description": "PO BOX COTTAGEVILLE WV 25239"
   },
   {
     "id": "5439",
@@ -2483,7 +2483,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HUCKINS. WINCHESTER, VA PREACH KJV, GARBC KJB church."
+    "description": "WINCHESTER, VA PREACH KJV, GARBC KJB church"
   },
   {
     "id": "5440",
@@ -2501,12 +2501,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MIKE KING. 256 LYNDON AVE MONONGAH WV 26554-1049 CEDARVILLE-U"
+    "description": "MONONGAH WV 26554-1049 CEDARVILLE-U"
   },
   {
     "id": "5441",
     "name": "MOUNT TABOR BAPTIST CHURCH",
-    "address": "262 MT TABOR RD",
+    "address": "25801 MT TABOR CHRIST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2519,7 +2519,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DERRICK LESLIE. 262 MT TABOR RD BECKLEY WV 25801 MT TABOR CHRISTIAN SCHOOL PS-12 HC 77 BOX 412 10347 BALLARD RED SULPHUR PKWY RED SULPHUR SPRINGS BALLARD WV 24918 1809 VINEYARD ST BLUEFIELD WV 24605"
+    "description": "BECKLEY WV IAN SCHOOL PS-12 HC 77 BOX 412 10347 BALLARD RED SULPHUR PKWY RED SULPHUR SPRINGS BALLARD WV 24918 1809 VINEYARD ST BLUEFIELD WV 24605"
   },
   {
     "id": "5442",
@@ -2537,7 +2537,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLINTON R OOTEN SR. HARRISVILLE WV 26362 1 MI S OF HARRISVILLE ON ST RT 16 NOT KJV ONLY, BJU KJB church."
+    "description": "HARRISVILLE WV 26362 NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "5443",
@@ -2556,7 +2556,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LEONARD M PEELER. RR 2 BOX 355 WILLIAMSON WV 25661 RT 49, SPRING WV PREACH & TEACH KJV, NOT KJV ONLY KJB church."
+    "description": "RR 2 BOX 355 WILLIAMSON WV 25661 RT 49, SPRING WV PREACH & TEACH KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "5444",
@@ -2575,7 +2575,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GORDON RUTHERFORD. 2682 WYLIE RIDGE RD WEIRTON WV 26062 SS 10,SM 11,SN 6,W 7 MASTERS CLUB NOT KJV ONLY, BBF KJB church."
+    "description": "WEIRTON WV 26062 SS 10,SM 11,SN 6,W 7 MASTERS CLUB NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "5445",
@@ -2594,7 +2594,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHAD HATFIELD. 6286 LITTLE SEVEN MILE RD HUNTINGTON WV 25702 NOT KJV ONLY, BBF KJB church."
+    "description": "HUNTINGTON WV 25702 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "5446",
@@ -2612,7 +2612,7 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NAME UNKNOWN. 2014 ADAMS AVE HUNTINGTON WV 25704 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY KJB church."
+    "description": "HUNTINGTON WV 25704 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "5447",
@@ -2631,7 +2631,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAN GATES. PO BOX 128 407 HIGH ST BUFFALO WV 25033 SS 10,SM 11, SN 7,W 7 NOT KJV ONLY PO BOX 261 DANVILLE WV 25053 NOT KJV ONLY, BBF, IFCA KJB church."
+    "description": "PO BOX 128 BUFFALO WV 25033 SS 10,SM 11, SN 7,W 7 NOT KJV ONLY PO BOX 261 DANVILLE WV 25053 NOT KJV ONLY, BBF, IFCA KJB church"
   },
   {
     "id": "5448",
@@ -2649,12 +2649,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL TOOTHMAN JR. 707 JOHNSTON RD BECKLEY WV 25801 SS 945,SM 1045,SN 6,W 7 AWANA, SENIORS, CHOIR NOT KJV ONLY, BJU, NBBC, AMBASADOR BC KJB church."
+    "description": "BECKLEY WV 25801 SS 945,SM 1045,SN 6,W 7 AWANA, SENIORS, CHOIR NOT KJV ONLY, BJU, NBBC, AMBASADOR BC KJB church"
   },
   {
     "id": "5449",
     "name": "MARION INDEPENDENT BAPTIST CHURCH",
-    "address": "412 MAIN ST",
+    "address": "110 ERVIN LANE",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2670,12 +2670,12 @@ export const westvirginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by RALPH ANDRUS. PO BOX 29 412 MAIN ST RIVESVILLE WV 26588 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, TEENS, VISITATION, NURSERY NOT KJV ONLY, GARBC PO BOX 950 110 ERVIN LANE ELKINS WV 26241 SS 10,SM 11,SN 6,W 645 NKJV, BBF,  KJB church."
+    "description": "PO BOX 29 RIVESVILLE WV 26588 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, TEENS, VISITATION, NURSERY NOT KJV ONLY, GARBC PO BOX 950 ELKINS WV 26241 SS 10,SM 11,SN 6,W 645 NKJV, BBF, KJB church"
   },
   {
     "id": "5450",
     "name": "GALILEAN BAPTIST CHURCH",
-    "address": "",
+    "address": "26554 LANHAM DR",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2688,12 +2688,12 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES STANLEY. RT 7 BOX 95 FAIRMONT WV 26554 LANHAM DR, WHITEHALL SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "RT 7 BOX 95 FAIRMONT WV , WHITEHALL SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "5451",
     "name": "VALLEY INDEPENDENT BAPTIST CHURCH",
-    "address": "176 S KANAWHA ST",
+    "address": "2319 UPSHUR COUNTRY CHRIST",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2707,7 +2707,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL TALLMAN. OLD ROUTE 219 HUTTONSVILLE WV 26273 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, CEDARVILLE-U 176 S KANAWHA ST BUCKHANNON WV 26201-2319 UPSHUR COUNTRY CHRISTIAN ACADEMY K5-12 TRAD BJU ABEKA; AUDIO SERMONS KJB,"
+    "description": "OLD ROUTE 219 HUTTONSVILLE WV 26273 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, CEDARVILLE-U BUCKHANNON WV 26201-IAN ACADEMY K5-12 TRAD BJU ABEKA; AUDIO SERMONS KJB"
   },
   {
     "id": "5452",
@@ -2727,12 +2727,12 @@ export const westvirginiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DAN STEVENS. RT 1 BOX 117 MEADOW BRIDGE WV 25976 NEAR RUPERT SS 10,SM 11,SN 630,W 730 NOT KJV ONLY, GARBC 4100 CYPRESS ST PARKERSBURG WV 26104 SS 930,SM 1030,SN 6,W 7 TEENS,YOUTH NIV & OTHERS, BBF KJB church."
+    "description": "RT 1 BOX 117 MEADOW BRIDGE WV 25976 NEAR RUPERT SS 10,SM 11,SN 630,W 730 NOT KJV ONLY, GARBC PARKERSBURG WV 26104 SS 930,SM 1030,SN 6,W 7 TEENS,YOUTH NIV & OTHERS, BBF KJB church"
   },
   {
     "id": "5453",
     "name": "JOHNSTON CHAPEL BAPTIST CHURCH",
-    "address": "1318 N 16TH ST",
+    "address": "341 HALLS RIDGE RD",
     "city": "Charleston",
     "state": "WV",
     "zipCode": "",
@@ -2746,7 +2746,7 @@ export const westvirginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAYSON BYRD. RR 3 BOX 341 HALLS RIDGE RD PRINCETON WV 24740 SS 10,SM 830 & 11,SN 7,W 730 AUDIO SERMONS, AWANA, MOPS, DIVORCECARE; MERCER CHRISTIAN ACADEMY K-12 NOT KJV ONLY, GARBC 1318 N 16TH ST CLARKSBURG WV 2630 KJB church."
+    "description": "RR 3 BOX PRINCETON WV 24740 SS 10,SM 830 & 11,SN 7,W 730 AUDIO SERMONS, AWANA, MOPS, DIVORCECARE; MERCER CHRISTIAN ACADEMY K-12 NOT KJV ONLY, GARBC 1318 N 16TH ST CLARKSBURG WV 2630 KJB church"
   },
   {
     "id": "5454",
@@ -2764,6 +2764,6 @@ export const westvirginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "910 MAIN ST ELKVIEW WV 25071"
+    "description": "ELKVIEW WV 25071"
   }
 ];

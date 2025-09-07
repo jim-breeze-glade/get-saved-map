@@ -17,7 +17,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON NETTESHEIM. 226 S BARNES ST NASHVILLE NC 27856 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "NASHVILLE NC 27856 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3273",
@@ -36,7 +36,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN PITTMAN. 616 W ELIZABETH ST ELIZEBETH CITY NC 27909 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "ELIZEBETH CITY NC 27909 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3274",
@@ -55,7 +55,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SCOTT DOTSON. PO BOX 206 6910 MARTIN FERRY RD TOBACCOVILLE NC 27050 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING KJB church."
+    "description": "PO BOX 206 TOBACCOVILLE NC 27050 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING KJB church"
   },
   {
     "id": "3275",
@@ -74,7 +74,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROGER CARMICHAEL. 1053 CROSSROADS PARKWAY MARS HILL NC 28754 SS 945, SM 11, SN 6, W 7 LIVE STREAMING SERVICES KJB, UNAFFILIATED"
+    "description": "MARS HILL NC 28754 SS 945, SM 11, SN 6, W 7 LIVE STREAMING SERVICES KJB, UNAFFILIATED"
   },
   {
     "id": "3276",
@@ -92,7 +92,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE DULIN. 300 E SPRINGFIELD RD HIGH POINT NC 27263 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HIGH POINT NC 27263 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3277",
@@ -110,12 +110,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES OXENDINE. 5435 WILDWOOD RD SALISBURY NC 28146 SM 1045,SN 6 KJB church."
+    "description": "SALISBURY NC 28146 SM 1045,SN 6 KJB church"
   },
   {
     "id": "3278",
     "name": "PEOPLES BAPTIST CHURCH",
-    "address": "",
+    "address": "210 HAMPST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -128,7 +128,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by OSCAR COGGIN. 3349 NC 210 HAMPSTEAD NC 28443 KJB church."
+    "description": "3349 NC EAD NC 28443 KJB church"
   },
   {
     "id": "3279",
@@ -146,7 +146,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICKEY LANCE. 3335 E WILSON ST FARMVILLE NC 27828 KJB church."
+    "description": "FARMVILLE NC 27828 KJB church"
   },
   {
     "id": "3280",
@@ -164,12 +164,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS SWIATOCHO. 1633 MOUNT PLEASANT RD MURPHY NC 28906 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MURPHY NC 28906 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3281",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "2428 SEASHORE RD SW",
+    "address": "2428 SEASHORE RD SW SUPPL",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -183,7 +183,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEN STANLEY. 2428 SEASHORE RD SW SUPPLY NC 28462 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, SENIORS KJB church."
+    "description": "Y NC 28462 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, SENIORS KJB church"
   },
   {
     "id": "3282",
@@ -201,7 +201,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM FIELDS. 3100 NEW SHARON CHURCH RD HILLSBOROUGH NC 27278 SS 10,SM 11,SN 6, W 730 VIDEO SERMONS KJB church."
+    "description": "HILLSBOROUGH NC 27278 SS 10,SM 11,SN 6, W 730 VIDEO SERMONS KJB church"
   },
   {
     "id": "3283",
@@ -219,7 +219,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD LEWIS. 574 TOWER RD THOMASVILLE NC 27360 KJB church."
+    "description": "THOMASVILLE NC 27360 KJB church"
   },
   {
     "id": "3284",
@@ -237,12 +237,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DANNY K HILL. 1742 RINGWOOD RD ENFIELD NC 27823 SS 10,SM 11, SN 630, W 730"
+    "description": "ENFIELD NC 27823 SS 10,SM 11, SN 630, W 730"
   },
   {
     "id": "3285",
     "name": "MERCY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 274",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -256,7 +256,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JERRY STINES. KJB, UNAFFILIATED PO BOX 274 7459 US HWY 264A FARMVILLE NC 27828 SS 10 SM 11 SN 6"
+    "description": "KJB, UNAFFILIATED 7459 US HWY 264A FARMVILLE NC 27828 SS 10 SM 11 SN 6"
   },
   {
     "id": "3286",
@@ -275,7 +275,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by WES BAILEY. 131 DUKE ST GRANITE FALLS NC 28630 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, AUDIO SERMONS KJB church."
+    "description": "GRANITE FALLS NC 28630 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, AUDIO SERMONS KJB church"
   },
   {
     "id": "3287",
@@ -293,7 +293,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF MCCURRY. 402 NC HWY 561 LOUISBURG NC 27549 SS 10,SM 22,SN 6,W 7 KJB church."
+    "description": "402 NC HWY 561 LOUISBURG NC 27549 SS 10,SM 22,SN 6,W 7 KJB church"
   },
   {
     "id": "3288",
@@ -311,12 +311,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CECIL TILLER. 123 MEADOW FORK SCHOOL RD HOT SPRINGS NC 28743 SS 10,SM 11,SN 6,W 730 VIDEO SERMONS KJB church."
+    "description": "HOT SPRINGS NC 28743 SS 10,SM 11,SN 6,W 730 VIDEO SERMONS KJB church"
   },
   {
     "id": "3289",
     "name": "CALVARY INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 205",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -330,7 +330,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY BEAM. PO BOX 205 12 HWY 32 SUNBURY NC 27926 SS 10,SM 11,SN 6 KJB church."
+    "description": "12 HWY 32 SUNBURY NC 27926 SS 10,SM 11,SN 6 KJB church"
   },
   {
     "id": "3290",
@@ -348,7 +348,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by E NORWOOD TADLOCK. 55 HANGING ROCK RD SPRUCE PINE NC 28777 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SPRUCE PINE NC 28777 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3291",
@@ -366,12 +366,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE STAFFORD. 5504 MCPHAIL ST HOPE MILLS NC 28348 SS 915,SM 815 & 1030,SN 6,W 7 HARVEST MMO PRESCHOOL, ABEKA, AGES 2-5 KJB church."
+    "description": "HOPE MILLS NC 28348 SS 915,SM 815 & 1030,SN 6,W 7 HARVEST MMO PRESCHOOL, ABEKA, AGES 2-5 KJB church"
   },
   {
     "id": "3292",
     "name": "PILGRIMS WAY BAPTIST CHURCH",
-    "address": "485 HAMILTON RD",
+    "address": "485 HAMILTON RD RUTHERFORD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -385,12 +385,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JUSTIN KIMMER. PO BOX 401 485 HAMILTON RD RUTHERFORDTON NC 28139 SS 10,SM 11,SN 7,W 7 AUDIO & TEXT SERMONS KJB,UNAFFILIATED"
+    "description": "PO BOX 401 TON NC 28139 SS 10,SM 11,SN 7,W 7 AUDIO & TEXT SERMONS KJB,UNAFFILIATED"
   },
   {
     "id": "3293",
     "name": "SOUTHVIEW BAPTIST CHURCH",
-    "address": "625 WALLACE SPRINGS RD",
+    "address": "625 WALLACE SPRINGS RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -405,7 +405,7 @@ export const northcarolinaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by WILLIAM SEAWELL JR. 625 WALLACE SPRINGS RD STATESVILLE NC 28677 SS 930,SM 1030,SN 630,W 730 MASTERS CLUB, PRETEENS, TEEN, CHILDRENS CHURCH, SOULWINNING; SOUTHVIEW CHRISTIAN SCHOOL,K4-12,ABEKA; KJB church."
+    "description": "ATESVILLE NC 28677 SS 930,SM 1030,SN 630,W 730 MASTERS CLUB, PRETEENS, TEEN, CHILDRENS CHURCH, SOULWINNING; SOUTHVIEW CHRISTIAN SCHOOL,K4-12,ABEKA; KJB church"
   },
   {
     "id": "3294",
@@ -425,7 +425,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BRIAN LOWMAN. 160 GATE RD THOMASVILLE NC 27360 SS 10,SM 11,SN 6,W 7 BUS, MASTERS CLUB, TEEN LIFE PROGRAM, SOULWINNING, TAPE, CORRESPONDENCE, PRISON, SENIORS, TEENS, SPANISH, AUDIO & VIDEO SERMONS, PROPHETS CHAMBER  KJB church."
+    "description": "THOMASVILLE NC 27360 SS 10,SM 11,SN 6,W 7 BUS, MASTERS CLUB, TEEN LIFE PROGRAM, SOULWINNING, TAPE, CORRESPONDENCE, PRISON, SENIORS, TEENS, SPANISH, AUDIO & VIDEO SERMONS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "3295",
@@ -443,7 +443,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK HERNDON JR. 6400 HOLLY SPRINGS RD RALEIGH NC 27606 SS 930,SM 1030,SN 6,W 7 TRADITIONAL SERVICES, HYMNS, EXPOSITORY PREACHING KJB,AMBASSADOR-BC"
+    "description": "RALEIGH NC 27606 SS 930,SM 1030,SN 6,W 7 TRADITIONAL SERVICES, HYMNS, EXPOSITORY PREACHING KJB,AMBASSADOR-BC"
   },
   {
     "id": "3296",
@@ -462,7 +462,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LANNY J FUNCHESS. 102 IRON STATION RD DALLAS NC 28034 SS 10,SM 11,SN 6,W 630 PO BOX 524 416 N MAIN ST HENRIETTA NC 28076 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "DALLAS NC 28034 SS 10,SM 11,SN 6,W 630 PO BOX 524 416 N MAIN ST HENRIETTA NC 28076 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3297",
@@ -480,7 +480,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN MILLS. PO BOX 624 333 FOX MOUNTAIN RD COLUMBUS NC 28722 SS 930, SM 1030, SN 6, W 630 AUDIO & VIDEO SERMONS KJB church."
+    "description": "PO BOX 624 COLUMBUS NC 28722 SS 930, SM 1030, SN 6, W 630 AUDIO & VIDEO SERMONS KJB church"
   },
   {
     "id": "3298",
@@ -500,7 +500,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by SHANE BRANTLEY. 8438 TOWN CREEK RD ROCKY MOUNT NC 27803 SS 10,SM 11,SN 630 SOULWINNING, BUS, TEENS, CHILDREN KJB, UNAFFILIATED"
+    "description": "ROCKY MOUNT NC 27803 SS 10,SM 11,SN 630 SOULWINNING, BUS, TEENS, CHILDREN KJB, UNAFFILIATED"
   },
   {
     "id": "3299",
@@ -519,7 +519,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by UNKNOWN. 13212 NC 98 SPRING HOPE NC 27882 SS 10, MS 11, SN 6, W 730 PATCH PIRATE KJB church."
+    "description": "13212 NC 98 SPRING HOPE NC 27882 SS 10, MS 11, SN 6, W 730 PATCH PIRATE KJB church"
   },
   {
     "id": "3300",
@@ -537,12 +537,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL D WORLEY. 17361 FIELDCREST RD LAURINBURG NC 28352 SS 10,SM 11,SN 7, W 7 KJB, HAC, CHAPPELL"
+    "description": "LAURINBURG NC 28352 SS 10,SM 11,SN 7, W 7 KJB, HAC, CHAPPELL"
   },
   {
     "id": "3301",
     "name": "FREEDOM BAPTIST CHURCH",
-    "address": "2115 MIDDLE RD",
+    "address": "2115 MIDDLE RD EAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -555,7 +555,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDDIE SAPOCH. 2115 MIDDLE RD EASTOVER NC 28312 SS 930, SM 1030, SN 630, W 730 KJB church."
+    "description": "OVER NC 28312 SS 930, SM 1030, SN 630, W 730 KJB church"
   },
   {
     "id": "3302",
@@ -573,7 +573,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB REEISE. 2310 16TH ST NE HICKORY NC 28601 KJB church."
+    "description": "HICKORY NC 28601 KJB church"
   },
   {
     "id": "3303",
@@ -592,7 +592,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHARLES SNOW. 3907 TOWERY RD LATTIMORE NC 28089 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING KJB church."
+    "description": "LATTIMORE NC 28089 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING KJB church"
   },
   {
     "id": "3304",
@@ -610,7 +610,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY RAINES. 805 N CHAPEL ST LANDIS NC 28088 KJB church."
+    "description": "LANDIS NC 28088 KJB church"
   },
   {
     "id": "3305",
@@ -628,7 +628,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE BARNETT. 101 RUSTIC HILLS CIR BESSEMER CITY NC 28016 Near GASTONIA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BESSEMER CITY NC 28016 Near GASTONIA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3306",
@@ -646,7 +646,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLEN EARLS. BOX 1272 1213 NEWSOME ST TARBORO NC 27886 SS 10,SM 11,SN 6,W 7 KING KIDS KJB,TABERNACLE-BC"
+    "description": "BOX 1272 TARBORO NC 27886 SS 10,SM 11,SN 6,W 7 KING KIDS KJB,TABERNACLE-BC"
   },
   {
     "id": "3307",
@@ -664,7 +664,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY BOYER. 5918 WHITNEY RD SAXAPAHAW NC 27253 SS 945,SM 11,SN 6,W 730 KJB church."
+    "description": "SAXAPAHAW NC 27253 SS 945,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3308",
@@ -683,7 +683,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RONNIE ANDREWS. 1357 SWICEGOOD RD LINWOOD NC 27292 KJB church."
+    "description": "LINWOOD NC 27292 KJB church"
   },
   {
     "id": "3309",
@@ -701,7 +701,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN SMITH. 300 W MOUTAIN ST KERNERSVILLE NC 27284 KJB church."
+    "description": "KERNERSVILLE NC 27284 KJB church"
   },
   {
     "id": "3310",
@@ -719,7 +719,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NEIL POOLE. 1204 TEXTILE PLACE HIGH POINT NC 27260 SS 945,SM 11,SN 6,W 7 BUS, SENIOR, DEAF KJB church."
+    "description": "HIGH POINT NC 27260 SS 945,SM 11,SN 6,W 7 BUS, SENIOR, DEAF KJB church"
   },
   {
     "id": "3311",
@@ -738,12 +738,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHNATHAN BASS. 1206 OAKLAND RD ASHEBORO NC 27203 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "ASHEBORO NC 27203 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3312",
     "name": "SHINING LIGHT BAPTIST CHURCH",
-    "address": "1056 PIPERS GAP RD",
+    "address": "1056 PIPERS GAP RD TOAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -756,7 +756,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by UNKNOWN. PO BOX 616 1056 PIPERS GAP RD TOAST NC 27049 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 616 NC 27049 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3313",
@@ -774,7 +774,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE JOHNSON. 850 WOODVILLE CHURCH MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 107 SPRING CREEK TRL MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 KJB, BIBLICAL TRADITIONAL WORSHIP"
+    "description": "850 WOODVILLE CHURCH MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 107 SPRING CREEK TRL MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 KJB, BIBLICAL TRADITIONAL WORSHIP"
   },
   {
     "id": "3314",
@@ -792,12 +792,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by T J ADDISON. 455 MAPLE GROVE CHURCH RD MATTHEWS NC 28105 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "MATTHEWS NC 28105 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3315",
     "name": "GLENWOOD INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 142",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -811,7 +811,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CREIGHTON LEE LOVELACE. PO BOX 142 7929 US 221 S MARION NC 28752 SS 10,SM 11,SN 5,W 7 KJB, WAITE, SLIDELL-SEM"
+    "description": "7929 US 221 S MARION NC 28752 SS 10,SM 11,SN 5,W 7 KJB, WAITE, SLIDELL-SEM"
   },
   {
     "id": "3316",
@@ -829,7 +829,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT. 2361 US 221-S FOREST CITY NC 28043 KJB church."
+    "description": "2361 US 221-S FOREST CITY NC 28043 KJB church"
   },
   {
     "id": "3317",
@@ -838,8 +838,8 @@ export const northcarolinaChurches: Church[] = [
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
-    "latitude": 36.6087,
-    "longitude": -79.4158,
+    "latitude": 35.3035,
+    "longitude": -75.7018,
     "phone": "(919) 876-0585",
     "website": "https://www.friendshipraleigh.org",
     "pastor": "JON SHOOK",
@@ -847,7 +847,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON SHOOK. 5510 FALLS OF NEUSE RD RALEIGH NC 27609 SM 845 & 11,SS 10,SN 7,W 7 YOUTH, TEEN, AWANA, RADIO, CORR COURSE; FRIENDSHIP CHRISTIAN SCHOOL K4-12 AACS; KJB, HAC"
+    "description": "RALEIGH NC 27609 SM 845 & 11,SS 10,SN 7,W 7 YOUTH, TEEN, AWANA, RADIO, CORR COURSE; FRIENDSHIP CHRISTIAN SCHOOL K4-12 AACS; KJB, HAC"
   },
   {
     "id": "3318",
@@ -865,12 +865,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1556 N FAYETTEVILLE ST ASHEBORO NC 27203"
+    "description": "ASHEBORO NC 27203"
   },
   {
     "id": "3319",
     "name": "BAILEYS GROVE BAPTIST SCHOOLK",
-    "address": "622 PLEASANT CROSS RD",
+    "address": "5256 HUMMINGBIRD PLACE",
     "city": "ASHEBORO",
     "state": "NC",
     "zipCode": "27203",
@@ -883,7 +883,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT W GUYNN. 622 PLEASANT CROSS RD, ASHEBORO NC 27203 5256 HUMMINGBIRD PLACE FAYETTEVILLE NC 28312 Near STEDMAN SS 945, SM 11,SN 6, W 7 KJB church."
+    "description": "ASHEBORO NC 27203 FAYETTEVILLE NC 28312 Near STEDMAN SS 945, SM 11,SN 6, W 7 KJB church"
   },
   {
     "id": "3320",
@@ -902,7 +902,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS NORRIS. 4629 LIVINGSTON CHAPEL RD DELCO NC 28436 SS 945,SM 11,SN 7,W 7 LIVE & VIDEO SERMONS KJB, UNAFFILIATED"
+    "description": "DELCO NC 28436 SS 945,SM 11,SN 7,W 7 LIVE & VIDEO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3321",
@@ -920,7 +920,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC BLANKENSHIP. 27 EISENHOWER DR HENDERSONVILLE NC 28792-3232 SS 10,SM 11,SN 6,W 730 KINGS KIDS KJB church."
+    "description": "HENDERSONVILLE NC 28792-3232 SS 10,SM 11,SN 6,W 730 KINGS KIDS KJB church"
   },
   {
     "id": "3322",
@@ -938,7 +938,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by W PRESTON YOUNG. 5382 UNITY CHURCH RD HICKORY NC 28602 SS 945,SM 11,SN 6,W 7 ALBEMARLE NC 28001 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "HICKORY NC 28602 SS 945,SM 11,SN 6,W 7 ALBEMARLE NC 28001 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3323",
@@ -956,7 +956,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE TRIPLETT. 2110 TRAWICK RD RALEIGH NC 27604 SS 930, SM 1030, SN 6, W 7 BUS, SPANISH, AUDIO SERMONS; RALEIGH CHRISTIAN ACADEMY, K-12 KJB, PREMIL, GIBF"
+    "description": "RALEIGH NC 27604 SS 930, SM 1030, SN 6, W 7 BUS, SPANISH, AUDIO SERMONS; RALEIGH CHRISTIAN ACADEMY, K-12 KJB, PREMIL, GIBF"
   },
   {
     "id": "3324",
@@ -974,7 +974,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR ROLAND B SHEPLEY. 11416 ALBERMARLE RD CHARLOTTE NC 28227 SS 10,SM 11,SN 6,W 7 4079 HWY 220 N GREENSBORO NC 27410 SS 930,SM 1030,SN 5,W 6 AUDIO SERMONS KJB church."
+    "description": "CHARLOTTE NC 28227 SS 10,SM 11,SN 6,W 7 4079 HWY 220 N GREENSBORO NC 27410 SS 930,SM 1030,SN 5,W 6 AUDIO SERMONS KJB church"
   },
   {
     "id": "3325",
@@ -992,7 +992,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARC MYERS. 4969 COLTRANE ST TRINITY NC 27370 KJB church."
+    "description": "TRINITY NC 27370 KJB church"
   },
   {
     "id": "3326",
@@ -1010,7 +1010,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANKIE REAVES. 6120 HWY 220 S ASHBORO NC 27205 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "6120 HWY 220 S ASHBORO NC 27205 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3327",
@@ -1028,7 +1028,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS HILL. 9000 MCGHEES MILL RD SEMORA NC 27343 SS 945,SM 1030,SN 7, W 7 KJB,CROWN"
+    "description": "SEMORA NC 27343 SS 945,SM 1030,SN 7, W 7 KJB,CROWN"
   },
   {
     "id": "3328",
@@ -1046,12 +1046,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY HEMRIC. 333 SUPPER CLUB RD MEBANE NC 27302 900 N 9TH ST SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "MEBANE NC 27302 900 N 9TH ST SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3329",
     "name": "FAITH BAPTIST TABERNACLE",
-    "address": "7925 LESTER RD",
+    "address": "7925 LESTER RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1064,7 +1064,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE L GENTRY. 7925 LESTER RD STOKESDALE NC 27357 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS, YOUTH COUPLES; TABERNCLE TIME RADIO: WPET 950AM TH NOON, ​​WPIP 880AM, SAT 145 & SUN 4, ​WMYN 1420AM, WLOE 1490AM SUN 1; KJB, L"
+    "description": "OKESDALE NC 27357 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS, YOUTH COUPLES; TABERNCLE TIME RADIO: WPET 950AM TH NOON, ​​WPIP 880AM, SAT 145 & SUN 4, ​WMYN 1420AM, WLOE 1490AM SUN 1; KJB, L"
   },
   {
     "id": "3330",
@@ -1082,7 +1082,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY CROWE. 946 CLEAR CREEK RD MARION NC 28752-6425 KJB church."
+    "description": "MARION NC 28752-6425 KJB church"
   },
   {
     "id": "3331",
@@ -1100,12 +1100,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN ISRAEL. 55 ELKWOOD AVE ASHEVILLE NC 28804 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "ASHEVILLE NC 28804 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "3332",
     "name": "ARDEN MISSIONARY BAPTIST CHURCH",
-    "address": "2568 HENDERSONVILLE RD",
+    "address": "2568 HENDERSONVILLE RD ARD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1119,12 +1119,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RUSTY CONYERS. 2568 HENDERSONVILLE RD ARDEN NC 28704 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 705 SE 2ND ST SNOW HILL NC 28580 SS 10,SM 11,SN 6,W 730"
+    "description": "EN NC 28704 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 705 SE 2ND ST SNOW HILL NC 28580 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "3333",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "800 LOUISBURG RD",
+    "address": "800 LOUISBURG RD WAKE FOREST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1137,7 +1137,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES GARRISON. 800 LOUISBURG RD WAKE FOREST NC 27587 AUDIO SERMONS; LIGHTHOUSE BIBLE BAPTIST INSTITUTE KJB church."
+    "description": "NC 27587 AUDIO SERMONS; LIGHTHOUSE BIBLE BAPTIST INSTITUTE KJB church"
   },
   {
     "id": "3334",
@@ -1155,7 +1155,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY HOWARD. 400 S BENNETT ST SOUTHERN PINES NC 28387 AUDIO & VIDEO SERMONS; CHRISTIAN SCHOOL, K2-12; KJB church."
+    "description": "SOUTHERN PINES NC 28387 AUDIO & VIDEO SERMONS; CHRISTIAN SCHOOL, K2-12; KJB church"
   },
   {
     "id": "3335",
@@ -1173,7 +1173,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE MCDANIEL. 2954 MORTON-PULLIAM RD ROXBORO NC 27574 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ROXBORO NC 27574 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3336",
@@ -1191,7 +1191,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH QUEEN. 7740 HWY 150 N LEXINGTON NC 27295 SS 930,SM 1030,SN 5,W 7 KJB church."
+    "description": "7740 HWY 150 N LEXINGTON NC 27295 SS 930,SM 1030,SN 5,W 7 KJB church"
   },
   {
     "id": "3337",
@@ -1209,7 +1209,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB WASHINGTON. 3904 TRYON COURTHOUSE RD CHERRYVILLE NC 28021 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "CHERRYVILLE NC 28021 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3338",
@@ -1227,7 +1227,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD DUNKER. 532 MCRAE AVE WADESBORO NC 28170 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "WADESBORO NC 28170 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3339",
@@ -1245,7 +1245,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HOWARD OWENS. 7300 CAROLINA BEACH RD WILMINGTON NC 28412 SS 10,SM 11,SN 6,W 7 BUS, SENIORS, TEEN Part 2 KJB church."
+    "description": "WILMINGTON NC 28412 SS 10,SM 11,SN 6,W 7 BUS, SENIORS, TEEN Part 2 KJB church"
   },
   {
     "id": "3340",
@@ -1265,7 +1265,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KEN JENKINS. 4530 NC HWY 135 STONEVILLE NC 27048 SS 10, SM 11, SN 6,WN 7 BUS, NURSERY, SOULWINNING, CHOIR; AMAZING GRACE CHRISTIAN SCHOOL,K-12; VIDEO SERMONS KJB, UNAFFILIATED"
+    "description": "4530 NC HWY 135 STONEVILLE NC 27048 SS 10, SM 11, SN 6,WN 7 BUS, NURSERY, SOULWINNING, CHOIR; AMAZING GRACE CHRISTIAN SCHOOL,K-12; VIDEO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3341",
@@ -1285,7 +1285,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOE CARPENTER. PO BOX 331 436 SULLINS BRANCH RD SPRUCE PINE NC 28777 SS 10,SM 11,SN 6,W 730 PRISON,TRACT,SOULWINNING KJB, UNAFFILIATED"
+    "description": "PO BOX 331 SPRUCE PINE NC 28777 SS 10,SM 11,SN 6,W 730 PRISON,TRACT,SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "3342",
@@ -1303,12 +1303,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS EDWARDS. 663 SUMMER HILL CHURCH RD CARTHAGE NC 28327 SS 10,SM 11,SN 6,W 630 ADULT, TEENS, AWANAS, CHILDREN’S CHURCH, LADIES CIRCLE, FORT BRAGG 25-30 MILES KJB church."
+    "description": "CARTHAGE NC 28327 SS 10,SM 11,SN 6,W 630 ADULT, TEENS, AWANAS, CHILDREN’S CHURCH, LADIES CIRCLE, FORT BRAGG 25-30 MILES KJB church"
   },
   {
     "id": "3343",
     "name": "GRACEWAY BAPTIST CHURCH",
-    "address": "4700 WEDDINGTON RD",
+    "address": "631 SQUIRREL CREEK RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1322,7 +1322,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAMES BALLEW. 4700 WEDDINGTON RD MATTHEWS NC 28106 SS 10,SM 11,SN 6,W 7 SOULWINNING, YOUTH GROUP, CHILDREN’S, VIDEO SERMONS RR 3 BOX 306 631 SQUIRREL CREEK RD NEWLAND NC 28657 KJB,HYLES"
+    "description": "MATTHEWS NC 28106 SS 10,SM 11,SN 6,W 7 SOULWINNING, YOUTH GROUP, CHILDREN’S, VIDEO SERMONS RR 3 BOX 306 NEWLAND NC 28657 KJB,HYLES"
   },
   {
     "id": "3344",
@@ -1341,7 +1341,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JON ENSLEY. 1233 HALLTOWN RD JACKSONVILLE NC 28541 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, SENIOR, SOULWINNING, CAMP LEJEUNE KJB church."
+    "description": "JACKSONVILLE NC 28541 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, SENIOR, SOULWINNING, CAMP LEJEUNE KJB church"
   },
   {
     "id": "3345",
@@ -1359,7 +1359,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON D STOEBER. PO BOX 451 1804 US 311 HWY S WALNUT COVE NC 27052 SS 10,SM 11,SN 6,W 730 CHILDREN & TEEN 1715 ROYALL AVE GOLDSBORO NC 27534 SS 10,SM 11,SN 630,W 7 AWANA (THRU SIXTH GRADE), SIGMA (TEENS), GRADED SUNDA KJB church."
+    "description": "PO BOX 451 1804 US 311 HWY S WALNUT COVE NC 27052 SS 10,SM 11,SN 6,W 730 CHILDREN & TEEN GOLDSBORO NC 27534 SS 10,SM 11,SN 630,W 7 AWANA (THRU SIXTH GRADE), SIGMA (TEENS), GRADED SUNDA KJB church"
   },
   {
     "id": "3346",
@@ -1378,12 +1378,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by HAROLD BLANKENSHIP. 901 N FAYETTEVILLE ST ASHEBORO NC 27203 SS 945,SM 11,SN 6,W 7 AWANA; ELEMENTARY SCHOOL,K-12 KJB, AMBASSADOR-BC, CROWN, HAC, PCC"
+    "description": "ASHEBORO NC 27203 SS 945,SM 11,SN 6,W 7 AWANA; ELEMENTARY SCHOOL,K-12 KJB, AMBASSADOR-BC, CROWN, HAC, PCC"
   },
   {
     "id": "3347",
     "name": "PROMISED LAND BAPTIST CHURCH",
-    "address": "1024 OLD MODENA ST",
+    "address": "1024 OLD MODENA ST GAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1397,7 +1397,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID MROS. 1024 OLD MODENA ST GASTONIA NC 28054 SS 10,SM 11,SN 6,W 7 SOULWINING, MEN’S, WOMEN’S, BUS, DEAF, YOUTH, CONSERVATIVE MUSIC, BAPTIST COLLEGE FOR WORLD EVANGELISM KJB church."
+    "description": "ONIA NC 28054 SS 10,SM 11,SN 6,W 7 SOULWINING, MEN’S, WOMEN’S, BUS, DEAF, YOUTH, CONSERVATIVE MUSIC, BAPTIST COLLEGE FOR WORLD EVANGELISM KJB church"
   },
   {
     "id": "3348",
@@ -1415,7 +1415,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON PEAL. BOX 934 4330 S HWY 87 GRAHAM NC 27253 SS 10,SM 11,SN 6,W 7 AUDIO & VIDEO SERMONS KJB church."
+    "description": "BOX 934 4330 S HWY 87 GRAHAM NC 27253 SS 10,SM 11,SN 6,W 7 AUDIO & VIDEO SERMONS KJB church"
   },
   {
     "id": "3349",
@@ -1433,7 +1433,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS VANCE. PO BOX 1061 320 THE BOULEVARD EDEN NC 27288 SS 945, SM 1045, SN 6, WN 7 BIBLE INSTITUTE KJB church."
+    "description": "PO BOX 1061 EDEN NC 27288 SS 945, SM 1045, SN 6, WN 7 BIBLE INSTITUTE KJB church"
   },
   {
     "id": "3350",
@@ -1451,12 +1451,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID SUMMERLIN. 6033 MONNETT RD JULIAN NC 27283 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "JULIAN NC 27283 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3351",
     "name": "CENTRAL BAPTIST TEMPLE",
-    "address": "3101 FIRETOWER RD",
+    "address": "3101 FIRETOWER RD SANFORD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1469,7 +1469,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK WEBB. 3101 FIRETOWER RD SANFORD NC 27330 SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "NC 27330 SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "3352",
@@ -1488,7 +1488,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DONNIE SHUMATE. PO BOX 1453 129 OLD GAP RD CHEROKEE NC 28719 SS 10,SM 11,SN 630,W 630 CHOIR, TEEN, AWANA, SENIORS KJB church."
+    "description": "PO BOX 1453 CHEROKEE NC 28719 SS 10,SM 11,SN 630,W 630 CHOIR, TEEN, AWANA, SENIORS KJB church"
   },
   {
     "id": "3353",
@@ -1509,7 +1509,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BILLY LOUYA. 3656 MOUNTAIN VIEW RD NORTH WILKSBORO NC 28659-8067 SS 945,SM 11,SN 7,W 730 RADIO, VIDEO SERMONS 118 CORNATZER RD MOCKSVILLE NC  27028 SS 10,SM 11,SN 6,W 7 SOULWINNING,YOUTH, AUDIO SERMONS 171 JOHNSON KJB church."
+    "description": "NORTH WILKSBORO NC 28659-8067 SS 945,SM 11,SN 7,W 730 RADIO, VIDEO SERMONS 118 CORNATZER RD MOCKSVILLE NC 27028 SS 10,SM 11,SN 6,W 7 SOULWINNING,YOUTH, AUDIO SERMONS 171 JOHNSON KJB church"
   },
   {
     "id": "3354",
@@ -1527,12 +1527,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "306 MONK RD DURHAM NC 27704 SS 10,SM 11,SN 6,W 7 ASTOR RICKY CHAPPELL KJB church."
+    "description": "DURHAM NC 27704 SS 10,SM 11,SN 6,W 7 ASTOR RICKY CHAPPELL KJB church"
   },
   {
     "id": "3355",
     "name": "UNITY BAPTIST CHURCH",
-    "address": "988 LICK CREEK RD",
+    "address": "988 LICK CREEK RD SANFORD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1546,7 +1546,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BARRY PHILBECK. 988 LICK CREEK RD SANFORD NC 27330 SS 10, SM 11, SN 6, W 730 VAN, YOUTH, SOULWINNING KJB church."
+    "description": "NC 27330 SS 10, SM 11, SN 6, W 730 VAN, YOUTH, SOULWINNING KJB church"
   },
   {
     "id": "3356",
@@ -1565,7 +1565,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JERRY BOWEN. 2032 BETHLEHEM RD KINGS MOUNTAIN NC 28086 SS 945,SM 11,SN 6,W 7 BUS, TEEN, SOULWINNING KJB church."
+    "description": "KINGS MOUNTAIN NC 28086 SS 945,SM 11,SN 6,W 7 BUS, TEEN, SOULWINNING KJB church"
   },
   {
     "id": "3357",
@@ -1583,7 +1583,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK STEWART. 188 ROGERS RD LEXINGTON NC 27292 SS 945,SM 11,SN 6,W 7 NURSERY, TEEN, JUNIOR HIGH KJB church."
+    "description": "LEXINGTON NC 27292 SS 945,SM 11,SN 6,W 7 NURSERY, TEEN, JUNIOR HIGH KJB church"
   },
   {
     "id": "3358",
@@ -1602,7 +1602,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVID DIMSDALE. 115 MISSION RD HAYESVILLE NC 28904 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HAYESVILLE NC 28904 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3359",
@@ -1620,7 +1620,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J V ELSWICK. PO BOX 969 220 LYTLE COVE RD SWANNANOA NC 28778 SS 945,SM 11,SN 7,W 730 WKJV RADIO SAT 230; SWANNANOA CHRISTIAN ACADEMY KJB church."
+    "description": "PO BOX 969 SWANNANOA NC 28778 SS 945,SM 11,SN 7,W 730 WKJV RADIO SAT 230; SWANNANOA CHRISTIAN ACADEMY KJB church"
   },
   {
     "id": "3360",
@@ -1640,7 +1640,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RON PENNINO. 2601 TRENT RD NEW BERN NC 28562 SS 10,SM 11,SN 630,W 730 SOULWINNING, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "NEW BERN NC 28562 SS 10,SM 11,SN 630,W 730 SOULWINNING, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3361",
@@ -1658,7 +1658,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NEIL HEARN. 4084 S NC HWY 150 LEXINGTON NC 27292 SS 10,SM 11,SN 6,W 7 KJB, HAC, REVIVAL FIRES, SOL"
+    "description": "4084 S NC HWY 150 LEXINGTON NC 27292 SS 10,SM 11,SN 6,W 7 KJB, HAC, REVIVAL FIRES, SOL"
   },
   {
     "id": "3362",
@@ -1676,7 +1676,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1561 CHINQUAPIN CHAPEL RD TRENTON NC 28585"
+    "description": "TRENTON NC 28585"
   },
   {
     "id": "3363",
@@ -1694,7 +1694,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW NORMAN. SS 10,SM 11,SN 630,W 730 BUS, SENIORS, YOUTH KJB church."
+    "description": "SS 10,SM 11,SN 630,W 730 BUS, SENIORS, YOUTH KJB church"
   },
   {
     "id": "3364",
@@ -1712,12 +1712,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL WHITE. PO BOX 2151 268 E AIKEN RD EDEN NC 27289 SS 10,SM 11,SN 6,W 7 YOUTH, SOULWINING, RADIO, TRACT, VIDEO SERMONS KJB church."
+    "description": "PO BOX 2151 EDEN NC 27289 SS 10,SM 11,SN 6,W 7 YOUTH, SOULWINING, RADIO, TRACT, VIDEO SERMONS KJB church"
   },
   {
     "id": "3365",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "206 LOUISE AVE",
+    "address": "504 WHITES MILL RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1733,12 +1733,12 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CHRIS HAIZLIP. 206 LOUISE AVE BELMONT NC 28012 SS 10,SM 11,SN 7,W 7 504 WHITES MILL RD STATESVILLE NC 28677 SS 10,SM 11,SN 6,W 7 VAN, SOULWINNING, YOUTH, SENIORS, PATCH PIRATE, RADIO, VIDEO SERMONS; FUNDAMENTAL BAPT KJB church."
+    "description": "BELMONT NC 28012 SS 10,SM 11,SN 7,W 7 ATESVILLE NC 28677 SS 10,SM 11,SN 6,W 7 VAN, SOULWINNING, YOUTH, SENIORS, PATCH PIRATE, RADIO, VIDEO SERMONS; FUNDAMENTAL BAPT KJB church"
   },
   {
     "id": "3366",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 296",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1751,7 +1751,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED T DANIEL JR. PO BOX 296 12027 HWY 55 ALLIANCE NC 28509-0296 SS 10,SM 11,SN 7,W 7 CHERRY POINT KJB church."
+    "description": "12027 HWY 55 ALLIANCE NC 28509-0296 SS 10,SM 11,SN 7,W 7 CHERRY POINT KJB church"
   },
   {
     "id": "3367",
@@ -1764,18 +1764,18 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -79.2031,
     "phone": "(336) 340-2838",
     "website": "http://www.brookhavenbc.org",
-    "pastor": "TIM SMITH",
+    "pastor": "ROCKY MOUNT NC 27803 SS 10,SM 11,SN 6,W 7 KJB, HAC",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM SMITH. 1611 BROOKHAVEN MILL RD GREENSBORO NC 27406 SS 945,SM 11,SN 630,W 730 AUDIO SERMONS ONLINE, CHOIR KJB,UNAFFILIATED 8923 W MOUNT DR ROCKY MOUNT NC 27803 SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "GREENSBORO NC 27406 SS 945,SM 11,SN 630,W 730 AUDIO SERMONS ONLINE, CHOIR KJB,UNAFFILIATED 8923 W MOUNT DR ROCKY MOUNT NC 27803 SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "3368",
     "name": "ZION BAPTIST CHURCH",
-    "address": "2437 S PROPST ST",
+    "address": "2437 S PROPST ST GAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1788,7 +1788,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE COTTLE. 2437 S PROPST ST GASTONIA NC 28056 SS 10,SM 11,SN 6,W 7 KJB, HAC 2581 NEILS EDDY RD RIEGLEWOOD NC 28456 SS 10,SM 11,W 7 CAPE FEAR CHRISTIAN SCHOOL K-12 KJB, HAC"
+    "description": "ONIA NC 28056 SS 10,SM 11,SN 6,W 7 KJB, HAC 2581 NEILS EDDY RD RIEGLEWOOD NC 28456 SS 10,SM 11,W 7 CAPE FEAR CHRISTIAN SCHOOL K-12 KJB, HAC"
   },
   {
     "id": "3369",
@@ -1806,7 +1806,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILLY SECHRIST. 3228 HINES CHAPEL RD GREENSBORO NC 27405-9424 SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "GREENSBORO NC 27405-9424 SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "3370",
@@ -1824,12 +1824,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL GARRETSON. 715 WEST PARK DR ROCKWELL NC 28138 SS 10,SM 11,SN 6,W 7 BUS, JAIL, TEEN KJB church."
+    "description": "ROCKWELL NC 28138 SS 10,SM 11,SN 6,W 7 BUS, JAIL, TEEN KJB church"
   },
   {
     "id": "3371",
     "name": "SOUTHSIDE MISSIONARY BAPTIST CHURCH",
-    "address": "125 HEFLIN RD",
+    "address": "125 HEFLIN RD ABERD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1842,7 +1842,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL COUCH. PO BOX 645 125 HEFLIN RD ABERDEEN NC 28373 SS 10,SM 11,SN 6,W 730 PO BOX 914 2190 US HWY 117 S BURGAW NC 28425 SS 945,SM 11,SN 6,W 7 OLD TIME WORSHIP, VAN/BUS, PENDER COUNTY JAIL, PRISION, PRE-MILLINI KJB church."
+    "description": "PO BOX 645 EEN NC 28373 SS 10,SM 11,SN 6,W 730 PO BOX 914 2190 US HWY 117 S BURGAW NC 28425 SS 945,SM 11,SN 6,W 7 OLD TIME WORSHIP, VAN/BUS, PENDER COUNTY JAIL, PRISION, PRE-MILLINI KJB church"
   },
   {
     "id": "3372",
@@ -1860,12 +1860,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN BLANTON. 4320 NC-108 MILL SPRING NC 28756 SS 10,SM 11,SN 6.W 7 SUNNY VIEW CA,K-12,ACE & DAYCARE KJB church."
+    "description": "4320 NC-108 MILL SPRING NC 28756 SS 10,SM 11,SN 6.W 7 SUNNY VIEW CA,K-12,ACE & DAYCARE KJB church"
   },
   {
     "id": "3373",
     "name": "CENTER PIGEON BAPTIST CHURCH",
-    "address": "224 CENTER PIGEON RD",
+    "address": "7 CENTER PIGEON CHRIST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1878,12 +1878,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILLIP C DICE. 224 CENTER PIGEON RD CANTON NC 28716 SS 950,SM 11,SN 6,W 7 CENTER PIGEON CHRISTIAN SCHOOL,K5-12 KJB church."
+    "description": "CANTON NC 28716 SS 950,SM 11,SN 6,W IAN SCHOOL,K5-12 KJB church"
   },
   {
     "id": "3374",
     "name": "OLD MOUNTAIN BAPTIST CHURCH",
-    "address": "2618 REFUGE CHURCH DR",
+    "address": "6394 HILDEBRAN SHELBY RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1896,7 +1896,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD ANDERSON. 2618 REFUGE CHURCH DR TRINITY NC 27370 SS 10,SM 11,SN 5,W 730 Part 3 6394 HILDEBRAN SHELBY RD HICKORY NC 28602 KJB church."
+    "description": "TRINITY NC 27370 SS 10,SM 11,SN 5,W 730 Part 3 HICKORY NC 28602 KJB church"
   },
   {
     "id": "3375",
@@ -1914,7 +1914,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY RITCHIE. SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3376",
@@ -1932,12 +1932,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RODNEY COX. 1497 AIRPORT RHODHISS RD HICKORY NC 28601 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HICKORY NC 28601 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3377",
     "name": "SONRISE INDEPENDENT BAPTIST CHURCH",
-    "address": "8375 RIVER RD",
+    "address": "413 POLKVILLE RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -1951,7 +1951,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FRANK CAMP. 8375 RIVER RD SOUTHPORT NC 28461 SS 10, SM 11, SN 6, W 7 413 POLKVILLE RD SHELBY NC  28150 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "SOUTHPORT NC 28461 SS 10, SM 11, SN 6, W 7 SHELBY NC 28150 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3378",
@@ -1970,7 +1970,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ANDY W WELLS. 295 BATTLEY DAIRY RD HAMLETT NC 28345 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "HAMLETT NC 28345 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3379",
@@ -1988,7 +1988,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK TONDEE. 5619 PAGELAND HWY MONROE NC 28112 SS 10,SM 11,SN 6,W 730 KJB, CROWN-BC 394 FERRELLS BRIDGE RD LOUISBURG NC 27549 SS 930,SM 1030,SN 6,W 730"
+    "description": "5619 PAGELAND HWY MONROE NC 28112 SS 10,SM 11,SN 6,W 730 KJB, CROWN-BC LOUISBURG NC 27549 SS 930,SM 1030,SN 6,W 730"
   },
   {
     "id": "3380",
@@ -2006,7 +2006,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES R PETERS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3381",
@@ -2024,12 +2024,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON HOLLEY. 2707 SANDY RIDGE RD COLFAX NC 27235 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "COLFAX NC 27235 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3382",
     "name": "HANES BAPTIST CHURCH",
-    "address": "4210 SABRINA LAKE DR",
+    "address": "4210 SABRINA LAKE DR WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2042,7 +2042,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEAN EATON. 4210 SABRINA LAKE DR WINSTON-SALEM NC 27127 SS 10,SM 11,SN 6,W 7 VAN, SINGLES, SENIORS, TEENS, CHILDREN 886 FOWLER RD MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "ON-SALEM NC 27127 SS 10,SM 11,SN 6,W 7 VAN, SINGLES, SENIORS, TEENS, CHILDREN 886 FOWLER RD MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3383",
@@ -2061,12 +2061,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by AARON DOWLER. 1321 OLD DAM RD KENLY NC 27542 SS 10,SM 11,SN 6,W 730 PATCH THE PIRATE, TEEN, RADIO KJB church."
+    "description": "KENLY NC 27542 SS 10,SM 11,SN 6,W 730 PATCH THE PIRATE, TEEN, RADIO KJB church"
   },
   {
     "id": "3384",
     "name": "TEMPLE BAPTIST CHURCH",
-    "address": "165 AIRPORT RD",
+    "address": "7 TEMPLE CHRIST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2080,12 +2080,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JONATHAN NEWTON. 165 AIRPORT RD ROCKINGHAM NC 28379 SS 10,SM 11,SN 6,W 7 TEMPLE CHRISTIAN SCHOOL K3-12 ABEKA BJU KJB, UNAFFILIATED"
+    "description": "ROCKINGHAM NC 28379 SS 10,SM 11,SN 6,W IAN SCHOOL K3-12 ABEKA BJU KJB, UNAFFILIATED"
   },
   {
     "id": "3385",
     "name": "EMMANUEL BAPTIST CHURCH",
-    "address": "1695 E HARDIN RD",
+    "address": "494 LIPPARD FARM RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2101,12 +2101,12 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RANDY FREEMAN. 1460 NC HWY 24 CAMERON NC 28326 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1695 E HARDIN RD LUMBERTON NC 28358 SS 10, SM 11, SN 6, WN 7 VAN, SOULWINNING 494 LIPPARD FARM RD STATESVILLE NC 28625 SS 10,SM 1"
+    "description": "1460 NC HWY 24 CAMERON NC 28326 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED LUMBERTON NC 28358 SS 10, SM 11, SN 6, WN 7 VAN, SOULWINNING ATESVILLE NC 28625 SS 10,SM 1"
   },
   {
     "id": "3386",
     "name": "DEEP CREEK BAPTIST CHURCH",
-    "address": "1995 LINDEN RD",
+    "address": "1995 LINDEN RD PINEHURST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2114,12 +2114,12 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -79.4412,
     "phone": "(910) 692-8904",
     "website": "https://deepcreekbaptistlinden.com",
-    "pastor": "ROB WIEDELL",
+    "pastor": "JACKSONVILLE NC 28546 SS 10,SM 11,SN 630,W 7 1 MILE FROM CAMP LEJEUNE; FELLOWSHIP CHRISTIAN ACADEMY, K-12, ABEKA & BJU; PATCH THE PIRATE CLUB WED KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB WIEDELL. 1995 LINDEN RD PINEHURST NC 28374 SM 11, W 7 7 EAST DR JACKSONVILLE NC 28546 SS 10,SM 11,SN 630,W 7 1 MILE FROM CAMP LEJEUNE; FELLOWSHIP CHRISTIAN ACADEMY, K-12, ABEKA & BJU; PATCH THE PIRATE CLUB WED KJB church."
+    "description": "NC 28374 SM 11, W 7 7 EAST DR JACKSONVILLE NC 28546 SS 10,SM 11,SN 630,W 7 1 MILE FROM CAMP LEJEUNE; FELLOWSHIP CHRISTIAN ACADEMY, K-12, ABEKA & BJU; PATCH THE PIRATE CLUB WED KJB church"
   },
   {
     "id": "3387",
@@ -2137,7 +2137,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN KEETER. 481 ROCK CREEK CHURCH RD MILLERS CREEK NC 28651 KJB church."
+    "description": "MILLERS CREEK NC 28651 KJB church"
   },
   {
     "id": "3388",
@@ -2155,7 +2155,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE GUNTER. 901 W QUEEN ST EDENTON NC 27932 SS 10,SM 11,SN 6,W 7 MASTER CLUBS, AUDIO SERMONS; IMMANUEL CHRISTIAN SCHOOL 2230 LEES CHAPEL RD GREENSBORO NC 27405 SS 945,SM 11,SN 6,W 7 2235 SPERO RD RANDLEMAN NC 273 KJB church."
+    "description": "EDENTON NC 27932 SS 10,SM 11,SN 6,W 7 MASTER CLUBS, AUDIO SERMONS; IMMANUEL CHRISTIAN SCHOOL 2230 LEES CHAPEL RD GREENSBORO NC 27405 SS 945,SM 11,SN 6,W 7 2235 SPERO RD RANDLEMAN NC 273 KJB church"
   },
   {
     "id": "3389",
@@ -2173,7 +2173,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMY BLEDSOLE. 7904 WINFREE RD SUMMERFIELD NC 27358 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "SUMMERFIELD NC 27358 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3390",
@@ -2191,7 +2191,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG PEAK. 2556 PITT RD ELON NC 27244-9787 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ELON NC 27244-9787 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3391",
@@ -2209,7 +2209,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ZACH RICH. 1117 MT HOPE CHURCH RD MCLEANSVILLE NC 27301 SS 10,SM 11,W 7 KJB church."
+    "description": "MCLEANSVILLE NC 27301 SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "3392",
@@ -2228,12 +2228,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by VIRGIL WHALEY. 3075 MACK LINEBERRY RD FRANKLINVILLE NC 27248 KJB, UNAFFILIATED 3119 MIDDLE RD TRENTON NC 28585 PHYSICAL: 110 HIGHWAY 41 WEST SS 10, SM 11, SN 6, W 7"
+    "description": "FRANKLINVILLE NC 27248 KJB, UNAFFILIATED 3119 MIDDLE RD TRENTON NC 28585 PHYSICAL: 110 HIGHWAY 41 WEST SS 10, SM 11, SN 6, W 7"
   },
   {
     "id": "3393",
     "name": "FOREST GROVE MISSIONARY BAPTIST CHURCH",
-    "address": "",
+    "address": "40 FOREST GROVE RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2246,7 +2246,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLIE GLOVER. PO BOX 40 FOREST GROVE RD VILAS NC 28692 KJB church."
+    "description": "PO BOX VILAS NC 28692 KJB church"
   },
   {
     "id": "3394",
@@ -2264,7 +2264,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE SECHREST. HWY 178 S ROSMAN NC 28772 VIDEO SERMONS SS 945,SM 10,SN 6,W 7 KJB church."
+    "description": "HWY 178 S ROSMAN NC 28772 VIDEO SERMONS SS 945,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "3395",
@@ -2282,7 +2282,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J BARRY GOODMAN. 228 PINELAND AVE LEXINGTON NC 27292 2738 S POST RD SHELBY NC 28152 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LEXINGTON NC 27292 2738 S POST RD SHELBY NC 28152 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3396",
@@ -2300,7 +2300,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL POINDEXTER. 270 DUNNS MOUNTAIN CHURCH RD SALISBURY NC 28146 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "SALISBURY NC 28146 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "3397",
@@ -2318,7 +2318,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM WEBB. 476 N BROAD ST SEAGROVE NC 27341 SM 1030,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "SEAGROVE NC 27341 SM 1030,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3398",
@@ -2336,7 +2336,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW FOSTER. 1309 NORTHWOOD CHURCH RD YADKINVILLE NC 27055 SS 10,SM 11, SN 730,W 730 BUS, YOUTH CHURCH, PRISON, RADIO; NORTHWOOD BAPTIST BIBLE COLLEGE KJB church."
+    "description": "YADKINVILLE NC 27055 SS 10,SM 11, SN 730,W 730 BUS, YOUTH CHURCH, PRISON, RADIO; NORTHWOOD BAPTIST BIBLE COLLEGE KJB church"
   },
   {
     "id": "3399",
@@ -2354,7 +2354,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID B BOLICK. PO BOX 2327 728 N STATE ST YADKINVILLE NC 27055 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 2327 YADKINVILLE NC 27055 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3400",
@@ -2372,7 +2372,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL WILLARD. PO BOX 908 2646 ORANGE GROVE RD HILLSBOROUGH NC 27278 SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "PO BOX 908 HILLSBOROUGH NC 27278 SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "3401",
@@ -2391,7 +2391,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK HALL. 1481 BEECHWOOD DR ROCKY MOUNT NC 27803 SS 945,SM 11,SN 6 W 7 12063 15-501 HIGHWAY NORTH CHAPEL HILL NC 27517 SS 10,SM 11,SN 6,W 7 Part 4 KJB church."
+    "description": "ROCKY MOUNT NC 27803 SS 945,SM 11,SN 6 W 7 12063 15-501 HIGHWAY NORTH CHAPEL HILL NC 27517 SS 10,SM 11,SN 6,W 7 Part 4 KJB church"
   },
   {
     "id": "3402",
@@ -2409,7 +2409,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW VANNOY. 859 CHERRY GROVE RD MORAVIAN FALLS NC 28654 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "MORAVIAN FALLS NC 28654 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3403",
@@ -2427,7 +2427,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALEXANDER HOLT. PO BOX 457 148 KINGS DR MILLERS CREEK NC 28651 KJB church."
+    "description": "PO BOX 457 MILLERS CREEK NC 28651 KJB church"
   },
   {
     "id": "3404",
@@ -2446,12 +2446,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHARLES MUSTAIN. 215 E 2ND AVE LEXINGTON NC 27292 SS 945,SM 11,SN 6,TH 7 KJB church."
+    "description": "LEXINGTON NC 27292 SS 945,SM 11,SN 6,TH 7 KJB church"
   },
   {
     "id": "3405",
     "name": "MIDWAY BAPTIST CHURCH",
-    "address": "1705 GUILFORD COLLEGE RD",
+    "address": "1705 GUILFORD COLLEGE RD JAMEST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2464,12 +2464,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE HARRIS. 1705 GUILFORD COLLEGE RD JAMESTOWN NC 27282 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "OWN NC 27282 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3406",
     "name": "CLEARVIEW BAPTIST CHURCH",
-    "address": "37 ROBIN CIRCLE",
+    "address": "140 AA MCCLANE RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2482,7 +2482,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALTON CRANFORD. 37 ROBIN CIRCLE LEXINGTON NC 27292 RR 4 BOX 140 AA MCCLANE RD ROCKINGHAM NC 28379 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LEXINGTON NC 27292 RR 4 BOX ROCKINGHAM NC 28379 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3407",
@@ -2500,7 +2500,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE STROUD. 17025 LANCASTER HWY CHARLOTTE NC 28277 SS 930,SM 1045,SN 6,W 7 KJB church."
+    "description": "CHARLOTTE NC 28277 SS 930,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "3408",
@@ -2519,7 +2519,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BRUCE GRAHAM. PO BOX 546 872 FERN HILL RD TROUTMAN NC 28166 MOORESVILLE 28117 SS 945,SM 11,SN 6 KJB church."
+    "description": "PO BOX 546 TROUTMAN NC 28166 MOORESVILLE 28117 SS 945,SM 11,SN 6 KJB church"
   },
   {
     "id": "3409",
@@ -2537,7 +2537,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID FULP. 785 BARRINGER ST SALISBURY NC 28146 SS 945,SS 10,SM 11,SN 6,W 7 PO BOX 655 401 DEPOT ST ROCKWELL NC 28138 SS 10,SM 11,SN 6,W 7 AWANA, SENIORS, YOUTH ROCKWELL CHRISTIAN SCHOOL,PS-12; KJB church."
+    "description": "SALISBURY NC 28146 SS 945,SS 10,SM 11,SN 6,W 7 PO BOX 655 401 DEPOT ST ROCKWELL NC 28138 SS 10,SM 11,SN 6,W 7 AWANA, SENIORS, YOUTH ROCKWELL CHRISTIAN SCHOOL,PS-12; KJB church"
   },
   {
     "id": "3410",
@@ -2558,7 +2558,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by JODY PAULEY. 133 ROCKWELL LOOP MOORESVILLE NC 28115 SS 945,SM 11,SN 6,W 7 3462 HWY 73 IRON STATION NC 28080 SS 10,SM 11,W 7 113 FOXBORO DR ELIZABETH CITY NC 27909 SS 945,SM 11,SN 6,W 7 DEAF, MASTERS CLUB, CHOIR, S KJB church."
+    "description": "133 ROCKWELL LOOP MOORESVILLE NC 28115 SS 945,SM 11,SN 6,W 7 3462 HWY 73 IRON STATION NC 28080 SS 10,SM 11,W 7 ELIZABETH CITY NC 27909 SS 945,SM 11,SN 6,W 7 DEAF, MASTERS CLUB, CHOIR, S KJB church"
   },
   {
     "id": "3411",
@@ -2577,7 +2577,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FRANK HACKWORTH. KJB, UNAFFILIATED 405 SHIPYARD BLVD WILMINGTON NC  28412 near ROCKY MOUNT"
+    "description": "KJB, UNAFFILIATED WILMINGTON NC 28412 near ROCKY MOUNT"
   },
   {
     "id": "3412",
@@ -2595,12 +2595,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON MCCONKEY. SS 10,SM 1050,W 7 VAN, DOOR TO DOOR, CHILDREN’S 1375 ONSVILLE DR JACKSONVILLE NC 28541 SS 10,SM 11,SN 630,W 7 SS 10,SM 11,SN 630,W 7 AWANA, CAMP LEJEUNE, FAITH BIBLE INSTITUTE; SERVICEMENS CENTER MTM  KJB church."
+    "description": "SS 10,SM 1050,W 7 VAN, DOOR TO DOOR, CHILDREN’S JACKSONVILLE NC 28541 SS 10,SM 11,SN 630,W 7 SS 10,SM 11,SN 630,W 7 AWANA, CAMP LEJEUNE, FAITH BIBLE INSTITUTE; SERVICEMENS CENTER MTM KJB church"
   },
   {
     "id": "3413",
     "name": "PIEDMONT BAPTIST CHURCH",
-    "address": "257 PENN LAKE DR",
+    "address": "730 RADIO BROADCAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2613,7 +2613,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL SISK. 257 PENN LAKE DR REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W 730 RADIO BROADCAST DAILY ON 1130 AM 4PM-415; PIEDMONT BAPTIST BIBLE COLLEGE; AUDIO & VIDEO SERMONS KJB, P.KIDD, S. ALLEN 413 S AYERSVILLE RD MA"
+    "description": "REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W DAILY ON 1130 AM 4PM-415; PIEDMONT BAPTIST BIBLE COLLEGE; AUDIO & VIDEO SERMONS KJB, P.KIDD, S. ALLEN 413 S AYERSVILLE RD MA"
   },
   {
     "id": "3414",
@@ -2631,7 +2631,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERICH GOFF. 428 COSTNER SCHOOL RD BESSEMER CITY NC 28016 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BESSEMER CITY NC 28016 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3415",
@@ -2649,7 +2649,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG BERKEY. 4001 N MAIN ST HIGH POINT NC 27260 GREENSBORO AREA SS 10, SM 11, SN 6, W 730 KJB church."
+    "description": "HIGH POINT NC 27260 GREENSBORO AREA SS 10, SM 11, SN 6, W 730 KJB church"
   },
   {
     "id": "3416",
@@ -2667,7 +2667,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY W ALLEN. 141 13TH ST NW HICKORY NC 28602 KJB church."
+    "description": "HICKORY NC 28602 KJB church"
   },
   {
     "id": "3417",
@@ -2686,12 +2686,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIMOTHY C RUPARD. PO BOX 965 EARL NC 28038 2506 SHOAL CREEK RD SHELBY NC 28152 SS 10,SM 11,SN 6, W 7 VIDEO SERMONS; NEAR SOUTH CAROLINA STATE-LINE KJB,UNAFFILIATED 117 PRISON CAMP RD NEWLAND NC 28657 SS 10,SM 11,SN 6,W"
+    "description": "PO BOX 965 EARL NC 28038 SHELBY NC 28152 SS 10,SM 11,SN 6, W 7 VIDEO SERMONS; NEAR SOUTH CAROLINA STATE-LINE KJB,UNAFFILIATED 117 PRISON CAMP RD NEWLAND NC 28657 SS 10,SM 11,SN 6,W"
   },
   {
     "id": "3418",
     "name": "CROSS ROAD BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 211",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2704,12 +2704,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KYLE WIERGOWSKI. PO BOX 211 141 NC-67 EAST BEND NC 27018 SS 10, SM 11, SN 6, W 7 AUDIO SERMONS KJB, HAC 9922 NC HWY 86 N CEDAR GROVE NC 27231 SS 10,SM 11,SN 6,W 7"
+    "description": "141 NC- BEND NC 27018 SS 10, SM 11, SN 6, W 7 AUDIO SERMONS KJB, HAC 9922 NC HWY 86 N CEDAR GROVE NC 27231 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "3419",
     "name": "HOLY CROSS MISSIONARY BAPTIST CHURCH",
-    "address": "344 YORK RD",
+    "address": "149 STATION RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2722,7 +2722,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB SMITH. 344 YORK RD MOUNT AIRY NC 27030 SS 945,SM 11,TUE BS 7,W 7 149 STATION RD MAYODAN NC 27027 SS 10,SM 11,SN 6,W 7 471 CENTER GROVE CHURCH RD MONCURE NC 27559 SS 10,SM 11,SN 130,THUR 7 AUDIO SERMONS, BUS, KJB church."
+    "description": "MOUNT AIRY NC 27030 SS 945,SM 11,TUE BS 7,W 7 MAYODAN NC 27027 SS 10,SM 11,SN 6,W 7 471 CENTER GROVE CHURCH RD MONCURE NC 27559 SS 10,SM 11,SN 130,THUR 7 AUDIO SERMONS, BUS, KJB church"
   },
   {
     "id": "3420",
@@ -2741,7 +2741,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ANTHONY WIKE. 620 LYNN HILL RD WHITEVILLE NC 28472 SS 10,SM 11,SN 6,W 7 SOULWINNING, JR CHURCH, YOUTH GROUP, BUS, DEAF, SPANISH, PREACHER BOYS CLUB & YOUTH & ADULT BIBLE INSTITUTE KJB church."
+    "description": "WHITEVILLE NC 28472 SS 10,SM 11,SN 6,W 7 SOULWINNING, JR CHURCH, YOUTH GROUP, BUS, DEAF, SPANISH, PREACHER BOYS CLUB & YOUTH & ADULT BIBLE INSTITUTE KJB church"
   },
   {
     "id": "3421",
@@ -2760,7 +2760,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RANDALL MILLSAPS. PO BOX 1867 2121 MOORESVILLE RD SALISBURY NC 28145 SS 10,SM 11,SN 6,W 7 KJB,CROWN-BC"
+    "description": "PO BOX 1867 SALISBURY NC 28145 SS 10,SM 11,SN 6,W 7 KJB,CROWN-BC"
   },
   {
     "id": "3422",
@@ -2779,12 +2779,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES A THOMPSON JR. 148 CRICKET BAPTIST CHURCH RD N WILKESBORO NC 28659-8969 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "N WILKESBORO NC 28659-8969 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3423",
     "name": "NORTHWOODS BAPTIST CHURCH",
-    "address": "5204 OLD WALKERTOWN RD",
+    "address": "5204 OLD WALKERTOWN RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2797,7 +2797,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY HOLDER. 5204 OLD WALKERTOWN RD WINSTON SALEM NC 27105 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "ON SALEM NC 27105 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "3424",
@@ -2815,7 +2815,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILLIP LUTHER. PO BOX 68 TOBACCOVILLE NC 27051 1786 CHESTNUT GROVE RD in KING SS 10,SM 11, SN 6,W 730 VAN, HOSANNA CHURCH FOR CHILDREN, TEEN ACTIVITIES KJB, ABC"
+    "description": "PO BOX 68 TOBACCOVILLE NC 27051 SS 10,SM 11, SN 6,W 730 VAN, HOSANNA CHURCH FOR CHILDREN, TEEN ACTIVITIES KJB, ABC"
   },
   {
     "id": "3425",
@@ -2824,8 +2824,8 @@ export const northcarolinaChurches: Church[] = [
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
-    "latitude": 36.6299,
-    "longitude": -79.6579,
+    "latitude": 36.1635,
+    "longitude": -84.1968,
     "phone": "(828) 684-5789",
     "website": "https://boilingspringsbaptistchurch.com",
     "pastor": "JON UTLEY",
@@ -2834,12 +2834,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JON UTLEY. PO BOX 1177 1291 FANNING BRIDGE RD FLETCHER NC 28732 SS 10,SM 11,SN 630,W7 TEENS, CHILDRENS, DEAF, VIDEO SERMONS KJB church."
+    "description": "PO BOX 1177 FLETCHER NC 28732 SS 10,SM 11,SN 630,W7 TEENS, CHILDRENS, DEAF, VIDEO SERMONS KJB church"
   },
   {
     "id": "3426",
     "name": "PLEASANT PLAINS BAPTIST CHURCH",
-    "address": "113 CHARITY DR",
+    "address": "28090 CHURCH LOCATED IN FALLST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2854,7 +2854,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KYETH LINDSAY. PO BOX 117 1802 OLD US 1 APEX NC 27502 SS 945,SM 11,SN 6 YOUTH, SOULWINNING, DISCIPLESHIP, AUDIO SERMONS 113 CHARITY DR LAWNDALE NC 28090 CHURCH LOCATED IN FALLSTON SS 10, SM 11, SN 6, W 7 CHARITY CHR KJB church."
+    "description": "PO BOX 117 1802 OLD US 1 APEX NC 27502 SS 945,SM 11,SN 6 YOUTH, SOULWINNING, DISCIPLESHIP, AUDIO SERMONS LAWNDALE NC ON SS 10, SM 11, SN 6, W 7 CHARITY CHR KJB church"
   },
   {
     "id": "3427",
@@ -2873,7 +2873,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY OWEN. 6741 VANCE RD KERNERSVILLE NC 27284 SS 10,SM 11,SN 6,W 730 PATCH THE PIRATE, ANNUAL CAMP MEETING, MUSIC & AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "KERNERSVILLE NC 27284 SS 10,SM 11,SN 6,W 730 PATCH THE PIRATE, ANNUAL CAMP MEETING, MUSIC & AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3428",
@@ -2891,7 +2891,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by L B ADAMS. 2603 GOLDMINE RD MONROE NC 28110 SS 930,SM 1030,SN 6,W 7 ADULT DAY CENTER, PRESCHOOL AFTER SCHOOL, SECOND HARVEST FOOD BANK KJB church."
+    "description": "MONROE NC 28110 SS 930,SM 1030,SN 6,W 7 ADULT DAY CENTER, PRESCHOOL AFTER SCHOOL, SECOND HARVEST FOOD BANK KJB church"
   },
   {
     "id": "3429",
@@ -2909,12 +2909,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE MCNEILL. 462 HYATT CREEK RD MARBLE NC 28905 KJB church."
+    "description": "MARBLE NC 28905 KJB church"
   },
   {
     "id": "3430",
     "name": "PROVIDENCE ROAD BAPTIST CHURCH",
-    "address": "3283 PROVIDENCE MILL RD",
+    "address": "495 HORSESHOE LAKE RD LINCOLN",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2927,12 +2927,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM H ROSE. PO BOX 507 3283 PROVIDENCE MILL RD MAIDEN NC 28650 SS 945,SM 11,SN 6,W 7 VIDEO SERMONS 495 HORSESHOE LAKE RD LINCOLNTON NC 28092 1823 CAMERON RD KJB church."
+    "description": "PO BOX 507 MAIDEN NC 28650 SS 945,SM 11,SN 6,W 7 VIDEO SERMONS TON NC 28092 1823 CAMERON RD KJB church"
   },
   {
     "id": "3431",
     "name": "ROANOKE ISLAND BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 2147",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2945,12 +2945,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CECIL ROBINSON. PO BOX 2147 1234 HWY 64 MANTEO NC 27954 SS 945,SM 1045,SN 530,W 7 RADIO, VAN KJB church."
+    "description": "1234 HWY 64 MANTEO NC 27954 SS 945,SM 1045,SN 530,W 7 RADIO, VAN KJB church"
   },
   {
     "id": "3432",
     "name": "MOUNT ZION BAPTIST CHURCH",
-    "address": "270 OVERLOOK RD",
+    "address": "27295 W CENTER ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2963,12 +2963,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON KOONTZ. 270 OVERLOOK RD ASHEVILLE NC 28703 4564 NC HWY 150 S LEXINGTON NC 27295 W CENTER ST & 150 CHARLES AVE SS 10,SM 11,SN 6,W 7 VAN, YOUTH, CHILDREN’S KJB church."
+    "description": "ASHEVILLE NC 28703 4564 NC HWY 150 S LEXINGTON NC & 150 CHARLES AVE SS 10,SM 11,SN 6,W 7 VAN, YOUTH, CHILDREN’S KJB church"
   },
   {
     "id": "3433",
     "name": "OAK LEVEL BAPTIST CHURCH",
-    "address": "1569 OAK LEVEL CHURCH RD",
+    "address": "1569 OAK LEVEL CHURCH RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -2981,7 +2981,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS SIMPSON. PO BOX 181 1569 OAK LEVEL CHURCH RD STOKESDALE NC 27357 SS 930, SM 1030,SN 6,W 730 KJB church."
+    "description": "PO BOX 181 OKESDALE NC 27357 SS 930, SM 1030,SN 6,W 730 KJB church"
   },
   {
     "id": "3434",
@@ -2999,7 +2999,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF LAMB. 2610 CID RD LEXINGTON NC 27292 SS 10, SM 11, SN 6, W 730 KJB church."
+    "description": "LEXINGTON NC 27292 SS 10, SM 11, SN 6, W 730 KJB church"
   },
   {
     "id": "3435",
@@ -3017,7 +3017,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN BAUGHN. 4566 DUNBAR BRIDGE RD FARMER NC 27203 SS 10,SM 11,SN 7,W 7 VIDEO SERMONS KJB church."
+    "description": "FARMER NC 27203 SS 10,SM 11,SN 7,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "3436",
@@ -3036,12 +3036,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN BROYHILL. PO BOX 1096 160 ROMANS DR EDEN NC 27288 536 S MAIN ST KING NC 27021 748 SPAINHOUR RD SERMONS & MUSIC SS 10,SM 11,SN 7,W 730 SPANISH; CALVARY CHRISTIAN SCHOOL PS-12; CALVARY BAPTIST COLLEGE KJB, UNAFFI"
+    "description": "PO BOX 1096 EDEN NC 27288 536 S MAIN ST KING NC 27021 748 SPAINHOUR RD SERMONS & MUSIC SS 10,SM 11,SN 7,W 730 SPANISH; CALVARY CHRISTIAN SCHOOL PS-12; CALVARY BAPTIST COLLEGE KJB, UNAFFI"
   },
   {
     "id": "3437",
     "name": "FRIENDSHIP BIBLE CHURCH",
-    "address": "225 PATTERSON AVE SE",
+    "address": "225 PATTERSON AVE SE CONCORD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3054,7 +3054,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AUSTIN VESTRAND. 225 PATTERSON AVE SE CONCORD NC 28025 SS 10,SM 11,SN 7,W 7 KJB, SWORD, HAC"
+    "description": "NC 28025 SS 10,SM 11,SN 7,W 7 KJB, SWORD, HAC"
   },
   {
     "id": "3438",
@@ -3073,12 +3073,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NICK CHILDS. 1450 OLD OCEAN HWY BOLIVIA NC 28422 KJB church."
+    "description": "1450 OLD OCEAN HWY BOLIVIA NC 28422 KJB church"
   },
   {
     "id": "3439",
     "name": "ABOUNDING GRACE BAPTIST CHURCH",
-    "address": "1362 BRANSON MILL RD",
+    "address": "1362 BRANSON MILL RD PLEASANT GARD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3091,12 +3091,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF COOK. 1362 BRANSON MILL RD PLEASANT GARDEN NC 27313 SS 945,SM 11,SN 630,W 7 VIDEO & OUTLINE SERMONS KJB church."
+    "description": "EN NC 27313 SS 945,SM 11,SN 630,W 7 VIDEO & OUTLINE SERMONS KJB church"
   },
   {
     "id": "3440",
     "name": "BEECH AVENUE BAPTIST CHURCH",
-    "address": "1206 W ASHTON AVE",
+    "address": "1206 W ASHTON AVE GAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3110,7 +3110,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by FLOYD A PERRY. 1206 W ASHTON AVE GASTONIA NC 28052 SS 945, SM 11, SN 6, W 7 AUDIO SERMONS 3380 SHAMROCK HEIGHTS HUDSON NC 28638 PHYSICAL LOCATION 172 N MAIN ST in GRANITE FALLS SS 10,SM 11,SN 6,W 7 WYCV GOSPEL 9 @ 0 KJB church."
+    "description": "ONIA NC 28052 SS 945, SM 11, SN 6, W 7 AUDIO SERMONS 3380 SHAMROCK HEIGHTS HUDSON NC 28638 PHYSICAL LOCATION 172 N MAIN ST in GRANITE FALLS SS 10,SM 11,SN 6,W 7 WYCV GOSPEL 9 @ 0 KJB church"
   },
   {
     "id": "3441",
@@ -3123,13 +3123,13 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -79.8719,
     "phone": "(252) 438-5904",
     "website": "https://www.facebook.com/EastsideBaptistHenderson",
-    "pastor": "JAMES BUTTS",
+    "pastor": "JACKSONVILLE NC 28540 SS 945,SM 11,SN 6,W 7 KJB, BBF, TBC-JX FL",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES BUTTS. 1017 EASTERN BLVD HENDERSON NC 27536 SS 10,SM 11,SN 6,W 7 114 ROOSEVELT DR JACKSONVILLE NC 28540 SS 945,SM 11,SN 6,W 7 KJB, BBF, TBC-JX FL"
+    "description": "HENDERSON NC 27536 SS 10,SM 11,SN 6,W 7 114 ROOSEVELT DR JACKSONVILLE NC 28540 SS 945,SM 11,SN 6,W 7 KJB, BBF, TBC-JX FL"
   },
   {
     "id": "3442",
@@ -3147,7 +3147,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "372 E KING ST BOONE NC 28607"
+    "description": "BOONE NC 28607"
   },
   {
     "id": "3443",
@@ -3165,12 +3165,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD LAMBE. SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "3444",
     "name": "GOSPEL MISSION BAPTIST CHURCH",
-    "address": "4370 REID RD",
+    "address": "2724 MARGARET WALLACE RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3184,12 +3184,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RON ALLEN. 4370 REID RD TOBACCOVILLE NC 27050 SS 10,SM 11,SN 6,W 7 TEEN, PROPHETS CHAMBER, LIVESTREAM & VIDEO SERMONS KJB, BBF 2724 MARGARET WALLACE RD MATTHEWS NC 28205 INCLUDING CHARLOTTE AREA SS 10,SM 11,SN 6"
+    "description": "TOBACCOVILLE NC 27050 SS 10,SM 11,SN 6,W 7 TEEN, PROPHETS CHAMBER, LIVESTREAM & VIDEO SERMONS KJB, BBF MATTHEWS NC 28205 INCLUDING CHARLOTTE AREA SS 10,SM 11,SN 6"
   },
   {
     "id": "3445",
     "name": "TRINITY BAPTIST CHURCH",
-    "address": "520 ROBERTS RD",
+    "address": "730 GRACE CHRIST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3202,7 +3202,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLYDE I EBORN. 2722 US HWY 601 SOUTH MOCKSVILLE NC 27028 SS 945,SM 1030 & 1130,SN 7,W 7 BUS; CHRISTIAN SCHOOL KJB, WWNTBM 520 ROBERTS RD NEWPORT NC 28570 MOREHEAD CITY AREA SS 10,SM 11,SN 630,W 730 GRACE CHRISTIAN S"
+    "description": "2722 US HWY 601 SOUTH MOCKSVILLE NC 27028 SS 945,SM 1030 & 1130,SN 7,W 7 BUS; CHRISTIAN SCHOOL KJB, WWNTBM NEWPORT NC 28570 MOREHEAD CITY AREA SS 10,SM 11,SN 630,W IAN S"
   },
   {
     "id": "3446",
@@ -3220,12 +3220,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE L BAITY. PO BOX 264 222 FOUNTAIN WAY SWANNANOA NC 28778 SS 945,11,SN 6,W 7 KJB church."
+    "description": "PO BOX 264 SWANNANOA NC 28778 SS 945,11,SN 6,W 7 KJB church"
   },
   {
     "id": "3447",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "4135 THOMASVILLE RD",
+    "address": "4135 THOMASVILLE RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3238,7 +3238,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WINSTON PARISH. 4135 THOMASVILLE RD WINSTON SALEM NC 27107 SS 10,SM 11,SN 7,WM 11,WN 730 AUDIO VIDEO SERMONS, BUS,TV,  WPIP 880AM; BEREAN CHRISTIAN SCHOOL, K3-12, ACE; 216 SHELBURNE RD ASHEVILLE NC 28806 SS 945,SM 81 KJB church."
+    "description": "ON SALEM NC 27107 SS 10,SM 11,SN 7,WM 11,WN 730 AUDIO VIDEO SERMONS, BUS,TV, WPIP 880AM; BEREAN CHRISTIAN SCHOOL, K3-12, ACE; 216 SHELBURNE RD ASHEVILLE NC 28806 SS 945,SM 81 KJB church"
   },
   {
     "id": "3448",
@@ -3256,7 +3256,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER PICKETT. 5518 MILLER BRIDGE RD CONNELLY SPRINGS NC 28612 KJB church."
+    "description": "CONNELLY SPRINGS NC 28612 KJB church"
   },
   {
     "id": "3449",
@@ -3274,12 +3274,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH SIZEMORE. PO BOX 1279 2286 WHITE DIRT RD DOBSON NC 27017 KJB church."
+    "description": "PO BOX 1279 DOBSON NC 27017 KJB church"
   },
   {
     "id": "3450",
     "name": "OAK GROVE BAPTIST CHURCH",
-    "address": "476 OAK GROVE RD",
+    "address": "126 NEUSE RD KINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3292,7 +3292,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY C DANIEL. 476 OAK GROVE RD FLAT ROCK NC 28731 SS 10,SM 11,SN 630,W 730 KJB, WWNTBM, FBN 126 NEUSE RD KINSTON NC 28501 HWY 70 E SS 10,SM 11,SN 730,W 730 DISCIPLESHIP, YOUTH, MASTER CLUB, AUDIO SERMONS, SEYMOUR J"
+    "description": "FLAT ROCK NC 28731 SS 10,SM 11,SN 630,W 730 KJB, WWNTBM, FBN ON NC 28501 HWY 70 E SS 10,SM 11,SN 730,W 730 DISCIPLESHIP, YOUTH, MASTER CLUB, AUDIO SERMONS, SEYMOUR J"
   },
   {
     "id": "3451",
@@ -3310,12 +3310,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GENE GOUGE. 2300 BANNERTOWN CHURCH RD GERMANTON NC 27109 SS 945,SM 11,SN 6,W 7 Weekly Radio Broadcast on WPIP 880AM at 0930 on Sunday 2300 LIBERTY CHURCH ST HICKORY NC 28601 SS 945,SM 11,SN 7,W 7 BUS, DEAF, RADIO KJB church."
+    "description": "GERMANTON NC 27109 SS 945,SM 11,SN 6,W 7 Weekly Radio Broadcast on WPIP 880AM at 0930 on Sunday 2300 LIBERTY CHURCH ST HICKORY NC 28601 SS 945,SM 11,SN 7,W 7 BUS, DEAF, RADIO KJB church"
   },
   {
     "id": "3452",
     "name": "GRAPEVINE BAPTIST CHURCH",
-    "address": "7869 GRAPEVINE RD",
+    "address": "126 SULPHUR SPRINGS RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3328,7 +3328,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM VALLINI. 7869 GRAPEVINE RD LEWISVILLE NC 27023 PO BOX 542 126 SULPHUR SPRINGS RD HIDDENITE NC 28636 SS 10,SM 11,SN 7,W 7 PO BOX 390 1920 MAIDEN SALEM RD MAIDEN NC 28650 KJB church."
+    "description": "LEWISVILLE NC 27023 PO BOX 542 HIDDENITE NC 28636 SS 10,SM 11,SN 7,W 7 PO BOX 390 1920 MAIDEN SALEM RD MAIDEN NC 28650 KJB church"
   },
   {
     "id": "3453",
@@ -3346,12 +3346,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY SHIRLEY. HWY 221 N 3614 WILFONG RD, NEWTON NC 28658 SS 930,SM 1030,SN 6, W 7 KJB church."
+    "description": "HWY 221 N , NEWTON NC 28658 SS 930,SM 1030,SN 6, W 7 KJB church"
   },
   {
     "id": "3454",
     "name": "NEW MANNA BAPTIST CHURCH",
-    "address": "245 E COURT ST",
+    "address": "3411 WEDDINGTON RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3365,12 +3365,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JOE HASKETT. PO BOX 1286 245 E COURT ST MARION NC 28752 SS 10,SM 11,SN 6,W 7 CAMP, BUS, PATCH PIRATE, CHOIR, PRISON, RADIO, AUDIO SERMONS; NEW MANNA CHRISTIAN SCHOOL, K-12, ABEKA; 3411 WEDDINGTON RD MONROE NC 2811 KJB church."
+    "description": "PO BOX 1286 MARION NC 28752 SS 10,SM 11,SN 6,W 7 CAMP, BUS, PATCH PIRATE, CHOIR, PRISON, RADIO, AUDIO SERMONS; NEW MANNA CHRISTIAN SCHOOL, K-12, ABEKA; MONROE NC 2811 KJB church"
   },
   {
     "id": "3455",
     "name": "ANCHOR BAPTIST CHURCH",
-    "address": "1411 N 20TH ST",
+    "address": "3232 HENDERSONVILLE HWY PISGAH FOREST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3384,7 +3384,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN WHITE. 3232 HENDERSONVILLE HWY PISGAH FOREST NC 28768 WGCR RADIO 720AM KJB, IFFB PO BOX 159 1000 NC HWY E RURAL HALL NC 27045 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS , RADIO, SOULWINNING KJB, WWNTBM PO BOX 842"
+    "description": "NC 28768 WGCR RADIO 720AM KJB, IFFB PO BOX 159 1000 NC HWY E RURAL HALL NC 27045 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS , RADIO, SOULWINNING KJB, WWNTBM PO BOX 842"
   },
   {
     "id": "3456",
@@ -3402,12 +3402,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES YORK. PO BOX 726 112 GRACE TABERNACLE RD ROBBINSVILLE NC 28771 LOCATED 2 MILES N OF ROBBINSVILLE ON HWY 129 HISPANIC SERVICES KJB church."
+    "description": "PO BOX 726 ROBBINSVILLE NC 28771 LOCATED 2 MILES N OF ROBBINSVILLE ON HWY 129 HISPANIC SERVICES KJB church"
   },
   {
     "id": "3457",
     "name": "MT NEBO BAPTIST CHURCH",
-    "address": "343 DICK BRANCH RD",
+    "address": "28771 MT NEBO CHRIST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3415,17 +3415,17 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -80.7006,
     "phone": "(828) 479-8555",
     "website": "https://frontier.com",
-    "pastor": "",
+    "pastor": "KJB, RUCKMAN",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "343 DICK BRANCH RD ROBBINSVILLE NC 28771 MT NEBO CHRISTIAN ACADEMY K-12 A-BEKA PASTOR KJB, RUCKMAN"
+    "description": "ROBBINSVILLE NC IAN ACADEMY K-12 A-BEKA"
   },
   {
     "id": "3458",
     "name": "BRIDGEPORT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 548",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3438,7 +3438,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID TUCKER. PO BOX 548 1250 US HWY 70 VALDESE NC 28690 SS 10,SM 11,SN 6,W 7 KJB, RUCKMAN"
+    "description": "1250 US HWY 70 VALDESE NC 28690 SS 10,SM 11,SN 6,W 7 KJB, RUCKMAN"
   },
   {
     "id": "3459",
@@ -3458,7 +3458,7 @@ export const northcarolinaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by BRIAN SPARGO. 506 OLD HWY 601 MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 KINGS KIDS, BUS, RADIO, TEEN, SENIORS, JAIL; WHITE PLAINS CHRISTIAN SCHOOL K-12; BIBLE COLLEGE BAPTIST TABERNACLE 2128 DALLAS CHERRYVLLE HWY DALLA KJB church."
+    "description": "506 OLD HWY 601 MT AIRY NC 27030 SS 10,SM 11,SN 6,W 7 KINGS KIDS, BUS, RADIO, TEEN, SENIORS, JAIL; WHITE PLAINS CHRISTIAN SCHOOL K-12; BIBLE COLLEGE BAPTIST TABERNACLE 2128 DALLAS CHERRYVLLE HWY DALLA KJB church"
   },
   {
     "id": "3460",
@@ -3476,7 +3476,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH CAMPBELL. PO BOX 638 2300 PHILADELPHIA CHURCH RD DALLAS NC 28034 SS 10,SM 11,SN 7,W 7 BUS, YOUTH, TEEN, DEAF, BIBLE INSTITUTE, VIDEO SERMONS KJB, SWORD OF THE LORD, CROWN BC, PCC, ABC, WCBC"
+    "description": "PO BOX 638 DALLAS NC 28034 SS 10,SM 11,SN 7,W 7 BUS, YOUTH, TEEN, DEAF, BIBLE INSTITUTE, VIDEO SERMONS KJB, SWORD OF THE LORD, CROWN BC, PCC, ABC, WCBC"
   },
   {
     "id": "3461",
@@ -3494,7 +3494,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON SIGMAN. 12416 LANCASTER HWY PINEVILLE NC 28134 CHARLOTTE AREA SS 945,SM 1050,SN 6,W 7 ALL SERVICES IN ENGLISH AND SPANISH, PROPHETS CHAMBER, BUS, MASTERS K5-6, 7 STAR TEENS 7-12; SOUTH CHARLOTTE BAPTIST ACADE KJB church."
+    "description": "PINEVILLE NC 28134 CHARLOTTE AREA SS 945,SM 1050,SN 6,W 7 ALL SERVICES IN ENGLISH AND SPANISH, PROPHETS CHAMBER, BUS, MASTERS K5-6, 7 STAR TEENS 7-12; SOUTH CHARLOTTE BAPTIST ACADE KJB church"
   },
   {
     "id": "3462",
@@ -3513,7 +3513,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SCOTT GRAY. 725 E 11TH ST NEWTON NC 28658 SS 915,SM 1030,SN 7,W 7 YOUTH; CAROLINA CHRISTIAN COLLEGE KJB, HAC PO BOX 72400 3864 GUESS RD DURHAM NC 27705 SS 10,SM 11,SN 6,W 7 BUS, REFORMERS UNANIMOUS, PATCH PIRATE,"
+    "description": "NEWTON NC 28658 SS 915,SM 1030,SN 7,W 7 YOUTH; CAROLINA CHRISTIAN COLLEGE KJB, HAC PO BOX 72400 3864 GUESS RD DURHAM NC 27705 SS 10,SM 11,SN 6,W 7 BUS, REFORMERS UNANIMOUS, PATCH PIRATE"
   },
   {
     "id": "3463",
@@ -3531,7 +3531,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL GREENE. 5801 OLD CONCORD RD CHARLOTTE NC 28213 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, CHILDREN, YOUTH, PROPHETS CHAMBER, AUDIO SERMONS KJB church."
+    "description": "CHARLOTTE NC 28213 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, CHILDREN, YOUTH, PROPHETS CHAMBER, AUDIO SERMONS KJB church"
   },
   {
     "id": "3464",
@@ -3549,7 +3549,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "GEORGE WILSON RD BOONE NC 28607 SS 10,SM 11,SN 6,W 7 Independent church."
+    "description": "GEORGE WILSON RD BOONE NC 28607 SS 10,SM 11,SN 6,W 7 Independent church"
   },
   {
     "id": "3465",
@@ -3567,12 +3567,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON SHARPE. KJB, HAC"
+    "description": "KJB, HAC"
   },
   {
     "id": "3466",
     "name": "REIDSVILLE BAPTIST CHURCH",
-    "address": "116 S FRANKLIN ST",
+    "address": "515 SOUTHERLAND ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3586,12 +3586,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICK FINLEY. 116 S FRANKLIN ST REIDSVILLE NC 27320 SS 10,SM 11,SN 7,W 730 KJB, HAC 515 SOUTHERLAND ST, HWY 70 BY-PASS DURHAM NC 27703 SS 10,SM 1050,SN 6,W 730 AUDIO SERMONS, BUS, YOUTH, SENIOR, SPANISH;FELLOWSHIP"
+    "description": "REIDSVILLE NC 27320 SS 10,SM 11,SN 7,W 730 KJB, HAC , HWY 70 BY-PASS DURHAM NC 27703 SS 10,SM 1050,SN 6,W 730 AUDIO SERMONS, BUS, YOUTH, SENIOR, SPANISH;FELLOWSHIP"
   },
   {
     "id": "3467",
     "name": "WAYSIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1498",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3604,7 +3604,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMY JONES. PO BOX 1498 2232 HWY 70 HILLSBOROUGH NC 27278 SS 10,SM 11,SN 6,W 7 KJB, IFFB"
+    "description": "2232 HWY 70 HILLSBOROUGH NC 27278 SS 10,SM 11,SN 6,W 7 KJB, IFFB"
   },
   {
     "id": "3468",
@@ -3623,7 +3623,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOEL SMITH. 4601 GUESS RD DURHAM NC 27712 ROUGEMONT AREA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DURHAM NC 27712 ROUGEMONT AREA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3469",
@@ -3641,12 +3641,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLIE BRANCH. 7742 TURNPIKE RD HIGH POINT NC 27263 KJB church."
+    "description": "HIGH POINT NC 27263 KJB church"
   },
   {
     "id": "3470",
     "name": "MEADOWS BAPTIST CHURCH",
-    "address": "2988 STEWART RD",
+    "address": "2988 STEWART RD WALN",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3659,12 +3659,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY STYERS. PO BOX 1173 2988 STEWART RD WALNUT COVE NC 27052 SS 945,SN 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 1173 UT COVE NC 27052 SS 945,SN 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3471",
     "name": "LIBERTY BAPTIST CHAPEL",
-    "address": "1548 OLD HOLLOW RD",
+    "address": "1548 OLD HOLLOW RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3678,12 +3678,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by HUNTER STRENGTH. 1548 OLD HOLLOW RD WINSTON SALEM NC 27105 SS 10,SM 11,SN 6,W 7 BUS,SOULWINNING KJB church."
+    "description": "ON SALEM NC 27105 SS 10,SM 11,SN 6,W 7 BUS,SOULWINNING KJB church"
   },
   {
     "id": "3472",
     "name": "FIVE FORKS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 6",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3696,7 +3696,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 6 7500 NC HWY 86 N CEDAR GROVE NC 27231 SS 10,SM 11,SN 6,W 730"
+    "description": "7500 NC HWY 86 N CEDAR GROVE NC 27231 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "3473",
@@ -3714,7 +3714,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM ANDERSON. KJB, CROWN-BC"
+    "description": "KJB, CROWN-BC"
   },
   {
     "id": "3474",
@@ -3732,7 +3732,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE POPE. 1344 RANKIN MILL RD MCLEANSVILLE NC 27301 SS 10,SM 11,SN 6,W 730 BRIGGS MEMORIAL KIDDIE COLLEGE KJB, HAC, GRAY-TX 329 INDIAN HILL RD UNION GROVE NC 28689 SS 10,SM 11,SN 6,W 730 BUS, HOSPITAL, NURSING"
+    "description": "MCLEANSVILLE NC 27301 SS 10,SM 11,SN 6,W 730 BRIGGS MEMORIAL KIDDIE COLLEGE KJB, HAC, GRAY-TX 329 INDIAN HILL RD UNION GROVE NC 28689 SS 10,SM 11,SN 6,W 730 BUS, HOSPITAL, NURSING"
   },
   {
     "id": "3475",
@@ -3750,12 +3750,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES STANLEY ADCOCK. 275 THE CHURCH RD PITTSBORO NC 27312 482 S ORCHARD RD HENDERSONVILLE NC 28739 SS 10,SM 11,SN 6,W 730 KJB, TRINITY-BC"
+    "description": "PITTSBORO NC 27312 482 S ORCHARD RD HENDERSONVILLE NC 28739 SS 10,SM 11,SN 6,W 730 KJB, TRINITY-BC"
   },
   {
     "id": "3476",
     "name": "SAMARITAN BAPTIST CHURCH",
-    "address": "4800 REID RD",
+    "address": "4800 REID RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3769,7 +3769,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by KEITH LINZY. 4800 REID RD WINSTON SALEM NC 27107 SS 10,SM 11,SN 6, W 7 KJB church."
+    "description": "ON SALEM NC 27107 SS 10,SM 11,SN 6, W 7 KJB church"
   },
   {
     "id": "3477",
@@ -3787,7 +3787,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE ELLIS. 832 S POST RD SHELBY NC 28152 SS 945, SM 11, SN 6,W 7 KJB church."
+    "description": "SHELBY NC 28152 SS 945, SM 11, SN 6,W 7 KJB church"
   },
   {
     "id": "3478",
@@ -3805,7 +3805,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY P WAKEFIELD. 3 CAMPGROUND RD ASHEVILLE NC 28810 SS 1005,SM 11,SN 6,W 7 BUS, TEEN; PARKWAY CHRISTIAN ACADEMY K4-12; 120 BELL ST SWANSBORO NC 28584 SS 955,SM 11,SN 7,W 730 MASTERS CLUB, PROTEENS, CHOIR, SENIORS; WIL KJB church."
+    "description": "ASHEVILLE NC 28810 SS 1005,SM 11,SN 6,W 7 BUS, TEEN; PARKWAY CHRISTIAN ACADEMY K4-12; 120 BELL ST SWANSBORO NC 28584 SS 955,SM 11,SN 7,W 730 MASTERS CLUB, PROTEENS, CHOIR, SENIORS; WIL KJB church"
   },
   {
     "id": "3479",
@@ -3824,7 +3824,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTT WELCH. PO BOX 61146 8700 CAPITAL BLVD RALEIGH NC 27661 SS 10,SM 11,SN 630,W 730 TEEN, SINGLES, COUPLES, SENIORS, AUDIO SERMONS; NEUSE BAPTIST CHRISTIAN SCHOOL K3-12; KJB, UNAFFILIATED"
+    "description": "PO BOX 61146 RALEIGH NC 27661 SS 10,SM 11,SN 630,W 730 TEEN, SINGLES, COUPLES, SENIORS, AUDIO SERMONS; NEUSE BAPTIST CHRISTIAN SCHOOL K3-12; KJB, UNAFFILIATED"
   },
   {
     "id": "3480",
@@ -3842,7 +3842,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN SINK. 3216 COURTNEY-HUNTSVILLE RD YADKINVILLE NC 27055 SS 945,SM 1045,SN 6,W 7 BUS, DISCOVER CLUB, SUMMER YOUTH CAMPS KJB church."
+    "description": "YADKINVILLE NC 27055 SS 945,SM 1045,SN 6,W 7 BUS, DISCOVER CLUB, SUMMER YOUTH CAMPS KJB church"
   },
   {
     "id": "3481",
@@ -3851,8 +3851,8 @@ export const northcarolinaChurches: Church[] = [
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
-    "latitude": 36.6114,
-    "longitude": -81.2893,
+    "latitude": 35.0346,
+    "longitude": -75.546,
     "phone": "(704) 857-1617",
     "website": "https://www.facebook.com/p/New-Haven-Baptist-Church-of-China-Grove-61551967350841",
     "pastor": "JOHN KEETER",
@@ -3861,12 +3861,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN KEETER. PO BOX 226 3840 NC HWY 152 E CHINA GROVE NC 28023 SS 950, SM 11, SN 6, W 7 BUS ROUTE, VISITATION KJB, UNAFFILIATED PO BOX 1089 1821 RHEM AVE NEW BERN NC 28563 SS 945,SM 1055,SN 6,W 7"
+    "description": "PO BOX 226 3840 NC HWY 152 E CHINA GROVE NC 28023 SS 950, SM 11, SN 6, W 7 BUS ROUTE, VISITATION KJB, UNAFFILIATED PO BOX 1089 NEW BERN NC 28563 SS 945,SM 1055,SN 6,W 7"
   },
   {
     "id": "3482",
     "name": "FRIENDLY LANE BAPTIST CHURCH",
-    "address": "1122 VAUGHN RD",
+    "address": "1675 PIPERS GAP RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3880,12 +3880,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY H EDWARDS. 1122 VAUGHN RD BURLINGTON NC 27215 SS 10,SM 11,SN 6,W 7 1675 PIPERS GAP RD MT AIRY NC 27030 CROWN OF REJOICING PROGRAM KJB, UNAFFILIATED"
+    "description": "BURLINGTON NC 27215 SS 10,SM 11,SN 6,W 7 MT AIRY NC 27030 CROWN OF REJOICING PROGRAM KJB, UNAFFILIATED"
   },
   {
     "id": "3483",
     "name": "BRIGHT LIGHT BAPTIST CHURCH",
-    "address": "960 OLD CHARLOTTE RD SW",
+    "address": "960 OLD CHARLOTTE RD SW CONCORD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -3898,7 +3898,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "960 OLD CHARLOTTE RD SW CONCORD NC 28027 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "NC 28027 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "3484",
@@ -3917,7 +3917,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHRIS S DOSTER. PO BOX 829 104 DOWNEY LAKE RD DALLAS NC 28034 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, NURSERY, CHILDREN’S, TEENS, LADIES, MEN’S, SENIORS, SOULWINNING, RESCUE MISSION PO BOX 1236 3624 RALEIGH RD PKWY W WIL KJB church."
+    "description": "PO BOX 829 DALLAS NC 28034 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, NURSERY, CHILDREN’S, TEENS, LADIES, MEN’S, SENIORS, SOULWINNING, RESCUE MISSION PO BOX 1236 3624 RALEIGH RD PKWY W WIL KJB church"
   },
   {
     "id": "3485",
@@ -3935,7 +3935,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRACY GROSS. PO BOX 1427 262 SPARROW SPRINGS RD KINGS MOUNTAIN NC 28086 SS 10,SM 11,SN 6,W 7 REFORMERS UNANIMOUS 800 OLD LUMBERTON RD LAURINBURG NC 28353 SS 10,SM 1045,SN 6,W 7 1015 N FRANKLIN RD MT AIRY NC 27030  KJB church."
+    "description": "PO BOX 1427 KINGS MOUNTAIN NC 28086 SS 10,SM 11,SN 6,W 7 REFORMERS UNANIMOUS 800 OLD LUMBERTON RD LAURINBURG NC 28353 SS 10,SM 1045,SN 6,W 7 1015 N FRANKLIN RD MT AIRY NC 27030 KJB church"
   },
   {
     "id": "3486",
@@ -3953,7 +3953,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LONNIE SORRELL. 4520 OLD HOLLOW RD KERNERSVILLE NC 27284 SS 9,SM 10,SN 5,W 7 BUS, RADIO, CHOIR, LIVE SERVICES; KERWIN BAPTIST CHRISTIAN SCHOOL K3-12; RR 6 BOX 49 7920 US HWY 158 REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W KJB church."
+    "description": "KERNERSVILLE NC 27284 SS 9,SM 10,SN 5,W 7 BUS, RADIO, CHOIR, LIVE SERVICES; KERWIN BAPTIST CHRISTIAN SCHOOL K3-12; RR 6 BOX 49 7920 US HWY 158 REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W KJB church"
   },
   {
     "id": "3487",
@@ -3972,7 +3972,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM L CRUSE. 2541 OLD CHARLOTTE HWY MONROE NC 28110 SS 945,SM 11,SN 6,W 715 KJB, BBF"
+    "description": "2541 OLD CHARLOTTE HWY MONROE NC 28110 SS 945,SM 11,SN 6,W 715 KJB, BBF"
   },
   {
     "id": "3488",
@@ -3990,7 +3990,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY BERRY. 2280 HWY 258 N KINSTON NC 28504 SS 10,SM 11,SN 6,W 730 KJB, HAC 3000 SAM WILSON RD CHARLOTTE NC 28214 SS 10,SM 11,SN 7,W 7, BUS,YOUTH; LIBERTY BAPTIST ACADEMY, K5-12, AACS; KJB,BJU"
+    "description": "2280 HWY 258 N KINSTON NC 28504 SS 10,SM 11,SN 6,W 730 KJB, HAC CHARLOTTE NC 28214 SS 10,SM 11,SN 7,W 7, BUS,YOUTH; LIBERTY BAPTIST ACADEMY, K5-12, AACS; KJB,BJU"
   },
   {
     "id": "3489",
@@ -4003,18 +4003,18 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -80.7154,
     "phone": "(336) 676-0400",
     "website": "https://www.livingwatersbaptistchurch.org",
-    "pastor": "JEREMY KOBERNAT",
+    "pastor": "KJB, HAC PO BOX 728 489 NC 55 E MT OLIVE NC 28365 SS 945,SM 1059,SN 630,W 730 BUS, SOULWINNING, CHOIR, SPANISH, VIDEO SERMONS, S",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JEREMY KOBERNAT. 5667 OLD RANDLEMAN RD GREENSBORO NC 27406 SS 10,SM 11,SN 6,W 730 PASTOR KJB, HAC PO BOX 728 489 NC 55 E MT OLIVE NC 28365 SS 945,SM 1059,SN 630,W 730 BUS, SOULWINNING, CHOIR, SPANISH, VIDEO SERMONS, S"
+    "description": "GREENSBORO NC 27406 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "3490",
     "name": "ZION HILL BAPTIST CHURCH",
-    "address": "",
+    "address": "340 ZION  HILL RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4027,7 +4027,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "RT 2 BOX 340 ZION  HILL RD MARION NC 28752 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS & PREACHERS CORNER, RADIO KJB church."
+    "description": "RT 2 BOX MARION NC 28752 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS & PREACHERS CORNER, RADIO KJB church"
   },
   {
     "id": "3491",
@@ -4045,7 +4045,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK HOLLIFIELD. 5570 HWY 55 W COVE CITY NC 28523 SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "5570 HWY 55 W COVE CITY NC 28523 SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "3492",
@@ -4063,7 +4063,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY JONES. 664 PINNACLE CHURCH RD NEBO NC 28761 SS 10,SM 11,SN 5,W 7 KJB, SOL"
+    "description": "NEBO NC 28761 SS 10,SM 11,SN 5,W 7 KJB, SOL"
   },
   {
     "id": "3493",
@@ -4082,7 +4082,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BUD ROWE. 4800 ARCHDALE RD TRINITY NC 27370 SS 10,SM 11,SN 6,W 7 YOUTH MEETING SUNDAY @ 5, RU KJB, BBF"
+    "description": "TRINITY NC 27370 SS 10,SM 11,SN 6,W 7 YOUTH MEETING SUNDAY @ 5, RU KJB, BBF"
   },
   {
     "id": "3494",
@@ -4101,7 +4101,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RUDY SHEPHERD. 2957 MONDA RD CLIMAX NC 27233 SS 945,SM 11,SN 6,W 7 PATCH PIRATE KJB,UNAFFILIATED, RUCKMAN & HYLES"
+    "description": "CLIMAX NC 27233 SS 945,SM 11,SN 6,W 7 PATCH PIRATE KJB,UNAFFILIATED, RUCKMAN & HYLES"
   },
   {
     "id": "3495",
@@ -4119,7 +4119,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY DAVIS. WILMINGTON NC 28405 SS 945,SM 11,SN 6,W 7 RADIO ON FM & SHORTWAVE; WILMINGTON BIBLE INSTITUTE KJB church."
+    "description": "WILMINGTON NC 28405 SS 945,SM 11,SN 6,W 7 RADIO ON FM & SHORTWAVE; WILMINGTON BIBLE INSTITUTE KJB church"
   },
   {
     "id": "3496",
@@ -4137,7 +4137,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID DUPREE. 3605 EDGEFIELD RD GREENSBORO NC 27409 SS 10,SM 11,SN 630,W 730 RADIO; NORTHWEST CHRISTIAN SCHOOL, K-12, ACE; KJB church."
+    "description": "GREENSBORO NC 27409 SS 10,SM 11,SN 630,W 730 RADIO; NORTHWEST CHRISTIAN SCHOOL, K-12, ACE; KJB church"
   },
   {
     "id": "3497",
@@ -4155,12 +4155,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN SHELLEY. 615 MACK TODD RD ZEBULON NC 27597 SS 10,SM 11,SN 630,W 7 KJB, HAC"
+    "description": "ZEBULON NC 27597 SS 10,SM 11,SN 630,W 7 KJB, HAC"
   },
   {
     "id": "3498",
     "name": "ASHLAND STREET BAPTIST CHURCH",
-    "address": "515 ASHLAND ST",
+    "address": "2501 HAYWOOD RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4176,7 +4176,7 @@ export const northcarolinaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by JAMES QUROLLO. 515 ASHLAND ST ARCHDALE NC 27263 SS 10,SM 11,SN 6,W 7 PO BOX 1283 2501 HAYWOOD RD HENDERSONVILLE NC 28792 SS 10,SM 11,SN 6,W 7 BUS, SENIORS, CHOIR, AUDIO SERMONS 205 MUSEUM RD STATESVILLE NC 28625 SS  KJB church."
+    "description": "ARCHDALE NC 27263 SS 10,SM 11,SN 6,W 7 PO BOX 1283 HENDERSONVILLE NC 28792 SS 10,SM 11,SN 6,W 7 BUS, SENIORS, CHOIR, AUDIO SERMONS 205 MUSEUM RD STATESVILLE NC 28625 SS KJB church"
   },
   {
     "id": "3499",
@@ -4194,12 +4194,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NOEL HAWKS. 2486 OLD HWY 29 PELHAM NC 27311 WHERE HOLLAND RD AND OLD 29 MEET SS 10,SM 11,SN 6,W 7 RADIO WKBY 1080, BUS KJB, PIEDMONT-BC 2433 LIBERTY CHURCH RD MOCKSVILLE NC 27028 SS 945,SM 11,SN 6,W 730"
+    "description": "2486 OLD HWY 29 PELHAM NC 27311 WHERE HOLLAND RD AND OLD 29 MEET SS 10,SM 11,SN 6,W 7 RADIO WKBY 1080, BUS KJB, PIEDMONT-BC MOCKSVILLE NC 27028 SS 945,SM 11,SN 6,W 730"
   },
   {
     "id": "3500",
     "name": "COMMAND BAPTIST CHURCH",
-    "address": "658 ISLAND FORD RD",
+    "address": "658 ISLAND FORD RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4207,7 +4207,7 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -80.8657,
     "phone": "(704) 873-3077",
     "website": "https://www.facebook.com/CommandBaptistChurch",
-    "pastor": "DANIEL BARAJAS",
+    "pastor": "KJB,UNAFFILIATED 313 N BRIGHT LEAF BLVD SMITHFIELD NC 27577 SS 10,SM 11,SN 6,W 730",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -4215,7 +4215,7 @@ export const northcarolinaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by DANIEL BARAJAS. 658 ISLAND FORD RD STATESVILLE NC 28677 SS 10,SM 11,SN 6,W 7 NEEDS PASTOR KJB,UNAFFILIATED 313 N BRIGHT LEAF BLVD SMITHFIELD NC 27577 SS 10,SM 11,SN 6,W 730"
+    "description": "ATESVILLE NC 28677 SS 10,SM 11,SN 6,W 7 NEEDS"
   },
   {
     "id": "3501",
@@ -4233,7 +4233,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN CHANCEY. 4710 HWY 704 MADISON NC 27025 SS 10,SM 11,SN 7,W 7 TEEN,YOUTH,CHOIR KJB church."
+    "description": "4710 HWY 704 MADISON NC 27025 SS 10,SM 11,SN 7,W 7 TEEN,YOUTH,CHOIR KJB church"
   },
   {
     "id": "3502",
@@ -4251,12 +4251,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON ROUSE. 1230 ANDERSON CREEK SCHOOL ROAD SPRING LAKE NC 28390 SS 945, SM 11, SN 6, W 715 KJB church."
+    "description": "SPRING LAKE NC 28390 SS 945, SM 11, SN 6, W 715 KJB church"
   },
   {
     "id": "3503",
     "name": "ANDREWS MEMORIAL BAPTIST CHURCH",
-    "address": "301 W ELM ST",
+    "address": "1616 E DIXIE DR",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4264,13 +4264,13 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -81.1013,
     "phone": "(336) 228-7801",
     "website": "http://www.andrewsmemorial.org",
-    "pastor": "TROY CARTER",
+    "pastor": "ASHEBORO NC 27203 TWIN LAKES CHRISTIAN CAMP, LIVE SERMONS OR CD AND DVD, PATCH THE PIRATE, T",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TROY CARTER. 301 W ELM ST GRAHAM NC 27253 SS 945,SM 11,SN 6,W 730 RADIO, AUDIO SERMONS KJB, UNAFFILIATED 1616 E DIXIE DR ASHEBORO NC 27203 TWIN LAKES CHRISTIAN CAMP, LIVE SERMONS OR CD AND DVD, PATCH THE PIRATE, T"
+    "description": "GRAHAM NC 27253 SS 945,SM 11,SN 6,W 730 RADIO, AUDIO SERMONS KJB, UNAFFILIATED ASHEBORO NC 27203 TWIN LAKES CHRISTIAN CAMP, LIVE SERMONS OR CD AND DVD, PATCH THE PIRATE, T"
   },
   {
     "id": "3504",
@@ -4289,7 +4289,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES QUROLLO. 3901 OSBORNE RD GREENSBORO NC 27407 SS 10,SM 11,SN 6,W 7 PO BOX 647 722 US 158 BYP HENDERSON NC 27536 SS 930,SM 1030,SN 5,W 7 KJB, UNAFFILIATED"
+    "description": "GREENSBORO NC 27407 SS 10,SM 11,SN 6,W 7 PO BOX 647 722 US 158 BYP HENDERSON NC 27536 SS 930,SM 1030,SN 5,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3505",
@@ -4307,7 +4307,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY LEONARD. PO BOX 388 5708 OLD WAXHAW MONROE RD MINERAL SPRINGS NC 28108 SS 1015,SM 11,W 7 KJB, HAC, CROWN-BC"
+    "description": "PO BOX 388 MINERAL SPRINGS NC 28108 SS 1015,SM 11,W 7 KJB, HAC, CROWN-BC"
   },
   {
     "id": "3506",
@@ -4325,12 +4325,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES HENSLEY. 2900 WALKUP AVE MONROE NC 28110 SS 10,SM 11,SN 6,W 730 KJB, CROWN"
+    "description": "MONROE NC 28110 SS 10,SM 11,SN 6,W 730 KJB, CROWN"
   },
   {
     "id": "3507",
     "name": "NORTH HAZELWOOD BAPTIST CHURCH",
-    "address": "809 HAZELWOOD AVE",
+    "address": "809 HAZELWOOD AVE WAY",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4344,7 +4344,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RICK BAKER. PO BOX 3493 809 HAZELWOOD AVE WAYNESVILLE NC 28738 SS 10,SM 11,SN 7,W 7 6840 WILSON GROVE RD CHARLOTTE NC 28227 SS 945,SM 11,SN 6,W 720,TH 7,SAT 930 AUDIO SERMONS, BUS, CHILDREN, SUNDAY SCHOOL, STREET KJB church."
+    "description": "PO BOX 3493 NESVILLE NC 28738 SS 10,SM 11,SN 7,W 7 6840 WILSON GROVE RD CHARLOTTE NC 28227 SS 945,SM 11,SN 6,W 720,TH 7,SAT 930 AUDIO SERMONS, BUS, CHILDREN, SUNDAY SCHOOL, STREET KJB church"
   },
   {
     "id": "3508",
@@ -4363,12 +4363,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by BROOKS R GRIMES JR. 3925 PLEASANT GARDEN RD GREENSBORO NC 27406 SS 945,SM 11,SN 6,W 730 VANDALIA CHRISTIAN SCHOOL, K3-12, AACS, TRAD KJB church."
+    "description": "GREENSBORO NC 27406 SS 945,SM 11,SN 6,W 730 VANDALIA CHRISTIAN SCHOOL, K3-12, AACS, TRAD KJB church"
   },
   {
     "id": "3509",
     "name": "NORTHVIEW BAPTIST CHURCH",
-    "address": "7455 RAMSEY ST",
+    "address": "4094 NORTHEAST COLLEGE ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4382,7 +4382,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STAN WINGARD. 7455 RAMSEY ST FAYETTEVILLE NC 28311 SS 945,SM 11,SN 6, W 7 SOULWINNING, BUS SERVICEMENS CENTER; DIRECTOR DAVID TREMMEL KJB, WWNTBM 4094 NORTHEAST COLLEGE ST AYDEN NC 28513 SS 945,SM 1045,SN 6,W 730 R"
+    "description": "FAYETTEVILLE NC 28311 SS 945,SM 11,SN 6, W 7 SOULWINNING, BUS SERVICEMENS CENTER; DIRECTOR DAVID TREMMEL KJB, WWNTBM AYDEN NC 28513 SS 945,SM 1045,SN 6,W 730 R"
   },
   {
     "id": "3510",
@@ -4391,8 +4391,8 @@ export const northcarolinaChurches: Church[] = [
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
-    "latitude": 36.603,
-    "longitude": -79.0039,
+    "latitude": 35.1695,
+    "longitude": -83.9234,
     "phone": "(336) 595-4750",
     "website": "",
     "pastor": "KEMP YOUNG",
@@ -4400,7 +4400,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEMP YOUNG. PO BOX 160 7035 BELEWS CREEK RD BELEWS CREEK NC 27009 KJB church."
+    "description": "PO BOX 160 BELEWS CREEK NC 27009 KJB church"
   },
   {
     "id": "3511",
@@ -4419,7 +4419,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY KIKER. 10781 NC 50 N BENSON NC 27504 SS 10,SM 11,SN 7,W 730 KJB, RUCKMAN 5140 IRISH POTATO RD KANNAPOLIS NC 28083 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "10781 NC 50 N BENSON NC 27504 SS 10,SM 11,SN 7,W 730 KJB, RUCKMAN KANNAPOLIS NC 28083 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3512",
@@ -4428,8 +4428,8 @@ export const northcarolinaChurches: Church[] = [
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
-    "latitude": 36.6288,
-    "longitude": -79.3056,
+    "latitude": 35.458,
+    "longitude": -77.6485,
     "phone": "(828) 396-3486",
     "website": "https://www.facebook.com/people/Granite-Baptist-Tabernacle/61558218515335",
     "pastor": "DREW LOVETTE",
@@ -4438,7 +4438,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DREW LOVETTE. 760 DUDLEY SHOALS RD GRANITE FALLS NC 28630 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, YOUTH, CHOIR; HERITAGE CHRISTIAN SCHOOL K5-12 ABEKA BOARD OPERATED; FT BRAGG 5933 US-21 BUS JONESVILLE NC 28642 SS 10,SM  KJB church."
+    "description": "GRANITE FALLS NC 28630 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, YOUTH, CHOIR; HERITAGE CHRISTIAN SCHOOL K5-12 ABEKA BOARD OPERATED; FT BRAGG 5933 US-21 BUS JONESVILLE NC 28642 SS 10,SM KJB church"
   },
   {
     "id": "3513",
@@ -4456,7 +4456,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 141 911 GREEN RIVER RD ZIRCONIA NC 28790"
+    "description": "PO BOX 141 ZIRCONIA NC 28790"
   },
   {
     "id": "3514",
@@ -4474,7 +4474,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN HILL JR. SS 10,SM 11,SN 630,W 730 KJB church."
+    "description": "SS 10,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "3515",
@@ -4493,7 +4493,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by EDDIE SOUTHER JR. PO BOX 7 547 HUGHES GROVE CHURCH RD THOMASVILLE NC 27360 SS 10,SM 11,W 730 BUS, SENIOR, YOUTH, CHILDREN’S, SOULWINNING KJB church."
+    "description": "PO BOX 7 THOMASVILLE NC 27360 SS 10,SM 11,W 730 BUS, SENIOR, YOUTH, CHILDREN’S, SOULWINNING KJB church"
   },
   {
     "id": "3516",
@@ -4511,12 +4511,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS GOMEZ. 4206 WILLIAMS DAIRY RD GREENSBORO NC 27406 KJB church."
+    "description": "GREENSBORO NC 27406 KJB church"
   },
   {
     "id": "3517",
     "name": "NEW LIFE BAPTIST CHURCH",
-    "address": "614 S 11TH ST",
+    "address": "27405 CORNER OF BOST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4529,7 +4529,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA SYKES. 614 S 11TH ST BESSEMER NC 27405 CORNER OF BOSTON & 11TH SS 945,SM 830 & 11,SN 6,W 7 NEW LIFE BIBLE COLLEGE & SEMINARY 416 ROAD ST EXT COLUMBIA NC 27925 EDENTON AREA SS 10,SN 11,SN 6,W 7 KJB church."
+    "description": "614 S 11TH ST BESSEMER NC ON & 11TH SS 945,SM 830 & 11,SN 6,W 7 NEW LIFE BIBLE COLLEGE & SEMINARY 416 ROAD ST EXT COLUMBIA NC 27925 EDENTON AREA SS 10,SN 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3518",
@@ -4548,7 +4548,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID GROGAN. 2224 SATTERWHITE CIR GRANITE FALLS NC 28630 SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "GRANITE FALLS NC 28630 SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "3519",
@@ -4566,12 +4566,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY L JOHNSON. 11972 E NC 97 HWY ROCKY MOUNT NC 27803 SS 945,SM 11,SN 630,W 730 KJB church."
+    "description": "11972 E NC 97 HWY ROCKY MOUNT NC 27803 SS 945,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "3520",
     "name": "MARLER ROAD BAPTIST CHURCH",
-    "address": "4433 COLLINS RD",
+    "address": "141 BROADLEAF RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4584,7 +4584,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TED ASCHENBRAND. 4433 COLLINS RD HAMPTONVILLE NC 27020 SS 10,SM 11,SN 6,W 7 141 BROADLEAF RD REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, AUDIO SERMONS 1404 W VANDALIA RD GREENSBORO NC 27406 KJB church."
+    "description": "HAMPTONVILLE NC 27020 SS 10,SM 11,SN 6,W 7 REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, AUDIO SERMONS 1404 W VANDALIA RD GREENSBORO NC 27406 KJB church"
   },
   {
     "id": "3521",
@@ -4602,7 +4602,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK MCCORQUODALE. 1637 CHAPELWOOD RD DENTON NC 27292 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DENTON NC 27292 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3522",
@@ -4620,7 +4620,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN MATHIS. 3911 MCCONNELL RD GREENSBORO NC 27406 VIDEO SERMONS SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "GREENSBORO NC 27406 VIDEO SERMONS SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3523",
@@ -4639,7 +4639,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK FOSTER. PO BOX 1714 107 RANGE RD KINGS MOUNTAIN NC 28086 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 477 834 US HWY 17 S HOLLY RIDGE NC 28445 SS 10, SM 11, SN 630, W 730, TH SW 715, SW SAT 10 MASTERS CLUB,"
+    "description": "PO BOX 1714 KINGS MOUNTAIN NC 28086 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 477 834 US HWY 17 S HOLLY RIDGE NC 28445 SS 10, SM 11, SN 630, W 730, TH SW 715, SW SAT 10 MASTERS CLUB"
   },
   {
     "id": "3524",
@@ -4658,7 +4658,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WILLIAM DEWAYNE BUCHANAN. 2178 DERBY RD ELLERBE NC 28338 KJB, UNAFFILIATED"
+    "description": "ELLERBE NC 28338 KJB, UNAFFILIATED"
   },
   {
     "id": "3525",
@@ -4677,12 +4677,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBERT S HOYLE. 2848 RUTHERFORD COLLEGE RD CONNELLY SPRINGS NC 28612 PHYSICAL ADD: 707 E PARKER RD, MORGANTON NC 28655 SS 945,SM 11,SN 6,W 7 BUS, CHOIR, PRISON, CHOIR, FLEA MARKET, FT BRAGG KJB, UNAFFILIATED"
+    "description": "CONNELLY SPRINGS NC 28612 PHYSICAL ADD: 707 E PARKER RD, MORGANTON NC 28655 SS 945,SM 11,SN 6,W 7 BUS, CHOIR, PRISON, CHOIR, FLEA MARKET, FT BRAGG KJB, UNAFFILIATED"
   },
   {
     "id": "3526",
     "name": "LITTLE RIVER INDEPENDENT BAPTIST CHURCH",
-    "address": "741 WHEELESS RD",
+    "address": "602 CANTERBURY RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4696,7 +4696,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIM OGLE. 741 WHEELESS RD SPRING LAKE NC 28390 SS 10,SM 11,SN 6,W 7 KJB,AMBASSADOR-BC 602 CANTERBURY RD KINGS MOUNTAIN NC 28086 SM AM 845,SS 10,SM 11,W 7 523 N CHARLES ST MEBANE NC 27302 SS 945,SM 11,SN 6,W 7"
+    "description": "SPRING LAKE NC 28390 SS 10,SM 11,SN 6,W 7 KJB,AMBASSADOR-BC KINGS MOUNTAIN NC 28086 SM AM 845,SS 10,SM 11,W 7 523 N CHARLES ST MEBANE NC 27302 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "3527",
@@ -4714,7 +4714,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICKY EASTER. PO BOX 592 475 J P TAYLOR RD HENDERSON NC 27536 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS, RADIO; VICTORY CHRISTIAN SCHOOL, K2-12,1-6 ABEKA, 7-12 ACE; PO BOX 535 1660 SHOTWELL RD CLAYTON NC 27520 SS 10,SM  KJB church."
+    "description": "PO BOX 592 HENDERSON NC 27536 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS, RADIO; VICTORY CHRISTIAN SCHOOL, K2-12,1-6 ABEKA, 7-12 ACE; PO BOX 535 1660 SHOTWELL RD CLAYTON NC 27520 SS 10,SM KJB church"
   },
   {
     "id": "3528",
@@ -4732,12 +4732,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HILDEBRAND. PO BOX 5444 2310 COLLETTSVILLE RD LENOIR NC 28645 SS 945,SM 11,SN 6,W 7 PO BOX 301 207 E SOUND RD HOLLY RIDGE NC 28445 SS 10,SM 11,SN 6,W 7 CAMP LEJEUNE 1000 W MAIN ST CARRBORO NC 27510 301 RAINBOW DR KJB church."
+    "description": "PO BOX 5444 LENOIR NC 28645 SS 945,SM 11,SN 6,W 7 PO BOX 301 207 E SOUND RD HOLLY RIDGE NC 28445 SS 10,SM 11,SN 6,W 7 CAMP LEJEUNE 1000 W MAIN ST CARRBORO NC 27510 301 RAINBOW DR KJB church"
   },
   {
     "id": "3529",
     "name": "VERNON FOREST BAPTIST CHURCH",
-    "address": "274 MT VERNON CHURCH RD",
+    "address": "274 MT VERNON CHURCH RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4750,12 +4750,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES M FARTHING. 274 MT VERNON CHURCH RD WINSTON SALEM NC 27107 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church."
+    "description": "ON SALEM NC 27107 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "3530",
     "name": "HILLCREST BAPTIST CHURCH",
-    "address": "219 GWEN RD",
+    "address": "1611 LOCUST AVE WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4769,12 +4769,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREGORY DENNIS. 219 GWEN RD HILLSBOROUGH NC 27278 SS 10, SM 11, SN 5, W 7 Part 7 KJB, PIEDMONT-BC 1611 LOCUST AVE WINSTON-SALEM NC 27105 AUDIO SERMONS KJB, BBF"
+    "description": "HILLSBOROUGH NC 27278 SS 10, SM 11, SN 5, W 7 Part 7 KJB, PIEDMONT-BC ON-SALEM NC 27105 AUDIO SERMONS KJB, BBF"
   },
   {
     "id": "3531",
     "name": "DUTCHMAN CREEK BAPTIST CHURCH",
-    "address": "182 LINWOOD DR",
+    "address": "175 YOUNG MOUNTAIN RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4789,7 +4789,7 @@ export const northcarolinaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by STEVE PACE. PO BOX 416 5679 NC HWY 801 S MOCKSVILLE NC 27028 182 LINWOOD DR MOORESVILLE NC 28115 SS 10,SM 11,SN 6,W 7 PO BOX 463 175 YOUNG MOUNTAIN RD CLEVELAND NC 27013 SS 10,SM 11,SN 6,W 730 1074 MIDWAY RD STAT KJB church."
+    "description": "PO BOX 416 5679 NC HWY 801 S MOCKSVILLE NC 27028 MOORESVILLE NC 28115 SS 10,SM 11,SN 6,W 7 PO BOX 463 CLEVELAND NC 27013 SS 10,SM 11,SN 6,W 730 1074 MIDWAY RD STAT KJB church"
   },
   {
     "id": "3532",
@@ -4807,12 +4807,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE CANNADA. WEDDINGTON NC 28111 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS & MUSIC KJB church."
+    "description": "WEDDINGTON NC 28111 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS & MUSIC KJB church"
   },
   {
     "id": "3533",
     "name": "CRESTVIEW MISSIONARY BAPTIST CHURCH",
-    "address": "1975 UNION CROSS RD",
+    "address": "1975 UNION CROSS RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4827,7 +4827,7 @@ export const northcarolinaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by TOMMY CARLISLE. PO BOX 12562 1975 UNION CROSS RD WINSTON SALEM NC 27117-2562 SS945,SM 11,SN 6,W 730 AUDIO SERMONS KJB, BBF 2501 STAMEY COVE RD WAYNESVILLE NC 28786 SS 950,SM 11,SN 630,W 730 AUDIO SERMONS"
+    "description": "PO BOX 12562 ON SALEM NC 27117-2562 SS945,SM 11,SN 6,W 730 AUDIO SERMONS KJB, BBF 2501 STAMEY COVE RD WAYNESVILLE NC 28786 SS 950,SM 11,SN 630,W 730 AUDIO SERMONS"
   },
   {
     "id": "3534",
@@ -4845,12 +4845,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY BLALOCK. 3164 EXODUS CHURCH RD US HWY 321 MAIDEN NC 28650 SS 10,.SM 11,SN 6,W 7 4530 W WENDOVER AVE GREENSBORO NC 27410 SS 10,SM 11,SN 6,W 730 PO BOX 6312 985 1/2 PATTON AVE # H ASHEVILLE NC 28816 SS 945,SM 11 KJB church."
+    "description": "US HWY 321 MAIDEN NC 28650 SS 10,.SM 11,SN 6,W 7 4530 W WENDOVER AVE GREENSBORO NC 27410 SS 10,SM 11,SN 6,W 730 PO BOX 6312 985 1/2 PATTON AVE # H ASHEVILLE NC 28816 SS 945,SM 11 KJB church"
   },
   {
     "id": "3535",
     "name": "BETHELBAPTISTCHURCH",
-    "address": "1365 OLD MOUNTAIN RD",
+    "address": "1365 OLD MOUNTAIN RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4864,12 +4864,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEVIN COURTNEY. 1365 OLD MOUNTAIN RD STATESVILLE NC 28677 KJB,CROWN 9360 OAK GROVE RD STANFIELD NC 28163 SS 10,SM 11,SN 6,W 7 KIDS CLUBS, CHOIR, AUDIO SERMONS 3383 GAITHER WALKER CIR LENOIR NC 28645"
+    "description": "ATESVILLE NC 28677 KJB,CROWN 9360 OAK GROVE RD STANFIELD NC 28163 SS 10,SM 11,SN 6,W 7 KIDS CLUBS, CHOIR, AUDIO SERMONS 3383 GAITHER WALKER CIR LENOIR NC 28645"
   },
   {
     "id": "3536",
     "name": "SHELDON ROAD BAPTIST CHURCH",
-    "address": "2008 SHELDON RD",
+    "address": "148 GRACE BAPTIST DR",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4877,13 +4877,13 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -80.9601,
     "phone": "(336) 621-1206",
     "website": "http://tbclenoir.org",
-    "pastor": "WAYNE MATHESON",
+    "pastor": "HAYESVILLE NC 28904 SS 10,SM 11,SN 7,W 7 1306 NW OLD NORTH RD LENOIR NC 28645 MASTERS CLUB, TEENS, AUDIO SERMONS",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by WAYNE MATHESON. 2008 SHELDON RD GREENSBORO NC 27405 KJB, HAC 148 GRACE BAPTIST DR HAYESVILLE NC 28904 SS 10,SM 11,SN 7,W 7 1306 NW OLD NORTH RD LENOIR NC 28645 MASTERS CLUB, TEENS, AUDIO SERMONS"
+    "description": "GREENSBORO NC 27405 KJB, HAC HAYESVILLE NC 28904 SS 10,SM 11,SN 7,W 7 1306 NW OLD NORTH RD LENOIR NC 28645 MASTERS CLUB, TEENS, AUDIO SERMONS"
   },
   {
     "id": "3537",
@@ -4901,7 +4901,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK HOLLOWAY.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3538",
@@ -4920,12 +4920,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHAD BENEFIELD. 1124 HANFORD RD GRAHAM NC 27253 SS 945,SM 11,SN 6 KJB church."
+    "description": "GRAHAM NC 27253 SS 945,SM 11,SN 6 KJB church"
   },
   {
     "id": "3539",
     "name": "NEW BEGINNINGS BAPTIST CHURCH",
-    "address": "1319 GRILES ST",
+    "address": "278 VICTORY CHURCH RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -4938,7 +4938,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH MCGAHA. PO BOX 3192 1319 GRILES ST ROXBORO NC 27573 SS 10,SM 11,SN 6,W 7 278 VICTORY CHURCH RD SYLVA NC 28779 RR 2 HWY 441 SS 10,SM 11,SN 6,W 7 VICTORY CHRISTIAN SCHOOL K5-12 REFORMERS UNANIMOUS, AWANA, TEENS KJB church."
+    "description": "PO BOX 3192 ROXBORO NC 27573 SS 10,SM 11,SN 6,W 7 SYLVA NC 28779 RR 2 HWY 441 SS 10,SM 11,SN 6,W 7 VICTORY CHRISTIAN SCHOOL K5-12 REFORMERS UNANIMOUS, AWANA, TEENS KJB church"
   },
   {
     "id": "3540",
@@ -4947,8 +4947,8 @@ export const northcarolinaChurches: Church[] = [
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
-    "latitude": 36.6122,
-    "longitude": -80.5162,
+    "latitude": 35.8713,
+    "longitude": -77.5878,
     "phone": "(336) 951-0076",
     "website": "https://www.facebook.com/Maplelawnbaptist",
     "pastor": "BILL WATSON",
@@ -4956,7 +4956,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL WATSON. 5401 NC HWY 65 REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "5401 NC HWY 65 REIDSVILLE NC 27320 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3541",
@@ -4974,7 +4974,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CODY ZORN. 324 LITTLE MOUNTAIN CHURCH RD ARARAT NC 27007 SS 10,SM 11,SN 6,W 730 VIDEO SERMONS, RADIO KJB church."
+    "description": "ARARAT NC 27007 SS 10,SM 11,SN 6,W 730 VIDEO SERMONS, RADIO KJB church"
   },
   {
     "id": "3542",
@@ -4992,7 +4992,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICKY LEWIS. 11360 OLD CONCORD RD ROCKWELL NC 28138 SS 10,SM 11,SN 6,W 7 RADIO; CITY OF REFUGE CHRISTIAN SCHOOL K-12; BIBLE MISSIONARY BIBLE BAPTIST COLLEGE KJB church."
+    "description": "ROCKWELL NC 28138 SS 10,SM 11,SN 6,W 7 RADIO; CITY OF REFUGE CHRISTIAN SCHOOL K-12; BIBLE MISSIONARY BIBLE BAPTIST COLLEGE KJB church"
   },
   {
     "id": "3543",
@@ -5011,7 +5011,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by SAM MILLS. 512 WICKER ST BURLINGTON NC 27217 830 CHOATE RD SALISBURY NC 28146 SS 945,SM 11,SN 6,W 7 KINGS KIDS, FLYERS CLUBS, RADIO, AUDIO SERMONS KJB church."
+    "description": "BURLINGTON NC 27217 830 CHOATE RD SALISBURY NC 28146 SS 945,SM 11,SN 6,W 7 KINGS KIDS, FLYERS CLUBS, RADIO, AUDIO SERMONS KJB church"
   },
   {
     "id": "3544",
@@ -5030,7 +5030,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TRAVIS HOWARD. 4334 LAKE WOSSICKETT RD GERMANTON NC 27019 SS 10,SM 1015,SN 6,W 715 JAIL, RESCUE, AWANA, RADIO, BUS, TEEN, VIDEO SERMONS PO BOX 217 1520 HINSDALE RD WALNUT COVE NC 27052 SS 10,SM 11,SN 6,W 7 KJV, BBF, KJB church."
+    "description": "GERMANTON NC 27019 SS 10,SM 1015,SN 6,W 715 JAIL, RESCUE, AWANA, RADIO, BUS, TEEN, VIDEO SERMONS PO BOX 217 1520 HINSDALE RD WALNUT COVE NC 27052 SS 10,SM 11,SN 6,W 7 KJV, BBF, KJB church"
   },
   {
     "id": "3545",
@@ -5048,12 +5048,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY DEITZ. 288 ACORN RIDGE RD ROBBINS NC 27325 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ROBBINS NC 27325 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3546",
     "name": "TEMPLE INDEPENDENT BAPTIST CHURCH",
-    "address": "201 E 12TH ST",
+    "address": "159 KLOPMAN MILL RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5061,13 +5061,13 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -80.4026,
     "phone": "(704) 932-9736",
     "website": "https://www.tbckannapolis.com",
-    "pastor": "GERALD WARD",
+    "pastor": "BURLINGTON NC 27216 SS 10,SM 11,SN 6 1029 BLAIR ST THOMASVILLE NC 27360 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GERALD WARD. 201 E 12TH ST KANNAPOLIS NC 28083 159 KLOPMAN MILL RD DENTON NC 27239 SS 945,SM 11,SN 630,W 7 PO BOX 1403 2733 KIRKWOOD DR BURLINGTON NC 27216 SS 10,SM 11,SN 6 1029 BLAIR ST THOMASVILLE NC 27360 KJB church."
+    "description": "201 E 12TH ST KANNAPOLIS NC 28083 DENTON NC 27239 SS 945,SM 11,SN 630,W 7 PO BOX 1403 2733 KIRKWOOD DR BURLINGTON NC 27216 SS 10,SM 11,SN 6 1029 BLAIR ST THOMASVILLE NC 27360 KJB church"
   },
   {
     "id": "3547",
@@ -5085,12 +5085,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON BOGER. 407 SPRUCE ST LEXINGTON NC 27292 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church."
+    "description": "LEXINGTON NC 27292 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "3548",
     "name": "NORTHMONT BAPTIST CHURCH",
-    "address": "117 BRADLEY FARM RD",
+    "address": "117 BRADLEY FARM RD ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5106,7 +5106,7 @@ export const northcarolinaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by LANE ROARK. 117 BRADLEY FARM RD STATESVILLE NC 28625 SS 10, SM 11, SN 6, WN 7 LIVESTREAM ON YOUTUBE, PREMIL, PRETRIB, TRADITIONAL MUSIC, STREET PREACHING, SOULWINNING PO BOX 166 MILLERS CREEK NC 28651 1714 N OLD  KJB church."
+    "description": "ATESVILLE NC 28625 SS 10, SM 11, SN 6, WN 7 LIVESTREAM ON YOUTUBE, PREMIL, PRETRIB, TRADITIONAL MUSIC, STREET PREACHING, SOULWINNING PO BOX 166 MILLERS CREEK NC 28651 1714 N OLD KJB church"
   },
   {
     "id": "3549",
@@ -5124,7 +5124,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN ORR. 873 HWY 22 S RAMSEUR NC 27316 SS 10,SM 11,1ST & 3RD SN 6,W 7 KJB church."
+    "description": "873 HWY 22 S RAMSEUR NC 27316 ,SM 11,1ST & 3RD SN 6,W 7 KJB church"
   },
   {
     "id": "3550",
@@ -5143,7 +5143,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICK SHOEMAKER. PO BOX 701 670 HUGHES BRANCH RD BRYSON CITY NC 28713 SS 10,SM 11,SN 6,W 7 4706 COLTRANE ST TRINITY NC 27370 SS 10,SM 11,SN 6,W 730 AUDIO & TEXT SERMONS KJB, UNAFFILIATED"
+    "description": "PO BOX 701 BRYSON CITY NC 28713 SS 10,SM 11,SN 6,W 7 4706 COLTRANE ST TRINITY NC 27370 SS 10,SM 11,SN 6,W 730 AUDIO & TEXT SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3551",
@@ -5162,7 +5162,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WAITSEL BEARD. 4314 REHOBETH CHURCH RD GREENSBORO NC 27406 SS 945,SM 11,SN 6,W 7 LENOIR NC 28645 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2515 E INNES ST SALISBURY NC 28146 SS 945,SM 11,SN 6,W 7 MASTERS CLUBS, PROPHET"
+    "description": "GREENSBORO NC 27406 SS 945,SM 11,SN 6,W 7 LENOIR NC 28645 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2515 E INNES ST SALISBURY NC 28146 SS 945,SM 11,SN 6,W 7 MASTERS CLUBS, PROPHET"
   },
   {
     "id": "3552",
@@ -5180,12 +5180,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD ELLEGE. PO BOX 43226 6744 VIEW WAY DR CHARLOTTE NC 28215 SS 945,SM 11,SN 630, W 630 KJB church."
+    "description": "PO BOX 43226 CHARLOTTE NC 28215 SS 945,SM 11,SN 630, W 630 KJB church"
   },
   {
     "id": "3553",
     "name": "LEICESTER BAPTIST CHURCH",
-    "address": "18 TONY LUNSFORD DR",
+    "address": "18 TONY LUNSFORD DR LEICEST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5198,7 +5198,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED KUYKENDALL. 18 TONY LUNSFORD DR LEICESTER NC 28748 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "ER NC 28748 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "3554",
@@ -5216,12 +5216,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT MCGRATH. 3754 WEST DIXON BLVD SHELBY NC 28150 SM 930,SS 1015,2ND SM 11, W 7 KJB church."
+    "description": "SHELBY NC 28150 SM 930,SS 1015,2ND SM 11, W 7 KJB church"
   },
   {
     "id": "3555",
     "name": "STARMOUNT BAPTIST CHURCH",
-    "address": "1800 SHADY LN",
+    "address": "2605 SOUTHEAST BLVD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5234,7 +5234,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE PAGE. 1800 SHADY LN NEWTON NC 28658 SS 10,SM 11,SN 6,W 7 2605 SOUTHEAST BLVD CLINTON NC 28328 SS 930,SM 1030,SN 530,W 7 KJB church."
+    "description": "NEWTON NC 28658 SS 10,SM 11,SN 6,W 7 CLINTON NC 28328 SS 930,SM 1030,SN 530,W 7 KJB church"
   },
   {
     "id": "3556",
@@ -5252,7 +5252,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM HUFFMAN. 3201 N MAIN ST HIGH POINT NC 27265 SS 945,SM 11,SN 6 CHOIR, AWANA KJB church."
+    "description": "HIGH POINT NC 27265 SS 945,SM 11,SN 6 CHOIR, AWANA KJB church"
   },
   {
     "id": "3557",
@@ -5270,7 +5270,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN QUROLLO. 1013 OLD THOMASVILLE RD HIGH POINT NC 27260 KJB church."
+    "description": "HIGH POINT NC 27260 KJB church"
   },
   {
     "id": "3558",
@@ -5289,7 +5289,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DANIEL PEEDE. 201 BELIEVERS WAY MORGANTON NC 28655 SS 10, SM 11, SN 6, W7 KINGS KIDS, SOULWINNING, TEENS, NURSERY, JUNIOR CHURCH; MORGANTON CHRISTIAN ACADEMY, P1-12, NCCSA,  ABEKA, BJU PRESS; KJB church."
+    "description": "MORGANTON NC 28655 SS 10, SM 11, SN 6, W7 KINGS KIDS, SOULWINNING, TEENS, NURSERY, JUNIOR CHURCH; MORGANTON CHRISTIAN ACADEMY, P1-12, NCCSA, ABEKA, BJU PRESS; KJB church"
   },
   {
     "id": "3559",
@@ -5307,7 +5307,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE HILL. 1300 GOLDROCK RD ROCKY MOUNT NC 27804 AUDIO SERMONS KJB church."
+    "description": "ROCKY MOUNT NC 27804 AUDIO SERMONS KJB church"
   },
   {
     "id": "3560",
@@ -5325,12 +5325,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON ASHLEY. 9082 US HWY 311 HIGH POINT NC 27263 SS 945,SM 1045,SN 6,W 645 AUDIO SERMONS KJB church."
+    "description": "9082 US HWY 311 HIGH POINT NC 27263 SS 945,SM 1045,SN 6,W 645 AUDIO SERMONS KJB church"
   },
   {
     "id": "3561",
     "name": "LIBERTY ROAD BAPTIST CHURCH",
-    "address": "2179 WOW RD",
+    "address": "PO BOX 19122",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5344,7 +5344,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAY TRIPP. 2179 WOW RD RANDLEMAN NC 27317 ASHEBORO AREA SS 10,SM 11,SN 7,W 7 RR 6 BOX 290K GREENVILLE NC 27834 2523 FLOYD HARRIS RD VIDEO SERMONS 311 HARDIN CIR GROVER NC 28073 Part 8 BUNN NC  27508 PO BOX 19122 KJB church."
+    "description": "2179 WOW RD RANDLEMAN NC 27317 ASHEBORO AREA SS 10,SM 11,SN 7,W 7 RR 6 BOX 290K GREENVILLE NC 27834 2523 FLOYD HARRIS RD VIDEO SERMONS 311 HARDIN CIR GROVER NC 28073 Part 8 BUNN NC 27508 KJB church"
   },
   {
     "id": "3562",
@@ -5362,7 +5362,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JEFF MCCANN. 201 NC HWY 62 GREENSBORO NC 27406 21 NC HWY 62 E"
+    "description": "201 NC HWY 62 GREENSBORO NC 27406 21 NC HWY 62 E"
   },
   {
     "id": "3563",
@@ -5380,7 +5380,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DWAYNE A MCDANIEL. 1049 W R LANE BURLINGTON NC 27215 SS 10,SM 11,W 730 114 N HIGH ST EDEN NC 27288 SS 10,SM 11,SN 6, W 7 PO BOX 535 4801 PLEASANT GARDEN RD PLEASANT GARDEN NC 27313 SM 1045,W 7 BBF church."
+    "description": "BURLINGTON NC 27215 SS 10,SM 11,W 730 114 N HIGH ST EDEN NC 27288 SS 10,SM 11,SN 6, W 7 PO BOX 535 4801 PLEASANT GARDEN RD PLEASANT GARDEN NC 27313 SM 1045,W 7 BBF church"
   },
   {
     "id": "3564",
@@ -5398,12 +5398,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by SAM ROBBINS. 1613 E HOLLY ST GOLDSBORO NC 27530-3125 SEYMOUR JOHNSON AFB"
+    "description": "GOLDSBORO NC 27530-3125 SEYMOUR JOHNSON AFB"
   },
   {
     "id": "3565",
     "name": "CHARITY INDEPENDENT BAPTIST CHURCH",
-    "address": "2425 HILLMONT ST",
+    "address": "2425 HILLMONT ST GAST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5416,12 +5416,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by UNKNOWN. 2425 HILLMONT ST GASTONIA NC 28052 SS 945,SM 11,SN 6,W 7 Independent church."
+    "description": "ONIA NC 28052 SS 945,SM 11,SN 6,W 7 Independent church"
   },
   {
     "id": "3566",
     "name": "HOUSTON BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 366",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5434,7 +5434,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WILLIAM ROUPE. 4405 WAXHAW HWY MONROE NC 28112 PO BOX 366 MINERAL SPRINGS NC 28108"
+    "description": "4405 WAXHAW HWY MONROE NC 28112 MINERAL SPRINGS NC 28108"
   },
   {
     "id": "3567",
@@ -5452,7 +5452,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JAMIE LEWIS. BOX 7129 1225 RAMSEY RD JACKSONVILLE NC 28540 CAMP LEJEUNE"
+    "description": "BOX 7129 JACKSONVILLE NC 28540 CAMP LEJEUNE"
   },
   {
     "id": "3568",
@@ -5470,7 +5470,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CLAUDE NICHOLSON. 5160 SUMMIT RD PURLEAR NC 28665"
+    "description": "PURLEAR NC 28665"
   },
   {
     "id": "3569",
@@ -5488,7 +5488,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DOUGLAS A SMITH. 179 MACEDONIA CHURCH RD SALUDA NC 28773 LAKE TOXAWAY Area BBF church."
+    "description": "SALUDA NC 28773 LAKE TOXAWAY Area BBF church"
   },
   {
     "id": "3570",
@@ -5506,7 +5506,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BUDDY WRIGHT. 2506 STANLEY RD GREENSBORO NC 27407 2500 STANLEY RD PO BOX 130 522 W HILL AVE N HILLSBOROUGH NC 27278 1251 FAY HART RD FAYETTEVILLE NC 28348 BBF church."
+    "description": "GREENSBORO NC 27407 2500 STANLEY RD PO BOX 130 522 W HILL AVE N HILLSBOROUGH NC 27278 1251 FAY HART RD FAYETTEVILLE NC 28348 BBF church"
   },
   {
     "id": "3571",
@@ -5524,7 +5524,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "122 EDDIE L JONES RD IVANHOE NC 28447"
+    "description": "IVANHOE NC 28447"
   },
   {
     "id": "3572",
@@ -5542,12 +5542,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD BENEFIELD. PO BOX 3192 1319 GRILES ST ROXBORO NC 27573 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 3192 ROXBORO NC 27573 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3573",
     "name": "NEW BEGINNING BAPTIST CHURCH",
-    "address": "29 MARLOWE DR",
+    "address": "29 MARLOWE DR ARD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5555,12 +5555,12 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -79.7721,
     "phone": "(828) 891-6687",
     "website": "https://www.facebook.com/NBBC.Admin",
-    "pastor": "CALVIN MILLS",
+    "pastor": "HENDERSON NC 27536 SS 10,SM 11,SN 6,W 7 1150 CHARITY CHURCH",
     "category": "Soulwinning",
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by CALVIN MILLS. PO BOX 1303 29 MARLOWE DR ARDEN NC 28704 PHYSICAL ADD: 29 MARLOWE DR, MILLS RIVER NC SS 930,SM 1030,SN 5,W 7 SOULWINNING 1820 S CLEARVIEW DR HENDERSON NC 27536 SS 10,SM 11,SN 6,W 7 1150 CHARITY CHURCH"
+    "description": "PO BOX 1303 EN NC 28704 PHYSICAL ADD: 29 MARLOWE DR, MILLS RIVER NC SS 930,SM 1030,SN 5,W 7 SOULWINNING 1820 S CLEARVIEW DR HENDERSON NC 27536 SS 10,SM 11,SN 6,W 7 1150 CHARITY CHURCH"
   },
   {
     "id": "3574",
@@ -5578,7 +5578,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WILLIAM BRATTON. MILLERS CREEK NC 28651 350 S HOLINESS RD (PASTOR) WILKESBORO NC 28697"
+    "description": "MILLERS CREEK NC 28651 WILKESBORO NC 28697"
   },
   {
     "id": "3575",
@@ -5596,7 +5596,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "309 CLARA AVE MONROE NC 28112"
+    "description": "MONROE NC 28112"
   },
   {
     "id": "3576",
@@ -5632,12 +5632,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JOE LONG. 1067 CHARLIE THOMPSON RD VILAS NC 28692"
+    "description": "VILAS NC 28692"
   },
   {
     "id": "3578",
     "name": "PLEASANT FORK BAPTIST CHURCH",
-    "address": "1412 PLEASANT FORK CHURCH RD",
+    "address": "1412 PLEASANT FORK CHURCH RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5645,18 +5645,18 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -80.1169,
     "phone": "(336) 785-2536",
     "website": "https://www.esbcstatesville.com",
-    "pastor": "JON ACKER",
+    "pastor": "STATESVILLE NC 28677 SS 945,SM 11,SN 6,W 7 Non-KJV church",
     "category": "Non-KJV",
     "affiliation": [
       "Non-KJV",
       "SBC"
     ],
-    "description": "Led by JON ACKER. 1412 PLEASANT FORK CHURCH RD WINSTON SALEM NC 27127 310 EASTSIDE DR STATESVILLE NC 28677 SS 945,SM 11,SN 6,W 7 Non-KJV church."
+    "description": "ON SALEM NC 27127 310 EASTSIDE DR STATESVILLE NC 28677 SS 945,SM 11,SN 6,W 7 Non-KJV church"
   },
   {
     "id": "3579",
     "name": "GETHSEMANE BAPTIST CHURCH",
-    "address": "115 GETHSEMANE RD",
+    "address": "28660 GETHSEMANE CHRIST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5669,12 +5669,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by FRED SHOEMAKER. 115 GETHSEMANE RD OLIN NC 28660 GETHSEMANE CHRISTIAN ACADEMY, K-12, ACE"
+    "description": "OLIN NC IAN ACADEMY, K-12, ACE"
   },
   {
     "id": "3580",
     "name": "HILLSIDE BAPTIST CHURCH",
-    "address": "115 CALDWELL FARM LN",
+    "address": "115 CALDWELL FARM LN ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5687,7 +5687,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "115 CALDWELL FARM LN STATESVILLE NC 28677 Non-KJV church."
+    "description": "ATESVILLE NC 28677 Non-KJV church"
   },
   {
     "id": "3581",
@@ -5705,7 +5705,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by HUGHFOY. 2914 E MARKET ST GREENSBORO NC 27406"
+    "description": "GREENSBORO NC 27406"
   },
   {
     "id": "3582",
@@ -5723,7 +5723,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW JONES. 6321 ROBINSON CHURCH RD CHARLOTTE NC 28215-4033 Part 9 NOT KJV ONLY,BJU 3106 S HOLDEN RD GREENSBORO NC 27407 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BJU 6551 WEANT RD ARCHDALE NC 27263 SS 930,SM 1030,SN 6, KJB church."
+    "description": "CHARLOTTE NC 28215-4033 Part 9 NOT KJV ONLY,BJU 3106 S HOLDEN RD GREENSBORO NC 27407 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BJU 6551 WEANT RD ARCHDALE NC 27263 SS 930,SM 1030,SN 6, KJB church"
   },
   {
     "id": "3583",
@@ -5742,7 +5742,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN PRITCHARD. NOT KJV ONLY 10310 DURHAM RD TIMBERLAKE NC 27583 NOT KJV ONLY KJB church."
+    "description": "NOT KJV ONLY TIMBERLAKE NC 27583 NOT KJV ONLY KJB church"
   },
   {
     "id": "3584",
@@ -5760,7 +5760,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN FARRELL. 106 CLOVERDALE DR ARCHDALE NC 27263 NOT KJV ONLY,BJU,AMBASSADOR-BC KJB church."
+    "description": "ARCHDALE NC 27263 NOT KJV ONLY,BJU,AMBASSADOR-BC KJB church"
   },
   {
     "id": "3585",
@@ -5778,12 +5778,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID HARMOND. RR 14 BOX 2457 600 REEDY CREEK BC RD LEXINGTON NC 27292"
+    "description": "RR 14 BOX 2457 LEXINGTON NC 27292"
   },
   {
     "id": "3586",
     "name": "MT GILEAD BAPTIST CHURCH",
-    "address": "910 PINEY RIDGE RD",
+    "address": "910 PINEY RIDGE RD FOREST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5798,7 +5798,7 @@ export const northcarolinaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JAMES HOLLANDSWORTH. RR 6 BOX 24 2545 NC HWY 561 LOUISBURG NC 27549 910 PINEY RIDGE RD FOREST CITY NC 28043 NOT KJV ONLY, BJU PO BOX 831 2012 S MADISON ST WHITEVILLE NC 28472 SS 945,SM 11,SN 6 PREACH KJV, STUDY OTHERS, BB KJB church."
+    "description": "RR 6 BOX 24 2545 NC HWY 561 LOUISBURG NC 27549 CITY NC 28043 NOT KJV ONLY, BJU PO BOX 831 2012 S MADISON ST WHITEVILLE NC 28472 SS 945,SM 11,SN 6 PREACH KJV, STUDY OTHERS, BB KJB church"
   },
   {
     "id": "3587",
@@ -5816,12 +5816,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by D E TWIGG. 5428 NC 211 LUMBERTON NC 28358 SS 945,SM 11,W 630 PREACH-KJV, STUDY-NASV, FBF KJB church."
+    "description": "5428 NC 211 LUMBERTON NC 28358 SS 945,SM 11,W 630 PREACH-KJV, STUDY-NASV, FBF KJB church"
   },
   {
     "id": "3588",
     "name": "SHADOW RIDGE BAPTIST CHURCH",
-    "address": "3400 AVENT FERRY RD",
+    "address": "1400 RETIREMENT CENTER MINIST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5834,7 +5834,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN DAVEY. 3400 AVENT FERRY RD HOLLY SPRINGS NC 27540 SM 1030, SUN 1400 RETIREMENT CENTER MINISTRY NOT KJV ONLY, ABWE, PROMISE KEEPERS, KJB church."
+    "description": "HOLLY SPRINGS NC 27540 SM 1030, SUN RY NOT KJV ONLY, ABWE, PROMISE KEEPERS, KJB church"
   },
   {
     "id": "3589",
@@ -5852,12 +5852,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE MORRISON. 6750 TRYON RD RALEIGH NC 27511 AUDIO & TEXT SERMONS FALWELL, BJU, PK, NOT KJV ONLY KJB church."
+    "description": "RALEIGH NC 27511 AUDIO & TEXT SERMONS FALWELL, BJU, PK, NOT KJV ONLY KJB church"
   },
   {
     "id": "3590",
     "name": "AGAPE BAPTIST CHURCH",
-    "address": "1451 MEBANE OAKS RD",
+    "address": "1330 BURNETTES CHAPEL RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5871,7 +5871,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS DAVIS. 1451 MEBANE OAKS RD MEBANE NC 27302 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY 1330 BURNETTES CHAPEL RD GREENSBORO NC 27410 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, UNAFFILIATED KJB church."
+    "description": "MEBANE NC 27302 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY GREENSBORO NC 27410 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, UNAFFILIATED KJB church"
   },
   {
     "id": "3591",
@@ -5889,7 +5889,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL MARTIN. 4520 N TRYON ST CHARLOTTE NC 28213 SS 10,SM 11,SA 3, W-NA PREACH KJV, NOT KJV ONLY, PIEDMONT-BC KJB church."
+    "description": "CHARLOTTE NC 28213 SS 10,SM 11,SA 3, W-NA PREACH KJV, NOT KJV ONLY, PIEDMONT-BC KJB church"
   },
   {
     "id": "3592",
@@ -5907,12 +5907,12 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN UIT DE FLESCH. 2919 HUFFINE MILL RD GIBSONVILLE NC 27249 SS 10,SM 11,SN 6,W 7 HUFFINE MILL SCHOOL, K-12 NOT KJV ONLY, SKJV PO BOX 668472 7700 TUCKASEEGEE RD CHARLOTTE NC 28266 NOT KJV ONLY,CCM PO BOX 256 125 N ACADE KJB church."
+    "description": "GIBSONVILLE NC 27249 SS 10,SM 11,SN 6,W 7 HUFFINE MILL SCHOOL, K-12 NOT KJV ONLY, SKJV PO BOX TUCKASEEGEE RD CHARLOTTE NC 28266 NOT KJV ONLY,CCM PO BOX 256 125 N ACADE KJB church"
   },
   {
     "id": "3593",
     "name": "BAPTIST TEMPLE",
-    "address": "2224 ANTHONY RD",
+    "address": "1201 S AYCOCK ST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -5926,7 +5926,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES RONALD CATES. 2224 ANTHONY RD BURLINGTON NC 27215 SS 930, SM 1030, SN 6,W 7 NOT KJV ONLY, BBF 1201 S AYCOCK ST GREENSBORO NC 27403 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY, PIEDMONT-BC, KJB church."
+    "description": "BURLINGTON NC 27215 SS 930, SM 1030, SN 6,W 7 NOT KJV ONLY, BBF GREENSBORO NC 27403 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY, PIEDMONT-BC, KJB church"
   },
   {
     "id": "3594",
@@ -5945,7 +5945,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREG GAMBLE. 210 COTTON GROVE RD 307 HOLT ST LEXINGTON NC 27292 SS 945,SM 830 & 11,SN 6,W 7 SHEETS MEMORIAL CHRISTIAN SCHOOL  PS-12; NOT KJV ONLY 5150 WOODY MILL RD JULIAN NC 27283 NOT KJV ONLY, BBF, CCM, WOL KJB church."
+    "description": "307 HOLT ST LEXINGTON NC 27292 SS 945,SM 830 & 11,SN 6,W 7 SHEETS MEMORIAL CHRISTIAN SCHOOL PS-12; NOT KJV ONLY 5150 WOODY MILL RD JULIAN NC 27283 NOT KJV ONLY, BBF, CCM, WOL KJB church"
   },
   {
     "id": "3595",
@@ -5964,7 +5964,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CHUCK SILVEY. 2465 GILLIS HILL RD PO BOX 40723 7601 RAEFORD RD FAYETTEVILLE NC 28309 SS 915 & 1030,SM 9 & 1030,SN 630,W 7 NOT KJV ONLY 1151 VIRGINIA AVE EDEN NC 27288 3903 WEST ST PITTSBORO NC 27312 515 N MARSHALL  KJB church."
+    "description": "PO BOX 40723 7601 RAEFORD RD FAYETTEVILLE NC 28309 SS 915 & 1030,SM 9 & 1030,SN 630,W 7 NOT KJV ONLY 1151 VIRGINIA AVE EDEN NC 27288 3903 WEST ST PITTSBORO NC 27312 515 N MARSHALL KJB church"
   },
   {
     "id": "3596",
@@ -5983,12 +5983,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CASEY B BRADFORD. PO BOX 382 2200 BOOGER SWAMP RD YADKINVILLE NC 27055 ESV, CONTEMPORARY 3929 JOHNSON STREET HIGH POINT NC 27265 SS 945, SM 11, SN 5, W 7 KJV, NKJV, NASB, ESV 2703 SPARTANBURG HWY EAST FLAT ROCK NC 2872 KJB church."
+    "description": "PO BOX 382 YADKINVILLE NC 27055 ESV, CONTEMPORARY 3929 JOHNSON STREET HIGH POINT NC 27265 SS 945, SM 11, SN 5, W 7 KJV, NKJV, NASB, ESV 2703 SPARTANBURG HWY EAST FLAT ROCK NC 2872 KJB church"
   },
   {
     "id": "3597",
     "name": "DAVIE BAPTIST CHURCH",
-    "address": "1489 FORK BIXBY RD",
+    "address": "2047 GATE NUMBER TWO RD",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -6002,7 +6002,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIMMY HALL. 1489 FORK BIXBY RD ADVANCE NC 27006 SS 945,SM 11,SN 6,W 7 2047 GATE NUMBER TWO RD CREEDMOOR NC 27522 SS 915,SM 1030,SN 6,W 7 AWANA, TEENS NOT KJV ONLY, BBF, BJU PO BOX 961 166 WALT GARLAND RD LINVILLE KJB church."
+    "description": "ADVANCE NC 27006 SS 945,SM 11,SN 6,W 7 CREEDMOOR NC 27522 SS 915,SM 1030,SN 6,W 7 AWANA, TEENS NOT KJV ONLY, BBF, BJU PO BOX 961 166 WALT GARLAND RD LINVILLE KJB church"
   },
   {
     "id": "3598",
@@ -6021,7 +6021,7 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILL TOONE. 3894 SHENANDOAH DR ROCKY MOUNT NC 27803 SS 10,SM 11,SN 6,W 730 PREACH KJV, NOT KJV ONLY, LIBERTY-U 5356 PEARCES RD ZEBULON NC 27597 NOT KJV ONLY, BBF, WOL KJB church."
+    "description": "ROCKY MOUNT NC 27803 SS 10,SM 11,SN 6,W 730 PREACH KJV, NOT KJV ONLY, LIBERTY-U 5356 PEARCES RD ZEBULON NC 27597 NOT KJV ONLY, BBF, WOL KJB church"
   },
   {
     "id": "3599",
@@ -6040,12 +6040,12 @@ export const northcarolinaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MITCH HORTON. SEVEN LAKES BOX 903 WEST END NC 27376 NOT KJV ONLY, NANC 12208 VICTORY CHURCH RD RALEIGH NC 27613 SS 930,SM 1030,SN 530,W 7 NOT KJV ONLY, BBF PO BOX 574 220 N BARDEN ST PRINCETON NC 27569 SS 945,SM 11 KJB church."
+    "description": "SEVEN LAKES BOX 903 WEST END NC 27376 NOT KJV ONLY, NANC RALEIGH NC 27613 SS 930,SM 1030,SN 530,W 7 NOT KJV ONLY, BBF PO BOX 574 220 N BARDEN ST PRINCETON NC 27569 SS 945,SM 11 KJB church"
   },
   {
     "id": "3600",
     "name": "ROSEMONT BAPTIST CHURCH",
-    "address": "415 W CLEMMONSVILLE RD",
+    "address": "415 W CLEMMONSVILLE RD WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -6058,7 +6058,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES BLEDSOE. 415 W CLEMMONSVILLE RD WINSTON SALEM NC 27127 NOT KJV ONLY, ABWE, BMM, BJU, PCC KJB church."
+    "description": "ON SALEM NC 27127 NOT KJV ONLY, ABWE, BMM, BJU, PCC KJB church"
   },
   {
     "id": "3601",
@@ -6076,7 +6076,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by MARK WHITE. 610 E LAKE DR GREENSBORO NC 27401 SS 10,SM 11,SN 115,W 7 Non-KJV church."
+    "description": "GREENSBORO NC 27401 SS 10,SM 11,SN 115,W 7 Non-KJV church"
   },
   {
     "id": "3602",
@@ -6089,7 +6089,7 @@ export const northcarolinaChurches: Church[] = [
     "longitude": -79.8334,
     "phone": "(919) 828-6161",
     "website": "http://www.foresthills.org",
-    "pastor": "GREGORY R BARKMAN",
+    "pastor": "PREACH KJV, NOT KJV ONLY, BBF 300 COU KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -6097,7 +6097,7 @@ export const northcarolinaChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by GREGORY R BARKMAN. 201 DIXIE TRAIL RALEIGH NC 27607 SS 930,SM 830 & 11,SN 6 REFORMED-TULIP 1622 KIRKPATRICK RD BURLINGTON NC 27201 ALAMANCE AREA SM 9,SS 1045,SN 6,W 715 NEEDS PASTOR PREACH KJV, NOT KJV ONLY, BBF 300 COU KJB church."
+    "description": "201 DIXIE TRAIL RALEIGH NC 27607 SS 930,SM 830 & 11,SN 6 REFORMED-TULIP BURLINGTON NC 27201 ALAMANCE AREA SM 9,SS 1045,SN 6,W 715 NEEDS"
   },
   {
     "id": "3603",
@@ -6115,7 +6115,7 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE JOHNSON. 6910 FAYETTEVILLE RD HWY 401 S RALEIGH NC 27603 SS 915 & 1030,SM 9 & 1030,SN 6,W 730 NOT KJV ONLY KJB church."
+    "description": "HWY 401 S RALEIGH NC 27603 SS 915 & 1030,SM 9 & 1030,SN 6,W 730 NOT KJV ONLY KJB church"
   },
   {
     "id": "3604",
@@ -6135,12 +6135,12 @@ export const northcarolinaChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by BRIAN NORMAN. 3253 NIAGARA CARTHAGE RD WHISPERING PINES NC 28327 SS 945,SM 11,SN 7, TU LADIES BS 7,W 730 POPE AIR BASE, FT BRAGG ARMY BASE, CAMP MCCALL, CAMP LEJEUNE ALL WITHIN DRIVING DISTANCE PREACH KJV, NOT KJV  KJB church."
+    "description": "WHISPERING PINES NC 28327 SS 945,SM 11,SN 7, TU LADIES BS 7,W 730 POPE AIR BASE, FT BRAGG ARMY BASE, CAMP MCCALL, CAMP LEJEUNE ALL WITHIN DRIVING DISTANCE PREACH KJV, NOT KJV KJB church"
   },
   {
     "id": "3605",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "7006 BURLINGTON RD",
+    "address": "4580 S MAIN ST WINST",
     "city": "Raleigh",
     "state": "NC",
     "zipCode": "",
@@ -6153,6 +6153,6 @@ export const northcarolinaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY SMITH. PO BOX 86 7006 BURLINGTON RD WHITSETT NC 27377 NOT KJV ONLY, S.GRACE-TULIP 4580 S MAIN ST WINSTON SALEM NC 27107 NOT KJV ONLY PO BOX 1958 OLD LUMBERTON RD LAURINBURG NC 28353 306 CARBON CITY RD MORGAN KJB church."
+    "description": "PO BOX 86 WHITSETT NC 27377 NOT KJV ONLY, S.GRACE-TULIP ON SALEM NC 27107 NOT KJV ONLY PO BOX 1958 OLD LUMBERTON RD LAURINBURG NC 28353 306 CARBON CITY RD MORGAN KJB church"
   }
 ];

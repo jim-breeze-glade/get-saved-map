@@ -18,12 +18,12 @@ export const utahChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by THOMAS CORKISH. 2025 W 5700 S ROY UT 84067 SS 945,SM 11,SN 4,W 6 SOULWINNING, AWANA-KJB, SUNDAY SCHOOL, AUDIO SERMONS & LIVE STREAMING, JUST OUTSIDE HILL AFB"
+    "description": "2025 W 5700 S ROY UT 84067 SS 945,SM 11,SN 4,W 6 SOULWINNING, AWANA-KJB, SUNDAY SCHOOL, AUDIO SERMONS & LIVE STREAMING, JUST OUTSIDE HILL AFB"
   },
   {
     "id": "5043",
     "name": "FREEDOM BAPTIST CHURCH",
-    "address": "301 WEST 5400 SOUTH",
+    "address": "84107 NEAR SALT LAKE CITY AND WEST JORD",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -36,7 +36,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN KIRKMAN. 301 WEST 5400 SOUTH MURRAY UT 84107 NEAR SALT LAKE CITY AND WEST JORDAN SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MURRAY UT AN SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5044",
@@ -49,17 +49,17 @@ export const utahChurches: Church[] = [
     "longitude": -113.2826,
     "phone": "(435) 915-6794",
     "website": "http://www.mtloganbc.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "258 S MAIN ST LOGAN UT 84321 SM 1030,SN 530,W 7 AUDIO SERMONS & SONGS NEEDS PASTOR KJB church."
+    "description": "LOGAN UT 84321 SM 1030,SN 530,W 7 AUDIO SERMONS & SONGS NEEDS"
   },
   {
     "id": "5045",
     "name": "NORTH CENTRAL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 511",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -72,7 +72,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 511 5430 S 1900 W ROY UT 84067 SS 10,SM 11,SN 6,TH 7 KINGS KIDS, JUST OUTSIDE OF HILL AFB CO-PASTORS PAUL ACREE & ANDY ADANK KJB, NWBM"
+    "description": "5430 S 1900 W ROY UT 84067 SS 10,SM 11,SN 6,TH 7 KINGS KIDS, JUST OUTSIDE OF HILL AFB CO-PASTORS PAUL ACREE & ANDY ADANK KJB, NWBM"
   },
   {
     "id": "5046",
@@ -90,7 +90,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON ATWOOD. PO BOX 51 155 W PARK RANDOLPH UT 84064 PHYSICAL LOCATION: SR CITIZENS BUILDING 20 N MAIN ST SN 530, TU 7 KJB, UNAFILLIATED"
+    "description": "PO BOX 51 155 W PARK RANDOLPH UT 84064 PHYSICAL LOCATION: SR CITIZENS BUILDING SN 530, TU 7 KJB, UNAFILLIATED"
   },
   {
     "id": "5047",
@@ -109,12 +109,12 @@ export const utahChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE MULLINEAUX. 1880 E 5600 S SALT LAKE CITY UT 84121 SS 10, SM 11, SN 6, W 7 SOULWINNING, AUDIO SERMONS & LIVE STREAMING, TEENSL KJB church."
+    "description": "1880 E 5600 S SALT LAKE CITY UT 84121 SS 10, SM 11, SN 6, W 7 SOULWINNING, AUDIO SERMONS & LIVE STREAMING, TEENSL KJB church"
   },
   {
     "id": "5048",
     "name": "HARVEST VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1132",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -127,7 +127,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENT BOYKIN. PO BOX 1132 3305 W 12600 S RIVERTON UT 84065 SS 10,SM 11,SN 6,W 7 MASTERS CLUB,TEEN, SW, BIBLE INSTITUTE KJB church."
+    "description": "3305 W 12600 S RIVERTON UT 84065 SS 10,SM 11,SN 6,W ERS CLUB,TEEN, SW, BIBLE INSTITUTE KJB church"
   },
   {
     "id": "5049",
@@ -145,12 +145,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG HOUNSHELL. PO BOX 486 160 S MAIN ST PAYSON UT 84651 SS 930,SM 1030,TUE 7 KJB church."
+    "description": "PO BOX 486 PAYSON UT 84651 SS 930,SM 1030,TUE 7 KJB church"
   },
   {
     "id": "5050",
     "name": "CLIFFVIEW CHAPEL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 186",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -163,7 +163,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL RADEBAUGH. PO BOX 186 217 E 300 SOUTH KANAB UT 84741 SS 915,SM 10,TH 7 AUDIO SERMONS KJB church."
+    "description": "217 E 300 SOUTH KANAB UT 84741 SS 915,SM 10,TH 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5051",
@@ -182,7 +182,7 @@ export const utahChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by COLE J HOWE. 1160 S 860 W CEDAR CITY UT 84720 SS 10, SM 11, SN 6, TH 7 KJB, UNAFFILIATED, WCBC"
+    "description": "1160 S 860 W CEDAR CITY UT 84720 SS 10, SM 11, SN 6, TH 7 KJB, UNAFFILIATED, WCBC"
   },
   {
     "id": "5052",
@@ -200,7 +200,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW SANFORD. BOX 145 356 W KANE CREEK BLVD MOAB UT 84532 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "BOX 145 MOAB UT 84532 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "5053",
@@ -218,7 +218,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL ST LOUIS. 830 WEST 1200 S TREMONTON UT 84337 SS 10,SM 11,SN 630,W 7 HILL AFB 40 MILE KJB, BIMI"
+    "description": "TREMONTON UT 84337 SS 10,SM 11,SN 630,W 7 HILL AFB 40 MILE KJB, BIMI"
   },
   {
     "id": "5054",
@@ -238,12 +238,12 @@ export const utahChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CHRIS RAFELD. 1625 S MAIN ST SALT LAKE CITY UT 84116 SS 10,SM 11,SN ?,W ? RADIO 91.7 FM, SOULWINNING, RESCUE MISSION, STREET PREACHING, KJB, UNAFFILIATED PO BOX 3613 475 W 600 N LOGAN UT 84321 SS 10,SM 11,SN 6,W 7"
+    "description": "SALT LAKE CITY UT 84116 SS 10,SM 11,SN ?,W ? RADIO 91.7 FM, SOULWINNING, RESCUE MISSION, STREET PREACHING, KJB, UNAFFILIATED PO BOX 3613 475 W 600 N LOGAN UT 84321 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5055",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 20555",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -256,12 +256,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAWN CLAPP. PO BOX 20555 3769 W 4700 S, 84118 SALT LAKE CITY UT 84120 SS 10,SM 11,SN 6,W 7 BUS; SALT LAKE BAPTIST ACADEMY K3-12; SALT LAKE BAPTIST COLLEGE KJB church."
+    "description": "3769 W 4700 S, 84118 SALT LAKE CITY UT 84120 SS 10,SM 11,SN 6,W 7 BUS; SALT LAKE BAPTIST ACADEMY K3-12; SALT LAKE BAPTIST COLLEGE KJB church"
   },
   {
     "id": "5056",
     "name": "CASTLE COUNTRY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 665",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -275,12 +275,12 @@ export const utahChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MERLE E AYERS. PO BOX 665 295 S HWY 55 PRICE UT 84501 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, BBF"
+    "description": "295 S HWY 55 PRICE UT 84501 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, BBF"
   },
   {
     "id": "5057",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 441",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -293,7 +293,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE MALLINAK. PO BOX 441 195 W 400 N FILLMORE UT 84631 KJB church."
+    "description": "195 W 400 N FILLMORE UT 84631 KJB church"
   },
   {
     "id": "5058",
@@ -311,7 +311,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK L HOLLAND. 3846 JACKSON AVE OGDEN UT 84403-1943 SS 945,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, COLLEGE CAREER; BEREAN BAPTIST ACADEMY KJB, SOUTHWIDE"
+    "description": "OGDEN UT 84403-1943 SS 945,SM 11,SN 6,W 7 BUS, CHOIR, TEEN, COLLEGE CAREER; BEREAN BAPTIST ACADEMY KJB, SOUTHWIDE"
   },
   {
     "id": "5059",
@@ -329,7 +329,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL LONG. 4973 W 5400 S KEARNS UT 84118 KEARNS RECREATION CENTER 5670 S 4800 W SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "4973 W 5400 S KEARNS UT 84118 KEARNS RECREATION CENTER 5670 S 4800 W SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5060",
@@ -347,7 +347,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN ELLIS. 300 S 1200 W OREM UT 84058 SS 10,SM 11,SN 530 3816 S 2500 E VERNAL UT 84078 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "300 S 1200 W OREM UT 84058 SS 10,SM 11,SN 530 3816 S 2500 E VERNAL UT 84078 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "5061",
@@ -365,12 +365,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JIM MACPHEE. 1502 WALNUT ST SALT LAKE CITY UT 84116 SS 945,SM 11,SN 6,W 7 SPANISH"
+    "description": "SALT LAKE CITY UT 84116 SS 945,SM 11,SN 6,W 7 SPANISH"
   },
   {
     "id": "5062",
     "name": "GRACE COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 511",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -383,12 +383,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JONATHAN EDWARDS. PO BOX 511 MANILA UT 84750 ACROSS FROM CITY HALL SS 945,SM 11"
+    "description": "MANILA UT 84750 ACROSS FROM CITY HALL SS 945,SM 11"
   },
   {
     "id": "5063",
     "name": "MARYSVALE BAPTIST CHURCH",
-    "address": "180 N STATE ST",
+    "address": "220 E CENTER ST BEAVE",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -401,7 +401,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MARK DUPONT. PO BOX 14 180 N STATE ST MARYSVALE UT 84750 SS 930,SM 1030,SN 6,W 7 PO BOX 1031 220 E CENTER ST BEAVER UT 84713 SS 945,SM 11,SN 6,W 7 PO BOX 302 65 S MAIN NEPHI UT 84648 SS 930,SM 1045,W 630"
+    "description": "PO BOX 14 MARYSVALE UT 84750 SS 930,SM 1030,SN 6,W 7 PO BOX 1031 R UT 84713 SS 945,SM 11,SN 6,W 7 PO BOX 302 65 S MAIN NEPHI UT 84648 SS 930,SM 1045,W 630"
   },
   {
     "id": "5064",
@@ -419,12 +419,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by ANDY ADANCK. 869 HUDSON AVE SALT LAKE CITY UT 84106 PHYSICAL LOCATION: 644 S 900 E PO BOX 842 WALKER MORTUARY, 268 S MAIN COALVILLE UT 84060 Non-KJV church."
+    "description": "SALT LAKE CITY UT 84106 PHYSICAL LOCATION: 644 S 900 E PO BOX 842 WALKER MORTUARY, 268 S MAIN COALVILLE UT 84060 Non-KJV church"
   },
   {
     "id": "5065",
     "name": "SOUTH DAVIS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1163",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -437,12 +437,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DANIEL PARISH. PO BOX 1163 CENTERVILLE UT 84014 MEETS AT THE AMERICAN LEGION 62 W 200 S 822 E MAIN SUITE 2 GRANTSVILLE UT 84029 BBF church."
+    "description": "CENTERVILLE UT 84014 MEETS AT THE AMERICAN LEGION 62 W 200 S 822 E MAIN SUITE 2 GRANTSVILLE UT 84029 BBF church"
   },
   {
     "id": "5066",
     "name": "KAMAS BIBLE CHURCH",
-    "address": "",
+    "address": "7 NEEDS PAST",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -450,12 +450,12 @@ export const utahChurches: Church[] = [
     "longitude": -111.6909,
     "phone": "(435) 783-2226",
     "website": "",
-    "pastor": "",
+    "pastor": "BBF church",
     "category": "BBF",
     "affiliation": [
       "BBF"
     ],
-    "description": "280 N 100 W KAMAS UT 84036 SS 945,SM 11,W 7 NEEDS PASTOR BBF church."
+    "description": "280 N 100 W KAMAS UT 84036 SS 945,SM 11,W 7 NEEDS"
   },
   {
     "id": "5067",
@@ -473,7 +473,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MATTHEW W JOHNSON. PO BOX 309 KAMAS UT 84036 NORTHLAND-BC 4880 W 4100 SOUTH PO BOX 701020 WEST VALLEY CITY UT 84120 Near SALT LAKE CITY SS 945,SM 11,SN 6,W 7 AUDIO SERMONS PO BOX 938 58 S CENTER ST DELTA UT 84624"
+    "description": "PO BOX 309 KAMAS UT 84036 NORTHLAND-BC 4880 W 4100 SOUTH PO BOX 701020 WEST VALLEY CITY UT 84120 Near SALT LAKE CITY SS 945,SM 11,SN 6,W 7 AUDIO SERMONS PO BOX 938 DELTA UT 84624"
   },
   {
     "id": "5068",
@@ -491,12 +491,12 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KEITH E SOUTH. PO BOX 302 NEPHI UT 84648-0302 61 S MAIN ST SS 930,SM 1045,W 630 NURSERY, JAIL"
+    "description": "PO BOX 302 NEPHI UT 84648-0302 SS 930,SM 1045,W 630 NURSERY, JAIL"
   },
   {
     "id": "5069",
     "name": "INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 347",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -509,7 +509,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "PO BOX 347 1811 S HWY 40 HEBER CITY UT 84032 Independent church."
+    "description": "1811 S HWY 40 HEBER CITY UT 84032 Independent church"
   },
   {
     "id": "5070",
@@ -532,7 +532,7 @@ export const utahChurches: Church[] = [
   {
     "id": "5071",
     "name": "TOOELE BAPTIST ACADEMY",
-    "address": "",
+    "address": "440 E ST",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -546,7 +546,7 @@ export const utahChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILL RAUSCHER. 571 S 440 E ST GEORGE UT 84471 KJB, CCM, BBC-MO"
+    "description": "571 S GEORGE UT 84471 KJB, CCM, BBC-MO"
   },
   {
     "id": "5072",
@@ -565,7 +565,7 @@ export const utahChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATT MURPHREE. 2430 N FAIRFIELD RD LAYTON UT 84041 SS 930, SM 1030, SN 6,W 7 NOT KJV ONLY PO BOX 157 165 S 400 EAST SALINA UT 84654 KJB church."
+    "description": "LAYTON UT 84041 SS 930, SM 1030, SN 6,W 7 NOT KJV ONLY PO BOX 157 165 S 400 EAST SALINA UT 84654 KJB church"
   },
   {
     "id": "5073",
@@ -584,12 +584,12 @@ export const utahChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by GREG WRIGHT. 55 S MAIN ST MANTI UT 84642 NKJV, BJU KJB church."
+    "description": "MANTI UT 84642 NKJV, BJU KJB church"
   },
   {
     "id": "5074",
     "name": "WESTSIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "2000 N ST",
     "city": "Salt Lake City",
     "state": "UT",
     "zipCode": "",
@@ -602,7 +602,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT H ANGER. 2299 W 2000 N ST GEORGE UT 84770 SS 10,SM 11,SN 6,W 7 KINGS KIDS, FLYERS CLUB, WESTSIDE CHRISTIAN SCHOOL NOT KJV ONLY KJB church."
+    "description": "2299 W GEORGE UT 84770 SS 10,SM 11,SN 6,W 7 KINGS KIDS, FLYERS CLUB, WESTSIDE CHRISTIAN SCHOOL NOT KJV ONLY KJB church"
   },
   {
     "id": "5075",
@@ -620,7 +620,7 @@ export const utahChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN R MIX. 2889 CYPRUS LN MAGNA UT 84044 NOT KJV ONLY, BJU, GFA, IFCA KJB church."
+    "description": "MAGNA UT 84044 NOT KJV ONLY, BJU, GFA, IFCA KJB church"
   },
   {
     "id": "5076",

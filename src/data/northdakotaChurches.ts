@@ -18,7 +18,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAN WALTERS. PO BOX 1186 WATFORD CITY ND 58854 PHYSICAL ADDRESS CURRENTLY MEETING AT LITTLE MISSOURI INN AND SUITES 109 9TH AVE SE WATFORD CITY ND 58854 SM 1030, SN 1, W 7 VIDEO SERMONS KJB, UNAFFILIATED"
+    "description": "PO BOX 1186 WATFORD CITY ND 58854 PHYSICAL ADDRESS CURRENTLY MEETING AT LITTLE MISSOURI INN AND SUITES WATFORD CITY ND 58854 SM 1030, SN 1, W 7 VIDEO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3607",
@@ -36,7 +36,7 @@ export const northdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD OHLER. PO BOX 746 DICKINSON ND 58602 MEETING AT: BIESIOT ACTIVITIES CENTER 398 STATE AVE, DICKINSON ND 58602 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "PO BOX 746 DICKINSON ND 58602 MEETING AT: BIESIOT ACTIVITIES CENTER , DICKINSON ND 58602 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3608",
@@ -55,7 +55,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RON BUENING. PO BOX 1055 1720 COTTONTAIL DR BEULAH ND 58523 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 1055 BEULAH ND 58523 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "3609",
@@ -75,7 +75,7 @@ export const northdakotaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by JEFF MOORE. PO BOX 12303 402 UNIVERSITY AVE GRAND FORKS ND 58208 SM 1030, SN 6, W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 12303 GRAND FORKS ND 58208 SM 1030, SN 6, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3610",
@@ -93,7 +93,7 @@ export const northdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by COREY PEPPLE. 111 N 6TH ST OAKES ND 58474 SS 930, SM 1030, SN 630, W 7 KJB, UNAFFLIATED"
+    "description": "OAKES ND 58474 SS 930, SM 1030, SN 630, W 7 KJB, UNAFFLIATED"
   },
   {
     "id": "3611",
@@ -112,7 +112,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL PAULSON. 585 2ND AVE N CARRINGTON ND 58421 SS 930,SM 1030,SN 7,W 7 PATCH PIRATE, WOMEN’S BIBLE STUDY, SERMONS ON RADIO, WAUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "CARRINGTON ND 58421 SS 930,SM 1030,SN 7,W 7 PATCH PIRATE, WOMEN’S BIBLE STUDY, SERMONS ON RADIO, WAUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3612",
@@ -131,12 +131,12 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEFF OLSON. 2030 W MAIN ST VALLEY CITY ND 58072 SS & SM 1030,SN 6,W 7 VISITATION, SOWING SATURDAY, SUNDAY SCHOOL, VBS KJB, UNAFFILIATED 1100 EAST AVE B BISMARCK ND 58501-4307 SS 9,SM 10,SN 6,W 7 COLLEGE, YOUTH, B"
+    "description": "VALLEY CITY ND 58072 SS & SM 1030,SN 6,W 7 VISITATION, SOWING SATURDAY, SUNDAY SCHOOL, VBS KJB, UNAFFILIATED 1100 EAST AVE B BISMARCK ND 58501-4307 SS 9,SM 10,SN 6,W 7 COLLEGE, YOUTH, B"
   },
   {
     "id": "3613",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 292",
     "city": "Bismarck",
     "state": "ND",
     "zipCode": "",
@@ -149,7 +149,7 @@ export const northdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE MINNERUP. PO BOX 292 HWY 3 NW HARVEY ND 58341 KJB church."
+    "description": "HWY 3 NW HARVEY ND 58341 KJB church"
   },
   {
     "id": "3614",
@@ -169,7 +169,7 @@ export const northdakotaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KENNETH SHAFFER. 601 1ST AVE SE MINOT ND 58701 SS 945,SM 11,SN 6,W 7 SUNDAY SCHOOL, SOULWINNING NEAR MINOT AFB KJB, UNAFFILIATED"
+    "description": "MINOT ND 58701 SS 945,SM 11,SN 6,W 7 SUNDAY SCHOOL, SOULWINNING NEAR MINOT AFB KJB, UNAFFILIATED"
   },
   {
     "id": "3615",
@@ -188,7 +188,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE CUSTER. PO BOX 40 701 E FRONT ST LARIMORE ND 58251 SS 10,SM 11,SN 6,W 7 JUNIOR AND FAMILY CAMPS; CHRISTIAN SCHOOL; BIBLE INSTITUTE; AUDIO SERMONS & MUSIC, GRAND FORKS AFB 12 MILES KJB, UNAFFILIATED 6767 GATEW"
+    "description": "PO BOX 40 LARIMORE ND 58251 SS 10,SM 11,SN 6,W 7 JUNIOR AND FAMILY CAMPS; CHRISTIAN SCHOOL; BIBLE INSTITUTE; AUDIO SERMONS & MUSIC, GRAND FORKS AFB 12 MILES KJB, UNAFFILIATED 6767 GATEW"
   },
   {
     "id": "3616",
@@ -207,7 +207,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY C SCHEVING. 924 N 11TH ST BISMARCK ND 58501 SS 930,SM 1030,SN 5,W 7 KJB, UNAFFILIATED"
+    "description": "BISMARCK ND 58501 SS 930,SM 1030,SN 5,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3617",
@@ -225,7 +225,7 @@ export const northdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT BERG. 3303 23RD AVE SW FARGO ND 58103 (Live Interent Radio) FM 88.7 LOCAL SS 930,SM 1030,SN 6,W 7 GRAND FORKS AFB: 100 MILES FROM FARGO KJB church."
+    "description": "FARGO ND 58103 (Live Interent Radio) FM 88.7 LOCAL SS 930,SM 1030,SN 6,W 7 GRAND FORKS AFB: 100 MILES FROM FARGO KJB church"
   },
   {
     "id": "3618",
@@ -244,7 +244,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSEPH ROETS. PO BOX 469 944 HILL AVE GRAFTON ND 58237 KJB, UNAFFILIATED 422 7TH AVE N WAHPETON ND 58075 BRECKENRIDGE AREA SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2909 6TH ST SE MINOT ND 58703 SM 9,SN 10,W 7 KJB, UN"
+    "description": "PO BOX 469 GRAFTON ND 58237 KJB, UNAFFILIATED 422 7TH AVE N WAHPETON ND 58075 BRECKENRIDGE AREA SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2909 6TH ST SE MINOT ND 58703 SM 9,SN 10,W 7 KJB, UN"
   },
   {
     "id": "3619",
@@ -263,7 +263,7 @@ export const northdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID B MILLER. 1007 3RD ST SW MANDAN ND 58554 SS 9,SM 10,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "MANDAN ND 58554 SS 9,SM 10,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3620",
@@ -281,7 +281,7 @@ export const northdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANKIE SHERIDAN. PO BOX 3084 500 46TH AVE NE MINOT ND 58702 SS 945,SM 11,SN 7,W 7 KJB, MWBM"
+    "description": "PO BOX 3084 MINOT ND 58702 SS 945,SM 11,SN 7,W 7 KJB, MWBM"
   },
   {
     "id": "3621",
@@ -302,7 +302,7 @@ export const northdakotaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by PHYL PUTZ. PO BOX 96 9 1ST AVE NE ROLLA ND 58367 SS 10, SM 11, SN 6, W 7 TEENS, EXTREME TEAM RANCH RODEO YOUTH CAMP, JR CHURCH, SOULWINNING, BUS, MISSIONS, AUDIO SERMONS 2900 7TH AVE N FARGO ND 58102 NOT KJV ONL KJB church."
+    "description": "PO BOX 96 ROLLA ND 58367 SS 10, SM 11, SN 6, W 7 TEENS, EXTREME TEAM RANCH RODEO YOUTH CAMP, JR CHURCH, SOULWINNING, BUS, MISSIONS, AUDIO SERMONS 2900 7TH AVE N FARGO ND 58102 NOT KJV ONL KJB church"
   },
   {
     "id": "3622",
@@ -320,6 +320,6 @@ export const northdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "700 24TH AVE S GRAND FORKS ND 58201 SS 940,SM TRADITIONAL 830 & CONTEMPORARY 1050, GRAND FORKS AFB NOT KJV ONLY PO BOX 142 KENMARE ND 58746 KJB church."
+    "description": "GRAND FORKS ND 58201 SS 940,SM TRADITIONAL 830 & CONTEMPORARY 1050, GRAND FORKS AFB NOT KJV ONLY PO BOX 142 KENMARE ND 58746 KJB church"
   }
 ];

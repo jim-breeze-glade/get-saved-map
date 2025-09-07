@@ -17,7 +17,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL MAHLER. 6000 OLD US HWY 24 HUNTINGTON, IN 46750 SS 930,SM 10:30,SN 6,W 7 KJB church."
+    "description": "6000 OLD US HWY 24 HUNTINGTON, IN 46750 SS 930,SM 10:30,SN 6,W 7 KJB church"
   },
   {
     "id": "1403",
@@ -37,7 +37,7 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by R L SATCHWELL. 5136 BROOKVILLE RD INDIANAPOLIS IN 46219 SOULWINNING, AUDIO SERMONS SS 945,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "INDIANAPOLIS IN 46219 SOULWINNING, AUDIO SERMONS SS 945,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1404",
@@ -56,7 +56,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL HOWARD. 17920 SR 167 S DUNKIRK IN 47336 KJB, UNAFFILIATED"
+    "description": "17920 SR 167 S DUNKIRK IN 47336 KJB, UNAFFILIATED"
   },
   {
     "id": "1405",
@@ -75,7 +75,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBERT E PATENAUDE. GOSHEN IN 46528 SS 930, SM 1030, W 6 KJB, UNAFFILIATED"
+    "description": "GOSHEN IN 46528 SS 930, SM 1030, W 6 KJB, UNAFFILIATED"
   },
   {
     "id": "1406",
@@ -93,7 +93,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 27 705 N RUSH CREEK RD ON SR 60 SALEM IN 47167"
+    "description": "PO BOX 27 SALEM IN 47167"
   },
   {
     "id": "1407",
@@ -111,7 +111,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREGORY S HON. SS 10, SM 11, SA 2, W 7 BIBLE-LITERALIST INSTITUTES KJB church."
+    "description": "SS 10, SM 11, SA 2, W 7 BIBLE-LITERALIST INSTITUTES KJB church"
   },
   {
     "id": "1408",
@@ -129,7 +129,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AMOS GRAHAM. 9171 N 1000 W DEMOTTE IN 46310 SS 930,SM 1045,SN 6, W 7 BUS, TEENS, TRUTHTRACKERS KJB, HAC"
+    "description": "9171 N 1000 W DEMOTTE IN 46310 SS 930,SM 1045,SN 6, W 7 BUS, TEENS, TRUTHTRACKERS KJB, HAC"
   },
   {
     "id": "1409",
@@ -147,7 +147,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NEEDS PASTOR. 8420 S EMERSON AVE INDIANAPOLIS IN 46237 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "INDIANAPOLIS IN 46237 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1410",
@@ -165,7 +165,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN CARPENTER. PO BOX 167 50 W OAK ST CAMPBELLSBURG IN 47108 SS 930,SM 1030,SN 1,W 7 KJB church."
+    "description": "PO BOX 167 CAMPBELLSBURG IN 47108 SS 930,SM 1030,SN 1,W 7 KJB church"
   },
   {
     "id": "1411",
@@ -184,7 +184,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID A VOORHEES. 1003 S PRETTYMAN ST KNOX IN 46534 SS 930,SM 1030,SN 430,W 530 CHOIR, SOULWINNING, JAIL, CHOIR, KIDZ CLUB KJB church."
+    "description": "KNOX IN 46534 SS 930,SM 1030,SN 430,W 530 CHOIR, SOULWINNING, JAIL, CHOIR, KIDZ CLUB KJB church"
   },
   {
     "id": "1412",
@@ -202,7 +202,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD HIVNER. 10351 N US HWY 231 QUINCY IN 47436 KJB church."
+    "description": "10351 N US HWY 231 QUINCY IN 47436 KJB church"
   },
   {
     "id": "1413",
@@ -211,8 +211,8 @@ export const indianaChurches: Church[] = [
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
-    "latitude": 39.1022,
-    "longitude": -84.7859,
+    "latitude": 40.654,
+    "longitude": -87.6513,
     "phone": "(317) 642-6825",
     "website": "http://www.victoriouslifebaptist.org",
     "pastor": "ED GANNON",
@@ -220,7 +220,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED GANNON. SHELBYVILLE IN 46176 SM 10,TU 7 FELLOWSHIP MEAL AT 1230 FOLLOWED BY AN AFTERNOON SERVICE. KJB church."
+    "description": "SHELBYVILLE IN 46176 SM 10,TU 7 FELLOWSHIP MEAL AT 1230 FOLLOWED BY AN AFTERNOON SERVICE. KJB church"
   },
   {
     "id": "1414",
@@ -238,7 +238,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD MCCLURE. 1241 W SUMNER AVE INDIANAPOLIS IN 46217 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "INDIANAPOLIS IN 46217 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1415",
@@ -256,7 +256,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM LARGER. 432 GREEN RD MADISON IN 47250 SS 9, SM 10, SN 6 W 7 MASTER CLUB 630 KJB church."
+    "description": "MADISON IN 47250 SS 9, SM 10, SN 6 W 7 MASTER CLUB 630 KJB church"
   },
   {
     "id": "1416",
@@ -275,7 +275,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICHARD HIVNER. 519 W CO RD 1175 PO BOX 322 FARMERSBURG IN 47850 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 322 FARMERSBURG IN 47850 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1417",
@@ -293,7 +293,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM LINDSEY II. PO BOX 211 102 S MERIDIAN ST FAIRLAND IN 46126 SS 930,SM 1030,SN 7,W 630 AWANA, BUS,MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "PO BOX 211 FAIRLAND IN 46126 SS 930,SM 1030,SN 7,W 630 AWANA, BUS,MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1418",
@@ -311,7 +311,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL MCINTYRE. 13387 N SLIDEOFF RD CAMBY IN 46113 SS 930,SM 1030,SN 6, WED-M 10,WED-N 7 KJB church."
+    "description": "CAMBY IN 46113 SS 930,SM 1030,SN 6, WED-M 10,WED-N 7 KJB church"
   },
   {
     "id": "1419",
@@ -330,7 +330,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL BATES. 779 SALISBURY RD S RICHMOND IN 47374 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "RICHMOND IN 47374 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1420",
@@ -349,7 +349,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JIM SHAW. 414 E MAIN ST PO BOX 187 KEWANNA IN 46939 SS 1030,SM 1130,SN 6,W 7 BUS, SOULWINNING, TEENS, KJB, GFBM, PCC"
+    "description": "PO BOX 187 KEWANNA IN 46939 SS 1030,SM 1130,SN 6,W 7 BUS, SOULWINNING, TEENS, KJB, GFBM, PCC"
   },
   {
     "id": "1421",
@@ -367,12 +367,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLARENCE L COMBS. PO BOX 321 2040 CORYDON RAMSEY RD CORYDON IN 47112 SS 10,SM 11,SN 6, W 7 CORYDON CHRISTIAN ACADEMY,PK-12 AUDIO SERMONS KJB church."
+    "description": "PO BOX 321 CORYDON IN 47112 SS 10,SM 11,SN 6, W 7 CORYDON CHRISTIAN ACADEMY,PK-12 AUDIO SERMONS KJB church"
   },
   {
     "id": "1422",
     "name": "FIVE CORNERS BAPTIST CHURCH",
-    "address": "",
+    "address": "6 NEEDS PAST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -380,12 +380,12 @@ export const indianaChurches: Church[] = [
     "longitude": -87.5521,
     "phone": "(260) 854-4964",
     "website": "https://yahoo.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "STATE RD 9, 600 S WOLCOTTVILLE IN 46795 SS 9,SM 10,W 6 NEEDS PASTOR KJB church."
+    "description": "STATE RD 9, 600 S WOLCOTTVILLE IN 46795 SS 9,SM 10,W 6 NEEDS"
   },
   {
     "id": "1423",
@@ -404,12 +404,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK W SUEVER. PO BOX 88 1001 S BRADY ST ATTICA IN 47918 SS 945,SM 1045,SN 6,TH 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 88 ATTICA IN 47918 SS 945,SM 1045,SN 6,TH 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1424",
     "name": "CROSSROADS BAPTIST CHURCH",
-    "address": "2525 NORTH 900 WEST",
+    "address": "7 SOULWINNING OUTREACH AND DISCIPL",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -423,7 +423,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DARRELL JOHNSON. PO BOX 326 2525 NORTH 900 WEST SHIPSHEWANA IN 46565 SS 10, SM 11, SN 6, W 7 SOULWINNING OUTREACH AND DISCIPLESHIP TO THE AMISH COUNTRY KJB church."
+    "description": "PO BOX 326 SHIPSHEWANA IN 46565 SS 10, SM 11, SN 6, W ESHIP TO THE AMISH COUNTRY KJB church"
   },
   {
     "id": "1425",
@@ -442,7 +442,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRIAN STEWART. 11752 EAST STATE ROAD 56 CORNER OF HWY 56 & 39, LITTLE YORK COMMUNITY SCOTTSBURG IN 47170 SOULWINNING, TRADITIONAL HYMNS, YOUTH, JR CHURCH SS 10, SM 11, SN 130, W 630 KJB church."
+    "description": "CORNER OF HWY 56 & 39, LITTLE YORK COMMUNITY SCOTTSBURG IN 47170 SOULWINNING, TRADITIONAL HYMNS, YOUTH, JR CHURCH SS 10, SM 11, SN 130, W 630 KJB church"
   },
   {
     "id": "1426",
@@ -461,7 +461,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIM DICE. 3501 N PROW RD BLOOMINGTON IN 47404 SS 930,SM 1045,SN 6,W 7 SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, KIDS, AUDIO SERMONS PO BOX 265 406 ROGERS ST DUNREITH IN 47337 KJB, HYLES"
+    "description": "BLOOMINGTON IN 47404 SS 930,SM 1045,SN 6,W 7 SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, KIDS, AUDIO SERMONS PO BOX 265 406 ROGERS ST DUNREITH IN 47337 KJB, HYLES"
   },
   {
     "id": "1427",
@@ -470,8 +470,8 @@ export const indianaChurches: Church[] = [
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "14684",
-    "latitude": 39.2509,
-    "longitude": -84.7743,
+    "latitude": 39.7159,
+    "longitude": -88.0627,
     "phone": "(219) 474-9710",
     "website": "http://www.newtoncountybaptist.com",
     "pastor": "GAYLE E RUSS",
@@ -481,7 +481,7 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GAYLE E RUSS. 14684 S 250 WEST RD KENTLAND IN 47951 SS 10, SM 11, SN 7, WED 7 BUS, SOULWINNING, TAPE, TEEN KJB, UNAFFILIATED"
+    "description": "KENTLAND IN 47951 SS 10, SM 11, SN 7, WED 7 BUS, SOULWINNING, TAPE, TEEN KJB, UNAFFILIATED"
   },
   {
     "id": "1428",
@@ -499,7 +499,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF JONES. 3635 POLLACK AVE EVANSVILLE IN 47714 SS 10,SM 11,SN 6,W 7 FAITH MUSIC MISSIONS, BUS, AUDIO SERMONS 1075 SECOND ST COLUMBUS IN 47201 SS 930, SM 1030, SN 6, THURS 7 NURSERY, KIDS PROGRAMS, YOUTH KJB, HE"
+    "description": "EVANSVILLE IN 47714 SS 10,SM 11,SN 6,W 7 FAITH MUSIC MISSIONS, BUS, AUDIO SERMONS 1075 SECOND ST COLUMBUS IN 47201 SS 930, SM 1030, SN 6, THURS 7 NURSERY, KIDS PROGRAMS, YOUTH KJB, HE"
   },
   {
     "id": "1429",
@@ -517,7 +517,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON WALCOTT. 54162 HIGHLAND BLVD ELKHART IN 46514 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "ELKHART IN 46514 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1430",
@@ -536,7 +536,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MAURICE MELTON. 3988 S CR 300 WEST GREENCASTLE IN 46135 SS 930,SM 1030, SN6, W7 SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, AUDIO AND VIDEO SERMONS 1900 S LODGE AVE EVANSVILLE IN 47714 SS 945,SM 1045,SN 6,W 7 AWANA, KJB church."
+    "description": "GREENCASTLE IN 46135 SS 930,SM 1030, SN6, W7 SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, AUDIO AND VIDEO SERMONS 1900 S LODGE AVE EVANSVILLE IN 47714 SS 945,SM 1045,SN 6,W 7 AWANA, KJB church"
   },
   {
     "id": "1431",
@@ -555,7 +555,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TODD A FALK. 5331 E 400 S COLUMBUS IN 47201 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "5331 E 400 S COLUMBUS IN 47201 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1432",
@@ -573,7 +573,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLEMON L CHAPPELL JR. 9587 E 131ST ST FISHERS IN 46038 SS 10, SM 11, SN 6, W 7 FISHERS OF MEN, INTERNATIONAL FISHERS CHRISTIAN ACADEMY K5-12 ABEKA KJB, GPA"
+    "description": "FISHERS IN 46038 SS 10, SM 11, SN 6, W 7 FISHERS OF MEN, INTERNATIONAL FISHERS CHRISTIAN ACADEMY K5-12 ABEKA KJB, GPA"
   },
   {
     "id": "1433",
@@ -591,7 +591,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE KLEITZ. 2301 FAIRBANKS ST GARY IN 46410 SS 10,SM 11,SN 6,TUE 630 KJB, CROWN-BC"
+    "description": "GARY IN 46410 SS 10,SM 11,SN 6,TUE 630 KJB, CROWN-BC"
   },
   {
     "id": "1434",
@@ -611,12 +611,12 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by AARON ADAMS. 3795 ST JOSEPH RD NEW ALBANY IN 47150 KJB, UNAFFILIATED 1225 N GARDNER ST SCOTTSBURG IN 47170 SM 11, SN 7, W 7 SOULWINNING, VAN, DISCIPLESHIP"
+    "description": "NEW ALBANY IN 47150 KJB, UNAFFILIATED 1225 N GARDNER ST SCOTTSBURG IN 47170 SM 11, SN 7, W 7 SOULWINNING, VAN, DISCIPLESHIP"
   },
   {
     "id": "1435",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "2002 MOSCOW RD",
+    "address": "1120 S ARLINGTON AVE",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -629,7 +629,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GUY SOLAREK. 2002 MOSCOW RD GREENSBURG IN 47240 SS 930, SM 1030, SN 6, WN 7 1120 S ARLINGTON AVE INDIANAPOLIS IN 46203 SS 10,SM 11,SN 630,W 730 BUS,TRACT KJB church."
+    "description": "GREENSBURG IN 47240 SS 930, SM 1030, SN 6, WN 7 INDIANAPOLIS IN 46203 SS 10,SM 11,SN 630,W 730 BUS,TRACT KJB church"
   },
   {
     "id": "1436",
@@ -647,12 +647,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON SELBY. 1335 N SPENCER ST RUSHVILLE IN 46173 SS 10,SM 11,SN 6,W 7 526 S MURPHY AVE BRAZIL IN 47834 SS 945,SM 1050,SN 630,W 7 PROPHETS CHAMBER, AUDIO SERMONS KJB church."
+    "description": "RUSHVILLE IN 46173 SS 10,SM 11,SN 6,W 7 526 S MURPHY AVE BRAZIL IN 47834 SS 945,SM 1050,SN 630,W 7 PROPHETS CHAMBER, AUDIO SERMONS KJB church"
   },
   {
     "id": "1437",
     "name": "MCGREGOR ROAD BAPTIST CHURCH",
-    "address": "10850 MCGREGOR RD",
+    "address": "10850 MCGREGOR RD ACT",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "10850",
@@ -665,7 +665,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR RICK P ARROWOOD. 10850 MCGREGOR RD ACTON IN 46259 SS 930,SM 1040,SN 6,W 7 KJB, BWM"
+    "description": "ON IN 46259 SS 930,SM 1040,SN 6,W 7 KJB, BWM"
   },
   {
     "id": "1438",
@@ -683,7 +683,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY STARKEY. 220 COUNTRY CLUB RD INDIANAPOLIS IN 46234 SS 930,SM 1045,SN 6,W 7 BUS,SINGLE,TEEN,CHOIR,SPANISH, AUDIO SERMONS; EAGLEDALE CHRISTIAN SCHOOL KJB church."
+    "description": "INDIANAPOLIS IN 46234 SS 930,SM 1045,SN 6,W 7 BUS,SINGLE,TEEN,CHOIR,SPANISH, AUDIO SERMONS; EAGLEDALE CHRISTIAN SCHOOL KJB church"
   },
   {
     "id": "1439",
@@ -701,7 +701,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDALL J PARKER. PO BOX 11043 3429 E 10TH ST INDIANAPOLIS IN 46201 KJB,HEARTLAND-BBC"
+    "description": "PO BOX 11043 INDIANAPOLIS IN 46201 KJB,HEARTLAND-BBC"
   },
   {
     "id": "1440",
@@ -719,12 +719,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDALL CARLISLE. 1610 W 6TH ST GREENFIELD IN 46140 SS 930,SM 1030,SN 6,W 7 BUS, SENIORS, COLLEGE CAREER, COUPLES, TEENS, AUDIO SERMONS ONLINE; BETHEL BAPTIST BIBLE INSTITUTE KJB church."
+    "description": "GREENFIELD IN 46140 SS 930,SM 1030,SN 6,W 7 BUS, SENIORS, COLLEGE CAREER, COUPLES, TEENS, AUDIO SERMONS ONLINE; BETHEL BAPTIST BIBLE INSTITUTE KJB church"
   },
   {
     "id": "1441",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "400 OAK ST",
+    "address": "2937 LEGION DR NEW CAST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -732,13 +732,13 @@ export const indianaChurches: Church[] = [
     "longitude": -87.4872,
     "phone": "(765) 675-4172",
     "website": "http://www.fbctipton.org",
-    "pastor": "BOB SCHON",
+    "pastor": "NEW CASTLE IN 47362 SS 930,SM 1030,SN 6,W 7 YOUTH, TEEN, SOULWINNING 12970 W 500 N LINTON IN 47441 SS 930,SM 1030,SN 6,W",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BOB SCHON. 400 OAK ST TIPTON IN 46072 SS 930, SM 1030, SN 6, W 7 KJB, IFBF 2937 LEGION DR NEW CASTLE IN 47362 SS 930,SM 1030,SN 6,W 7 YOUTH, TEEN, SOULWINNING 12970 W 500 N LINTON IN 47441 SS 930,SM 1030,SN 6,W"
+    "description": "TIPTON IN 46072 SS 930, SM 1030, SN 6, W 7 KJB, IFBF LE IN 47362 SS 930,SM 1030,SN 6,W 7 YOUTH, TEEN, SOULWINNING 12970 W 500 N LINTON IN 47441 SS 930,SM 1030,SN 6,W"
   },
   {
     "id": "1442",
@@ -757,7 +757,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MICHAEL QUIREY. 671 GLENDALE DR COLUMBUS IN 47201 53980 CR 17 BRISTOL IN 46507 SS 915,SM 1015,SN 6,W 7 KJB, FBMI"
+    "description": "COLUMBUS IN 47201 53980 CR 17 BRISTOL IN 46507 SS 915,SM 1015,SN 6,W 7 KJB, FBMI"
   },
   {
     "id": "1443",
@@ -776,7 +776,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by TIMOTHY L THORNE. 4330 N POST RD INDIANAPOLIS IN 46226 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "INDIANAPOLIS IN 46226 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1444",
@@ -795,7 +795,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MICHAEL LAFOUNTAIN JR. 1002 W EDGEWOOD AVE INDIANAPOLIS IN 46217 SS 930,SM 1030,SN 6,W 7 MASTERS CLUB KJB, HYLES"
+    "description": "INDIANAPOLIS IN 46217 SS 930,SM 1030,SN 6,W 7 MASTERS CLUB KJB, HYLES"
   },
   {
     "id": "1445",
@@ -831,12 +831,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD MCCULLOUGH.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1447",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "7 WHITE WATER VALLEY CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -850,12 +850,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE MESSER. 19101 US 52 METAMORA IN 47030 SM 10,SN 7,W 7 WHITE WATER VALLEY CHRISTIAN SCHOOL,PK-12 KJB,BBF 10450 E CR 450 N INDIANAPOLIS IN 46234 SS 10,SM 11,SN 6,W 7 AWANA, SPORTS, TEEN, SINGLES, PRE-SCHOOL-DAYC"
+    "description": "19101 US 52 METAMORA IN 47030 SM 10,SN 7,W IAN SCHOOL,PK-12 KJB,BBF 10450 E CR 450 N INDIANAPOLIS IN 46234 SS 10,SM 11,SN 6,W 7 AWANA, SPORTS, TEEN, SINGLES, PRE-SCHOOL-DAYC"
   },
   {
     "id": "1448",
     "name": "OLD PATHWAY BAPTIST CHURCH",
-    "address": "219 FRANCIS ST",
+    "address": "5 MINUTES FROM CHEST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -868,12 +868,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW TODD POYNTER. 219 FRANCIS ST PORTER IN 46304 5 MINUTES FROM CHESTERTON IN SS 10, SM 11,SN  6,W  6 SOUTHERN KENTUCKY STYLE HYMNS KJB, HYLES"
+    "description": "PORTER IN 46304 ERTON IN SS 10, SM 11,SN 6,W 6 SOUTHERN KENTUCKY STYLE HYMNS KJB, HYLES"
   },
   {
     "id": "1449",
     "name": "GREENWOOD BIBLE BAPTIST CHURCH",
-    "address": "1461 SHEEK RD",
+    "address": "2010 N MCKINLEY AVE",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -887,7 +887,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DANIEL R HESTER JR. 1461 SHEEK RD GREENWOOD IN 46143 SS 10,SM 11,SN 7,W 7 VIDEO SERMONS KJB, HYLES, TRAD MUSIC, PCC 2010 N MCKINLEY AVE RENSSELAER IN 47978 SS 915,SM 1030,SN 6,W 7 KINGS KIDS,CHRISTIAN GROWTH INSTITUTE 91"
+    "description": "GREENWOOD IN 46143 SS 10,SM 11,SN 7,W 7 VIDEO SERMONS KJB, HYLES, TRAD MUSIC, PCC RENSSELAER IN 47978 SS 915,SM 1030,SN 6,W 7 KINGS KIDS,CHRISTIAN GROWTH INSTITUTE 91"
   },
   {
     "id": "1450",
@@ -905,7 +905,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD HADLEY. 381 W HARDING ST ORLEANS IN 47452 INTERNET RADIO 3 HOURS WEEKLY KJB church."
+    "description": "ORLEANS IN 47452 INTERNET RADIO 3 HOURS WEEKLY KJB church"
   },
   {
     "id": "1451",
@@ -923,12 +923,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL L MIDDLETON. 1980 HURLEY DR NORTH VERNON IN 47265 SM 1030,SN 6,W 7 AUDIO SERMONS, CD, CHILDREN’S CHURCH KJB, HAC"
+    "description": "NORTH VERNON IN 47265 SM 1030,SN 6,W 7 AUDIO SERMONS, CD, CHILDREN’S CHURCH KJB, HAC"
   },
   {
     "id": "1452",
     "name": "MARS HILL BAPTIST BIBLE CHURCH",
-    "address": "2601 DENNISON ST",
+    "address": "716 S MONTICELLO ST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -942,7 +942,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK PILGER SR. 2601 DENNISON ST INDIANAPOLIS IN 46241 SS 10,SM 11,SN 6,W 7 BUS, DEAF KJB, IBBF PO BOX 373 716 S MONTICELLO ST WINAMAC IN 46996 SS 945,SM 1040,SN 5,W 7"
+    "description": "INDIANAPOLIS IN 46241 SS 10,SM 11,SN 6,W 7 BUS, DEAF KJB, IBBF PO BOX 373 WINAMAC IN 46996 SS 945,SM 1040,SN 5,W 7"
   },
   {
     "id": "1453",
@@ -961,7 +961,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID J WAUN. 1055 N GIRLS SCHOOL RD INDIANAPOLIS IN 46214 SS 10,SM 8 & 11,SN 6,W 7 HISPANIC, SENIORS, AWANA, YOUTH, RADIO, AUDIO SERMONS; CHAPEL HILL CHRISTIAN SCHOOL,PS-12,AACS KJB,UNAFFILIATED"
+    "description": "INDIANAPOLIS IN 46214 SS 10,SM 8 & 11,SN 6,W 7 HISPANIC, SENIORS, AWANA, YOUTH, RADIO, AUDIO SERMONS; CHAPEL HILL CHRISTIAN SCHOOL,PS-12,AACS KJB,UNAFFILIATED"
   },
   {
     "id": "1454",
@@ -981,7 +981,7 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "ABA"
     ],
-    "description": "Led by MARTIN L JONES. 200 MAIN ST WALKERTON IN 46574 SS 10,SM 11,SN 6,W 7 AWANA, BUS, CHOIR, TEENS, SOULWINNING KJB, UBF"
+    "description": "WALKERTON IN 46574 SS 10,SM 11,SN 6,W 7 AWANA, BUS, CHOIR, TEENS, SOULWINNING KJB, UBF"
   },
   {
     "id": "1455",
@@ -999,7 +999,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRISTOPHER SAYLOR. 8695 BILL FISHER RD SHOALS IN 47581 STATE HYW 450 in TRINITY SPRINGS SM 10,W 730 KJB, HYLES"
+    "description": "SHOALS IN 47581 STATE HYW 450 in TRINITY SPRINGS SM 10,W 730 KJB, HYLES"
   },
   {
     "id": "1456",
@@ -1018,7 +1018,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GENE CLEMENTS. 20 NW 15TH ST RICHMOND IN 47374 SS 10,SM 11,SN 6,W 7 BUS GEMS & JEWELS,SOULWINNING; RICHMOND BAPTIST SCHOOL,K-12 KJB church."
+    "description": "RICHMOND IN 47374 SS 10,SM 11,SN 6,W 7 BUS GEMS & JEWELS,SOULWINNING; RICHMOND BAPTIST SCHOOL,K-12 KJB church"
   },
   {
     "id": "1457",
@@ -1036,7 +1036,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CRAIG CLAYPOOL. 50775 SR 933 N SOUTH BEND IN 46637 SS 930,SM 1030,SN 6,W 7"
+    "description": "50775 SR 933 N SOUTH BEND IN 46637 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1458",
@@ -1055,7 +1055,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENNETH JONES JR. 780 S BEARS BEND RD FRENCH LICK IN 47432 SS 930,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "FRENCH LICK IN 47432 SS 930,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1459",
@@ -1074,7 +1074,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM HOLT. 794 S ROUND BARN RD RICHMOND IN 47374 KJB,UNAFFILIATED 15593 US HWY 50 DILLSBORO IN 47018 SS 10,SM 11,SN 7,W 7 BUS, CHURCH CAMP, JAIL, AUDIO SERMONS KJB,UNAFFILIATED"
+    "description": "RICHMOND IN 47374 KJB,UNAFFILIATED 15593 US HWY 50 DILLSBORO IN 47018 SS 10,SM 11,SN 7,W 7 BUS, CHURCH CAMP, JAIL, AUDIO SERMONS KJB,UNAFFILIATED"
   },
   {
     "id": "1460",
@@ -1094,7 +1094,7 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by JASON HILL. 8021 E CR 550 SOUTH COATESVILLE IN 46121 SS 10,SM 11,SN 6,W 6 YOUTH GROUP,CHILDREN’S CLUB WED, TRADITIONAL WORSHIP SERVICE, NO CCM OR SOUTHERN GOSPEL PETERSBURG GOSPEL CENTER 420 E ILLINOIS ST PETERSB KJB church."
+    "description": "8021 E CR 550 SOUTH COATESVILLE IN 46121 SS 10,SM 11,SN 6,W 6 YOUTH GROUP,CHILDREN’S CLUB WED, TRADITIONAL WORSHIP SERVICE, NO CCM OR SOUTHERN GOSPEL PETERSBURG GOSPEL CENTER PETERSB KJB church"
   },
   {
     "id": "1461",
@@ -1112,12 +1112,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by ANDREW B LYONS. 125 N CT ST CROWN POINT IN 46307 SS 945,SM 11,SN 6,W 7 KINGS KIDS, AUDIO SERMONS Independent church."
+    "description": "CROWN POINT IN 46307 SS 945,SM 11,SN 6,W 7 KINGS KIDS, AUDIO SERMONS Independent church"
   },
   {
     "id": "1462",
     "name": "DECATUR BAPTIST CHURCH",
-    "address": "8070 N PIQUA RD",
+    "address": "30 MINUTES FROM FORT WAY",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1131,7 +1131,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DON WILLIAMS. KJB, UNAFFILIATED 8070 N PIQUA RD DECATUR IN 46733 SS 9,SM 10,SN 6,W 7 30 MINUTES FROM FORT WAYNE 2277 E PIERCETON RD WARSAW IN 46580 SS 10,SM 11,SN 1,W 630 4743 S 600 WEST TRAFALGAR IN 46181 SS 930,S"
+    "description": "KJB, UNAFFILIATED DECATUR IN 46733 SS 9,SM 10,SN 6,W 7 NE 2277 E PIERCETON RD WARSAW IN 46580 SS 10,SM 11,SN 1,W 630 4743 S 600 WEST TRAFALGAR IN 46181 SS 930,S"
   },
   {
     "id": "1463",
@@ -1151,7 +1151,7 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by SAM CARNS. 1191 W COUNTY LINE RD GREENWOOD IN 46142 SS 10,SM 11,SN 6,W 7 PRINTSHOP, AUDIO SERMONS KJB, HYLES PO BOX 1193 WARSAW IN 46555 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS, TEENS, NURSERIES, JR CHURCH, KINGS"
+    "description": "GREENWOOD IN 46142 SS 10,SM 11,SN 6,W 7 PRINTSHOP, AUDIO SERMONS KJB, HYLES PO BOX 1193 WARSAW IN 46555 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS, TEENS, NURSERIES, JR CHURCH, KINGS"
   },
   {
     "id": "1464",
@@ -1170,7 +1170,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PAUL REED. 3982 W US HWY 40 GREENFIELD IN 46140 SS 945,SM 1045,SN 6,W 7 BUS,DEAF, AUDIO SERMONS KJB church."
+    "description": "3982 W US HWY 40 GREENFIELD IN 46140 SS 945,SM 1045,SN 6,W 7 BUS,DEAF, AUDIO SERMONS KJB church"
   },
   {
     "id": "1465",
@@ -1189,7 +1189,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ALLEN PIERCE. RT 5 BOX 31402 886 MARANATHA BAPTIST RD SPENCER IN 47460 SS 945,SM 11 FELLOWSHIP MEAL AFTER SERVICE KJB,BBFI,IBBF"
+    "description": "RT 5 BOX 31402 SPENCER IN 47460 SS 945,SM 11 FELLOWSHIP MEAL AFTER SERVICE KJB,BBFI,IBBF"
   },
   {
     "id": "1466",
@@ -1207,7 +1207,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL JOHNSON. 598 N MERIDIAN ST GREENWOOD IN 46143 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GREENWOOD IN 46143 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1467",
@@ -1225,7 +1225,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR THOMAS E MANBECK. 221 KUNTZ RD HANOVER IN 47243 SS 915,SM 10,SN 6,W 7 KJB,CORLE, HYLES"
+    "description": "HANOVER IN 47243 SS 915,SM 10,SN 6,W 7 KJB,CORLE, HYLES"
   },
   {
     "id": "1468",
@@ -1245,7 +1245,7 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GREGORY A DIXON. 501 MCKEEN ST TERRE HAUTE IN 47802 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA, PROPHETS CHAMBER KJB,UNAFFILIATED,UNREGISTERED-BF"
+    "description": "TERRE HAUTE IN 47802 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA, PROPHETS CHAMBER KJB,UNAFFILIATED,UNREGISTERED-BF"
   },
   {
     "id": "1469",
@@ -1263,7 +1263,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WISHES NAME TO LEFT OFF. PO BOX 11 THE LIFE CENTER AT SOUTHPORT 4002 E SOUTHPORT RD INDIANAPOLIS IN 46206 SM 10,SN 6 KJB church."
+    "description": "PO BOX 11 THE LIFE CENTER AT SOUTHPORT INDIANAPOLIS IN 46206 SM 10,SN 6 KJB church"
   },
   {
     "id": "1470",
@@ -1281,12 +1281,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYMON TAYLOR. 952 N HARRISON ST FRANKFORT IN 46041-1431 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "FRANKFORT IN 46041-1431 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1471",
     "name": "BEDFORD BAPTIST TEMPLE",
-    "address": "2417 N ST",
+    "address": "2417 N ST BEDFORD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1299,12 +1299,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY L LOVENS. 2417 N ST BEDFORD IN 47421 SS 10,SM 11,SN 7,W 7 KJB, HYLES"
+    "description": "IN 47421 SS 10,SM 11,SN 7,W 7 KJB, HYLES"
   },
   {
     "id": "1472",
     "name": "NEW HEIGHTS BAPTIST CHURCH",
-    "address": "1816 KLUG DR",
+    "address": "1816 KLUG DR FORT WAY",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1318,7 +1318,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOSH CROCKETT. 1816 KLUG DR FORT WAYNE IN 46818 SS 10,SM 11,SN 6,TH 7 KJB,IFBF 432 W 300 NORTH ANDERSON IN 46012 1515 VAN BUSKIRK RD SS 930,SM 1030,SN 6,W 730 AUDIO SERMONS, TV 3, SENIORS, RADIO WHBU 1240, BUS, DEAF"
+    "description": "NE IN 46818 SS 10,SM 11,SN 6,TH 7 KJB,IFBF 432 W 300 NORTH ANDERSON IN 46012 1515 VAN BUSKIRK RD SS 930,SM 1030,SN 6,W 730 AUDIO SERMONS, TV 3, SENIORS, RADIO WHBU 1240, BUS, DEAF"
   },
   {
     "id": "1473",
@@ -1336,12 +1336,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HOFFMAN. 722 N SUMMER ST 30TH JUDICIAL DISTRICT RENSSELAER IN 47978 KJB, HERITAGE-BU"
+    "description": "30TH JUDICIAL DISTRICT RENSSELAER IN 47978 KJB, HERITAGE-BU"
   },
   {
     "id": "1474",
     "name": "MARTINSVILLE BAPTIST TABERNACLE",
-    "address": "2189 BURTON LN",
+    "address": "510 VIRGINIA ST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1355,12 +1355,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KERRY WILLIAMS. 2189 BURTON LN MARTINSVILLE IN 46151 510 VIRGINIA ST SS 930,SM 1030,SN 630,W 730 MASTERS CLUB,TEENS; TABERNACLE CHRISTIAN SCHOOL,PS-12 KJB, BBF 2818 S PARK RD KOKOMO IN 46902 AUDIO SERMONS 24241 STATE"
+    "description": "MARTINSVILLE IN 46151 SS 930,SM 1030,SN 630,W 730 MASTERS CLUB,TEENS; TABERNACLE CHRISTIAN SCHOOL,PS-12 KJB, BBF 2818 S PARK RD KOKOMO IN 46902 AUDIO SERMONS 24241 STATE"
   },
   {
     "id": "1475",
     "name": "DUPONT BAPTIST CHURCH",
-    "address": "6720 W SOUTH ST",
+    "address": "7 LIGHTHOUSE CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1374,7 +1374,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILL MURDOCK. PO BOX 67 6720 W SOUTH ST DUPONT IN 47231 SS 930,SM 1030,SN 7,W 7 KJB, BBF 1730 E 430 S LAFAYETTE IN 47905 SS 930,SM 1030,SN 6,W 7 LIGHTHOUSE CHRISTIAN ACADEMY, PK-12 KJB, UNAFFLIATED"
+    "description": "PO BOX 67 DUPONT IN 47231 SS 930,SM 1030,SN 7,W 7 KJB, BBF 1730 E 430 S LAFAYETTE IN 47905 SS 930,SM 1030,SN 6,W IAN ACADEMY, PK-12 KJB, UNAFFLIATED"
   },
   {
     "id": "1476",
@@ -1410,7 +1410,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM R MCDONNELL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1478",
@@ -1428,7 +1428,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL WALLENBECK. 1802 EDISON ST SCHERERVILLE IN 46319 GRIFFITH AREA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SCHERERVILLE IN 46319 GRIFFITH AREA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1479",
@@ -1446,7 +1446,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDAL MORRIS. 68080 DIVISION ST NEW PARIS IN 46553 SS 930, SM 1030, SN 130, W 7 KJB church."
+    "description": "NEW PARIS IN 46553 SS 930, SM 1030, SN 130, W 7 KJB church"
   },
   {
     "id": "1480",
@@ -1464,12 +1464,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "7427 E 34 ST INDIANAPOLIS IN 46226 SS 945,SM 1045,SN 6,W 7"
+    "description": "INDIANAPOLIS IN 46226 SS 945,SM 1045,SN 6,W 7"
   },
   {
     "id": "1481",
     "name": "INDIANA INDEPENDENT BAPTIST COLLEGE",
-    "address": "911 FULTON ST",
+    "address": "7 BETHEL CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1483,12 +1483,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RON AMMON. KJB,UNAFFILIATED 911 FULTON ST TELL CITY IN 47586 SS 10,SM 11,SN 6,W 7 BETHEL CHRISTIAN ACADEMY,K5-12, ACE PO BOX 662 933 S NURSERY RD LAPORTE IN 46350 SS 945,SM 11,SN 530,W 630 KJB,HYLES"
+    "description": "KJB,UNAFFILIATED TELL CITY IN 47586 SS 10,SM 11,SN 6,W IAN ACADEMY,K5-12, ACE PO BOX 662 933 S NURSERY RD LAPORTE IN 46350 SS 945,SM 11,SN 530,W 630 KJB,HYLES"
   },
   {
     "id": "1482",
     "name": "THREE RIVERS BAPTIST CHURCH",
-    "address": "1406 LUMBARD ST",
+    "address": "1406 LUMBARD ST FORT WAY",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1502,7 +1502,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE HOLLOWAY. 1406 LUMBARD ST FORT WAYNE IN 46803 SS 10,SM 11,SN 5,W 7 TEEN PRGM SUN AFTERNOON, BUS, SOULWINNING; TRB ACADEMY K-12,PACES 1700 S GOYER RD KOKOMO IN 46902 SM 10,SS 11,SN 6,W 6 AUDIO SERMONS; TEMPLE CH KJB church."
+    "description": "NE IN 46803 SS 10,SM 11,SN 5,W 7 TEEN PRGM SUN AFTERNOON, BUS, SOULWINNING; TRB ACADEMY K-12,PACES 1700 S GOYER RD KOKOMO IN 46902 SM 10,SS 11,SN 6,W 6 AUDIO SERMONS; TEMPLE CH KJB church"
   },
   {
     "id": "1483",
@@ -1539,12 +1539,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUG KEPPEL. KJB, UNAFFILIATED 230 N 6TH ST PO BOX 26 PARKER CITY IN 47368 SS 10,SM 11,SN VARIES,W 7 KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED PARKER CITY IN 47368 SS 10,SM 11,SN VARIES,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1485",
     "name": "FAIRHAVEN BAPTIST CHURCH",
-    "address": "86 E OAK HILL RD",
+    "address": "86 E OAK HILL RD CHEST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1559,7 +1559,7 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by LARRY HOF. 86 E OAK HILL RD CHESTERTON IN 46304 SS 945,SM 1045,SN 530,W 7 KJB,BBF 1489 E 600 NORTH GREENFIELD IN 46236 near INDIANAPOLIS SS 10,SM 11,SN 6,W 7 FORT BENJAMIN HARRISON 989 W 700 S BERNE IN 46711 COR"
+    "description": "ERTON IN 46304 SS 945,SM 1045,SN 530,W 7 KJB,BBF 1489 E 600 NORTH GREENFIELD IN 46236 near INDIANAPOLIS SS 10,SM 11,SN 6,W 7 FORT BENJAMIN HARRISON 989 W 700 S BERNE IN 46711 COR"
   },
   {
     "id": "1486",
@@ -1578,7 +1578,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ANDREW D GREEN. 1511 W DRAKE RD KENDALLVILLE IN 46755 1547 W DRAKE RD 600 S DIXON RD KOKOMO IN 46901 SS 930,SM 1030,SN 6,W 6 KJB,BBFI,IBBF 4849 FORD ST SOUTH BEND IN 46619 SS 930,SM 1030,SN 130"
+    "description": "KENDALLVILLE IN 46755 1547 W DRAKE RD 600 S DIXON RD KOKOMO IN 46901 SS 930,SM 1030,SN 6,W 6 KJB,BBFI,IBBF 4849 FORD ST SOUTH BEND IN 46619 SS 930,SM 1030,SN 130"
   },
   {
     "id": "1487",
@@ -1597,7 +1597,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MARC G MONTE. 7090 US HWY 36 AVON IN 46123 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS, AWANA, BUS, SOULWINNING KJB, GLOBAL IBF, HBBC, IBC 10701 E 56TH ST INDIANAPOLIS IN 46235 LAWRENCE AREA SS 10,SM 11,SN 6,W 7"
+    "description": "7090 US HWY 36 AVON IN 46123 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS, AWANA, BUS, SOULWINNING KJB, GLOBAL IBF, HBBC, IBC INDIANAPOLIS IN 46235 LAWRENCE AREA SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1488",
@@ -1616,12 +1616,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY YORK. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "1489",
     "name": "VICTORY BIBLE CHURCH",
-    "address": "",
+    "address": "PO BOX 185",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1635,7 +1635,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVID M ATKINSON. PO BOX 185 CAMBY IN 46113 HWY 67 & COUNTY LINE RD in MOORESVILLE IN 46158 SS 10,SM 11,SN 530,W 7 KJV, AMBASSADOR-BC, HERITAGE-BC KJB church."
+    "description": "CAMBY IN 46113 HWY 67 & COUNTY LINE RD in MOORESVILLE IN 46158 SS 10,SM 11,SN 530,W 7 KJV, AMBASSADOR-BC, HERITAGE-BC KJB church"
   },
   {
     "id": "1490",
@@ -1655,12 +1655,12 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KENT KIRCHMEYER. 735 213TH ST DYER IN 46311 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA, TEENS, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "DYER IN 46311 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA, TEENS, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "1491",
     "name": "FIRST MT PLEASANT BAPTIST CHURCH",
-    "address": "952 W STATE RD 44",
+    "address": "7 HERITAGE BAPTIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1674,7 +1674,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GERALD H PRIVETT. 952 W STATE RD 44 FRANKLIN IN 46131 SS 930,SM 1030,SN 6,W 7,THU VIS 2 & 7 HERITAGE BAPTIST COLLEGE; AUDIO SERMONS; CHRISTIAN SCHOOL,ACE; THE POWER OF THE GOSPEL: WBRI 1500AM SATURDAY 12 NOON-1 AND fro KJB church."
+    "description": "FRANKLIN IN 46131 SS 930,SM 1030,SN 6,W 7,THU VIS 2 & COLLEGE; AUDIO SERMONS; CHRISTIAN SCHOOL,ACE; THE POWER OF THE GOSPEL: WBRI 1500AM SATURDAY 12 NOON-1 AND fro KJB church"
   },
   {
     "id": "1492",
@@ -1692,7 +1692,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR RONALD A HON. 502 BIELBY RD LAWRENCEBURG IN 47025 2445 W KEM RD MARION IN 46952 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "LAWRENCEBURG IN 47025 2445 W KEM RD MARION IN 46952 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1493",
@@ -1701,8 +1701,8 @@ export const indianaChurches: Church[] = [
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
-    "latitude": 39.3822,
-    "longitude": -84.7973,
+    "latitude": 39.044,
+    "longitude": -87.1586,
     "phone": "(317) 769-6777",
     "website": "http://www.mttaborbaptist.com",
     "pastor": "BRENT WEAVER",
@@ -1710,7 +1710,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRENT WEAVER. 7300 S SR 267 LEBANON IN 46502 LITZA’S WEBSITE SS 930,SM 1030,SN 6,W 7 AWANA, CHOIR, TEENS, YOUTH KJB church."
+    "description": "7300 S SR 267 LEBANON IN 46502 LITZA’S WEBSITE SS 930,SM 1030,SN 6,W 7 AWANA, CHOIR, TEENS, YOUTH KJB church"
   },
   {
     "id": "1494",
@@ -1730,7 +1730,7 @@ export const indianaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by TIMOTHY N JOHNSON. 6931 W 100 S SHIRLEY IN 47384 SS 945,SM 1045,SN 6,W 6 RADIO WMDH 102.5 FM; CENTRAL INDIANA INDEPENDENT BAPTIST BIBLE COLLEGE KJV, BBF KJB church."
+    "description": "6931 W 100 S SHIRLEY IN 47384 SS 945,SM 1045,SN 6,W 6 RADIO WMDH 102.5 FM; CENTRAL INDIANA INDEPENDENT BAPTIST BIBLE COLLEGE KJV, BBF KJB church"
   },
   {
     "id": "1495",
@@ -1749,12 +1749,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by FRANK WOOD. 25 W 1200N KINGMAN IN 47952 TANGIER AREA KJB, BBFI, IBBF, HBBC"
+    "description": "25 W 1200N KINGMAN IN 47952 TANGIER AREA KJB, BBFI, IBBF, HBBC"
   },
   {
     "id": "1496",
     "name": "WHITTIER LANE BAPTIST CHURCH",
-    "address": "1371 WHITTIER LN",
+    "address": "1371 WHITTIER LN NEW CAST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1767,12 +1767,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF FARNHAM. 1371 WHITTIER LN NEW CASTLE IN 47362 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LE IN 47362 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1497",
     "name": "LAGRANGE BAPTIST CHURCH",
-    "address": "1049 A ST NE A",
+    "address": "7 CALVARY CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1786,7 +1786,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR H EUGENE RIKER. 1370 N SR 9 LAGRANGE IN 46761 KJB,BBF 1049 A ST NE A LINTON IN 47441 SS 930,SM 1030,SN 6,W 7 CALVARY CHRISTIAN SCHOOL,K-12 KJB,HYLES"
+    "description": "1370 N SR 9 LAGRANGE IN 46761 KJB,BBF LINTON IN 47441 SS 930,SM 1030,SN 6,W IAN SCHOOL,K-12 KJB,HYLES"
   },
   {
     "id": "1498",
@@ -1804,17 +1804,17 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VITO RULLI. 7821 W SR 46 ELLETTSVILLE IN 47429 SS 9,SM 10,SN 6,W 7 PRE-SCHOOL DAYCARE, 3-5 YEAR OLDS; AUDIO SERMONS KJB church."
+    "description": "7821 W SR 46 ELLETTSVILLE IN 47429 SS 9,SM 10,SN 6,W 7 PRE-SCHOOL DAYCARE, 3-5 YEAR OLDS; AUDIO SERMONS KJB church"
   },
   {
     "id": "1499",
     "name": "LAKESIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 307",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
-    "latitude": 39.3559,
-    "longitude": -84.762,
+    "latitude": 41.2105,
+    "longitude": -85.7627,
     "phone": "(574) 784-2216",
     "website": "http://www.whereservinggodisexciting.com",
     "pastor": "BOB ADAMS",
@@ -1822,7 +1822,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB ADAMS. PO BOX 307 515 N MICHIGAN TRL LAKEVILLE IN 46536 SS 930,SM 1030,SN 6,W 7 KINGS KIDS KJB,HERITAGE-BU"
+    "description": "515 N MICHIGAN TRL LAKEVILLE IN 46536 SS 930,SM 1030,SN 6,W 7 KINGS KIDS KJB,HERITAGE-BU"
   },
   {
     "id": "1500",
@@ -1840,12 +1840,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES JONES. 323 E SCHOOL RD ANDERSON IN 46011 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ANDERSON IN 46011 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1501",
     "name": "MAIN CROSS INDEPENDENT BAPTIST",
-    "address": "145 MAIN CROSS ST",
+    "address": "145 MAIN CROSS ST CHARLEST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1859,7 +1859,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HERBERT CHANEY. 145 MAIN CROSS ST CHARLESTOWN IN 47111 602 N ARTHUR ST RUSHVILLE IL 46173 KJB church."
+    "description": "OWN IN 47111 602 N ARTHUR ST RUSHVILLE IL 46173 KJB church"
   },
   {
     "id": "1502",
@@ -1877,7 +1877,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL E WILHITE. 7520 SR 142 MARTINSVILLE IN 46151 PROPHETS CHAMBER SS 10,SM 11,SN 6,W 7 PO BOX 505 206 S OAK ST MENTONE IN 46539 SS 930,SM 1030,SN 630,W 7 KJB church."
+    "description": "7520 SR 142 MARTINSVILLE IN 46151 PROPHETS CHAMBER SS 10,SM 11,SN 6,W 7 PO BOX 505 MENTONE IN 46539 SS 930,SM 1030,SN 630,W 7 KJB church"
   },
   {
     "id": "1503",
@@ -1895,7 +1895,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL TARR. 219 LADOGA RD NORTH SALEM IN 46165 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "NORTH SALEM IN 46165 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1504",
@@ -1913,7 +1913,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 550 11015 LAFAYETTE CENTER RD ROANOKE IN 46783 SS 930,SM 1045,SN 6"
+    "description": "PO BOX 550 ROANOKE IN 46783 SS 930,SM 1045,SN 6"
   },
   {
     "id": "1505",
@@ -1932,7 +1932,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JIM BARNES. BUS, CAMP, TEEN, RESCUE MISSION, SOULWINNING, AUDIO & VIDEO SERMONS, ANSWER PUBLICATIONS, S.W.A.T. YOUTH, ROANOKE BAPTIST MISSION BOA KJB church."
+    "description": "BUS, CAMP, TEEN, RESCUE MISSION, SOULWINNING, AUDIO & VIDEO SERMONS, ANSWER PUBLICATIONS, S.W.A.T. YOUTH, ROANOKE BAPTIST MISSION BOA KJB church"
   },
   {
     "id": "1506",
@@ -1951,7 +1951,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PETER BAUGH. 7183 E CR 100 N AVON IN 46123 SS 930,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "7183 E CR 100 N AVON IN 46123 SS 930,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1507",
@@ -1969,12 +1969,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON BURTON. 1267 W 750 S TRAFALGAR IN 46181 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE CAMP ATTERBURY IS 3 MILES W KJB, UNREGISTERED"
+    "description": "1267 W 750 S TRAFALGAR IN 46181 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE CAMP ATTERBURY IS 3 MILES W KJB, UNREGISTERED"
   },
   {
     "id": "1508",
     "name": "CORNERSTONE HISTORIC BAPTIST CHURCH",
-    "address": "933 N HOWARD ST",
+    "address": "47390 BIBLE INST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -1987,7 +1987,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH R PEARSON. 933 N HOWARD ST UNION CITY IN 47390 BIBLE INSTITUTE,ASSISTED LIVING SERVICES, INTERNET RADIO - MONDAYS 8PM 3200 CASEY RD NEWBURGH IN 47630 SS 930,SM 1030,SN 630,W 7 PROPHETS CHAMBER, NEAR FORT CAMPBEL KJB church."
+    "description": "UNION CITY IN ITUTE,ASSISTED LIVING SERVICES, INTERNET RADIO - MONDAYS 8PM 3200 CASEY RD NEWBURGH IN 47630 SS 930,SM 1030,SN 630,W 7 PROPHETS CHAMBER, NEAR FORT CAMPBEL KJB church"
   },
   {
     "id": "1509",
@@ -1996,8 +1996,8 @@ export const indianaChurches: Church[] = [
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
-    "latitude": 40.423,
-    "longitude": -84.783,
+    "latitude": 41.0795,
+    "longitude": -85.7653,
     "phone": "(574) 753-7345",
     "website": "http://www.hbclogansport.com",
     "pastor": "JOHN D RAY",
@@ -2005,12 +2005,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN D RAY. 2110 N 3RD ST LOGANSPORT IN 46947 SS 930,SM 1030,SN 6, BUS,KINGS KIDS,TEEN, AUDIO SERMONS KJB church."
+    "description": "LOGANSPORT IN 46947 SS 930,SM 1030,SN 6, BUS,KINGS KIDS,TEEN, AUDIO SERMONS KJB church"
   },
   {
     "id": "1510",
     "name": "SOUTHEAST BAPTIST TABERNACLE",
-    "address": "6835 SHELBYVILLE RD",
+    "address": "2204 S MACEDONIA AVE",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2024,7 +2024,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RON ELAM. 6835 SHELBYVILLE RD INDIANAPOLIS IN 46237 SS 945,SM 1050,SN 6,W 7 AWANA, PATCH PIRATE, SENIORS, TEENS, AUDIO & VIDEO SERMONS; SOUTHEAST BIBLE INSTITUTE 2204 S MACEDONIA AVE MUNCIE IN 47302 SS 10,SM 11 KJB church."
+    "description": "INDIANAPOLIS IN 46237 SS 945,SM 1050,SN 6,W 7 AWANA, PATCH PIRATE, SENIORS, TEENS, AUDIO & VIDEO SERMONS; SOUTHEAST BIBLE INSTITUTE MUNCIE IN 47302 SS 10,SM 11 KJB church"
   },
   {
     "id": "1511",
@@ -2042,12 +2042,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE MOORE. PO BOX 535 504 N 12TH ST ELWOOD IN 46036 SS 10, SM 11,SN 6,W 7 KJB, RUCKMAN"
+    "description": "PO BOX 535 ELWOOD IN 46036 SS 10, SM 11,SN 6,W 7 KJB, RUCKMAN"
   },
   {
     "id": "1512",
     "name": "OPEN BIBLE INDEPENDENT BAPTIST CHURCH",
-    "address": "331 N 2ND ST",
+    "address": "6950 E RAYMOND ST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2064,12 +2064,12 @@ export const indianaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by DANIEL W TIDD. 331 N 2ND ST ELKHART IN 46516 SS 10,SM 11,SN 6,W 630 SOULWINNING KJB,BBF,HBBC 6950 E RAYMOND ST INDIANAPOLIS IN 46239 SM 11,SN 6,W 7 AWANA, SOULWINNING, TEEN, CHOIR, RESCUE MISSION, BUS, AUDIO SERMONS"
+    "description": "331 N 2ND ST ELKHART IN 46516 SS 10,SM 11,SN 6,W 630 SOULWINNING KJB,BBF,HBBC INDIANAPOLIS IN 46239 SM 11,SN 6,W 7 AWANA, SOULWINNING, TEEN, CHOIR, RESCUE MISSION, BUS, AUDIO SERMONS"
   },
   {
     "id": "1513",
     "name": "MT CALVARY BAPTIST CHURCH",
-    "address": "3900 S SNODDY RD",
+    "address": "3470 N HIGH SCHOOL RD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2083,7 +2083,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LEO MEJIA. 3900 S SNODDY RD BLOOMINGTON IN 47401 SS 10,SM 11,SN 6,W 7 SERMON OUTLINES 3470 N HIGH SCHOOL RD INDIANAPOLIS IN 46224 SS 10,SM 11,SN 6,W 7 SOULWINNING, YOUTH, TEEN, RADIO, AUDIO SERMONS, FORT BENJAMI KJB church."
+    "description": "BLOOMINGTON IN 47401 SS 10,SM 11,SN 6,W 7 SERMON OUTLINES INDIANAPOLIS IN 46224 SS 10,SM 11,SN 6,W 7 SOULWINNING, YOUTH, TEEN, RADIO, AUDIO SERMONS, FORT BENJAMI KJB church"
   },
   {
     "id": "1514",
@@ -2101,7 +2101,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB KOENIG. 2252 N ST RD 3 HARTFORD CITY IN 47348 SS 930,SM 1030,SN 6,W 7 RT 5, BOX 1301 925 N 200 W ANGOLA IN 46703 SS 930,SM 1030,SN 630,W 7 KJB church."
+    "description": "HARTFORD CITY IN 47348 SS 930,SM 1030,SN 6,W 7 RT 5, BOX 1301 925 N 200 W ANGOLA IN 46703 SS 930,SM 1030,SN 630,W 7 KJB church"
   },
   {
     "id": "1515",
@@ -2119,7 +2119,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK MCCLURE. KJB,HYLES"
+    "description": "KJB,HYLES"
   },
   {
     "id": "1516",
@@ -2138,7 +2138,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BOB WILLIAMS. 769 WEST 800 SOUTH HEBRON IN 46341 SS 930,SM 1045,SN 6,W 7 AWANA, BUS, TEEN, SOULWINNING; HEBRON CHRISTIAN ACADEMY,PREK-12 616 S MICKLEY AVE INDIANAPOLIS IN 46421 BUS, KINGS KIDS, COLLEGE OUTREACH SS  KJB church."
+    "description": "HEBRON IN 46341 SS 930,SM 1045,SN 6,W 7 AWANA, BUS, TEEN, SOULWINNING; HEBRON CHRISTIAN ACADEMY,PREK-12 616 S MICKLEY AVE INDIANAPOLIS IN 46421 BUS, KINGS KIDS, COLLEGE OUTREACH SS KJB church"
   },
   {
     "id": "1517",
@@ -2158,12 +2158,12 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by KANE RINGER. 8020 N OLD STATE RD 67 MOORESVILLE IN 46158 SS 10,SM 11,SN 6,W 7 KJB,BBF"
+    "description": "MOORESVILLE IN 46158 SS 10,SM 11,SN 6,W 7 KJB,BBF"
   },
   {
     "id": "1518",
     "name": "PARAGON BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 163",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2176,7 +2176,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD POTTER. PO BOX 163 249 W UNION PARAGON IN 46166 SS 10,SM 11,W 630 KJB church."
+    "description": "249 W UNION PARAGON IN 46166 SS 10,SM 11,W 630 KJB church"
   },
   {
     "id": "1519",
@@ -2194,7 +2194,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK S SMITH. PO BOX 68 SHEPARDSVILLE IN 47880 11101 N SHIRLEY ST, CLINTON IN 47842 SS 10,SM 1055,SN 6,W 7 AUDIO SERMONS KJB, HYMNS, CONSERVATIVE 453 W MAIN ST WESTVILLE IN 46391 SS 930, SM 1030, SN 6, W 7 BIBLICAL"
+    "description": "PO BOX 68 SHEPARDSVILLE IN 47880 , CLINTON IN 47842 SS 10,SM 1055,SN 6,W 7 AUDIO SERMONS KJB, HYMNS, CONSERVATIVE 453 W MAIN ST WESTVILLE IN 46391 SS 930, SM 1030, SN 6, W 7 BIBLICAL"
   },
   {
     "id": "1520",
@@ -2212,7 +2212,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN D JORDAN. 608 S MAIN ST ENGLISH IN 47118 SS 10, SM 11, SN 115, W 6 BIBLE-LITERALIST INSTITUTES: RESIDENCE AND CORRESPONDENCE, SCHOOL OF INDIGENOUS MISSIONS PO BOX 155 204 MAIN ST LAUREL IN 47024 SS 10, SM 11 SE KJB church."
+    "description": "ENGLISH IN 47118 SS 10, SM 11, SN 115, W 6 BIBLE-LITERALIST INSTITUTES: RESIDENCE AND CORRESPONDENCE, SCHOOL OF INDIGENOUS MISSIONS PO BOX 155 204 MAIN ST LAUREL IN 47024 SS 10, SM 11 SE KJB church"
   },
   {
     "id": "1521",
@@ -2231,7 +2231,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRANDON SICHTING. 3611 POST RD MUNCIE IN 47302 SS 10,SM 11,SN 7,W 7 YOUTH, TEEN, VAN, FOOD, TV, NOAHS ARK DAYCARE KJB,BBF"
+    "description": "MUNCIE IN 47302 SS 10,SM 11,SN 7,W 7 YOUTH, TEEN, VAN, FOOD, TV, NOAHS ARK DAYCARE KJB,BBF"
   },
   {
     "id": "1522",
@@ -2251,7 +2251,7 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by JOSHUA LOVENS. 1150 SR 144 MOORESVILLE IN 46158 SS 930,SM 1030,SN 630,W 7 SOULWINNING, FELLOWSHIP BAPTIST COLLEGE-FREE, AUDIO SERMONS KJB church."
+    "description": "1150 SR 144 MOORESVILLE IN 46158 SS 930,SM 1030,SN 630,W 7 SOULWINNING, FELLOWSHIP BAPTIST COLLEGE-FREE, AUDIO SERMONS KJB church"
   },
   {
     "id": "1523",
@@ -2270,12 +2270,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIMOTHY FLUTY. 4301 SCATTERFIELD RD ANDERSON IN 46013 KJB,UNAFFILIATED"
+    "description": "ANDERSON IN 46013 KJB,UNAFFILIATED"
   },
   {
     "id": "1524",
     "name": "GARRISON CREEK BAPTIST CHURCH",
-    "address": "6302 S GARRISON RD",
+    "address": "10 MILES FROM NATIONAL GUARD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2288,7 +2288,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FORD GLOVER. 6302 S GARRISON RD CONNERSVILLE IN 47331 SS 930,SM  1030,SN 6,W 7 NURSERY, BUS, JAIL, YOUTH GROUP, 10 MILES FROM NATIONAL GUARD ARMORY KJB, GIBF"
+    "description": "CONNERSVILLE IN 47331 SS 930,SM 1030,SN 6,W 7 NURSERY, BUS, JAIL, YOUTH GROUP, ARMORY KJB, GIBF"
   },
   {
     "id": "1525",
@@ -2307,12 +2307,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY ROBERTS. 722 E COUNTY LINE RD INDIANAPOLIS IN 46227 SS 930,SM 1030,SN 6,W 7 AWANA; SUBURBAN BAPTIST SCHOOL,K4-12,TRADITIONAL; 35 MIN. NORTH OF CAMP ATTABURY KJB,UNAFFILIATED"
+    "description": "INDIANAPOLIS IN 46227 SS 930,SM 1030,SN 6,W 7 AWANA; SUBURBAN BAPTIST SCHOOL,K4-12,TRADITIONAL; 35 MIN. NORTH OF CAMP ATTABURY KJB,UNAFFILIATED"
   },
   {
     "id": "1526",
     "name": "GRACE COMMUNITY BAPTIST CHURCH",
-    "address": "301 S BEACH DR",
+    "address": "5483 E STATE RD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2320,17 +2320,17 @@ export const indianaChurches: Church[] = [
     "longitude": -86.9055,
     "phone": "(219) 843-1611",
     "website": "https://adelphia.net",
-    "pastor": "",
+    "pastor": "MONTICELLO IN 47960 KJB,HYLES PO BOX 614 5483 E STATE RD 66 GRANDVIEW IN 47615 KJB,HERITAGE-BU",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "301 S BEACH DR MONTICELLO IN 47960 KJB,HYLES PO BOX 614 5483 E STATE RD 66 GRANDVIEW IN 47615 KJB,HERITAGE-BU"
+    "description": "MONTICELLO IN 47960 KJB,HYLES PO BOX 614 66 GRANDVIEW IN 47615 KJB,HERITAGE-BU"
   },
   {
     "id": "1527",
     "name": "FREMONT STREET BAPTIST CHURCH",
-    "address": "1908 FREMONT ST",
+    "address": "1908 FREMONT ST CRAWFORD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2343,7 +2343,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1908 FREMONT ST CRAWFORDSVILLE IN 47933 SS 930,SM 1030,SN 6,W 7"
+    "description": "SVILLE IN 47933 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1528",
@@ -2361,7 +2361,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by R BARRY KIRVES.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1529",
@@ -2379,12 +2379,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN KEMP. 1624 S HELFRICH AVE EVANSVILLE IN 47712 SS 950,SM 11,SN 6,W 7 AUDIO SERMONS, MASTERS CLUB,TEENS; LANDMARK BAPTIST ACADEMY, K-12 KJB church."
+    "description": "EVANSVILLE IN 47712 SS 950,SM 11,SN 6,W 7 AUDIO SERMONS, MASTERS CLUB,TEENS; LANDMARK BAPTIST ACADEMY, K-12 KJB church"
   },
   {
     "id": "1530",
     "name": "OLIVE BRANCH BAPTIST CHURCH",
-    "address": "13441 W STATE ROAD 54",
+    "address": "3 MILES WEST OF LINTON ON STATE ROAD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "13441",
@@ -2398,7 +2398,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LARRY KIMMELL. PO BOX 525 13441 W STATE ROAD 54 LINTON IN 47441 3 MILES WEST OF LINTON ON STATE ROAD 54 SS 930,SM 1030,SN 6, W 7 CHOIR, BUS, SOULWINNING, MASTER CLUB TUES 630 PM; CRANE NAVAL FACILITY 30 MILES KJB church."
+    "description": "PO BOX 525 LINTON IN 47441 54 SS 930,SM 1030,SN 6, W 7 CHOIR, BUS, SOULWINNING, MASTER CLUB TUES 630 PM; CRANE NAVAL FACILITY 30 MILES KJB church"
   },
   {
     "id": "1531",
@@ -2411,12 +2411,12 @@ export const indianaChurches: Church[] = [
     "longitude": -86.7924,
     "phone": "(812) 268-5709",
     "website": "https://bibleviewbaptistchurch.org",
-    "pastor": "MICHAEL C POOLE",
+    "pastor": "HIGHLAND IN 46319 SS 930,SM 1030,SN 6,W 7",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL C POOLE. 315 S FERRIS ST SULLIVAN IN 47882 SS 10,SM 11,SN 6,W 7 KJB,IBFI 8720 ORCHARD DR HIGHLAND IN 46319 SS 930,SM 1030,SN 6,W 7"
+    "description": "SULLIVAN IN 47882 SS 10,SM 11,SN 6,W 7 KJB,IBFI 8720 ORCHARD DR HIGHLAND IN 46319 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1532",
@@ -2436,7 +2436,7 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JAMES C JOHNSON. KJB, GIBF 3501 S MADISON ST MUNCIE IN 47302 SS 930,SM 1030,SN 630,W 630 KJB, BBF, IBFI 2960 E SR 38 NEW CASTLE IN 47362"
+    "description": "KJB, GIBF MUNCIE IN 47302 SS 930,SM 1030,SN 630,W 630 KJB, BBF, IBFI 2960 E SR 38 NEW CASTLE IN 47362"
   },
   {
     "id": "1533",
@@ -2454,12 +2454,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL R POWELL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1534",
     "name": "NORTH HARRISON BAPTIST CHURCH",
-    "address": "",
+    "address": "47166 CALVARY BIBLE MINIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2472,7 +2472,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENVER DEKEYSER. PO BOX 46 RR 1 BOX 281A RAMSEY IN 47166 CALVARY BIBLE MINISTRIES INTERNATIONAL; KJB BIBLE SALES ONLINE PO BOX 322 SR 127 N ANGOLA IN 46703 SS 9,SM 10,SN 5,W 7 KJB,PRE-TRIB,PRE-MIL,"
+    "description": "PO BOX 46 RR 1 BOX 281A RAMSEY IN RIES INTERNATIONAL; KJB BIBLE SALES ONLINE PO BOX 322 SR 127 N ANGOLA IN 46703 SS 9,SM 10,SN 5,W 7 KJB,PRE-TRIB,PRE-MIL"
   },
   {
     "id": "1535",
@@ -2491,7 +2491,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by FRANK FINNEY. 440 W CR 850 S CLAY CITY IN 47841 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS PO BOX 438 751 NINEVEH ST FRANKLIN IN 46131 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "440 W CR 850 S CLAY CITY IN 47841 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS PO BOX 438 FRANKLIN IN 46131 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1536",
@@ -2509,7 +2509,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN KELLOUGH. 645 GOSTLIN ST HAMMOND IN 46327 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, GARBC, SBF"
+    "description": "HAMMOND IN 46327 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, GARBC, SBF"
   },
   {
     "id": "1537",
@@ -2528,12 +2528,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL THORNSLEY JR. 80 W MILL RD EVANSVILLE IN 47710 SS 930,SM 1030,SN 6,W 630 AWANA, TEEN UPPER ROOM FELLOWSHIP, YOUNG COUPLES, WOMEN’S, PRIMETIMERS, DISCIPLESHIP, SHUTTLE, MULTI-MEDIA, GRAPHIC ARTS KJB, UNAFFILIATED"
+    "description": "EVANSVILLE IN 47710 SS 930,SM 1030,SN 6,W 630 AWANA, TEEN UPPER ROOM FELLOWSHIP, YOUNG COUPLES, WOMEN’S, PRIMETIMERS, DISCIPLESHIP, SHUTTLE, MULTI-MEDIA, GRAPHIC ARTS KJB, UNAFFILIATED"
   },
   {
     "id": "1538",
     "name": "TRUE LIGHT BAPTIST CHURCH",
-    "address": "309 W MAIN ST",
+    "address": "330 CORTLAND ST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2549,12 +2549,12 @@ export const indianaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by NATHAN RETTINGER. PO BOX 181 309 W MAIN ST LIZTON IN 46149 SS 930, SM 11, SN 6, W 7 KJB, UNAFFILIATED PO BOX 238 330 CORTLAND ST LAPAZ IN 46537-0238 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE, PRO TEEN 2500 MARAGRET AVE TERR"
+    "description": "PO BOX 181 LIZTON IN 46149 SS 930, SM 11, SN 6, W 7 KJB, UNAFFILIATED PO BOX 238 LAPAZ IN 46537-0238 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE, PRO TEEN 2500 MARAGRET AVE TERR"
   },
   {
     "id": "1539",
     "name": "HANNA STREET BAPTIST CHURCH",
-    "address": "501 E HANNA ST",
+    "address": "501 E HANNA ST GREENCAST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2568,7 +2568,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MATTHEW ELLIOTT. 501 E HANNA ST GREENCASTLE IN 46135 KJB, BBF 1830 N MICHIGAN ST PLYMOUTH IN 46563 SS 930,SM 11,SN 6,W 7"
+    "description": "LE IN 46135 KJB, BBF 1830 N MICHIGAN ST PLYMOUTH IN 46563 SS 930,SM 11,SN 6,W 7"
   },
   {
     "id": "1540",
@@ -2586,12 +2586,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM RUSSELL. KJB, UNAFILLIATED 2893 SR 57 S WASHINGTON IN 47501"
+    "description": "KJB, UNAFILLIATED 2893 SR 57 S WASHINGTON IN 47501"
   },
   {
     "id": "1541",
     "name": "PASTOROFTEMPLEBAPTIST",
-    "address": "",
+    "address": "7 KIDS FOR CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2604,7 +2604,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT BOSTON. SS 930, SM 1030,SN 5, W 7 2900 N 500 E KENDALLVILLE IN 46755 SS 930,SM 1030,SN 6,W 7 KIDS FOR CHRIST WED, AUDIO SERMONS KJB, FBF"
+    "description": "SS 930, SM 1030,SN 5, W 7 2900 N 500 E KENDALLVILLE IN 46755 SS 930,SM 1030,SN 6,W WED, AUDIO SERMONS KJB, FBF"
   },
   {
     "id": "1542",
@@ -2623,12 +2623,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE SUMNER. 1700 E THOMPSON RD INDIANAPOLIS IN 46227 SS 945,SM 1050,SN 6,W 7 DEAF, AUDIO SERMONS KJB, RUCKMAN 2202 BROADWAY ST ANDERSON IN 46012 stc1611@AOL.COM SS 10,SM 11,SN 6,W 7 STREET PREACHING, BIBLE TEACHI"
+    "description": "INDIANAPOLIS IN 46227 SS 945,SM 1050,SN 6,W 7 DEAF, AUDIO SERMONS KJB, RUCKMAN 2202 BROADWAY ST ANDERSON IN 46012 stc1611@AOL.COM SS 10,SM 11,SN 6,W 7 STREET PREACHING, BIBLE TEACHI"
   },
   {
     "id": "1543",
     "name": "EMMANUEL BAPTIST ACADEMY",
-    "address": "319 3RD ST",
+    "address": "473 SIBLEY ST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2642,7 +2642,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICHARD GRUBB. 319 3RD ST PATRIOT IN 47038 KJB, HYLES 507 STATE ST HAMMOND IN 46325 PHYSICAL ADD: 473 SIBLEY ST SS 930,SM 1045,SN 6,W 730 CHRISTIAN SCHOOL,K-12; VIDEO SERMONS, HYLES ANDERSON COLLEGE, GREAT LAKES NAS"
+    "description": "319 3RD ST PATRIOT IN 47038 KJB, HYLES HAMMOND IN 46325 PHYSICAL ADD: SS 930,SM 1045,SN 6,W 730 CHRISTIAN SCHOOL,K-12; VIDEO SERMONS, HYLES ANDERSON COLLEGE, GREAT LAKES NAS"
   },
   {
     "id": "1544",
@@ -2660,7 +2660,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERICK MOORE. 6509 S SR 67 PENDLETON IN 46064 SS 10,SM 11,SN 6,W 7 AWANA (SEPT-APRIL) 645-815 KJB church."
+    "description": "6509 S SR 67 PENDLETON IN 46064 SS 10,SM 11,SN 6,W 7 AWANA (SEPT-APRIL) 645-815 KJB church"
   },
   {
     "id": "1545",
@@ -2678,12 +2678,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE CAPLINGER. 587 LOWER GRANTS RD RISING SUN IN 47040 4966 W 1ST ST FREETOWN, IN 47235 3308 S STATE RT 13 LAPEL IN 46051 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "RISING SUN IN 47040 4966 W 1ST ST FREETOWN, IN 47235 3308 S STATE RT 13 LAPEL IN 46051 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1546",
     "name": "CHAPPELOW RIDGE BAPTIST CHURCH",
-    "address": "",
+    "address": "28176 CHAPPELOW HILL WEST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2696,7 +2696,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALAN FARMER. 28176 CHAPPELOW HILL WEST HARRISON IN 47060 SS 945,SM 1045,SN 630,W 730 KJB church."
+    "description": "HARRISON IN 47060 SS 945,SM 1045,SN 630,W 730 KJB church"
   },
   {
     "id": "1547",
@@ -2714,7 +2714,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL PENEGAR. 6080 OLD CUBA RD SPENCER IN 47460 KJB church."
+    "description": "SPENCER IN 47460 KJB church"
   },
   {
     "id": "1548",
@@ -2732,7 +2732,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY STEPP. 1865 S COUNTY RD 125 W NORTH VERNON IN 47265 KJB church."
+    "description": "NORTH VERNON IN 47265 KJB church"
   },
   {
     "id": "1549",
@@ -2751,7 +2751,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DONALD A CHESHER. 401 HUBER BLVD NEW CHICAGO IN 46342 ABC BIBLE SCHOOL DAYCARE PO BOX 190 110 N BROWN ST MIDDLEBURY IN 46540 9903 MERRILLVILLE RD CROWN POINT IN 46307-2435 SS 10,SM 9 & 11, W 7 KJB, UNAFFILIATED"
+    "description": "NEW CHICAGO IN 46342 ABC BIBLE SCHOOL DAYCARE PO BOX 190 110 N BROWN ST MIDDLEBURY IN 46540 9903 MERRILLVILLE RD CROWN POINT IN 46307-2435 SS 10,SM 9 & 11, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1550",
@@ -2769,7 +2769,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ED GANNON. IDAVILLE IN 47950"
+    "description": "IDAVILLE IN 47950"
   },
   {
     "id": "1551",
@@ -2788,7 +2788,7 @@ export const indianaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by BRIAN SHAW. 1241 W SUMNER AVE INDIANAPOLIS IN 46217 PO BOX 126 334 SR 62 NEW WASHINGTON IN 47162 SS 10,SM 11,SN 6,W 7 4381 W 300 N WABASH IN 46992 SS 930,SM 1030,SN 5,W 7 AWANA, AUDIO SERMONS BBF church."
+    "description": "INDIANAPOLIS IN 46217 PO BOX 126 334 SR 62 NEW WASHINGTON IN 47162 SS 10,SM 11,SN 6,W 7 4381 W 300 N WABASH IN 46992 SS 930,SM 1030,SN 5,W 7 AWANA, AUDIO SERMONS BBF church"
   },
   {
     "id": "1552",
@@ -2824,7 +2824,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JIM RIVERS. 2484 S COUNTY RD DILLSBORO IN 47018"
+    "description": "DILLSBORO IN 47018"
   },
   {
     "id": "1554",
@@ -2842,7 +2842,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JAMES B FORD. 51 E UNION ST KINGMAN IN 47952"
+    "description": "KINGMAN IN 47952"
   },
   {
     "id": "1555",
@@ -2860,12 +2860,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MARK RAMEY. 2122 CASS AVE EVANSVILLE IN 47714 BBF church."
+    "description": "EVANSVILLE IN 47714 BBF church"
   },
   {
     "id": "1556",
     "name": "PINE GROVE MISSIONARY BAPTIST CHURCH",
-    "address": "625 DIVISION ST",
+    "address": "46923 PRIMERA IGLESIA BAUTIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2878,7 +2878,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LARRY BAUGHMAN. 6023 W 200 N DELPHI IN 46923 PRIMERA IGLESIA BAUTISTA HISPANA 625 DIVISION ST INDIANAPOLIS IN 46221 BBF church."
+    "description": "6023 W 200 N DELPHI IN A HISPANA 625 DIVISION ST INDIANAPOLIS IN 46221 BBF church"
   },
   {
     "id": "1557",
@@ -2896,12 +2896,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JERRY PITMAN. PO BOX 1111 420 E JEFFERSON BLVD MISHAWAKA IN 46544 2502 MONROE ST LA PORTE IN 46350 PO BOX 808 608 E 14TH ST ROCHESTER IN 46975 SS 930,SM 1030,SN 7,TUE 730 YOUTH, FAITH BIBLE INSTITUTE 204 W 6TH ST L BBF church."
+    "description": "PO BOX 1111 MISHAWAKA IN 46544 2502 MONROE ST LA PORTE IN 46350 PO BOX 808 608 E 14TH ST ROCHESTER IN 46975 SS 930,SM 1030,SN 7,TUE 730 YOUTH, FAITH BIBLE INSTITUTE 204 W 6TH ST L BBF church"
   },
   {
     "id": "1558",
     "name": "DEARBORN BAPTIST CHURCH",
-    "address": "",
+    "address": "7 BIBLE INST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2915,7 +2915,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by AARON THOMPSON. 9638 SR 48 AURORA IN 47001 SS 930,SM 1030,SN 6,W 7 BIBLE INSTITUTE, AUDIO SERMONS KJB, UNAFFILIATED, TRADITIONAL SERVICES,ANDERSON"
+    "description": "9638 SR 48 AURORA IN 47001 SS 930,SM 1030,SN 6,W ITUTE, AUDIO SERMONS KJB, UNAFFILIATED, TRADITIONAL SERVICES,ANDERSON"
   },
   {
     "id": "1559",
@@ -2935,12 +2935,12 @@ export const indianaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by TIM BILLUPS. 3037 LAFAYETTE RD INDIANAPOLIS IN 46222 SM 11, SN 4, W 7 SOULWINNING, FAMILY INTEGRATED, PSALMS, POST-TRIB, PRE-WRATH, HARD PREACHING, SERMONS ON YOUTUBE NOT KJV ONY,BBF KJB church."
+    "description": "INDIANAPOLIS IN 46222 SM 11, SN 4, W 7 SOULWINNING, FAMILY INTEGRATED, PSALMS, POST-TRIB, PRE-WRATH, HARD PREACHING, SERMONS ON YOUTUBE NOT KJV ONY,BBF KJB church"
   },
   {
     "id": "1560",
     "name": "CONNERSVILLE BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 353",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -2953,7 +2953,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EVAN SHARBAUGH. PO BOX 353 1380 E SR 44 CONNERSVILLE IN 47331 PO BOX 246 (SCHOOL?) SS 930,SM 1030,SN 6,W 7 AWANA; TEMPLE CHRISTIAN SCHOOL,PS-12 NOT KJV ONLY KJB church."
+    "description": "1380 E SR 44 CONNERSVILLE IN 47331 PO BOX 246 (SCHOOL?) SS 930,SM 1030,SN 6,W 7 AWANA; TEMPLE CHRISTIAN SCHOOL,PS-12 NOT KJV ONLY KJB church"
   },
   {
     "id": "1561",
@@ -2972,7 +2972,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEITH TREADWAY. 714 E DIVISION RD VEEDERSBURG IN 47987 SS 9,SM 10,W 630 ESV, GARBC 2635 S DIXON RD KOKOMO IN 46902 SS 9,SM 1020,SN 6,W 630 KOKOMO CHRISTIAN SCHOOL NOT KJV ONLY,GARBC KJB church."
+    "description": "VEEDERSBURG IN 47987 SS 9,SM 10,W 630 ESV, GARBC 2635 S DIXON RD KOKOMO IN 46902 SS 9,SM 1020,SN 6,W 630 KOKOMO CHRISTIAN SCHOOL NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1562",
@@ -2990,7 +2990,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "6423 ARIZONA AVE HAMMOND IN 46323 NOT KJV ONLY,FBF,BJU,MBBC KJB church."
+    "description": "HAMMOND IN 46323 NOT KJV ONLY,FBF,BJU,MBBC KJB church"
   },
   {
     "id": "1563",
@@ -3008,7 +3008,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW CAMPBELL. 8140 UNION CHAPEL RD INDIANAPOLIS IN 46240 AUDIO SERMONS, TEEN, DEAF, SENIORS, COLONIAL PRESS; COLONIAL CHRISTIAN SCHOOL,K-12 NOT KJV ONLY,GARBC,TULIP,S.GRACE KJB church."
+    "description": "INDIANAPOLIS IN 46240 AUDIO SERMONS, TEEN, DEAF, SENIORS, COLONIAL PRESS; COLONIAL CHRISTIAN SCHOOL,K-12 NOT KJV ONLY,GARBC,TULIP,S.GRACE KJB church"
   },
   {
     "id": "1564",
@@ -3029,12 +3029,12 @@ export const indianaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DOUGLAS MCCLURE. 705 HAMILTON ST UNION MILLS IN 46382 NOT KJV ONLY,BBFI,IBBF,BBC-MO 1621 S 350 E BLUFFTON IN 46714 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY,,BBF,FBF 6401 RIVER RD MUNCIE IN 47304 SS 930,SM 1045,SN 630,W 7 AUDI KJB church."
+    "description": "UNION MILLS IN 46382 NOT KJV ONLY,BBFI,IBBF,BBC-MO 1621 S 350 E BLUFFTON IN 46714 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY,,BBF,FBF 6401 RIVER RD MUNCIE IN 47304 SS 930,SM 1045,SN 630,W 7 AUDI KJB church"
   },
   {
     "id": "1565",
     "name": "MORGANTOWN BAPTIST CHURCH",
-    "address": "109 E ELM ST",
+    "address": "610 W ALTO RD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3048,7 +3048,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE ENNIS. 109 E ELM ST MORGANTOWN IN 46160 SS 930,SM 1030,SN 630,W 630 DRAMA,TEEN,YOUTH, AUDIO SERMONS NOT ONLY KJV,MBBC 610 W ALTO RD KOKOMO IN 46902 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY 1205 N CHESTNUT ST, HWY 64 KJB church."
+    "description": "MORGANTOWN IN 46160 SS 930,SM 1030,SN 630,W 630 DRAMA,TEEN,YOUTH, AUDIO SERMONS NOT ONLY KJV,MBBC KOKOMO IN 46902 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY 1205 N CHESTNUT ST, HWY 64 KJB church"
   },
   {
     "id": "1566",
@@ -3068,12 +3068,12 @@ export const indianaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by KYLE HALL. 10500 S CR 300 W MUNCIE IN 47302 SS 930,SM 1045,SN 6,W 7 AUDIO MESSAGES NOT KJV ONLY,BBF KJB church."
+    "description": "10500 S CR 300 W MUNCIE IN 47302 SS 930,SM 1045,SN 6,W 7 AUDIO MESSAGES NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "1567",
     "name": "WHITE RIVER BAPTIST CHURCH",
-    "address": "7705 TUNNELTON RD",
+    "address": "7705 TUNNELTON RD BEDFORD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3087,7 +3087,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RYAN BIDDINGER. 7705 TUNNELTON RD BEDFORD IN 47446 NOT KJV ONLY, BBF, IBBF KJB church."
+    "description": "IN 47446 NOT KJV ONLY, BBF, IBBF KJB church"
   },
   {
     "id": "1568",
@@ -3105,12 +3105,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WYANE JOINER. 2718 S RITTER AVE INDIANAPOLIS IN 46203 NOT KJV ONLY,GARBC 407 W ELM ST PO BOX 547 NORTH LIBERTY IN 46554 SS 930,SM 1030,SN 7,W 730 NOT KJV ONLY, GARBC KJB church."
+    "description": "INDIANAPOLIS IN 46203 NOT KJV ONLY,GARBC 407 W ELM ST PO BOX 547 NORTH LIBERTY IN 46554 SS 930,SM 1030,SN 7,W 730 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "1569",
     "name": "ABOITE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 594",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3124,7 +3124,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by J MARK FREEMAN. FT WAYNE IN 46804 SM 930,SS 11,W 630 AWANA NOT KJV ONLY, IBFI, BBF,MBBC PO BOX 594 DALEVILLE IN 47334 SS 930,SM 1030,SN 6,W 7 PREACH KJV, NOT KJV ONLY KJB church."
+    "description": "FT WAYNE IN 46804 SM 930,SS 11,W 630 AWANA NOT KJV ONLY, IBFI, BBF,MBBC DALEVILLE IN 47334 SS 930,SM 1030,SN 6,W 7 PREACH KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "1570",
@@ -3142,7 +3142,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRYAN L AUGSBURGER. 4821 N HWY 31 COLUMBUS IN 47201 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, AWANA; FAITH BIBLE INSTITUTE NOT KJV ONLY,GARBC 1211 W CAMPBELL ST ARGOS IN 60005 SS 9,SM 1015,SN 630,W 730 AWANA, CHOIR NOT KJV  KJB church."
+    "description": "4821 N HWY 31 COLUMBUS IN 47201 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, AWANA; FAITH BIBLE INSTITUTE NOT KJV ONLY,GARBC ARGOS IN 60005 SS 9,SM 1015,SN 630,W 730 AWANA, CHOIR NOT KJV KJB church"
   },
   {
     "id": "1571",
@@ -3161,12 +3161,12 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DOUGLAS J SCHROEDER. 8800 MIDDLE MT VERNON RD EVANSVILLE IN 47712 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,GARBC 1503 W THAT RD BLOOMINGTON IN 47403 SS 9,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC, TTU, IFRBC 800 W FAITH BLVD PRINC KJB church."
+    "description": "EVANSVILLE IN 47712 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,GARBC 1503 W THAT RD BLOOMINGTON IN 47403 SS 9,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC, TTU, IFRBC 800 W FAITH BLVD PRINC KJB church"
   },
   {
     "id": "1572",
     "name": "WASHINGTON BAPTIST CHURCH",
-    "address": "",
+    "address": "7 NEEDS PAST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3174,13 +3174,13 @@ export const indianaChurches: Church[] = [
     "longitude": -84.8758,
     "phone": "(812) 654-3387",
     "website": "http://www.wbc-elrod.org",
-    "pastor": "",
+    "pastor": "NOT KJV ONLY,BBF KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "5496 E HWY 50 DILLSBORO IN 47108 SS 9,SM 10,SN 6,W 7 NEEDS PASTOR NOT KJV ONLY,BBF KJB church."
+    "description": "5496 E HWY 50 DILLSBORO IN 47108 SS 9,SM 10,SN 6,W 7 NEEDS"
   },
   {
     "id": "1573",
@@ -3199,7 +3199,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KEVIN WILLIS. 9171 N 1000 W DEMOTTE IN 46310 NOT KJV ONLY,CCM,BBFI,IBBF KJB church."
+    "description": "9171 N 1000 W DEMOTTE IN 46310 NOT KJV ONLY,CCM,BBFI,IBBF KJB church"
   },
   {
     "id": "1574",
@@ -3218,7 +3218,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RICK OLIVER. 2650 S VILLA AVE INDIANAPOLIS IN 46203 BAPTIST ACADEMY,PS-12; AUDIO SERMONS NKJV, KJV, NASB, GARBC, IFRBC, CFRBC KJB church."
+    "description": "INDIANAPOLIS IN 46203 BAPTIST ACADEMY,PS-12; AUDIO SERMONS NKJV, KJV, NASB, GARBC, IFRBC, CFRBC KJB church"
   },
   {
     "id": "1575",
@@ -3236,12 +3236,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CHUCK CIRCLE. 6605 PORTAGE AVE PORTAGE IN 46368 SS 930,SM 1045,SN 6,W 7 NASV, S.GRACE-TULIP,"
+    "description": "PORTAGE IN 46368 SS 930,SM 1045,SN 6,W 7 NASV, S.GRACE-TULIP"
   },
   {
     "id": "1576",
     "name": "FRANKLIN ROAD BAPTIST CHURCH",
-    "address": "51 N FRANKLIN RD",
+    "address": "3001 ELM SWAMP RD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3249,12 +3249,12 @@ export const indianaChurches: Church[] = [
     "longitude": -86.026,
     "phone": "(317) 897-1298",
     "website": "http://www.frbaptist.org",
-    "pastor": "KEN COLLINS",
+    "pastor": "NOT KJV ONLY,FBF KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN COLLINS. 51 N FRANKLIN RD INDIANAPOLIS IN 46200 SS 9,SM 10,SN 6,W 630 NOT KJV ONLY,GARBC 3001 ELM SWAMP RD LEBANON IN 46052 SS 9,SM 1015,SN 6,W 645 NEEDS PASTOR NOT KJV ONLY,FBF KJB church."
+    "description": "INDIANAPOLIS IN 46200 SS 9,SM 10,SN 6,W 630 NOT KJV ONLY,GARBC LEBANON IN 46052 SS 9,SM 1015,SN 6,W 645 NEEDS"
   },
   {
     "id": "1577",
@@ -3272,7 +3272,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5715 MIAMI ST SOUTH BEND IN 46614-6198 SS 930,SM 1030,SN 6,W 7"
+    "description": "SOUTH BEND IN 46614-6198 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1578",
@@ -3290,7 +3290,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK HAYES. KJB,S.GRACE,REFORMED"
+    "description": "KJB,S.GRACE,REFORMED"
   },
   {
     "id": "1579",
@@ -3308,7 +3308,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALFRED SMITH. PO BOX 6 30 PLUM ST LINDEN IN 47955 SS 930,SM 1030,SN 1,W 7 KJV,S.GRACE-TULIP KJB church."
+    "description": "PO BOX 6 LINDEN IN 47955 SS 930,SM 1030,SN 1,W 7 KJV,S.GRACE-TULIP KJB church"
   },
   {
     "id": "1580",
@@ -3328,12 +3328,12 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JAMES R ADCOCK. 102 N CONNELLY ST DELPHI IN 46923 NOT KJV ONLY,BBF PO BOX 177 3915 E 400 S KNOX IN 46534 SS 930,SM 1030,SN 6,W 7 REFORMERS UNANIMOUS, TEEN, SENIORS NOT KJV ONLY,GARBC 724 N MAIN ST MISHAWAKA IN 46545  KJB church."
+    "description": "DELPHI IN 46923 NOT KJV ONLY,BBF PO BOX 177 3915 E 400 S KNOX IN 46534 SS 930,SM 1030,SN 6,W 7 REFORMERS UNANIMOUS, TEEN, SENIORS NOT KJV ONLY,GARBC 724 N MAIN ST MISHAWAKA IN 46545 KJB church"
   },
   {
     "id": "1581",
     "name": "LAKEWOOD PARK BAPTIST CHURCH",
-    "address": "",
+    "address": "630 LAKEWOOD PARK CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3346,7 +3346,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD CURTIS. 5555 CR 29 S AUBURN IN 46706 SS 925,SM 8 & 1030,SN 6,W 630 LAKEWOOD PARK CHRISTIAN ACADEMY NOT KJV ONLY,FBF KJB church."
+    "description": "5555 CR 29 S AUBURN IN 46706 SS 925,SM 8 & 1030,SN 6,W IAN ACADEMY NOT KJV ONLY,FBF KJB church"
   },
   {
     "id": "1582",
@@ -3365,7 +3365,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEPHEN ELMER. 9345 BROOKVILLE RD INDIANAPOLIS IN 46239 SS 930,SM 1040,SN 6,W 7 AUDIO SERMONS; BURGE TERRACE CHRISTIAN SCHOOL,PS-1st GRADE BBF, S.GRACE-TULIP 4245 N 200 W GREENFIELD IN 46140 SS 10,SM 1050,SN 6,W 7 A KJB church."
+    "description": "INDIANAPOLIS IN 46239 SS 930,SM 1040,SN 6,W 7 AUDIO SERMONS; BURGE TERRACE CHRISTIAN SCHOOL,PS-1st GRADE BBF, S.GRACE-TULIP 4245 N 200 W GREENFIELD IN 46140 SS 10,SM 1050,SN 6,W 7 A KJB church"
   },
   {
     "id": "1583",
@@ -3383,12 +3383,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOBY JOHNSON. 7950 N CR 650 E BROWNSBURG IN 46112 SS 815 & 930,SM 930 & 11,SN 6,W 7 AWANA, BUS, AUDIO SERMONS; BETHESDA CHRISTIAN SCHOOL,K4-12 NOT KJV ONLY,GARBC KJB church."
+    "description": "7950 N CR 650 E BROWNSBURG IN 46112 SS 815 & 930,SM 930 & 11,SN 6,W 7 AWANA, BUS, AUDIO SERMONS; BETHESDA CHRISTIAN SCHOOL,K4-12 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1584",
     "name": "GRAY ROAD BAPTIST CHURCH",
-    "address": "5500 S GRAY RD",
+    "address": "7 GRAY RD CHRIST",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3401,7 +3401,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by DAVID SCHIEDEL. 5500 S GRAY RD INDIANAPOLIS IN 46237 SS 915,SM 1015,SN 6,W 7 GRAY RD CHRISTIAN SCHOOL; AUDIO SERMONS, AWANA, RADIO ESV,GARBC Non-KJV church."
+    "description": "INDIANAPOLIS IN 46237 SS 915,SM 1015,SN 6,W IAN SCHOOL; AUDIO SERMONS, AWANA, RADIO ESV,GARBC Non-KJV church"
   },
   {
     "id": "1585",
@@ -3421,12 +3421,12 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DAVID J HATCHER. 5679 N CENTER ST COLUMBIA CITY IN 46725 SS 930,SM 1030,SN 630,W 6 NASB, ESV, ASV, S.GRACE-TULIP, BBF 525 N. GREEN RIVER RD. EVANSVILLE IN 47725 SS 930, SM 10, W 6 BUS, SENIORS, BIBLE STUDIES, PRISON,  KJB church."
+    "description": "COLUMBIA CITY IN 46725 SS 930,SM 1030,SN 630,W 6 NASB, ESV, ASV, S.GRACE-TULIP, BBF 525 N. GREEN RIVER RD. EVANSVILLE IN 47725 SS 930, SM 10, W 6 BUS, SENIORS, BIBLE STUDIES, PRISON, KJB church"
   },
   {
     "id": "1586",
     "name": "WOODVILLE BAPTIST CHURCH",
-    "address": "4720 WAYNE TRACE",
+    "address": "4720 WAYNE TRACE FORT WAY",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3440,7 +3440,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TODD SPAIN. RR 3 BOX 331 MITCHELL IN 47446 SS 930,SM 1030,SN 6,W 630 NOT KJV ONLY,BBF, PROMISE KEEPERS, CCM 4720 WAYNE TRACE FORT WAYNE IN 46806 SS 930,SM 1030,SN 6,W 630 BBF,PREACH KJV, STUDY OTHERS SELDOM, KJB church."
+    "description": "RR 3 BOX 331 MITCHELL IN 47446 SS 930,SM 1030,SN 6,W 630 NOT KJV ONLY,BBF, PROMISE KEEPERS, CCM NE IN 46806 SS 930,SM 1030,SN 6,W 630 BBF,PREACH KJV, STUDY OTHERS SELDOM, KJB church"
   },
   {
     "id": "1587",
@@ -3458,7 +3458,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN MITCHELL. 2320 N SMITH PIKE BLOOMINGTON IN 47404 SS 10,SM 11,SN 6,W 7 BJU,NOT KJV ONLY KJB church."
+    "description": "2320 N SMITH PIKE BLOOMINGTON IN 47404 SS 10,SM 11,SN 6,W 7 BJU,NOT KJV ONLY KJB church"
   },
   {
     "id": "1588",
@@ -3476,12 +3476,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE JONES. 6049 E 300 S MARION IN 46953 NOT KJV ONLY,TLB,ABC,CCM-CONT SERVICES 7210 MEADOW LN HAMMOND IN 46324 PREACH-KJV,STUDY OTHERS,GARBC,IFRBC KJB church."
+    "description": "6049 E 300 S MARION IN 46953 NOT KJV ONLY,TLB,ABC,CCM-CONT SERVICES HAMMOND IN 46324 PREACH-KJV,STUDY OTHERS,GARBC,IFRBC KJB church"
   },
   {
     "id": "1589",
     "name": "EAST SIDE BAPTIST CHURCH",
-    "address": "2000 TRACTION RD",
+    "address": "2000 TRACTION RD CRAWFORD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3496,7 +3496,7 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by STEVE VIARS. 2000 TRACTION RD CRAWFORDSVILLE IN 47933 SS 9,SM 10,SN 6,W 7 AWANA, SINGLES, NURSERY, COUNSELING PREACH/TEACH NASB,GARBC,IFRBC 5526 SR 26 E LAFAYETTE IN 47905 SM & SS 915 & 1045,SN 6,W 7 SENIORS, SING KJB church."
+    "description": "SVILLE IN 47933 SS 9,SM 10,SN 6,W 7 AWANA, SINGLES, NURSERY, COUNSELING PREACH/TEACH NASB,GARBC,IFRBC 5526 SR 26 E LAFAYETTE IN 47905 SM & SS 915 & 1045,SN 6,W 7 SENIORS, SING KJB church"
   },
   {
     "id": "1590",
@@ -3514,7 +3514,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JOHN SEITER. 250 S 775 E ZIONSVILLE IN 46077 SS 930,SM 1040,SN 630,W 7 AUDIO SERMONS , DEAF, SENIORS, TEENS"
+    "description": "250 S 775 E ZIONSVILLE IN 46077 SS 930,SM 1040,SN 630,W 7 AUDIO SERMONS , DEAF, SENIORS, TEENS"
   },
   {
     "id": "1591",
@@ -3532,7 +3532,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY BISHIR. NOT KJV ONLY,MCARTHUR 11870 STATE RD 23 GRANGER IN 46530 SM 930 NOT KJV ONLY, FALWELL, AW PINK, 517 CHURCH ST SWEETSER IN 46987 SS 930,SM 1030,SN 6,TH 7 NOT KJV ONLY,MBBC KJB church."
+    "description": "NOT KJV ONLY,MCARTHUR GRANGER IN 46530 SM 930 NOT KJV ONLY, FALWELL, AW PINK, 517 CHURCH ST SWEETSER IN 46987 SS 930,SM 1030,SN 6,TH 7 NOT KJV ONLY,MBBC KJB church"
   },
   {
     "id": "1592",
@@ -3550,7 +3550,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL FISHER. 8540 W SR 234 KINGMAN IN 47952 NOT KJV ONLY,IFCA KJB church."
+    "description": "8540 W SR 234 KINGMAN IN 47952 NOT KJV ONLY,IFCA KJB church"
   },
   {
     "id": "1593",
@@ -3568,7 +3568,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ANDY STREIT. 54230 CR 5 ELKHART IN 46514"
+    "description": "54230 CR 5 ELKHART IN 46514"
   },
   {
     "id": "1594",
@@ -3577,8 +3577,8 @@ export const indianaChurches: Church[] = [
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
-    "latitude": 39.7742,
-    "longitude": -84.7781,
+    "latitude": 38.6157,
+    "longitude": -86.5338,
     "phone": "(812) 623-3518",
     "website": "http://www.bbcwaky.com",
     "pastor": "DAVID HARPER",
@@ -3587,7 +3587,7 @@ export const indianaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID HARPER. 13382 NORTH SR 101 SUNMAN IN 47018 SS 9,SM 10,W 630 NOT KJV ONLY, BJU 205 E WATERFORD ST WAKARUSA IN 46573 NOT KJV ONLY, BBF, AFRBC, GARBC KJB church."
+    "description": "13382 NORTH SR 101 SUNMAN IN 47018 SS 9,SM 10,W 630 NOT KJV ONLY, BJU WAKARUSA IN 46573 NOT KJV ONLY, BBF, AFRBC, GARBC KJB church"
   },
   {
     "id": "1595",
@@ -3605,12 +3605,12 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB LEMON. 2944 E HALL AVE TERRE HAUTE IN 47805 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, AWANA, TEEN, YOUTH, SINGLES, DIVORCARE, CHOIR NOT KJV ONLY, LIBERTY-U KJB church."
+    "description": "TERRE HAUTE IN 47805 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, AWANA, TEEN, YOUTH, SINGLES, DIVORCARE, CHOIR NOT KJV ONLY, LIBERTY-U KJB church"
   },
   {
     "id": "1596",
     "name": "GRIFFITH BAPTIST CHURCH",
-    "address": "826 N HARVEY ST",
+    "address": "3469 HILLCREST RD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3625,7 +3625,7 @@ export const indianaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by MARTIN HOLMAN. 826 N HARVEY ST GRIFFITH IN 46319 SS 945,SM 11,SN 6 NOT KJV ONLY, CCM, WARREN 3469 HILLCREST RD RICHMOND IN 47374 SM 9 & 1045,SN 6,W 7 AWANA, REFORMERS UNANIMOUS, CHOIR, SENIORS NOT KJV ONLY 6210 SOUT KJB church."
+    "description": "GRIFFITH IN 46319 SS 945,SM 11,SN 6 NOT KJV ONLY, CCM, WARREN RICHMOND IN 47374 SM 9 & 1045,SN 6,W 7 AWANA, REFORMERS UNANIMOUS, CHOIR, SENIORS NOT KJV ONLY 6210 SOUT KJB church"
   },
   {
     "id": "1597",
@@ -3634,8 +3634,8 @@ export const indianaChurches: Church[] = [
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
-    "latitude": 39.1281,
-    "longitude": -84.7847,
+    "latitude": 40.0754,
+    "longitude": -87.1592,
     "phone": "(812) 273-5061",
     "website": "",
     "pastor": "",
@@ -3643,7 +3643,7 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "920 MONTCLAIR ST MADISON IN 47250 Independent church."
+    "description": "MADISON IN 47250 Independent church"
   },
   {
     "id": "1598",
@@ -3664,12 +3664,12 @@ export const indianaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by JOHN REYNOLDS. SS 945,SM 1045,SN 6,W 7 NURSERY,LADIES; GRACE BAPTIST SCHOOL,K-5-12TH, BJU CURR NOT KJV ONLY,BBF 309 W 24TH ST CONNERSVILLE IN 47331 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY,BBF PO BOX 65 8  KJB church."
+    "description": "SS 945,SM 1045,SN 6,W 7 NURSERY,LADIES; GRACE BAPTIST SCHOOL,K-5-12TH, BJU CURR NOT KJV ONLY,BBF CONNERSVILLE IN 47331 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY,BBF PO BOX 65 8 KJB church"
   },
   {
     "id": "1599",
     "name": "GEIST COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "900 N MCCORD",
     "city": "Indianapolis",
     "state": "IN",
     "zipCode": "",
@@ -3682,6 +3682,6 @@ export const indianaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6697 W 900 N MCCORDSVILLE IN 46066 SS 9,SM 10"
+    "description": "6697 W SVILLE IN 46066 SS 9,SM 10"
   }
 ];

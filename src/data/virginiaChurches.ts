@@ -4,7 +4,7 @@ export const virginiaChurches: Church[] = [
   {
     "id": "5100",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "790 SAXKEY RD",
+    "address": "790 SAXKEY RD DR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -17,7 +17,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY ATKINS. 790 SAXKEY RD DRAKES BRANCH VA 23937 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "AKES BRANCH VA 23937 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5101",
@@ -36,7 +36,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN WEBSTER. VFW BUILDING 12496 HARPERS RUN RD BEALETON VA 22712 SS 10,SM 11 KJB, UNAFFILIATED"
+    "description": "VFW BUILDING BEALETON VA 22712 SS 10,SM 11 KJB, UNAFFILIATED"
   },
   {
     "id": "5102",
@@ -54,12 +54,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD MCCLURE. 14346 WARWICK BLVD UNIT 416 NEWPORT NEWS VA 23602 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "NEWPORT NEWS VA 23602 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5103",
     "name": "CENTERVILLE BAPTIST CHURCH",
-    "address": "3200 HALIFAX RD",
+    "address": "3200 HALIFAX RD SOUTH BOST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -72,7 +72,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE COFFEY. 3200 HALIFAX RD SOUTH BOSTON VA 24592 SS 945,SM 11,SN 6,W 7 BUS, RADIO, AUDIO SERMONS; CENTERVILLE CHRISTIAN SCHOOL K5-12; KJB church."
+    "description": "ON VA 24592 SS 945,SM 11,SN 6,W 7 BUS, RADIO, AUDIO SERMONS; CENTERVILLE CHRISTIAN SCHOOL K5-12; KJB church"
   },
   {
     "id": "5104",
@@ -90,12 +90,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES KEESEE. PO BOX 4346 GLEN ALLEN VA 23058-4346 PHYSICAL ADDRESS 3506 MAYLAND COURT RICHMOND VA 23233 KJB church."
+    "description": "PO BOX 4346 GLEN ALLEN VA 23058-4346 PHYSICAL ADDRESS RICHMOND VA 23233 KJB church"
   },
   {
     "id": "5105",
     "name": "THE WORD INDEPENDENT BAPTIST CHURCH",
-    "address": "20E 4TH ST S",
+    "address": "7313 HAYFIELD RD ALEXANDR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -110,7 +110,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOHN MIX. 20E 4TH ST S BIG STONE GAP VA 24219 SOULWINNING, DISPENSATIONAL, PRE-MIL, PRE-TRIB, ANTI-CALVINISM 7313 HAYFIELD RD ALEXANDRIA VA 22315 SS 10,SM 830 & 1115,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "20E 4TH ST S BIG STONE GAP VA 24219 SOULWINNING, DISPENSATIONAL, PRE-MIL, PRE-TRIB, ANTI-CALVINISM IA VA 22315 SS 10,SM 830 & 1115,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5106",
@@ -129,7 +129,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DENNIS FOX. PO BOX 69 221 E SECOND ST FARMVILLE VA 23901 SS 10,SM 11,SN 130,W 7 CHURCH PLANT, NURSERY, JUNIOR CHURCH, SOULWINNING, CONSERVATIVE MUSIC KJB church."
+    "description": "PO BOX 69 FARMVILLE VA 23901 SS 10,SM 11,SN 130,W 7 CHURCH PLANT, NURSERY, JUNIOR CHURCH, SOULWINNING, CONSERVATIVE MUSIC KJB church"
   },
   {
     "id": "5107",
@@ -148,7 +148,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM ATKINS. HOLIDAY INN HOTEL & SUITES WILLIAMSBURG-HISTORIC GATEWAY 515 BYPASS RD WILLIAMSBURG VA 23185 SM 11,SN 6 & W 7 @ KJB church."
+    "description": "HOLIDAY INN HOTEL & SUITES WILLIAMSBURG-HISTORIC GATEWAY WILLIAMSBURG VA 23185 SM 11,SN 6 & W 7 @ KJB church"
   },
   {
     "id": "5108",
@@ -167,7 +167,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ANDREW LOGUE SR. 20339 TUCKED AWAY PL LIGNUM VA 22726 SS 11, SN 630, W 630 KJB, UNAFFILIATED"
+    "description": "LIGNUM VA 22726 SS 11, SN 630, W 630 KJB, UNAFFILIATED"
   },
   {
     "id": "5109",
@@ -186,7 +186,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LARRY LUFFMAN. 510 E PINNER ST SUFFOLK VA 23434 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "SUFFOLK VA 23434 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "5110",
@@ -204,12 +204,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT L PAUL. PO BOX 3281 790 IRISBURG RD MARTINSVILLE VA 24115 SS 10,SM 845 & 11,SN 8,W 7 KJB church."
+    "description": "PO BOX 3281 MARTINSVILLE VA 24115 SS 10,SM 845 & 11,SN 8,W 7 KJB church"
   },
   {
     "id": "5111",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "57 MERRYMAN DR",
+    "address": "57 MERRYMAN DR VICT",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -222,12 +222,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN S COLLINS. 57 MERRYMAN DR VICTORIA VA 23974 KJB church."
+    "description": "ORIA VA 23974 KJB church"
   },
   {
     "id": "5112",
     "name": "SENECA BAPTIST CHURCH",
-    "address": "8572 ROANOKE RD",
+    "address": "8572 ROANOKE RD ELLIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -241,7 +241,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DONALD MAHAN. 8572 ROANOKE RD ELLISTON VA 24087 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "ON VA 24087 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5113",
@@ -259,12 +259,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMIAH BYRD. 4341 S BOSTON HWY RINGGOLD VA 24586 SS 950, SM 11, SN 5, W 7 KJB church."
+    "description": "RINGGOLD VA 24586 SS 950, SM 11, SN 5, W 7 KJB church"
   },
   {
     "id": "5114",
     "name": "GRACE BAPTIST TEMPLE",
-    "address": "1010 S MAIN ST",
+    "address": "1010 S MAIN ST BLACKST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -277,12 +277,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG HODGES. 1010 S MAIN ST BLACKSTONE VA 23824 SS 10,SM 11,SN 6,W 730 FORT PICKETT KJB church."
+    "description": "ONE VA 23824 SS 10,SM 11,SN 6,W 730 FORT PICKETT KJB church"
   },
   {
     "id": "5115",
     "name": "STANLEYTOWNS AMAZING GRACE BAPTIST CHURCH",
-    "address": "755 FAIRYSTONE PARK HWY",
+    "address": "755 FAIRYSTONE PARK HWY ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -295,7 +295,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 250 755 FAIRYSTONE PARK HWY STANLEYTOWN VA 24168 SS 945,SM 1045,SN 6,W"
+    "description": "PO BOX 250 ANLEYTOWN VA 24168 SS 945,SM 1045,SN 6,W"
   },
   {
     "id": "5116",
@@ -313,7 +313,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRYAN RATLIFF.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5117",
@@ -331,12 +331,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUSSELL. 5219 SINGING HILLS RD ROANOKE VA 24014 SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "ROANOKE VA 24014 SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "5118",
     "name": "OAK PARK ROAD BAPTIST CHURCH",
-    "address": "1893 OAK PARK RD",
+    "address": "7 FAITH BIBLE INST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -350,12 +350,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN CHARLES. PO BOX 122 1893 OAK PARK RD MADISON VA 22727 SS 10,SM 11,SN 6,W 730 2739 HAMPTON HWY YORKTOWN VA 23693 SS 10, SM 11, SN 6, W 7 FAITH BIBLE INSTITUTE, VIDEO SERMONS, PROMISE SEEKER KIDS, SOULWINNING, S KJB church."
+    "description": "PO BOX 122 MADISON VA 22727 SS 10,SM 11,SN 6,W 730 2739 HAMPTON HWY YORKTOWN VA 23693 SS 10, SM 11, SN 6, W ITUTE, VIDEO SERMONS, PROMISE SEEKER KIDS, SOULWINNING, S KJB church"
   },
   {
     "id": "5119",
     "name": "GREENWOOD BAPTIST CHURCH",
-    "address": "779 GREENWOOD RD",
+    "address": "779 GREENWOOD RD WINCHEST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -369,7 +369,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by LEO DELORGE. 779 GREENWOOD RD WINCHESTER VA 22602 SS 945,SM 1045,SN 630,W 7 11615 MARCH RD BEALETON VA 22182 NOKESVILLE AREA SS 10,SM 11,SN 6,THU 730, KJB church."
+    "description": "ER VA 22602 SS 945,SM 1045,SN 630,W 7 11615 MARCH RD BEALETON VA 22182 NOKESVILLE AREA SS 10,SM 11,SN 6,THU 730, KJB church"
   },
   {
     "id": "5120",
@@ -388,7 +388,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MATT NETTESHEIM. PO BOX 295 100 WELLS ST LA CROSSE VA 23950 AUDIO SERMONS KJB church."
+    "description": "PO BOX 295 LA CROSSE VA 23950 AUDIO SERMONS KJB church"
   },
   {
     "id": "5121",
@@ -406,7 +406,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ELVIS. PO BOX 2181 1101 BURNS ST CHESAPEAKE VA 23327 SS 945,SM 11,SN 6,W 7 AUDIO & VIDEO SERMONS; GSCH AACS PS-12; KJB church."
+    "description": "PO BOX 2181 CHESAPEAKE VA 23327 SS 945,SM 11,SN 6,W 7 AUDIO & VIDEO SERMONS; GSCH AACS PS-12; KJB church"
   },
   {
     "id": "5122",
@@ -424,7 +424,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN GODFREY JR. PO BOX 1605 626 GRAHAM RD PETERSBURG VA 23860 SS 945, SM 11, SN 6, W 7 KJB, BJU"
+    "description": "PO BOX 1605 PETERSBURG VA 23860 SS 945, SM 11, SN 6, W 7 KJB, BJU"
   },
   {
     "id": "5123",
@@ -442,12 +442,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK HALL. 2819 DOUTHAT RD CLIFTON FORGE VA 24422 SS 10,SM 11,SN 7, W 7 KJB church."
+    "description": "CLIFTON FORGE VA 24422 SS 10,SM 11,SN 7, W 7 KJB church"
   },
   {
     "id": "5124",
     "name": "VALLEY BAPTIST CHURCH",
-    "address": "26 SUNNY SLOPE LN",
+    "address": "26 SUNNY SLOPE LN STUARTS DR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -461,12 +461,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SHERMAN E DAVIS. 26 SUNNY SLOPE LN STUARTS DRAFT VA 24477 NEAR STAUNTON SS 10,SM 11,SN 6,W 7 MASTER CLUBS, AUDIO SERMONS KJB, AIBF 10640 KINGS HWY KING GEORGE VA 22485 SS 945,SM 8 & 11,SN 6,W 7 FAITH BIBLE INSTITUTE,"
+    "description": "AFT VA 24477 NEAR STAUNTON SS 10,SM 11,SN 6,W 7 MASTER CLUBS, AUDIO SERMONS KJB, AIBF 10640 KINGS HWY KING GEORGE VA 22485 SS 945,SM 8 & 11,SN 6,W 7 FAITH BIBLE INSTITUTE"
   },
   {
     "id": "5125",
     "name": "BLUESTONE INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 987",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -481,7 +481,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BARNABUS SCHWANKE. PO BOX 987 6675 HWY 15 N CLARKSVILLE VA 23927 SS 10,SM 11,SN 2,W 730 SOULWINNING, TEENS, AUDIO SERMONS, PROPHETS CHAMBER KJB church."
+    "description": "6675 HWY 15 N CLARKSVILLE VA 23927 SS 10,SM 11,SN 2,W 730 SOULWINNING, TEENS, AUDIO SERMONS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "5126",
@@ -499,7 +499,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID M TOWER. PO BOX 4068 SELDENS LANDING ELEMENTARY SCHOOL 43345 COTON COMMONS DR LEESBURG VA 20177 SUNDAY EVENING AND WED: CHURCH OF THE HOLY SPIRIT 908 TRAILVIEW BLVD SE #200 AUDIO SERMONS RR 6 BOX 445 348 MARTI KJB church."
+    "description": "PO BOX 4068 SELDENS LANDING ELEMENTARY SCHOOL LEESBURG VA 20177 SUNDAY EVENING AND WED: CHURCH OF THE HOLY SPIRIT 908 TRAILVIEW BLVD SE #200 AUDIO SERMONS RR 6 BOX 445 348 MARTI KJB church"
   },
   {
     "id": "5127",
@@ -517,7 +517,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SW. PO BOX 721 ABINGDON VA 24212 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 721 ABINGDON VA 24212 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5128",
@@ -535,12 +535,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN BREWER. 5315 AIRPORT RD BASSETT VA 24055 SM 1030,SN 5,W 7 KJB church."
+    "description": "BASSETT VA 24055 SM 1030,SN 5,W 7 KJB church"
   },
   {
     "id": "5129",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "",
+    "address": "7 CALVARY CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -553,12 +553,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG COX. PO BOX 160 31139 N JAMES MADISON HWY NEW CANTON VA 23123 SS 10,SM 11,SN 5,W 7 CALVARY CHRISTIAN SCHOOL PS-12 AACS KJB church."
+    "description": "PO BOX 160 31139 N JAMES MADISON HWY NEW CANTON VA 23123 SS 10,SM 11,SN 5,W IAN SCHOOL PS-12 AACS KJB church"
   },
   {
     "id": "5130",
     "name": "SAND SPRINGS BAPTIST CHURCH",
-    "address": "2677 MT TORREY RD",
+    "address": "2677 MT TORREY RD LYNDHURST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -571,7 +571,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2677 MT TORREY RD LYNDHURST VA 24477"
+    "description": "VA 24477"
   },
   {
     "id": "5131",
@@ -589,7 +589,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CARROLL. SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5132",
@@ -608,7 +608,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DAN SCHELLING. 2625 N ARMISTEAD AVE HAMPTON VA 23666 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "HAMPTON VA 23666 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5133",
@@ -626,7 +626,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY MAI. PO BOX 737 1300 DILLONS FORK RD FIELDALE VA 24089 SS 930,SM 1030,SN 6,W 7 KINGS KIDS, VICTORY INTERNATIONAL KJB church."
+    "description": "PO BOX 737 FIELDALE VA 24089 SS 930,SM 1030,SN 6,W 7 KINGS KIDS, VICTORY INTERNATIONAL KJB church"
   },
   {
     "id": "5134",
@@ -644,7 +644,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE PETERS. 1064 EAGLEWOOD DR VIRGINIA BEACH VA 23454 SM 11,SS 5,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "VIRGINIA BEACH VA 23454 SM 11,SS 5,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5135",
@@ -663,7 +663,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by NATHAN D WEIDMAN. 53 HARPERS CREEK LANE TYRO VA 22976 SS 10,SM 11,W 7 CHILDREN’S CRUSADERS, SOULWINNING, CD, TEENS FOR CHRIST, SENIORS, ADULT BIBLE STUDY, BUS/VAN KJB church."
+    "description": "TYRO VA 22976 SS 10,SM 11,W 7 CHILDREN’S CRUSADERS, SOULWINNING, CD, TEENS FOR CHRIST, SENIORS, ADULT BIBLE STUDY, BUS/VAN KJB church"
   },
   {
     "id": "5136",
@@ -683,12 +683,12 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RUSSELL SNODDY. PO BOX 202 MONROE VA 24574-0202 194 2ND STREET AMHERST VA 24521 SM 11,SN 1,W 7 SOULWINNING, RADIO, INTERNET CORRESPONDENCE, PRISON, SENIORS, TEENS, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "PO BOX 202 MONROE VA 24574-0202 AMHERST VA 24521 SM 11,SN 1,W 7 SOULWINNING, RADIO, INTERNET CORRESPONDENCE, PRISON, SENIORS, TEENS, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "5137",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "1880 N AMHERST HWY",
+    "address": "1880 N AMHERST HWY AMHERST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -701,7 +701,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH BLANKENSHIP. PO BOX 1200 1880 N AMHERST HWY AMHERST VA 24521 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "PO BOX 1200 VA 24521 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "5138",
@@ -720,7 +720,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROGER E SEBRELL. 5956 FLOYD HWY N CHECK VA 24072 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, PATCH PIRATE KJB, COEBA, AIBF, VA-BBF"
+    "description": "5956 FLOYD HWY N CHECK VA 24072 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, PATCH PIRATE KJB, COEBA, AIBF, VA-BBF"
   },
   {
     "id": "5139",
@@ -739,7 +739,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TODD BROWN. PO BOX 7655 714 E PEMBROKE AVE HAMPTON VA 23666 SS 945,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS 4836 RICHMOND RD WARSAW VA 22572 SS 10,SM 11,SN 120,W 7 KJB church."
+    "description": "PO BOX 7655 HAMPTON VA 23666 SS 945,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS 4836 RICHMOND RD WARSAW VA 22572 SS 10,SM 11,SN 120,W 7 KJB church"
   },
   {
     "id": "5140",
@@ -758,12 +758,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENNETH WELLS. 8803 JAMES MADISON HWY WARRENTON VA 22186 SS 945,SM 11,SN 630,W 730 BUS, TEEN, CHOIR, KINGS KIDS, AUDIO SERMONS, QUANTICO MCB KJB, UNAFFILIATED"
+    "description": "8803 JAMES MADISON HWY WARRENTON VA 22186 SS 945,SM 11,SN 630,W 730 BUS, TEEN, CHOIR, KINGS KIDS, AUDIO SERMONS, QUANTICO MCB KJB, UNAFFILIATED"
   },
   {
     "id": "5141",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "710 CHURCH ST",
+    "address": "710 CHURCH ST CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -777,7 +777,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN CLAYTON. 710 CHURCH ST CHRISTIANSBURG VA 24073 SS 10,SM 11,SN 6,W 6 200 GOLDEN LN SUTHERLIN VA 24594 NEAR DANVILLE SS 10,SM 11,SN 6,W 7 RADIO, BUS, DETENTION CENTER, TEEN KJB, UNAFFILIATED"
+    "description": "IANSBURG VA 24073 SS 10,SM 11,SN 6,W 6 200 GOLDEN LN SUTHERLIN VA 24594 NEAR DANVILLE SS 10,SM 11,SN 6,W 7 RADIO, BUS, DETENTION CENTER, TEEN KJB, UNAFFILIATED"
   },
   {
     "id": "5142",
@@ -795,7 +795,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VAN A MOORE. 6548 STUDLEY RD MECHANICSVILLE VA 23116 SS 10, SM 11, SN 6, W 7 4341 S BOSTON HWY RINGGOLD VA 24586 SS 950, SM 11, SN 7, W 7 AUDIO SERMONS, PRE-MIL 1226 W ROSLYN RD COLONIAL HEIGHTS VA 23824 SS 945,SM KJB church."
+    "description": "MECHANICSVILLE VA 23116 SS 10, SM 11, SN 6, W 7 4341 S BOSTON HWY RINGGOLD VA 24586 SS 950, SM 11, SN 7, W 7 AUDIO SERMONS, PRE-MIL 1226 W ROSLYN RD COLONIAL HEIGHTS VA 23824 SS 945,SM KJB church"
   },
   {
     "id": "5143",
@@ -814,7 +814,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JOSE RAMIREZ. PO BOX 6547 CHARLOTTESVILLE VA 22903 4218 RICHMOND RD KESWICK VA 22947 SS 10,SM 11,SN 6,W 715 PATCH CLUB, COLONIAL PRESS KJB, PRE-MIL, PRE-TRIB,"
+    "description": "PO BOX 6547 CHARLOTTESVILLE VA 22903 KESWICK VA 22947 SS 10,SM 11,SN 6,W 715 PATCH CLUB, COLONIAL PRESS KJB, PRE-MIL, PRE-TRIB"
   },
   {
     "id": "5144",
@@ -833,7 +833,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ERIK T HASTINGS. 5809 CHAMBERS ST NORFOLK VA 23502 SS 945,SM 11,SN 630,W 630 KJB, PCC PO BOX 2167 MECHANICSVILLE, VA  23116"
+    "description": "NORFOLK VA 23502 SS 945,SM 11,SN 630,W 630 KJB, PCC PO BOX 2167 MECHANICSVILLE, VA 23116"
   },
   {
     "id": "5145",
@@ -852,7 +852,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by WADE SMITH. 7400 ANTIQUE LN SM 1030,SN 6,W 730 CHILDREN’S CHURCH, MEN’S PRAYER MEETING, SOULWINNING, LADIES, AUDIO SERMONS & MUSIC KJB church."
+    "description": "SM 1030,SN 6,W 730 CHILDREN’S CHURCH, MEN’S PRAYER MEETING, SOULWINNING, LADIES, AUDIO SERMONS & MUSIC KJB church"
   },
   {
     "id": "5146",
@@ -870,7 +870,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID L PITTMAN. 4818 TEXAS AVE NORFOLK VA 23513 SS 930,SM 11,SN 6,W 7 KJB, BIMI, FBWWM"
+    "description": "NORFOLK VA 23513 SS 930,SM 11,SN 6,W 7 KJB, BIMI, FBWWM"
   },
   {
     "id": "5147",
@@ -889,12 +889,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEITH WEAVER. 1545 DRANESVILLE RD HERNDON VA 20170 SS 9,SM 10,SN 6,W 730 YOUTH, LADIES, SPANISH, AWANA; TEMPLE BAPTIST SCHOOL K3-12; FT MEAD, ANDREWS AFB KJB church."
+    "description": "HERNDON VA 20170 SS 9,SM 10,SN 6,W 730 YOUTH, LADIES, SPANISH, AWANA; TEMPLE BAPTIST SCHOOL K3-12; FT MEAD, ANDREWS AFB KJB church"
   },
   {
     "id": "5148",
     "name": "GOSPEL LIGHT BAPTIST CHURCH",
-    "address": "1556 GALLIMORE ST",
+    "address": "1556 GALLIMORE ST CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -907,12 +907,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY SYKES. 1556 GALLIMORE ST CHRISTIANSBURG VA 24073 SS 10,SM 11,SN 6,W 7 VAN, CHILDREN’S CHURCH, PRECIOUS MOMENTS LEARNING CENTER KJB church."
+    "description": "IANSBURG VA 24073 SS 10,SM 11,SN 6,W 7 VAN, CHILDREN’S CHURCH, PRECIOUS MOMENTS LEARNING CENTER KJB church"
   },
   {
     "id": "5149",
     "name": "OAK GLEN BAPTIST CHURCH",
-    "address": "2836 YUMA RD",
+    "address": "2007 BOYDTON PLANK RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -920,13 +920,13 @@ export const virginiaChurches: Church[] = [
     "longitude": -79.0999,
     "phone": "(276) 386-2691",
     "website": "http://www.oakglenbaptistchurch.org",
-    "pastor": "ARTHUR LANDS",
+    "pastor": "KJB, UNAFFLIATED 431 19TH ST SE R",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ARTHUR LANDS. PO BOX 158 2836 YUMA RD GATE CITY VA 24251-0158 SS 945,SM 1045,SN 6,W 7 2007 BOYDTON PLANK RD PETERSBURG VA 23805 SS 10,SM 11,SN 7,W 7 BUS, NEAR FORT LEE NEEDS PASTOR KJB, UNAFFLIATED 431 19TH ST SE R"
+    "description": "PO BOX 158 GATE CITY VA 24251-0158 SS 945,SM 1045,SN 6,W 7 PETERSBURG VA 23805 SS 10,SM 11,SN 7,W 7 BUS, NEAR FORT LEE NEEDS"
   },
   {
     "id": "5150",
@@ -945,7 +945,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PHILLIP H LANE. 8269 BRADSHAW RD SALEM VA 24153 SS 10, SM 11, SN 6, W 7 SOULWINNING, YOUTH OUTINGS KJB church."
+    "description": "SALEM VA 24153 SS 10, SM 11, SN 6, W 7 SOULWINNING, YOUTH OUTINGS KJB church"
   },
   {
     "id": "5151",
@@ -963,7 +963,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1309 RIDGECREST AVE KINGSPORT TN 37660-6106 PHYSICAL: HWY 71 N, GATE CITY, VA (SNOWFLAKE COMMUNITY)"
+    "description": "KINGSPORT TN 37660-6106 PHYSICAL: HWY 71 N, GATE CITY, VA (SNOWFLAKE COMMUNITY)"
   },
   {
     "id": "5152",
@@ -981,7 +981,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SPARKS. SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5153",
@@ -999,7 +999,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB WILSON. PO BOX 130 WOODSTOCK VA 22664 140 HOOVER RD SS 10,SM 11,SN 7,W 730 445 SHELTON RD HAMPTON VA 23663 SS 945,SM 1045,SN 630,W 7 NEEDS PASTOR KJB church."
+    "description": "PO BOX 130 WOODSTOCK VA 22664 SS 10,SM 11,SN 7,W 730 445 SHELTON RD HAMPTON VA 23663 SS 945,SM 1045,SN 630,W 7 NEEDS"
   },
   {
     "id": "5154",
@@ -1018,7 +1018,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREG S IRBY. PO BOX 194 2145 N EASTSIDE HWY ELKTON VA 22827 SS 10,SM 11,SN 630, W 730 KJB, UNAFFILIATED 4339 DAUGHTERY RD SALEM VA 24153 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 194 ELKTON VA 22827 SS 10,SM 11,SN 630, W 730 KJB, UNAFFILIATED 4339 DAUGHTERY RD SALEM VA 24153 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5155",
@@ -1037,7 +1037,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JAMES CURRAN. 1389 ZACHARY TAYLOR HWY (US 522) MINERAL VA 23117 1 MILE N OR MINERAL ON 522 KJB church."
+    "description": "1389 ZACHARY TAYLOR HWY (US 522) MINERAL VA 23117 1 MILE N OR MINERAL ON 522 KJB church"
   },
   {
     "id": "5156",
@@ -1056,7 +1056,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JASON ALVERSON. 1643 BLAIR LOOP RD DANVILLE VA 24541 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "DANVILLE VA 24541 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "5157",
@@ -1076,7 +1076,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by HERMAN BYRD. 1164 BRENTWOOD DR COLLINSVILLE VA 24078 SS 10,SM 11,SN 6,W 7 SOULWINNING, BIBLE PRINTING, VAN,CHOIR, SEEDLINE, TEEN KJB, UNAFFILIATED"
+    "description": "COLLINSVILLE VA 24078 SS 10,SM 11,SN 6,W 7 SOULWINNING, BIBLE PRINTING, VAN,CHOIR, SEEDLINE, TEEN KJB, UNAFFILIATED"
   },
   {
     "id": "5158",
@@ -1095,12 +1095,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PHILIP BISHOP. 8320 DANIELS CREEK RD BASSETT VA 24055 SS 9,SM 11,WN 7 KJB, UNAFFILIATED"
+    "description": "BASSETT VA 24055 SS 9,SM 11,WN 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5159",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "5901 WILTON RD",
+    "address": "5901 WILTON RD ALEXANDR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1114,12 +1114,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RYAN COX. 5901 WILTON RD ALEXANDRIA VA 22310 SS 945,SM 11,SN 6,WED 7 KJB, UNAFFILIATED"
+    "description": "IA VA 22310 SS 945,SM 11,SN 6,WED 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5160",
     "name": "GETHSEMANE BAPTIST CHURCH",
-    "address": "199 FORTNER AVE",
+    "address": "730 GETHSEMANE CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1133,7 +1133,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CLETUS LACKEY. 199 FORTNER AVE MARION VA 24354 SS 10,SM 11,SN 6,W 730 GETHSEMANE CHRISTIAN ACADEMY K-5-12 ACE KJB, UNAFFILIATED"
+    "description": "MARION VA 24354 SS 10,SM 11,SN 6,W IAN ACADEMY K-5-12 ACE KJB, UNAFFILIATED"
   },
   {
     "id": "5161",
@@ -1151,7 +1151,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BUTCH HAMMED. 415 COUNTY LINE RD BASSETT VA 24055 SS 10,SM 11,SN 6,W 730 PROPHETS CHAMBER KJB church."
+    "description": "BASSETT VA 24055 SS 10,SM 11,SN 6,W 730 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "5162",
@@ -1169,7 +1169,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN BIGGS. 1001 STEWART AVE SE ROANOKE VA 24013 KJB church."
+    "description": "ROANOKE VA 24013 KJB church"
   },
   {
     "id": "5163",
@@ -1188,7 +1188,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVE CRAWFORD. 4236 LEE HILL SCHOOL DR FREDERICKSBURG VA 22408 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, CHOIR, MASTERS CLUB, SOULWINNING KJB church."
+    "description": "FREDERICKSBURG VA 22408 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, CHOIR, MASTERS CLUB, SOULWINNING KJB church"
   },
   {
     "id": "5164",
@@ -1206,7 +1206,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "CHURCH MEETS IN TWO LOCATIONS: Independent church."
+    "description": "CHURCH MEETS IN TWO LOCATIONS: Independent church"
   },
   {
     "id": "5165",
@@ -1224,7 +1224,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1200 KEMPSVILLE RD CHESAPEAKE VA 23320 SS 10,SM 11,SN 630,W 730"
+    "description": "CHESAPEAKE VA 23320 SS 10,SM 11,SN 630,W 730"
   },
   {
     "id": "5166",
@@ -1242,12 +1242,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN SPROLES. 1221 INDIAN CREEK RD CHESAPEAKE VA 23320 SS 10,SM 11 BOOK STORE, SOURCE OF LIGHT MAILBOX CLUB LESSON; INDIAN CREEK WELCOME BAPTIST SCHOOL AACS; KJB church."
+    "description": "CHESAPEAKE VA 23320 SS 10,SM 11 BOOK STORE, SOURCE OF LIGHT MAILBOX CLUB LESSON; INDIAN CREEK WELCOME BAPTIST SCHOOL AACS; KJB church"
   },
   {
     "id": "5167",
     "name": "BENHAMS BAPTIST CHURCH",
-    "address": "18365 BENHAMS RD",
+    "address": "18365 BENHAMS RD BRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "18365",
@@ -1260,7 +1260,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALTER H YANCEY. 18365 BENHAMS RD BRISTOL VA 24202 SS 10,SM 11,SN 6,W 7 PATCH CLUB, BENHAMS BAPTIST PRESS KJB church."
+    "description": "OL VA 24202 SS 10,SM 11,SN 6,W 7 PATCH CLUB, BENHAMS BAPTIST PRESS KJB church"
   },
   {
     "id": "5168",
@@ -1278,12 +1278,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREGORY THOMAS. 356 LINDHURST DR DANVILLE VA 24540 SS 945,SM 11,SN 6,W 730 KJB church."
+    "description": "DANVILLE VA 24540 SS 945,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "5169",
     "name": "LIGHTHOUSE INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1338",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1297,7 +1297,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUG COX. PO BOX 1338 COLLINSVILLE, VA 24078 1100 ELF TRAIL in BASSETT SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "COLLINSVILLE, VA 24078 1100 ELF TRAIL in BASSETT SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "5170",
@@ -1310,14 +1310,14 @@ export const virginiaChurches: Church[] = [
     "longitude": -77.4937,
     "phone": "(540) 997-0113",
     "website": "https://www.facebook.com/p/Calvary-Baptist-Church-100069451932110",
-    "pastor": "DAVID FREEMAN",
+    "pastor": "STUART VA 24171 SS 10,SM 11,SN 6,W 7 YOUTH, SOULWIN",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID FREEMAN. PO BOX 328 5165 LITTLE CALF PASTURE HWY CRAIGSVILLE VA 24430 SS 10,SW 11,SN 7,W 7 SUNDAY SCHOOL FOR AGES 4-16 KJB, UNAFFILIATED 78 CALVARY CHURCH DR STUART VA 24171 SS 10,SM 11,SN 6,W 7 YOUTH, SOULWIN"
+    "description": "PO BOX 328 CRAIGSVILLE VA 24430 SS 10,SW 11,SN 7,W 7 SUNDAY SCHOOL FOR AGES 4-16 KJB, UNAFFILIATED 78 CALVARY CHURCH DR STUART VA 24171 SS 10,SM 11,SN 6,W 7 YOUTH, SOULWIN"
   },
   {
     "id": "5171",
@@ -1337,7 +1337,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RICHARD CASSADA. 385 SPRING CITY RD CLEVELAND VA 24225 SS 10,SM 11,SN 6,W 7 FAIR, STREET PREACHING, TENT, SOULWINNING, RADIO, MASTERS CLUB, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "CLEVELAND VA 24225 SS 10,SM 11,SN 6,W 7 FAIR, STREET PREACHING, TENT, SOULWINNING, RADIO, MASTERS CLUB, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "5172",
@@ -1355,7 +1355,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN WARREN. PO BOX 1791 4101 BAILEY BRIDGE RD MIDLOTHIAN VA 23113 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS 31 KINGSTON RD EVINGTON VA 24550 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 1791 MIDLOTHIAN VA 23113 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS 31 KINGSTON RD EVINGTON VA 24550 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5173",
@@ -1373,7 +1373,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK PAINTER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5174",
@@ -1392,12 +1392,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BILLY HICKS. 319 S COURT ST EXT LURAY VA 22835 SS 945,SM 11,SN 7,W 7 KJB, HAC"
+    "description": "LURAY VA 22835 SS 945,SM 11,SN 7,W 7 KJB, HAC"
   },
   {
     "id": "5175",
     "name": "WAYSIDE BAPTIST CHURCH",
-    "address": "1256 MOREHEAD AVE",
+    "address": "1256 MOREHEAD AVE RIDGEWAY",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1410,7 +1410,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BERNARD HEINZ. PO BOX 426 1256 MOREHEAD AVE RIDGEWAY VA 24148-0426 SS 945,SM 1030,SN 6,W 730 KJB, UNAFILLIATED 12302 ALUM RD CULPEPER VA 22701 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 426 VA 24148-0426 SS 945,SM 1030,SN 6,W 730 KJB, UNAFILLIATED 12302 ALUM RD CULPEPER VA 22701 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5176",
@@ -1428,12 +1428,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by P J PARKER. 725 GATE RD MADISON VA 22727 SS 945,SM 11,SN 6,W 730 KJB, HAC"
+    "description": "MADISON VA 22727 SS 945,SM 11,SN 6,W 730 KJB, HAC"
   },
   {
     "id": "5177",
     "name": "NEW HORIZON BAPTIST CHURCH",
-    "address": "278 REVIVAL RD",
+    "address": "278 REVIVAL RD BLACKST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1446,7 +1446,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE HARRISON. 278 REVIVAL RD BLACKSTONE VA 23824 SS 10,SM 11,SN 6,W 7 BUS, CAMP, DEAF, KARATE, CHOIR; NEW HORIZON CHRISTIAN ACADEMY PS-12; BIBLE INSTITUTE KJB, HAC"
+    "description": "ONE VA 23824 SS 10,SM 11,SN 6,W 7 BUS, CAMP, DEAF, KARATE, CHOIR; NEW HORIZON CHRISTIAN ACADEMY PS-12; BIBLE INSTITUTE KJB, HAC"
   },
   {
     "id": "5178",
@@ -1464,7 +1464,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "110 E CENTER ST GALAX VA 24333 SS 10,SM 11,SN 6,W 7"
+    "description": "GALAX VA 24333 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "5179",
@@ -1482,12 +1482,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD ABBEY.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5180",
     "name": "FAIRFAX BAPTIST TEMPLE",
-    "address": "6401 MISSIONARY LANE",
+    "address": "6401 MISSIONARY LANE FAIRFAX ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1500,12 +1500,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK CARPENTER. 6401 MISSIONARY LANE FAIRFAX STATION VA 22039 SS 9,SM 10,SN 5,W 7 KJB church."
+    "description": "ATION VA 22039 SS 9,SM 10,SN 5,W 7 KJB church"
   },
   {
     "id": "5181",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "14510 SPRIGGS RD",
+    "address": "1647 BRIARFIELD RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "14510",
@@ -1520,7 +1520,7 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by LLOYD V DONICA. 14510 SPRIGGS RD WOODBRIDGE VA 22193 SS 10, MS 11, SN 6, W 7 CAN TRANSPORT FROM QMCB & BELVIOR KJV, BBF, BJU PO BOX 9128 HAMPTON VA 23670 1647 BRIARFIELD RD SS 930,SM 1045,SN 6,W 730 KJB, HAC 6313 CLO"
+    "description": "WOODBRIDGE VA 22193 SS 10, MS 11, SN 6, W 7 CAN TRANSPORT FROM QMCB & BELVIOR KJV, BBF, BJU PO BOX 9128 HAMPTON VA 23670 SS 930,SM 1045,SN 6,W 730 KJB, HAC 6313 CLO"
   },
   {
     "id": "5182",
@@ -1539,12 +1539,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOBBY RAKES. 3907 HERSHBERGER RD NW ROANOKE VA 24017 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "ROANOKE VA 24017 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "5183",
     "name": "VALLEY DRIVE BAPTIST CHURCH",
-    "address": "889 VALLEY DR",
+    "address": "138 JOHNSON AVE",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1557,12 +1557,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTTIE BROWN. 889 VALLEY DR FIELDALE VA 24089 SS 10,SM 11,SN 7,W 730 PO BOX 600 138 JOHNSON AVE CEDAR BLUFF VA 24609-0651 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "FIELDALE VA 24089 SS 10,SM 11,SN 7,W 730 PO BOX 600 CEDAR BLUFF VA 24609-0651 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5184",
     "name": "GILL GROVE BAPTIST CHURCH",
-    "address": "10726 RIVER RD",
+    "address": "10726 RIVER RD CHEST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "10726",
@@ -1575,7 +1575,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "10726 RIVER RD CHESTERFIELD VA 23832 SS 10,SM 11,SN 7,W 7"
+    "description": "ERFIELD VA 23832 SS 10,SM 11,SN 7,W 7"
   },
   {
     "id": "5185",
@@ -1593,12 +1593,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON TALLEY. KJB, HAC"
+    "description": "KJB, HAC"
   },
   {
     "id": "5186",
     "name": "HYLES BAPTIST CHURCH",
-    "address": "7220 COURTHOUSE RD",
+    "address": "7220 COURTHOUSE RD CHEST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1613,7 +1613,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by MARVIN RENNISON. 7220 COURTHOUSE RD CHESTERFIELD VA 23832 1 MI S OF 288 ON COURTHOUSE RD ON RIGHT SS 10,SM 11,SN 630,W 7 KJB, BBFI, AIBF,"
+    "description": "ERFIELD VA 23832 1 MI S OF 288 ON COURTHOUSE RD ON RIGHT SS 10,SM 11,SN 630,W 7 KJB, BBFI, AIBF"
   },
   {
     "id": "5187",
@@ -1631,7 +1631,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by T SHANE BRINSON. PO BOX 88 UNIONVILLE VA 22567 9467 ZACHARY TAYLOR HWY SS 10,SM 11,SN 630,W 7 FAITH CHRISTIAN ACADEMY K5-12; QUANTICO MCB 5501 MIDDLE RD PRINCE GEORGE VA 23875 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "PO BOX 88 UNIONVILLE VA 22567 9467 ZACHARY TAYLOR HWY SS 10,SM 11,SN 630,W 7 FAITH CHRISTIAN ACADEMY K5-12; QUANTICO MCB PRINCE GEORGE VA 23875 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "5188",
@@ -1649,12 +1649,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 9467 8471 CHESAPEAKE BLVD NORFOLK VA 23518"
+    "description": "PO BOX 9467 NORFOLK VA 23518"
   },
   {
     "id": "5189",
     "name": "TRUE VINE BAPTIST SCHOOL",
-    "address": "1808 NEW HAMPSHIRE AVE",
+    "address": "1808 NEW HAMPSHIRE AVE BRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1667,7 +1667,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY GARLAND. 1808 NEW HAMPSHIRE AVE BRISTOL VA 24201 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "OL VA 24201 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5190",
@@ -1685,7 +1685,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD OWEN. 929 INDIANA AVE NE ROANOKE VA 24012 SS 945,SM 11,SN 7,W 7 KINGS KIDS KJB church."
+    "description": "ROANOKE VA 24012 SS 945,SM 11,SN 7,W 7 KINGS KIDS KJB church"
   },
   {
     "id": "5191",
@@ -1705,7 +1705,7 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by TIM WILCOX. PO BOX 419 29 MIDWAY LN FISHERSVILLE VA 22939 SS 10,SM 11,SN 7,THU 730 AUDIO PREACHING; MIDWAY BIBLE BAPTIST CHRISTIAN SCHOOL K4-12; AN ANABAPTIST CHURCH KJB, BBF"
+    "description": "PO BOX 419 FISHERSVILLE VA 22939 SS 10,SM 11,SN 7,THU 730 AUDIO PREACHING; MIDWAY BIBLE BAPTIST CHRISTIAN SCHOOL K4-12; AN ANABAPTIST CHURCH KJB, BBF"
   },
   {
     "id": "5192",
@@ -1723,7 +1723,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY DAVIS. 16 BURTON LOOP FREDERICKSBURG VA 22406 HARTWOOD AREA SS 930,SM 11,SN 6, AWANA, TEENS, AUDIO SERMONS, MISSIONS ACADEMY AT FAIRFAX BAPTIST TEMP, QUANTICO MCB KJB church."
+    "description": "16 BURTON LOOP FREDERICKSBURG VA 22406 HARTWOOD AREA SS 930,SM 11,SN 6, AWANA, TEENS, AUDIO SERMONS, MISSIONS ACADEMY AT FAIRFAX BAPTIST TEMP, QUANTICO MCB KJB church"
   },
   {
     "id": "5193",
@@ -1741,12 +1741,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 804 301 N 15TH AVE HOPEWELL VA 23860"
+    "description": "PO BOX 804 HOPEWELL VA 23860"
   },
   {
     "id": "5194",
     "name": "BROADWAYBAPTISTCHURCH",
-    "address": "3619 S GEORGE MASON DR",
+    "address": "3619 S GEORGE MASON DR ALEXANDR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1760,7 +1760,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RODNEY MOYE. SS 945,SM 11,SN 630,W 7 KINGS KIDS, DEAF, BUS, SOULWINNING, CHOIR; BROADWAY CHRISTIAN SCHOOL K5-12 3619 S GEORGE MASON DR ALEXANDRIA VA 22302 BAILEYS CROSSROADS VA SS 945,SM 11,SN 5,W 7 PATCH PIRATE,  KJB church."
+    "description": "SS 945,SM 11,SN 630,W 7 KINGS KIDS, DEAF, BUS, SOULWINNING, CHOIR; BROADWAY CHRISTIAN SCHOOL K5-12 IA VA 22302 BAILEYS CROSSROADS VA SS 945,SM 11,SN 5,W 7 PATCH PIRATE, KJB church"
   },
   {
     "id": "5195",
@@ -1778,7 +1778,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK BOYD. PO BOX 1091 GRAFTON VA 23692 319 DARE RD YORKTOWN VA 23692 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 1091 GRAFTON VA 23692 YORKTOWN VA 23692 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5196",
@@ -1791,12 +1791,12 @@ export const virginiaChurches: Church[] = [
     "longitude": -77.815,
     "phone": "(757) 868-9825",
     "website": "http://www.firstcalvarybaptist.org",
-    "pastor": "JOHN JENNINGS JR",
+    "pastor": "CHESAPEAKE VA 23320 TABERNACLE CHRISTIAN ACADEMY 11101 ISLAND RD BRISTOL VA 24202 Exit #5 Off Interstate 81 SS 10,SM 11,SN 6,W 73 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN JENNINGS JR. 9 SILVER ISLANDS BLVD HAMPTON VA 23664 AUDIO SERMONS 2241 HAVERFORD DR CHESAPEAKE VA 23320 TABERNACLE CHRISTIAN ACADEMY 11101 ISLAND RD BRISTOL VA 24202 Exit #5 Off Interstate 81 SS 10,SM 11,SN 6,W 73 KJB church."
+    "description": "HAMPTON VA 23664 AUDIO SERMONS 2241 HAVERFORD DR CHESAPEAKE VA 23320 TABERNACLE CHRISTIAN ACADEMY 11101 ISLAND RD BRISTOL VA 24202 Exit #5 Off Interstate 81 SS 10,SM 11,SN 6,W 73 KJB church"
   },
   {
     "id": "5197",
@@ -1814,12 +1814,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUDOLPH P JACOBS. NICKELSVILLE VA 24271 HWY 71,TAYLORTOWN SS 945,SM 1045,SN 6,W 7 AWANA, VAN; CHRISTIAN SCHOOL PK3-12; KJB church."
+    "description": "NICKELSVILLE VA 24271 HWY 71,TAYLORTOWN SS 945,SM 1045,SN 6,W 7 AWANA, VAN; CHRISTIAN SCHOOL PK3-12; KJB church"
   },
   {
     "id": "5198",
     "name": "REVELATION BAPTIST CHURCH",
-    "address": "",
+    "address": "744 SOUTH BOST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -1832,7 +1832,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JUSTIN SPRADLIN. RR 2 BOX 727 HWY 744 SOUTH BOSTON VA 24592 SS 945,SM 1045,SN 6,W 730 KJB church."
+    "description": "RR 2 BOX 727 HWY ON VA 24592 SS 945,SM 1045,SN 6,W 730 KJB church"
   },
   {
     "id": "5199",
@@ -1851,7 +1851,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LONNIE S STINSON. 9800 POST OAK RD SPOTSYLVANIA VA 22553 SS 945,SM 11,SN 6,W 7 QUANTICO MCB, AUDIO SERMONS KJB church."
+    "description": "SPOTSYLVANIA VA 22553 SS 945,SM 11,SN 6,W 7 QUANTICO MCB, AUDIO SERMONS KJB church"
   },
   {
     "id": "5200",
@@ -1869,7 +1869,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE ASCHER. 5515 BRYCE LANE RICHMOND VA 23224 SS 10,SM 11,W 7 BUS, DEAF, TEEN, YOUTH, SENIORS; SOUTHSIDE BAPTIST CHRISTIAN SCHOOL K-12; SCHOOL OF THE PROPHETS KJB, AFBM"
+    "description": "RICHMOND VA 23224 SS 10,SM 11,W 7 BUS, DEAF, TEEN, YOUTH, SENIORS; SOUTHSIDE BAPTIST CHRISTIAN SCHOOL K-12; SCHOOL OF THE PROPHETS KJB, AFBM"
   },
   {
     "id": "5201",
@@ -1887,7 +1887,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by M LEE GODFREY. 3252 TAYLOR RD CHESAPEAKE VA 23321 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "CHESAPEAKE VA 23321 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "5202",
@@ -1905,7 +1905,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD ESTEP. 1204 TATEMSTOWN RD CHESAPEAKE VA 23325 SS 945,SM 11,SN 630,W 7 13661 OLD VALLEY PK EDINBURG VA 22824 SS 945,SM 11,SN 7,W 7 KJB church."
+    "description": "CHESAPEAKE VA 23325 SS 945,SM 11,SN 630,W 7 13661 OLD VALLEY PK EDINBURG VA 22824 SS 945,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5203",
@@ -1918,12 +1918,12 @@ export const virginiaChurches: Church[] = [
     "longitude": -78.2018,
     "phone": "(276) 988-9516",
     "website": "http://www.calvarybaptistchapel.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 37 188 WITTEN MILL RD (RT 651) NORTH TAZEWELL VA 24630 SS 10,SM 11,SN 630,W 7 PROPHETS CHAMBER, SENIORS, BUS, COUPLES, YOUTH NEEDS PASTOR KJB church."
+    "description": "PO BOX 37 NORTH TAZEWELL VA 24630 SS 10,SM 11,SN 630,W 7 PROPHETS CHAMBER, SENIORS, BUS, COUPLES, YOUTH NEEDS"
   },
   {
     "id": "5204",
@@ -1941,7 +1941,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HEATH SPIVEY. 5644 BAYSIDE RD VIRGINIA BEACH VA 23455 SS 945,SM 11,SN 6,W 730 HAVENS SERVICEMAN CENTER, AWANA, NORFOLK, OCEANA, FORT MONROE, FORT STORY 47 CROSSROADS LN FISHERSVILLE VA 22939 GOOSE CREEK RD SS 10,SM KJB church."
+    "description": "VIRGINIA BEACH VA 23455 SS 945,SM 11,SN 6,W 730 HAVENS SERVICEMAN CENTER, AWANA, NORFOLK, OCEANA, FORT MONROE, FORT STORY 47 CROSSROADS LN FISHERSVILLE VA 22939 GOOSE CREEK RD SS 10,SM KJB church"
   },
   {
     "id": "5205",
@@ -1959,7 +1959,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD A REYNOLDS. BOX 177 ROUTE 202 CALLAO VA 22435 SS 945,SM 1045,SN 630,W 7 125 ENGLISH RD MARTINSVILLE VA 24112 SS 10,SM 11,SN 6,W 730 KINGS KIDS, TEEN, CHOIR, TEMPLE BIBLE INSTITUTE PO BOX 1237 MANASSAS VA 22110 PH KJB church."
+    "description": "BOX 177 ROUTE 202 CALLAO VA 22435 SS 945,SM 1045,SN 630,W 7 MARTINSVILLE VA 24112 SS 10,SM 11,SN 6,W 730 KINGS KIDS, TEEN, CHOIR, TEMPLE BIBLE INSTITUTE PO BOX 1237 MANASSAS VA 22110 PH KJB church"
   },
   {
     "id": "5206",
@@ -1979,7 +1979,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by PETER TOUCHSTONE. 3000 BERKLEY AVE CHESAPEAKE VA 23325 SS 945,SM 11,SN 630,W 7 TEENS, CHOIR, NORFOLK NAVAL SHIPYARD KJB, UNAFFILIATED 929 MURRAY AVE ROANOKE VA 24013 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, RADIO, SENIO"
+    "description": "CHESAPEAKE VA 23325 SS 945,SM 11,SN 630,W 7 TEENS, CHOIR, NORFOLK NAVAL SHIPYARD KJB, UNAFFILIATED 929 MURRAY AVE ROANOKE VA 24013 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, RADIO, SENIO"
   },
   {
     "id": "5207",
@@ -1997,12 +1997,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID A BISHOP. 2196 HARDING RD BLACKSBURG VA 24060 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BLACKSBURG VA 24060 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5208",
     "name": "GOODWILL BAPTIST CHURCH",
-    "address": "19 ANTHONY DR",
+    "address": "852 PAINT BANK RD NEW CAST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2015,12 +2015,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD RICHARDSON. 19 ANTHONY DR PATRICK SPRINGS VA 24133 MARTINSVILLE AREA PO BOX 219 852 PAINT BANK RD NEW CASTLE VA 24127 KJB, CROWN-BC"
+    "description": "PATRICK SPRINGS VA 24133 MARTINSVILLE AREA PO BOX 219 LE VA 24127 KJB, CROWN-BC"
   },
   {
     "id": "5209",
     "name": "BELLE MEADOWS BAPTIST CHURCH",
-    "address": "619 WAGNER RD",
+    "address": "619 WAGNER RD BRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2033,7 +2033,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH. 619 WAGNER RD BRISTOL VA 24201 SS 10,SM 11,SN 630,W 730 DEAF; MOUNTAIN EMPIRE BAPTIST SCHOOL K-12 TACS; BELLE MEADOWS BAPTIST COLLEGE PO BOX 338 27140 LANKFORD HWY ONLEY VA 23418 KJB church."
+    "description": "OL VA 24201 SS 10,SM 11,SN 630,W 730 DEAF; MOUNTAIN EMPIRE BAPTIST SCHOOL K-12 TACS; BELLE MEADOWS BAPTIST COLLEGE PO BOX 338 27140 LANKFORD HWY ONLEY VA 23418 KJB church"
   },
   {
     "id": "5210",
@@ -2051,12 +2051,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH BRYANT. SS 10,SM 11,SN 7,W 7 RADIO; CENTRAL BAPTIST ACADEMY K-12 ABEKA; KJB church."
+    "description": "SS 10,SM 11,SN 7,W 7 RADIO; CENTRAL BAPTIST ACADEMY K-12 ABEKA; KJB church"
   },
   {
     "id": "5211",
     "name": "VICTORY WAY BAPTIST CHURCH",
-    "address": "500 S MAIN ST",
+    "address": "1176 LEE JACKSON HWY ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2071,7 +2071,7 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by RADER M OGDEN. 500 S MAIN ST HILLSVILLE VA 24343 SS 950,SM 11,SN 630,W 7 RADIO, NURSERY, BUS, SINGLES, YOUTH, TEEN, AUDIO SERMONS KJB, BBF 1176 LEE JACKSON HWY STAUNTON VA 24401 SS 10,SM 11,SN 630,W 730 KJB, UNAFFIL"
+    "description": "HILLSVILLE VA 24343 SS 950,SM 11,SN 630,W 7 RADIO, NURSERY, BUS, SINGLES, YOUTH, TEEN, AUDIO SERMONS KJB, BBF AUNTON VA 24401 SS 10,SM 11,SN 630,W 730 KJB, UNAFFIL"
   },
   {
     "id": "5212",
@@ -2090,12 +2090,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS CISLER. 8911 FAIRYSTONE PARK HWY BASSETT VA 24055 SS 1O,SM 11,SN 6,W 730 HISPANIC, MASTERS CLUB, SENIORS, CORNERSTONE BIBLE COLLEGE KJB, UNAFFILIATED 43100 CENTER ST SOUTH RIDING, VA 20152 SS 9, SM 10, SN 6,"
+    "description": "BASSETT VA 24055 SS 1O,SM 11,SN 6,W 730 HISPANIC, MASTERS CLUB, SENIORS, CORNERSTONE BIBLE COLLEGE KJB, UNAFFILIATED 43100 CENTER ST SOUTH RIDING, VA 20152 SS 9, SM 10, SN 6"
   },
   {
     "id": "5213",
     "name": "ROSE HILL BAPTIST CHURCH",
-    "address": "4905 FRANCONIA RD",
+    "address": "4905 FRANCONIA RD ALEXANDR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2109,7 +2109,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE SAGE. 4905 FRANCONIA RD ALEXANDRIA VA 22310 SS 945,SM 1045,SN 7,W 730 AUDIO SERMONS KJB, BBF"
+    "description": "IA VA 22310 SS 945,SM 1045,SN 7,W 730 AUDIO SERMONS KJB, BBF"
   },
   {
     "id": "5214",
@@ -2128,7 +2128,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRUCE HOOSE. 442 FREEDOM TABERNACLE LN ATKINS VA 24311 SS 10,SM 830 & 11, SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "ATKINS VA 24311 SS 10,SM 830 & 11, SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "5215",
@@ -2147,12 +2147,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBBIE COGGINS. 39 HARPERSVILLE RD NEWPORT NEWS VA 23601 SS 10, SM 11, SN 6, W 7 LANGLEY AFB 5 MILES, FT EUSTIS 6 MILES, SHIPYARD 3 MILES KJB church."
+    "description": "NEWPORT NEWS VA 23601 SS 10, SM 11, SN 6, W 7 LANGLEY AFB 5 MILES, FT EUSTIS 6 MILES, SHIPYARD 3 MILES KJB church"
   },
   {
     "id": "5216",
     "name": "HIGH POINT BAPTIST CHURCH",
-    "address": "18255 LIMESTONE DR",
+    "address": "12204 CROSS COUNTRY RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "18255",
@@ -2165,7 +2165,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL HUFFMAN. 18255 LIMESTONE DR MEADOWVIEW VA 24361-2306 12204 CROSS COUNTRY RD MINERAL VA 23117 APPLE GROVE AREA SS 945,SM 11,SN 630,W 730 KJB church."
+    "description": "MEADOWVIEW VA 24361-2306 MINERAL VA 23117 APPLE GROVE AREA SS 945,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "5217",
@@ -2183,7 +2183,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY WRIGHT.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "5218",
@@ -2201,7 +2201,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY KOHOUT. 6926 N LEE HIGHWAY RAPHINE VA 24472 SS 10, SW 11, SN 6, W 7 KJB, EVAN-R.PERRY,J. RAGLE,P MCGUIRE,SOUTHERN GOSPEL MUSIC"
+    "description": "RAPHINE VA 24472 SS 10, SW 11, SN 6, W 7 KJB, EVAN-R.PERRY,J. RAGLE,P MCGUIRE,SOUTHERN GOSPEL MUSIC"
   },
   {
     "id": "5219",
@@ -2221,7 +2221,7 @@ export const virginiaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by ZACHARY A MORRISON. 819 BUFORD RD RICHMOND VA 23235 SS 945,SM 1045,SN 6,W 7 BUS, AWANA, SENIORS; BUFORD RD CHRISTIAN ACADEMY 1-12 ACE; BUFORD RD BIBLE INSTITUTE; FORT LEE 20 MILES PO BOX 88 12650 ADEN RD NOKESVILLE VA 22 KJB church."
+    "description": "RICHMOND VA 23235 SS 945,SM 1045,SN 6,W 7 BUS, AWANA, SENIORS; BUFORD RD CHRISTIAN ACADEMY 1-12 ACE; BUFORD RD BIBLE INSTITUTE; FORT LEE 20 MILES PO BOX 88 12650 ADEN RD NOKESVILLE VA 22 KJB church"
   },
   {
     "id": "5220",
@@ -2239,7 +2239,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "PO BOX 7057 1865 ROSLYN RIDGE RD CHARLOTTESVILLE VA 22906 SS 10,SM 11,SN 6,W 7 Non-KJV church."
+    "description": "PO BOX 7057 CHARLOTTESVILLE VA 22906 SS 10,SM 11,SN 6,W 7 Non-KJV church"
   },
   {
     "id": "5221",
@@ -2258,7 +2258,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ANDREW DAVIS. 1705 PEPPERS FERRY RD WYTHEVILLE VA 24382 SS 10,SM 11,SN 6,W 7 BUS, MASTERS CLUBS, TEEN, TRUCK STOP; GRANITE CHRISTIAN ACADEMY K4-12 AACS ABEKA; 221 HAMPTON HWY YORKTOWN VA 23693 SS 945,SM 1050,SN 6,W KJB church."
+    "description": "WYTHEVILLE VA 24382 SS 10,SM 11,SN 6,W 7 BUS, MASTERS CLUBS, TEEN, TRUCK STOP; GRANITE CHRISTIAN ACADEMY K4-12 AACS ABEKA; 221 HAMPTON HWY YORKTOWN VA 23693 SS 945,SM 1050,SN 6,W KJB church"
   },
   {
     "id": "5222",
@@ -2277,7 +2277,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by in GLADE SPRING. PO BOX 1232 CHILHOWIE VA 24319 SS 10,SM 11,SN 6,2 7 KJB, BBFI 2180 PEPPERS FERRY RD CHRISTIANBURG VA 24073 SM 10,SM 11,SN 6,W 7 NEEDS PASTOR"
+    "description": "PO BOX 1232 CHILHOWIE VA 24319 SS 10,SM 11,SN 6,2 7 KJB, BBFI 2180 PEPPERS FERRY RD CHRISTIANBURG VA 24073 SM 10,SM 11,SN 6,W 7 NEEDS PASTOR"
   },
   {
     "id": "5223",
@@ -2295,7 +2295,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES PEARSON. & IGLESIA BIBLICA HISPANO AMERICANA PO BOX 627 206 MANASSAS DR MANASSAS PARK VA 22111 SS 10,SM 11,SN 6,W 7 QUANTICO MCB KJB church."
+    "description": "& IGLESIA BIBLICA HISPANO AMERICANA PO BOX 627 MANASSAS PARK VA 22111 SS 10,SM 11,SN 6,W 7 QUANTICO MCB KJB church"
   },
   {
     "id": "5224",
@@ -2313,12 +2313,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER D COUNTS. 1316 CAMPOSTELLA RD CHESAPEAKE VA 23320 SS 10, SM 11, SN 6, W 7 PO BOX 189 912 FLORIDA ST SALEM VA 24153 SS 10,SM 11,SN 630,W 630 KJB, BMM"
+    "description": "CHESAPEAKE VA 23320 SS 10, SM 11, SN 6, W 7 PO BOX 189 912 FLORIDA ST SALEM VA 24153 SS 10,SM 11,SN 630,W 630 KJB, BMM"
   },
   {
     "id": "5225",
     "name": "MAX CREEK BAPTIST CHURCH",
-    "address": "3000 OLD RT 100 RD",
+    "address": "2929 GARDEN CITY BLVD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2332,7 +2332,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICK BROWN. 3000 OLD RT 100 RD DRAPER VA 24347 HIWASSEE AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS PO BOX 2005 2929 GARDEN CITY BLVD ROANOKE VA 24009 SS 10,SM 11,SN 7,W 730 KJB, BBF 4000 CREIGHTON RD RICHMOND VA 232"
+    "description": "DRAPER VA 24347 HIWASSEE AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS PO BOX 2005 ROANOKE VA 24009 SS 10,SM 11,SN 7,W 730 KJB, BBF 4000 CREIGHTON RD RICHMOND VA 232"
   },
   {
     "id": "5226",
@@ -2350,12 +2350,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB HARDMAN. SS 945,SM 11,SN 6,W 730 BUS, AWANA; LANDMARK CHRISTIAN SCHOOL PS-12; KJB church."
+    "description": "SS 945,SM 11,SN 6,W 730 BUS, AWANA; LANDMARK CHRISTIAN SCHOOL PS-12; KJB church"
   },
   {
     "id": "5227",
     "name": "HUNTERDALE BAPTIST CHURCH",
-    "address": "23099 SEDLEY RD",
+    "address": "23851 HUNTERDALE CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "23099",
@@ -2371,12 +2371,12 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by LUKE SHOPE. 23099 SEDLEY RD FRANKLIN VA 23851 HUNTERDALE CHRISTIAN SCHOOL SS 945,SM 11,SN 7,W 7 KJB, UNAFFILIATED 2581 NORTHWESTERN PK WINCHESTER VA 22603 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, BUS, YOUTH, DAYCARE, S"
+    "description": "FRANKLIN VA IAN SCHOOL SS 945,SM 11,SN 7,W 7 KJB, UNAFFILIATED 2581 NORTHWESTERN PK WINCHESTER VA 22603 SS 10,SM 11,SN 6,W 7 MASTERS CLUB, BUS, YOUTH, DAYCARE, S"
   },
   {
     "id": "5228",
     "name": "SUNSET DRIVE BAPTIST CHURCH",
-    "address": "272 SUNSET DR",
+    "address": "272 SUNSET DR ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2389,7 +2389,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL L WETHERINGTON. 272 SUNSET DR STANLEY VA 22851 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "ANLEY VA 22851 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "5229",
@@ -2407,12 +2407,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL TRINKLE. 1200 CEDAR RD PO BOX 15562 CHESAPEAKE VA 23320 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 15562 CHESAPEAKE VA 23320 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5230",
     "name": "MIDLOTHIAN BAPTIST CHURCH",
-    "address": "11840 LUCKS LN",
+    "address": "1060 HIDDEN FOREST DR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "11840",
@@ -2420,13 +2420,13 @@ export const virginiaChurches: Church[] = [
     "longitude": -77.1242,
     "phone": "(804) 379-9500",
     "website": "http://midlothianbaptist.com",
-    "pastor": "DONNIE GLASS",
+    "pastor": "GOODVIEW VA 24095 SS 10,SM 11,SN 6,W 7 BUS, NURSING, TEENS 23814 RIVER RD PETERSBURG VA 23803 SS 945,SM 11,SN 2,W 71 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DONNIE GLASS. 11840 LUCKS LN MIDLOTHIAN VA 23113 SS 10,SM 845 & 11,SN 6,W 7 1060 HIDDEN FOREST DR GOODVIEW VA 24095 SS 10,SM 11,SN 6,W 7 BUS, NURSING, TEENS 23814 RIVER RD PETERSBURG VA 23803 SS 945,SM 11,SN 2,W 71 KJB church."
+    "description": "MIDLOTHIAN VA 23113 SS 10,SM 845 & 11,SN 6,W 7 GOODVIEW VA 24095 SS 10,SM 11,SN 6,W 7 BUS, NURSING, TEENS 23814 RIVER RD PETERSBURG VA 23803 SS 945,SM 11,SN 2,W 71 KJB church"
   },
   {
     "id": "5231",
@@ -2445,7 +2445,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KURT SKELLY. 20669 US HWY 29 CHATHAM VA 24531 SS 930,SM 1030,SN 6,W 645 4105 PLANK RD FREDERICKSBURG VA 22407 SS 945,SM 830 & 11,SN 6,W 730 ;FAITH BAPTIST SCHOOL AACS ODACS PS-12; VERITAS BAPTIST COLLEGE; QUANTICO KJB church."
+    "description": "20669 US HWY 29 CHATHAM VA 24531 SS 930,SM 1030,SN 6,W 645 FREDERICKSBURG VA 22407 SS 945,SM 830 & 11,SN 6,W 730 ;FAITH BAPTIST SCHOOL AACS ODACS PS-12; VERITAS BAPTIST COLLEGE; QUANTICO KJB church"
   },
   {
     "id": "5232",
@@ -2463,7 +2463,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN W GODFREY. PO BOX 477 STUARTS DRAFT VA 24477 124 RIDGEVIEW DR SS 10,SM 11,SN 6,W 715 AWANA, BUS, SENIORS, YOUTH; RIDGEVIEW CHRISTIAN SCHOOL PS-12 AACS; KJB, AIBF"
+    "description": "PO BOX 477 STUARTS DRAFT VA 24477 SS 10,SM 11,SN 6,W 715 AWANA, BUS, SENIORS, YOUTH; RIDGEVIEW CHRISTIAN SCHOOL PS-12 AACS; KJB, AIBF"
   },
   {
     "id": "5233",
@@ -2481,12 +2481,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF RICHARDS. PO BOX 15106 1401 S BATTLEFIELD RD CHESAPEAKE VA 23328 SS 945,SM 815 & 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 15106 CHESAPEAKE VA 23328 SS 945,SM 815 & 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5234",
     "name": "FRANKLIN MEMORIAL BAPTIST CHURCH",
-    "address": "3980 TRUMAN HILL RD",
+    "address": "3980 TRUMAN HILL RD HARD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2500,12 +2500,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE REBERT. 3980 TRUMAN HILL RD HARDY VA 24101 SS 10,SM 11,SN 7,W 7 RR 9 BOX 51 2774 NORTHWESTERN PK, RT 50 W WINCHESTER VA 22603 SS 10,SM 11,SN 630,W 7 YOUTH, REMORMERS UNANIMOUS, MASTERS CLUB KJB, BBF"
+    "description": "Y VA 24101 SS 10,SM 11,SN 7,W 7 RR 9 BOX 51 2774 NORTHWESTERN PK, RT 50 W WINCHESTER VA 22603 SS 10,SM 11,SN 630,W 7 YOUTH, REMORMERS UNANIMOUS, MASTERS CLUB KJB, BBF"
   },
   {
     "id": "5235",
     "name": "SAINT ANDREWS BAPTIST CHURCH",
-    "address": "SR 658 & SR 659 INTERSECTION",
+    "address": "3523 SPOTSWOOD TRL PENN LAIRD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2518,7 +2518,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD FORSYTHE. RR 1 BOX 24 D SR 658 & SR 659 INTERSECTION DILLWYN VA 23936 SS 10,SM 11,SN 5,W 7 KJB, IBFI 3523 SPOTSWOOD TRL PENN LAIRD VA 22846 SS 930,SM 11,SN 630,W 7 KINGS KIDS, TEENS, AUDIO & VIDEO SERMONS KJB,"
+    "description": "RR 1 BOX 24 D DILLWYN VA 23936 SS 10,SM 11,SN 5,W 7 KJB, IBFI VA 22846 SS 930,SM 11,SN 630,W 7 KINGS KIDS, TEENS, AUDIO & VIDEO SERMONS KJB"
   },
   {
     "id": "5236",
@@ -2536,7 +2536,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "4567 RT 340 N LURAY VA 22835 Independent church."
+    "description": "4567 RT 340 N LURAY VA 22835 Independent church"
   },
   {
     "id": "5237",
@@ -2555,7 +2555,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DONALD A TURNER. SS 10,SM 11,SN 630, W 7 KJB church."
+    "description": "SS 10,SM 11,SN 630, W 7 KJB church"
   },
   {
     "id": "5238",
@@ -2573,7 +2573,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON HEATH. 4300 VIAL RD RICHMOND VA 23234 SS10,SM 11,SN 7,W 7 FAITH INTERNATIONAL BIBLE COLLEGE KJB church."
+    "description": "RICHMOND VA 23234 SS10,SM 11,SN 7,W 7 FAITH INTERNATIONAL BIBLE COLLEGE KJB church"
   },
   {
     "id": "5239",
@@ -2591,7 +2591,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEWIS F LAWSON. 501 PROVIDENCE RD CHESAPEAKE VA 23325 SS 945,SM 1030,SN 6,W 7 AWANA, TEEN, CHOIR; PROVIDENCE BAPTIST SCHOOL K5-12 & DAYCARE; PROVIDENCE BAPTIST BIBLE COLLEGE & SEMINARY; NORFOLK, OCEANA 6884 GEORGETOW KJB church."
+    "description": "CHESAPEAKE VA 23325 SS 945,SM 1030,SN 6,W 7 AWANA, TEEN, CHOIR; PROVIDENCE BAPTIST SCHOOL K5-12 & DAYCARE; PROVIDENCE BAPTIST BIBLE COLLEGE & SEMINARY; NORFOLK, OCEANA 6884 GEORGETOW KJB church"
   },
   {
     "id": "5240",
@@ -2610,12 +2610,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LARRY FITZGERALD. 1415 FLORIDA AVE LYNCHBURG VA 24502 SM 11,SN 6,W 7 KJB, BBF, BBFI, FIB"
+    "description": "LYNCHBURG VA 24502 SM 11,SN 6,W 7 KJB, BBF, BBFI, FIB"
   },
   {
     "id": "5241",
     "name": "FAITH INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "968 VILLAGE HWY RUST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2629,7 +2629,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENNY VAN HOVEN. PO BOX 63 968 VILLAGE HWY RUSTBURG VA 24588 SS 930,SM1030,SN 6,W 7 TEEN, YOUTH, PRAISE & WORSHIP, COLLEGE KJB church."
+    "description": "PO BOX 63 BURG VA 24588 SS 930,SM1030,SN 6,W 7 TEEN, YOUTH, PRAISE & WORSHIP, COLLEGE KJB church"
   },
   {
     "id": "5242",
@@ -2647,7 +2647,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VERNON R BERRY. 1121 SPERRYVILLE PK CULPEPER VA 22701 SS 10,SM 11,SN 6,W 7 DISTINCTIVELY TRADITIONAL WITHOUT APOLOGY PO BOX 433 BOOKERDALE RD WAYNESBORO VA 22980 SS 10,SM 1055,SN 630,W 7 2006 PRESTON ST RADFORD VA 24 KJB church."
+    "description": "1121 SPERRYVILLE PK CULPEPER VA 22701 SS 10,SM 11,SN 6,W 7 DISTINCTIVELY TRADITIONAL WITHOUT APOLOGY PO BOX 433 BOOKERDALE RD WAYNESBORO VA 22980 SS 10,SM 1055,SN 630,W 7 RADFORD VA 24 KJB church"
   },
   {
     "id": "5243",
@@ -2665,12 +2665,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RODNEY SPEARS. 110 HUNTER RD BROOKNEAL VA 24528 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BROOKNEAL VA 24528 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5244",
     "name": "BRENTWOOD BAPTIST CHURCH",
-    "address": "90 LONGWOOD LN",
+    "address": "3912 PLANTATION RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2687,7 +2687,7 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DEAN POWERS. 90 LONGWOOD LN BLUE RIDGE VA 24064 3912 PLANTATION RD NE ROANOKE VA 24012 SS 10,SM 11,SN 6,W 7 KJV, AIBF, VA-BBF 5608 STAPLES MILL RD RICHMOND VA 23228-5424 SS 10,SM 11,SN 6,W 7 RR 2 BOX 479 GRUNDY VA KJB church."
+    "description": "BLUE RIDGE VA 24064 NE ROANOKE VA 24012 SS 10,SM 11,SN 6,W 7 KJV, AIBF, VA-BBF 5608 STAPLES MILL RD RICHMOND VA 23228-5424 SS 10,SM 11,SN 6,W 7 RR 2 BOX 479 GRUNDY VA KJB church"
   },
   {
     "id": "5245",
@@ -2705,12 +2705,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMY ROBERTSON. 142 FIRST SOUTHERN DR PATRICK SPRINGS VA 24133 SS 10,SM 11,SN 6,W 7 521 ALLEGHENY AVE HARRISONBURG VA 22802 SS10,SM 11,W 7 KJB church."
+    "description": "PATRICK SPRINGS VA 24133 SS 10,SM 11,SN 6,W 7 521 ALLEGHENY AVE HARRISONBURG VA 22802 SS10,SM 11,W 7 KJB church"
   },
   {
     "id": "5246",
     "name": "VICTORY BAPTIST ACADEMY",
-    "address": "951 W ATLANTIC ST",
+    "address": "4506 GEORGE WASHINGTON MEM HWY ORD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2723,12 +2723,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RALPH VAN NESS. KJB, PRE-TRIB, PRE-MIL, ATLANTIC-BBC 4506 GEORGE WASHINGTON MEM HWY ORDINARY VA 23131 SS 10,SM 11,SN 6,W 730 KINGS KIDS, BUS, AUDIO SERMONS 951 W ATLANTIC ST EMPORIA VA 23847 SS 10,SM 11,SN 630,W 730"
+    "description": "KJB, PRE-TRIB, PRE-MIL, ATLANTIC-BBC INARY VA 23131 SS 10,SM 11,SN 6,W 730 KINGS KIDS, BUS, AUDIO SERMONS 951 W ATLANTIC ST EMPORIA VA 23847 SS 10,SM 11,SN 630,W 730"
   },
   {
     "id": "5247",
     "name": "HOPE HILL BAPTIST CHURCH",
-    "address": "17 HOPE HILL RD",
+    "address": "17 HOPE HILL RD CAST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2742,7 +2742,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DANIEL BOONE. 17 HOPE HILL RD CASTLETON VA 22746 CULPEPPER AREA SS 10,SM 11,SN 7,W 730 KJB, BBF"
+    "description": "LETON VA 22746 CULPEPPER AREA SS 10,SM 11,SN 7,W 730 KJB, BBF"
   },
   {
     "id": "5248",
@@ -2760,7 +2760,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS HICKEY. 17417 MAIN ST BUCHANAN VA 24066 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "BUCHANAN VA 24066 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "5249",
@@ -2778,7 +2778,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JR JUSTIS. 33196 S MAIN ST BOYKINS VA 23827 HWY 35 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "BOYKINS VA 23827 HWY 35 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "5250",
@@ -2797,12 +2797,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN HESTER. PO BOX 96 14715 DISMAL RIVER RD PILGRIMS KNOB VA 24634 SS 10,SM 11,SN 5,TH 7 KJB, BBF 800 SMITH ST BEDFORD VA 24523 SS 945,SM 11,SN 7,W 7"
+    "description": "PO BOX 96 PILGRIMS KNOB VA 24634 SS 10,SM 11,SN 5,TH 7 KJB, BBF 800 SMITH ST BEDFORD VA 24523 SS 945,SM 11,SN 7,W 7"
   },
   {
     "id": "5251",
     "name": "HIGHLAND BAPTIST CHURCH",
-    "address": "895 MICA RD",
+    "address": "895 MICA RD RIDGEWAY",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2815,12 +2815,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSIAH HILL. PO BOX 443 895 MICA RD RIDGEWAY VA 24148 KJB church."
+    "description": "PO BOX 443 VA 24148 KJB church"
   },
   {
     "id": "5252",
     "name": "CALVARY BIBLE CHURCH",
-    "address": "19872 BENHAMS RD",
+    "address": "19872 BENHAMS RD BRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "19872",
@@ -2833,7 +2833,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACOB VANOVER. 19872 BENHAMS RD BRISTOL VA 24202 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "OL VA 24202 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5253",
@@ -2851,7 +2851,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by C J PRATHER. PO BOX 71 201 CATRON ST RURAL RETREAT VA 24368 KJB church."
+    "description": "PO BOX 71 RURAL RETREAT VA 24368 KJB church"
   },
   {
     "id": "5254",
@@ -2869,7 +2869,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY RABY. 1509 BIG BETHEL RD HAMPTON VA 23666 SS 10,SM 11,SN 6,W 7 AWANA, LANGLEY AFB, FORT EUSTIN, NORFOLK NAS KJB church."
+    "description": "HAMPTON VA 23666 SS 10,SM 11,SN 6,W 7 AWANA, LANGLEY AFB, FORT EUSTIN, NORFOLK NAS KJB church"
   },
   {
     "id": "5255",
@@ -2887,7 +2887,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY HART. 307 N BRUFFEY ST SALEM VA 24153 SM 10,SN 5,TH 7 PATCH PIRATE KJB church."
+    "description": "SALEM VA 24153 SM 10,SN 5,TH 7 PATCH PIRATE KJB church"
   },
   {
     "id": "5256",
@@ -2905,12 +2905,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUANE MUSICK. 3238 GUM LOG RD HIWASSEE VA 24347 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HIWASSEE VA 24347 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "5257",
     "name": "COPPER RIDGE BAPTIST CHURCH",
-    "address": "409 COPPER RD (RT 740)",
+    "address": "24225 COPPER RIDGE CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -2925,7 +2925,7 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ERNEST HALTERMAN. RR 1 BOX 229 (227) 409 COPPER RD (RT 740) CLEVELAND VA 24225 COPPER RIDGE CHRISTIAN ACADEMY K5-12 15266 NEW MARKET RD TIMBERVILLE VA 22853 HWY 211 PROPHETS CHAMBER KJB, BBFI, VA-BBF 7777 COGBILL RD CH"
+    "description": "RR 1 BOX 229 (227) CLEVELAND VA IAN ACADEMY K5-12 15266 NEW MARKET RD TIMBERVILLE VA 22853 HWY 211 PROPHETS CHAMBER KJB, BBFI, VA-BBF 7777 COGBILL RD CH"
   },
   {
     "id": "5258",
@@ -2943,7 +2943,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MELVIN H CAMPBELL. 3840 RINER RD PO BOX 917 RINER VA 24149 SS 10,SM 11,SN 6,W 7 CHOIR, JOY CLUB, TEENS KJB church."
+    "description": "PO BOX 917 RINER VA 24149 SS 10,SM 11,SN 6,W 7 CHOIR, JOY CLUB, TEENS KJB church"
   },
   {
     "id": "5259",
@@ -2961,7 +2961,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL HARPER. MAILING ADD: 1738 ARKANSAS AVE LYNCHBURG VA 24501 PHYSICAL ADD: 3708 PARKWOOD AVE LYNCHBURG SS 945,SM 11,SN 6,W 7 CHILD CARE KJB church."
+    "description": "MAILING ADD: LYNCHBURG VA 24501 PHYSICAL ADD: 3708 PARKWOOD AVE LYNCHBURG SS 945,SM 11,SN 6,W 7 CHILD CARE KJB church"
   },
   {
     "id": "5260",
@@ -2979,7 +2979,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN ST JOHN. 7221 BELMONT RD MINERAL VA 23117 SPOTSYLVANIA AREA SS 10,SM 11,SN 6,W 7 AWANA, QUANTICO MCB KJB, RUCKMAN, PBI"
+    "description": "MINERAL VA 23117 SPOTSYLVANIA AREA SS 10,SM 11,SN 6,W 7 AWANA, QUANTICO MCB KJB, RUCKMAN, PBI"
   },
   {
     "id": "5261",
@@ -2999,7 +2999,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by CAMERON CLOUD. 806 LYONS BLVD FREDERICKSBURG VA 22406 SOULWINNING, STREET PREACHING KJB, VA-BBF"
+    "description": "FREDERICKSBURG VA 22406 SOULWINNING, STREET PREACHING KJB, VA-BBF"
   },
   {
     "id": "5262",
@@ -3012,17 +3012,17 @@ export const virginiaChurches: Church[] = [
     "longitude": -78.0151,
     "phone": "(804) 492-4793",
     "website": "https://www.facebook.com/p/Hatcher-Baptist-Church-100064565087512",
-    "pastor": "PAUL MITCHELL",
+    "pastor": "CHESAPEAKE VA 23323 SS 10,SM 830 & 11,SN 6,W 7 AWANA,CHOIR,YOUTH,TEEN,SENIORS,MP3 AUDIO & VIDEO SERMONS ONLINE KJV, AIBF KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL MITCHELL. 5 GRAVEL HILL RD DILLWYN VA 23936 712 CANAL DR CHESAPEAKE VA 23323 SS 10,SM 830 & 11,SN 6,W 7 AWANA,CHOIR,YOUTH,TEEN,SENIORS,MP3 AUDIO & VIDEO SERMONS ONLINE KJV, AIBF KJB church."
+    "description": "DILLWYN VA 23936 712 CANAL DR CHESAPEAKE VA 23323 SS 10,SM 830 & 11,SN 6,W 7 AWANA,CHOIR,YOUTH,TEEN,SENIORS,MP3 AUDIO & VIDEO SERMONS ONLINE KJV, AIBF KJB church"
   },
   {
     "id": "5263",
     "name": "AMBASSADOR BAPTIST CHURCH",
-    "address": "675 EARLY DR",
+    "address": "11434 FREDERICKSBURG TNPK WOODFORD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3030,12 +3030,12 @@ export const virginiaChurches: Church[] = [
     "longitude": -79.5147,
     "phone": "(804) 633-9902",
     "website": "http://ambassadorbapt.org",
-    "pastor": "KEVIN GERBER",
+    "pastor": "BROADWAY VA 22815-9569",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN GERBER. 11434 FREDERICKSBURG TNPK WOODFORD VA 22580 SS 10,SM 11,N 6,W 7 KJB, HAC SS 10,SM 11,SN 6,W 7 675 EARLY DR BROADWAY VA 22815-9569"
+    "description": "VA 22580 SS 10,SM 11,N 6,W 7 KJB, HAC SS 10,SM 11,SN 6,W 7 675 EARLY DR BROADWAY VA 22815-9569"
   },
   {
     "id": "5264",
@@ -3054,12 +3054,12 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by SINCLAIR ROWE. 3115 OAKLAWN BLVD HOPEWELL VA 23860 SS 10,SM 11,SN 630,W 7 PO BOX 316 CULPEPER VA 22701-0316 MEETING AT: BRANDY STATION FIRE HALL 19610 CHURCH RD, BRANDY STATION SM 1030,W 7 12819 MISTY LN WOODBRIDGE  Soulwinning church."
+    "description": "HOPEWELL VA 23860 SS 10,SM 11,SN 630,W 7 PO BOX 316 CULPEPER VA 22701-0316 MEETING AT: BRANDY STATION FIRE HALL 19610 CHURCH RD, BRANDY STATION SM 1030,W 7 12819 MISTY LN WOODBRIDGE Soulwinning church"
   },
   {
     "id": "5265",
     "name": "MOUNT MORIAH BAPTIST CHURCH",
-    "address": "5780 MT MORIAH RD",
+    "address": "934 JUDY LANE EXT ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3072,12 +3072,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DONNIE SHERFEY. 5780 MT MORIAH RD POWHATAN VA 23139 SS 945,SM 11,SN 5 AUDIO SERMONS, AWANA, CHOIR 934 JUDY LANE EXT STANLEY VA 22851 1300 TURNER RD RICHMOND VA 23225 SS 945,SM 1050,SN 7,W 645 BBF church."
+    "description": "POWHATAN VA 23139 SS 945,SM 11,SN 5 AUDIO SERMONS, AWANA, CHOIR ANLEY VA 22851 1300 TURNER RD RICHMOND VA 23225 SS 945,SM 1050,SN 7,W 645 BBF church"
   },
   {
     "id": "5266",
     "name": "CHESAPEAKE BAPTIST TABERNACLE",
-    "address": "4142 2ND ST",
+    "address": "613 WINKIE ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3090,7 +3090,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by STEVE L CONWELL. 4142 2ND ST CHESAPEAKE VA 23324 613 WINKIE ST FARMVILLE VA 23901"
+    "description": "4142 2ND ST CHESAPEAKE VA 23324 FARMVILLE VA 23901"
   },
   {
     "id": "5267",
@@ -3108,12 +3108,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BOBBY BURROW. 201 1ST NOTTOWAY RD CREWE VA 23930 BBF church."
+    "description": "CREWE VA 23930 BBF church"
   },
   {
     "id": "5268",
     "name": "BEAVERVIEW MISSIONARY BAPTIST CHURCH",
-    "address": "139 BEAVERVIEW DR",
+    "address": "139 BEAVERVIEW DR BRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3126,7 +3126,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JOHN MASSEY JR. PO BOX 265 139 BEAVERVIEW DR BRISTOL VA 24201 PROPHETS CHAMBER"
+    "description": "PO BOX 265 OL VA 24201 PROPHETS CHAMBER"
   },
   {
     "id": "5269",
@@ -3144,7 +3144,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by GEORGE WINEGAR. PO BOX 1445 16438 PILGRIM LN ABINGDON VA 24210"
+    "description": "PO BOX 1445 ABINGDON VA 24210"
   },
   {
     "id": "5270",
@@ -3162,7 +3162,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by FRANK SIZEMORE JR. 134 CHAPEL ST WEBER CITY VA 24290 SS 945,SM 1045,SN 6,W 630 AMBASSADOR-BC"
+    "description": "WEBER CITY VA 24290 SS 945,SM 1045,SN 6,W 630 AMBASSADOR-BC"
   },
   {
     "id": "5271",
@@ -3180,7 +3180,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JAMES HOBBS. 105 MOSS RUN RD 1703 MIDLAND TRAIL COVINGTON VA 24426"
+    "description": "1703 MIDLAND TRAIL COVINGTON VA 24426"
   },
   {
     "id": "5272",
@@ -3198,12 +3198,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WAYNE HALL. PO BOX 476 737 VIRGINIA AVE HOT SPRINGS VA 24445"
+    "description": "PO BOX 476 HOT SPRINGS VA 24445"
   },
   {
     "id": "5273",
     "name": "FREEDOM INDEPENDENT BAPTIST CHURCH",
-    "address": "1428 W MAIN ST",
+    "address": "15 FAITH BAPTIST CIR NATURAL BRIDGE ST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3217,12 +3217,12 @@ export const virginiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by TERRY BOSTIC. 1428 W MAIN ST DANVILLE VA 24541 PO BOX 500 15 FAITH BAPTIST CIR NATURAL BRIDGE STATION VA 24579 SS 10,SM 11,SN 7,W 7 KINGS KIDS AIBF, BBF, BJU"
+    "description": "DANVILLE VA 24541 PO BOX 500 ATION VA 24579 SS 10,SM 11,SN 7,W 7 KINGS KIDS AIBF, BBF, BJU"
   },
   {
     "id": "5274",
     "name": "HANOVER BAPTIST CHURCH",
-    "address": "11239 CEDAR LN",
+    "address": "5921 DOW HOLLOW RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "11239",
@@ -3236,7 +3236,7 @@ export const virginiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by SAMUEL J HUNTLEY SR. 11239 CEDAR LN GLEN ALLEN VA 23060 RT 623, 1 MILE W OF RT 1 SS 10,SM 11,SN 6,W 715 SOULWINNING, AUDIO & TEXT SERMONS BBF, ATLANTIC-BBC, 5921 DOW HOLLOW RD SALEM VA 24153 SS 10,SM 11,SN 6,W 730"
+    "description": "GLEN ALLEN VA 23060 RT 623, 1 MILE W OF RT 1 SS 10,SM 11,SN 6,W 715 SOULWINNING, AUDIO & TEXT SERMONS BBF, ATLANTIC-BBC, SALEM VA 24153 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "5275",
@@ -3254,7 +3254,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by SCOTT. 29561 RICH VALLEY RD MEADOWVIEW VA 24361 BBF, BJU, AIBF 18058 CONSTITUTION HWY ORANGE VA 22960 SS 945,SM 11,SN 7,W 7 QUANTICO MCB"
+    "description": "MEADOWVIEW VA 24361 BBF, BJU, AIBF 18058 CONSTITUTION HWY ORANGE VA 22960 SS 945,SM 11,SN 7,W 7 QUANTICO MCB"
   },
   {
     "id": "5276",
@@ -3272,12 +3272,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MALCOLM POWELL. 4576 MILLER LN PULASKI VA 24301 SS 945,SM 11,W 7 BBF church."
+    "description": "PULASKI VA 24301 SS 945,SM 11,W 7 BBF church"
   },
   {
     "id": "5277",
     "name": "BACON HOLLOW BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 175",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3290,12 +3290,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BOB FERGUSON. PO BOX 175 DYKE VA 22935 RT 627, NEAR QUINQUE AREA SS 10,SM 11,W 7 BBF church."
+    "description": "DYKE VA 22935 RT 627, NEAR QUINQUE AREA SS 10,SM 11,W 7 BBF church"
   },
   {
     "id": "5278",
     "name": "NEW RIVER BAPTIST TEMPLE",
-    "address": "7043 WARDEN CT",
+    "address": "8443 near RADFORD NEW RIVER CHRIST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3308,7 +3308,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by FRANK JONES. 7043 WARDEN CT FAIRLAWN VA 24141-8443 near RADFORD NEW RIVER CHRISTIAN ACADEMY FBF, BJU, PCC"
+    "description": "FAIRLAWN VA 24141-IAN ACADEMY FBF, BJU, PCC"
   },
   {
     "id": "5279",
@@ -3326,7 +3326,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by GREGORY W NORRIS. 6202 STRATHMORE RD RICHMOND VA 23234 SS 915,SM 1030,SN 6,W 7 BUS, AUDIO SERMONS"
+    "description": "RICHMOND VA 23234 SS 915,SM 1030,SN 6,W 7 BUS, AUDIO SERMONS"
   },
   {
     "id": "5280",
@@ -3345,12 +3345,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREG A ROGERS. 3834 E PRINCESS ANNE NORFOLK VA 23502 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BJU, BBF KJB church."
+    "description": "3834 E PRINCESS ANNE NORFOLK VA 23502 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BJU, BBF KJB church"
   },
   {
     "id": "5281",
     "name": "GRACE MEMORIAL BAPTIST CHURCH",
-    "address": "1737 ROBINSON RD",
+    "address": "1737 ROBINSON RD BEDFORD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3364,7 +3364,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CAREY FORBUS. PO BOX 187 1737 ROBINSON RD BEDFORD VA 24523 SS 10,SM 11,SN 630,W 7 NOT KJV ONLY, BBF, LIBERTY-U 517 NEW WRIGHT SHOP RD MADISON HEIGHTS VA 24572 NOT KJV ONLY, BJU, MBBC, FBF KJB church."
+    "description": "PO BOX 187 VA 24523 SS 10,SM 11,SN 630,W 7 NOT KJV ONLY, BBF, LIBERTY-U 517 NEW WRIGHT SHOP RD MADISON HEIGHTS VA 24572 NOT KJV ONLY, BJU, MBBC, FBF KJB church"
   },
   {
     "id": "5282",
@@ -3382,7 +3382,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN GREGORY. 15 KEYSTONE LANE BERRYVILLE VA 22611 PHY ADD: RT 7 NOT KJV ONLY KJB church."
+    "description": "BERRYVILLE VA 22611 PHY ADD: RT 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "5283",
@@ -3401,7 +3401,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CLIFTON D CAUTHORNE JR. 8364 RED HOUSE RD APPOMATTOX VA 24522 SS 930,SM 1030, SN 6, W 630 NOT KJV ONLY, BBF, BJU PO BOX 206 1440 DICKENSON HWY CLINTWOOD VA 24228 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, FALWELL KJB church."
+    "description": "APPOMATTOX VA 24522 SS 930,SM 1030, SN 6, W 630 NOT KJV ONLY, BBF, BJU PO BOX 206 1440 DICKENSON HWY CLINTWOOD VA 24228 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, FALWELL KJB church"
   },
   {
     "id": "5284",
@@ -3420,7 +3420,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ALAN GARBUTT. PO BOX 1360 4699 VALLEY PIKE STEPHENS CITY VA 22655 SS 945,SM 830 & 11,SN 6,W 7 BUS, AWANA, YOUTH, TEENS, DEAF, LIBERTY BIBLE INSTITUTE; SHENANDOAH VALLEY CHRISTIAN ACADEMY K4-12; PREACH KJV,NOT KJV O KJB church."
+    "description": "PO BOX 1360 4699 VALLEY PIKE STEPHENS CITY VA 22655 SS 945,SM 830 & 11,SN 6,W 7 BUS, AWANA, YOUTH, TEENS, DEAF, LIBERTY BIBLE INSTITUTE; SHENANDOAH VALLEY CHRISTIAN ACADEMY K4-12; PREACH KJV,NOT KJV O KJB church"
   },
   {
     "id": "5285",
@@ -3439,12 +3439,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ALLAN MONFILS. NOT KJV ONLY, BBF KJB church."
+    "description": "NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "5286",
     "name": "BLUE RIDGE BAPTIST CHURCH",
-    "address": "121 BLUE RIDGE LN",
+    "address": "121 BLUE RIDGE LN AMHERST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3457,7 +3457,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL GOODMAN. PO BOX 863 121 BLUE RIDGE LN AMHERST VA 24521 NOT KJV ONLY KJB church."
+    "description": "PO BOX 863 VA 24521 NOT KJV ONLY KJB church"
   },
   {
     "id": "5287",
@@ -3475,12 +3475,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD THOMAS. 447 DALEWOOD AVE SALEM VA 24153 SS 945,SM 1055,SN 6,W 7 KJB, DISPENSATIONAL SALVATION"
+    "description": "SALEM VA 24153 SS 945,SM 1055,SN 6,W 7 KJB, DISPENSATIONAL SALVATION"
   },
   {
     "id": "5288",
     "name": "SOUTHSIDE INDEPENDENT BAPTIST CHURCH",
-    "address": "49 MORGAN FORD RD",
+    "address": "49 MORGAN FORD RD RIDGEWAY",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3494,7 +3494,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TAYLOR. 49 MORGAN FORD RD RIDGEWAY VA 24148 SS 10, SM 11, SN 6, W 730 NOT KJV ONLY KJB church."
+    "description": "VA 24148 SS 10, SM 11, SN 6, W 730 NOT KJV ONLY KJB church"
   },
   {
     "id": "5289",
@@ -3513,7 +3513,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RON OWENS. 372 HOLLY FARMS RD RICE VA SS 10,SM 11,SN 2,W 7 KJB, BBF, CCM"
+    "description": "RICE VA SS 10,SM 11,SN 2,W 7 KJB, BBF, CCM"
   },
   {
     "id": "5290",
@@ -3526,19 +3526,19 @@ export const virginiaChurches: Church[] = [
     "longitude": -79.0223,
     "phone": "(703) 777-1336",
     "website": "http://www.loudounbaptist.org",
-    "pastor": "DONNIE STEVENS",
+    "pastor": "WOODBRIDGE VA 22191 AWANA, SENIORS, TEENS NOT KJV ONLY, S",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DONNIE STEVENS. 412 EDWARDS FERRY RD NE LEESBURG VA 20176 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 4 TURF RD LYNCHBURG VA 24501 NOT KJV ONLY 15880/90 CREST DR WOODBRIDGE VA 22191 AWANA, SENIORS, TEENS NOT KJV ONLY, S.G KJB church."
+    "description": "LEESBURG VA 20176 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 4 TURF RD LYNCHBURG VA 24501 NOT KJV ONLY 15880/90 CREST DR WOODBRIDGE VA 22191 AWANA, SENIORS, TEENS NOT KJV ONLY, S.G KJB church"
   },
   {
     "id": "5291",
     "name": "CLEARVIEW BAPTIST CHURCH",
-    "address": "2183 SUNNYMEADE RD",
+    "address": "2183 SUNNYMEADE RD RUST",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3552,7 +3552,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by J D SURBAUGH. PO BOX 386 2183 SUNNYMEADE RD RUSTBURG VA 24588 NOT KJV ONLY, BBF PO BOX 970 HWY 29 N MADISON HEIGHTS VA 24572 TEMPLE CHRISTIAN SCHOOL PS-6, NOT KJV ONLY, BBF, LIBERTY-U KJB church."
+    "description": "PO BOX 386 BURG VA 24588 NOT KJV ONLY, BBF PO BOX 970 HWY 29 N MADISON HEIGHTS VA 24572 TEMPLE CHRISTIAN SCHOOL PS-6, NOT KJV ONLY, BBF, LIBERTY-U KJB church"
   },
   {
     "id": "5292",
@@ -3571,12 +3571,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CURTIS WALKUP. 10660 RICHMOND HWY LYNCHBURG VA 24504 NOT KJV ONLY, BBF, LIBERTY-U KJB church."
+    "description": "10660 RICHMOND HWY LYNCHBURG VA 24504 NOT KJV ONLY, BBF, LIBERTY-U KJB church"
   },
   {
     "id": "5293",
     "name": "EAST BROOK BAPTIST CHURCH",
-    "address": "3050 EASTBROOK RD",
+    "address": "3423 SEWELLS POINT RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3589,12 +3589,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD E KARNES. RR 5 BOX 868 3050 EASTBROOK RD LYNCHBURG VA 24501 PREACH KJV, STUDY FROM ALL 3423 SEWELLS POINT RD NORFOLK VA 23513 NOT KJV ONLY, LIBERTY-U, CCM KJB church."
+    "description": "RR 5 BOX 868 LYNCHBURG VA 24501 PREACH KJV, STUDY FROM ALL NORFOLK VA 23513 NOT KJV ONLY, LIBERTY-U, CCM KJB church"
   },
   {
     "id": "5294",
     "name": "CAPITAL BAPTIST CHURCH",
-    "address": "3435 ASTON ST",
+    "address": "717 N WHITEHURST LANDING RD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3608,7 +3608,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES W BAKER. 3435 ASTON ST ANNANDALE VA 22003 SS 945 & 1230,SM 830 & 11,SN 6,W 7 PREACH KJV, NOT KJV ONLY, BBF, BJU, FBF 717 N WHITEHURST LANDING RD VIRGINIA BEACH VA 23464 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "ANNANDALE VA 22003 SS 945 & 1230,SM 830 & 11,SN 6,W 7 PREACH KJV, NOT KJV ONLY, BBF, BJU, FBF VIRGINIA BEACH VA 23464 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "5295",
@@ -3628,12 +3628,12 @@ export const virginiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DAVID M RHODENHIZER. 3910 LORCOM LANE ARLINGTON VA 22207 TRADITIONAL & CONTEMPORARY SERVICES SS 930,SM 11,SN 630,W 7 1220 AM,105.1 FM FORT MEYER PREACH NKJV & KJV, BBF, FALWELL KJB church."
+    "description": "ARLINGTON VA 22207 TRADITIONAL & CONTEMPORARY SERVICES SS 930,SM 11,SN 630,W 7 1220 AM,105.1 FM FORT MEYER PREACH NKJV & KJV, BBF, FALWELL KJB church"
   },
   {
     "id": "5296",
     "name": "CALVARY ROAD BAPTIST CHURCH",
-    "address": "6811 BEULAH ST",
+    "address": "6811 BEULAH ST ALEXANDR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3647,7 +3647,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY BLACKWELL. 6811 BEULAH ST ALEXANDRIA VA 22310 WORSHIP/SS 815 & 930 & 11,SN 6,W 7 DEAF, SINGLES, YOUTH; CALVARY RD CHRISTIAN SCHOOL; FORT BELVOIR NOT KJV ONLY, BBF KJB church."
+    "description": "IA VA 22310 WORSHIP/SS 815 & 930 & 11,SN 6,W 7 DEAF, SINGLES, YOUTH; CALVARY RD CHRISTIAN SCHOOL; FORT BELVOIR NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "5297",
@@ -3666,7 +3666,7 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID J BARTON. 1659 ANDERSON HWY POWHATAN VA 23139 SS 10,SM 11,SN 630,W 730 CHOIR, LADIES BIBLE STUDY, AWANA, SOLDIERS OF CHRIST KJV & KJV NEW SCHOFIELD PO BOX 386 ASHBURN VA 22011 21700 SHELLHORN RD NEAR DULLES AIR KJB church."
+    "description": "1659 ANDERSON HWY POWHATAN VA 23139 SS 10,SM 11,SN 630,W 730 CHOIR, LADIES BIBLE STUDY, AWANA, SOLDIERS OF CHRIST KJV & KJV NEW SCHOFIELD PO BOX 386 ASHBURN VA 22011 NEAR DULLES AIR KJB church"
   },
   {
     "id": "5298",
@@ -3686,12 +3686,12 @@ export const virginiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by BEN SMITH. 4725 BANDY RD ROANOKE VA 24014 SM 11,SN 630,W 7 NKJV, BBF, BJU KJB church."
+    "description": "ROANOKE VA 24014 SM 11,SN 630,W 7 NKJV, BBF, BJU KJB church"
   },
   {
     "id": "5299",
     "name": "ENGLESIDE BAPTIST CHURCH",
-    "address": "8428 HIGHLAND LN",
+    "address": "8428 HIGHLAND LN ALEXANDR",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3704,7 +3704,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL WEGNER. 8428 HIGHLAND LN ALEXANDRIA VA 22309 8828 HIGHLAND LN (SCHOOL) SS 9,SM 10,SN 6,W 7 AWANA, ENGLESIDE CHRISTIAN SCHOOL, PS-12 FORT BELVIOR, PENTAGON NOT KJV ONLY, BJU, FBF 221 HILLCREST ST BLUE RIDGE VA KJB church."
+    "description": "IA VA 22309 8828 HIGHLAND LN (SCHOOL) SS 9,SM 10,SN 6,W 7 AWANA, ENGLESIDE CHRISTIAN SCHOOL, PS-12 FORT BELVIOR, PENTAGON NOT KJV ONLY, BJU, FBF 221 HILLCREST ST BLUE RIDGE VA KJB church"
   },
   {
     "id": "5300",
@@ -3722,12 +3722,12 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY EASTER. 14386 ASHDALE AVE DALE CITY VA 22193 SS 945,SM 11,SN 6,W 730 TEEN, CHOIR, HANDBELLS, AUDIO SERMONS, MASTER CLUBS; EVANGEL CHRISTIAN SCHOOL AACS K-12; QUANTICO MB NOT KJV ONLY, PIEDMONT-BC, APPLACHIAN- KJB church."
+    "description": "DALE CITY VA 22193 SS 945,SM 11,SN 6,W 730 TEEN, CHOIR, HANDBELLS, AUDIO SERMONS, MASTER CLUBS; EVANGEL CHRISTIAN SCHOOL AACS K-12; QUANTICO MB NOT KJV ONLY, PIEDMONT-BC, APPLACHIAN- KJB church"
   },
   {
     "id": "5301",
     "name": "RIVERVIEW BAPTIST CHURCH",
-    "address": "219 BIG STONY CREEK RD",
+    "address": "219 BIG STONY CREEK RD RIPPL",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3741,12 +3741,12 @@ export const virginiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE GRIEME. 219 BIG STONY CREEK RD RIPPLEMEAD VA 24150 SS 9 & 1030,SM 9 & 1045,SN 615,W 7 AWANA, CHOIR; JEFFERSON CHRISTIAN ACADEMY K3-6 ABEKA BJU; RIVERVIEW SCHOOL OF THE BIBLE NOT KJV ONLY, BBF, TTU 1200 HODGES KJB church."
+    "description": "EMEAD VA 24150 SS 9 & 1030,SM 9 & 1045,SN 615,W 7 AWANA, CHOIR; JEFFERSON CHRISTIAN ACADEMY K3-6 ABEKA BJU; RIVERVIEW SCHOOL OF THE BIBLE NOT KJV ONLY, BBF, TTU 1200 HODGES KJB church"
   },
   {
     "id": "5302",
     "name": "GLENVAR BAPTIST CHURCH",
-    "address": "4804 STANLEY FARM RD",
+    "address": "6100 CORNERSTONE BLVD",
     "city": "Richmond",
     "state": "VA",
     "zipCode": "",
@@ -3759,7 +3759,7 @@ export const virginiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN BENNETT. 4804 STANLEY FARM RD SALEM VA 24153 SS 930,SM 1045,SN 6,W 7 KJB, CCM, TRINITY-BC-FL 6100 CORNERSTONE BLVD RICHMOND VA 23234 SS 10,SM 11,SN 7,W 7 BUS, DEAF, SENIORS, TEENS, CHOIR NOT KJV ONLY"
+    "description": "SALEM VA 24153 SS 930,SM 1045,SN 6,W 7 KJB, CCM, TRINITY-BC-FL RICHMOND VA 23234 SS 10,SM 11,SN 7,W 7 BUS, DEAF, SENIORS, TEENS, CHOIR NOT KJV ONLY"
   },
   {
     "id": "5303",
@@ -3779,7 +3779,7 @@ export const virginiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JORDAN FANARA. PO BOX 279 GAINESVILLE VA 20156 4361 LEE HWY WARRENTON VA 20187 SS 10,SM 11,SN 6,W 730 SINGLES, TEEN, COUPLES, PATCH PIRATE ESV, BJU 3601 MONUMENT AVE RICHMOND VA 23230 WMA MP3 AUDIO SERMONS ONLINE SS KJB church."
+    "description": "PO BOX 279 GAINESVILLE VA 20156 4361 LEE HWY WARRENTON VA 20187 SS 10,SM 11,SN 6,W 730 SINGLES, TEEN, COUPLES, PATCH PIRATE ESV, BJU RICHMOND VA 23230 WMA MP3 AUDIO SERMONS ONLINE SS KJB church"
   },
   {
     "id": "5304",
@@ -3792,12 +3792,12 @@ export const virginiaChurches: Church[] = [
     "longitude": -77.9989,
     "phone": "(434) 246-2791",
     "website": "http://sussexbaptist.com",
-    "pastor": "NATHAN SMITH",
+    "pastor": "LYNCHBURG VA 24502 SS/SM 930 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by NATHAN SMITH. PO BOX 1376 SUSSEX VA 23884 PHY ADD: 17033 SUSSEX DR, STONY CREEK, 23882 SS 945,SM 11,W 7 SUSSEX CHRISTIAN SCHOOL K5-7 NOT KJV ONLY, BBF, LIBERTY-U, CCM 219 BREEZEWOOD DR LYNCHBURG VA 24502 SS/SM 930  KJB church."
+    "description": "PO BOX 1376 SUSSEX VA 23884 , STONY CREEK, 23882 SS 945,SM 11,W 7 SUSSEX CHRISTIAN SCHOOL K5-7 NOT KJV ONLY, BBF, LIBERTY-U, CCM 219 BREEZEWOOD DR LYNCHBURG VA 24502 SS/SM 930 KJB church"
   }
 ];

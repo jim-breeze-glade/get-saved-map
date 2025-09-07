@@ -17,12 +17,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS ALMANZA. 1237 BERLIN PLANK RD SOMERSET PA 15501 SS 930,SM 1030,TH 7 KJB church."
+    "description": "SOMERSET PA 15501 SS 930,SM 1030,TH 7 KJB church"
   },
   {
     "id": "4034",
     "name": "GREATER YORK BAPTIST CHURCH",
-    "address": "2870 EASTERN BLVD",
+    "address": "2870 EASTERN BLVD EAST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -35,12 +35,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN R MARTINEZ. 2870 EASTERN BLVD EAST YORK PA 17402 SM 1030,SN 5,W 7 KJB church."
+    "description": "YORK PA 17402 SM 1030,SN 5,W 7 KJB church"
   },
   {
     "id": "4035",
     "name": "NEW BEGINNINGS BAPTIST CHURCH",
-    "address": "",
+    "address": "630 SOULWINNING NEEDS PAST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -48,18 +48,18 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -77.903,
     "phone": "(570) 205-8468",
     "website": "https://gmail.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "4132 ROUTE 322 BLUE BALL PA 19543 SM 10, W 630 SOULWINNING NEEDS PASTOR KJB church."
+    "description": "4132 ROUTE 322 BLUE BALL PA 19543 SM 10, W 630 SOULWINNING NEEDS"
   },
   {
     "id": "4036",
     "name": "MOUNT CALVARY BAPTIST CHURCH",
-    "address": "2137 DINNER BELL FIVE FORKS RD",
+    "address": "2137 DINNER BELL FIVE FORKS RD EAST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -73,7 +73,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STANLEY HELM. PO BOX 205 2137 DINNER BELL FIVE FORKS RD EAST FARMINGTON SS 10,SM 11,SN 630,W 7 KJB, PCC, UNAFFILIATED"
+    "description": "PO BOX 205 FARMINGTON SS 10,SM 11,SN 630,W 7 KJB, PCC, UNAFFILIATED"
   },
   {
     "id": "4037",
@@ -91,7 +91,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM HATFIELD. 2041 ARMSTRONG VALLEY RD HALIFAX PA 17032 SS 9, SM 1010, SN 6, W 7 COUNSELING, TEENS; AFFILIATED ACE SCHOOL KJB church."
+    "description": "HALIFAX PA 17032 SS 9, SM 1010, SN 6, W 7 COUNSELING, TEENS; AFFILIATED ACE SCHOOL KJB church"
   },
   {
     "id": "4038",
@@ -110,7 +110,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOB VAN SANT. 221 ELMER ST SAYRE PA 18840 KJB, UNAFFILIATED"
+    "description": "SAYRE PA 18840 KJB, UNAFFILIATED"
   },
   {
     "id": "4039",
@@ -128,7 +128,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL ZANDER. 55 WEST ST NEWVILLE PA 17241 SS 930,SM 1030,W 7 KJB, UNREGISTERED"
+    "description": "NEWVILLE PA 17241 SS 930,SM 1030,W 7 KJB, UNREGISTERED"
   },
   {
     "id": "4040",
@@ -146,7 +146,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ELWOOD HELLER. 6732 LAKE RD YORK PA 17403 SUNDAY SCHOOL ALL AGES, NURSERY,  FAMILY FRIENDLY SERVICES, PROPHETS CHAMBER, AUDIO SERMONS KJB church."
+    "description": "YORK PA 17403 SUNDAY SCHOOL ALL AGES, NURSERY, FAMILY FRIENDLY SERVICES, PROPHETS CHAMBER, AUDIO SERMONS KJB church"
   },
   {
     "id": "4041",
@@ -166,7 +166,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TIM PERRY. 45 N 9TH ST LEBANON PA 17046 SOULWINNING KJB church."
+    "description": "LEBANON PA 17046 SOULWINNING KJB church"
   },
   {
     "id": "4042",
@@ -184,7 +184,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "366 W 5TH ST BLOOMSBURG PA 17815 SS 930, SM 1030,SN 7,W 7"
+    "description": "BLOOMSBURG PA 17815 SS 930, SM 1030,SN 7,W 7"
   },
   {
     "id": "4043",
@@ -202,12 +202,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE KRONK.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4044",
     "name": "VALLEY CITIES BAPTIST CHURCH",
-    "address": "75 SKIDMORE ST",
+    "address": "75 SKIDMORE ST PL",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -220,12 +220,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL WILPS. 75 SKIDMORE ST PLAINS TWP PA 18702 SS 1015,SM 11,W 7 KJB church."
+    "description": "AINS TWP PA 18702 SS 1015,SM 11,W 7 KJB church"
   },
   {
     "id": "4045",
     "name": "NEW LIBERTY BAPTIST CHURCH",
-    "address": "3210 CONCORD RD",
+    "address": "3210 CONCORD RD AST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -238,7 +238,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LOU MANCARI. 3210 CONCORD RD ASTON PA 19014 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ON PA 19014 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4046",
@@ -256,7 +256,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT REAGAN. 9 WITMER RD LIVERPOOL PA 17045 SS 930, SM 1030, SN 630, W 7 PIONEER CLUB KJB church."
+    "description": "LIVERPOOL PA 17045 SS 930, SM 1030, SN 630, W 7 PIONEER CLUB KJB church"
   },
   {
     "id": "4047",
@@ -274,7 +274,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "3240 GRIMESVILLE RD WILLIAMSPORT PA 17522 Non-KJV church."
+    "description": "WILLIAMSPORT PA 17522 Non-KJV church"
   },
   {
     "id": "4048",
@@ -283,8 +283,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6899,
-    "longitude": -77.4058,
+    "latitude": 40.2221,
+    "longitude": -75.8868,
     "phone": "",
     "website": "",
     "pastor": "GARY DUNN",
@@ -292,12 +292,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY DUNN. SS 1015,SM 9 KJB church."
+    "description": "SS 1015,SM 9 KJB church"
   },
   {
     "id": "4049",
     "name": "SHORTSVILLE BAPTIST CHURCH",
-    "address": "6 HUGHES RD",
+    "address": "1190 STANLEY RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -312,12 +312,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by RICHARD SCOTT. 6 HUGHES RD MIDDLEBURY CENTER PA 16935 KJB, UNAFFILIATED,TRAD  HYMNS PHYSICAL ADDRESS: 1190 STANLEY RD LUTHERSBURG PA 15848 MAILING ADDRESS: 155 MAIN ST TROUTVILLE PA 15866 SS 945, SM 1045, SN 7,W 7 2"
+    "description": "MIDDLEBURY CENTER PA 16935 KJB, UNAFFILIATED,TRAD HYMNS PHYSICAL ADDRESS: LUTHERSBURG PA 15848 MAILING ADDRESS: 155 MAIN ST TROUTVILLE PA 15866 SS 945, SM 1045, SN 7,W 7 2"
   },
   {
     "id": "4050",
     "name": "GREEN STREET BAPTIST CHAPEL",
-    "address": "27 GREEN ST",
+    "address": "27 GREEN ST EDWARD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -330,7 +330,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KURT JOHN LACAPRUCCIA. 27 GREEN ST EDWARDSVILLE PA 18704-3936 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "SVILLE PA 18704-3936 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "4051",
@@ -350,7 +350,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RYAN HENDERSON. 649 GRAVEL PIKE E GREENVILLE PA 18041 SS 945, SM 11, SAT 2, W 7 GODLY MUSIC, SOULWINNING, TEENS, MISSIONS KJB church."
+    "description": "GREENVILLE PA 18041 SS 945, SM 11, SAT 2, W 7 GODLY MUSIC, SOULWINNING, TEENS, MISSIONS KJB church"
   },
   {
     "id": "4052",
@@ -370,12 +370,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RONALD BIXLER. (This is an Independent Baptist Church) 20722 HAMMOND RD SPRING RUN PA 17262 BUS, SOULWINNING KJB church."
+    "description": "(This is an Independent Baptist Church) SPRING RUN PA 17262 BUS, SOULWINNING KJB church"
   },
   {
     "id": "4053",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "",
+    "address": "7 TURBOTVILLE CHRIST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -388,7 +388,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN SNODE. 4135 SR 54 TURBOTVILLE PA 17772 SS 930,SM 1030,SN 6,W 7 TURBOTVILLE CHRISTIAN SCHOOL KJB church."
+    "description": "4135 SR 54 TURBOTVILLE PA 17772 SS 930,SM 1030,SN 6,W IAN SCHOOL KJB church"
   },
   {
     "id": "4054",
@@ -406,7 +406,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STERLING WALSH JR. 7070 FRANKLIN RD CRANBERRY TOWNSHIP PA 16066 SS 945,SM 1030,SN 5,TH 7 KJB church."
+    "description": "CRANBERRY TOWNSHIP PA 16066 SS 945,SM 1030,SN 5,TH 7 KJB church"
   },
   {
     "id": "4055",
@@ -425,7 +425,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOEL WARD. 5005 CARLISLE RD DOVER PA 17315 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED, MASSILLON, BCA"
+    "description": "DOVER PA 17315 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED, MASSILLON, BCA"
   },
   {
     "id": "4056",
@@ -443,7 +443,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE CLARK. 199 GREAT BELT RD BUTLER PA 16002 SS 10, SM 11, SN 430, W 7 BUSES, SIGNING FOR DEAF, YOUTH GROUP, COLLEGE/CAREER CLASS; CALVARY ACADEMY K-12, ABEKA; KJB church."
+    "description": "BUTLER PA 16002 SS 10, SM 11, SN 430, W 7 BUSES, SIGNING FOR DEAF, YOUTH GROUP, COLLEGE/CAREER CLASS; CALVARY ACADEMY K-12, ABEKA; KJB church"
   },
   {
     "id": "4057",
@@ -463,7 +463,7 @@ export const pennsylvaniaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by BRIAN LOTT. ACCELERANDO MUSIC CONSERVATORY CANONSBURG PA 15317 PITTSBURGH AREA SS 1030,SM 11,SN 1230,TH 7 KJB, GSBC, HAC, UNAFFILIATED"
+    "description": "ACCELERANDO MUSIC CONSERVATORY CANONSBURG PA 15317 PITTSBURGH AREA SS 1030,SM 11,SN 1230,TH 7 KJB, GSBC, HAC, UNAFFILIATED"
   },
   {
     "id": "4058",
@@ -481,7 +481,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PERRY KILE. 437 N DUFFY RD BUTLER PA 16001 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "BUTLER PA 16001 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "4059",
@@ -500,12 +500,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEFFREY BATEMAN. 1757 NEW BLOOMFIELD RD NEW BLOOMFIELD PA 17068 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "NEW BLOOMFIELD PA 17068 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "4060",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "875 ACADEMY DR",
+    "address": "218 ELLICOTT RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -513,14 +513,14 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -77.1735,
     "phone": "(717) 272-6442",
     "website": "http://www.odbcministries.org",
-    "pastor": "GEORGE ANDERSON",
+    "pastor": "KJB, UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GEORGE ANDERSON. 875 ACADEMY DR LEBANON PA 17046 SS 930,SM 1030,SN 6,W 7 218 ELLICOTT RD AVONDALE PA 19311 SS 10,SM 11,SN 6,W 7 SPANISH, RADIO, KINGS KIDS, PROPHETS CHAMBER NEEDS PASTOR KJB, UNAFFILIATED"
+    "description": "LEBANON PA 17046 SS 930,SM 1030,SN 6,W 7 AVONDALE PA 19311 SS 10,SM 11,SN 6,W 7 SPANISH, RADIO, KINGS KIDS, PROPHETS CHAMBER NEEDS"
   },
   {
     "id": "4061",
@@ -538,7 +538,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK ROHNKE. 849 GANS WOODBRIDGE RD. SMITHFIELD PA 15478 SM 1045,SN 630,W 630 WOODBRIDGE COUNSELING CENTER, LOVE THY NEIGHBOR OUTREACH KJB church."
+    "description": "SMITHFIELD PA 15478 SM 1045,SN 630,W 630 WOODBRIDGE COUNSELING CENTER, LOVE THY NEIGHBOR OUTREACH KJB church"
   },
   {
     "id": "4062",
@@ -556,7 +556,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "920 BECK MILL RD HANOVER PA 17331 SS 930,SM 1030,SN 6,W 7"
+    "description": "HANOVER PA 17331 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "4063",
@@ -576,7 +576,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MICHAEL HUNT. KJB, UNAFFILIATED 502 E ADELE AVE MANHEIM PA 17545 SM 1030,SN 6,W 7 BUS, SOULWINNING, AUDIO SERMONS KJB, SOL, UNAFFLIATED"
+    "description": "KJB, UNAFFILIATED MANHEIM PA 17545 SM 1030,SN 6,W 7 BUS, SOULWINNING, AUDIO SERMONS KJB, SOL, UNAFFLIATED"
   },
   {
     "id": "4064",
@@ -594,7 +594,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AUDRON SEYMOUR. 5542 PERRY HWY ERIE PA 16509 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "5542 PERRY HWY ERIE PA 16509 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4065",
@@ -612,7 +612,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM KOVACIC. PO BOX 7 14425 CHURCH ST WATTSBURG PA 16442 KJB church."
+    "description": "PO BOX 7 WATTSBURG PA 16442 KJB church"
   },
   {
     "id": "4066",
@@ -630,7 +630,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN DEVINE. 756 AXEMANN RD BELLEFONTE PA 16823 SM 930,TU 7 KJB church."
+    "description": "BELLEFONTE PA 16823 SM 930,TU 7 KJB church"
   },
   {
     "id": "4067",
@@ -648,12 +648,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG HARVEN. 15380 OLD WATTSBURG RD UNION CITY PA 16438 KJB, WCBC"
+    "description": "UNION CITY PA 16438 KJB, WCBC"
   },
   {
     "id": "4068",
     "name": "EMMANUEL BIBLE CHURCH",
-    "address": "9945 EMMANUEL DR",
+    "address": "16662 HUNTINGDON CHRIST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -666,12 +666,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL MILLS. RD 4 BOX 72 9945 EMMANUEL DR HUNTINGDON PA 16662 HUNTINGDON CHRISTIAN ACADEMY KJB church."
+    "description": "RD 4 BOX 72 HUNTINGDON PA IAN ACADEMY KJB church"
   },
   {
     "id": "4069",
     "name": "BRADFORD BAPTIST CHURCH",
-    "address": "361 BOLIVAR DR",
+    "address": "361 BOLIVAR DR BRADFORD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -684,7 +684,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SANDERS ANDERSON. 361 BOLIVAR DR BRADFORD PA 16701 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS ONLINE KJB church."
+    "description": "PA 16701 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "4070",
@@ -702,7 +702,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE W SOLLEY. PO BOX 532 462 HATCH ST CORRY PA 16407 SS 10,SM 11,SN 630,W 7 NURSERY & RIDES AVAILABLE KJB church."
+    "description": "PO BOX 532 CORRY PA 16407 SS 10,SM 11,SN 630,W 7 NURSERY & RIDES AVAILABLE KJB church"
   },
   {
     "id": "4071",
@@ -720,7 +720,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK WAGNER. 155 NELLIES RD GRAMPIAN PA 16838 PHYSICAL ADD: 1464 CHURCH RD CURWENSVILLE PA 16833 SS 10,SM 11,SN 7,W 7 BIBLE TRUTH INSTITUTE KJB church."
+    "description": "GRAMPIAN PA 16838 PHYSICAL ADD: 1464 CHURCH RD CURWENSVILLE PA 16833 SS 10,SM 11,SN 7,W 7 BIBLE TRUTH INSTITUTE KJB church"
   },
   {
     "id": "4072",
@@ -729,8 +729,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.5973,
-    "longitude": -76.8051,
+    "latitude": 41.1529,
+    "longitude": -77.1244,
     "phone": "(742) 352-1890",
     "website": "http://www.hannahstownbaptist.com",
     "pastor": "",
@@ -739,7 +739,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "250 HANNAHSTOWN RD CABOT PA 16023 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "CABOT PA 16023 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4073",
@@ -757,7 +757,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES BARTON. 610 RACE ST CATASAUQUA PA 18032 SS 930, SM 1045,SN 630, W 7 KJB church."
+    "description": "CATASAUQUA PA 18032 SS 930, SM 1045,SN 630, W 7 KJB church"
   },
   {
     "id": "4074",
@@ -775,7 +775,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by S HATCHER. 106 PIN OAK LN MOUNT UNION PA 17066-9445 SS 930,SM 1030,SN 7,W 7 AUDIO SERMONS KJB church."
+    "description": "MOUNT UNION PA 17066-9445 SS 930,SM 1030,SN 7,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4075",
@@ -793,7 +793,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN LONG. 3378 PITTSBURGH RD PERRYOPOLIS PA 15473 AUDIO SERMONS ONLINE, TEENS, KINGS CLUB, VAN, CHOIR, SENIORS KJB church."
+    "description": "PERRYOPOLIS PA 15473 AUDIO SERMONS ONLINE, TEENS, KINGS CLUB, VAN, CHOIR, SENIORS KJB church"
   },
   {
     "id": "4076",
@@ -812,7 +812,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRANDON STARNES. PO BOX F 20258 MAIN ST SALTILLO PA 17253 SS 930, SM 1030, SN 6, W 7 KJB church."
+    "description": "PO BOX F SALTILLO PA 17253 SS 930, SM 1030, SN 6, W 7 KJB church"
   },
   {
     "id": "4077",
@@ -830,7 +830,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY D MCCLAIN. 3840 N PROGRESS AVE HARRISBURG PA 17110 SS 10,SM 11,SN 6,TH 7 KJB church."
+    "description": "HARRISBURG PA 17110 SS 10,SM 11,SN 6,TH 7 KJB church"
   },
   {
     "id": "4078",
@@ -849,7 +849,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PATRICK BAGGETT. 516 E JAMESTOWN RD GREENVILLE PA 16125 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, SOULWINNING KJB church."
+    "description": "GREENVILLE PA 16125 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, SOULWINNING KJB church"
   },
   {
     "id": "4079",
@@ -867,7 +867,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM DAVIS. 386 IRON BRIDGE RD FREEPORT PA 16229 SS 10,SM 11,SN 630,W 7 PATCH PIRATE KJB church."
+    "description": "FREEPORT PA 16229 SS 10,SM 11,SN 630,W 7 PATCH PIRATE KJB church"
   },
   {
     "id": "4080",
@@ -876,8 +876,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6811,
-    "longitude": -78.0347,
+    "latitude": 40.8228,
+    "longitude": -76.7099,
     "phone": "(814) 371-8835",
     "website": "",
     "pastor": "CHARLIE HICKS",
@@ -885,7 +885,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLIE HICKS. 113 HUNGRY HOLLOW RD DUBOIS PA 15801 KJB church."
+    "description": "DUBOIS PA 15801 KJB church"
   },
   {
     "id": "4081",
@@ -903,7 +903,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY CUNNINGHAM. 4257 PUNKIN RIDGE RD LA JOSE PA 15753 KJB church."
+    "description": "LA JOSE PA 15753 KJB church"
   },
   {
     "id": "4082",
@@ -921,7 +921,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB HRANICKY. 112 W SYCAMORE ST PITTSBURGH PA 15211 SS 10,SM 11,SN 630,W 730 KJB,HYLES 16817 RT 68 SLIGO PA 16255 CLARION COUNTY AREA SS 10,SM 11,SN 6,W 7"
+    "description": "PITTSBURGH PA 15211 SS 10,SM 11,SN 630,W 730 KJB,HYLES 16817 RT 68 SLIGO PA 16255 CLARION COUNTY AREA SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4083",
@@ -940,12 +940,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE MOONEY JR. 1337 FORREST HILLS DR SALIX PA 15952 WINDBER AREA SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "SALIX PA 15952 WINDBER AREA SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4084",
     "name": "NEW LONDON BAPTIST CHURCH",
-    "address": "226 PENNOCKS BRIDGE RD",
+    "address": "226 PENNOCKS BRIDGE RD WEST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -958,7 +958,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUGLAS FARROW. 226 PENNOCKS BRIDGE RD WEST GROVE PA 19390 SS 10, SM 11,SN 6,W 7 YOUTH, TEENS, AWANA, AUDIO SERMONS KJB church."
+    "description": "GROVE PA 19390 SS 10, SM 11,SN 6,W 7 YOUTH, TEENS, AWANA, AUDIO SERMONS KJB church"
   },
   {
     "id": "4085",
@@ -977,12 +977,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BRUCE IRELAND. 400 CORNMAN RD CARLISLE PA 17013 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "CARLISLE PA 17013 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4086",
     "name": "COUNTRY CHAPEL BAPTIST CHURCH",
-    "address": "109 INDIAN CREEK RD",
+    "address": "109 INDIAN CREEK RD ELDR",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -995,7 +995,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK BISSOL. 109 INDIAN CREEK RD ELDRED PA 16731 SM 1030,SN 6,W 7 Part 2 KJB church."
+    "description": "ED PA 16731 SM 1030,SN 6,W 7 Part 2 KJB church"
   },
   {
     "id": "4087",
@@ -1008,17 +1008,17 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -77.8318,
     "phone": "(570) 222-3723",
     "website": "http://www.elkdalebaptist.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "45 SR 2014 CLIFFORD TOWNSHIP PA  18470 NEAR LENOXVILLE SS 10,SM 11,SN 7,W 7 18103 HEMLOCK RIDGE RD BROAD TOP CITY PA 16621 NEEDS PASTOR KJB church."
+    "description": "45 SR 2014 CLIFFORD TOWNSHIP PA 18470 NEAR LENOXVILLE SS 10,SM 11,SN 7,W 7 BROAD TOP CITY PA 16621 NEEDS"
   },
   {
     "id": "4088",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 202",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1031,7 +1031,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY S MOORE. PO BOX 202 11555 CURWENSVILLE TYRONE HWY CURWINSVILLE PA 16833 NEAR ALTOONA SS 945,SM 1045,W 7 KJB church."
+    "description": "11555 CURWENSVILLE TYRONE HWY CURWINSVILLE PA 16833 NEAR ALTOONA SS 945,SM 1045,W 7 KJB church"
   },
   {
     "id": "4089",
@@ -1049,7 +1049,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WES GUNTHER. 303 W CHRISTINE RD NOTTINGHAM PA 19362 SS 10,SM 11,SN 7,W 730 YOUTH, TEEN, SENIORS, AUDIO SERMONS, PROPHETS CHAMBER KJB church."
+    "description": "NOTTINGHAM PA 19362 SS 10,SM 11,SN 7,W 730 YOUTH, TEEN, SENIORS, AUDIO SERMONS, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "4090",
@@ -1067,12 +1067,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID A SMITH. 154 CHESTNUT GROVE RD DILLSBURG PA 17019 SS 930,SM 1040,SN 6,W 7 AUDIO SERMONS 7350 ELEMENTARY RD COOPERSBURG PA 18036 KJB church."
+    "description": "DILLSBURG PA 17019 SS 930,SM 1040,SN 6,W 7 AUDIO SERMONS 7350 ELEMENTARY RD COOPERSBURG PA 18036 KJB church"
   },
   {
     "id": "4091",
     "name": "AMAZING GRACE BIBLE BAPTIST CHURCH",
-    "address": "1201 CHURCH ST",
+    "address": "22062 CENTER RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1085,7 +1085,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NORMAN AABYE. PO BOX 659 1201 CHURCH ST MOSCOW PA 18444 22062 CENTER RD VENANGO PA 16440 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 659 MOSCOW PA 18444 VENANGO PA 16440 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4092",
@@ -1103,12 +1103,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW KEENAN. PO BOX 14 865 CHURCH RD MOUNTAIN TOP PA 18707-0014 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 14 MOUNTAIN TOP PA 18707-0014 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4093",
     "name": "OLD PATH BAPTIST CHURCH",
-    "address": "558 HIGHLAND RD",
+    "address": "558 HIGHLAND RD WEST CHEST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1122,7 +1122,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE ROGERS. PO BOX 682 558 HIGHLAND RD WEST CHESTER PA 19381 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED, ABC, DAVID CLOUD"
+    "description": "PO BOX 682 ER PA 19381 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED, ABC, DAVID CLOUD"
   },
   {
     "id": "4094",
@@ -1140,7 +1140,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH E PATTERSON. 1191 LIMESTONE RD (RT 10) OXFORD PA 19363 SS 930, SM 1030, SN  6, W 7 KJB, HAC PO BOX 201 1455 HAMILTON AVE TYRONE PA 16686 SS 930,SM 1030,SN 6,W 7"
+    "description": "OXFORD PA 19363 SS 930, SM 1030, SN 6, W 7 KJB, HAC PO BOX 201 1455 HAMILTON AVE TYRONE PA 16686 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "4095",
@@ -1158,7 +1158,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE MITCHELL. 1230 BUCKEYE RD MOUNT MORRIS PA 15349 KJB church."
+    "description": "MOUNT MORRIS PA 15349 KJB church"
   },
   {
     "id": "4096",
@@ -1177,12 +1177,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIM MARTIN. 3003 OLD HARRISBURG RD GETTYSBURG PA 17372 SS 930,SM 1030,SN 7,W 7 KJB, UNAFFILIATED 241 CADWALADER AVE ELKINS PARK PA 19027 SS 930,SM 1045,SN 7,W 730 KJB,HYLES"
+    "description": "GETTYSBURG PA 17372 SS 930,SM 1030,SN 7,W 7 KJB, UNAFFILIATED 241 CADWALADER AVE ELKINS PARK PA 19027 SS 930,SM 1045,SN 7,W 730 KJB,HYLES"
   },
   {
     "id": "4097",
     "name": "THE OLD FASHIONED BAPTIST CHURCH",
-    "address": "12260 FERGUSON VALLEY RD",
+    "address": "12260 FERGUSON VALLEY RD LEWIST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "12260",
@@ -1196,12 +1196,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRETT SHARP. 12260 FERGUSON VALLEY RD LEWISTOWN PA 17044 SS 10,SM 11,SN 7,W 7 BUS, SOULWINNING KJB church."
+    "description": "OWN PA 17044 SS 10,SM 11,SN 7,W 7 BUS, SOULWINNING KJB church"
   },
   {
     "id": "4098",
     "name": "FREEDOM BAPTIST CHURCH",
-    "address": "5 EAST OAK LANE",
+    "address": "3596 PENNS VALLEY RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1216,12 +1216,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KENNETH CODNER. 5 EAST OAK LANE GLENOLDEN PA 19063 near MEDIA PA SS 930,SM 1030,SN 6,W 7 SUNDAY SCHOOL, SOULWINNING,VISITATION,FAMILY & TEEN ACTIVITIES, HANDICAP ACCESIBLE KJB, UNAFFILIATED 3596 PENNS VALLEY RD SPRIN"
+    "description": "GLENOLDEN PA 19063 near MEDIA PA SS 930,SM 1030,SN 6,W 7 SUNDAY SCHOOL, SOULWINNING,VISITATION,FAMILY & TEEN ACTIVITIES, HANDICAP ACCESIBLE KJB, UNAFFILIATED SPRIN"
   },
   {
     "id": "4099",
     "name": "FRIENDSHIP BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 291",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1234,12 +1234,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREGG KECKLER. PO BOX 291 3367 RITNER HWY NEWVILLE PA 17241 SS 9,SM 10,SN 7,W 7 KJB church."
+    "description": "3367 RITNER HWY NEWVILLE PA 17241 SS 9,SM 10,SN 7,W 7 KJB church"
   },
   {
     "id": "4100",
     "name": "JIREH INDEPENDENT BAPTIST CHURCH",
-    "address": "104 N MAIN ST",
+    "address": "101 DONATION RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1254,12 +1254,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KEITH TROYER. PO BOX 272 104 N MAIN ST BIGLERVILLE PA 17307 SM 10,SN 5,W 7 101 DONATION RD GREENVILLE PA 16125 SS 930,SM 1030,SN 7,W 7 MASTERS CLUBS, CHOIR, AUDIO SERMONS , SOULWINNING KJB, BJU"
+    "description": "PO BOX 272 BIGLERVILLE PA 17307 SM 10,SN 5,W 7 GREENVILLE PA 16125 SS 930,SM 1030,SN 7,W 7 MASTERS CLUBS, CHOIR, AUDIO SERMONS , SOULWINNING KJB, BJU"
   },
   {
     "id": "4101",
     "name": "BETHESDA BAPTIST CHURCH",
-    "address": "2140 HARMONYVILLE RD",
+    "address": "2140 HARMONYVILLE RD POTTST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1273,7 +1273,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DONALD SNYDER. 2140 HARMONYVILLE RD POTTSTOWN PA 19465 ST PETERS VILLAGE & BIRDSBORO AREA SS 930,SM 1045,SN 1,W 7 BUS, TEENS, YOUTH, CHOIR, SENIORS, LADIES KJB, HAC"
+    "description": "OWN PA 19465 ST PETERS VILLAGE & BIRDSBORO AREA SS 930,SM 1045,SN 1,W 7 BUS, TEENS, YOUTH, CHOIR, SENIORS, LADIES KJB, HAC"
   },
   {
     "id": "4102",
@@ -1291,7 +1291,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "100 CREAMERY RD JERMYN PA 18433"
+    "description": "JERMYN PA 18433"
   },
   {
     "id": "4103",
@@ -1327,7 +1327,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM WAUGH.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4105",
@@ -1345,7 +1345,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALTER. 3515 ST RT 6 TITUSVILLE PA 16354 SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "TITUSVILLE PA 16354 SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "4106",
@@ -1363,7 +1363,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE REDDICK. PO BOX 339 143 SUPLEE RD HONEY BROOK PA 19344 SS 10,SM 11,SN 6,W 7 LIVESTREAM SERMONS KJB, HAC 1 EVERGREEN TERR UNIONTOWN PA 15401 SS 10,SM 11,SN 6,W 730"
+    "description": "PO BOX 339 HONEY BROOK PA 19344 SS 10,SM 11,SN 6,W 7 LIVESTREAM SERMONS KJB, HAC 1 EVERGREEN TERR UNIONTOWN PA 15401 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "4107",
@@ -1372,8 +1372,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6108,
-    "longitude": -77.3229,
+    "latitude": 41.9425,
+    "longitude": -80.0312,
     "phone": "",
     "website": "",
     "pastor": "DAVID PETERMAN",
@@ -1381,7 +1381,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID PETERMAN.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4108",
@@ -1400,7 +1400,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK BERKSHIRE. 1618 WOMRATH ST PHILADELPHIA PA 19124 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "PHILADELPHIA PA 19124 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4109",
@@ -1418,7 +1418,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 39 1980 WHARTON FURNACE RD GIBBON GLADE PA 15440"
+    "description": "PO BOX 39 GIBBON GLADE PA 15440"
   },
   {
     "id": "4110",
@@ -1437,7 +1437,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT HARNESS. SS 930,SM 1030,SN 5,W 7 SOULWINNING, CHILDREN’S KJB church."
+    "description": "SS 930,SM 1030,SN 5,W 7 SOULWINNING, CHILDREN’S KJB church"
   },
   {
     "id": "4111",
@@ -1456,7 +1456,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JONATHAN BIXLER. 524 24TH AVE ALTOONA PA 16601 SS 930,SM 1045,SN 7,W 7 KJB church."
+    "description": "ALTOONA PA 16601 SS 930,SM 1045,SN 7,W 7 KJB church"
   },
   {
     "id": "4112",
@@ -1476,7 +1476,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by ROGER BOWYER. 151 ORANGE ST MOUNT JOY PA 17552 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, YOUTH, CHOIR, SOULWINNING, MEN’S PRAYER MEETING, LADIES FELLOWSHIP KJB, UNAFFILIATED"
+    "description": "MOUNT JOY PA 17552 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, YOUTH, CHOIR, SOULWINNING, MEN’S PRAYER MEETING, LADIES FELLOWSHIP KJB, UNAFFILIATED"
   },
   {
     "id": "4113",
@@ -1495,12 +1495,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LAWRENCE RACE. 513 PAWLING RD PHOENIXVILLE PA 19460 SS 945,SM 11,SN 6,TUE 7 KJB church."
+    "description": "PHOENIXVILLE PA 19460 SS 945,SM 11,SN 6,TUE 7 KJB church"
   },
   {
     "id": "4114",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "305 CIDER PRESS RD",
+    "address": "305 CIDER PRESS RD LOCK HAVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1513,7 +1513,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS ANGER. 305 CIDER PRESS RD LOCK HAVEN PA 17745 SS 11,TH 7 CONSERVATIVE MUSIC, VAN, NURSERY, JR CHURCH KJB church."
+    "description": "N PA 17745 SS 11,TH 7 CONSERVATIVE MUSIC, VAN, NURSERY, JR CHURCH KJB church"
   },
   {
     "id": "4115",
@@ -1532,7 +1532,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN OESTERLING. 2405 OLD BERWICK RD BLOOMSBURG PA 17815 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "BLOOMSBURG PA 17815 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4116",
@@ -1550,7 +1550,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE SAUDER. PO BOX 258 2251 PROSPECT RD (RT 258 N) PROSPECT PA 16052 SM 945, SS 11,SN 630,W 7 AWANA,DEAF,YOUTH, COAST GUARD KJB church."
+    "description": "PO BOX 258 PROSPECT PA 16052 SM 945, SS 11,SN 630,W 7 AWANA,DEAF,YOUTH, COAST GUARD KJB church"
   },
   {
     "id": "4117",
@@ -1569,7 +1569,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOE WEBER. 129 SLACKWATER RD MILLERSVILLE PA 17537 LAMPETER AND REFTON AREA KJB,UNAFFILIATED"
+    "description": "MILLERSVILLE PA 17537 LAMPETER AND REFTON AREA KJB,UNAFFILIATED"
   },
   {
     "id": "4118",
@@ -1588,12 +1588,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN SCAHILL. 1181 LOWER CLOVER CREEK RD WILLIAMSBURG PA 16693 SS 930,SM 1030,SN 730,W 730 AUDIO SERMONS &  MUSIC KJB, ABC PO BOX 444 623 N GRANT EXT ST WAYNESBORO PA 17268 SM 930,SS 1045,SN 7,W 7"
+    "description": "WILLIAMSBURG PA 16693 SS 930,SM 1030,SN 730,W 730 AUDIO SERMONS & MUSIC KJB, ABC PO BOX 444 623 N GRANT EXT ST WAYNESBORO PA 17268 SM 930,SS 1045,SN 7,W 7"
   },
   {
     "id": "4119",
     "name": "EMMANUEL BAPTIST CHURCH",
-    "address": "1730 FOUR MILE DR",
+    "address": "7 WILLIAMSPORT CHRIST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1607,7 +1607,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PHILLIP P THOMAS. 1730 FOUR MILE DR WILLIAMSPORT PA 17701 SS 945,SM 1045,SN 6,W 7 WILLIAMSPORT CHRISTIAN SCHOOLS KJB, HAC 11166 LIVERMORE RD MEADVILLE PA 16335 SS 10,SM 11,SN 6,W 7 BUS, PUPPET, CHOIR; FOUNDATION CHRIST"
+    "description": "WILLIAMSPORT PA 17701 SS 945,SM 1045,SN 6,W IAN SCHOOLS KJB, HAC 11166 LIVERMORE RD MEADVILLE PA 16335 SS 10,SM 11,SN 6,W 7 BUS, PUPPET, CHOIR; FOUNDATION CHRIST"
   },
   {
     "id": "4120",
@@ -1616,8 +1616,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6113,
-    "longitude": -76.051,
+    "latitude": 39.9462,
+    "longitude": -75.3341,
     "phone": "(412) 735-6995",
     "website": "https://biblebaptistchurchofplum.com",
     "pastor": "RONALD A OESTERWIND",
@@ -1625,7 +1625,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD A OESTERWIND. PO BOX 14026 200 ELICKER RD PITTSBURGH PA 15239 PLUM BOROUGH AREA SS 10, SM 11, SN 6, W 6 AWANA, PUPPETS 1061 CREEK RD DOWNINGTON PA 19335 LYNDELL AREA KJB church."
+    "description": "PO BOX 14026 PITTSBURGH PA 15239 PLUM BOROUGH AREA SS 10, SM 11, SN 6, W 6 AWANA, PUPPETS 1061 CREEK RD DOWNINGTON PA 19335 LYNDELL AREA KJB church"
   },
   {
     "id": "4121",
@@ -1643,12 +1643,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD W LAROCQUE. 1107 RIVERVIEW RD CLEARFIELD PA 16830 SS 945,SM 1045,SN 7,W 7 KJB church."
+    "description": "CLEARFIELD PA 16830 SS 945,SM 1045,SN 7,W 7 KJB church"
   },
   {
     "id": "4122",
     "name": "INDEPENDENT BAPTIST CHURCH",
-    "address": "273 N MAIN ST",
+    "address": "273 N MAIN ST PL",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1662,7 +1662,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEN WAGGONER JR. 273 N MAIN ST PLEASANTVILLE PA 16341 TITUSVILLE AREA SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "EASANTVILLE PA 16341 TITUSVILLE AREA SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4123",
@@ -1681,7 +1681,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVE JOHNSON. PO BOX 363 308 S QUEEN ST SHIPPENSBURG PA 17257 SS 930,SM 1045,SN 7,W 7 KJB church."
+    "description": "PO BOX 363 SHIPPENSBURG PA 17257 SS 930,SM 1045,SN 7,W 7 KJB church"
   },
   {
     "id": "4124",
@@ -1699,7 +1699,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "11 MILL ST TUNKHANNOCK PA 18657 SS 10,SM 11,SN 6,W 7"
+    "description": "TUNKHANNOCK PA 18657 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4125",
@@ -1718,7 +1718,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRIAN KORNER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4126",
@@ -1737,7 +1737,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RON CUNNINGHAM. 1164 BLUE RIDGE TRAIL WAPWALLOPEN PA 18660 NEAR NUANGOLA SS 930,SM 1030,SN 6,W 7 KJB, GIPP"
+    "description": "1164 BLUE RIDGE TRAIL WAPWALLOPEN PA 18660 NEAR NUANGOLA SS 930,SM 1030,SN 6,W 7 KJB, GIPP"
   },
   {
     "id": "4127",
@@ -1755,7 +1755,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "2105 MAIN ST ALIQUIPPA PA 15001 ABA church."
+    "description": "ALIQUIPPA PA 15001 ABA church"
   },
   {
     "id": "4128",
@@ -1773,7 +1773,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WALLY RUSNICA.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4129",
@@ -1793,7 +1793,7 @@ export const pennsylvaniaChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by CLIFTON HAMBY. 120 ZIMMERMAN WAY KITTANNING PA 16201 SS 945,SM 1045,SN 6,W 7 235 HORSECREEK RD SENECA PA 16346 SM 1030,SN 6,TH 630 FAITH CHRISTIAN ACADEMY K-12 ABEKA; FAITH BAPTIST BIBLE COLLEGE KJB, UNAFFILIATED"
+    "description": "KITTANNING PA 16201 SS 945,SM 1045,SN 6,W 7 235 HORSECREEK RD SENECA PA 16346 SM 1030,SN 6,TH 630 FAITH CHRISTIAN ACADEMY K-12 ABEKA; FAITH BAPTIST BIBLE COLLEGE KJB, UNAFFILIATED"
   },
   {
     "id": "4130",
@@ -1811,7 +1811,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT E WENDAL. 4702 COLEBROOK AVE EMMAUS PA 18049 ALLENTOWN SS 9,SM 1015,SN 6,W 7 YOUTH, KINGS KIDS, AUDIO SERMONS; EMMAUS BAPTIST ACADEMY K-12; LEHIGH VALLEY BIBLE BAPTIST INSTITUTE KJB church."
+    "description": "EMMAUS PA 18049 ALLENTOWN SS 9,SM 1015,SN 6,W 7 YOUTH, KINGS KIDS, AUDIO SERMONS; EMMAUS BAPTIST ACADEMY K-12; LEHIGH VALLEY BIBLE BAPTIST INSTITUTE KJB church"
   },
   {
     "id": "4131",
@@ -1830,12 +1830,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DANNY MOORE. 616 S TRAPPE RD COLLEGEVILLE PA 19426 SS 930,SM 1030,SN 530,W 715 BUS, SINGLES, PRISON, SENIORS, TEEN; VALLEY FORGE BAPTIST ACADEMY K5-12; BIBLE INSTITUTE KJB, BBF"
+    "description": "COLLEGEVILLE PA 19426 SS 930,SM 1030,SN 530,W 715 BUS, SINGLES, PRISON, SENIORS, TEEN; VALLEY FORGE BAPTIST ACADEMY K5-12; BIBLE INSTITUTE KJB, BBF"
   },
   {
     "id": "4132",
     "name": "DANIEL BOONE BIBLE BAPTIST CHURCH",
-    "address": "158 E BAUMSTOWN RD",
+    "address": "158 E BAUMSTOWN RD BIRD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1848,7 +1848,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "158 E BAUMSTOWN RD BIRDSBORO PA 19508 SM 1030,SN 6,THU 7"
+    "description": "SBORO PA 19508 SM 1030,SN 6,THU 7"
   },
   {
     "id": "4133",
@@ -1867,7 +1867,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHAD BRALEY. 1515 WISTAR RD FAIRLESS HILLS PA 19030 SS 945,SM 11,SN 6,W 730 BUS, TEEN,YOUTH, SOULWINNING; FAITH BAPTIST CHRISTIAN ACADEMY PREK-12; KJB church."
+    "description": "FAIRLESS HILLS PA 19030 SS 945,SM 11,SN 6,W 730 BUS, TEEN,YOUTH, SOULWINNING; FAITH BAPTIST CHRISTIAN ACADEMY PREK-12; KJB church"
   },
   {
     "id": "4134",
@@ -1887,12 +1887,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID ROACH. 2515 N 26TH ST PHILADELPHIA PA 19132 SS 945,SM 11,SN 6,W 7 SOULWINNING KJB church."
+    "description": "PHILADELPHIA PA 19132 SS 945,SM 11,SN 6,W 7 SOULWINNING KJB church"
   },
   {
     "id": "4135",
     "name": "HARBORCREEK BAPTIST CHURCH",
-    "address": "4719 BUFFALO RD",
+    "address": "203 KING JAMES LN",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1905,7 +1905,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK K BITER. 4719 BUFFALO RD ERIE PA 16510 KJB, HAC 203 KING JAMES LN MARTINSBURG PA 16662 SS 945,SM 1045,SN 6,W 7 PO BOX 262 9681 WILLIAM PENN RD OSTERBURG PA 16667 SS 930,SM 1030,SN 7,W 7 AUDIO & VIDEO SERMONS K"
+    "description": "ERIE PA 16510 KJB, HAC MARTINSBURG PA 16662 SS 945,SM 1045,SN 6,W 7 PO BOX 262 9681 WILLIAM PENN RD OSTERBURG PA 16667 SS 930,SM 1030,SN 7,W 7 AUDIO & VIDEO SERMONS K"
   },
   {
     "id": "4136",
@@ -1918,13 +1918,13 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -78.3871,
     "phone": "(100) 064-8697",
     "website": "https://www.facebook.com/100064869723192",
-    "pastor": "ERIC LINGENFELTER",
+    "pastor": "CLAYSBURG PA 16625 SS 930,SM 1040,SN 7,W 7 PROTEEN,CHRISTIAN SOLDIERS, RADIO, SOULWINNING, CHOIR KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ERIC LINGENFELTER. 494 BUNKER HILL RD EVERETT PA 15537 SS 10,SM 11,SN 6,W 7 480 EMMANUEL DR CLAYSBURG PA 16625 SS 930,SM 1040,SN 7,W 7 PROTEEN,CHRISTIAN SOLDIERS, RADIO, SOULWINNING, CHOIR KJB church."
+    "description": "EVERETT PA 15537 SS 10,SM 11,SN 6,W 7 480 EMMANUEL DR CLAYSBURG PA 16625 SS 930,SM 1040,SN 7,W 7 PROTEEN,CHRISTIAN SOLDIERS, RADIO, SOULWINNING, CHOIR KJB church"
   },
   {
     "id": "4137",
@@ -1942,7 +1942,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID KARPENKO. PO BOX 556 1011 PROVIDENCE RD SECANE PA 19018 SS 10,SM 11,SN 6,W 7 KJB, GIPP 432 W SMITH ST CORRY PA 16407"
+    "description": "PO BOX 556 SECANE PA 19018 SS 10,SM 11,SN 6,W 7 KJB, GIPP 432 W SMITH ST CORRY PA 16407"
   },
   {
     "id": "4138",
@@ -1961,12 +1961,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOB WRACHFORD. PO Box 173 16 PINE LANE PINEVILLE PA 18946 KJB church."
+    "description": "PO Box 173 PINEVILLE PA 18946 KJB church"
   },
   {
     "id": "4139",
     "name": "DUNBAR BAPTIST CHURCH",
-    "address": "22 1ST ST",
+    "address": "3727 ONEDIA VALLEY RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -1981,7 +1981,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JACOB LANGDON. PO BOX 205 22 1ST ST DUNBAR PA 15431 SPEER HILL AREA OF DUNBAR KJB, IBFI, UNAFFILIATED 3727 ONEDIA VALLEY RD EMLENTON PA 16373 NEAR PETROLIA I-80  Exit # 5,  S 1 mile on the right SS 10,SM 11,SN 630,W"
+    "description": "PO BOX 205 22 1ST ST DUNBAR PA 15431 SPEER HILL AREA OF DUNBAR KJB, IBFI, UNAFFILIATED EMLENTON PA 16373 NEAR PETROLIA I-80 Exit # 5, S 1 mile on the right SS 10,SM 11,SN 630,W"
   },
   {
     "id": "4140",
@@ -1990,8 +1990,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6684,
-    "longitude": -76.7074,
+    "latitude": 41.6485,
+    "longitude": -80.4348,
     "phone": "(814) 946-3376",
     "website": "http://www.rigglesgapbiblechurch.com",
     "pastor": "KEN MANYPENNY",
@@ -1999,7 +1999,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN MANYPENNY. 613 LEAR RD ALTOONA PA 16601 SS 930,SM 1030,SN 7,W 7 TEEN, PATCH PIRATE, MASTER CLUBS, AUDIO SERMONS KJB church."
+    "description": "ALTOONA PA 16601 SS 930,SM 1030,SN 7,W 7 TEEN, PATCH PIRATE, MASTER CLUBS, AUDIO SERMONS KJB church"
   },
   {
     "id": "4141",
@@ -2017,17 +2017,17 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EARL ROSENBALM. 501 37TH ST BEAVER FALLS PA 15010 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "BEAVER FALLS PA 15010 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "4142",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "511 SHORT ST",
+    "address": "1021 STATELINE RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6057,
-    "longitude": -78.0308,
+    "latitude": 40.7259,
+    "longitude": -76.6867,
     "phone": "(724) 929-6968",
     "website": "http://anchoredinthetruth.com",
     "pastor": "BRIAN LOTT",
@@ -2036,12 +2036,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRIAN LOTT. 511 SHORT ST BELLE VERNON PA 15012 SS 10,SM 11,SN 7,W 7 KJB, CROWN-BC 1021 STATELINE RD BESSEMER PA 16112 LAUREL HILL GOSPEL TABERNACLE 7415 SOMERSET PKE BOSWELL PA 15531 SS 945,SM 1045,SN 7,W 7 48 MU"
+    "description": "BELLE VERNON PA 15012 SS 10,SM 11,SN 7,W 7 KJB, CROWN-BC BESSEMER PA 16112 LAUREL HILL GOSPEL TABERNACLE 7415 SOMERSET PKE BOSWELL PA 15531 SS 945,SM 1045,SN 7,W 7 48 MU"
   },
   {
     "id": "4143",
     "name": "BETHANY BAPTIST CHURCH",
-    "address": "4162 DELTA RD",
+    "address": "43141 W CENTRAL AVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2054,7 +2054,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG COLE. PO BOX 306 4162 DELTA RD AIRVILLE PA 17302 KJB,HYLES 43141 W CENTRAL AVE TITUSVILLE PA 16354 SS 10,SM 11,W 7 VICTORY CHRISTIAN ACADEMY"
+    "description": "PO BOX 306 AIRVILLE PA 17302 KJB,HYLES TITUSVILLE PA 16354 SS 10,SM 11,W 7 VICTORY CHRISTIAN ACADEMY"
   },
   {
     "id": "4144",
@@ -2074,12 +2074,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JEFFREY HITE. 4525 COMLY ST PHILADELPHIA PA 19135 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS, TEEN, SOULWINNING, ADDICTION PROGRAM, FT DIX,MCGUIRE AFB,WILLOW GROVE NAS, KJB, UNAFFILIATED"
+    "description": "PHILADELPHIA PA 19135 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS, TEEN, SOULWINNING, ADDICTION PROGRAM, FT DIX,MCGUIRE AFB,WILLOW GROVE NAS, KJB, UNAFFILIATED"
   },
   {
     "id": "4145",
     "name": "BIBLE BELIEVERS BAPTIST CHURCH",
-    "address": "660 CONSTITUTION AVE",
+    "address": "660 CONSTITUTION AVE ST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2092,12 +2092,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN T MOTES. 660 CONSTITUTION AVE STOWE PA 19464 SS 10, SM 11, SN 7, W 7 KJB church."
+    "description": "OWE PA 19464 SS 10, SM 11, SN 7, W 7 KJB church"
   },
   {
     "id": "4146",
     "name": "CHADDS FORD BAPTIST CHURCH",
-    "address": "",
+    "address": "415 S BALTIMORE PK CHADDS FORD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2110,12 +2110,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES A HARVEY JR. PO BOX 322 415 S BALTIMORE PK CHADDS FORD PA 19317 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 322 PA 19317 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4147",
     "name": "AULTMAN BAPTIST CHURCH",
-    "address": "91 4TH ST",
+    "address": "4765 S PIONEER RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2128,7 +2128,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE SEXTON. PO BOX 53 91 4TH ST KENT PA 15752 AULTMAN PA 15713 SS 945,SM 11,SN 7,W 7 KJB, CORLE 4765 S PIONEER RD ALLISON PARK PA 15101 SS 10,SM 11,SN 6,W 7 DEAF, AUDIO SERMONS; CALVARY CHRISTIAN ACADEMY"
+    "description": "PO BOX 53 91 4TH ST KENT PA 15752 AULTMAN PA 15713 SS 945,SM 11,SN 7,W 7 KJB, CORLE ALLISON PARK PA 15101 SS 10,SM 11,SN 6,W 7 DEAF, AUDIO SERMONS; CALVARY CHRISTIAN ACADEMY"
   },
   {
     "id": "4148",
@@ -2146,7 +2146,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY BEAUMONT. RD 1 BOX 655 RUFFSDALE PA 15679 KJB, CROWN-BC, WCBC 938 S 11TH ST ALLENTOWN PA 18103"
+    "description": "RD 1 BOX 655 RUFFSDALE PA 15679 KJB, CROWN-BC, WCBC ALLENTOWN PA 18103"
   },
   {
     "id": "4149",
@@ -2166,7 +2166,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DANIEL CRISMAN. NEAR WHITEHALL SS 10,SM 11,SN 630,W 7 SOULWINNING, BUS KJB, CROWN-BC 1225 ROBERT FULTON HWY QUARRYVILLE PA 17566 SS 930,SM 1030,SN 730,W 730 BUS, KINGS KIDS, SENIORS, SOULWINNING, AUDIO SERMONS; CALVA"
+    "description": "NEAR WHITEHALL SS 10,SM 11,SN 630,W 7 SOULWINNING, BUS KJB, CROWN-BC 1225 ROBERT FULTON HWY QUARRYVILLE PA 17566 SS 930,SM 1030,SN 730,W 730 BUS, KINGS KIDS, SENIORS, SOULWINNING, AUDIO SERMONS; CALVA"
   },
   {
     "id": "4150",
@@ -2185,7 +2185,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY BOURQUE. PO BOX 242 633 VALLEY FORGE RD DUNCANSVILLE PA 16673 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE ,TEEN ,PRISON ,RU KJB,UNAFFILIATED PO BOX 1 350 MAIN ST OFF US RT 422 SHELOCTA PA 15774 SS 930,SM 1030,SN 6,W"
+    "description": "PO BOX 242 DUNCANSVILLE PA 16673 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE ,TEEN ,PRISON ,RU KJB,UNAFFILIATED PO BOX 1 350 MAIN ST OFF US RT 422 SHELOCTA PA 15774 SS 930,SM 1030,SN 6,W"
   },
   {
     "id": "4151",
@@ -2205,12 +2205,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by STEPHEN M COLEMAN. 116 S ENOLA DR ENOLA PA  17025 SS 9,SM 10,SN 7,W 7 CHOIR, CHILDREN’S 917 WILHELM RD HARRISBURG PA 17111 WILHELM & EUCLID STS SS 930,SM 1045,SN 2,W 7 SOULWINNING KJB church."
+    "description": "ENOLA PA 17025 SS 9,SM 10,SN 7,W 7 CHOIR, CHILDREN’S 917 WILHELM RD HARRISBURG PA 17111 WILHELM & EUCLID STS SS 930,SM 1045,SN 2,W 7 SOULWINNING KJB church"
   },
   {
     "id": "4152",
     "name": "FAITH INDEPENDENT BAPTIST CHURCH",
-    "address": "3215 S 22ND ST",
+    "address": "140 MCGOVERNS LN",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2224,7 +2224,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN HODGE. 3215 S 22ND ST PHILADELPHIA PA 19145 SS 10,SM 11,SN 530,W 7 PO BOX 643 140 MCGOVERNS LN MCCONNELLSBURG PA 17233 SS 9,SM 10,SN 630,W 7 KJB church."
+    "description": "3215 S 22ND ST PHILADELPHIA PA 19145 SS 10,SM 11,SN 530,W 7 PO BOX 643 MCCONNELLSBURG PA 17233 SS 9,SM 10,SN 630,W 7 KJB church"
   },
   {
     "id": "4153",
@@ -2242,7 +2242,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JODY C REESE. 127 SENECA SCHOOL RD HARMONY PA 16067 ZELIENOPLE AREA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HARMONY PA 16067 ZELIENOPLE AREA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4154",
@@ -2260,7 +2260,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN SCHMUCK. 430 MOUNTAIN BACK RD SPRINGS MILLS PA 16827 BOALSBURG AREA SS 945,SM 1045,W 7 PATCH PIRATE, TEEN, COLLEGE-PENN ST, BIBLE INSTITUTE KJB church."
+    "description": "SPRINGS MILLS PA 16827 BOALSBURG AREA SS 945,SM 1045,W 7 PATCH PIRATE, TEEN, COLLEGE-PENN ST, BIBLE INSTITUTE KJB church"
   },
   {
     "id": "4155",
@@ -2279,12 +2279,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by BILL SCHUTT. 3905 SPRINGVALE RD RED LION PA 17356-9319 105 SPRINGVALE RD SS 930,SM 1030,SN 6,W 730 RED LION CHRISTIAN ACADEMY,K-12 AUDIO SERMONS KJB, HAC 4190 N SUSQUEHANNA TR YORK PA 17404 SS 10,SM 11,SN 630,W 7"
+    "description": "RED LION PA 17356-9319 105 SPRINGVALE RD SS 930,SM 1030,SN 6,W 730 RED LION CHRISTIAN ACADEMY,K-12 AUDIO SERMONS KJB, HAC 4190 N SUSQUEHANNA TR YORK PA 17404 SS 10,SM 11,SN 630,W 7"
   },
   {
     "id": "4156",
     "name": "ANTRIM FAITH BAPTIST CHURCH",
-    "address": "6621 MARSH RD",
+    "address": "17268 WAYNESBORO CHRIST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2299,7 +2299,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by DON R CRUTCHER. 6621 MARSH RD WAYNESBORO PA 17268 WAYNESBORO CHRISTIAN ACADEMY,K-12 SOULWINNING, PATCH PIRATE,TEEN, PROPHETS CHAMBER KJB, HAC PO BOX 26 596 W NEWPORT RD ELM PA 17521 KJV, PABBF"
+    "description": "NESBORO PA IAN ACADEMY,K-12 SOULWINNING, PATCH PIRATE,TEEN, PROPHETS CHAMBER KJB, HAC PO BOX 26 596 W NEWPORT RD ELM PA 17521 KJV, PABBF"
   },
   {
     "id": "4157",
@@ -2318,7 +2318,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MARSHALL WOLVERTON. 2870 PHEASANT DR NORTHHAMPTON PA 18067 SS 930,SM 1045,SN 630,W 730 DEAF, FRONTLINE CLUBS; VALLEYVIEW BAPTIST ACADEMY KJB, HAC 1349 GREEN ST LEHIGHTON PA 18235 SS 1010,SM 11,SN 630,W 7 BUS, YOUTH, SOUL"
+    "description": "NORTHHAMPTON PA 18067 SS 930,SM 1045,SN 630,W 730 DEAF, FRONTLINE CLUBS; VALLEYVIEW BAPTIST ACADEMY KJB, HAC 1349 GREEN ST LEHIGHTON PA 18235 SS 1010,SM 11,SN 630,W 7 BUS, YOUTH, SOUL"
   },
   {
     "id": "4158",
@@ -2336,12 +2336,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT BLAIR. 3254 RICHLIEU RD BENSALEM PA 19020 3351 RICHLIEU RD SS 935,SM 1045,SN 6,W 7 AUDIO & VIDEO SERMONS, AWANA, BUS, SENIORS, CHOIR, PRISON; BENSALEM BAPTIST CHRISTIAN SCHOOL KCEA ABEKA; KJB church."
+    "description": "BENSALEM PA 19020 3351 RICHLIEU RD SS 935,SM 1045,SN 6,W 7 AUDIO & VIDEO SERMONS, AWANA, BUS, SENIORS, CHOIR, PRISON; BENSALEM BAPTIST CHRISTIAN SCHOOL KCEA ABEKA; KJB church"
   },
   {
     "id": "4159",
     "name": "WILLOW GROVE INDEPENDENT BAPTIST CHURCH",
-    "address": "756 HARGUS CREEK RD",
+    "address": "756 HARGUS CREEK RD WAY",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2356,12 +2356,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DENNIS HIGGINS. 756 HARGUS CREEK RD WAYNESBURG PA 15370 911 DURHAM RD LANGHORNE PA 19047 SS 930,SM 1045,SN 6,W 7 SOULWINNING KJB church."
+    "description": "NESBURG PA 15370 911 DURHAM RD LANGHORNE PA 19047 SS 930,SM 1045,SN 6,W 7 SOULWINNING KJB church"
   },
   {
     "id": "4160",
     "name": "DELAWARE COUNTY BAPTIST CHURCH",
-    "address": "1236 ELLSTON RD",
+    "address": "1236 ELLSTON RD HAVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2369,17 +2369,17 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -76.9554,
     "phone": "(610) 449-5595",
     "website": "https://www.dcbc.site",
-    "pastor": "AMERY BRENLY",
+    "pastor": "145 MAIN ST ROULETTE PA 16746 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AMERY BRENLY. 1236 ELLSTON RD HAVERTOWN PA 19083 SS 930,SM 1015,SM 1130,W 630 NEEDS PASTOR 145 MAIN ST ROULETTE PA 16746 KJB church."
+    "description": "RTOWN PA 19083 SS 930,SM 1015,SM 1130,W 630 NEEDS"
   },
   {
     "id": "4161",
     "name": "SOUTHSIDE BAPTIST CHURCH",
-    "address": "8184 PEACH ST",
+    "address": "1341 GOLDEN OAKS RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2395,12 +2395,12 @@ export const pennsylvaniaChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by VERNON K BERDINE. 8184 PEACH ST ERIE PA 16509 SS 10  SM 11  SN 6  W 7 SOULWINNING, PROPHETS CHAMBER HC 64 BOX 47 1341 GOLDEN OAKS RD HOLBROOK PA 15341 1405 8TH AVE BEAVER FALLS PA 15010 SS 10,SM 11,SN 6,W 630 KJB, BBF"
+    "description": "ERIE PA 16509 SS 10 SM 11 SN 6 W 7 SOULWINNING, PROPHETS CHAMBER HC 64 BOX 47 HOLBROOK PA 15341 1405 8TH AVE BEAVER FALLS PA 15010 SS 10,SM 11,SN 6,W 630 KJB, BBF"
   },
   {
     "id": "4162",
     "name": "GREAT HOPE BAPTIST CHURCH",
-    "address": "110 FERN AVE",
+    "address": "17013 Fern Ave off Spring Rd",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2413,7 +2413,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC GUSTAFSON. 110 FERN AVE CARLISLE PA 17013 Fern Ave off Spring Rd (Route 34 N) SS 945,SM 1045,SN 630,W 7,SW TH 7 CHRISTIAN SCHOOL K-12 ACE; CARLISLE BARRACKS Part 4​ KJB church."
+    "description": "CARLISLE PA (Route 34 N) SS 945,SM 1045,SN 630,W 7,SW TH 7 CHRISTIAN SCHOOL K-12 ACE; CARLISLE BARRACKS Part 4​ KJB church"
   },
   {
     "id": "4163",
@@ -2422,8 +2422,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "CRESCO",
     "state": "PA",
     "zipCode": "18326",
-    "latitude": 39.671,
-    "longitude": -76.9102,
+    "latitude": 39.871,
+    "longitude": -76.5759,
     "phone": "(570) 595-6454",
     "website": "http://www.pvbc.us",
     "pastor": "JIM TAYLOR",
@@ -2431,7 +2431,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM TAYLOR. PO BOX 205 HENRYVILLE PA 18332 3657 KOERNER RD, CRESCO PA 18326 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS KJB, SOL"
+    "description": "PO BOX 205 HENRYVILLE PA 18332 , CRESCO PA 18326 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS KJB, SOL"
   },
   {
     "id": "4164",
@@ -2449,7 +2449,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KELLY SENSENIG. 47 CINDIA LN EPHRATA PA 17522 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "EPHRATA PA 17522 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4165",
@@ -2458,8 +2458,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.5931,
-    "longitude": -76.8589,
+    "latitude": 41.8573,
+    "longitude": -74.8192,
     "phone": "(717) 733-6114",
     "website": "http://www.bereaninternetministry.org",
     "pastor": "STEVE NEFF",
@@ -2467,12 +2467,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE NEFF. 675 LINCOLN GARDEN RD EPHRATA PA 17522 SS & SM 10,SN 6, W 7 KJB church."
+    "description": "EPHRATA PA 17522 SS & SM 10,SN 6, W 7 KJB church"
   },
   {
     "id": "4166",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "9 MEADOW ST",
+    "address": "40 W PENNSYLVANNIA AVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2487,12 +2487,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by KEVIN CAVANAUGH. 9 MEADOW ST TIOGA PA 16946 SS 10,SM 11,SN 6,W 630 SOULWINNING, AUDIO SERMONS 40 W PENNSYLVANNIA AVE DOWINGTOWN PA 19335 NEAR EXTON SS 10,SM 11,SN 6,W 7 3 DENVER RD DENVER PA 17517 NEAR EPHRATA SS 930, KJB church."
+    "description": "TIOGA PA 16946 SS 10,SM 11,SN 6,W 630 SOULWINNING, AUDIO SERMONS DOWINGTOWN PA 19335 NEAR EXTON SS 10,SM 11,SN 6,W 7 3 DENVER RD DENVER PA 17517 NEAR EPHRATA SS 930, KJB church"
   },
   {
     "id": "4167",
     "name": "JACKSON BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 51",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2505,12 +2505,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID FOOTE. PO BOX 51 17280 ROUTE 92 JACKSON PA 18825 KJB church."
+    "description": "17280 ROUTE 92 JACKSON PA 18825 KJB church"
   },
   {
     "id": "4168",
     "name": "BAPTIST TEMPLE OF FRANKLIN",
-    "address": "",
+    "address": "PO BOX 225",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2523,12 +2523,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN G HARRIS. PO BOX 225 4777 OLD RT 8 FRANKLIN PA 16323 SS 10,SM 11,SN 7,W 7 KJV, PARBC, ACCC, IBFN KJB church."
+    "description": "4777 OLD RT 8 FRANKLIN PA 16323 SS 10,SM 11,SN 7,W 7 KJV, PARBC, ACCC, IBFN KJB church"
   },
   {
     "id": "4169",
     "name": "HOPE BAPTIST CHURCH",
-    "address": "6450 HOPE WAY",
+    "address": "7 AUDIO SERMONS NEEDS PAST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2536,12 +2536,12 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -76.2064,
     "phone": "(717) 633-1479",
     "website": "http://www.hopebaptistchurch.org",
-    "pastor": "TIMOTHY S LUCHON",
+    "pastor": "139 E WILEY ST KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY S LUCHON. 6450 HOPE WAY HANOVER PA 17331 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS NEEDS PASTOR 139 E WILEY ST KJB church."
+    "description": "HANOVER PA 17331 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS NEEDS"
   },
   {
     "id": "4170",
@@ -2559,7 +2559,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "280 STONE CHURCH RD HUNKER PA 15639 SS 10,SM 11,SN 6,W 7"
+    "description": "HUNKER PA 15639 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4171",
@@ -2578,7 +2578,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RAYMOND PURDY. KINGS KIDS, TEENS, HILLTOP PUBLICATIONS, BUS, SOULWINNING, AUDIO SERMONS ONLINE KJB church."
+    "description": "KINGS KIDS, TEENS, HILLTOP PUBLICATIONS, BUS, SOULWINNING, AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "4172",
@@ -2596,7 +2596,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1170 HUNLOCK-HARVEYVILLE RD SHICKSHINNY PA 18655 PHYSICAL LOCATION: 40 HESS LANE SWEET VALLEY PA 18622 SM 10,SN 6,W 7"
+    "description": "SHICKSHINNY PA 18655 PHYSICAL LOCATION: 40 HESS LANE SWEET VALLEY PA 18622 SM 10,SN 6,W 7"
   },
   {
     "id": "4173",
@@ -2605,8 +2605,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6174,
-    "longitude": -78.5152,
+    "latitude": 40.8995,
+    "longitude": -76.3716,
     "phone": "",
     "website": "",
     "pastor": "WILLIAM O",
@@ -2614,7 +2614,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM O.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4174",
@@ -2632,7 +2632,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM KRAMPERT. 1141 BUTLER HILL RD KNOXVILLE PA 16928 SS 945,SM 11,W 6 KJB, AMBASSADOR-BC PO BOX 559 KREAMER PA 17833 SS 930,SM 1030,SN 7,W 7 KREAMER CHRISTIAN ACADEMY K-12 12 W MAIN ST LEOLA PA 17540"
+    "description": "KNOXVILLE PA 16928 SS 945,SM 11,W 6 KJB, AMBASSADOR-BC PO BOX 559 KREAMER PA 17833 SS 930,SM 1030,SN 7,W 7 KREAMER CHRISTIAN ACADEMY K-12 12 W MAIN ST LEOLA PA 17540"
   },
   {
     "id": "4175",
@@ -2650,7 +2650,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID JETT JR. 7060 HWY 219 LEWIS RUN PA 16738 SS 10,SM 11,SN 630,W 630"
+    "description": "7060 HWY 219 LEWIS RUN PA 16738 SS 10,SM 11,SN 630,W 630"
   },
   {
     "id": "4176",
@@ -2670,7 +2670,7 @@ export const pennsylvaniaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by BOB KAUFFMAN. KJB,  TRADITIONAL MUSIC, UNAFFILIATED 111 PARSONAGE LN MARIENVILLE PA 16239 SS 10, SM 11, SN 6, W 7 KJB, TEXTUS RECEPTUS, MASORETIC"
+    "description": "KJB, TRADITIONAL MUSIC, UNAFFILIATED MARIENVILLE PA 16239 SS 10, SM 11, SN 6, W 7 KJB, TEXTUS RECEPTUS, MASORETIC"
   },
   {
     "id": "4177",
@@ -2688,7 +2688,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHUCK SWARTZ. 17 E SIMPSON ST #21 MECHANICSBURG PA 17055 BOOKSTORE: WHY AT THE WELL PO BOX 61 4 MCMILLAN RD MERCER PA 16137 SS 10,SM 11,SN 6,W 7 KJB, BAPTIST IN DOCTRINE"
+    "description": "MECHANICSBURG PA 17055 BOOKSTORE: WHY AT THE WELL PO BOX 61 4 MCMILLAN RD MERCER PA 16137 SS 10,SM 11,SN 6,W 7 KJB, BAPTIST IN DOCTRINE"
   },
   {
     "id": "4178",
@@ -2706,7 +2706,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB CAMPBELL. PO BOX 4097 1033 N PRAIRIE HWY MERCER PA 16137-9715 SS 930,SM 1045,SN 630,W 7 PATCH PIRATE; CALVARY CHRISTIAN SCHOOL K-12; KJB, IBFNA 754 E ROCKHILL RD SELLERSVILLE PA 18960 AP ALLEN HARRIS SS 9 & 113"
+    "description": "PO BOX 4097 1033 N PRAIRIE HWY MERCER PA 16137-9715 SS 930,SM 1045,SN 630,W 7 PATCH PIRATE; CALVARY CHRISTIAN SCHOOL K-12; KJB, IBFNA SELLERSVILLE PA 18960 AP ALLEN HARRIS SS 9 & 113"
   },
   {
     "id": "4179",
@@ -2725,7 +2725,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LARRY LEONARD. RR 1 BOX 1055 A SPRING GROVE PA 17362 SS 10,SM 11,SN 530,W 7 BUS, SOULWINNING, YOUTH; OLD PATHS CHRISTIAN ACADEMY K-12; KJB church."
+    "description": "RR 1 BOX 1055 A SPRING GROVE PA 17362 SS 10,SM 11,SN 530,W 7 BUS, SOULWINNING, YOUTH; OLD PATHS CHRISTIAN ACADEMY K-12; KJB church"
   },
   {
     "id": "4180",
@@ -2743,7 +2743,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT E HARRISON JR. 3750 PARK AVE WASHINGTON PA 15301 SS 930,SM 1045,SN 6,W 7 AUDIO/VIDEO SERMONS & MUSIC, DEAF, VAN, JR CHURCH, TRAC CLUB, KINGS KIDS KJB church."
+    "description": "WASHINGTON PA 15301 SS 930,SM 1045,SN 6,W 7 AUDIO/VIDEO SERMONS & MUSIC, DEAF, VAN, JR CHURCH, TRAC CLUB, KINGS KIDS KJB church"
   },
   {
     "id": "4181",
@@ -2761,7 +2761,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY LYNN. 3151 CONWAY WALLROSE RD BADEN PA 15005 SS 930,SM 1030,W 12,W 630 AUDIO SERMONS KJB church."
+    "description": "BADEN PA 15005 SS 930,SM 1030,W 12,W 630 AUDIO SERMONS KJB church"
   },
   {
     "id": "4182",
@@ -2770,8 +2770,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6414,
-    "longitude": -77.1983,
+    "latitude": 40.3718,
+    "longitude": -77.3343,
     "phone": "(724) 794-6143",
     "website": "http://www.slipperyrockbaptist.com",
     "pastor": "ED CLAYPOOLE",
@@ -2780,7 +2780,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ED CLAYPOOLE. 435 KEISTER RD SLIPPERY ROCK PA 16057 SS 10,SM 845 & 11,SN 6,W 7 PATCH PIRATE, SOULWINNING KJB, RUCKMAN"
+    "description": "SLIPPERY ROCK PA 16057 SS 10,SM 845 & 11,SN 6,W 7 PATCH PIRATE, SOULWINNING KJB, RUCKMAN"
   },
   {
     "id": "4183",
@@ -2799,7 +2799,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY G DULL. 119 VANDERZEE LN BUTLER PA 16002 KJB, UNAFFILIATED"
+    "description": "BUTLER PA 16002 KJB, UNAFFILIATED"
   },
   {
     "id": "4184",
@@ -2808,8 +2808,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6651,
-    "longitude": -78.3408,
+    "latitude": 41.8805,
+    "longitude": -79.5648,
     "phone": "(814) 944-2894",
     "website": "http://www.fbcaltoona.org",
     "pastor": "JOEL LONG",
@@ -2818,7 +2818,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOEL LONG. 315 40TH ST ALTOONA PA 16002 (Highland Park Section SS 915,SM 1030,SN 6,W 7 AWANA, KIDS CORNER, 92.7 FM,1110 AM, TV 9, AUDIO & LIVESTREAM SERMONS KJV, AMBASSADOR-BC 911 W 3RD ST WILLIAMSPORT PA 17701  KJB church."
+    "description": "ALTOONA PA 16002 (Highland Park Section SS 915,SM 1030,SN 6,W 7 AWANA, KIDS CORNER, 92.7 FM,1110 AM, TV 9, AUDIO & LIVESTREAM SERMONS KJV, AMBASSADOR-BC 911 W 3RD ST WILLIAMSPORT PA 17701 KJB church"
   },
   {
     "id": "4185",
@@ -2837,7 +2837,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK LIKINS. SS 10, SM 11, SE 6, W 7 KJB, UNAFFILIATED 224 HARVEST LN NATRONA HIGHTS PA 15065 Near NEW KENSINGTON SS 945 & 11, SM 930 & 11, SN 6, W 7 BUS; HARVEST BAPTIST ACADEMY K-6; WESTERN PENNSYLVANIA THEOLIGI"
+    "description": "SS 10, SM 11, SE 6, W 7 KJB, UNAFFILIATED NATRONA HIGHTS PA 15065 Near NEW KENSINGTON SS 945 & 11, SM 930 & 11, SN 6, W 7 BUS; HARVEST BAPTIST ACADEMY K-6; WESTERN PENNSYLVANIA THEOLIGI"
   },
   {
     "id": "4186",
@@ -2856,12 +2856,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DONALD J PENDLEY. 225 COULTER RD MCKEESPORT PA 15131 near WHITE OAK SS 10,SM 11,SN 7 KJB, UNAFFILIATED"
+    "description": "MCKEESPORT PA 15131 near WHITE OAK SS 10,SM 11,SN 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4187",
     "name": "COUNTRYSIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 422",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2874,12 +2874,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL L BAILEY. PO BOX 422 11250 RT 536 PUNXSUTAWNEY PA 15767 SS 945,SM 1045,SN 630,W 7 KJB church."
+    "description": "11250 RT 536 PUNXSUTAWNEY PA 15767 SS 945,SM 1045,SN 630,W 7 KJB church"
   },
   {
     "id": "4188",
     "name": "SYLVANIA HILLS BAPTIST CHURCH",
-    "address": "567 PITTSBURGH RD",
+    "address": "567 PITTSBURGH RD ROCHEST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -2892,7 +2892,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF KISTLER. 567 PITTSBURGH RD ROCHESTER PA15074 DEAF, JAIL, BUS, RADIO, CHOIR, TEEN; SYLVANIA HILLS CHRISTIAN ACADEMY K-12; KJB,PARBC,AIBCWPa"
+    "description": "ER PA15074 DEAF, JAIL, BUS, RADIO, CHOIR, TEEN; SYLVANIA HILLS CHRISTIAN ACADEMY K-12; KJB,PARBC,AIBCWPa"
   },
   {
     "id": "4189",
@@ -2910,7 +2910,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK MONTGOMERY. 2660 MIDDLETOWN RD PITTSBURGH PA 15205 SS 945,SM 11,SN 115,W 7 YOUTH, CHOIR, AUDIO SERMONS; BIBLE CORRESPONDENCE COURSE KJB church."
+    "description": "PITTSBURGH PA 15205 SS 945,SM 11,SN 115,W 7 YOUTH, CHOIR, AUDIO SERMONS; BIBLE CORRESPONDENCE COURSE KJB church"
   },
   {
     "id": "4190",
@@ -2929,7 +2929,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSHUA HUGHES. 1926 BABCOCK BLVD PITTSBURGH PA 15223 SS 945,SM 11,SN 115,TH 7 KJB, UNAFFILIATED PO BOX 26 139 S CENTER ST FRACKVILLE PA 17931-0026 SS 10,SM 11,SN 6,W 7"
+    "description": "PITTSBURGH PA 15223 SS 945,SM 11,SN 115,TH 7 KJB, UNAFFILIATED PO BOX 26 139 S CENTER ST FRACKVILLE PA 17931-0026 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4191",
@@ -2947,7 +2947,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY BLOEM. 136 COLONEL DRAKE ASHVILLE PA 16613 SS 945,SM 11,SN 7 KJB, HAC"
+    "description": "ASHVILLE PA 16613 SS 945,SM 11,SN 7 KJB, HAC"
   },
   {
     "id": "4192",
@@ -2965,7 +2965,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2020 N MAIN AVE SCRANTON PA 18508 SS 945,SM 11,SN 7,W 7"
+    "description": "SCRANTON PA 18508 SS 945,SM 11,SN 7,W 7"
   },
   {
     "id": "4193",
@@ -2985,7 +2985,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAN STEWARD. KJB, UNAFFILIATED PO BOX 574 2622 DURHAM RD BUCKINGHAM PA 18912 SS 930,SM 1030,SN 6,W 7, TRUTH TRACKERS, SOULWINNING, SENIORS, MENS PRAYER BREAKFAST, LADIES BIBLE STUDY"
+    "description": "KJB, UNAFFILIATED PO BOX 574 BUCKINGHAM PA 18912 SS 930,SM 1030,SN 6,W 7, TRUTH TRACKERS, SOULWINNING, SENIORS, MENS PRAYER BREAKFAST, LADIES BIBLE STUDY"
   },
   {
     "id": "4194",
@@ -3004,12 +3004,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RODNEY GABLE. 7417 SCHOYER AVE PITTSBURGH PA 15218 SS 10,SM 11,SN 6,W 630 VIDEO & TEXT SERMONS KJB, UNAFFILIATED"
+    "description": "PITTSBURGH PA 15218 SS 10,SM 11,SN 6,W 630 VIDEO & TEXT SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "4195",
     "name": "HAVEN BAPTIST CHURCH",
-    "address": "1015 LOWRY AVE",
+    "address": "61 S SCHUYLKILL HAVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3025,7 +3025,7 @@ export const pennsylvaniaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by BOB ROSS JR. 361 RT 61 S SCHUYLKILL HAVEN PA 17972 SS 9,SM 1015,SN 6,W 7 1015 LOWRY AVE JEANNETTE PA 15644 SS 10,SM 11,SN 6,W 7 BUS, PATCH AND PEEWEE, SOULWINNING, CORRESPONDENCE, PRISON, TEENS, AUDIO SERMONS; HER KJB church."
+    "description": "361 RT N PA 17972 SS 9,SM 1015,SN 6,W 7 1015 LOWRY AVE JEANNETTE PA 15644 SS 10,SM 11,SN 6,W 7 BUS, PATCH AND PEEWEE, SOULWINNING, CORRESPONDENCE, PRISON, TEENS, AUDIO SERMONS; HER KJB church"
   },
   {
     "id": "4196",
@@ -3044,12 +3044,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ARNOLD WATTS. 392 COON CROSSING RD SHINGLEHOUSE PA 16748 SS 930,SM 1030,SN 7,W 715 CHILDREN’S BIBLE CLUBS, TEENS, SEEDLINE, PROPHETS CHAMBER KJB, HAC 176 N PORTER ST WAYNESBURG PA 15370 SS 10,SM 11,SN 6,W 7 CHOIR,"
+    "description": "SHINGLEHOUSE PA 16748 SS 930,SM 1030,SN 7,W 715 CHILDREN’S BIBLE CLUBS, TEENS, SEEDLINE, PROPHETS CHAMBER KJB, HAC 176 N PORTER ST WAYNESBURG PA 15370 SS 10,SM 11,SN 6,W 7 CHOIR"
   },
   {
     "id": "4197",
     "name": "HARMONY BAPTIST CHURCH",
-    "address": "2067 OLD WATTSBURG RD",
+    "address": "2067 OLD WATTSBURG RD WATERFORD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3062,12 +3062,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES KESTER. 2067 OLD WATTSBURG RD WATERFORD PA 16441 SS 10,SM 11,SN 630,W 7 TEEN, CHILDREN KJB, PARBC 43 FURNACE ST SHICKSHINNY PA 18655-1007 SS 945,SM 1045 KJB, UNAFFLIATED PO BOX 267 LOGANVILLE PA 17342 1 MILE"
+    "description": "PA 16441 SS 10,SM 11,SN 630,W 7 TEEN, CHILDREN KJB, PARBC 43 FURNACE ST SHICKSHINNY PA 18655-1007 SS 945,SM 1045 KJB, UNAFFLIATED PO BOX 267 LOGANVILLE PA 17342 1 MILE"
   },
   {
     "id": "4198",
     "name": "CHICHESTER BAPTIST CHURCH",
-    "address": "800 CHERRY TREE RD",
+    "address": "800 CHERRY TREE RD AST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3080,7 +3080,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE LOGGANS. 800 CHERRY TREE RD ASTON PA 19061 SS 945,SM 1045,SN 7,W 7 AUDIO MUSIC (LOTS!), AWANA, ORCHESTRA, CHOIR 2740 ROOSEVELT AVE YORK PA 17404 SS 930,SM 1045,SN 7,W 730 PROPHETS CHAMBER KJB church."
+    "description": "ON PA 19061 SS 945,SM 1045,SN 7,W 7 AUDIO MUSIC (LOTS!), AWANA, ORCHESTRA, CHOIR 2740 ROOSEVELT AVE YORK PA 17404 SS 930,SM 1045,SN 7,W 730 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "4199",
@@ -3099,7 +3099,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES D TRUAX. 87 WEST MAIN ST NEWVILLE PA 17241 SS 9,SM 10,SN 6,W 7 KJB church."
+    "description": "NEWVILLE PA 17241 SS 9,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "4200",
@@ -3117,7 +3117,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL J NAIL. 2053 RT 660 WELLSBORO PA 16901 SS 10,SM 11,SN 6,W 7 KJB, RUCKMAN, GIPP"
+    "description": "2053 RT 660 WELLSBORO PA 16901 SS 10,SM 11,SN 6,W 7 KJB, RUCKMAN, GIPP"
   },
   {
     "id": "4201",
@@ -3137,7 +3137,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CHRISTIAN PENNACHIETTI. PO BOX 8436 NEW CASTLE PA 16107 SS 10,SM 11,SN 6, W 630 STREET PREACHING KJB, UNAFFILIATED 2400 S BROAD ST PHILADELPHIA PA 19145 SS 930,SM 11,SN 6,W 7 PATCH PIRATE, TEEN, VAN, SOULWINNING KJB, UNAFFIL"
+    "description": "PO BOX 8436 NEW CASTLE PA 16107 SS 10,SM 11,SN 6, W 630 STREET PREACHING KJB, UNAFFILIATED PHILADELPHIA PA 19145 SS 930,SM 11,SN 6,W 7 PATCH PIRATE, TEEN, VAN, SOULWINNING KJB, UNAFFIL"
   },
   {
     "id": "4202",
@@ -3155,7 +3155,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL HEINIGER. 227 LITTLE SUMMIT RD DUNBAR PA 15431 PHY ADD: VILLAGE OF LITTLE SUMMIT SM 10,SN 7, WED 7 AUDIO SERMONS, CONSULTING ON CHRISTIAN EDUCATION KJB church."
+    "description": "DUNBAR PA 15431 PHY ADD: VILLAGE OF LITTLE SUMMIT SM 10,SN 7, WED 7 AUDIO SERMONS, CONSULTING ON CHRISTIAN EDUCATION KJB church"
   },
   {
     "id": "4203",
@@ -3173,17 +3173,17 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES L DEAR. 21659 N MOSIERTOWN RD SAEGERTOWN PA16433 SS 10,SM 11,SN 6,W 7 KJB, PARBC, IBFNA, ACCC"
+    "description": "SAEGERTOWN PA16433 SS 10,SM 11,SN 6,W 7 KJB, PARBC, IBFNA, ACCC"
   },
   {
     "id": "4204",
     "name": "CRESCENTVILLE BAPTIST CHURCH",
-    "address": "521 EAST GODFREY AVE",
+    "address": "2123 EAST OF RISING SUN AVENUE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.5942,
-    "longitude": -78.6773,
+    "latitude": 40.167,
+    "longitude": -76.9353,
     "phone": "(215) 745-5203",
     "website": "http://www.cbaptist.com",
     "pastor": "MARK L HOPKINS",
@@ -3192,12 +3192,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK L HOPKINS. 521 EAST GODFREY AVE PHILADELPHIA PA 19120-2123 EAST OF RISING SUN AVENUE SS 10,SM 1115,SN 7,W 730 BIBLE EXPLORERS CLUB FRIDAY KJB, GFA, BJU, BBFI"
+    "description": "PHILADELPHIA PA 19120- SS 10,SM 1115,SN 7,W 730 BIBLE EXPLORERS CLUB FRIDAY KJB, GFA, BJU, BBFI"
   },
   {
     "id": "4205",
     "name": "NEW FREEDOM BAPTIST CHURCH",
-    "address": "222 CONSTITUTION AVE",
+    "address": "2210 E SUSQUEHANNA AVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3211,7 +3211,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DOMINIC J PENNACHIETTI. 222 CONSTITUTION AVE NEW FREEDOM PA 17349 SS 930,SM 1045,SN 730,W 730 SOULWINNING, PROPHETS CHAMBER; CHRISTIAN SCHOOL KJB, GRAY-TX 2210 E SUSQUEHANNA AVE PHILADELPHIA PA 19125 PORT RICHMOND SS 10,SM 1"
+    "description": "NEW FREEDOM PA 17349 SS 930,SM 1045,SN 730,W 730 SOULWINNING, PROPHETS CHAMBER; CHRISTIAN SCHOOL KJB, GRAY-TX PHILADELPHIA PA 19125 PORT RICHMOND SS 10,SM 1"
   },
   {
     "id": "4206",
@@ -3229,12 +3229,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN H NORTON JR. 408 BAYARD RD KENNETT SQUARE PA 19348 SS 10, SM 11, SN 630, W 7 KJB church."
+    "description": "KENNETT SQUARE PA 19348 SS 10, SM 11, SN 630, W 7 KJB church"
   },
   {
     "id": "4207",
     "name": "GRACE & TRUTH BIBLE CHURCH",
-    "address": "410 PLEASANTVIEW RD",
+    "address": "410 PLEASANTVIEW RD HUMMELST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3247,7 +3247,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TROY KERSTETTER. 410 PLEASANTVIEW RD HUMMELSTOWN PA 17036 SS 915,SM 1030,SN 6,W 7 MASTERS CLUBS, CHOIR, DEAF, REFORMERS UNANIMOUS KJB, HAC PO BOX 333 143 LIBERTY ST BLANCHARD PA 16826-3986 SS 930,SM 1040,SN 6,W 7 KJB,"
+    "description": "OWN PA 17036 SS 915,SM 1030,SN 6,W 7 MASTERS CLUBS, CHOIR, DEAF, REFORMERS UNANIMOUS KJB, HAC PO BOX 333 143 LIBERTY ST BLANCHARD PA 16826-3986 SS 930,SM 1040,SN 6,W 7 KJB"
   },
   {
     "id": "4208",
@@ -3266,7 +3266,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BARRY FERGUSON. 10029 REED ST CRANESVILLE PA 16410 KJB church."
+    "description": "CRANESVILLE PA 16410 KJB church"
   },
   {
     "id": "4209",
@@ -3284,7 +3284,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STUART G HUNT. PO BOX 186 1938 N CENTER AVE SOMERSET PA 15501 SS 930,SM 1030,SN 6,W 7 BELL CHOIR, VAN, NURSING, CHOIR, CAMP IN JENNERSTOWN KJB, BJU 1678 RIVER RD DAMASCUS PA 18415 SS 945,SM 11,SN 7,W 7 DAMASCUS CHRI"
+    "description": "PO BOX 186 SOMERSET PA 15501 SS 930,SM 1030,SN 6,W 7 BELL CHOIR, VAN, NURSING, CHOIR, CAMP IN JENNERSTOWN KJB, BJU 1678 RIVER RD DAMASCUS PA 18415 SS 945,SM 11,SN 7,W 7 DAMASCUS CHRI"
   },
   {
     "id": "4210",
@@ -3302,7 +3302,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "327 EAST ROSS ST WORTHINGTON PA 16262"
+    "description": "WORTHINGTON PA 16262"
   },
   {
     "id": "4211",
@@ -3320,7 +3320,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURT UNDERWOOD.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4212",
@@ -3329,8 +3329,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6765,
-    "longitude": -76.743,
+    "latitude": 42.3299,
+    "longitude": -76.7966,
     "phone": "(570) 561-7564",
     "website": "https://www.facebook.com/p/Hickory-Street-Baptist-Church-100066991584744",
     "pastor": "JACK GREGG",
@@ -3338,7 +3338,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACK GREGG. 519-27 HICKORY ST SCRANTON PA 18505 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "SCRANTON PA 18505 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "4213",
@@ -3356,12 +3356,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TED RICH. 820 E WATER SAINT EXD SMETHPORT PA 16749 SMETHPORT CALVARY ACADEMY KJB church."
+    "description": "820 E WATER SAINT EXD SMETHPORT PA 16749 SMETHPORT CALVARY ACADEMY KJB church"
   },
   {
     "id": "4214",
     "name": "MOSHERVILLE BIBLE CHURCH",
-    "address": "9914 CORLAND RD",
+    "address": "998 N GALLATIN AVE",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3375,7 +3375,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICAH FELBER. 9914 CORLAND RD GILLETT PA 16925 SS 930,SM 1030,SN 6,W 7 PO BOX 429 1314 SR 254 MILLVILLE PA 17846-0429 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED 998 N GALLATIN AVE EXT UNIONTOWN PA 15401 SS 945,SM 10"
+    "description": "GILLETT PA 16925 SS 930,SM 1030,SN 6,W 7 PO BOX 429 1314 SR 254 MILLVILLE PA 17846-0429 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED EXT UNIONTOWN PA 15401 SS 945,SM 10"
   },
   {
     "id": "4215",
@@ -3393,7 +3393,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MCALLISTER GIEBELSTEIN. 2075 HARRISBURG AVE MOUNT JOY PA 17552 SS 930 SM 1045,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "MOUNT JOY PA 17552 SS 930 SM 1045,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4216",
@@ -3402,8 +3402,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6953,
-    "longitude": -76.2974,
+    "latitude": 39.8905,
+    "longitude": -75.0408,
     "phone": "(814) 254-2367",
     "website": "http://rbcjohnstown.wordpress.com",
     "pastor": "EARL R SHAWLEY",
@@ -3411,7 +3411,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EARL R SHAWLEY. PO BOX 344 JOHNSTOWN PA 15901 MEETS AT: PENN TRAFFIC BUILDING 319 WASHINGTON ST JOHNSTOWN PA 15901 KJB church."
+    "description": "PO BOX 344 JOHNSTOWN PA 15901 MEETS AT: PENN TRAFFIC BUILDING JOHNSTOWN PA 15901 KJB church"
   },
   {
     "id": "4217",
@@ -3429,12 +3429,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH WILLIAMS. PO BOX 155 KYLERTOWN PA 16847 2072 MAPLE ST MORRISDALE PA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 155 KYLERTOWN PA 16847 MORRISDALE PA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4218",
     "name": "MARSH CREEK FUNDAMENTAL BAPTIST",
-    "address": "",
+    "address": "4318 MARSH CREEK RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3442,23 +3442,23 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -77.4788,
     "phone": "(717) 724-2954",
     "website": "http://mcfbcwellsboro.org",
-    "pastor": "JASON KING",
+    "pastor": "PREACH KJV, PARBC KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JASON KING. RR 7 BOX 4318 MARSH CREEK RD WELLSBORO PA 16901 SS 945,SM 11,W 7 RR 2 BOX 207 WATSONTOWN PA 17777 SS 9,SM 10,SN 6,W 7 NEEDS PASTOR PREACH KJV, PARBC KJB church."
+    "description": "RR 7 BOX WELLSBORO PA 16901 SS 945,SM 11,W 7 RR 2 BOX 207 WATSONTOWN PA 17777 SS 9,SM 10,SN 6,W 7 NEEDS"
   },
   {
     "id": "4219",
     "name": "HALLSTEAD BAPTIST CHURCH",
-    "address": "96 PINE ST",
+    "address": "96 PINE ST HALLST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6348,
-    "longitude": -78.3342,
+    "latitude": 39.9196,
+    "longitude": -77.16,
     "phone": "(570) 879-4676",
     "website": "http://www.fbchallsteadpa.org",
     "pastor": "",
@@ -3466,7 +3466,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX N 96 PINE ST HALLSTEAD PA 18822 SS 945,SM 11,SN 6,W 6 PATCH THE PIRATE W 6,YOUTH GROUP WED 6, AUDIO SERMONS, RADIO"
+    "description": "PO BOX N EAD PA 18822 SS 945,SM 11,SN 6,W 6 PATCH THE PIRATE W 6,YOUTH GROUP WED 6, AUDIO SERMONS, RADIO"
   },
   {
     "id": "4220",
@@ -3484,7 +3484,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JERRY DEVINE. 314 CHESTNUT ST PORT ALLEGANY PA 16743"
+    "description": "PORT ALLEGANY PA 16743"
   },
   {
     "id": "4221",
@@ -3502,12 +3502,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by THOMAS H BLOSE. 28665 BEAVER ST SPRINGBORO PA 16435"
+    "description": "SPRINGBORO PA 16435"
   },
   {
     "id": "4222",
     "name": "MT PLEASANT INDEPENDENT BAPTIST CHURCH",
-    "address": "811 GEIGERTOWN RD",
+    "address": "811 GEIGERTOWN RD BIRD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3521,7 +3521,7 @@ export const pennsylvaniaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by SHERMAN BARLOW. PO BOX 296 23178 RT 322 CORSICA PA 15829 811 GEIGERTOWN RD BIRDSBORO PA 19508 BBF church."
+    "description": "PO BOX 296 23178 RT 322 CORSICA PA 15829 SBORO PA 19508 BBF church"
   },
   {
     "id": "4223",
@@ -3534,12 +3534,12 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -76.0557,
     "phone": "(610) 593-5013",
     "website": "https://fbchallsteadpa.org",
-    "pastor": "GLENN A DUNDORE",
+    "pastor": "96 PINE ST HALLSTEAD PA 18822",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "Led by GLENN A DUNDORE. PO BOX 365 130 WOODCREST RD ATGLEN PA 19310 NEEDS PASTOR 96 PINE ST HALLSTEAD PA  18822"
+    "description": "PO BOX 365 ATGLEN PA 19310 NEEDS"
   },
   {
     "id": "4224",
@@ -3548,8 +3548,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.594,
-    "longitude": -76.0223,
+    "latitude": 40.0813,
+    "longitude": -76.5591,
     "phone": "(570) 553-2323",
     "website": "",
     "pastor": "JERRY WARREN",
@@ -3557,12 +3557,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY WARREN. RT 2 BOX 79 FOREST LAKE PA 18801 GARBC, PARBC 83 SOUTH ST UNION CITY PA 16438 NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "RT 2 BOX 79 FOREST LAKE PA 18801 GARBC, PARBC UNION CITY PA 16438 NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4225",
     "name": "NORTH CHESTER BAPTIST CHURCH",
-    "address": "2331 PROVIDENCE AVE",
+    "address": "2331 PROVIDENCE AVE CHEST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3575,7 +3575,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KENNETH BROUGHAM. 2331 PROVIDENCE AVE CHESTER PA 19013 SS 930,SM 1045,SN 6,W 7 YOUTH, TEENS GARBC, PARBC"
+    "description": "ER PA 19013 SS 930,SM 1045,SN 6,W 7 YOUTH, TEENS GARBC, PARBC"
   },
   {
     "id": "4226",
@@ -3593,7 +3593,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BARRY BROWN. 3504 PA-28 NEW BETHLEHEM PA 16242"
+    "description": "3504 PA-28 NEW BETHLEHEM PA 16242"
   },
   {
     "id": "4227",
@@ -3611,12 +3611,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERNEST E MASCHO. PO BOX 113 7154 RT 403 S DILLTOWN PA 15929 SM 1030,W 630 NOT KJV ONLY, GARBC 1030 QUARRY HALL RD FAIRVIEW VILLAGE PA 19403 NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "PO BOX 113 7154 RT 403 S DILLTOWN PA 15929 SM 1030,W 630 NOT KJV ONLY, GARBC FAIRVIEW VILLAGE PA 19403 NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4228",
     "name": "ACRE LAKE BAPTIST CHURCH",
-    "address": "705 LAKE VIEW RD",
+    "address": "4681 E TRINDLE RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3629,7 +3629,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE CREWS. 705 LAKE VIEW RD KINGSLEY PA 18826 PREACH KJV, NOT KJV ONLY, BJU, MBU, PCC 4681 E TRINDLE RD MECHANICSBURG PA 17055 SS 9,SM 10,SN 6,W 7 AUDIO SERMONS; HERITAGE CHRISTIAN ACADEMY K5-12; NOT KJV ONLY, F KJB church."
+    "description": "KINGSLEY PA 18826 PREACH KJV, NOT KJV ONLY, BJU, MBU, PCC MECHANICSBURG PA 17055 SS 9,SM 10,SN 6,W 7 AUDIO SERMONS; HERITAGE CHRISTIAN ACADEMY K5-12; NOT KJV ONLY, F KJB church"
   },
   {
     "id": "4229",
@@ -3647,7 +3647,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GENE HABBYSHAW. 3541 AVALON ST PHILADELPHIA PA 19114 NOT KJV ONLY, ABWE, EBM KJB church."
+    "description": "PHILADELPHIA PA 19114 NOT KJV ONLY, ABWE, EBM KJB church"
   },
   {
     "id": "4230",
@@ -3665,7 +3665,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CORLIN MORLEY. 7103 W MARKET ST MERCER PA 16137 SS 10,SM 11,SN 6,W 7 BIBLE INSTITUTE NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "MERCER PA 16137 SS 10,SM 11,SN 6,W 7 BIBLE INSTITUTE NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4231",
@@ -3683,7 +3683,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH SWAIM. PO BOX 228 250 ORCHARD DR LAKE WINONA PA 18165 FALLS AREA 317 MAIN ST CLAYSVILLE PA 15323 SS 930,SM 1045,W 630 KINGS CLUB NOT KJV ONLY KJB church."
+    "description": "PO BOX 228 LAKE WINONA PA 18165 FALLS AREA 317 MAIN ST CLAYSVILLE PA 15323 SS 930,SM 1045,W 630 KINGS CLUB NOT KJV ONLY KJB church"
   },
   {
     "id": "4232",
@@ -3701,7 +3701,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALAN MORRIS. 886 LIBERTY ST GROVE CITY PA 16127 NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "GROVE CITY PA 16127 NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4233",
@@ -3720,7 +3720,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by TIMOTHY SMITH. 68 ERNEST AVE MONONGAHELA PA 15063 PREACH NKJV, STUDY NASB, PARBC, S.GRACE-TULIP 3300 RIDGE RD BLOOMSBURG PA 17815 SS 1030,SM 9,SN 6,W 7 BLOOMSBURG CHRISTIAN SCHOOL K-12  KCEA NOT KJV ONLY, GARBC, PAR KJB church."
+    "description": "MONONGAHELA PA 15063 PREACH NKJV, STUDY NASB, PARBC, S.GRACE-TULIP 3300 RIDGE RD BLOOMSBURG PA 17815 SS 1030,SM 9,SN 6,W 7 BLOOMSBURG CHRISTIAN SCHOOL K-12 KCEA NOT KJV ONLY, GARBC, PAR KJB church"
   },
   {
     "id": "4234",
@@ -3729,8 +3729,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6363,
-    "longitude": -78.0334,
+    "latitude": 41.5315,
+    "longitude": -76.4328,
     "phone": "(570) 727-2461",
     "website": "",
     "pastor": "ANTHONY CORTEZ",
@@ -3738,7 +3738,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ANTHONY CORTEZ. PO BOX 430 209 JACKSON ST THOMPSON PA 18465"
+    "description": "PO BOX 430 THOMPSON PA 18465"
   },
   {
     "id": "4235",
@@ -3757,7 +3757,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by GARY SMITH. 201 CHAPEL DR ELLWOOD CITY PA 16117 SS 930,SM 1045,SN 630,W 630 NOT KJV ONLY, GARBC, PARBC, AIBCWP 729 LEWIS ST BROWNSVILLE PA 15417 NOT KJV ONLY, BJU 300 STANDING STONE AVE HUNTINGDON PA 16652 SS 930 KJB church."
+    "description": "ELLWOOD CITY PA 16117 SS 930,SM 1045,SN 630,W 630 NOT KJV ONLY, GARBC, PARBC, AIBCWP 729 LEWIS ST BROWNSVILLE PA 15417 NOT KJV ONLY, BJU 300 STANDING STONE AVE HUNTINGDON PA 16652 SS 930 KJB church"
   },
   {
     "id": "4236",
@@ -3777,12 +3777,12 @@ export const pennsylvaniaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by RON HUDSON. RT 29 BOX 185 SPRINGVILLE PA 18844 SS 930,SM 1045,SN 730,W 730 WORD OF LIFE CLUBS NOT KJV ONLY, BBF, CCM PO BOX W 308 MCCLELLANDTOWN RD UNIONTOWN PA 15401 SS 9,SM 10,SN 630,W 630 BIBLE INSTITUTE 1229  KJB church."
+    "description": "RT 29 BOX 185 SPRINGVILLE PA 18844 SS 930,SM 1045,SN 730,W 730 WORD OF LIFE CLUBS NOT KJV ONLY, BBF, CCM PO BOX W UNIONTOWN PA 15401 SS 9,SM 10,SN 630,W 630 BIBLE INSTITUTE 1229 KJB church"
   },
   {
     "id": "4237",
     "name": "WYEBROOK BAPTIST CHURCH",
-    "address": "62 NEW RD",
+    "address": "415 VENARD RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3795,12 +3795,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLENN AMOS. 62 NEW RD ELVERSON PA 19520 SS 10,SM 11,SN 7,W 7 RADIO 1420AM AT 830 SM, AWANA, PROTEENS, NOT KJV ONLY, GARBC, PARBC 415 VENARD RD CLARKS SUMMIT PA 18411 NOT KJV ONLY, GARBC RT 6 BOX 61G GREENSBURG PA KJB church."
+    "description": "ELVERSON PA 19520 SS 10,SM 11,SN 7,W 7 RADIO 1420AM AT 830 SM, AWANA, PROTEENS, NOT KJV ONLY, GARBC, PARBC CLARKS SUMMIT PA 18411 NOT KJV ONLY, GARBC RT 6 BOX 61G GREENSBURG PA KJB church"
   },
   {
     "id": "4238",
     "name": "HILLTOPBAPTIST",
-    "address": "302 W MAIN ST",
+    "address": "315 THOMPSON ST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3814,7 +3814,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JEFFREY HOWELL. SS 930,SM 1030,SN 6,W 7 AWANA-FALL, SOULWINNING NOT KJV ONLY, GARBC, PARBC 302 W MAIN ST DALTON PA 18414 NOT KJV ONLY, GARBC 315 THOMPSON ST JERSEY SHORE PA 17740 NOT KJV ONLY, GARBC, PARBC 103 CRANBE KJB church."
+    "description": "SS 930,SM 1030,SN 6,W 7 AWANA-FALL, SOULWINNING NOT KJV ONLY, GARBC, PARBC DALTON PA 18414 NOT KJV ONLY, GARBC JERSEY SHORE PA 17740 NOT KJV ONLY, GARBC, PARBC 103 CRANBE KJB church"
   },
   {
     "id": "4239",
@@ -3832,7 +3832,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by G VICTOR PERRY. 6015 W RIDGE RD ERIE PA16506 SS 10,SM 11,SN 6,W 7 AUDIO/VIDEO SERMONS, DEAF, JAIL, BUS NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "ERIE PA16506 SS 10,SM 11,SN 6,W 7 AUDIO/VIDEO SERMONS, DEAF, JAIL, BUS NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4240",
@@ -3850,7 +3850,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1139 E LAWRENCE RD LAWRENCEVILLE PA 16929"
+    "description": "LAWRENCEVILLE PA 16929"
   },
   {
     "id": "4241",
@@ -3871,12 +3871,12 @@ export const pennsylvaniaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by WARREN SULLIVAN. SS 945,SM 11,SN 6,W 7 AUDIO SERMONS NKJV & NLT, BBF, PABBF, CCM PO BOX 258, SR 208 NEW WILMINGTON PA 16148 SM 9 & 11,W 7 RADIO 1280 AM PREACH KJV,NOT KJV ONLY, UNAFFILIATED 2041 ARMSTRONG VALLEY RD HA KJB church."
+    "description": "SS 945,SM 11,SN 6,W 7 AUDIO SERMONS NKJV & NLT, BBF, PABBF, CCM PO BOX 258, SR 208 NEW WILMINGTON PA 16148 SM 9 & 11,W 7 RADIO 1280 AM PREACH KJV,NOT KJV ONLY, UNAFFILIATED HA KJB church"
   },
   {
     "id": "4242",
     "name": "CORNERSTONE BIBLE CHURCH",
-    "address": "208 CHURCH RD",
+    "address": "332 E CHESTNUT ST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3889,12 +3889,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAWN MCLAIN. 208 CHURCH RD NESCOPECK PA 18635 SS 915,SM 1030,SN 6,W 7 RADIO WFBS-AM 1280 @ 1030 am NOT KJV ONLY, GARBC 332 E CHESTNUT ST MIFFLINBURG PA 17844 SS 930, SM 1045, SN 6, W 7 NOT KJV ONLY, PARBC 498 SEAW KJB church."
+    "description": "NESCOPECK PA 18635 SS 915,SM 1030,SN 6,W 7 RADIO WFBS-AM 1280 @ 1030 am NOT KJV ONLY, GARBC MIFFLINBURG PA 17844 SS 930, SM 1045, SN 6, W 7 NOT KJV ONLY, PARBC 498 SEAW KJB church"
   },
   {
     "id": "4243",
     "name": "PERRY BAPTIST CHURCH",
-    "address": "3020 HADLEY RD",
+    "address": "12472 EDINBORO RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3907,7 +3907,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN GRAFTON. 3020 HADLEY RD HADLEY PA 16130 NOT KJV ONLY, GARBC, PARBC PO BOX 713 12472 EDINBORO RD EDINBORO PA 16412-1017 SS 945,SM 11,W 630 NOT KJV ONLY 220 S 22ND ST LEBANON PA 17042 SS 915,SM 1030,SN 630,W 7 N KJB church."
+    "description": "HADLEY PA 16130 NOT KJV ONLY, GARBC, PARBC PO BOX 713 EDINBORO PA 16412-1017 SS 945,SM 11,W 630 NOT KJV ONLY 220 S 22ND ST LEBANON PA 17042 SS 915,SM 1030,SN 630,W 7 N KJB church"
   },
   {
     "id": "4244",
@@ -3926,7 +3926,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CLIFFORD RAUCH. 21 RIPPLEBROOK RD TUNKHANNOCK PA 18657 NEAR CENTER MORELAND PREACH-KJV, STUDY-KJV & NASB 344 N 21ST ST LEBANON PA 17046 2120 LEHMAN ST SS 930,SM 1030,SN 7,W 730 FORT INDIANTOWN GAP 10 MILES NOT KJV ON KJB church."
+    "description": "TUNKHANNOCK PA 18657 NEAR CENTER MORELAND PREACH-KJV, STUDY-KJV & NASB 344 N 21ST ST LEBANON PA 17046 2120 LEHMAN ST SS 930,SM 1030,SN 7,W 730 FORT INDIANTOWN GAP 10 MILES NOT KJV ON KJB church"
   },
   {
     "id": "4245",
@@ -3944,7 +3944,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TODD BAKER. 2446 MILL RD BOOTHWYN PA 19061 SS 945,SM 11,SN 630,W 715 NOT KJV ONLY, GARBC KJB church."
+    "description": "BOOTHWYN PA 19061 SS 945,SM 11,SN 630,W 715 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "4246",
@@ -3962,7 +3962,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS MORGAN. 16838 SR 44 ALLENWOOD PA 17810 NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "16838 SR 44 ALLENWOOD PA 17810 NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4247",
@@ -3981,12 +3981,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ROD HAWKINS. 1531 GEORGE ST EXT HERMITAGE PA 16148-1949 SS 945, SM 1045, SN 6, W 7 PREACH KJV, NOT KJV ONLY, MBBC 511 FARMINGTON RD BREINIGSVILLE PA 18031 TREXLERTOWN GRANGE in WESCOSVILLE SS 945,SM 1045,SN 6,THU  KJB church."
+    "description": "HERMITAGE PA 16148-1949 SS 945, SM 1045, SN 6, W 7 PREACH KJV, NOT KJV ONLY, MBBC 511 FARMINGTON RD BREINIGSVILLE PA 18031 TREXLERTOWN GRANGE in WESCOSVILLE SS 945,SM 1045,SN 6,THU KJB church"
   },
   {
     "id": "4248",
     "name": "GREEN RIDGE BAPTIST CHURCH",
-    "address": "1700 DUTTON MILL RD",
+    "address": "1700 DUTTON MILL RD AST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -3999,7 +3999,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID MAITLAND. 1700 DUTTON MILL RD ASTON PA 19014 SS 10,SM 11,SN 6 NOT KJV ONLY, GARBC, PARBC 221 NEW CASTLE ST BUTLER PA 16001 KJB church."
+    "description": "ON PA 19014 SS 10,SM 11,SN 6 NOT KJV ONLY, GARBC, PARBC 221 NEW CASTLE ST BUTLER PA 16001 KJB church"
   },
   {
     "id": "4249",
@@ -4017,12 +4017,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE WELLS. PREACH KJV,STUDY VARIOUS, PARBC, GARBC KJB church."
+    "description": "PREACH KJV,STUDY VARIOUS, PARBC, GARBC KJB church"
   },
   {
     "id": "4250",
     "name": "WATERFORD BAPTIST CHURCH",
-    "address": "325 EAST ST",
+    "address": "325 EAST ST WATERFORD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -4035,7 +4035,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 716 325 EAST ST WATERFORD PA 16441-0716 SS 945,SM 11,SN 7,W 7"
+    "description": "PO BOX 716 PA 16441-0716 SS 945,SM 11,SN 7,W 7"
   },
   {
     "id": "4251",
@@ -4053,12 +4053,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRYAN SANDERS. NOT KJV ONLY, BBC-CLARKS SUMMIT KJB church."
+    "description": "NOT KJV ONLY, BBC-CLARKS SUMMIT KJB church"
   },
   {
     "id": "4252",
     "name": "BIBLE BAPTIST CHURCH OF SHIREMANSTOWN",
-    "address": "201 W MAIN ST",
+    "address": "201 W MAIN ST SHIREMANST",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -4071,7 +4071,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL W ROOFNER. 201 W MAIN ST SHIREMANSTOWN PA 17011 SS 915,SM 1015,SN 6,W 7 TV,; BIBLE BAPTIST SCHOOL K-12; NOT KJV ONLY, GARBC, PARBC 793 LIPPENCOTT RD WAYNESBURG PA 15370 SS 945, SM 11, SN 6, W 645 NOT KJV ONLY, P KJB church."
+    "description": "OWN PA 17011 SS 915,SM 1015,SN 6,W 7 TV,; BIBLE BAPTIST SCHOOL K-12; NOT KJV ONLY, GARBC, PARBC 793 LIPPENCOTT RD WAYNESBURG PA 15370 SS 945, SM 11, SN 6, W 645 NOT KJV ONLY, P KJB church"
   },
   {
     "id": "4253",
@@ -4089,12 +4089,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM PEREIRA. 4224 MCCLELLAND AVE ERIE PA 16510-3741 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJV PREACH, NOT KJV ONLY, GARBC, PARBC KJB church."
+    "description": "ERIE PA 16510-3741 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJV PREACH, NOT KJV ONLY, GARBC, PARBC KJB church"
   },
   {
     "id": "4254",
     "name": "COVINGTON BAPTIST CHURCH",
-    "address": "",
+    "address": "243 WILLIAMSON RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -4108,7 +4108,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BOB BEVERLY. PO BOX 243 WILLIAMSON RD COVINGTON PA 16917 SS 945,SM 11,SN 6,W 7 AWANA, COUPLES, SINGLES, CHOIR KJV & NKJV, APPALACHIAN-BC, LIBERTY-U, PHILADELPHIA BIBLE UNIVERSITY KJB church."
+    "description": "PO BOX COVINGTON PA 16917 SS 945,SM 11,SN 6,W 7 AWANA, COUPLES, SINGLES, CHOIR KJV & NKJV, APPALACHIAN-BC, LIBERTY-U, PHILADELPHIA BIBLE UNIVERSITY KJB church"
   },
   {
     "id": "4255",
@@ -4126,7 +4126,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW TAYLOR. 18 E THIRD ST MEDIA PA 19063 NOT KJV ONLY KJB church."
+    "description": "MEDIA PA 19063 NOT KJV ONLY KJB church"
   },
   {
     "id": "4256",
@@ -4144,7 +4144,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL OLDHAM. 218 MAIN ST TIDIOUTE PA 16351 NOT KJV ONLY KJB church."
+    "description": "TIDIOUTE PA 16351 NOT KJV ONLY KJB church"
   },
   {
     "id": "4257",
@@ -4163,12 +4163,12 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSEPH KILMER. PO BOX 15 FISHERTOWN PA 15539 1486 QUAKER VALLEY RD NEW PARIS PA 15554-8507 SS 930, SM 1030,SN 7,W 7 NOT KJV ONLY, IFCA KJB church."
+    "description": "PO BOX 15 FISHERTOWN PA 15539 NEW PARIS PA 15554-8507 SS 930, SM 1030,SN 7,W 7 NOT KJV ONLY, IFCA KJB church"
   },
   {
     "id": "4258",
     "name": "BRAINTRIM BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 281",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -4181,7 +4181,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON HAGY. PO BOX 281 LACEYVILLE PA 18623 AWANA, CHOIR NOT KJV ONLY KJB church."
+    "description": "LACEYVILLE PA 18623 AWANA, CHOIR NOT KJV ONLY KJB church"
   },
   {
     "id": "4259",
@@ -4200,7 +4200,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JACK A WERTH. SS DRAPER RD WELLSBORO PA 16901 SS 930,SM 11,SN 530,W 630 KJV & NKJV, REFORMED, 1689 LBC, S.GRACE-TULIP MEETING AT: THE RESIDENCE INN 1308 FREEDOM RD CRANBERRY TWP PA 16066 SS 10, SM 11, SN 6 NOT KJV  KJB church."
+    "description": "SS DRAPER RD WELLSBORO PA 16901 SS 930,SM 11,SN 530,W 630 KJV & NKJV, REFORMED, 1689 LBC, S.GRACE-TULIP MEETING AT: THE RESIDENCE INN CRANBERRY TWP PA 16066 SS 10, SM 11, SN 6 NOT KJV KJB church"
   },
   {
     "id": "4260",
@@ -4209,8 +4209,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6876,
-    "longitude": -77.9942,
+    "latitude": 40.94,
+    "longitude": -77.9097,
     "phone": "(717) 856-9319",
     "website": "https://gmail.com",
     "pastor": "KYLE HORTON",
@@ -4218,7 +4218,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KYLE HORTON. 1099 HIGHSPIRE RD HARRISBURG PA 17111 NOT KJV ONLY KJB church."
+    "description": "HARRISBURG PA 17111 NOT KJV ONLY KJB church"
   },
   {
     "id": "4261",
@@ -4236,7 +4236,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL ZARTMAN. PO BOX 5 1016 LOCUST ST SABINSVILLE PA 16943 NOT KJV ONLY, TULIP-S.GRACE KJB church."
+    "description": "PO BOX 5 SABINSVILLE PA 16943 NOT KJV ONLY, TULIP-S.GRACE KJB church"
   },
   {
     "id": "4262",
@@ -4255,7 +4255,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by TED KUCEWICZ. BOX 274 4690 LINCOLN HWY THOMASVILLE PA 17364 AUDIO SERMONS NOT KJV ONLY, KJV PREFERRED KJB church."
+    "description": "BOX 274 THOMASVILLE PA 17364 AUDIO SERMONS NOT KJV ONLY, KJV PREFERRED KJB church"
   },
   {
     "id": "4263",
@@ -4273,7 +4273,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1717 STREET RD SOUTHAMPTON PA 18966"
+    "description": "SOUTHAMPTON PA 18966"
   },
   {
     "id": "4264",
@@ -4282,8 +4282,8 @@ export const pennsylvaniaChurches: Church[] = [
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
-    "latitude": 39.6476,
-    "longitude": -78.0547,
+    "latitude": 41.458,
+    "longitude": -75.4205,
     "phone": "",
     "website": "",
     "pastor": "DEAN HEARN",
@@ -4291,7 +4291,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEAN HEARN. SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, LANDSDALE, PILLSBURY, BJU, NORTHLAND KJB church."
+    "description": "SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, LANDSDALE, PILLSBURY, BJU, NORTHLAND KJB church"
   },
   {
     "id": "4265",
@@ -4309,7 +4309,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN D HILL. 1 E HIGHLAND RD PARKESBURG PA 19365 HIGHLAND SS 945,SM 1045,SN 6,W 7 AWANA, TEEN, PATCH PIRATE NOT KJV ONLY, AIBCWPA, PARBC KJB church."
+    "description": "PARKESBURG PA 19365 HIGHLAND SS 945,SM 1045,SN 6,W 7 AWANA, TEEN, PATCH PIRATE NOT KJV ONLY, AIBCWPA, PARBC KJB church"
   },
   {
     "id": "4266",
@@ -4327,7 +4327,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN DAY. 475 CHURCH RD EXT KITTANNING PA 16201 SS 10,SM 11,SN 6,W 6 NOT KJV ONLY, GARBC, PARBC 380 EAST ST HAZLETON PA 18201 SS 930, SM 1030, SN 6 NOT KJV ONLY, BJU 447 COUNTY LINE RD GILBERTSVILLE PA 19525 SS KJB church."
+    "description": "KITTANNING PA 16201 SS 10,SM 11,SN 6,W 6 NOT KJV ONLY, GARBC, PARBC 380 EAST ST HAZLETON PA 18201 SS 930, SM 1030, SN 6 NOT KJV ONLY, BJU 447 COUNTY LINE RD GILBERTSVILLE PA 19525 SS KJB church"
   },
   {
     "id": "4267",
@@ -4345,7 +4345,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROLAND BUCCIALIA. CHAPEL RD BIRDSBORO PA 19523 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, CHOIR, ORCHESTRA, YOUTH,TEENS; HIGH POINT BAPTIST ACADEMY; NOT KJV ONLY, GARBC KJB church."
+    "description": "CHAPEL RD BIRDSBORO PA 19523 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, CHOIR, ORCHESTRA, YOUTH,TEENS; HIGH POINT BAPTIST ACADEMY; NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "4268",
@@ -4363,7 +4363,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM GEORGE. RT 252 & GRADYVILLE RD NEWTOWN SQUARE PA 19073 SS 930,SM 1045,W 630 NOT KJV ONLY, GARBC 1781 W 38TH ST ERIE PA 16508 SS 930,SM 1045,SN 6,W 7 AWANA, TEENS; BETHEL CHRISTIAN SCHOOL K-12; AUDIO SERMONS S KJB church."
+    "description": "RT 252 & GRADYVILLE RD NEWTOWN SQUARE PA 19073 SS 930,SM 1045,W 630 NOT KJV ONLY, GARBC ERIE PA 16508 SS 930,SM 1045,SN 6,W 7 AWANA, TEENS; BETHEL CHRISTIAN SCHOOL K-12; AUDIO SERMONS S KJB church"
   },
   {
     "id": "4269",
@@ -4381,12 +4381,12 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KERRY BORTZ. PO BOX 191 408 BRYER RIDGE RD MESHOPPEN PA 18630 NOT KJV ONLY, LANSDALE KJB church."
+    "description": "PO BOX 191 MESHOPPEN PA 18630 NOT KJV ONLY, LANSDALE KJB church"
   },
   {
     "id": "4270",
     "name": "OPEN BIBLE BAPTIST CHURCH",
-    "address": "10 PARK LANE",
+    "address": "210 FRONT ST MIDWAY",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -4394,18 +4394,18 @@ export const pennsylvaniaChurches: Church[] = [
     "longitude": -78.0166,
     "phone": "(610) 370-2060",
     "website": "https://fast.net",
-    "pastor": "DAN ROBINSON",
+    "pastor": "NOT KJV ONLY, BBFI, PBBF, BBC-MO KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAN ROBINSON. 10 PARK LANE READING PA 19606 SS 930,SM 1045,SN 630,W 7 NOT KJV ONLY, GARBC, PARBC 210 FRONT ST MIDWAY PA 15060 SS 945, SM 11, W 730 NEEDS PASTOR NOT KJV ONLY, BBFI, PBBF, BBC-MO KJB church."
+    "description": "READING PA 19606 SS 930,SM 1045,SN 630,W 7 NOT KJV ONLY, GARBC, PARBC PA 15060 SS 945, SM 11, W 730 NEEDS"
   },
   {
     "id": "4271",
     "name": "NORTHRIDGE BAPTIST CHURCH",
-    "address": "651 BLACKBURN RD",
+    "address": "1380 VALLEY FORGE RD",
     "city": "Harrisburg",
     "state": "PA",
     "zipCode": "",
@@ -4418,7 +4418,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETER RADFORD. 651 BLACKBURN RD FRIEDENS PA 15501 SOMERSET AREA NOT KJV ONLY 1380 VALLEY FORGE RD LANSDALE PA 19446 SS 915,SM 1030,SN 6,W KJB church."
+    "description": "FRIEDENS PA 15501 SOMERSET AREA NOT KJV ONLY LANSDALE PA 19446 SS 915,SM 1030,SN 6,W KJB church"
   },
   {
     "id": "4272",
@@ -4436,7 +4436,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE ALGER. NOT KJV ONLY, GARBC, PARBC 302 W PLEASANT ST CORRY PA 16407 SS 945, SM 11, SN 6, TH 7 KJV PREACH, NOT KJV ONLY, GARBC KJB church."
+    "description": "NOT KJV ONLY, GARBC, PARBC CORRY PA 16407 SS 945, SM 11, SN 6, TH 7 KJV PREACH, NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "4273",
@@ -4455,7 +4455,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by TIM JORDAN. 683 E ST (RT 49) COUDERSPORT PA 16915 SS 945,SM 11,SN 7,W 7 CRUSADER CLUB, NKJV, KJV, PARBC, AIBCWP, CCM 543 RANDOLPH ST MEADVILLE PA 16335 SS 930,SM  1045,SN 6,W 7 AWANA, MARTIAL ARTS; CALVARY BAPTIS KJB church."
+    "description": "COUDERSPORT PA 16915 SS 945,SM 11,SN 7,W 7 CRUSADER CLUB, NKJV, KJV, PARBC, AIBCWP, CCM 543 RANDOLPH ST MEADVILLE PA 16335 SS 930,SM 1045,SN 6,W 7 AWANA, MARTIAL ARTS; CALVARY BAPTIS KJB church"
   },
   {
     "id": "4274",
@@ -4473,7 +4473,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB KADLECIK. CHURCH ST & SPRUCE ST MONTROSE PA 18801 SM 8, SS 930, SS 11, W 7 NOT KJV ONLY, GARBC, CCM KJB church."
+    "description": "CHURCH ST & SPRUCE ST MONTROSE PA 18801 SM 8, SS 930, SS 11, W 7 NOT KJV ONLY, GARBC, CCM KJB church"
   },
   {
     "id": "4275",
@@ -4491,7 +4491,7 @@ export const pennsylvaniaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT W TERRICCIANO JR. NEW YORK AVE HALLSTEAD PA 18822 SM 930 NOT KJV ONLY KJB church."
+    "description": "NEW YORK AVE HALLSTEAD PA 18822 SM 930 NOT KJV ONLY KJB church"
   },
   {
     "id": "4276",
@@ -4510,7 +4510,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by NICK GRAVES. 2224 PEET BROOK RD GENESEE PA 16923 NOT KJV ONLY, BBF, EBM, BIO, ABWE KJB church."
+    "description": "GENESEE PA 16923 NOT KJV ONLY, BBF, EBM, BIO, ABWE KJB church"
   },
   {
     "id": "4277",
@@ -4530,7 +4530,7 @@ export const pennsylvaniaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by RODERICK HAWKINS. PO BOX 162 4301 SR 87 MEHOOPANY PA 18629 SS 930,SM 1045,SN 630,W 7 PREACH KJV, NOT KJV ONLY 511 FARMINGTON RD BREINIGSVILLE PA 18031 near ALLENTOWN NKJV, KJV, NIV, ESV, NAS, BBF 411 WOODALL AVE NORTH  KJB church."
+    "description": "PO BOX 162 4301 SR 87 MEHOOPANY PA 18629 SS 930,SM 1045,SN 630,W 7 PREACH KJV, NOT KJV ONLY BREINIGSVILLE PA 18031 near ALLENTOWN NKJV, KJV, NIV, ESV, NAS, BBF 411 WOODALL AVE NORTH KJB church"
   },
   {
     "id": "4278",
@@ -4549,7 +4549,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by THOMAS J SICA. 404 SR 106 GREENFIELD PA 18407 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 826 KEYSER ST SCRANTON PA 18508 SS 9,SM 11,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY KJB church."
+    "description": "404 SR 106 GREENFIELD PA 18407 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF SCRANTON PA 18508 SS 9,SM 11,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY KJB church"
   },
   {
     "id": "4279",
@@ -4568,7 +4568,7 @@ export const pennsylvaniaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by OBINNA OFOEGBU. 3030 CARNEGIE DR COLLEGE PARK PA 16803 SS 945,SM 830 & 930 & 1045 KJB, POST-TRIB"
+    "description": "COLLEGE PARK PA 16803 SS 945,SM 830 & 930 & 1045 KJB, POST-TRIB"
   },
   {
     "id": "4280",

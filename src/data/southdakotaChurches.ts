@@ -17,7 +17,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE ALDRIDGE. 106 MAIN ST S ARLINGTON SD 57212 SM 1030,SN 530,W 630 KJB church."
+    "description": "ARLINGTON SD 57212 SM 1030,SN 530,W 630 KJB church"
   },
   {
     "id": "4441",
@@ -35,7 +35,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE HAILEY. MEETING @ PUKWANA COMMUNITY CENTER MAILING ADDRESS: 600 HIGH ST PUKWANA SD  57370 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "MEETING @ PUKWANA COMMUNITY CENTER MAILING ADDRESS: PUKWANA SD 57370 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4442",
@@ -53,7 +53,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN MARTIN. 101 N GREEN ST ELK POINT SD 57025 SS 945,SM 11,W 7 LIVESTREAMING KJB church."
+    "description": "ELK POINT SD 57025 SS 945,SM 11,W 7 LIVESTREAMING KJB church"
   },
   {
     "id": "4443",
@@ -72,7 +72,7 @@ export const southdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by IVAN YODER. PO BOX 7 100 W THIRD ST MISSION HILL SD  47046 near YANKTON SS 930, SM 1030, SN  530, W 7 KJB, AMBASSADOR-BC"
+    "description": "PO BOX 7 MISSION HILL SD 47046 near YANKTON SS 930, SM 1030, SN 530, W 7 KJB, AMBASSADOR-BC"
   },
   {
     "id": "4444",
@@ -91,12 +91,12 @@ export const southdakotaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID LILLIBRIDGE. 2023 20TH ST SOUTH BROOKINGS SD 57006 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING, COLLEGE CAREER, TEENS, AUDIO SERMONS, SDSU CAMPUS KJB church."
+    "description": "BROOKINGS SD 57006 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING, COLLEGE CAREER, TEENS, AUDIO SERMONS, SDSU CAMPUS KJB church"
   },
   {
     "id": "4445",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "104 S VETERANS ST",
+    "address": "104 S VETERANS ST FLANDR",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -104,12 +104,12 @@ export const southdakotaChurches: Church[] = [
     "longitude": -98.8997,
     "phone": "(605) 838-4549",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 146 104 S VETERANS ST FLANDREAU SD 57028 SM 11, SN 7, TH 7 NEEDS PASTOR KJB church."
+    "description": "PO BOX 146 EAU SD 57028 SM 11, SN 7, TH 7 NEEDS"
   },
   {
     "id": "4446",
@@ -127,7 +127,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J R WRIGHT. PO BOX 36 201 4TH AVE SE CLARK SD 57225 SS 930,SM 1030 KJB church."
+    "description": "PO BOX 36 CLARK SD 57225 SS 930,SM 1030 KJB church"
   },
   {
     "id": "4447",
@@ -146,7 +146,7 @@ export const southdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRET GROVES. 780 S DAVLIN ST HOVEN SD 57450 SS 10,SM 11,SN 6,W 730 KJB, TABERNACLE-BC, UNAFFILIATED"
+    "description": "HOVEN SD 57450 SS 10,SM 11,SN 6,W 730 KJB, TABERNACLE-BC, UNAFFILIATED"
   },
   {
     "id": "4448",
@@ -164,7 +164,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARROLL TORBERSON. PO BOX 753 500 E DAKOTA AVE PIERRE SD 57501 SS 10, SM 11, SN 2, W 7 BIBLEWAY PRISON KJB church."
+    "description": "PO BOX 753 PIERRE SD 57501 SS 10, SM 11, SN 2, W 7 BIBLEWAY PRISON KJB church"
   },
   {
     "id": "4449",
@@ -182,7 +182,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLINT PAULSON. 600 S EDMUNDS ST PO BOX 183 MITCHELL SD 57301 KJB church."
+    "description": "PO BOX 183 MITCHELL SD 57301 KJB church"
   },
   {
     "id": "4450",
@@ -200,7 +200,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LAMAR WHITTEMORE. 390 S 6TH AVE LAKE ANDES SD 57356 SIOUX INDIAN RESERVATION KJB church."
+    "description": "LAKE ANDES SD 57356 SIOUX INDIAN RESERVATION KJB church"
   },
   {
     "id": "4451",
@@ -218,7 +218,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON MUDGE. PO BOX 83 402 E KEMP AVE WATERTOWN SD 57201 SS 10,SM 11,SN 630,W 7 THURSDAY KIDS CLUB 630 SEPT-MAY, KPGT 89.1 FM THE TRUTH KJB church."
+    "description": "PO BOX 83 WATERTOWN SD 57201 SS 10,SM 11,SN 630,W 7 THURSDAY KIDS CLUB 630 SEPT-MAY, KPGT 89.1 FM THE TRUTH KJB church"
   },
   {
     "id": "4452",
@@ -236,7 +236,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE WARNER. 350 21ST ST SE HURON SD 57350 SS 945,SM 1045,SN 6,W 6 NURSERY, BUS KJB church."
+    "description": "HURON SD 57350 SS 945,SM 1045,SN 6,W 6 NURSERY, BUS KJB church"
   },
   {
     "id": "4453",
@@ -255,12 +255,12 @@ export const southdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL FORSBURG. 415 6TH AVE E MOBRIDGE SD 57472 SS 10,SM 11,SN 130,W 7 AUDIO SERMONS SS 10,SM 11,SN 6,RU TH 7 KJB,UNAFFILIATED"
+    "description": "MOBRIDGE SD 57472 SS 10,SM 11,SN 130,W 7 AUDIO SERMONS SS 10,SM 11,SN 6,RU TH 7 KJB,UNAFFILIATED"
   },
   {
     "id": "4454",
     "name": "PRAIRIE WINDS BAPTIST CHURCH",
-    "address": "",
+    "address": "7 CHILDR",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -273,7 +273,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY BROOKS. 21264 US HWY 14 ELKTON SD 57026 SS 930,SM 1030,SN 7,W 7 CHILDREN’S BIBLE CLUB, 2ND WIND FOR WOMEN KJB church."
+    "description": "21264 US HWY 14 ELKTON SD 57026 SS 930,SM 1030,SN 7,W EN’S BIBLE CLUB, 2ND WIND FOR WOMEN KJB church"
   },
   {
     "id": "4455",
@@ -291,7 +291,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1515 SPACE AVE RAPID CITY SD 57701 SS 945,SM 11,SN 6,W 7, LIGHTHOUSE BAPTIST PRESS - BEARING PRECIOUS SEED AFFILIATED - PRINTING THE FOLLOWING FOR MISSION WORKS & CHURCHES WORLD WIDE"
+    "description": "RAPID CITY SD 57701 SS 945,SM 11,SN 6,W 7, LIGHTHOUSE BAPTIST PRESS - BEARING PRECIOUS SEED AFFILIATED - PRINTING THE FOLLOWING FOR MISSION WORKS & CHURCHES WORLD WIDE"
   },
   {
     "id": "4456",
@@ -310,7 +310,7 @@ export const southdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN CASKEY. KJB, MVIBF, GIBF"
+    "description": "KJB, MVIBF, GIBF"
   },
   {
     "id": "4457",
@@ -329,12 +329,12 @@ export const southdakotaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JERALD A MEYER. PO BOX 245 221 W 3RD ST STE 2 YANKTON SD 57078 SS 930,SM 1045,SN 6,W 7 KJB, UNAFFILIATED, HAC 316 N MAIN ST CANTON SD 57013 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER, BAPTIST BOYS BATTALION, GIRLS BLUE"
+    "description": "PO BOX 245 YANKTON SD 57078 SS 930,SM 1045,SN 6,W 7 KJB, UNAFFILIATED, HAC 316 N MAIN ST CANTON SD 57013 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER, BAPTIST BOYS BATTALION, GIRLS BLUE"
   },
   {
     "id": "4458",
     "name": "EAGLES WING BAPTIST CHURCH",
-    "address": "207 6TH ST",
+    "address": "301 N ELK ST",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -347,7 +347,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON JORGENSEN. PO BOX 427 207 6TH ST DUPREE SD 57623 SS 10, AM 11, PM 130, W 630 KJB, HAC 301 N ELK ST ELKTON SD 57026 SS 930,SM 1030,SN 7,W 7 KJB, GARBC 1120 5TH ST SPEARFISH SD 57783-1407"
+    "description": "PO BOX 427 207 6TH ST DUPREE SD 57623 SS 10, AM 11, PM 130, W 630 KJB, HAC ELKTON SD 57026 SS 930,SM 1030,SN 7,W 7 KJB, GARBC 1120 5TH ST SPEARFISH SD 57783-1407"
   },
   {
     "id": "4459",
@@ -365,7 +365,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON LEWIS. 12230 AVIATION WAY PO BOX 266 CUSTER SD 57730 SS 930,SM 1045,SN 6,W 7 5407 CEDAR ST BLACK HAWK SD 57718 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER, ELLSWORTH AFB 15 MILES KJB, HBBC"
+    "description": "PO BOX 266 CUSTER SD 57730 SS 930,SM 1045,SN 6,W 7 5407 CEDAR ST BLACK HAWK SD 57718 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER, ELLSWORTH AFB 15 MILES KJB, HBBC"
   },
   {
     "id": "4460",
@@ -383,7 +383,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERICH MCCANDLESS. 6101 E 49TH ST SIOUX FALLS SD 57103 SS 945,SM 1045,SN 6,W 7 BUS, DEAF, TEEN, SPANISH; FAITH CHRISTIAN ACADEMY KJB, UNAFILLIATED"
+    "description": "SIOUX FALLS SD 57103 SS 945,SM 1045,SN 6,W 7 BUS, DEAF, TEEN, SPANISH; FAITH CHRISTIAN ACADEMY KJB, UNAFILLIATED"
   },
   {
     "id": "4461",
@@ -401,12 +401,12 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "412 S HAWTHORNE AVE SIOUX FALLS SD 57104 SS 945,SM 11,SN 630,W 7"
+    "description": "SIOUX FALLS SD 57104 SS 945,SM 11,SN 630,W 7"
   },
   {
     "id": "4462",
     "name": "GREAT PLAINS BAPTIST DIVINITY SCHOOL",
-    "address": "707 7TH ST",
+    "address": "630 LIBERTY CHRIST",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -419,7 +419,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN ROSS. 707 7TH ST STURGIS SD 57785 SS 9,SM 10,W 630 LIBERTY CHRISTIAN ACADEMY K-12 ACE; LIBERTY DISCIPLESHIP INSTITUTE; ELLSWORTH AFB KJB church."
+    "description": "707 7TH ST STURGIS SD 57785 SS 9,SM 10,W IAN ACADEMY K-12 ACE; LIBERTY DISCIPLESHIP INSTITUTE; ELLSWORTH AFB KJB church"
   },
   {
     "id": "4463",
@@ -437,7 +437,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SCHULTZ. 2212 LANCE ST RAPID CITY SD 57702 KJB church."
+    "description": "RAPID CITY SD 57702 KJB church"
   },
   {
     "id": "4464",
@@ -455,7 +455,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TODD BOWERS. PO BOX 393 200 N ELLSWORTH RD BOX ELDER SD 57719 SS 945,SM 11,SN 630,W 7"
+    "description": "PO BOX 393 BOX ELDER SD 57719 SS 945,SM 11,SN 630,W 7"
   },
   {
     "id": "4465",
@@ -473,7 +473,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "608 4TH AVE TULARE SD 57476 KJB church."
+    "description": "TULARE SD 57476 KJB church"
   },
   {
     "id": "4466",
@@ -491,12 +491,12 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NEIL HANNAHS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4467",
     "name": "NORTHERN PLAINS BAPTIST CHURCH",
-    "address": "1604 S MELGAARD RD",
+    "address": "1604 S MELGAARD RD ABERD",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -509,12 +509,12 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL MCDOWELL. 1604 S MELGAARD RD ABERDEEN SD 57401 SS 10,SM 11,SN 6,W 7 BUS, PATCH THE PIRATE CLUB, ONLINE BIBLE INSTITUTE; NORTHERN PLAINS BAPTIST ACADEMY; PROPHETS CHAMBER PO BOX 677 112 W 4TH ST WHITE SD 57276 P KJB church."
+    "description": "EEN SD 57401 SS 10,SM 11,SN 6,W 7 BUS, PATCH THE PIRATE CLUB, ONLINE BIBLE INSTITUTE; NORTHERN PLAINS BAPTIST ACADEMY; PROPHETS CHAMBER PO BOX 677 112 W 4TH ST WHITE SD 57276 P KJB church"
   },
   {
     "id": "4468",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "205 LEWIS AVE",
+    "address": "1937 CANTON AVE",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -529,12 +529,12 @@ export const southdakotaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by MATTHEW LIM. PO BOX 1787 205 LEWIS AVE NORTH SIOUX CITY SD 57049 SS 10,SM 11,SN 130,W 7 KJV NKJV NIV NASV, BBF PO BOX 957 1937 CANTON AVE HOT SPRINGS SD 57747 SS 845,SM 10,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "PO BOX 1787 NORTH SIOUX CITY SD 57049 SS 10,SM 11,SN 130,W 7 KJV NKJV NIV NASV, BBF PO BOX 957 HOT SPRINGS SD 57747 SS 845,SM 10,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "4469",
     "name": "RAPID VALLEY FAITH BAPTIST CHURCH",
-    "address": "1786 N NEEL ST",
+    "address": "1786 N  NEEL ST",
     "city": "Pierre",
     "state": "SD",
     "zipCode": "",
@@ -547,7 +547,7 @@ export const southdakotaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WES LABRIER. 1786 N  NEEL ST RAPID CITY SD 57703 SS 945,SM 11,SN 7,W 7 NOT KJV ONLY KJB church."
+    "description": "RAPID CITY SD 57703 SS 945,SM 11,SN 7,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "4470",

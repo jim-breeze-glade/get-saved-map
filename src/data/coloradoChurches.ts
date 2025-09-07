@@ -19,7 +19,7 @@ export const coloradoChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TOM COOK. PO BOX 262 112 MAIN ST OLATHE CO 81425 SS 915,SM 1030,SN 6,W 7 BUS, SOULWINNING, FUNDAMENTAL KJB, UNAFFILIATED"
+    "description": "PO BOX 262 OLATHE CO 81425 SS 915,SM 1030,SN 6,W 7 BUS, SOULWINNING, FUNDAMENTAL KJB, UNAFFILIATED"
   },
   {
     "id": "412",
@@ -38,7 +38,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JASON BROCKMAN. 1301 S 8TH ST STE 116 COLORADO SPRINGS CO 80905 HS 9, SS 10, SM 11, SN 6, TH 7 DEAF, ASL, SOULWINNING, HEARING AND DEAF FRIENDLY, VAN, JAIL, HYMNS, MISSION MINDED, BIBLE PREACHING, SERVICES SIGNED AND KJB church."
+    "description": "COLORADO SPRINGS CO 80905 HS 9, SS 10, SM 11, SN 6, TH 7 DEAF, ASL, SOULWINNING, HEARING AND DEAF FRIENDLY, VAN, JAIL, HYMNS, MISSION MINDED, BIBLE PREACHING, SERVICES SIGNED AND KJB church"
   },
   {
     "id": "413",
@@ -56,7 +56,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by EDDIE UREY. 6130 BARNES RD #116 COLORADO SPRINGS CO 80922 SS 10,SM 11,SN 5,W 7 4 MILES FROM PETERSON AFB MAIN GATE 8 MILES FROM USAFA MAIN GATE 15 MILES FROM FORT CARSON MAIN GATE 15 MILES FROM SCHRIEVER AFB MAIN"
+    "description": "COLORADO SPRINGS CO 80922 SS 10,SM 11,SN 5,W 7 4 MILES FROM PETERSON AFB MAIN GATE 8 MILES FROM USAFA MAIN GATE 15 MILES FROM FORT CARSON MAIN GATE 15 MILES FROM SCHRIEVER AFB MAIN"
   },
   {
     "id": "414",
@@ -75,7 +75,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEN BLACK. 5600 W 33RD AVE WHEAT RIDGE CO 80212 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "WHEAT RIDGE CO 80212 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "415",
@@ -94,12 +94,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DOUGLAS BROWN. PO BOX 3589 3220 W PUEBLO BLVD PUEBLO CO  81005 SS 945,SM 11,SN 6,W 6 KJB ,UNAFFILIATED"
+    "description": "PO BOX 3589 PUEBLO CO 81005 SS 945,SM 11,SN 6,W 6 KJB ,UNAFFILIATED"
   },
   {
     "id": "416",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "1751 N LAKE AVE",
+    "address": "1751 N LAKE AVE EST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -112,7 +112,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE RUFF. 1751 N LAKE AVE ESTES PARK CO 80517 SS 930,SM 1030,TH 6 KJB church."
+    "description": "ES PARK CO 80517 SS 930,SM 1030,TH 6 KJB church"
   },
   {
     "id": "417",
@@ -130,7 +130,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYLAND HUTTO. 1650 BANNER RD AVONDALE CO 81022 KJB church."
+    "description": "AVONDALE CO 81022 KJB church"
   },
   {
     "id": "418",
@@ -149,7 +149,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by AW PAYNE. 201 N MAIN ST FOUNTAIN CO 80817 SS 10,SM 830 & 11,SN 6,W 7 BIBLE INSTITUTE PETERSON,AF ACADEMY,CARSON,CHEYENNE KJB, UNAFFILIATED"
+    "description": "FOUNTAIN CO 80817 SS 10,SM 830 & 11,SN 6,W 7 BIBLE INSTITUTE PETERSON,AF ACADEMY,CARSON,CHEYENNE KJB, UNAFFILIATED"
   },
   {
     "id": "419",
@@ -167,7 +167,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAYNE FORMER ARMY. 7925 FONTAINE BLVD COLORADO SPRINGS CO 80925 CORNER OF POWERS AND FONTAINE SS 945,SM 1030,SN 6, W 7 MASTER CLUBS  W 645pm, BIBLE INSTITUTE (PREACHER'S CLASS), PROPHETS CHAMBER (3) FT CARSON - 3 MILES, KJB church."
+    "description": "COLORADO SPRINGS CO 80925 CORNER OF POWERS AND FONTAINE SS 945,SM 1030,SN 6, W 7 MASTER CLUBS W 645pm, BIBLE INSTITUTE (PREACHER'S CLASS), PROPHETS CHAMBER (3) FT CARSON - 3 MILES, KJB church"
   },
   {
     "id": "420",
@@ -186,12 +186,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by G CASSADA. 10533 W HWY 160 PAGOSA SPRINGS CO 81147 SM/SS 1030,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "10533 W HWY 160 PAGOSA SPRINGS CO 81147 SM/SS 1030,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "421",
     "name": "VERITY BAPTIST CHURCH",
-    "address": "1508 TWEED ST",
+    "address": "80909 LOCATED OFF PALMER PARK EAST OF UNION BLVD",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -206,7 +206,7 @@ export const coloradoChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOHN A RAINEY. 1508 TWEED ST COLORADO SPRINGS CO 80909 LOCATED OFF PALMER PARK EAST OF UNION BLVD SS 10, SM 11, SN 6, W 7 SOULWINNING KJB, HYLES-ANDERSON, UNAFFILIATED"
+    "description": "COLORADO SPRINGS CO SS 10, SM 11, SN 6, W 7 SOULWINNING KJB, HYLES-ANDERSON, UNAFFILIATED"
   },
   {
     "id": "422",
@@ -225,12 +225,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRIAN WITHROW. 314 S CIRCLE DR COLORADO SPRINGS CO 80910 SS 10, SM 11, SN 6:30, W 7 SOULWINNING, SERMON CDS MP3 AUDIO SERMONS ONLINE, HYMNS, GOSPEL MUSIC; NO CONTEMPORARY MUSIC KJB church."
+    "description": "COLORADO SPRINGS CO 80910 SS 10, SM 11, SN 6:30, W 7 SOULWINNING, SERMON CDS MP3 AUDIO SERMONS ONLINE, HYMNS, GOSPEL MUSIC; NO CONTEMPORARY MUSIC KJB church"
   },
   {
     "id": "423",
     "name": "WETMORE BAPTIST CHURCH",
-    "address": "",
+    "address": "84 JUNCT",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -243,12 +243,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH BATES. PO BOX 84 JUNCTION OF HWY 96 & 67 WETMORE CO 81253 SS 945,SM 1045,SN 6,W 630 KJB,HBBC"
+    "description": "PO BOX ION OF HWY 96 & 67 WETMORE CO 81253 SS 945,SM 1045,SN 6,W 630 KJB,HBBC"
   },
   {
     "id": "424",
     "name": "PENROSE BAPTIST CHURCH",
-    "address": "502 FREMONT ST",
+    "address": "1089 GARFIELD ST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -263,12 +263,12 @@ export const coloradoChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DEREK DEWEY. PO BOX 119 502 FREMONT ST PENROSE CO 81240 SS 945,SM 1045,SN 6,W 7 KJB,HBBC,GIBF PO BOX 1501 1089 GARFIELD ST MEEKER CO 81641 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1402 E MAIN ST RANGELY CO 81648 SS"
+    "description": "PO BOX 119 PENROSE CO 81240 SS 945,SM 1045,SN 6,W 7 KJB,HBBC,GIBF PO BOX 1501 MEEKER CO 81641 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1402 E MAIN ST RANGELY CO 81648 SS"
   },
   {
     "id": "425",
     "name": "MONTELORES BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 2",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -282,7 +282,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JUD RILEY. PO BOX 2 18735 CR 23.5 LEWIS CO 81327 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "18735 CR 23.5 LEWIS CO 81327 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "426",
@@ -301,7 +301,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PETE REITZ. 3810 YOUNGFIELD ST WHEAT RIDGE CO 80033 SS 930,SM 1045,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "WHEAT RIDGE CO 80033 SS 930,SM 1045,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "427",
@@ -319,7 +319,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2201 FOREST AVENUE DURANGO CO 81301"
+    "description": "DURANGO CO 81301"
   },
   {
     "id": "428",
@@ -355,7 +355,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHUCK BIGLER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "430",
@@ -373,7 +373,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GORDON ROGERS. 2122 OVERTON RD PUEBLO CO 81008 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PUEBLO CO 81008 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "431",
@@ -391,7 +391,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL MULLANE. PO BOX 11793 427 W 26TH ST PUEBLO CO 81001 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 11793 PUEBLO CO 81001 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "432",
@@ -410,12 +410,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTT L GENTRY. 301 7TH ST FOWLER CO 80839 SS 945,SM 1045,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "FOWLER CO 80839 SS 945,SM 1045,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "433",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "23335 STERLING AVE in PEDRONI",
+    "address": "23335 STERLING AVE in PEDRONI CHILDRENS MINIST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "23335",
@@ -428,7 +428,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD ROBINSON. PO BOX 687 STERLING CO 80751 23335 STERLING AVE in PEDRONI CHILDRENS MINISTRIES KJB,BIBLE BELIEVING CHRISTIANS"
+    "description": "PO BOX 687 STERLING CO 80751 RIES KJB,BIBLE BELIEVING CHRISTIANS"
   },
   {
     "id": "434",
@@ -446,7 +446,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "11550 N WASHINGTON AVE NORTHGLENN CO 80233 NORTH DENVER AREA SS 930,SM 103-,SN 6,W 7 FOOD BANK,SOUL WINNING,TRACT, PUPPET, TEEN, SENIORS DAY CARE & PRESCHOOL Soulwinning church."
+    "description": "NORTHGLENN CO 80233 NORTH DENVER AREA SS 930,SM 103-,SN 6,W 7 FOOD BANK,SOUL WINNING,TRACT, PUPPET, TEEN, SENIORS DAY CARE & PRESCHOOL Soulwinning church"
   },
   {
     "id": "435",
@@ -465,7 +465,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN MCKENZIE. KJB,UNAFFILIATED"
+    "description": "KJB,UNAFFILIATED"
   },
   {
     "id": "436",
@@ -501,7 +501,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN JONES. SCHRIEVER AFB - 10 MILES; PETERSON AFB - 17 MILES; FT. CARSON - 30 MILES KJB,HEARTLAND"
+    "description": "SCHRIEVER AFB - 10 MILES; PETERSON AFB - 17 MILES; FT. CARSON - 30 MILES KJB,HEARTLAND"
   },
   {
     "id": "438",
@@ -520,7 +520,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN K MCDONALD. 2001 CR 31 FLORISSANT CO 80816 SS 930,SM 1030,SN 1230,W 6 AUDIO SERMONS ONLINE KJB,UNAFFILIATED,FUNDAMENTAL"
+    "description": "2001 CR 31 FLORISSANT CO 80816 SS 930,SM 1030,SN 1230,W 6 AUDIO SERMONS ONLINE KJB,UNAFFILIATED,FUNDAMENTAL"
   },
   {
     "id": "439",
@@ -539,7 +539,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICHARD WILSON. 1415 ELM AVE CANON CITY CO 81212 SS 945,SM 1045,SN 6,W 7 MASTER CLUBS,CHOIR,NURSING,CAMP CALVARY CHRISTIAN SCHOOL,K-12 FORT CARSON KJB,UNAFFILIATED,FUNDAMENTAL,SEPARATED"
+    "description": "CANON CITY CO 81212 SS 945,SM 1045,SN 6,W 7 MASTER CLUBS,CHOIR,NURSING,CAMP CALVARY CHRISTIAN SCHOOL,K-12 FORT CARSON KJB,UNAFFILIATED,FUNDAMENTAL,SEPARATED"
   },
   {
     "id": "440",
@@ -559,7 +559,7 @@ export const coloradoChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by WILLIAM J SENN III. 333 GREYDENE AVE CANON CITY CO 81212 SS 945,SM 1050,SN 6,W 7 YOUTH, VAN, LADIES BIBLE STUDY FT CARSON 45 MILES KJB,BBF,FBF,BJU,NBBC"
+    "description": "CANON CITY CO 81212 SS 945,SM 1050,SN 6,W 7 YOUTH, VAN, LADIES BIBLE STUDY FT CARSON 45 MILES KJB,BBF,FBF,BJU,NBBC"
   },
   {
     "id": "441",
@@ -579,7 +579,7 @@ export const coloradoChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by RANDY CONWAY. 6953 W 92ND LN WESTMINSTER CO 80021 ARVADA, BROOMFIELD AREAS SS 9,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "WESTMINSTER CO 80021 ARVADA, BROOMFIELD AREAS SS 9,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "442",
@@ -598,12 +598,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by THOMAS J BARLAMENT. 16735 W 63RD PLACE GOLDEN, CO  80403 SS 930,SM 1045,SN 6,W 7 YOUTH GROUP,CHILDRENS CHURCH,SOULWINNING,VAN SCHOOL OF THE BIBLE KJB church."
+    "description": "GOLDEN, CO 80403 SS 930,SM 1045,SN 6,W 7 YOUTH GROUP,CHILDRENS CHURCH,SOULWINNING,VAN SCHOOL OF THE BIBLE KJB church"
   },
   {
     "id": "443",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "1600 UTE AVE",
+    "address": "2711 UNAWEEP AVE GRAND JUNCT",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -617,7 +617,7 @@ export const coloradoChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "1600 UTE AVE GRAND JUNCTION CO 81501 PHYSICAL ADD: 2711 UNAWEEP AVE GRAND JUNCTION CO 81503 SS 930,SM 11,SN 6,W 7 BUS,MASTERS CLUB,YOUTH,REFORMERS UNANIMOUS, FUNDAMENTAL, SOULWINNING"
+    "description": "ION CO 81501 PHYSICAL ADD: ION CO 81503 SS 930,SM 11,SN 6,W 7 BUS,MASTERS CLUB,YOUTH,REFORMERS UNANIMOUS, FUNDAMENTAL, SOULWINNING"
   },
   {
     "id": "444",
@@ -654,7 +654,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BARLAMENT EX-ARMY. KJB,BBF"
+    "description": "KJB,BBF"
   },
   {
     "id": "446",
@@ -673,7 +673,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DOUGLAS M WISE. 6915 PALMER PARK BLVD COLORADO SPRINGS CO 80915 SS 930,SM 8 & 1030,SN 630,W 630 AWANA,DEAF,YOUTH, HILLTOP CHRISTIAN SCHOOL,K-12 PATRIOT BIBLE INSTITUTE PETERSON AFB, FORT CARSON KJB,GARBC"
+    "description": "COLORADO SPRINGS CO 80915 SS 930,SM 8 & 1030,SN 630,W 630 AWANA,DEAF,YOUTH, HILLTOP CHRISTIAN SCHOOL,K-12 PATRIOT BIBLE INSTITUTE PETERSON AFB, FORT CARSON KJB,GARBC"
   },
   {
     "id": "447",
@@ -686,17 +686,17 @@ export const coloradoChurches: Church[] = [
     "longitude": -104.287,
     "phone": "(303) 366-7459",
     "website": "https://juno.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "1000 AIRPORT BLVD AURORA CO 80011 SS 930,SM 1045,SN 600,W 630 KINGS KIDS - 4YR-6GR -TEENS, WENS 7 BUCKLEY AIRFIELD-HALF MILE NEEDS PASTOR KJB church."
+    "description": "AURORA CO 80011 SS 930,SM 1045,SN 600,W 630 KINGS KIDS - 4YR-6GR -TEENS, WENS 7 BUCKLEY AIRFIELD-HALF MILE NEEDS"
   },
   {
     "id": "448",
     "name": "GOSPEL WAY BAPTIST CHURCH",
-    "address": "2876 B RD",
+    "address": "2876 B RD GRAND JUNCT",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -709,7 +709,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG M SCOTT. 2876 B RD GRAND JUNCTION CO 81504 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, TEXT BIBLE STUDIES ONLINE KJB,NBBC"
+    "description": "ION CO 81504 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, TEXT BIBLE STUDIES ONLINE KJB,NBBC"
   },
   {
     "id": "449",
@@ -727,7 +727,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT MILLER. 8500 E ALAMEDA AVE DENVER CO 80231 SM 9,SS 1045,SN 6,W 7 AWANA,RADIO, AUDIO PREACHING ON THE WEBSITE KJB, UNAFFLIATED"
+    "description": "DENVER CO 80231 SM 9,SS 1045,SN 6,W 7 AWANA,RADIO, AUDIO PREACHING ON THE WEBSITE KJB, UNAFFLIATED"
   },
   {
     "id": "450",
@@ -745,7 +745,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "3500 N NEVADA AVE COLORADO SPRINGS CO 80907 SS 10 SM 11 SN 6 W 7 BUS, MASTER CLUBS, PATCH THE PIRATE, SOULWINNING, LIVE STREAMING AUDIO SERMONS ONLINE,"
+    "description": "COLORADO SPRINGS CO 80907 SS 10 SM 11 SN 6 W 7 BUS, MASTER CLUBS, PATCH THE PIRATE, SOULWINNING, LIVE STREAMING AUDIO SERMONS ONLINE"
   },
   {
     "id": "451",
@@ -763,7 +763,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY RANDALL. SHRIEVER AFB, PETERSON AFB, USAFA, FT CARSON KJB church."
+    "description": "SHRIEVER AFB, PETERSON AFB, USAFA, FT CARSON KJB church"
   },
   {
     "id": "452",
@@ -781,7 +781,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "13100 E 144TH AVE BRIGHTON CO 80601 SS 945,SM 11,SN 6,W 7"
+    "description": "BRIGHTON CO 80601 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "453",
@@ -799,7 +799,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW REED. TEENS, WMV MP3 VIDEO SERMONS ONLINE KJB church."
+    "description": "TEENS, WMV MP3 VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "454",
@@ -818,7 +818,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PARK SUTTON. 11502 HWY 145M CORTEZ CO 81321 MORENO VALLEY AREA SS 10,SM 11,SN 6,W 7 BUS,TEEN LIGHTHOUSE CHRISTIAN ACADEMY,K-12 KJB, UNAFFILIATED"
+    "description": "11502 HWY 145M CORTEZ CO 81321 MORENO VALLEY AREA SS 10,SM 11,SN 6,W 7 BUS,TEEN LIGHTHOUSE CHRISTIAN ACADEMY,K-12 KJB, UNAFFILIATED"
   },
   {
     "id": "455",
@@ -836,7 +836,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF AYON. 2420 LAPORTE AVE FORT COLLINS CO 80521 SS 930,SM 1045,SN 6,W 7 MP3 AUDIO SERMONS AND SONGS ONLINE KJB church."
+    "description": "FORT COLLINS CO 80521 SS 930,SM 1045,SN 6,W 7 MP3 AUDIO SERMONS AND SONGS ONLINE KJB church"
   },
   {
     "id": "456",
@@ -854,7 +854,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "8100 W HAMPDEN AVE DENVER CO  80227 SS 945  SM 1050  SN 6  W 7 BUS, KIDS, TEENS, SOULWINNING,MP3 AUDIO SERMONS ONLINE, HYMNS"
+    "description": "DENVER CO 80227 SS 945 SM 1050 SN 6 W 7 BUS, KIDS, TEENS, SOULWINNING,MP3 AUDIO SERMONS ONLINE, HYMNS"
   },
   {
     "id": "457",
@@ -872,7 +872,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE NAPIER. KJB, UNAFFILLIATED, RUCKMAN"
+    "description": "KJB, UNAFFILLIATED, RUCKMAN"
   },
   {
     "id": "458",
@@ -891,12 +891,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID MCCAW. 10200 W 44TH AVE SUITE 242 WHEAT RIDGE CO 80033 SS 10, SM 11, SN 6, W 7 KJB,UNAFFILIATED"
+    "description": "WHEAT RIDGE CO 80033 SS 10, SM 11, SN 6, W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "459",
     "name": "PINE RIVER VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 282",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -909,12 +909,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN PARTON. PO BOX 282 11942 HWY 172 IGNACIO CO 81137 SS 930,SM 1030,BS 5,SN 6,W 7 KJB,HYLES,CROWN BC,WEST COAST BC"
+    "description": "11942 HWY 172 IGNACIO CO 81137 SS 930,SM 1030,BS 5,SN 6,W 7 KJB,HYLES,CROWN BC,WEST COAST BC"
   },
   {
     "id": "460",
     "name": "TIMBERLINE BAPTIST CHURCH",
-    "address": "512 CANON AVE",
+    "address": "1102 STONEWALL AVE",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -929,7 +929,7 @@ export const coloradoChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by ANDY OHMAN. 512 CANON AVE MANITOU SPRINGS CO 80829 SS 945,SM 1045,SN 6,W 7 DEAF, BUS, SOULWINNING, YOUTH, MP3 AUDIO SERMONS ONLINE FALCON, USAFA, FT CARSON, NORAD, PATTERSON KJB,HBBC 1102 STONEWALL AVE TRINIDAD C"
+    "description": "MANITOU SPRINGS CO 80829 SS 945,SM 1045,SN 6,W 7 DEAF, BUS, SOULWINNING, YOUTH, MP3 AUDIO SERMONS ONLINE FALCON, USAFA, FT CARSON, NORAD, PATTERSON KJB,HBBC TRINIDAD C"
   },
   {
     "id": "461",
@@ -947,7 +947,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BART JANZ. 7201 E 57TH PL COMMERCE CITY CO 80022 SM 1030,SN 5,W 7 KJB church."
+    "description": "COMMERCE CITY CO 80022 SM 1030,SN 5,W 7 KJB church"
   },
   {
     "id": "462",
@@ -966,7 +966,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID BROWNING. 10621 IRMA DR NORTHGLENN CO 80233 KJB, UNAFFILIATED PO BOX 127 7740 HIGHWAY 2 COMMERCE CITY CO 80037 SS 10,SM 11,SN 630,W 7 LOWRY AFB, FIZSIMMONS"
+    "description": "NORTHGLENN CO 80233 KJB, UNAFFILIATED PO BOX 127 7740 HIGHWAY 2 COMMERCE CITY CO 80037 SS 10,SM 11,SN 630,W 7 LOWRY AFB, FIZSIMMONS"
   },
   {
     "id": "463",
@@ -985,7 +985,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CLIFTON MIZER. PO BOX 278 200 W CLEVELAND LAFAYETTE CO 80026 SM 10,SN 6,W 6 KJB,BBFI,HBBC PO BOX 467 3190 S BROADWAY ENGLEWOOD CO 80151 INCLUDES THE DENVER AREA SS 10,SM 11,SN 6,W 7 MASTERS CLUB,BUS,SENIORS,"
+    "description": "PO BOX 278 200 W CLEVELAND LAFAYETTE CO 80026 SM 10,SN 6,W 6 KJB,BBFI,HBBC PO BOX 467 ENGLEWOOD CO 80151 INCLUDES THE DENVER AREA SS 10,SM 11,SN 6,W 7 MASTERS CLUB,BUS,SENIORS"
   },
   {
     "id": "464",
@@ -1003,7 +1003,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RODGER D ALLEY. KJB,HYLES"
+    "description": "KJB,HYLES"
   },
   {
     "id": "465",
@@ -1021,7 +1021,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEY. 345 S MEADE ST DENVER CO 80219 SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE KJB,CBA"
+    "description": "DENVER CO 80219 SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE KJB,CBA"
   },
   {
     "id": "466",
@@ -1039,7 +1039,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM DEMORET. 3070 W 65TH AVE DENVER CO 80221 KJB church."
+    "description": "DENVER CO 80221 KJB church"
   },
   {
     "id": "467",
@@ -1058,12 +1058,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRUCE MILLER. PO BOX 661 492 GARFIELD ST WALDEN CO 80480 SS 10,SM 11,SN 7,TH 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 661 WALDEN CO 80480 SS 10,SM 11,SN 7,TH 7 KJB,UNAFFILIATED"
   },
   {
     "id": "468",
     "name": "FOOTHILLS BAPTIST CHURCH",
-    "address": "4000 W 22ND ST",
+    "address": "34 ON MORNING DR",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1076,12 +1076,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEAN MILLER. BOX 771 4000 W 22ND ST LOVELAND CO 80537 6 BLOCKS N HWY 34 ON MORNING DR NAMAQUA HILL, CO 80539 SS 930,SM 1040,SN 6,W 7 PATCH PIRATE,SENIOR, KJB church."
+    "description": "BOX 771 4000 W 22ND ST LOVELAND CO 80537 6 BLOCKS N HWY NAMAQUA HILL, CO 80539 SS 930,SM 1040,SN 6,W 7 PATCH PIRATE,SENIOR, KJB church"
   },
   {
     "id": "469",
     "name": "FRONT RANGE BAPTIST CHURCH",
-    "address": "625 HARMONY RD",
+    "address": "7 AUDIO SERMONS ONLINE CHRIST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1094,7 +1094,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHANNON MUNDAY. 625 HARMONY RD FORT COLLINS CO 80525 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS ONLINE CHRISTIAN SCHOOL,AACS,PREK-12 KJB church."
+    "description": "FORT COLLINS CO 80525 SS 915,SM 1030,SN 6,W IAN SCHOOL,AACS,PREK-12 KJB church"
   },
   {
     "id": "470",
@@ -1112,7 +1112,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB GARNER. 708 WARNER ST FORT MORGAN CO 80701-3523 KJB church."
+    "description": "FORT MORGAN CO 80701-3523 KJB church"
   },
   {
     "id": "471",
@@ -1131,7 +1131,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES F WILKINSON. 404 E 3RD ST LOVELAND CO 80537 SS 9,SM 10,SN 6,W 7 KJV,BBF KJB church."
+    "description": "LOVELAND CO 80537 SS 9,SM 10,SN 6,W 7 KJV,BBF KJB church"
   },
   {
     "id": "472",
@@ -1149,7 +1149,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRYL REEVES. 5312 GALLEY RD COLORADO SPRINGS CO 80915 SS 930,SM 1030,SN 6,W 7 MP3 AUDIO SERMONS ONLINE PETERSON AFB, AF ACADEMY KJB church."
+    "description": "COLORADO SPRINGS CO 80915 SS 930,SM 1030,SN 6,W 7 MP3 AUDIO SERMONS ONLINE PETERSON AFB, AF ACADEMY KJB church"
   },
   {
     "id": "473",
@@ -1167,7 +1167,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GAIUS WILKINSON. 2632 HWY 133 CARBONDALE CO 81623 SS 945,SN 1045,SN 6,W 7 FORT CARSON, PETERSON AFB, SCHRIEVER AFB, CHEYENNE MOUNTAIN AIR STATION, US AIR FORCE ACADEMY KJB church."
+    "description": "2632 HWY 133 CARBONDALE CO 81623 SS 945,SN 1045,SN 6,W 7 FORT CARSON, PETERSON AFB, SCHRIEVER AFB, CHEYENNE MOUNTAIN AIR STATION, US AIR FORCE ACADEMY KJB church"
   },
   {
     "id": "474",
@@ -1180,12 +1180,12 @@ export const coloradoChurches: Church[] = [
     "longitude": -106.1221,
     "phone": "(970) 620-2416",
     "website": "http://yvbchurch.com",
-    "pastor": "NATHAN SCHOLZ",
+    "pastor": "COLORADO SPRINGS CO 80917 SS 10,SM 11,SN 6,W 7 CHOIRS,ORCHESTRA,YOUTH,PEE WEE & PATCH CLUBS,BUS FO",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN SCHOLZ. 3900 E VICTORY WAY CRAIG CO  81625 SS 945, SM 11, W 7 WED KIDS CLUBS,  TEENS KJB,GIBF 4280 HOPEFUL DR COLORADO SPRINGS CO 80917 SS 10,SM 11,SN 6,W 7 CHOIRS,ORCHESTRA,YOUTH,PEE WEE & PATCH CLUBS,BUS FO"
+    "description": "CRAIG CO 81625 SS 945, SM 11, W 7 WED KIDS CLUBS, TEENS KJB,GIBF 4280 HOPEFUL DR COLORADO SPRINGS CO 80917 SS 10,SM 11,SN 6,W 7 CHOIRS,ORCHESTRA,YOUTH,PEE WEE & PATCH CLUBS,BUS FO"
   },
   {
     "id": "475",
@@ -1203,7 +1203,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE BETANCOURT. PO BOX 436 420 JOHNSON ST FREDERICK CO 80530 SM 845, SS 1015, SN 530, W 7 KJB church."
+    "description": "PO BOX 436 FREDERICK CO 80530 SM 845, SS 1015, SN 530, W 7 KJB church"
   },
   {
     "id": "476",
@@ -1222,7 +1222,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEN MARTINEZ. 1402 9TH ST GREELEY CO 80631 SS 930, SM 1030, SN 6, W 7 BUS, SOULWINNING, COLLEGE CAREER, TEENS, JR CHURCH, NURSERY, TRADITIONAL MUSIC KJB,HEARTLAND-BBC"
+    "description": "GREELEY CO 80631 SS 930, SM 1030, SN 6, W 7 BUS, SOULWINNING, COLLEGE CAREER, TEENS, JR CHURCH, NURSERY, TRADITIONAL MUSIC KJB,HEARTLAND-BBC"
   },
   {
     "id": "477",
@@ -1241,7 +1241,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GARY W ORRINO. 1450 MARTIN ST LONGMONT CO 80501 SS 930,SM 1030,SN 6,W 7 KJB,BBF"
+    "description": "LONGMONT CO 80501 SS 930,SM 1030,SN 6,W 7 KJB,BBF"
   },
   {
     "id": "478",
@@ -1259,12 +1259,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY D DAVID. 3381 KIPLING ST WHEAT RIDGE CO 80033 SS 1030,SM 1115 KJV,FBF KJB church."
+    "description": "WHEAT RIDGE CO 80033 SS 1030,SM 1115 KJV,FBF KJB church"
   },
   {
     "id": "479",
     "name": "PEAR PARK BAPTIST CHURCH",
-    "address": "3102 E ROAD",
+    "address": "3102 E ROAD GRAND JUNCT",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1277,7 +1277,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3102 E ROAD GRAND JUNCTION CO 81504 SS 10,SM 11,SN 630,W 7 KCIC FM RADIO, MASTER CLUBS, JAIL"
+    "description": "ION CO 81504 SS 10,SM 11,SN 630,W 7 KCIC FM RADIO, MASTER CLUBS, JAIL"
   },
   {
     "id": "480",
@@ -1295,12 +1295,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD SMITH. KJB, IBFI"
+    "description": "KJB, IBFI"
   },
   {
     "id": "481",
     "name": "PLATTEVILLE BAPTIST CHURCH",
-    "address": "311 SALISBURY AVE",
+    "address": "311 SALISBURY AVE PL",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1313,7 +1313,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by COREY SEULEAN. PO BOX 629 311 SALISBURY AVE PLATTEVILLE CO 80651 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB, HAC"
+    "description": "PO BOX 629 ATTEVILLE CO 80651 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB, HAC"
   },
   {
     "id": "482",
@@ -1331,7 +1331,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1146 KIMBARK ST LONGMONT CO 80501 SS 10,SM 11,SN 6,W 7,SAT N 7"
+    "description": "LONGMONT CO 80501 SS 10,SM 11,SN 6,W 7,SAT N 7"
   },
   {
     "id": "483",
@@ -1349,12 +1349,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE DAVIS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "484",
     "name": "BUENA VISTA BAPTIST CHURCH",
-    "address": "",
+    "address": "356 BUENA VIST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1367,7 +1367,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "30990 CR 356 BUENA VISTA CO 81211"
+    "description": "30990 CR A CO 81211"
   },
   {
     "id": "485",
@@ -1385,7 +1385,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NOEL BURTON. SS 930,SM 1030,SN 6,W 7 PRISON,VISITATION, TAPE KJV,NTAIBC KJB church."
+    "description": "SS 930,SM 1030,SN 6,W 7 PRISON,VISITATION, TAPE KJV,NTAIBC KJB church"
   },
   {
     "id": "486",
@@ -1403,7 +1403,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FERRARI. 790 GRAPE ST DENVER CO 80220 311 S MAIN LA VETA CO 81055 KJV,IBFI KJB church."
+    "description": "DENVER CO 80220 311 S MAIN LA VETA CO 81055 KJV,IBFI KJB church"
   },
   {
     "id": "487",
@@ -1421,7 +1421,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL J CHILDERS. 2015 3RD AVE LONGMONT CO 80501 SS 10,SM 11,SN 6,W 6 KJB,HYLES"
+    "description": "LONGMONT CO 80501 SS 10,SM 11,SN 6,W 6 KJB,HYLES"
   },
   {
     "id": "488",
@@ -1440,7 +1440,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID THORNBERRY. 32 CEDAR AVE MONTROSE CO 81401 SS 945,SM 1030,SN 6,W 7 AUDIO SERMONS & MUSIC ONLINE KJB,BBF,MBBC"
+    "description": "MONTROSE CO 81401 SS 945,SM 1030,SN 6,W 7 AUDIO SERMONS & MUSIC ONLINE KJB,BBF,MBBC"
   },
   {
     "id": "489",
@@ -1458,7 +1458,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN PRESTON. 248 S OSCEOLA ST DENVER CO 80219 SS 945,SM 1045,TUE 430,W 7 CHILDREN & TEEN KJB church."
+    "description": "DENVER CO 80219 SS 945,SM 1045,TUE 430,W 7 CHILDREN & TEEN KJB church"
   },
   {
     "id": "490",
@@ -1476,7 +1476,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER COOPER. 664 ACADEMY CT WINDSOR CO 80550 SS 10,SM 11,SN 6,W 7 KINGS KIDS, BUS MP3 AUDIO SERMONS ONLINE KJV,NTAIBC KJB church."
+    "description": "WINDSOR CO 80550 SS 10,SM 11,SN 6,W 7 KINGS KIDS, BUS MP3 AUDIO SERMONS ONLINE KJV,NTAIBC KJB church"
   },
   {
     "id": "491",
@@ -1495,12 +1495,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WILLIAM INGRAM. 180 S ELM ST FRUITA CO 81521 KJB,BBF,TTU,NTAIBC"
+    "description": "FRUITA CO 81521 KJB,BBF,TTU,NTAIBC"
   },
   {
     "id": "492",
     "name": "MESSIAH BAPTIST CHURCH",
-    "address": "3241 W 44TH AVE",
+    "address": "7 DENVER BIBLE INSTITUTE CHRIST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1513,7 +1513,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by R L MCDONALD. 3241 W 44TH AVE DENVER CO 80211 SS 945,SM 11,SN 6,W 7 DENVER BIBLE INSTITUTE CHRISTIAN SCHOOLS OF LAKEWOOD KJB church."
+    "description": "3241 W 44TH AVE DENVER CO 80211 SS 945,SM 11,SN 6,W IAN SCHOOLS OF LAKEWOOD KJB church"
   },
   {
     "id": "493",
@@ -1531,7 +1531,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM SPILMAN. 930 STATE AVE ALAMOSA CO 81101 SM 11,SN 6,W 7 KJB church."
+    "description": "ALAMOSA CO 81101 SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "494",
@@ -1549,7 +1549,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADRIAN DOMINGUEZ. 5140 CARR ST ARVADA CO 80002 SS 930,SM 1030,SN BS 615,SN 7,W 730 KJB, PBI, RUCKMAN"
+    "description": "ARVADA CO 80002 SS 930,SM 1030,SN BS 615,SN 7,W 730 KJB, PBI, RUCKMAN"
   },
   {
     "id": "495",
@@ -1568,7 +1568,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MATT WALTERS. 15490 E HAMPDEN AVE SUITE 100 AURORA CO 80013 SS 10,SM 11,W 7 KJB,BBF"
+    "description": "AURORA CO 80013 SS 10,SM 11,W 7 KJB,BBF"
   },
   {
     "id": "496",
@@ -1586,7 +1586,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON PARKER. PO BOX 283 320 35TH AVE GREELEY CO 80632 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJV,BJU KJB church."
+    "description": "PO BOX 283 GREELEY CO 80632 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJV,BJU KJB church"
   },
   {
     "id": "497",
@@ -1604,7 +1604,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY WAHL. PO BOX 327 217 W 3RD ST ORDWAY CO 81063 425 MAPLE ST WALSENBURG CO 81066 KJB church."
+    "description": "PO BOX 327 ORDWAY CO 81063 425 MAPLE ST WALSENBURG CO 81066 KJB church"
   },
   {
     "id": "498",
@@ -1623,7 +1623,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOB WOODY. KJB, UNAFFILIATED, PBI"
+    "description": "KJB, UNAFFILIATED, PBI"
   },
   {
     "id": "499",
@@ -1641,7 +1641,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM BORST. 2002 E 8TH ST PUEBLO CO 81001 SS 945, SM 1045, SN 6, W 7 KJB church."
+    "description": "PUEBLO CO 81001 SS 945, SM 1045, SN 6, W 7 KJB church"
   },
   {
     "id": "500",
@@ -1659,12 +1659,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WARD R SNYDER. PO BOX 96 185 N 2ND ST HAYDEN CO 81639 SS 930,SM 1030,W 7 KJB church."
+    "description": "PO BOX 96 HAYDEN CO 81639 SS 930,SM 1030,W 7 KJB church"
   },
   {
     "id": "501",
     "name": "WESTMINSTER FIRST BAPTIST CHURCH",
-    "address": "7625 LOWELL BLVD",
+    "address": "7625 LOWELL BLVD WESTMINST",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1677,12 +1677,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by SYNDER EX-USAF. 7625 LOWELL BLVD WESTMINSTER CO 80030 SS 930,SM 1045,SN 6,W 7"
+    "description": "ER CO 80030 SS 930,SM 1045,SN 6,W 7"
   },
   {
     "id": "502",
     "name": "EAGLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 411",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1695,12 +1695,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DOTSON LEE. PO BOX 411 14600 US HWY 6 EAGLE CO 81631"
+    "description": "14600 US HWY 6 EAGLE CO 81631"
   },
   {
     "id": "503",
     "name": "KIRK BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 4",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1713,7 +1713,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD. PO BOX 4 11162 CR 3 KIRK CO 80824"
+    "description": "11162 CR 3 KIRK CO 80824"
   },
   {
     "id": "504",
@@ -1731,12 +1731,12 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by DONALD COMBS. 1120 S IRVING ST DENVER CO 80219 Independent church."
+    "description": "DENVER CO 80219 Independent church"
   },
   {
     "id": "505",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "41012 MADRID DR",
+    "address": "80138 DAN MAYNARD",
     "city": "Denver",
     "state": "CO",
     "zipCode": "41012",
@@ -1749,7 +1749,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DAVID MCNEW. 41012 MADRID DR SPRING HILLS ELEMENTARY SCHOOL PARKER CO 80138 DAN MAYNARD BBF church."
+    "description": "SPRING HILLS ELEMENTARY SCHOOL PARKER CO BBF church"
   },
   {
     "id": "506",
@@ -1767,7 +1767,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by WARREN L NORTON. PO BOX 1881 4781 HWY 73 EVERGREEN CO 80439 PO BOX 277 1002 19TH AVE GREELEY CO 80632 BBF church."
+    "description": "PO BOX 1881 4781 HWY 73 EVERGREEN CO 80439 PO BOX 277 GREELEY CO 80632 BBF church"
   },
   {
     "id": "507",
@@ -1785,7 +1785,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by RONALD E PETTY. 18204 COUNTY RD 26 BRUSH CO 80723 SS 10,SM 11,W 7 BBF, CO-BBF"
+    "description": "BRUSH CO 80723 SS 10,SM 11,W 7 BBF, CO-BBF"
   },
   {
     "id": "508",
@@ -1803,7 +1803,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by FRANK BRUMMITT. PO BOX 5098 208 CUNNINGHAM DR COLORADO SPRINGS CO 80931 SM 11,SN 6,W 7 1020 S 5TH ST MONTROSE CO 81401 BBF church."
+    "description": "PO BOX 5098 COLORADO SPRINGS CO 80931 SM 11,SN 6,W 7 1020 S 5TH ST MONTROSE CO 81401 BBF church"
   },
   {
     "id": "509",
@@ -1821,7 +1821,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MICHAEL YOUNG. 14936 E MEXICO DR AURORA CO 80012 126 DELMAR CIR PO BOX 469 N 8TH AVE STERLING CO 80751 BBF church."
+    "description": "AURORA CO 80012 126 DELMAR CIR PO BOX 469 N 8TH AVE STERLING CO 80751 BBF church"
   },
   {
     "id": "510",
@@ -1839,7 +1839,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RONALD V MCLUCAS. 1927 N MURRAY BLVD COLORADO SPRINGS CO 80915 SM 815 & 11,SN 6, SENIORS,YOUTH,TEEN,AWANA, TEXT SERMONS ONLINE 212 2ND ST FOWLER CO 81039"
+    "description": "COLORADO SPRINGS CO 80915 SM 815 & 11,SN 6, SENIORS,YOUTH,TEEN,AWANA, TEXT SERMONS ONLINE 212 2ND ST FOWLER CO 81039"
   },
   {
     "id": "511",
@@ -1857,7 +1857,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DEAN MASON. 5237 HIGHLANDS CHURCH RD BOONE CO 81025"
+    "description": "BOONE CO 81025"
   },
   {
     "id": "512",
@@ -1875,7 +1875,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "219 MAPLE ST CAMPO CO 81029"
+    "description": "CAMPO CO 81029"
   },
   {
     "id": "513",
@@ -1893,7 +1893,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JAMES M DUNCAN. SS 9,SM 10,SN 6 BBF church."
+    "description": "SS 9,SM 10,SN 6 BBF church"
   },
   {
     "id": "514",
@@ -1911,7 +1911,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "1870 REDWOOD AVE BOULDER CITY CO 80302 SS 10,SM 11, BBF church."
+    "description": "BOULDER CITY CO 80302 SS 10,SM 11, BBF church"
   },
   {
     "id": "515",
@@ -1930,7 +1930,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by HAROLD BENNETT. PO BOX 161 485 GODDARD & PIONEER IGNACIO CO 81137 PO BOX 176 209 E HOTCHKISS AVE HOTCHKISS CO 81419 SS 10,SM 11 KJB,IBFI,S.GRACE"
+    "description": "PO BOX 161 IGNACIO CO 81137 PO BOX 176 209 E HOTCHKISS AVE HOTCHKISS CO 81419 SS 10,SM 11 KJB,IBFI,S.GRACE"
   },
   {
     "id": "516",
@@ -1949,12 +1949,12 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JASON CLARK. PO BOX 62517 1702 N MURRAY BLVD AT IRVING MIDDLE SCHOOL COLORADO SPRINGS CO 80962 SS 945,SM 1030,SN 6,W 7 S. GRACE-TULIP PO BOX 770652 40995 ROUTT CO RD 129 STEAMBOAT SPRINGS CO 80477 SS 10,SM 11,SN 6 KJB church."
+    "description": "PO BOX 62517 COLORADO SPRINGS CO 80962 SS 945,SM 1030,SN 6,W 7 S. GRACE-TULIP PO BOX 5 ROUTT CO RD 129 STEAMBOAT SPRINGS CO 80477 SS 10,SM 11,SN 6 KJB church"
   },
   {
     "id": "517",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "448 S CAMP RD",
+    "address": "448 S CAMP RD GRAND JUNCT",
     "city": "Denver",
     "state": "CO",
     "zipCode": "",
@@ -1967,7 +1967,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "448 S CAMP RD GRAND JUNCTION CO 81503 SS 9,SM 10,SN 630,W 7"
+    "description": "ION CO 81503 SS 9,SM 10,SN 630,W 7"
   },
   {
     "id": "518",
@@ -2004,7 +2004,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JEFFREY ALEXANDER. PREACH KJV,NOT KJV ONLY,S.GRACE PO BOX 1213 907 S 3RD ST LAMAR CO 81052 SS 1115,SM 10,SN 5,W 7 CALEBS BIBLE CLUB WED 315 PM, BIBLE INSTITUTE,SUNDAY 7 PM NOT KJV ONLY,BBF KJB church."
+    "description": "PREACH KJV,NOT KJV ONLY,S.GRACE PO BOX 1213 LAMAR CO 81052 SS 1115,SM 10,SN 5,W 7 CALEBS BIBLE CLUB WED 315 PM, BIBLE INSTITUTE,SUNDAY 7 PM NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "520",
@@ -2023,7 +2023,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR BILLY HAMM. PO BOX 1124 1111 MONROE AVE CANON CITY CO 81212 SS 9,SM 10,SN 6,W 7 PREACH-KJV STUDY OTHERS,BBFI, COBBF KJB church."
+    "description": "PO BOX 1124 CANON CITY CO 81212 SS 9,SM 10,SN 6,W 7 PREACH-KJV STUDY OTHERS,BBFI, COBBF KJB church"
   },
   {
     "id": "521",
@@ -2044,7 +2044,7 @@ export const coloradoChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by RUSSELL A BAKER. PO BOX 1627 EASTLAKE CO 80614 ARABIAN HORSE CENTER 12000 N ZUNI WESTMINSTER, CO 80241 SS 9,SM 10,SN 630 SS 9,SM 10,SMALL GROUPS BETWEEN SUNDAYS GOSPEL MUSIC,ACTIVE YOUTH,COLLEGE,SENIOR, AUDIO SERMONS  KJB church."
+    "description": "PO BOX 1627 EASTLAKE CO 80614 ARABIAN HORSE CENTER 12000 N ZUNI WESTMINSTER, CO 80241 SS 9,SM 10,SN 630 SS 9,SM 10,SMALL GROUPS BETWEEN SUNDAYS GOSPEL MUSIC,ACTIVE YOUTH,COLLEGE,SENIOR, AUDIO SERMONS KJB church"
   },
   {
     "id": "522",
@@ -2062,7 +2062,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL L UNRUH. 833 S TAFT HILL RD FORT COLLINS CO 80521 SS 930,SM 1030,SN 6,W 7 AWANA, PREACH-KJV STUDY-KJV & NASV,BJU,FBF KJB church."
+    "description": "FORT COLLINS CO 80521 SS 930,SM 1030,SN 6,W 7 AWANA, PREACH-KJV STUDY-KJV & NASV,BJU,FBF KJB church"
   },
   {
     "id": "523",
@@ -2080,7 +2080,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL E WILLIAMS. PO BOX 3005 GREELEY CO 80633 600 51ST AVE SS 930,SM 1030,SN 6,W 7 GARBC,NOT KJV ONLY KJB church."
+    "description": "PO BOX 3005 GREELEY CO 80633 SS 930,SM 1030,SN 6,W 7 GARBC,NOT KJV ONLY KJB church"
   },
   {
     "id": "524",
@@ -2098,7 +2098,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by STEVE HAFLER. 7101 S HOLLY ST LITTLETON CO 80122 KINGS KIDS,AWANA Non-KJV church."
+    "description": "LITTLETON CO 80122 KINGS KIDS,AWANA Non-KJV church"
   },
   {
     "id": "525",
@@ -2117,7 +2117,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TORRY JASPERS. 1510 E PHILLIPS AVE LITTLETON CO 80122 SS 930,SM 1045,SN 6,W 7 KIDS FOR TRUTH,TEEN, ADULT BIBLE FELLOWSHIP NOT KJV ONLY,FBF 833 15TH AVE LONGMONT CO 80501 SS 9,SM 10,SN 6,W 7 KJB church."
+    "description": "LITTLETON CO 80122 SS 930,SM 1045,SN 6,W 7 KIDS FOR TRUTH,TEEN, ADULT BIBLE FELLOWSHIP NOT KJV ONLY,FBF 833 15TH AVE LONGMONT CO 80501 SS 9,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "526",
@@ -2135,7 +2135,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ARNOLD. MP3 AUDIO SERMONS ONLINE, PROPHETS CHAMBER NOT KJV ONLY KJB church."
+    "description": "MP3 AUDIO SERMONS ONLINE, PROPHETS CHAMBER NOT KJV ONLY KJB church"
   },
   {
     "id": "527",
@@ -2154,7 +2154,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by ALLAN D VANDENBOS. 8350 POMONA DR ARVADA CO 80005 AWANA,CHOIR,TEEN SS 945,SM 1045,SN 630,W 7 NOT KJV ONLY,GARBC 15559 WELD COUNTY RT 2 BRIGHTON CO 80601 SM 930,SN 6,W 7 LOWRY AFB, BUCKLEY AFB PREACH-KJV, NOT KJV ONLY KJB church."
+    "description": "ARVADA CO 80005 AWANA,CHOIR,TEEN SS 945,SM 1045,SN 630,W 7 NOT KJV ONLY,GARBC 15559 WELD COUNTY RT 2 BRIGHTON CO 80601 SM 930,SN 6,W 7 LOWRY AFB, BUCKLEY AFB PREACH-KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "528",
@@ -2173,7 +2173,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by HAROLD MARCILLOTT. 863 A ST DELTA CO 81416 SS 945,SM 11,SN 630,W 7 NOT KJV ONLY,IBFI,NTAIBC KJB church."
+    "description": "DELTA CO 81416 SS 945,SM 11,SN 630,W 7 NOT KJV ONLY,IBFI,NTAIBC KJB church"
   },
   {
     "id": "529",
@@ -2191,7 +2191,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by E W DAVIS. 5660 COAL MINE RD LITTLETON CO 80123 DENVER AREA SS 9,SM 10,SN 6,W 7 S.GRACE-TULIP"
+    "description": "LITTLETON CO 80123 DENVER AREA SS 9,SM 10,SN 6,W 7 S.GRACE-TULIP"
   },
   {
     "id": "530",
@@ -2209,7 +2209,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JIM EFAW. PO BOX 74 310 N 19TH ST CANON CITY CO 81215 NASV,BJU"
+    "description": "PO BOX 74 CANON CITY CO 81215 NASV,BJU"
   },
   {
     "id": "531",
@@ -2227,7 +2227,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "BMA"
     ],
-    "description": "2600 WADSWORTH BLVD DENVER CO 80215 WHEATRIDGE SS 9,SM 1015,SN 6,W 7 BMA church."
+    "description": "DENVER CO 80215 WHEATRIDGE SS 9,SM 1015,SN 6,W 7 BMA church"
   },
   {
     "id": "532",
@@ -2245,7 +2245,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC J ELLIS. EDEN MANOR APTS (OWNERS) NOT KJV ONLY,GARBC KJB church."
+    "description": "EDEN MANOR APTS (OWNERS) NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "533",
@@ -2265,7 +2265,7 @@ export const coloradoChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by MONTY MAPLE. 5475 S BOULDER RD BOULDER CO 80303 SM 10,SN 6,W 7 NLT NKJV NIV, BBF KJB church."
+    "description": "BOULDER CO 80303 SM 10,SN 6,W 7 NLT NKJV NIV, BBF KJB church"
   },
   {
     "id": "534",
@@ -2285,7 +2285,7 @@ export const coloradoChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JEFF GERBERS. 3030 THATCHER AVE PUEBLO CO 81005 SS 930,SM 1040,W 7 MP3 AUDIO SERMONS ONLINE, AWANA NOT KJV ONLY, NORTHLAND PO BOX 83 172 N 7TH ST NEW CASTLE CO 81647 SS 9,SM 8 & 10 NOT KJV ONLY,BBF 2890 N TOWNSEND  KJB church."
+    "description": "PUEBLO CO 81005 SS 930,SM 1040,W 7 MP3 AUDIO SERMONS ONLINE, AWANA NOT KJV ONLY, NORTHLAND PO BOX 83 172 N 7TH ST NEW CASTLE CO 81647 SS 9,SM 8 & 10 NOT KJV ONLY,BBF 2890 N TOWNSEND KJB church"
   },
   {
     "id": "535",
@@ -2303,7 +2303,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 26268 875 S SHERIDAN BLVD LAKEWOOD CO 80226"
+    "description": "PO BOX 26268 LAKEWOOD CO 80226"
   },
   {
     "id": "536",
@@ -2322,7 +2322,7 @@ export const coloradoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DOUGLASS COX. NOT KJV ONLY,BBF KJB church."
+    "description": "NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "537",
@@ -2342,7 +2342,7 @@ export const coloradoChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by CECIL V BURHENN. BOX 8147 4235 PARKHILL PL PUEBLO CO 81008 AUDIO SERMONS ONLINE PARKHILL ACADEMY NOT KJV ONLY,TTU,BBF PO BOX 478 316 COLORADO ST WALSH CO 81090 SS 945,SM 1055,SN 2,W 730 GARBC, NKJV,STUDIES AND ALSO RE KJB church."
+    "description": "BOX 8147 PUEBLO CO 81008 AUDIO SERMONS ONLINE PARKHILL ACADEMY NOT KJV ONLY,TTU,BBF PO BOX 478 316 COLORADO ST WALSH CO 81090 SS 945,SM 1055,SN 2,W 730 GARBC, NKJV,STUDIES AND ALSO RE KJB church"
   },
   {
     "id": "538",
@@ -2360,7 +2360,7 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN ACKER. NORTHGLENN CO 80233 NOT KJV ONLY,BJU,NTABC 875 E 3RD ST AKRON CO 80720 NOT KJV ONLY KJB church."
+    "description": "NORTHGLENN CO 80233 NOT KJV ONLY,BJU,NTABC AKRON CO 80720 NOT KJV ONLY KJB church"
   },
   {
     "id": "539",
@@ -2378,6 +2378,6 @@ export const coloradoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "7493 OLD MILL TRAIL BOULDER CO 80301 SS 930,SM TRAD 830-CONT 1045,"
+    "description": "7493 OLD MILL TRAIL BOULDER CO 80301 SS 930,SM TRAD 830-CONT 1045"
   }
 ];

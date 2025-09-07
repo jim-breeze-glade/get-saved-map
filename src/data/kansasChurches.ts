@@ -17,7 +17,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN JULIUS. 220 S COLORADO ST ULYSSES KS 67880 KJB church."
+    "description": "ULYSSES KS 67880 KJB church"
   },
   {
     "id": "1684",
@@ -36,7 +36,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ALAN KALGREN. 613 S MERIDIAN RD NEWTON KS 67114 SS 945,SM 1045,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "NEWTON KS 67114 SS 945,SM 1045,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1685",
@@ -55,7 +55,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DANIEL LINEBERRY. PO BOX 126 200 W MIAMI ST EDNA KS 67342 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE, SOULWINNING, PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 126 EDNA KS 67342 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE, SOULWINNING, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1686",
@@ -74,7 +74,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RUSTY HAMMER. 820 LOCUST ST LA CROSSE KS 67548 SS 945,SM 11, SN 630, TUES 7 KJB, UNAFFILIATED"
+    "description": "LA CROSSE KS 67548 SS 945,SM 11, SN 630, TUES 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1687",
@@ -93,7 +93,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN MEYER. 2971 CR 5400 INDEPENDENCE KS 67301 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "2971 CR 5400 INDEPENDENCE KS 67301 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1688",
@@ -112,7 +112,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GEORGE SHOVE. 730 E 2ND ST COLBY KS 67701 SS 930, SM 1030, SN 6, W 7 KJB church."
+    "description": "COLBY KS 67701 SS 930, SM 1030, SN 6, W 7 KJB church"
   },
   {
     "id": "1689",
@@ -130,7 +130,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN A BRITTON. 605 KENNEDY ST BURLINGTON KS 66839 SM 1030,SN 6,W 6 KJB church."
+    "description": "BURLINGTON KS 66839 SM 1030,SN 6,W 6 KJB church"
   },
   {
     "id": "1690",
@@ -148,7 +148,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY ELLARD. 14704 E HARRY ST WICHITA KS 67230 MCCONNELL AFB KJB church."
+    "description": "WICHITA KS 67230 MCCONNELL AFB KJB church"
   },
   {
     "id": "1691",
@@ -167,7 +167,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM LEWALLEN. 301 S BUTLER ST ERIE KS 66733-1453 PROPHETS CHAMBER KJB,UNAFFILIATED"
+    "description": "ERIE KS 66733-1453 PROPHETS CHAMBER KJB,UNAFFILIATED"
   },
   {
     "id": "1692",
@@ -185,7 +185,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 395 212 E MAIN ST OSAWATOMIE KS 66064"
+    "description": "PO BOX 395 OSAWATOMIE KS 66064"
   },
   {
     "id": "1693",
@@ -204,7 +204,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ALLEN MOORS. SS 10,SM 11,SN 630,W 7 BUS, CHILDREN, TEEN, ADULT CLASSES,SOULWINNING KJB church."
+    "description": "SS 10,SM 11,SN 630,W 7 BUS, CHILDREN, TEEN, ADULT CLASSES,SOULWINNING KJB church"
   },
   {
     "id": "1694",
@@ -223,7 +223,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIM TALBERT. PO BOX 127 922 ROOSEVELT ST SABETHA KS 66534 SS 10,SM 11,SN 6, W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 127 SABETHA KS 66534 SS 10,SM 11,SN 6, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1695",
@@ -242,7 +242,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JONATHAN SCHALE. 1491 N MAIN ST MCPHERSON KS 67460 SS 930,SM 1030,SN 6,W 630 BUS, PATCH THE PIRATE,SOULWINNING, CHILDRENS KJB church."
+    "description": "MCPHERSON KS 67460 SS 930,SM 1030,SN 6,W 630 BUS, PATCH THE PIRATE,SOULWINNING, CHILDRENS KJB church"
   },
   {
     "id": "1696",
@@ -260,7 +260,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY W STOUT. 112 N 5TH ST LINCOLN KS 67455 SS 1030,SM 1120,SN 6,W 7 KJB, HEARTLAND, GIBF"
+    "description": "LINCOLN KS 67455 SS 1030,SM 1120,SN 6,W 7 KJB, HEARTLAND, GIBF"
   },
   {
     "id": "1697",
@@ -280,7 +280,7 @@ export const kansasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RYAN JOHNSON. 600 W PRESCOTT AVE SALINA KS 67401 SM 10, SN 6, W 7 KJB,UNAFFILIATED 1302 WEST ST (HIGHWAY 24) TONGANOXIE KS 66086 SS 945,SM 11,SN 7,W 7 CHILDRENS, SENIORS, SOULWINNING, CONSERVATIVE MUSIC"
+    "description": "SALINA KS 67401 SM 10, SN 6, W 7 KJB,UNAFFILIATED 1302 WEST ST (HIGHWAY 24) TONGANOXIE KS 66086 SS 945,SM 11,SN 7,W 7 CHILDRENS, SENIORS, SOULWINNING, CONSERVATIVE MUSIC"
   },
   {
     "id": "1698",
@@ -298,7 +298,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA TURK. 330 N OLATHE VIEW RD OLATHE KS 66061 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFLIATED"
+    "description": "OLATHE KS 66061 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFLIATED"
   },
   {
     "id": "1699",
@@ -316,7 +316,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN KISSELL. 35800 W 102 ST DESOTO KS 66018 SS 945,SM 1035,W 7 KJB, HEARTLAND-BBC 10458 W HWY 54 PRATT KS 67124 SS 945,SM 1045,SN 6,W 7"
+    "description": "DESOTO KS 66018 SS 945,SM 1035,W 7 KJB, HEARTLAND-BBC 10458 W HWY 54 PRATT KS 67124 SS 945,SM 1045,SN 6,W 7"
   },
   {
     "id": "1700",
@@ -335,7 +335,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BILL RUDD. BUS,JR. CHURCH, SOULWINNING, PROPHETS CHAMBER KJB church."
+    "description": "BUS,JR. CHURCH, SOULWINNING, PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1701",
@@ -353,7 +353,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by E J WATSON. 315 S MAIN ST HILLSBORO KS 67063 SS 930, SM 10:30, SN 6, W 7 15285 S 169 HWY OLATHE KS 66062 SS 945,SM 11,SN 6,W 745 BUS; FAITH BAPTIST SCHOOL,ACE,PS-12 122 W 18TH ST JUNCTION CITY KS 66441 SS 930,SM  KJB church."
+    "description": "HILLSBORO KS 67063 SS 930, SM 10:30, SN 6, W 7 15285 S 169 HWY OLATHE KS 66062 SS 945,SM 11,SN 6,W 745 BUS; FAITH BAPTIST SCHOOL,ACE,PS-12 122 W 18TH ST JUNCTION CITY KS 66441 SS 930,SM KJB church"
   },
   {
     "id": "1702",
@@ -371,7 +371,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE DAY. 101 D ST WASHINGTON KS 66968 SS 930,SM 1030,SN 6, W 7 AUDIO SERMONS & MUSIC KJB church."
+    "description": "WASHINGTON KS 66968 SS 930,SM 1030,SN 6, W 7 AUDIO SERMONS & MUSIC KJB church"
   },
   {
     "id": "1703",
@@ -389,7 +389,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2209 E PAWNEE ST WICHITA KS 67211 SS 10,SM 11,SN 6,W 7"
+    "description": "WICHITA KS 67211 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1704",
@@ -409,7 +409,7 @@ export const kansasChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by ADAM DUNSHEE. PO BOX 230 900 N GUFFEY ST MEDICINE LODGE KS 67104 SS 945, SM 11, SN 6, W 7 BUS, SOULWINNING KJB,HERITATE-BC"
+    "description": "PO BOX 230 MEDICINE LODGE KS 67104 SS 945, SM 11, SN 6, W 7 BUS, SOULWINNING KJB,HERITATE-BC"
   },
   {
     "id": "1705",
@@ -427,7 +427,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 100 6400 N HYDRAULIC ST WICHITA KS 67067"
+    "description": "PO BOX 100 WICHITA KS 67067"
   },
   {
     "id": "1706",
@@ -445,7 +445,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON MORTON. PO BOX 209 1810 S ARCHER CONCORDIA KS 66901 SS 10,SM 11,SN 2,W 7 VIDEO SERMONS KJB church."
+    "description": "PO BOX 209 1810 S ARCHER CONCORDIA KS 66901 SS 10,SM 11,SN 2,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "1707",
@@ -463,7 +463,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES BERRY. PO BOX 52 325 ADAMS ST FREDONIA KS 66736 SS 10,SM 11,SN 6,W 7 BUS, PATCH PIRATE, TEENS KJB church."
+    "description": "PO BOX 52 FREDONIA KS 66736 SS 10,SM 11,SN 6,W 7 BUS, PATCH PIRATE, TEENS KJB church"
   },
   {
     "id": "1708",
@@ -481,7 +481,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT TURNER. 2478 N COLORADO ST ULYSSES KS 67880 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "ULYSSES KS 67880 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1709",
@@ -499,7 +499,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN NELSON. 2322 N LAURENT ST TOPEKA KS 66616 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS, FAITH BIBLE INSTITUTE KJB, HBBC"
+    "description": "TOPEKA KS 66616 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS, FAITH BIBLE INSTITUTE KJB, HBBC"
   },
   {
     "id": "1710",
@@ -517,12 +517,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY L PAINE. 717 CENTROPOLIS AVE CENTROPOLIS KS 66067 PATCH PIRATE KJB church."
+    "description": "CENTROPOLIS KS 66067 PATCH PIRATE KJB church"
   },
   {
     "id": "1711",
     "name": "PRAIRIE BAND BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 156",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -536,7 +536,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by SANDY D SEABA. PO BOX 156 128 E MAIN MAYETTA KS 66509 Missionaries to the American Indians - Prairie Band Potawatomi Nation KJB church."
+    "description": "128 E MAIN MAYETTA KS 66509 Missionaries to the American Indians - Prairie Band Potawatomi Nation KJB church"
   },
   {
     "id": "1712",
@@ -555,7 +555,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIMMY STANBERRY. 15774 LINWOOD RD BONNER SPRINGS KS 66012 AWANA, PROPHETS CHAMBER KJB, UNAFFILIATED"
+    "description": "BONNER SPRINGS KS 66012 AWANA, PROPHETS CHAMBER KJB, UNAFFILIATED"
   },
   {
     "id": "1713",
@@ -574,7 +574,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ED THOMPSON. 1007 EVANS ST ELLSWORTH KS 67439 SS 945, SM 1045, W 6 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "ELLSWORTH KS 67439 SS 945, SM 1045, W 6 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "1714",
@@ -592,7 +592,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRYAN SHAFFER. 8820 W 49TH ST MERRIAM KS 66203 KJB,WEST COAST-BC"
+    "description": "MERRIAM KS 66203 KJB,WEST COAST-BC"
   },
   {
     "id": "1715",
@@ -612,7 +612,7 @@ export const kansasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MARK E MCREYNOLDS. 503 S 18TH ST LEAVENWORTH KS 66048 SS 10,SM 11,SN 6,W 7 FT LEAVENWORTH, 5 MINS; AUDIO SERMONS JUNCTION OF 3075 US 24 & KS 9 BELOIT KS 67420 MISION BAUTISTA LA GRAN COMISION KJB = REINA VALERA EN ESPA–"
+    "description": "LEAVENWORTH KS 66048 SS 10,SM 11,SN 6,W 7 FT LEAVENWORTH, 5 MINS; AUDIO SERMONS JUNCTION OF 3075 US 24 & KS 9 BELOIT KS 67420 MISION BAUTISTA LA GRAN COMISION KJB = REINA VALERA EN ESPA–"
   },
   {
     "id": "1716",
@@ -630,7 +630,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENTON CONNER. 1397 155TH ST FORT SCOTT KS 66701 SS 930,SM 1030,SN 6,W 630 BUS, TRUTHQUEST, TAPE, SENIORS, COLLEGE CAREER, TEENS, MEN’S, AUDIO SERMONS; BETHEL INSTITUTE OF THE BIBLE; 6 miles W of FORT SCOTT PO BOX 1 KJB church."
+    "description": "FORT SCOTT KS 66701 SS 930,SM 1030,SN 6,W 630 BUS, TRUTHQUEST, TAPE, SENIORS, COLLEGE CAREER, TEENS, MEN’S, AUDIO SERMONS; BETHEL INSTITUTE OF THE BIBLE; 6 miles W of FORT SCOTT PO BOX 1 KJB church"
   },
   {
     "id": "1717",
@@ -648,7 +648,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROCKY RANDALL. 1813 SW 29TH ST TOPEKA KS 66611 SS 10,SM 11,SN 6,W 7 CHRISTIAN SCHOOL,K-12; AUDIO SERMONS KJB,HEARTLAND-BC"
+    "description": "TOPEKA KS 66611 SS 10,SM 11,SN 6,W 7 CHRISTIAN SCHOOL,K-12; AUDIO SERMONS KJB,HEARTLAND-BC"
   },
   {
     "id": "1718",
@@ -667,7 +667,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by GARY CARTY. 426 N 2ND ST IOLA KS 66749 SS 930,SM 1050,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "IOLA KS 66749 SS 930,SM 1050,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1719",
@@ -685,12 +685,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE BUCKAMNEER. 1230 N HOOVER RD (CHURCH BURNED AT THIS ADD 2015) WICHITA KS 67212 SS 945,SM 11,SN 6,W 645 KJB, CROWN-BC, WEST COAST-BC, HBBC"
+    "description": "WICHITA KS 67212 SS 945,SM 11,SN 6,W 645 KJB, CROWN-BC, WEST COAST-BC, HBBC"
   },
   {
     "id": "1720",
     "name": "CROSSROAD BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 134",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -704,7 +704,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM LANDRUM. PO BOX 134 701 S HWY 7 GIRARD KS 66743 SS 10,SM 11,SN 630,W 7 TEXT SERMONS, FAITH BIBLE INSTITUTE KJB,BBF,IBFI PO BOX 506 14TH & LAUREL PLEASANTON KS 66075 KJB,BBF,WBF,BIMI"
+    "description": "701 S HWY KS 66743 SS 10,SM 11,SN 630,W 7 TEXT SERMONS, FAITH BIBLE INSTITUTE KJB,BBF,IBFI PO BOX 506 14TH & LAUREL PLEASANTON KS 66075 KJB,BBF,WBF,BIMI"
   },
   {
     "id": "1721",
@@ -723,7 +723,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHAD LEMASTER. PO BOX 2802 4815 E 4TH ST HUTCHINSON KS 67504-2802 SS 930,SM 1030,SN 6, W 7 SUNDAY SCHOOL, WISEGUYS BIBLE CLUB, ADULT BIBLE STUDY, NURSERY, KJB, BBFI, HBBC"
+    "description": "PO BOX 2802 HUTCHINSON KS 67504-2802 SS 930,SM 1030,SN 6, W 7 SUNDAY SCHOOL, WISEGUYS BIBLE CLUB, ADULT BIBLE STUDY, NURSERY, KJB, BBFI, HBBC"
   },
   {
     "id": "1722",
@@ -742,7 +742,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CON R HOWERTON. 705 S WESTGATE RD GARNETT KS 66032 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS, CHILDREN'S, LADIES, SENIORS KJB, UNAFFILIATED 1826 W MAPLE ST WICHITA KS 67213 SS 10,SM 11,SN 6,W 7 330 HUFFAKER COUNCIL GROVE"
+    "description": "GARNETT KS 66032 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS, CHILDREN'S, LADIES, SENIORS KJB, UNAFFILIATED 1826 W MAPLE ST WICHITA KS 67213 SS 10,SM 11,SN 6,W 7 330 HUFFAKER COUNCIL GROVE"
   },
   {
     "id": "1723",
@@ -779,7 +779,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHAD FARBER. KJB,UNAFFILIATED"
+    "description": "KJB,UNAFFILIATED"
   },
   {
     "id": "1725",
@@ -798,7 +798,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KIRK LEWIS. 2026 STARLIGHT DRIVE SALINA KS 67401 SS 10,SM 11,SN 6,W 7 KJB, BBF"
+    "description": "SALINA KS 67401 SS 10,SM 11,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "1726",
@@ -817,12 +817,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DARRELL SPICER. 10328 WELLMAN RD MCLOUTH KS 66054 KJB,UNAFFILIATED"
+    "description": "MCLOUTH KS 66054 KJB,UNAFFILIATED"
   },
   {
     "id": "1727",
     "name": "HOWARD INDEPENDENT BAPTIST CHURCH",
-    "address": "304 N PINE ST",
+    "address": "304 N PINE ST HOWARD",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -836,12 +836,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL KNIGHT. PO BOX 1035 304 N PINE ST HOWARD KS 67349 SUN DEVOTIONS 930,SS 10,SM 1045,SN 6,W 7 701 W 4TH ST COFFEYVILLE KS 67337 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "PO BOX 1035 KS 67349 SUN DEVOTIONS 930,SS 10,SM 1045,SN 6,W 7 701 W 4TH ST COFFEYVILLE KS 67337 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "1728",
     "name": "HARVEST BAPTIST CHURCH",
-    "address": "2615 FARM BUREAU RD",
+    "address": "66502 MEETING INSIDE THE MIDTOWN PL",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -855,7 +855,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JUAN VALLADARES. 2615 FARM BUREAU RD MANHATTAN KS 66502 MEETING INSIDE THE MIDTOWN PLAZA SS 930,SM 1030,SN 6,W 7 KIDS CLUB, CHOIR; FORT RILEY KJB=Spanish Reina Valera"
+    "description": "MANHATTAN KS AZA SS 930,SM 1030,SN 6,W 7 KIDS CLUB, CHOIR; FORT RILEY KJB=Spanish Reina Valera"
   },
   {
     "id": "1729",
@@ -874,7 +874,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEN E GRAY. 104 S 2ND AVE DODGE CITY KS 67801 SS 10,SM 11,SN 6,W 6 SOULWINNING KJB church."
+    "description": "DODGE CITY KS 67801 SS 10,SM 11,SN 6,W 6 SOULWINNING KJB church"
   },
   {
     "id": "1730",
@@ -893,7 +893,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES FRYER. PO BOX 642 5962 S 4TH ST GREAT BEND KS 67530 SS 10,SM 11,SN 6,W 7 BUS, YOUTH, SUNDAY SCHOOL CLASS FOR ALL AGES KJB, BBFI, OBC"
+    "description": "PO BOX 642 GREAT BEND KS 67530 SS 10,SM 11,SN 6,W 7 BUS, YOUTH, SUNDAY SCHOOL CLASS FOR ALL AGES KJB, BBFI, OBC"
   },
   {
     "id": "1731",
@@ -913,7 +913,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ELDON R SCHULER. 2202 N MICHIGAN ST PITTSBURG KS 66762 SS 10,SM 11,SN 6,W 7 KJB,BBF"
+    "description": "PITTSBURG KS 66762 SS 10,SM 11,SN 6,W 7 KJB,BBF"
   },
   {
     "id": "1732",
@@ -932,7 +932,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BILL MUNSON. PO BOX 334 606 UNION ST OSKALOOSA KS 66066 SS 930,SM 1030,SN 630,W 630 KJB,UNAFFILIATED"
+    "description": "PO BOX 334 OSKALOOSA KS 66066 SS 930,SM 1030,SN 630,W 630 KJB,UNAFFILIATED"
   },
   {
     "id": "1733",
@@ -950,7 +950,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY SMITH. 1400 9TH ST INDEPENDENCE KS 67301 SS 945,SM 1045,SN 6,W 7 KJB,OBC"
+    "description": "INDEPENDENCE KS 67301 SS 945,SM 1045,SN 6,W 7 KJB,OBC"
   },
   {
     "id": "1734",
@@ -968,12 +968,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH BAKER. 648 HWY 65 XENIA KS 66716 SS 10,SM 11,SN 630,W 7 KJB,HYLES"
+    "description": "648 HWY 65 XENIA KS 66716 SS 10,SM 11,SN 630,W 7 KJB,HYLES"
   },
   {
     "id": "1735",
     "name": "FIRST CITY BAPTIST CHURCH",
-    "address": "1130 SPRUCE ST",
+    "address": "1130 SPRUCE ST LEAVE",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -986,7 +986,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES SCOTT. 1130 SPRUCE ST LEAVENWORTH KS 66048-2332 KJB,HYLES"
+    "description": "NWORTH KS 66048-2332 KJB,HYLES"
   },
   {
     "id": "1736",
@@ -1005,7 +1005,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIMMY MCCULLOUGH. PO BOX 2106 315 S COMMERCIAL ST EMPORIA KS 66801 KJB,BBF"
+    "description": "PO BOX 2106 EMPORIA KS 66801 KJB,BBF"
   },
   {
     "id": "1737",
@@ -1024,7 +1024,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JASON REEVES. PO BOX 911 2440 N SUMMIT ST ARKANSAS CITY KS 67005 SS 10,SM 11,SN 630,W 730 SOULWINNING; HILLCREST BIBLE BAPTIST ACADEMY,K4-12 KJB, HBBC"
+    "description": "PO BOX 911 ARKANSAS CITY KS 67005 SS 10,SM 11,SN 630,W 730 SOULWINNING; HILLCREST BIBLE BAPTIST ACADEMY,K4-12 KJB, HBBC"
   },
   {
     "id": "1738",
@@ -1045,7 +1045,7 @@ export const kansasChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by ALBERT SHROCK. 1409 N WOODLAWN B100 DERBY KS 67037 SS 10,SM 11,SN 6,W 7 OLD FASHIONED, FUNDAMENTAL, SOULWINNING, CHILDREN,  ADULTS, TEEN, CHOIR; MCCONNEL AFB,5 MILES KJB, UNAFFILIATED 1411 CENTRAL AVE DODGE CITY KS"
+    "description": "1409 N WOODLAWN B100 DERBY KS 67037 SS 10,SM 11,SN 6,W 7 OLD FASHIONED, FUNDAMENTAL, SOULWINNING, CHILDREN, ADULTS, TEEN, CHOIR; MCCONNEL AFB,5 MILES KJB, UNAFFILIATED DODGE CITY KS"
   },
   {
     "id": "1739",
@@ -1063,7 +1063,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID W PHILLIPS. PO BOX 393 217 W WALNUT LIBERAL KS 67901 SS 945, SM 1045, SN 630, W 7 BUS, ADULT, CHILDREN, YOUTH, SPANISH, DEAF, RADIO, TAPES; FELLOWSHIP BAPTIST SCHOOL, K-12, ACE; PDF TEXT SERMONS ONLINE KJB, HBBC"
+    "description": "PO BOX 393 LIBERAL KS 67901 SS 945, SM 1045, SN 630, W 7 BUS, ADULT, CHILDREN, YOUTH, SPANISH, DEAF, RADIO, TAPES; FELLOWSHIP BAPTIST SCHOOL, K-12, ACE; PDF TEXT SERMONS ONLINE KJB, HBBC"
   },
   {
     "id": "1740",
@@ -1081,7 +1081,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK THOMAS. 1758 S WEBB RD WICHITA KS 67207 SS 945,SM 1045,SN 6,W 7 MCCONNELL AFB PO BOX 116 818 MAIN ALTOONA KS 66710 SS 10,SM 11,SN 630,W 630 KJB church."
+    "description": "WICHITA KS 67207 SS 945,SM 1045,SN 6,W 7 MCCONNELL AFB PO BOX 116 818 MAIN ALTOONA KS 66710 SS 10,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "1741",
@@ -1099,7 +1099,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT HANKS. 2801 E RAY SALINA KS 67401 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "2801 E RAY SALINA KS 67401 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1742",
@@ -1119,7 +1119,7 @@ export const kansasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by NATHAN JELLINGS. 1781 E 800 RD LAWRENCE KS 66049 SS 930, SM 1030, SN 6, W 7 SOULWINNING, CHRISTIAN COLLEGE, FUNDAMENTAL, PRINTING KJB church."
+    "description": "LAWRENCE KS 66049 SS 930, SM 1030, SN 6, W 7 SOULWINNING, CHRISTIAN COLLEGE, FUNDAMENTAL, PRINTING KJB church"
   },
   {
     "id": "1743",
@@ -1137,7 +1137,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "RR 2 BOX 213 3795 52ND RD UDALL KS 67146"
+    "description": "RR 2 BOX 213 UDALL KS 67146"
   },
   {
     "id": "1744",
@@ -1155,7 +1155,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD PRITCHETT. MCCONNELL AFB KJB church."
+    "description": "MCCONNELL AFB KJB church"
   },
   {
     "id": "1745",
@@ -1175,7 +1175,7 @@ export const kansasChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by BOB FRANKLIN. 107 W 9TH ST ELLIS KS 67637 KJB, UNAFFILIATED PO BOX 181 160 & BOTKIN ATTICA KS 67009 SS 10,SM 11,SN 6,W 7 KINGS KIDS; MCCONNELL AFB-WICHITA"
+    "description": "ELLIS KS 67637 KJB, UNAFFILIATED PO BOX 181 160 & BOTKIN ATTICA KS 67009 SS 10,SM 11,SN 6,W 7 KINGS KIDS; MCCONNELL AFB-WICHITA"
   },
   {
     "id": "1746",
@@ -1194,7 +1194,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSEPH MARTIN. PO BOX 353 301 PEARL ST ATWOOD KS 67730 SS 945,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 353 ATWOOD KS 67730 SS 945,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1747",
@@ -1215,7 +1215,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by AARON HARRIS. PO BOX 294 3714 N 155TH ST BASEHOR KS 66007 SS 10,SM 1 THEN LUNCH,SN 6,W 6 SOULWINNING, DISCIPLESHIP; FT LEAVENWORTH 15 MILES KJB, FUNDAMENTAL 405 W 8TH ST JUNCTION CITY KS 66441 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 294 BASEHOR KS 66007 SS 10,SM 1 THEN LUNCH,SN 6,W 6 SOULWINNING, DISCIPLESHIP; FT LEAVENWORTH 15 MILES KJB, FUNDAMENTAL 405 W 8TH ST JUNCTION CITY KS 66441 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1748",
@@ -1233,7 +1233,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID SHELBY. KJB, UNAFFLIATED 115 S 4TH IOLA KS 66749"
+    "description": "KJB, UNAFFLIATED 115 S 4TH IOLA KS 66749"
   },
   {
     "id": "1749",
@@ -1251,7 +1251,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH PETERS. SS 10,SM 830 & 11,SN 4 YOUTH, TEENS KJB, ARLINGTON-BC, WBF"
+    "description": "SS 10,SM 830 & 11,SN 4 YOUTH, TEENS KJB, ARLINGTON-BC, WBF"
   },
   {
     "id": "1750",
@@ -1270,7 +1270,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN MEYER. PO BOX 350 1502 N MAIN ST CHENEY KS 67025 SS 930,SM 1030,SN 5,W 7 AUDIO SERMONS, MCCONNELL AFB KJB, UNAFFILIATED"
+    "description": "PO BOX 350 CHENEY KS 67025 SS 930,SM 1030,SN 5,W 7 AUDIO SERMONS, MCCONNELL AFB KJB, UNAFFILIATED"
   },
   {
     "id": "1751",
@@ -1289,12 +1289,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DENNIS ULREY. 1000 VALLEY AVE HOXIE KS 67740 SM 2,TH 6 KJB,(LOOSE ASSOCIATION-BBF)"
+    "description": "HOXIE KS 67740 SM 2,TH 6 KJB,(LOOSE ASSOCIATION-BBF)"
   },
   {
     "id": "1752",
     "name": "MANHATTAN BAPTIST CHURCH",
-    "address": "510 TUTTLE ST",
+    "address": "5641 OUTLOOK RD",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -1308,7 +1308,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LARRY SCUPHAM. 510 TUTTLE ST MANHATTAN KS 66502 FORT RILEY ARMY KJB,HEARTLAND-BBC 5641 OUTLOOK RD MISSION KS 66202 SS 930,SM 1030,SN 6,W 7 DISCOVERY CLUB [AGES K-6TH GRADE]; TEEN KJB,HYLES 15075 W 143RD OLATHE KS 66"
+    "description": "MANHATTAN KS 66502 FORT RILEY ARMY KJB,HEARTLAND-BBC MISSION KS 66202 SS 930,SM 1030,SN 6,W 7 DISCOVERY CLUB [AGES K-6TH GRADE]; TEEN KJB,HYLES 15075 W 143RD OLATHE KS 66"
   },
   {
     "id": "1753",
@@ -1326,7 +1326,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "611 JOSEPHINE WAKEENEY KS 67672 300 S 6TH ST SS 830,SM 930"
+    "description": "611 JOSEPHINE WAKEENEY KS 67672 SS 830,SM 930"
   },
   {
     "id": "1754",
@@ -1344,7 +1344,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN SWOPE. KJB,HBBC"
+    "description": "KJB,HBBC"
   },
   {
     "id": "1755",
@@ -1363,7 +1363,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by DON ALEXANDER. 3600 W 2ND ST WICHITA KS 67203 SS 10,SM 11,SD 5,SN 6,W 7 PATCH PIRATE KJB, BMA"
+    "description": "WICHITA KS 67203 SS 10,SM 11,SD 5,SN 6,W 7 PATCH PIRATE KJB, BMA"
   },
   {
     "id": "1756",
@@ -1382,7 +1382,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVEN L METSINGER. 1406 S ROUSE ST PITTSBURG KS 66762 1305 N GRAND ST (PASTOR) KJB, FUNDAMENTAL, OLD FASHIONED, HBBC"
+    "description": "PITTSBURG KS 66762 1305 N GRAND ST (PASTOR) KJB, FUNDAMENTAL, OLD FASHIONED, HBBC"
   },
   {
     "id": "1757",
@@ -1402,7 +1402,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by LARRY B OLSON. 21533 MIDLAND DR SHAWNEE KS 66218 SS 930, SM 1030, SN 6, W 7 KJB, BBF 13500 W 13TH ST N WICHITA KS 67235 SS 945,SM 1045,SN 6,W 7 TEENS,CHOIR KJV,BBF"
+    "description": "SHAWNEE KS 66218 SS 930, SM 1030, SN 6, W 7 KJB, BBF 13500 W 13TH ST N WICHITA KS 67235 SS 945,SM 1045,SN 6,W 7 TEENS,CHOIR KJV,BBF"
   },
   {
     "id": "1758",
@@ -1420,7 +1420,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FLIPO. PO BOX 448 1028 E 16TH AVE HUTCHINSON KS 67504 120 W 1ST ERIE KS 66733 KJB church."
+    "description": "PO BOX 448 HUTCHINSON KS 67504 120 W 1ST ERIE KS 66733 KJB church"
   },
   {
     "id": "1759",
@@ -1439,12 +1439,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by THOMAS HAMILTON. SS 930,SM 1045,SN 6,W 7 KJV, IBFNA KJB church."
+    "description": "SS 930,SM 1045,SN 6,W 7 KJV, IBFNA KJB church"
   },
   {
     "id": "1760",
     "name": "STONY POINT BAPTIST CHURCH",
-    "address": "PRO TEENS",
+    "address": "20 MILES FORT LEAVE",
     "city": "JOY CLUB",
     "state": "KS",
     "zipCode": "",
@@ -1458,7 +1458,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREG RICKARD. 7938 BARNETT KANSAS CITY KS 66112 SS 945,SM 11,SN 6,W 7 PRO TEENS, JOY CLUB, AUDIO SERMONS; 20 MILES FORT LEAVENWORTH KJV, PCC 925 W SEVENTHTH ST OTTAWA KS 66067 SS 945,SM 1045,SN 6,W 7 KJB, UNAFFILIA"
+    "description": "7938 BARNETT KANSAS CITY KS 66112 SS 945,SM 11,SN 6,W 7 PRO TEENS, JOY CLUB, AUDIO SERMONS; NWORTH KJV, PCC 925 W SEVENTHTH ST OTTAWA KS 66067 SS 945,SM 1045,SN 6,W 7 KJB, UNAFFILIA"
   },
   {
     "id": "1761",
@@ -1476,7 +1476,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "7801 E LINCOLN WICHITA KS 67207 SS 10,SM 11,SN 6,W 7"
+    "description": "WICHITA KS 67207 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1762",
@@ -1494,7 +1494,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1763",
@@ -1512,12 +1512,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK CARTER. 202 MONROE BOX 115 ROLLA KS 67954 SS 945,SM 11,SN 6,W 7 615 CENTRAL ST HARPER KS 67505 KJB, HYLES"
+    "description": "202 MONROE BOX 115 ROLLA KS 67954 SS 945,SM 11,SN 6,W 7 HARPER KS 67505 KJB, HYLES"
   },
   {
     "id": "1764",
     "name": "AMAZING GRACE BAPTIST CHURCH",
-    "address": "24481 139TH ST",
+    "address": "66048 FORT LEAVE",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "24481",
@@ -1530,7 +1530,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH LAKE JR. 2330 S 9TH BOX 3131 KANSAS CITY KS 66103 RR 2 BOX 120 24481 139TH ST LEAVENWORTH KS 66048 FORT LEAVENWORTH ARMY KJB church."
+    "description": "2330 S 9TH BOX 3131 KANSAS CITY KS 66103 RR 2 BOX 120 24481 139TH ST LEAVENWORTH KS NWORTH ARMY KJB church"
   },
   {
     "id": "1765",
@@ -1548,12 +1548,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN M ALBER. 13439 NW 50TH ST ROSSVILLE KS 66533 KJB, GARBC"
+    "description": "ROSSVILLE KS 66533 KJB, GARBC"
   },
   {
     "id": "1766",
     "name": "WINIFRED BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 76",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -1566,7 +1566,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 76 WINIFRED KS 66427 SS 930,SM 1030,SN 6,W 7"
+    "description": "WINIFRED KS 66427 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1767",
@@ -1584,7 +1584,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN BOWLIN. 120 S DENMAN AVE CHANUTE KS 66720 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "CHANUTE KS 66720 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1768",
@@ -1603,12 +1603,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TRACY ROBY. KJV,BBF KJB church."
+    "description": "KJV,BBF KJB church"
   },
   {
     "id": "1769",
     "name": "OVERLAND PARK BAPTIST TEMPLE",
-    "address": "9900 ANTIOCH RD",
+    "address": "11648 ANTIOCH RD",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -1623,7 +1623,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by BILL ROBERTS. 9900 ANTIOCH RD OVERLAND PARK KS 66212 11648 ANTIOCH RD, SHAWNEE MISSION KS 66210 SS 945,SM 1045,SN 6,W 7 MASTERS CLUB, AUDIO SERMONS KJB,UNAFFILIATED PO BOX 698 7595 MAIN ST SYRACUSE KS 67878 SS 10,S"
+    "description": "OVERLAND PARK KS 66212 , SHAWNEE MISSION KS 66210 SS 945,SM 1045,SN 6,W 7 MASTERS CLUB, AUDIO SERMONS KJB,UNAFFILIATED PO BOX 698 7595 MAIN ST SYRACUSE KS 67878 SS 10,S"
   },
   {
     "id": "1770",
@@ -1641,7 +1641,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF QUIGLEY. 124 N 4TH ST IOLA KS 66749 KJB church."
+    "description": "IOLA KS 66749 KJB church"
   },
   {
     "id": "1771",
@@ -1659,12 +1659,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD BLANCHETTE JR. 780 N KANSAS LINDSBORG KS 67456 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB,HEARTLAND-BBC"
+    "description": "780 N KANSAS LINDSBORG KS 67456 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB,HEARTLAND-BBC"
   },
   {
     "id": "1772",
     "name": "HALSTEAD BAPTIST CHURCH",
-    "address": "525 HARVEY ST",
+    "address": "525 HARVEY ST HALST",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -1678,7 +1678,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PAUL G ROOKS. 525 HARVEY ST HALSTEAD KS 67056 SS 10,SM 11,SN 630,W 730 KJB, WBF, BBF"
+    "description": "EAD KS 67056 SS 10,SM 11,SN 630,W 730 KJB, WBF, BBF"
   },
   {
     "id": "1773",
@@ -1697,7 +1697,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JEFF MCASKILL. 502 S MARGRAVE ST FORT SCOTT KS 66701 SS 10,SM 11,SN 7,W 7 YOUTH, BEARING PRECIOUS SEED, KJB, BBFI"
+    "description": "FORT SCOTT KS 66701 SS 10,SM 11,SN 7,W 7 YOUTH, BEARING PRECIOUS SEED, KJB, BBFI"
   },
   {
     "id": "1774",
@@ -1716,7 +1716,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RODNEY A HOWELL. PO BOX 524 1304 MILLINGTON ST WINFIELD KS 67156 SS 945,SM 1045,SN 7,W 7 209 N 14TH PARSONS KS 67357 KJB,BBFI"
+    "description": "PO BOX 524 WINFIELD KS 67156 SS 945,SM 1045,SN 7,W 7 209 N 14TH PARSONS KS 67357 KJB,BBFI"
   },
   {
     "id": "1775",
@@ -1734,7 +1734,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS RAWLINSON. 316 E WYANDOTTE ST MERIDEN KS 66512 KJB church."
+    "description": "MERIDEN KS 66512 KJB church"
   },
   {
     "id": "1776",
@@ -1753,7 +1753,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LLOYD STEWART. 210 E WINDSOR RD ARKANSAS CITY KS 67005 SS 945,SM 11,SN 130,W 7 PO BOX 172 EUREKA KS 67045 120 E 11TH KJB,BBF"
+    "description": "ARKANSAS CITY KS 67005 SS 945,SM 11,SN 130,W 7 PO BOX 172 EUREKA KS 67045 120 E 11TH KJB,BBF"
   },
   {
     "id": "1777",
@@ -1773,7 +1773,7 @@ export const kansasChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by GARY L MYER. 114 EAST 8TH AVE HUTCHINSON KS 67501 SS 945,SM 1045,SN 6,W 7 BUS, SOULWINNING, JAIL, PRISON, SPANISH, AUDIO SERMONS; RIVERSIDE BAPTIST ACADEMY,K-12  ACE KJB, BBF"
+    "description": "HUTCHINSON KS 67501 SS 945,SM 1045,SN 6,W 7 BUS, SOULWINNING, JAIL, PRISON, SPANISH, AUDIO SERMONS; RIVERSIDE BAPTIST ACADEMY,K-12 ACE KJB, BBF"
   },
   {
     "id": "1778",
@@ -1792,7 +1792,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID NEWKIRK. 3201 W 31ST ST LAWRENCE KS 66047 SS 10,SM 11,SN 6,W 730 KJB, UNAFFILIATED, HBBC PO BOX 122 543 S BLUFF ANTHONY KS 67003 SS 10,SM 11,SN 6,W 7 YOUTH; 60 MILES FROM MCCONNELL AFB 116 E 5TH ST EUREKA KS 6"
+    "description": "LAWRENCE KS 66047 SS 10,SM 11,SN 6,W 730 KJB, UNAFFILIATED, HBBC PO BOX 122 543 S BLUFF ANTHONY KS 67003 SS 10,SM 11,SN 6,W 7 YOUTH; 60 MILES FROM MCCONNELL AFB 116 E 5TH ST EUREKA KS 6"
   },
   {
     "id": "1779",
@@ -1829,7 +1829,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN KELLUM. GOODLAND BIBLE INSTITUTE KJB, BBF,CROWN-BC"
+    "description": "GOODLAND BIBLE INSTITUTE KJB, BBF,CROWN-BC"
   },
   {
     "id": "1781",
@@ -1847,7 +1847,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK. PO BOX 205 3RD ST & WALNUT PRESCOTT KS 66767 PO BOX 98 910 OAK ST VALLEY FALLS KS 66088 CALVARY CHRISTIAN ACADEMY,PS-12,AACS 821 NEW YORK ST HOLTON KS 66436 SS 930,SM 1015,W 715 KJB church."
+    "description": "PO BOX 205 PRESCOTT KS 66767 PO BOX 98 910 OAK ST VALLEY FALLS KS 66088 CALVARY CHRISTIAN ACADEMY,PS-12,AACS 821 NEW YORK ST HOLTON KS 66436 SS 930,SM 1015,W 715 KJB church"
   },
   {
     "id": "1782",
@@ -1865,7 +1865,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ED RICHARDS. PO BOX 591 604 E CEDAR ST INDEPENDENCE KS 67301 PO BOX 826 120 N GRANT ST ELKHART KS 67950 PO BOX 751 N HWY 27 ELKHART KS 67950 BBF church."
+    "description": "PO BOX 591 INDEPENDENCE KS 67301 PO BOX 826 120 N GRANT ST ELKHART KS 67950 PO BOX 751 N HWY 27 ELKHART KS 67950 BBF church"
   },
   {
     "id": "1783",
@@ -1884,7 +1884,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by JAMES LOGAN. 2045 S 74TH ST KANSAS CITY KS 66106 1317 N 7TH NEODESHA KS 66757 PO BOX 751 500 HWY 27 N ELKHART KS 67950 PO BOX 134 1300 W 12TH EMPORIA KS 66801 SS 10,SM 11,SN 6,W 7 PO BOX 91 506 N 1ST GARDEN CITY K BBF church."
+    "description": "KANSAS CITY KS 66106 1317 N 7TH NEODESHA KS 66757 PO BOX 751 500 HWY 27 N ELKHART KS 67950 PO BOX 134 1300 W 12TH EMPORIA KS 66801 SS 10,SM 11,SN 6,W 7 PO BOX 91 506 N 1ST GARDEN CITY K BBF church"
   },
   {
     "id": "1784",
@@ -1902,7 +1902,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ROGER W NEIR. PO BOX 453 905 N PINE HARPER KS 67058 MCCONNELL AFB 1620 CENTER ST HUTCHINSON KS 67501 SS 945,SM 1050,SN 7,W 7 631 E 3RD HUTCHINSON KS 67501 SS 10,SM 11,SN 6,W 7 PO BOX 69 308 S LONG ST JOHNSON CITY K BBF church."
+    "description": "PO BOX 453 905 N PINE HARPER KS 67058 MCCONNELL AFB HUTCHINSON KS 67501 SS 945,SM 1050,SN 7,W 7 631 E 3RD HUTCHINSON KS 67501 SS 10,SM 11,SN 6,W 7 PO BOX 69 308 S LONG ST JOHNSON CITY K BBF church"
   },
   {
     "id": "1785",
@@ -1920,7 +1920,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by STEVE BRADLEY. 815 E 3RD ST KINSLEY KS 67547 MCARBC,BBF"
+    "description": "KINSLEY KS 67547 MCARBC,BBF"
   },
   {
     "id": "1786",
@@ -1938,7 +1938,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by E DEWAYNE PROSSER. PO BOX 759 27000 METCALF RD LOUISBURG KS 66053 SS 930,SM 1030,SN 6,W 7 AWANA, TEEN PO BOX 26 1100 N 4TH NEODESHA KS 66757 BBF church."
+    "description": "PO BOX 759 LOUISBURG KS 66053 SS 930,SM 1030,SN 6,W 7 AWANA, TEEN PO BOX 26 1100 N 4TH NEODESHA KS 66757 BBF church"
   },
   {
     "id": "1787",
@@ -1956,12 +1956,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DEAN SCOTT. 203 S 5TH ST QUENEMO KS 66528 BBF church."
+    "description": "QUENEMO KS 66528 BBF church"
   },
   {
     "id": "1788",
     "name": "ST MARYS BIBLE BAPTIST CHURCH",
-    "address": "601 DURINK ST",
+    "address": "601 DURINK ST ST",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -1974,7 +1974,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DALE JORDAN. 601 DURINK ST ST MARYS KS 66536 326 N 7TH ST STERLING KS 67579 SS 10,SM 11,SN 6,W 7 BBF church."
+    "description": "MARYS KS 66536 326 N 7TH ST STERLING KS 67579 SS 10,SM 11,SN 6,W 7 BBF church"
   },
   {
     "id": "1789",
@@ -1993,12 +1993,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM ADRIAN. 1317 W MCCORMICK ST WICHITA KS 67213 MCCONNELL AFB NOT KJV ONLY,BBF,CCM KJB church."
+    "description": "WICHITA KS 67213 MCCONNELL AFB NOT KJV ONLY,BBF,CCM KJB church"
   },
   {
     "id": "1790",
     "name": "WESTSIDE BAPTIST CHURCH",
-    "address": "412 HARPER ST",
+    "address": "67879 PREACH KJV ST",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -2006,18 +2006,18 @@ export const kansasChurches: Church[] = [
     "longitude": -96.8006,
     "phone": "(620) 662-6262",
     "website": "http://www.angelfire.com/ks3/westsideyouth",
-    "pastor": "MARK RANDOLPH",
+    "pastor": "MANHATTAN KS 66503 SS 930,SM 1045,SN 6,W 730 FORT RILEY 1 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK RANDOLPH. 400 W 12TH HUTCHINSON KS 67501 AWANA, TEEN S.GRACE-TULIP PO BOX 27 412 HARPER ST TRIBUNE KS 67879 PREACH KJV STUDY OTHERS,FBF 1001 S SCENIC DR MANHATTAN KS 66503 SS 930,SM 1045,SN 6,W 730 FORT RILEY 1 KJB church."
+    "description": "400 W 12TH HUTCHINSON KS 67501 AWANA, TEEN S.GRACE-TULIP PO BOX 27 TRIBUNE KS UDY OTHERS,FBF 1001 S SCENIC DR MANHATTAN KS 66503 SS 930,SM 1045,SN 6,W 730 FORT RILEY 1 KJB church"
   },
   {
     "id": "1791",
     "name": "HIGH PLAINS BAPTIST CHURCH",
-    "address": "",
+    "address": "730 HIGH PLAINS CHRIST",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -2031,7 +2031,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOE PERKINS. PO BOX 648 HAYS KS 67601 27TH & CANTERBURY SS 10,SM 11,SN 6,W 730 HIGH PLAINS CHRISTIAN SCHOOL; AWANA BBF, PROMISE KEEPERS, NOT KJV ONLY PO BOX 179 MOUND CITY KS 66056 2ND & MAIN NOT KJV ONLY KJB church."
+    "description": "PO BOX 648 HAYS KS 67601 27TH & CANTERBURY SS 10,SM 11,SN 6,W IAN SCHOOL; AWANA BBF, PROMISE KEEPERS, NOT KJV ONLY PO BOX 179 MOUND CITY KS 66056 2ND & MAIN NOT KJV ONLY KJB church"
   },
   {
     "id": "1792",
@@ -2050,7 +2050,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILLY NEUMANN. 6961 W 271ST ST LOUISBURG KS 66053 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS , REFORMERS UNANIMOUS NOT KJV ONLY, BBF 131 S 2ND ST OSBORNE KS 67473 AUDIO SERMONS PREACH KJV-STUDY OTHERS, BJU KJB church."
+    "description": "LOUISBURG KS 66053 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS , REFORMERS UNANIMOUS NOT KJV ONLY, BBF 131 S 2ND ST OSBORNE KS 67473 AUDIO SERMONS PREACH KJV-STUDY OTHERS, BJU KJB church"
   },
   {
     "id": "1793",
@@ -2069,7 +2069,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN CLAYTON. PO BOX 99 1139 MCKINLEY ST MCPHERSON KS 67460 AUDIO SERMONS NOT KJV ONLY,BBF KJB church."
+    "description": "PO BOX 99 MCPHERSON KS 67460 AUDIO SERMONS NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "1794",
@@ -2088,7 +2088,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BOB ADRIAN. PO BOX 97 1022 N PLUM ST WELLINGTON KS 67152 MCCONNELL AFB NOT KJV ONLY,BBF,WCA-HYBELS 13101 PARALLEL KANSAS CITY KS 66109 PREACH/TEACH from KJV, NOT KJV ONLY, FBFI, BJU,CCM KJB church."
+    "description": "PO BOX 97 WELLINGTON KS 67152 MCCONNELL AFB NOT KJV ONLY,BBF,WCA-HYBELS 13101 PARALLEL KANSAS CITY KS 66109 PREACH/TEACH from KJV, NOT KJV ONLY, FBFI, BJU,CCM KJB church"
   },
   {
     "id": "1795",
@@ -2107,7 +2107,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by RICK HERNANDEZ. 800 S 6TH ST ATCHISON KS 66002 SS 930,SM 1030,SN 630, W 630 NOT KJV ONLY, S.GRACE-TULIP KJB church."
+    "description": "ATCHISON KS 66002 SS 930,SM 1030,SN 630, W 630 NOT KJV ONLY, S.GRACE-TULIP KJB church"
   },
   {
     "id": "1796",
@@ -2127,7 +2127,7 @@ export const kansasChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by MATT PARNELL. 17065 NEFF RD WAMEGO KS 66547 SS 10,SM 11,SN 630 PREACH-KJV, STUDY-NKJV, BBFI KJB church."
+    "description": "WAMEGO KS 66547 SS 10,SM 11,SN 630 PREACH-KJV, STUDY-NKJV, BBFI KJB church"
   },
   {
     "id": "1797",
@@ -2146,7 +2146,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRUCE THOMAS. 400 E CRAWFORD SALINA KS 67401 SS 10,SM 11,SN 6, SINGLES, COLLEGE CAREER, YOUTH ALIVE, AWANA BBF, PROMISE KEEPERS, NOT KJV ONLY KJB church."
+    "description": "SALINA KS 67401 SS 10,SM 11,SN 6, SINGLES, COLLEGE CAREER, YOUTH ALIVE, AWANA BBF, PROMISE KEEPERS, NOT KJV ONLY KJB church"
   },
   {
     "id": "1798",
@@ -2166,7 +2166,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by KENNETH ARMSTRONG. 4604 S SENECA ST WICHITA KS 67217 SS 9,SM 1030,SN 5 TEXT SERMONS, MCCONNELL AFB NOT KJV ONLY, BBF 2200 PRAIRIE ST EMPORIA KS 66801 SS 10,SM 11,SN 6,W 6 PREACH-KJV, STUDY-OTHERS, BBF, PK PO BOX 17052 1 KJB church."
+    "description": "WICHITA KS 67217 SS 9,SM 1030,SN 5 TEXT SERMONS, MCCONNELL AFB NOT KJV ONLY, BBF 2200 PRAIRIE ST EMPORIA KS 66801 SS 10,SM 11,SN 6,W 6 PREACH-KJV, STUDY-OTHERS, BBF, PK PO BOX 17052 1 KJB church"
   },
   {
     "id": "1799",
@@ -2202,12 +2202,12 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB FLACK. NOT-KJV-ONLY,CCM 2901 DICKENS AVE MANHATTAN KS 66502 S.GRACE-TULIP KJB church."
+    "description": "NOT-KJV-ONLY,CCM MANHATTAN KS 66502 S.GRACE-TULIP KJB church"
   },
   {
     "id": "1801",
     "name": "ALTAMONT INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 111",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -2223,7 +2223,7 @@ export const kansasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DEAN HUGHES. PO BOX 111 201 S KARNER ALTAMONT KS 67330 NKJV, KJV, BBF, BBC-MO, ABWE KJB church."
+    "description": "201 S KARNER ALTAMONT KS 67330 NKJV, KJV, BBF, BBC-MO, ABWE KJB church"
   },
   {
     "id": "1802",
@@ -2243,12 +2243,12 @@ export const kansasChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by DON CRISP. 4425 SE 29TH ST TOPEKA KS 66605 AUDIO SERMONS & LIVE VIDEO FEED NOT KJV ONLY, BBF, CCM KJB church."
+    "description": "TOPEKA KS 66605 AUDIO SERMONS & LIVE VIDEO FEED NOT KJV ONLY, BBF, CCM KJB church"
   },
   {
     "id": "1803",
     "name": "FAITH BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 274",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -2262,7 +2262,7 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by WILBUR SCHONEWEIS. PO BOX 274 325 N EMPORIA VALLEY CENTER KS 67147 SS 915,SM 1045,SN 6,W 630 AWANA, CHOIR, MCCONNELL AFB KJV-NASB, FBF KJB church."
+    "description": "325 N EMPORIA VALLEY CENTER KS 67147 SS 915,SM 1045,SN 6,W 630 AWANA, CHOIR, MCCONNELL AFB KJV-NASB, FBF KJB church"
   },
   {
     "id": "1804",
@@ -2281,12 +2281,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIMOTHY BRAUN. PO BOX 413 CLAY CENTER KS 67432-0413 1557 NAVAJO RD SS 930,SM 1030,SN 630,W 730 KCLY 101 FM KJB church."
+    "description": "PO BOX 413 CLAY CENTER KS 67432-0413 SS 930,SM 1030,SN 630,W 730 KCLY 101 FM KJB church"
   },
   {
     "id": "1805",
     "name": "SUNRISE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 252",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -2300,12 +2300,12 @@ export const kansasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEFF WOODS. PO BOX 252 E 5TH & SUNRISE OAKLEY KS 67748 KJB, UNAFFILIATED,SEPARATION"
+    "description": "E 5TH & SUNRISE OAKLEY KS 67748 KJB, UNAFFILIATED,SEPARATION"
   },
   {
     "id": "1806",
     "name": "SUN CITY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 188",
     "city": "Topeka",
     "state": "KS",
     "zipCode": "",
@@ -2318,7 +2318,7 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK DOSS. PO BOX 188 SUN CITY KS 67143 SS 10, SM 11, SN 7, W 7 NOT KJV ONLY, CCM KJB church."
+    "description": "SUN CITY KS 67143 SS 10, SM 11, SN 7, W 7 NOT KJV ONLY, CCM KJB church"
   },
   {
     "id": "1807",
@@ -2336,6 +2336,6 @@ export const kansasChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "Led by DAVID L JONES. 4500 SW GAGE TOPEKA KS 66610 SS 9,SM 8 & 1015,SN 6,W 6 NOT A REAL IBC - SABBATH KEEPERS - Yeshua Messiah 1455 N 16 MILE RD GARDEN CITY KS 67846 ABA church."
+    "description": "4500 SW GAGE TOPEKA KS 66610 SS 9,SM 8 & 1015,SN 6,W 6 NOT A REAL IBC - SABBATH KEEPERS - Yeshua Messiah GARDEN CITY KS 67846 ABA church"
   }
 ];

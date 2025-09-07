@@ -17,7 +17,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRACY ELWOOD. 16996 STATE ORCHARD RD COUNCIL BLUFFS IA 51503 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church."
+    "description": "COUNCIL BLUFFS IA 51503 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "1601",
@@ -35,7 +35,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD R MAST. 1801 QUINCY ST CORNING IA 50841 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "CORNING IA 50841 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1602",
@@ -53,7 +53,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON JACKSON. 685 DUGGAN DR DUBUQUE IA 52003 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "DUBUQUE IA 52003 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "1603",
@@ -71,12 +71,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM EAKINS. 1690 ELM ST DUBUQUE IA 52001 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "DUBUQUE IA 52001 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1604",
     "name": "PLEASANT VALLEY BAPTIST CHURCH",
-    "address": "28158 HIGHWAY 2",
+    "address": "12160 ASTERIS BLVD DR",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "28158",
@@ -90,7 +90,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MITCH HOLMES. 28158 HIGHWAY 2 BLOOMFIELD IA 52537 PHYSICAL ADD: 12160 ASTERIS BLVD DRAKESVILLE IA 52552 SS 10,SM 1045,SN 1,TH 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "BLOOMFIELD IA 52537 PHYSICAL ADD: AKESVILLE IA 52552 SS 10,SM 1045,SN 1,TH 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1605",
@@ -108,7 +108,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CLARK. PO BOX 396 506 4TH ST ANITA IA 50020 SS 930,SM 1030,SN 6,W 630 KJB church."
+    "description": "PO BOX 396 ANITA IA 50020 SS 930,SM 1030,SN 6,W 630 KJB church"
   },
   {
     "id": "1606",
@@ -126,7 +126,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALFONSO SOLIS. 423 N 20TH CENTERVILLE IA 52544 KJB church."
+    "description": "423 N 20TH CENTERVILLE IA 52544 KJB church"
   },
   {
     "id": "1607",
@@ -144,7 +144,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM MEYER. PO BOX 5422 917 COURT ST SIOUX CITY IA 51101 KJB,HYLES"
+    "description": "PO BOX 5422 SIOUX CITY IA 51101 KJB,HYLES"
   },
   {
     "id": "1608",
@@ -162,7 +162,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "1805 S WILSON AVE MASON CITY IA 50401 KJB church."
+    "description": "MASON CITY IA 50401 KJB church"
   },
   {
     "id": "1609",
@@ -180,7 +180,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM SHIPLEY. 124 E HOWARD ST COLFAX IA 50054 KJB church."
+    "description": "COLFAX IA 50054 KJB church"
   },
   {
     "id": "1610",
@@ -199,7 +199,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TRAVIS DECKER. PO BOX 38 100 WASHINGTON ST BATAVIA IA 52533 KJB, UNAFFILIATED"
+    "description": "PO BOX 38 BATAVIA IA 52533 KJB, UNAFFILIATED"
   },
   {
     "id": "1611",
@@ -220,7 +220,7 @@ export const iowaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by TIM ROBBINS. PO BOX 251 238 W WILLIAMS ST OTTUMWA IA 52501 SS 10, SM 11, SN 7, W 7 KJB,UNAFFILIATED 703 MILWAUKEE ST CHARLES CITY IA 50616 SS 930,SM 1030,SN 6,W 7 BUS, SOUL WINNING, BIBLE ASSEMBLY,  ONLINE, RADIO,"
+    "description": "PO BOX 251 OTTUMWA IA 52501 SS 10, SM 11, SN 7, W 7 KJB,UNAFFILIATED 703 MILWAUKEE ST CHARLES CITY IA 50616 SS 930,SM 1030,SN 6,W 7 BUS, SOUL WINNING, BIBLE ASSEMBLY, ONLINE, RADIO"
   },
   {
     "id": "1612",
@@ -239,7 +239,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BILLY CARTER. 95 S MENTZER RD ROBINS IA 52328 SS 930,SM 1030,SN 630, W 7 SOULWINNING, BUS, TEEN, KIDS 4 TRUTH MP3 AUDIO SERMONS ONLINE 3966 ASBURY RD DUBUQUE IA 52001 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
+    "description": "ROBINS IA 52328 SS 930,SM 1030,SN 630, W 7 SOULWINNING, BUS, TEEN, KIDS 4 TRUTH MP3 AUDIO SERMONS ONLINE 3966 ASBURY RD DUBUQUE IA 52001 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
   },
   {
     "id": "1613",
@@ -257,7 +257,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID ROUSH. 3020 E 38TH ST DES MOINES IA 50310 SS 945,SM 1045,SN 6,W 730 PATCH PIRATE,KIDS CLUB,BUS AUDIO VIDEO & LIVE SERMONS ONLINE KJB,UNAFFLIATED"
+    "description": "DES MOINES IA 50310 SS 945,SM 1045,SN 6,W 730 PATCH PIRATE,KIDS CLUB,BUS AUDIO VIDEO & LIVE SERMONS ONLINE KJB,UNAFFLIATED"
   },
   {
     "id": "1614",
@@ -276,7 +276,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROB THIRY. 510 EAST 8TH ST SPENCER IA 51301 SS 10,SM 11,SN 6,W 7 SOULWINNING, DISCIPLESHIP, BUS KJB,UNAFFLIATED"
+    "description": "SPENCER IA 51301 SS 10,SM 11,SN 6,W 7 SOULWINNING, DISCIPLESHIP, BUS KJB,UNAFFLIATED"
   },
   {
     "id": "1615",
@@ -295,12 +295,12 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRENT RINEHART. PO BOX 576 WESTWOOD ELEMENTARY SCHOOL 2920 NW 9TH ST ANKENY IA 50021 SS 930,SM 1045,SN 6,W 7 CAMP DODGE APPROX 15 MILES 1704 GREEN VALLEY RD WAUKON IA 52172 SS 10, SM 11, SN 6, W 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 576 WESTWOOD ELEMENTARY SCHOOL ANKENY IA 50021 SS 930,SM 1045,SN 6,W 7 CAMP DODGE APPROX 15 MILES 1704 GREEN VALLEY RD WAUKON IA 52172 SS 10, SM 11, SN 6, W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1616",
     "name": "PLYMOUTH BIBLE BAPTIST CHURCH",
-    "address": "808 BROAD ST",
+    "address": "7 SOULWINNING PLYMOUTH ROAD CHRIST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -314,7 +314,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SCHAEFER FORMER NAVY. PO BOX 47 808 BROAD ST PLYMOUTH IA 50464-0047 SS 930,SM 1045,W 7,FRIDAY 7 SOULWINNING PLYMOUTH ROAD CHRISTIAN ACADEMY,K-12 KJB church."
+    "description": "PO BOX 47 YMOUTH IA 50464-0047 SS 930,SM 1045,W 7,FRIDAY IAN ACADEMY,K-12 KJB church"
   },
   {
     "id": "1617",
@@ -333,7 +333,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DR DARRAN J WHITING. 1211 W 26TH ST SIOUX CITY IA 51103 SS 10,SM 11,SN 6,W 7 AUDIO & VIDEO SERMONS ONLINE SOULWINNING PO BOX 136 202 E MAIN ST COGGON IA 52218 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "SIOUX CITY IA 51103 SS 10,SM 11,SN 6,W 7 AUDIO & VIDEO SERMONS ONLINE SOULWINNING PO BOX 136 202 E MAIN ST COGGON IA 52218 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "1618",
@@ -351,12 +351,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID WELLMAN. 3816 36TH ST DES MOINES IA 50310 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "DES MOINES IA 50310 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1619",
     "name": "CROSSROADS INDEPENDENT BAPTIST CHURCH",
-    "address": "21141 SCOTT PARK RD",
+    "address": "21141 SCOTT PARK RD DAVE",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "21141",
@@ -370,7 +370,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY D WALTERS. 21141 SCOTT PARK RD DAVENPORT IA 52804 SS 9,SM 10,SN 6,W 7 1510 N 6TH ST RED OAK IA 51566 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED,HBBC"
+    "description": "NPORT IA 52804 SS 9,SM 10,SN 6,W 7 1510 N 6TH ST RED OAK IA 51566 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED,HBBC"
   },
   {
     "id": "1620",
@@ -388,12 +388,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "903 DIAMOND ST ONAWA IA 51040 SS 10,SM 11,SN 7,TH 7 KJB church."
+    "description": "ONAWA IA 51040 SS 10,SM 11,SN 7,TH 7 KJB church"
   },
   {
     "id": "1621",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "922 MAIN ST",
+    "address": "55 MILES WEST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -408,7 +408,7 @@ export const iowaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RANDY KRUSE. PO BOX 55 922 MAIN ST LUANA IA 52156 KJB,UNAFFILIATED 1126 173RD ST STANWOOD IA 52337 MEMORIAL BUILDING, E BROADWAY ST SS 930,SM 1030,SN 630,W 7 SOULWINNING 55 MILES WEST OF ROCK ISLAND ARSENAL"
+    "description": "PO BOX 55 LUANA IA 52156 KJB,UNAFFILIATED 1126 173RD ST STANWOOD IA 52337 MEMORIAL BUILDING, E BROADWAY ST SS 930,SM 1030,SN 630,W 7 SOULWINNING OF ROCK ISLAND ARSENAL"
   },
   {
     "id": "1622",
@@ -426,12 +426,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWIN C HANNAHS. 510 4TH AVE VINTON IA 52349 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "VINTON IA 52349 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1623",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "1008 E OLIVE ST",
+    "address": "50158 CENTRAL IOWA CHRIST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -445,12 +445,12 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY STARK. 1008 E OLIVE ST MARSHALLTOWN IA 50158 CENTRAL IOWA CHRISTIAN ACADEMY,K5-12 KJB,UNAFFILIATED"
+    "description": "MARSHALLTOWN IA IAN ACADEMY,K5-12 KJB,UNAFFILIATED"
   },
   {
     "id": "1624",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "940 WALKER ST",
+    "address": "5037 CENTER POINT RD",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -465,7 +465,7 @@ export const iowaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RANDALL VARTABEDIAN. 940 WALKER ST DUBUQUE IA 52001 SS 10,SM 11,SN 6,W 7 BUS,SOULWINNING,YOUTH,REFORMER'S UNANIMOUS,KING'S KIDS KJB,UNAFFILIATED,RUCKMAN 5037 CENTER POINT RD NE CEDAR RAPIDS IA 52402 SS 10,SM 11,SN 5,W 7 1"
+    "description": "DUBUQUE IA 52001 SS 10,SM 11,SN 6,W 7 BUS,SOULWINNING,YOUTH,REFORMER'S UNANIMOUS,KING'S KIDS KJB,UNAFFILIATED,RUCKMAN NE CEDAR RAPIDS IA 52402 SS 10,SM 11,SN 5,W 7 1"
   },
   {
     "id": "1625",
@@ -483,7 +483,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MEL L KENDALL. 210 2ND STREET SE INDEPENDENCE IA 50644 SS 930,SM 1030,SN 6,W 7 915 OVERMAN AVE OTTUMWA IA 52501 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "INDEPENDENCE IA 50644 SS 930,SM 1030,SN 6,W 7 915 OVERMAN AVE OTTUMWA IA 52501 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1626",
@@ -501,7 +501,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH BROWN. KJB,HYLES"
+    "description": "KJB,HYLES"
   },
   {
     "id": "1627",
@@ -519,7 +519,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN BAKER. 215 S MARION AVE WASHINGTON IA 52353 SS 10,SM 1045,SN 630,W 730 MP3 AUDIO SINGING ONLINE KJB,HYLES"
+    "description": "WASHINGTON IA 52353 SS 10,SM 1045,SN 630,W 730 MP3 AUDIO SINGING ONLINE KJB,HYLES"
   },
   {
     "id": "1628",
@@ -555,12 +555,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CECIL BALLARD. KJB,HYLES 1461 EAST POST RD MARION IA 52302-9217 SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE PO BOX 409 703 S 1ST ST & ALBIA RD CHARITON IA 50049 SS 945,SM 1050,SN 630,W 7 PATCH PIRATE AUDIO SERMO"
+    "description": "KJB,HYLES MARION IA 52302-9217 SS 10,SM 11,SN 630,W 7 MP3 AUDIO SERMONS ONLINE PO BOX 409 703 S 1ST ST & ALBIA RD CHARITON IA 50049 SS 945,SM 1050,SN 630,W 7 PATCH PIRATE AUDIO SERMO"
   },
   {
     "id": "1630",
     "name": "PLEASANTVILLE BAPTIST CHURCH",
-    "address": "405 E MONROE ST",
+    "address": "405 E MONROE ST PL",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -573,7 +573,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL P STOMBAUGH. PO BOX 179 405 E MONROE ST PLEASANTVILLE IA 50225 SS 945,SM 1045,SN 7,W 730 WMA AUDIO SERMONS ONLINE KJB,HYLES"
+    "description": "PO BOX 179 EASANTVILLE IA 50225 SS 945,SM 1045,SN 7,W 730 WMA AUDIO SERMONS ONLINE KJB,HYLES"
   },
   {
     "id": "1631",
@@ -592,12 +592,12 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN HEATH. 1168 78TH STREET TRAIL BELLE PLAIN IA 52208 SS 930,SM 1030,SN 6,W 7 KJB,HYLES 1028 EXCHANGE ST KEOKUK IA 52632 at 11th & Exchange Streets KJB,LOOSELY WITH BBFI,"
+    "description": "BELLE PLAIN IA 52208 SS 930,SM 1030,SN 6,W 7 KJB,HYLES 1028 EXCHANGE ST KEOKUK IA 52632 at 11th & Exchange Streets KJB,LOOSELY WITH BBFI"
   },
   {
     "id": "1632",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "2050 12TH AVE",
+    "address": "6 ABEKA NEEDS PAST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -605,12 +605,12 @@ export const iowaChurches: Church[] = [
     "longitude": -92.2383,
     "phone": "(319) 354-7077",
     "website": "http://www.tbciowa.org",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "2050 12TH AVE CORALVILLE IA 52241 SS 10,SM 11,SN 6,W 7 BUS,YOUTH,SINGLES,SENIORS,NURSING CORNERSTONE CHRISTIAN SCHOOL,K2-6 ABEKA NEEDS PASTOR KJB church."
+    "description": "2050 12TH AVE CORALVILLE IA 52241 SS 10,SM 11,SN 6,W 7 BUS,YOUTH,SINGLES,SENIORS,NURSING CORNERSTONE CHRISTIAN SCHOOL,K2-6 ABEKA NEEDS"
   },
   {
     "id": "1633",
@@ -629,7 +629,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RALPH COLE SR. 911 D AVE VINTON IA 52349 SS 930,SM 1030,SN 6,W 630 KJB, UNAFFILIATED"
+    "description": "VINTON IA 52349 SS 930,SM 1030,SN 6,W 630 KJB, UNAFFILIATED"
   },
   {
     "id": "1634",
@@ -647,7 +647,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED PARKER. 5075 NE 23RD AVE DES MOINES IA 50317 SS 930, SM 1030, SN 6, W 7 KJB,CROWN-BC"
+    "description": "DES MOINES IA 50317 SS 930, SM 1030, SN 6, W 7 KJB,CROWN-BC"
   },
   {
     "id": "1635",
@@ -665,7 +665,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EARL R BEAL. PO BOX 107 401 S 32ND ST FAIRFIELD IA 52556 SS 945,SM 1045,SN 7,W 7 CHRISTIAN SCHOOL, K-12 KJB church."
+    "description": "PO BOX 107 FAIRFIELD IA 52556 SS 945,SM 1045,SN 7,W 7 CHRISTIAN SCHOOL, K-12 KJB church"
   },
   {
     "id": "1636",
@@ -684,7 +684,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by MARK CANNON. 701 AVE E FT MADISON IA 52627 SS 930,SM 1030,SN 6,W 6 KJB,HEARTLAND-FELL"
+    "description": "FT MADISON IA 52627 SS 930,SM 1030,SN 6,W 6 KJB,HEARTLAND-FELL"
   },
   {
     "id": "1637",
@@ -702,12 +702,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE DAVIS. 3449 MOENKS RD BETTENDORF IA 52722 300 RALSTON RD WATERLOO IA 50703 SS 10,SM 11,SN 6,W 7 WEB,VIDEO BUS,CHILDREN,YOUTH KJB church."
+    "description": "BETTENDORF IA 52722 300 RALSTON RD WATERLOO IA 50703 SS 10,SM 11,SN 6,W 7 WEB,VIDEO BUS,CHILDREN,YOUTH KJB church"
   },
   {
     "id": "1638",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "2701 AVE N",
+    "address": "7 AUDIO SERMONS ONLINE LIBERTY CHRIST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -721,7 +721,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAN THORNTON JR. 2701 AVE N COUNCIL BLUFFS IA 51501 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE LIBERTY CHRISTIAN SCHOOL, K-12,ACE KJB,BBF,HEARTLAND-BC"
+    "description": "2701 AVE N COUNCIL BLUFFS IA 51501 SS 10,SM 11,SN 6,W IAN SCHOOL, K-12,ACE KJB,BBF,HEARTLAND-BC"
   },
   {
     "id": "1639",
@@ -739,7 +739,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES POINTER. 1567 BUCHANAN AVE SIOUX CITY IA 51106 SM 1030 KJB church."
+    "description": "SIOUX CITY IA 51106 SM 1030 KJB church"
   },
   {
     "id": "1640",
@@ -757,12 +757,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN BOOTH. 1301 NEBRASKA ST SIOUX CITY IA 51105 SS 945,SM 1045,SN 6,W 730 CHOIR,ORCHESTRA KJB church."
+    "description": "SIOUX CITY IA 51105 SS 945,SM 1045,SN 6,W 730 CHOIR,ORCHESTRA KJB church"
   },
   {
     "id": "1641",
     "name": "GATEWAY BAPTIST CHURCH",
-    "address": "722 S 16TH ST",
+    "address": "1953 YELLOW AVE",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -775,7 +775,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HARRY HOLCOMB. 722 S 16TH ST CLINTON IA 52732 SS 10,SM 11,SN 6,W 7 PO BOX 100 1953 YELLOW AVE MONTPELIER IA 52759-2602 KJB,HYLES"
+    "description": "722 S 16TH ST CLINTON IA 52732 SS 10,SM 11,SN 6,W 7 PO BOX 100 MONTPELIER IA 52759-2602 KJB,HYLES"
   },
   {
     "id": "1642",
@@ -793,7 +793,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARCUS B MOFFITT. 1602 WOODBINE AVE LOCKRIDGE IA 52635 SS 930,SM 1030,SN 6, W 7 KJB,NTA 823 10TH ST SHELDON IA 51201 SS 930,SM 1030,SN 7,W 730 MP3 AUDIO SERMONS ONLINE KJB,HYLES"
+    "description": "LOCKRIDGE IA 52635 SS 930,SM 1030,SN 6, W 7 KJB,NTA 823 10TH ST SHELDON IA 51201 SS 930,SM 1030,SN 7,W 730 MP3 AUDIO SERMONS ONLINE KJB,HYLES"
   },
   {
     "id": "1643",
@@ -811,7 +811,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS OSTERKAMP. PO BOX 664 314 N 3RD ST BURLINGTON IA 52601 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB church."
+    "description": "PO BOX 664 BURLINGTON IA 52601 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1644",
@@ -829,7 +829,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD ACHEY. 1203 3RD AVE SW CEDAR RAPIDS IA 52402 SS 945,SM 11,SN 6,W 7 AWANA,BUS,TEENS KJB, HYLES"
+    "description": "CEDAR RAPIDS IA 52402 SS 945,SM 11,SN 6,W 7 AWANA,BUS,TEENS KJB, HYLES"
   },
   {
     "id": "1645",
@@ -847,7 +847,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PATRICK NATH. 1660 E RIDGEWAY WATERLOO IA 50702 KJB church."
+    "description": "WATERLOO IA 50702 KJB church"
   },
   {
     "id": "1646",
@@ -865,7 +865,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARVIN E SMITH III. 6001 SE 5TH ST DES MOINES IA 50315 SS 10,SM 11,SN 6,W 7 FAITH PROMISE MISSIONS,BUS,DEAF, WMA AUDIO SERMONS ONLINE KJB church."
+    "description": "DES MOINES IA 50315 SS 10,SM 11,SN 6,W 7 FAITH PROMISE MISSIONS,BUS,DEAF, WMA AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1647",
@@ -883,7 +883,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 430 614 2ND AVE S FORT DODGE IA 50501 SS 945,SM 1045,SN 7,W 7 BUS,PRISON,RADIO, AUDIO SERMONS ONLINE"
+    "description": "PO BOX 430 FORT DODGE IA 50501 SS 945,SM 1045,SN 7,W 7 BUS,PRISON,RADIO, AUDIO SERMONS ONLINE"
   },
   {
     "id": "1648",
@@ -919,7 +919,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY SENEY. KJB, HBBC"
+    "description": "KJB, HBBC"
   },
   {
     "id": "1650",
@@ -938,7 +938,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICAIAH STANLEY. PO BOX 16 2105 GARY AVE SPIRIT LAKE IA 51360 SM 11,SN 6 KJB, UNAFFILIATED 218 W WALL ST SEYMOUR IA 52590 SS 930,SM 1040,SN 6,W 730 KJB, HYLES"
+    "description": "PO BOX 16 SPIRIT LAKE IA 51360 SM 11,SN 6 KJB, UNAFFILIATED 218 W WALL ST SEYMOUR IA 52590 SS 930,SM 1040,SN 6,W 730 KJB, HYLES"
   },
   {
     "id": "1651",
@@ -957,7 +957,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAN ROBBS. 305 2ND AVE MARION IA 52302 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING KJB, HYLES"
+    "description": "MARION IA 52302 SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING KJB, HYLES"
   },
   {
     "id": "1652",
@@ -976,7 +976,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BENJAMIN QUINLAN. 511 SUBVANBUREN ST MUSCATINE IA 52761 SS 10,SM 11,SN 7,W 7 KJB, HEARTLAND-BC 605 S HAZEL ST GLENWOOD IA 51534 SS 930,SM 1030,SN 6,W 7 KJB, NTAIBC 758 N 2ND ST CHEROKEE IA 51012 SS 930,SM 1030,SN 6,TH"
+    "description": "MUSCATINE IA 52761 SS 10,SM 11,SN 7,W 7 KJB, HEARTLAND-BC 605 S HAZEL ST GLENWOOD IA 51534 SS 930,SM 1030,SN 6,W 7 KJB, NTAIBC 758 N 2ND ST CHEROKEE IA 51012 SS 930,SM 1030,SN 6,TH"
   },
   {
     "id": "1653",
@@ -994,12 +994,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "204 S 2ND ST ALBIA IA 52531 SS 9,SM 10,SN 6,W 7 KINGS KIDS KJB,GIBF"
+    "description": "ALBIA IA 52531 SS 9,SM 10,SN 6,W 7 KINGS KIDS KJB,GIBF"
   },
   {
     "id": "1654",
     "name": "RIVERSIDE BAPTIST CHURCH",
-    "address": "313 EMMETT ST",
+    "address": "300 E SECOND ST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -1012,7 +1012,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB BURCHFIELD. PO BOX 13 313 EMMETT ST BURLINGTON IA 52601 300 E SECOND ST SUMNER IA 50674 SS 930,SM 1030 IARBC,GARBC KJB church."
+    "description": "PO BOX 13 BURLINGTON IA 52601 SUMNER IA 50674 SS 930,SM 1030 IARBC,GARBC KJB church"
   },
   {
     "id": "1655",
@@ -1030,12 +1030,12 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ROBERT WOLFE. PO BOX 115 100 E UNION ST UNIONVILLE IA 52594"
+    "description": "PO BOX 115 UNIONVILLE IA 52594"
   },
   {
     "id": "1656",
     "name": "INDEPENDENT BIBLE CHURCH",
-    "address": "8280 105TH AVE",
+    "address": "413 N WASHINGTON WAY",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -1050,7 +1050,7 @@ export const iowaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by PHIL GRIFFITH. 413 N WASHINGTON WAYLAND IA 52654 8280 105TH AVE OTTUMWA IA 52501 NOT KJV ONLY, GARBC KJB church."
+    "description": "LAND IA 52654 8280 105TH AVE OTTUMWA IA 52501 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "1657",
@@ -1068,7 +1068,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER H CRAWFORD. 512 67TH AVE W MUSCATINE IA 52761 KJV-PREACH NOT KJV ONLY,,GARBC,IARBC KJB church."
+    "description": "MUSCATINE IA 52761 KJV-PREACH NOT KJV ONLY,,GARBC,IARBC KJB church"
   },
   {
     "id": "1658",
@@ -1086,7 +1086,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1310 7TH ST HARLAN IA 51577"
+    "description": "HARLAN IA 51577"
   },
   {
     "id": "1659",
@@ -1105,12 +1105,12 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JONATHAN KAUSHAL. SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,BBF KJB church."
+    "description": "SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "1660",
     "name": "MARK BAPTIST CHURCH",
-    "address": "16534 276TH ST",
+    "address": "720 S MONTANA ST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "16534",
@@ -1118,13 +1118,13 @@ export const iowaChurches: Church[] = [
     "longitude": -92.9723,
     "phone": "(641) 929-3233",
     "website": "http://www.markbaptistchurch.com",
-    "pastor": "RALPH HARMON",
+    "pastor": "PRE KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RALPH HARMON. 16534 276TH ST BLOOMFIELD IA 52537 SS 10,SM 11,SN 6,W 7 PREACH KJV, NOT KJV ONLY, NTAIBC 720 S MONTANA ST BOONE IA 50036 SS 930,SM 1030,SN 6,W 7 JOY CLUB AND TEEN EXPEDITIONS, TU 7 PM NEEDS PASTOR PRE KJB church."
+    "description": "16534 276TH ST BLOOMFIELD IA 52537 SS 10,SM 11,SN 6,W 7 PREACH KJV, NOT KJV ONLY, NTAIBC BOONE IA 50036 SS 930,SM 1030,SN 6,W 7 JOY CLUB AND TEEN EXPEDITIONS, TU 7 PM NEEDS"
   },
   {
     "id": "1661",
@@ -1142,7 +1142,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KURT DOPLAR. 130 BENNETT AVE COUNCIL BLUFFS IA 51503 SS 930,SM 815 & 945,SN 6,W 7 S.GRACE-TULIP"
+    "description": "COUNCIL BLUFFS IA 51503 SS 930,SM 815 & 945,SN 6,W 7 S.GRACE-TULIP"
   },
   {
     "id": "1662",
@@ -1161,7 +1161,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JOSH OVERFORS. 1210 HACKER ST BUFFALO IA 52728 KJV-NKJV,IARBC,GARBC KJB church."
+    "description": "BUFFALO IA 52728 KJV-NKJV,IARBC,GARBC KJB church"
   },
   {
     "id": "1663",
@@ -1180,7 +1180,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by STAN MANUS. 113 N 5TH ST GUTHRIE CENTER IA 50115 NKJV,GARBC KJB church."
+    "description": "GUTHRIE CENTER IA 50115 NKJV,GARBC KJB church"
   },
   {
     "id": "1664",
@@ -1199,7 +1199,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CLAYTON N PICKERING. 1227 US HWY 18 E ALGONA IA 50511 SS 930,SM 1045,SN 6,TH 7 NOT KJV ONLY,BBFI KJB church."
+    "description": "1227 US HWY 18 E ALGONA IA 50511 SS 930,SM 1045,SN 6,TH 7 NOT KJV ONLY,BBFI KJB church"
   },
   {
     "id": "1665",
@@ -1218,7 +1218,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM MOORE. 621 E 12TH ST N NEWTON IA 50208 SS 10,SM 11,SN 7,W 7 BUS,KINGS KIDS, NOT KJV ONLY,GARBC,IARBC 1807 S KENTUCKY MASON CITY IA 50401 SS 930,SM 1045,SN 6,W 7 DEAF,YOUTH,TEENS NOT KJV ONLY,ISBBF,GARBC KJB church."
+    "description": "NEWTON IA 50208 SS 10,SM 11,SN 7,W 7 BUS,KINGS KIDS, NOT KJV ONLY,GARBC,IARBC 1807 S KENTUCKY MASON CITY IA 50401 SS 930,SM 1045,SN 6,W 7 DEAF,YOUTH,TEENS NOT KJV ONLY,ISBBF,GARBC KJB church"
   },
   {
     "id": "1666",
@@ -1236,7 +1236,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID E STROPE. 7925 VANDALIA RD RUNNELLS IA 50237 DES MOINES AREA GARBC,NOT KJV ONLY KJB church."
+    "description": "RUNNELLS IA 50237 DES MOINES AREA GARBC,NOT KJV ONLY KJB church"
   },
   {
     "id": "1667",
@@ -1254,7 +1254,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM WHITTY. 2842 SW 3RD ST PL ANKENY IA 50021 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,GARBC,IARBC KJB church."
+    "description": "ANKENY IA 50021 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,GARBC,IARBC KJB church"
   },
   {
     "id": "1668",
@@ -1272,7 +1272,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TROY WEIGERT. 101 L ST CHARLES CITY IA 50616"
+    "description": "CHARLES CITY IA 50616"
   },
   {
     "id": "1669",
@@ -1290,7 +1290,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE EARLE. 4502 BLAIRS FERRY RD NE CEDAR RAPIDS IA 52411 SM 10,W CELL GROUPS 7 AWANA,TEENS,SENIORS PREACH KJV,NOT KJV ONLY,GARBC 19TH & CLYCLONE HARLAN IA 51577 SS 930SM 1030,SN 6,W 730 NOT KJV ONLY,GARBC,PILLSB KJB church."
+    "description": "CEDAR RAPIDS IA 52411 SM 10,W CELL GROUPS 7 AWANA,TEENS,SENIORS PREACH KJV,NOT KJV ONLY,GARBC 19TH & CLYCLONE HARLAN IA 51577 SS 930SM 1030,SN 6,W 730 NOT KJV ONLY,GARBC,PILLSB KJB church"
   },
   {
     "id": "1670",
@@ -1308,7 +1308,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "BMA"
     ],
-    "description": "700 BOYSON RD NE CEDAR RAPIDS IA 52402 SS 945,SM 1045,SN 6,W 7 BMA church."
+    "description": "CEDAR RAPIDS IA 52402 SS 945,SM 1045,SN 6,W 7 BMA church"
   },
   {
     "id": "1671",
@@ -1326,7 +1326,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK CHAPMAN. REFORMED,TULIP-S.GRACE 20 S CENTRAL AVE HARTLEY IA 51346 NOT KJV ONLY,GARBC KJB church."
+    "description": "REFORMED,TULIP-S.GRACE HARTLEY IA 51346 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1672",
@@ -1345,7 +1345,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRIAN HARGRAVE. 1307 3RD ST ELDORA IA 50627 SS 930,SM 1030,SN 7,W 7 NOT KJV ONLY, BBF KJB church."
+    "description": "ELDORA IA 50627 SS 930,SM 1030,SN 7,W 7 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "1673",
@@ -1363,7 +1363,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD MARSCEAU. 914 N PARK AVE CENTERVILLE IA 52544 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,CCM KJB church."
+    "description": "CENTERVILLE IA 52544 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,CCM KJB church"
   },
   {
     "id": "1674",
@@ -1382,12 +1382,12 @@ export const iowaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY ABELL. 1147 CLIFTON ST NE CEDAR RAPIDS IA 52402 SS 930,SM 1030 NOT KJV ONLY,BBF KJB church."
+    "description": "CEDAR RAPIDS IA 52402 SS 930,SM 1030 NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "1675",
     "name": "HEARTLAND BAPTIST CHURCH",
-    "address": "3504 GRAND AVE",
+    "address": "7 IOWA BIBLE INST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -1400,7 +1400,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON MICHEALSEN. 3504 GRAND AVE AMES IA 50010 SS 930,SM 1030,SN 6,W 7 IOWA BIBLE INSTITUTE GARBC,NOT KJV ONLY PO BOX 487 305 6TH ST NW OELWEIN IA 50662 KJB church."
+    "description": "AMES IA 50010 SS 930,SM 1030,SN 6,W ITUTE GARBC,NOT KJV ONLY PO BOX 487 305 6TH ST NW OELWEIN IA 50662 KJB church"
   },
   {
     "id": "1676",
@@ -1419,12 +1419,12 @@ export const iowaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEVIN SUBRA. SS 915,SM 1015,SN 6 GARBC,NKJV,STUDY-GREEK NT KJB church."
+    "description": "SS 915,SM 1015,SN 6 GARBC,NKJV,STUDY-GREEK NT KJB church"
   },
   {
     "id": "1677",
     "name": "NORTHRIDGE BAPTIST CHURCH",
-    "address": "3700 6TH AVE",
+    "address": "202 W SMITH ST",
     "city": "Des Moines",
     "state": "IA",
     "zipCode": "",
@@ -1439,7 +1439,7 @@ export const iowaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by SUBRA FORMER ARMY. 3700 6TH AVE DES MOINES IA 50313 SS 930,SM 1045,SN 6,W 7 HISPANIC,SALT,CHILDRENS,YOUTH IOWA NATIONAL GUARD,CAMP DODGE GARBC,NKJV 202 W SMITH ST BOX 475 RUSSELL IA 50238 SS 945,SM 1045,SN 6,W 7 NOT KJV KJB church."
+    "description": "3700 6TH AVE DES MOINES IA 50313 SS 930,SM 1045,SN 6,W 7 HISPANIC,SALT,CHILDRENS,YOUTH IOWA NATIONAL GUARD,CAMP DODGE GARBC,NKJV BOX 475 RUSSELL IA 50238 SS 945,SM 1045,SN 6,W 7 NOT KJV KJB church"
   },
   {
     "id": "1678",
@@ -1457,7 +1457,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILIP KRAMER. 3516 SE 14TH ST DES MOINES IA 50320 PREACH-KJV & STUDIES OTHERS,IARBC,GARBC KJB church."
+    "description": "DES MOINES IA 50320 PREACH-KJV & STUDIES OTHERS,IARBC,GARBC KJB church"
   },
   {
     "id": "1679",
@@ -1475,7 +1475,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE HART. 4690 NE 29TH ST DES MOINES IA 50317 SS 945,SM 1100,SN 6,W 7 CAMP DODGE, 8 MILES NOT-KJV-ONLY,GARBC KJB church."
+    "description": "DES MOINES IA 50317 SS 945,SM 1100,SN 6,W 7 CAMP DODGE, 8 MILES NOT-KJV-ONLY,GARBC KJB church"
   },
   {
     "id": "1680",
@@ -1494,7 +1494,7 @@ export const iowaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by LEE KLIEWER. 877 NW 62ND AVE DALLAS CENTER-GRIMES JUNIOR HIGH SCHOOL GRIMES IA 50111 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,GARBC KJB church."
+    "description": "DALLAS CENTER-GRIMES JUNIOR HIGH SCHOOL GRIMES IA 50111 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1681",
@@ -1512,7 +1512,7 @@ export const iowaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURTIS DEFORD. 1307 W RIDGEWAY AVE WATERLOO IA 50701 SM 9,SS 1030,SN 6,W 645 NOT KJV ONLY,GARBC ,WOL,IARBC PO BOX 256 2801 17TH ST EMMETSBURG IA 50536 SS 930,SM 1030,SN 6,W 7 PROTEENS NOT KJV ONLY,GARBC KJB church."
+    "description": "WATERLOO IA 50701 SM 9,SS 1030,SN 6,W 645 NOT KJV ONLY,GARBC ,WOL,IARBC PO BOX 256 2801 17TH ST EMMETSBURG IA 50536 SS 930,SM 1030,SN 6,W 7 PROTEENS NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1682",
@@ -1532,6 +1532,6 @@ export const iowaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by DANIEL E HARTWIG. 803 3RD AVE SW ALTOONA IA 50009 SS 930,SM 1030,SN 6,W 730 AWANA,POLICE CHAPLAINCY,COUNSELING CAMP DODGE,FORT DES MOINES NOT KJV ONLY,GARBC, IARBC PO BOX 340 407 MAIN ST DYSART IA 52224 SS 930,SM 1045, KJB church."
+    "description": "ALTOONA IA 50009 SS 930,SM 1030,SN 6,W 730 AWANA,POLICE CHAPLAINCY,COUNSELING CAMP DODGE,FORT DES MOINES NOT KJV ONLY,GARBC, IARBC PO BOX 340 407 MAIN ST DYSART IA 52224 SS 930,SM 1045, KJB church"
   }
 ];

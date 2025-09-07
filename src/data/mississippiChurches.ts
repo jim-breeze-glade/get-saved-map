@@ -18,7 +18,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRAD ROBERTS. 207 N UTICA ST TERRY MS 39170 SS 10,SM 1045,SN 6,W 6 SOULWINNING, MISSIONS KJB church."
+    "description": "TERRY MS 39170 SS 10,SM 1045,SN 6,W 6 SOULWINNING, MISSIONS KJB church"
   },
   {
     "id": "2451",
@@ -37,12 +37,12 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ART GREENLEE JR. 332 COLONIAL CIR MAGEE MS 39111 SS 10,SM 11,SN 6,W 7 SOULWINNING, TEEN, YOUTH KJB, HBBC"
+    "description": "MAGEE MS 39111 SS 10,SM 11,SN 6,W 7 SOULWINNING, TEEN, YOUTH KJB, HBBC"
   },
   {
     "id": "2452",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "58 PRAIRIE VIEW DR",
+    "address": "58 PRAIRIE VIEW DR WEST",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -57,7 +57,7 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by SETH BOND. 58 PRAIRIE VIEW DR WEST POINT MS 39773 SS 930,SM 1030,SN 5,W 7 SOULWINNING, KINGS KIDS, FAITH BIBLE INSTITUTE, 15 MINS FROM COLUMBUS AFB KJB, UNAFFILIATED"
+    "description": "POINT MS 39773 SS 930,SM 1030,SN 5,W 7 SOULWINNING, KINGS KIDS, FAITH BIBLE INSTITUTE, 15 MINS FROM COLUMBUS AFB KJB, UNAFFILIATED"
   },
   {
     "id": "2453",
@@ -76,7 +76,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENNY WARD. 310 MS-35 COLLINS MS 39428 SS 10,SM 11,SN 1,W 7 KJB, UNAFFILIATED"
+    "description": "310 MS-35 COLLINS MS 39428 SS 10,SM 11,SN 1,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2454",
@@ -95,7 +95,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN HARVEY. ESTABLISHED 2012 PO BOX 7333 D’IBERVILLE MS 39540 13281 OLD HIGHWAY 67 BILOXI MS 39532 SS 10, SM 11, SN 5, W 7 YOUTH, SOULWINNING WED 530 - SAT 10, NURSERY, LADIES GROUP, HYMNS, OLD FASHIONED WORSHIP  KJB church."
+    "description": "ESTABLISHED 2012 PO BOX 7333 D’IBERVILLE MS 39540 SS 10, SM 11, SN 5, W 7 YOUTH, SOULWINNING WED 530 - SAT 10, NURSERY, LADIES GROUP, HYMNS, OLD FASHIONED WORSHIP KJB church"
   },
   {
     "id": "2455",
@@ -113,7 +113,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG MANGUM. PO BOX 1203 STARKVILLE MS 39760 MEETING AT: COMFORT SUITES HOTEL 801 RUSSEL ST SS 930,SM 1030,SN 6 KJB church."
+    "description": "PO BOX 1203 STARKVILLE MS 39760 MEETING AT: COMFORT SUITES HOTEL SS 930,SM 1030,SN 6 KJB church"
   },
   {
     "id": "2456",
@@ -131,7 +131,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY MOORE. 4109 HIGHWAY 39 N MERIDIAN MS 39301 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MERIDIAN MS 39301 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2457",
@@ -149,7 +149,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS RUTLEDGE. 13013 HWY 336 THAXTON MS 38871 SS 10,SM 11,SN 5,W 7 AUDIO SERMONS KJB church."
+    "description": "13013 HWY 336 THAXTON MS 38871 SS 10,SM 11,SN 5,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2458",
@@ -169,7 +169,7 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAN Q CARR SR. PO BOX 2966 5030 HWY 182 E COLUMBUS MS 39704-2966 SS 930,SM 1030,SN 6,W 7 BUS, YOUTH, TEEN, SOULWINNING, COLUMBUS AFB KJB,UNAFFILIATED,HYLES 8467 CANAL RD GULFPORT MS 39503 ONE MILE SOUTH OF I-10 BUS,"
+    "description": "PO BOX 2966 5030 HWY 182 E COLUMBUS MS 39704-2966 SS 930,SM 1030,SN 6,W 7 BUS, YOUTH, TEEN, SOULWINNING, COLUMBUS AFB KJB,UNAFFILIATED,HYLES GULFPORT MS 39503 ONE MILE SOUTH OF I-10 BUS"
   },
   {
     "id": "2459",
@@ -188,12 +188,12 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DENNIS WALKER. 385 N OLD CANTON RD MADISON MS 39110 KINGS KIDS, SOULWINNING, TEENS KJB, HAC"
+    "description": "MADISON MS 39110 KINGS KIDS, SOULWINNING, TEENS KJB, HAC"
   },
   {
     "id": "2460",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "",
+    "address": "39666 CHRIST",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -206,12 +206,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BILLY RAY BOND. 5097 HWY 98 W SUMMIT MS 39666 CHRISTIAN SCHOOL FOR 1ST-12TH GRADE Near MCCOMB"
+    "description": "5097 HWY 98 W SUMMIT MS IAN SCHOOL FOR 1ST-12TH GRADE Near MCCOMB"
   },
   {
     "id": "2461",
     "name": "NORTH SPOON BAPTIST CHURCH",
-    "address": "47 N SPOON RANCH RD",
+    "address": "47 N SPOON RANCH RD POPL",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -226,12 +226,12 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by ERIC HITE. KJB, UNAFFILIATED 47 N SPOON RANCH RD POPLARVILLE MS 39470 SS 945, SM 1045, SN 5, W 7 BUS,  YOUTH, SOULWINNING, ANNUAL CAMP MEETING, TAPE, REDEEMED BY GRACE PRISON"
+    "description": "KJB, UNAFFILIATED ARVILLE MS 39470 SS 945, SM 1045, SN 5, W 7 BUS, YOUTH, SOULWINNING, ANNUAL CAMP MEETING, TAPE, REDEEMED BY GRACE PRISON"
   },
   {
     "id": "2462",
     "name": "CALVARY FIRST BAPTIST CHURCH",
-    "address": "5240 MANHATTAN RD",
+    "address": "1359 RIVERWOOD DRIVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -244,7 +244,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J STEPHEN CRANE. PO BOX 13615 JACKSON MS 39236 5240 MANHATTAN RD JACKSON MS 39206 SS 10,SM 11,LUNCH NOON,SN 1,TH 6 1359 RIVERWOOD DRIVE JACKSON, MS 39211 KJB church."
+    "description": "PO BOX 13615 JACKSON MS 39236 JACKSON MS 39206 SS 10,SM 11,LUNCH NOON,SN 1,TH 6 JACKSON, MS 39211 KJB church"
   },
   {
     "id": "2463",
@@ -263,7 +263,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PAUL PERKINS. 14190 DEDEAUX RD GULFPORT MS 39503-3358 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "GULFPORT MS 39503-3358 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "2464",
@@ -283,7 +283,7 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CALEB WAYCASTER. 3707 BIENVILLE BLVD OCEAN SPRINGS MS 39564 SS 930,SM 1045,SN 6,W 630, SAT MENS PRAYER 730AM,SAT BUS MEETING SOULWINNING 930AM, YOUTH, MASTERS CLUB,TEEN, AUDIO SERMONS; GRACE BAPTIST ACADEMY K5-12,TRAD KJB church."
+    "description": "OCEAN SPRINGS MS 39564 SS 930,SM 1045,SN 6,W 630, SAT MENS PRAYER 730AM,SAT BUS MEETING SOULWINNING 930AM, YOUTH, MASTERS CLUB,TEEN, AUDIO SERMONS; GRACE BAPTIST ACADEMY K5-12,TRAD KJB church"
   },
   {
     "id": "2465",
@@ -303,7 +303,7 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MATTHEW STAHL. 645 HWY 25 DENNIS MS 38838 SS 10,SM 11,SN 6,W 7 BUS, YOUTH, TEEN, SINGLES, YOUNG ADULTS, SENIORS SAINTS, JR CHURCH, SOULWINNING, PROPHETS CHAMBER; EMMANUEL CHRISTIAN SCHOOL,PS-12,ACE & BEKA KJB, UNAFF"
+    "description": "645 HWY 25 DENNIS MS 38838 SS 10,SM 11,SN 6,W 7 BUS, YOUTH, TEEN, SINGLES, YOUNG ADULTS, SENIORS SAINTS, JR CHURCH, SOULWINNING, PROPHETS CHAMBER; EMMANUEL CHRISTIAN SCHOOL,PS-12,ACE & BEKA KJB, UNAFF"
   },
   {
     "id": "2466",
@@ -321,7 +321,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY CAUDILL. 308 W JACKSON RD UNION MS 36365 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "UNION MS 36365 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2467",
@@ -340,7 +340,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JOHN SANDERS. 11051 HWY 395 PHILADELPHIA MS 39350 KJB church."
+    "description": "11051 HWY 395 PHILADELPHIA MS 39350 KJB church"
   },
   {
     "id": "2468",
@@ -358,12 +358,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONNIE BAREFIELD. 4416 WILDWOOD RD MOSS POINT MS 39562 4 MILES NORTH OF I-10,CORNER OF HWY 63 & WILDWOOD RD SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "MOSS POINT MS 39562 4 MILES NORTH OF I-10,CORNER OF HWY 63 & WILDWOOD RD SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2469",
     "name": "UNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "701 RIPL",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -376,7 +376,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD WEST. 3880 CR 701 RIPLEY MS 38663 AUDIO SERMONS KJB church."
+    "description": "3880 CR EY MS 38663 AUDIO SERMONS KJB church"
   },
   {
     "id": "2470",
@@ -395,7 +395,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL G PURVIS. 505 FRIARS POINT RD CLARKSDALE MS 38614 SS 945, SM 11, SN 5, W 7 KJB, FUNDAMENTAL 4664 HWY 589 N SUMRALL MS 39482 SS 10, SM 11, SN 6, W 7"
+    "description": "CLARKSDALE MS 38614 SS 945, SM 11, SN 5, W 7 KJB, FUNDAMENTAL 4664 HWY 589 N SUMRALL MS 39482 SS 10, SM 11, SN 6, W 7"
   },
   {
     "id": "2471",
@@ -414,7 +414,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY L NEFF. 85 LEBANON CHURCH ROAD SEMINARY MS 39479 SS 10,SM 11,SN 6,W 7 WAYFARER BIBLE INSTITUTE PO BOX 1385 COLLIERVILLE TN 38027-1385 PHYSICAL ADD: 5285 CAYCE RD BYHALIA MS 38611 SS 10,SM 11,SN 6,W 7 PO BOX 2 KJB church."
+    "description": "SEMINARY MS 39479 SS 10,SM 11,SN 6,W 7 WAYFARER BIBLE INSTITUTE PO BOX 1385 COLLIERVILLE TN 38027-1385 PHYSICAL ADD: 5285 CAYCE RD BYHALIA MS 38611 SS 10,SM 11,SN 6,W 7 PO BOX 2 KJB church"
   },
   {
     "id": "2472",
@@ -432,12 +432,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL ADAMSON. 6801 HIGHWAY 11 CARRIERE MS 39426 PHYSICAL ADD: 112 SYCAMORE RD KJB, HAC"
+    "description": "CARRIERE MS 39426 PHYSICAL ADD: 112 SYCAMORE RD KJB, HAC"
   },
   {
     "id": "2473",
     "name": "NORTHVIEW BAPTIST CHURCH",
-    "address": "1363 UNION ST EXT NE",
+    "address": "1363 UNION ST EXT NE BROOKHAVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -450,7 +450,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM WEEMS. 1363 UNION ST EXT NE BROOKHAVEN MS 39601-9657 KJB, UNAFFLIATEDT"
+    "description": "N MS 39601-9657 KJB, UNAFFLIATEDT"
   },
   {
     "id": "2474",
@@ -463,18 +463,18 @@ export const mississippiChurches: Church[] = [
     "longitude": -88.9742,
     "phone": "(601) 433-1306",
     "website": "http://www.gospellightoflaurel.com",
-    "pastor": "",
+    "pastor": "LAUREL MS 39440 SS 10,SM 11,SN 6,W 7 SOULWINNING, OLD FASHIONED; BIBLE INSTITUTE TUESDAY NIGHT 630-930 PM KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "3805 AUDUBON DR LAUREL MS 39440 SS 10,SM 11,SN 6,W 7 SOULWINNING, OLD FASHIONED; BIBLE INSTITUTE TUESDAY NIGHT 630-930 PM KJB church."
+    "description": "LAUREL MS 39440 SS 10,SM 11,SN 6,W 7 SOULWINNING, OLD FASHIONED; BIBLE INSTITUTE TUESDAY NIGHT 630-930 PM KJB church"
   },
   {
     "id": "2475",
     "name": "HIGHWAY BAPTIST CHURCH",
-    "address": "",
+    "address": "51 SOUTHAVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -487,7 +487,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE MACKENDER. 7515 HWY 51 SOUTHAVEN MS 38671 KJB church."
+    "description": "7515 HWY N MS 38671 KJB church"
   },
   {
     "id": "2476",
@@ -505,7 +505,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY BAGLEY. HWY 588 SEMINARY MS 39479 ON HWY 590 E OF SEMINARY SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "HWY 588 SEMINARY MS 39479 ON HWY 590 E OF SEMINARY SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2477",
@@ -523,12 +523,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARREL STACY. RR 1 BOX 43 COLLINS MS 39428-9711 KJB church."
+    "description": "RR 1 BOX 43 COLLINS MS 39428-9711 KJB church"
   },
   {
     "id": "2478",
     "name": "GRACE ACRES BAPTIST CHURCH",
-    "address": "3418 SWINNEA RD",
+    "address": "3418 SWINNEA RD SOUTHAVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -541,7 +541,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYNN MCCORD. 3418 SWINNEA RD SOUTHAVEN MS 38672 KJB church."
+    "description": "N MS 38672 KJB church"
   },
   {
     "id": "2479",
@@ -561,12 +561,12 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KEN SHINN. 5114 HWY 178 E POTTS CAMP MS 38659 SS 945,SM 1030,W 7 BUS, SOULWINNING KJB, UNAFFILIATED 720 CHURCH ST COLUMBIA MS 39429 SS 10,SM 11,SN 6,W 7"
+    "description": "5114 HWY 178 E POTTS CAMP MS 38659 SS 945,SM 1030,W 7 BUS, SOULWINNING KJB, UNAFFILIATED COLUMBIA MS 39429 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2480",
     "name": "CLEARVIEW BAPTIST CHURCH",
-    "address": "3345 E GOODMAN RD",
+    "address": "3345 E GOODMAN RD SOUTHAVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -579,12 +579,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN MOREAUX. 3345 E GOODMAN RD SOUTHAVEN MS 38654 OLIVE BRANCH AREA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "N MS 38654 OLIVE BRANCH AREA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2481",
     "name": "KENWOOD MISSIONARY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 3522",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -597,7 +597,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARUE HILL. PO BOX 3522 12217 OLD HWY 49 GULFPORT MS 39503 SS 945,SM 1030,SN 5,W 7 SERVICEMEN’S CENTER: DIRECTOR JACK WELLMAN GULFPORT CB STATION, KEESLER AFB KJB church."
+    "description": "12217 OLD HWY 49 GULFPORT MS 39503 SS 945,SM 1030,SN 5,W 7 SERVICEMEN’S CENTER: DIRECTOR JACK WELLMAN GULFPORT CB STATION, KEESLER AFB KJB church"
   },
   {
     "id": "2482",
@@ -616,7 +616,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DEXTER TRUESDALE. 7 POP RUNNELS RD PETAL MS 39465-9785 KJB church."
+    "description": "PETAL MS 39465-9785 KJB church"
   },
   {
     "id": "2483",
@@ -634,7 +634,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "738 N FLAG CHAPEL RD JACKSON MS 39209"
+    "description": "JACKSON MS 39209"
   },
   {
     "id": "2484",
@@ -652,7 +652,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROY CROUCH. KJB, IBFI"
+    "description": "KJB, IBFI"
   },
   {
     "id": "2485",
@@ -670,12 +670,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAVON JENKINS. 1743 HWY 29 N NORTH ELLISVILLE MS 39437 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "1743 HWY 29 N NORTH ELLISVILLE MS 39437 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2486",
     "name": "FORT BAYOU BAPTIST CHURCH",
-    "address": "12125 S SEAMAN RD",
+    "address": "12125 S SEAMAN RD VANCLEAVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "12125",
@@ -688,7 +688,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHNNY HUGHES. 12125 S SEAMAN RD VANCLEAVE MS 39565 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "MS 39565 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2487",
@@ -708,7 +708,7 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GARY R BEADLES. PO BOX 3 63383 HWY 25 SMITHVILLE MS 38870-0003 8798 HWY 51 COLDWATER MS 38618-9112 1/4 MILE S OF 4 WAY STOP IN COLDWATER SS 930,SM 1030,SN 6,W 7 SOULWINNING TU 7 SAT 10 BUS (COLDWATER, SENATOBIA, AREA KJB church."
+    "description": "PO BOX 3 63383 HWY 25 SMITHVILLE MS 38870-0003 8798 HWY 51 COLDWATER MS 38618-9112 SS 930,SM 1030,SN 6,W 7 SOULWINNING TU 7 SAT 10 BUS (COLDWATER, SENATOBIA, AREA KJB church"
   },
   {
     "id": "2488",
@@ -727,7 +727,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by ARTHUR LEE. 4368 GOODMAN RD W WALLS MS 38680-9733 SS 945, SM 1045, SN 6, W 7 NEAR MEMPHIS TN SS FOR ALL AGES, NURSERY, BUS, TEEN, DEAF, PATCH CLUBS, CHOIRS KJB, BMA"
+    "description": "WALLS MS 38680-9733 SS 945, SM 1045, SN 6, W 7 NEAR MEMPHIS TN SS FOR ALL AGES, NURSERY, BUS, TEEN, DEAF, PATCH CLUBS, CHOIRS KJB, BMA"
   },
   {
     "id": "2489",
@@ -746,7 +746,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTTY WOOD. 7 OLD KILN RD PICAYUNE MS 39466-5559 SS 900,SM 10,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "PICAYUNE MS 39466-5559 SS 900,SM 10,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2490",
@@ -766,7 +766,7 @@ export const mississippiChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by JOHN SMITH. 14 CR 106 CORINTH MS 38834 SS 10,SM 11,SN 6,W 7 KJB, BBC-MO, BBFI PO BOX 1 728 S MAIN ST PETAL MS 39465 KJB, ABA"
+    "description": "14 CR 106 CORINTH MS 38834 SS 10,SM 11,SN 6,W 7 KJB, BBC-MO, BBFI PO BOX 1 PETAL MS 39465 KJB, ABA"
   },
   {
     "id": "2491",
@@ -784,7 +784,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE POSEY. 60271 HATLEY RD AMORY MS 38821-8966 KJB church."
+    "description": "AMORY MS 38821-8966 KJB church"
   },
   {
     "id": "2492",
@@ -803,7 +803,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM STADY. PO BOX 1849 7 HICKORY NUT RD PICAYUNE MS 39466 SS 10,SM 11,SN 6,W 7 KJV, BBF 12200 DEDEAUX RD GULFPORT MS 39503-5912 SS 930,SM 1030,SN 430,W 7 AWANA; CHRISTIAN COLLEGIATE ACADEMY,K-12 KJB, BBC-MO, BBF"
+    "description": "PO BOX 1849 PICAYUNE MS 39466 SS 10,SM 11,SN 6,W 7 KJV, BBF 12200 DEDEAUX RD GULFPORT MS 39503-5912 SS 930,SM 1030,SN 430,W 7 AWANA; CHRISTIAN COLLEGIATE ACADEMY,K-12 KJB, BBC-MO, BBF"
   },
   {
     "id": "2493",
@@ -821,7 +821,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN BLACK II. PO BOX 817 1617 OLD SPANISH TRAIL GAUTIER MS 39553-0817 SS 10,SM 11,SN 6,W 7 YOUTH, TEEN SINGLES, COUPLES, SENIORS 3208 NATHAN HALE AVE PASCAGOULA MS 39567-4219 SS 10,SM 11,SN 7,W 7 25310 HWY 603 KILN KJB church."
+    "description": "PO BOX 817 1617 OLD SPANISH TRAIL GAUTIER MS 39553-0817 SS 10,SM 11,SN 6,W 7 YOUTH, TEEN SINGLES, COUPLES, SENIORS PASCAGOULA MS 39567-4219 SS 10,SM 11,SN 7,W 7 25310 HWY 603 KILN KJB church"
   },
   {
     "id": "2494",
@@ -839,7 +839,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILLIP TIDWELL. 1337 HWY 2 E HICKORY FLAT MS 38633 4111 HWY 322 (SHERARD RD) CLARKSDALE MS 38614 KJB church."
+    "description": "1337 HWY 2 E HICKORY FLAT MS 38633 4111 HWY 322 (SHERARD RD) CLARKSDALE MS 38614 KJB church"
   },
   {
     "id": "2495",
@@ -858,7 +858,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by DR EUGENE ANDERSON. PO BOX 1452 CLARKSDALE MS 38614 323 ADAMS CIRCLE LURAND, MS KJB, BMA"
+    "description": "PO BOX 1452 CLARKSDALE MS 38614 LURAND, MS KJB, BMA"
   },
   {
     "id": "2496",
@@ -876,12 +876,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY MOORE. PO BOX 1 334 VARDAMAN ST S WIGGINS MS 39577 SS 930,SM 1030,SN 550,W 7 AWANA; VARDAMAN ST CHRISTIAN ACADEMY,K-12 KJB, HAC PO BOX 517 POTTS CAMP MS 38659 PHYSICAL ADD: 3767 OLD HWY 78 HICKORY FLAT MS 38"
+    "description": "PO BOX 1 WIGGINS MS 39577 SS 930,SM 1030,SN 550,W 7 AWANA; VARDAMAN ST CHRISTIAN ACADEMY,K-12 KJB, HAC PO BOX 517 POTTS CAMP MS 38659 PHYSICAL ADD: 3767 OLD HWY 78 HICKORY FLAT MS 38"
   },
   {
     "id": "2497",
     "name": "FIFTH STREET BAPTIST CHURCH",
-    "address": "610 W 5TH ST",
+    "address": "637 E REED RD",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -896,7 +896,7 @@ export const mississippiChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ARTHUR R SCOTT. PO BOX 561 610 W 5TH ST IUKA MS 38852-0561 KJV, BBF 637 E REED RD GREENVILLE MS 38701 SS 10,SM 11,SN 6,W 7 BUS, YOUTH KJB, UNAFFILIATED"
+    "description": "PO BOX 561 610 W 5TH ST IUKA MS 38852-0561 KJV, BBF GREENVILLE MS 38701 SS 10,SM 11,SN 6,W 7 BUS, YOUTH KJB, UNAFFILIATED"
   },
   {
     "id": "2498",
@@ -914,7 +914,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 311 4253 HWY 8 EAST CLEVELAND MS 38732"
+    "description": "PO BOX 311 CLEVELAND MS 38732"
   },
   {
     "id": "2499",
@@ -932,12 +932,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2500",
     "name": "FIRST BAPTIST BIBLE CHURCH",
-    "address": "87 LOMBARDY RD",
+    "address": "87 LOMBARDY RD DR",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -950,7 +950,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB GARLAND. RR 1 BOX 5 87 LOMBARDY RD DREW MS 38737 SS 10,SM 11,SN 6,W 7:30 BUS,YOUTH; CHRISTIAN SCHOOL,ACE K-12 KJB, HAC"
+    "description": "RR 1 BOX 5 EW MS 38737 SS 10,SM 11,SN 6,W 7:30 BUS,YOUTH; CHRISTIAN SCHOOL,ACE K-12 KJB, HAC"
   },
   {
     "id": "2501",
@@ -968,7 +968,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "830 SHUMACOLA TRL TUPELO MS 38801 SS 945,SM 11,SN 6,W 7 BUS, YOUTH, TEEN SINGLES COUP, SENIORS, PROPHETS CHAMBER; LAKEVIEW BAPTIST ACADEMY,K4-12 BEKA KJB church."
+    "description": "830 SHUMACOLA TRL TUPELO MS 38801 SS 945,SM 11,SN 6,W 7 BUS, YOUTH, TEEN SINGLES COUP, SENIORS, PROPHETS CHAMBER; LAKEVIEW BAPTIST ACADEMY,K4-12 BEKA KJB church"
   },
   {
     "id": "2502",
@@ -986,7 +986,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEWIS BRIDGES. 183 ROAD 49 TUPELO MS 38804 KJB church."
+    "description": "TUPELO MS 38804 KJB church"
   },
   {
     "id": "2503",
@@ -1005,12 +1005,12 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHRIS ESTEP. 2280 W JACKSON ST TUPELO MS 38801 SS 945,SM 1055,SN 6,W 7 TV,SOULWINNING,BIBLE STUDIES; HERITAGE ACADEMY,K-12 KJB church."
+    "description": "TUPELO MS 38801 SS 945,SM 1055,SN 6,W 7 TV,SOULWINNING,BIBLE STUDIES; HERITAGE ACADEMY,K-12 KJB church"
   },
   {
     "id": "2504",
     "name": "BRIGMAN HILL BAPTIST CHURCH",
-    "address": "",
+    "address": "369 FARMINGTON RD",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1023,12 +1023,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD SCULLEY. PO BOX 369 FARMINGTON RD CORINTH MS 38834 SS 10,SM 11,SN 6,W 7 KJB, CROWN-BC"
+    "description": "PO BOX CORINTH MS 38834 SS 10,SM 11,SN 6,W 7 KJB, CROWN-BC"
   },
   {
     "id": "2505",
     "name": "GRACE BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 808",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1042,7 +1042,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREG KELLEY. PO BOX 808 2109 HWY 45 N CORINTH MS 38834 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "2109 HWY 45 N CORINTH MS 38834 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "2506",
@@ -1061,7 +1061,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DARREN VROMAN. 1407 MARTIN LUTHER KING JR RD NATCHEZ MS 39120-8311 PO DRAWER 1425 MORGANTOWN RD NATCHEZ MS 39121-1425 MARANATHA MENS RETREAT KJB church."
+    "description": "NATCHEZ MS 39120-8311 PO DRAWER 1425 MORGANTOWN RD NATCHEZ MS 39121-1425 MARANATHA MENS RETREAT KJB church"
   },
   {
     "id": "2507",
@@ -1079,7 +1079,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARVIN CURTIS JR. SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "2508",
@@ -1097,7 +1097,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR CARL FLOYD. 829 BELVA DR VICKSBURG MS 39180-8408 AUDIO SERMONS AND SINGING SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB, HAC"
+    "description": "VICKSBURG MS 39180-8408 AUDIO SERMONS AND SINGING SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB, HAC"
   },
   {
     "id": "2509",
@@ -1116,7 +1116,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RAYMOND E BELL. 3823 S SIWELL RD JACKSON MS 39212-4397 BUS, DEAF, PROPHETS CHAMBER KJB,BBF"
+    "description": "JACKSON MS 39212-4397 BUS, DEAF, PROPHETS CHAMBER KJB,BBF"
   },
   {
     "id": "2510",
@@ -1134,12 +1134,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB HILL. 9264 HWY 39 N MERIDIAN MS 39305-9146 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, PROPHETS CHAMBER KJB, TTU 1300 ECKFORD ST WATER VALLEY MS 38965 SS 945,SM 1045,SN 6,W 630"
+    "description": "9264 HWY 39 N MERIDIAN MS 39305-9146 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, PROPHETS CHAMBER KJB, TTU WATER VALLEY MS 38965 SS 945,SM 1045,SN 6,W 630"
   },
   {
     "id": "2511",
     "name": "NEW HARMONY BAPTIST CHURCH",
-    "address": "",
+    "address": "0447 CHRIST",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1153,7 +1153,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by HARRY BURGE. PO BOX 447 OLD HWY 7 N HOLLY SPRINGS MS 38635-0447 CHRISTIAN SCHOOL KJB,BMA"
+    "description": "PO BOX 447 OLD HWY 7 N HOLLY SPRINGS MS 38635-IAN SCHOOL KJB,BMA"
   },
   {
     "id": "2512",
@@ -1171,7 +1171,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILEY GRAHAM. 2701 JACKSON LANDING PICAYUNE MS 39466 SS 945,SM 11,SN 630,W 7 KJB church."
+    "description": "2701 JACKSON LANDING PICAYUNE MS 39466 SS 945,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2513",
@@ -1189,7 +1189,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES MCKINNEY. 1416 HWY 589 N PURVIS MS 39455 KJB church."
+    "description": "1416 HWY 589 N PURVIS MS 39455 KJB church"
   },
   {
     "id": "2514",
@@ -1207,7 +1207,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY REED. PO BOX 406 HWY 57 OCEAN SPRINGS MS 39564 SM 10,SN 6,W 630 3003 BELAIR ST PASCAGOULA MS 39567 KJB church."
+    "description": "PO BOX 406 HWY 57 OCEAN SPRINGS MS 39564 SM 10,SN 6,W 630 PASCAGOULA MS 39567 KJB church"
   },
   {
     "id": "2515",
@@ -1226,12 +1226,12 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN E WOMACK. 60370 COTTON GIN PORT RD (HWY 278 E) AMORY MS 38821 KJB church."
+    "description": "(HWY 278 E) AMORY MS 38821 KJB church"
   },
   {
     "id": "2516",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "HWY 50",
+    "address": "1064 J Y TURNER RD",
     "city": "CRAWFORD",
     "state": "MS",
     "zipCode": "",
@@ -1244,7 +1244,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY WOODS. RR 2 BOX 446 MABEN MS 39750 HWY 50, CRAWFORD 1064 J Y TURNER RD MABEN MS 39750 KJB church."
+    "description": "RR 2 BOX 446 MABEN MS 39750 HWY 50, CRAWFORD MABEN MS 39750 KJB church"
   },
   {
     "id": "2517",
@@ -1262,12 +1262,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAMUEL MITCHELL. 1482 J Y TURNER RD MABEN MS 39750 SS 10, SM 11,SN 6,W 7 KJB church."
+    "description": "MABEN MS 39750 SS 10, SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2518",
     "name": "BIBLE STUDY BAPTIST CHURCH",
-    "address": "5812 GRIERSON ST",
+    "address": "1804 SKY FARM AVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1280,12 +1280,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by E L SHARP. 5812 GRIERSON ST MOSS POINT MS 39563 SM 11,SN 630,W 630 1804 SKY FARM AVE VICKSBURG MS 39180 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "MOSS POINT MS 39563 SM 11,SN 630,W 630 VICKSBURG MS 39180 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2519",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "",
+    "address": "49 PERKINST",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1298,7 +1298,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY BELL. PO BOX 123 2028 US HWY 49 PERKINSTON MS 39573 NEAR WIGGINS MS SS 945,SM 1045,SN 6,W 7 HWY 322 E LAMBERT MS 38643 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 123 2028 US HWY ON MS 39573 NEAR WIGGINS MS SS 945,SM 1045,SN 6,W 7 HWY 322 E LAMBERT MS 38643 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2520",
@@ -1317,7 +1317,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRAD NEWSOME. KJB, BBF 7226 GORENFLO RD NORTH BILOXI MS 39532 INCLUDES D'IBBERVILLE & ST MARTIN AREAS SS 10,SM 11,SN 630,W 7 AWANA, BUS, CHOIR, LADIES CONF, KEESLER AFB, GULFPORT CB BASE, PASCAGOULA NAVY KJB, RUCKM"
+    "description": "KJB, BBF NORTH BILOXI MS 39532 INCLUDES D'IBBERVILLE & ST MARTIN AREAS SS 10,SM 11,SN 630,W 7 AWANA, BUS, CHOIR, LADIES CONF, KEESLER AFB, GULFPORT CB BASE, PASCAGOULA NAVY KJB, RUCKM"
   },
   {
     "id": "2521",
@@ -1336,7 +1336,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE PHILLIPS. 157 CHURCH RD ANGUILLA MS 38721 MARTIAL ARTS KJB, BBF"
+    "description": "ANGUILLA MS 38721 MARTIAL ARTS KJB, BBF"
   },
   {
     "id": "2522",
@@ -1354,7 +1354,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RODNEY WAYCASTER. PO BOX 277 MCNEILL MS 39457 151 S WELLSTON RD, LUMBERTON SS 10,SM 11,SN 6,W 7 PO BOX 152 BECKER MS 38825 50053 CALVARY CHURCH AMORY MS 38821 KJB church."
+    "description": "PO BOX 277 MCNEILL MS 39457 , LUMBERTON SS 10,SM 11,SN 6,W 7 PO BOX 152 BECKER MS 38825 50053 CALVARY CHURCH AMORY MS 38821 KJB church"
   },
   {
     "id": "2523",
@@ -1372,7 +1372,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN PULLENS. 5402 HWY 49 HATTIESBURG MS 39401 AUDIO SERMONS KJB church."
+    "description": "5402 HWY 49 HATTIESBURG MS 39401 AUDIO SERMONS KJB church"
   },
   {
     "id": "2524",
@@ -1390,7 +1390,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY MCVEAY SR. 22080 RICOVILLE RD SAUCIER MS 39574 KJB church."
+    "description": "SAUCIER MS 39574 KJB church"
   },
   {
     "id": "2525",
@@ -1408,12 +1408,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALBERT CREEL. 1704 LADNIER RD GAUTIER MS 39553 KJB church."
+    "description": "GAUTIER MS 39553 KJB church"
   },
   {
     "id": "2526",
     "name": "SHILOH BAPTIST CHURCH",
-    "address": "209 N JADEK DR NE",
+    "address": "9457 PHYSICAL ADD TOMMY STUBBS RD JUST",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1426,7 +1426,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NE. MAGEE MS 39111-9457 PHYSICAL ADD TOMMY STUBBS RD JUST OFF HWY 49 MT OLIVE MS 39119 KJB church."
+    "description": "MAGEE MS 39111- OFF HWY 49 MT OLIVE MS 39119 KJB church"
   },
   {
     "id": "2527",
@@ -1439,12 +1439,12 @@ export const mississippiChurches: Church[] = [
     "longitude": -88.5853,
     "phone": "(601) 722-3969",
     "website": "https://juno.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "190 RAY HARVEY RD SEMINARY MS 39479 NEEDS PASTOR KJB church."
+    "description": "SEMINARY MS 39479 NEEDS"
   },
   {
     "id": "2528",
@@ -1462,7 +1462,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM YORK. PO BOX 2344 13340 RENE AVE GULFPORT MS 39505 SS 945,SM 11,SN 6,W 630 KJB church."
+    "description": "PO BOX 2344 GULFPORT MS 39505 SS 945,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "2529",
@@ -1482,7 +1482,7 @@ export const mississippiChurches: Church[] = [
       "Soulwinning",
       "BMA"
     ],
-    "description": "Led by RON WESTMORELAND. 5508 HWY 84 W LAUREL MS 39442 6001 GOODMAN RD WALLS MS 38680 NEAR MEMPHIS TN SS 945,SM 1045,SN 6,W 7 BUS, SOULWINNING, MISSIONS, JAIL, PRISON, TRUCK STOP, AUDIO SERMONS; TRI-STATE BAPTIST COLLEGE KJB,"
+    "description": "5508 HWY 84 W LAUREL MS 39442 WALLS MS 38680 NEAR MEMPHIS TN SS 945,SM 1045,SN 6,W 7 BUS, SOULWINNING, MISSIONS, JAIL, PRISON, TRUCK STOP, AUDIO SERMONS; TRI-STATE BAPTIST COLLEGE KJB"
   },
   {
     "id": "2530",
@@ -1501,7 +1501,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE STANCIL. MT CARMEL RD CARRIERE MS 39466 KJB, BBF"
+    "description": "MT CARMEL RD CARRIERE MS 39466 KJB, BBF"
   },
   {
     "id": "2531",
@@ -1520,12 +1520,12 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by DAVID THOMAS. 5911 TERRY RD BYRAM MS 39272 SOUTH OF JACKSON 1-55 S SS 9,SM 10,SN 6,W 7 AUDIO SERMONS, TEEN, YOUTH-WED NIGHT CHILDREN ALL AGES; HERITAGE CHRISTIAN ACADEMY KJB,BMA"
+    "description": "BYRAM MS 39272 SOUTH OF JACKSON 1-55 S SS 9,SM 10,SN 6,W 7 AUDIO SERMONS, TEEN, YOUTH-WED NIGHT CHILDREN ALL AGES; HERITAGE CHRISTIAN ACADEMY KJB,BMA"
   },
   {
     "id": "2532",
     "name": "NORTH GAUTIER BAPTIST CHURCH",
-    "address": "2405 CALLIE RD",
+    "address": "111 PIERCE TOWN RD",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1539,12 +1539,12 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WALLACE STRAWN. 2405 CALLIE RD GAUTIER MS 39553 KJB, BBF, IBFI, GIBF 111 PIERCE TOWN RD FULTON MS 38843-9505"
+    "description": "GAUTIER MS 39553 KJB, BBF, IBFI, GIBF FULTON MS 38843-9505"
   },
   {
     "id": "2533",
     "name": "FAITH BIBLE CHURCH",
-    "address": "110 MALCOMB ST",
+    "address": "110 MALCOMB ST HOUST",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1559,7 +1559,7 @@ export const mississippiChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by DEWAYNE WILKERSON. 110 MALCOMB ST HOUSTON MS 38851 KJB,UNAFFILIATED 2550 WALHILL RD COLDWATER MS 38618 NEAR MEMPHIS TN SS 10,SM 11,SN 530,W 7 VICTORY CHRISTIAN SCHOOL; VICTORY BAPTIST BIBLE INSTITUTE; MEMPHIS/MILLINGTON"
+    "description": "ON MS 38851 KJB,UNAFFILIATED 2550 WALHILL RD COLDWATER MS 38618 NEAR MEMPHIS TN SS 10,SM 11,SN 530,W 7 VICTORY CHRISTIAN SCHOOL; VICTORY BAPTIST BIBLE INSTITUTE; MEMPHIS/MILLINGTON"
   },
   {
     "id": "2534",
@@ -1578,7 +1578,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMIE STARK. PO BOX 534 MCNEIL MS 39457-0534 8 Z R MITCHELL RD, POPLARVILLE KJB, BBF"
+    "description": "PO BOX 534 MCNEIL MS 39457-0534 , POPLARVILLE KJB, BBF"
   },
   {
     "id": "2535",
@@ -1596,7 +1596,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GENE HIGGINBOTHAM. 1201 TRACE RD AMORY MS 38821-9802 KJB church."
+    "description": "AMORY MS 38821-9802 KJB church"
   },
   {
     "id": "2536",
@@ -1614,7 +1614,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CASEY JONES. LITTLE ROCK MS 39337"
+    "description": "LITTLE ROCK MS 39337"
   },
   {
     "id": "2537",
@@ -1650,7 +1650,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "NETTLETON MS 38858-9803 BBF church."
+    "description": "NETTLETON MS 38858-9803 BBF church"
   },
   {
     "id": "2539",
@@ -1668,7 +1668,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by N. PO BOX 784 CANTON MS 39046-3037 SS 930,SM 11,W 7"
+    "description": "PO BOX 784 CANTON MS 39046-3037 SS 930,SM 11,W 7"
   },
   {
     "id": "2540",
@@ -1686,7 +1686,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DWIGHT FLEMING. RR 1 BOX 53 HWY 2424 HICKORY MS 39332-9604 BBF church."
+    "description": "RR 1 BOX 53 HWY 2424 HICKORY MS 39332-9604 BBF church"
   },
   {
     "id": "2541",
@@ -1704,12 +1704,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KEN WALTERS. RR 8 BOX 287 PHILADELPHIA MS 39350-8734 MS 395 NOXAPATER MS"
+    "description": "RR 8 BOX 287 PHILADELPHIA MS 39350-8734 MS 395 NOXAPATER MS"
   },
   {
     "id": "2542",
     "name": "CENTRAL INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "84 E WAY",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1723,12 +1723,12 @@ export const mississippiChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by PHILLIP VANVLECK. 7716 HWY 84 E WAYNESBORO MS 39367 BBF church."
+    "description": "7716 HWY NESBORO MS 39367 BBF church"
   },
   {
     "id": "2543",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "",
+    "address": "238 MCNEILL STEEPHOLLOW RD",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1741,7 +1741,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WILLIAM D CLARK. PO BOX 238 MCNEILL STEEPHOLLOW RD MCNEILL MS 39457"
+    "description": "PO BOX MCNEILL MS 39457"
   },
   {
     "id": "2544",
@@ -1764,7 +1764,7 @@ export const mississippiChurches: Church[] = [
   {
     "id": "2545",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "335 WAVE",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1777,7 +1777,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LARUE STEPHENS. 331 HWY 72 WALNUT MS 38683 PO BOX 335 WAVELAND MS 39576 BBF church."
+    "description": "331 HWY UT MS 38683 PO BOX LAND MS 39576 BBF church"
   },
   {
     "id": "2546",
@@ -1795,12 +1795,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by EARNEST K GORDON. 1020 MCDOWELL RD JACKSON MS 39204 578 N GATE RD HATTIESBURG MS 39401 BBF church."
+    "description": "JACKSON MS 39204 578 N GATE RD HATTIESBURG MS 39401 BBF church"
   },
   {
     "id": "2547",
     "name": "VICTORY INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 981",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1815,7 +1815,7 @@ export const mississippiChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by BILLY MICHAEL. PO BOX 981 HWY 51 S BATESVILLE MS 38606 SS 945,SM 1045,SN 6,W 730 KJB, S.GRACE"
+    "description": "HWY 51 S BATESVILLE MS 38606 SS 945,SM 1045,SN 6,W 730 KJB, S.GRACE"
   },
   {
     "id": "2548",
@@ -1834,7 +1834,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVID LEE. 310 FANT HOLLY SPRINGS MS 38653 KJV, S.GRACE PO BOX 351 STAR MS 39167 1859 OLD BRANDON RD PEARL MS SS 10,SM 11,SN 530,W 730 S.GRACE-TULIP PO BOX 876 327 2ND ST GRENADA MS 38901 1818 OLD HIGHWAY 26 PER KJB church."
+    "description": "310 FANT HOLLY SPRINGS MS 38653 KJV, S.GRACE PO BOX 351 STAR MS 39167 PEARL MS SS 10,SM 11,SN 530,W 730 S.GRACE-TULIP PO BOX 876 327 2ND ST GRENADA MS 38901 1818 OLD HIGHWAY 26 PER KJB church"
   },
   {
     "id": "2549",
@@ -1853,7 +1853,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by MATT RUSSELL. PO BOX 595 566 CAMP MCCAIN RD ELLIOTT MS 38926 SS 10,SM 11,SN 6,W 7 KEENAGERS, YOUTH, CHOIR, COLUMBUS AFB BMA, PREACH-VARIOUS VERSIONS PO BOX 68 LUCEDALE MS 39452 SUMMMER KJV, CCM KJB church."
+    "description": "PO BOX 595 ELLIOTT MS 38926 SS 10,SM 11,SN 6,W 7 KEENAGERS, YOUTH, CHOIR, COLUMBUS AFB BMA, PREACH-VARIOUS VERSIONS PO BOX 68 LUCEDALE MS 39452 SUMMMER KJV, CCM KJB church"
   },
   {
     "id": "2550",
@@ -1871,7 +1871,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RAYMOND SPANN. 115 ENDVILLE RD BELDEN MS 38826 SS 10,SM 11,SN 6,W 7 TULIP-S.GRACE"
+    "description": "BELDEN MS 38826 SS 10,SM 11,SN 6,W 7 TULIP-S.GRACE"
   },
   {
     "id": "2551",
@@ -1889,12 +1889,12 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JEFFREY SHORT. YORKVILLE & CEDARCREST COLUMBUS MS 39702 COLUMBUS AFB S.GRACE-TULIP"
+    "description": "YORKVILLE & CEDARCREST COLUMBUS MS 39702 COLUMBUS AFB S.GRACE-TULIP"
   },
   {
     "id": "2552",
     "name": "BEREA BAPTIST CHURCH",
-    "address": "1615 VANCE RD",
+    "address": "1195 MORRISON DR",
     "city": "Jackson",
     "state": "MS",
     "zipCode": "",
@@ -1902,13 +1902,13 @@ export const mississippiChurches: Church[] = [
     "longitude": -90.6551,
     "phone": "(662) 226-6861",
     "website": "http://www.bereabaptistchurch.org",
-    "pastor": "LARRY L WINDHAM",
+    "pastor": "NOT KJV ONLY, BJU, FBF KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "ABA"
     ],
-    "description": "Led by LARRY L WINDHAM. 3915 WHY 363 MANTACHIE MS 38855 TULIP-S.GRACE 1615 VANCE RD GRENADA MS 36901 1195 MORRISON DR NOT KJV ONLY, BJU, FBF KJB church."
+    "description": "3915 WHY 363 MANTACHIE MS 38855 TULIP-S.GRACE GRENADA MS 36901 NOT KJV ONLY, BJU, FBF KJB church"
   },
   {
     "id": "2553",
@@ -1926,7 +1926,7 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MARK FENISON. PO BOX 4991 624 GAMARI RD GREENVILLE MS 38704 SS 10,SM 11,SN 6,W 7 S.GRACE-TULIP"
+    "description": "PO BOX 4991 GREENVILLE MS 38704 SS 10,SM 11,SN 6,W 7 S.GRACE-TULIP"
   },
   {
     "id": "2554",
@@ -1945,7 +1945,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ROGER CRESSWELL. 807 S CUMMINGS ST FULTON MS 38843 NKJV, CCM KJB church."
+    "description": "FULTON MS 38843 NKJV, CCM KJB church"
   },
   {
     "id": "2555",
@@ -1964,7 +1964,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SPRUCE DERDEN. 2918 FISHER FERRY RD VICKSBURG MS 39180 SS 930,SM 1030,W 7 AWANA, TEXT SERMONS NOT KJV ONLY, BBF KJB church."
+    "description": "VICKSBURG MS 39180 SS 930,SM 1030,W 7 AWANA, TEXT SERMONS NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2556",
@@ -1983,7 +1983,7 @@ export const mississippiChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by MARTIN JAMESON. 1651 MARTIN LUTHER KING JR DR NATCHEZ MS 39120-8316 BMA, PREACH-KJV, STUDY-KJV,TR & VARIETY 445 BETHEL CHURCH RD FULTON MS 38843 SS 845,SM 11,SN 6,W 7 DEAF, SENIORS, CHOIR NOT KJV ONLY, BMA KJB church."
+    "description": "NATCHEZ MS 39120-8316 BMA, PREACH-KJV, STUDY-KJV,TR & VARIETY 445 BETHEL CHURCH RD FULTON MS 38843 SS 845,SM 11,SN 6,W 7 DEAF, SENIORS, CHOIR NOT KJV ONLY, BMA KJB church"
   },
   {
     "id": "2557",
@@ -2001,6 +2001,6 @@ export const mississippiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "50 GETWELL RD S HERNANDO MS 38632 AUDIO SERMONS"
+    "description": "HERNANDO MS 38632 AUDIO SERMONS"
   }
 ];

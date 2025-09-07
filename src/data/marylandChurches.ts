@@ -17,7 +17,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHANAEL CAUDILL. 15251 FALLING WATERS RD WILLIAMSPORT MD 21740 SS 930, SM 1030, SN 530, W 7 KJB church."
+    "description": "WILLIAMSPORT MD 21740 SS 930, SM 1030, SN 530, W 7 KJB church"
   },
   {
     "id": "2039",
@@ -35,17 +35,17 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATE NICKERSON. 7271 MUNCASTER MILL RD DERWOOD MD 20855 KJB church."
+    "description": "DERWOOD MD 20855 KJB church"
   },
   {
     "id": "2040",
     "name": "HARMONY BAPTIST CHURCH",
-    "address": "24211 WESTERNPORT RD SW",
+    "address": "24211 WESTERNPORT RD SW WEST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "24211",
-    "latitude": 39.9222,
-    "longitude": -77.7124,
+    "latitude": 39.6005,
+    "longitude": -76.7399,
     "phone": "(301) 359-3750",
     "website": "https://patchworkcreative.wixsite.com/hbcwesternport",
     "pastor": "JAMEY GROOMS",
@@ -53,7 +53,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMEY GROOMS. 24211 WESTERNPORT RD SW WESTERNPORT MD 21562 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "ERNPORT MD 21562 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2041",
@@ -71,12 +71,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY BURKHOLDER. PO BOX 246 3141 OLD ELK NECK RD ELKTON MD 21921 SS 10,SM 11,SN 615,WED 7 FM 89.9 RADIO, AUDIO SERMONS; MARYLAND BAPTIST COLLEGE; ABERDEEN KJB, PRE-TRIB,"
+    "description": "PO BOX 246 ELKTON MD 21921 SS 10,SM 11,SN 615,WED 7 FM 89.9 RADIO, AUDIO SERMONS; MARYLAND BAPTIST COLLEGE; ABERDEEN KJB, PRE-TRIB"
   },
   {
     "id": "2042",
     "name": "FAITH INDEPENDENT BAPTIST CHURCH",
-    "address": "255 SHAW ST",
+    "address": "255 SHAW ST FROST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -90,7 +90,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS CORRIGAN. 255 SHAW ST FROSTBURG MD 21532 SS 945,SM 11,SN 6,W 7 PATCH PIRATE KJB church."
+    "description": "BURG MD 21532 SS 945,SM 11,SN 6,W 7 PATCH PIRATE KJB church"
   },
   {
     "id": "2043",
@@ -99,8 +99,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 40.0181,
-    "longitude": -75.7104,
+    "latitude": 38.6592,
+    "longitude": -77.7512,
     "phone": "(301) 649-4720",
     "website": "http://www.sligobaptistchurch.com",
     "pastor": "CALEB BOTTRELL",
@@ -108,7 +108,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CALEB BOTTRELL. 1610 DENNIS AVE SILVER SPRING MD 20902 SS 10, SM 11, *SN 6, TH 7 1ST SUNDAY EACH MONTH LUNCH ON THE GROUNDS & SERVICE MOVED UP TO 130PM. KJB church."
+    "description": "SILVER SPRING MD 20902 SS 10, SM 11, *SN 6, TH 7 1ST SUNDAY EACH MONTH LUNCH ON THE GROUNDS & SERVICE MOVED UP TO 130PM. KJB church"
   },
   {
     "id": "2044",
@@ -127,7 +127,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT A MAYES. 1800 WORTHINGTON HEIGHTS PARKWAY HUNT VALLEY MD 21030 SS 930, SM 1030, SN 6, TH 7 BUS, SOULWINNING, RADIO PROGRAM, YOUTH GROUP, KID'S CLASSES, AUDIO SERMONS KJB church."
+    "description": "HUNT VALLEY MD 21030 SS 930, SM 1030, SN 6, TH 7 BUS, SOULWINNING, RADIO PROGRAM, YOUTH GROUP, KID'S CLASSES, AUDIO SERMONS KJB church"
   },
   {
     "id": "2045",
@@ -145,17 +145,17 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON BROWN. PO BOX 117 5907 DEALE CHURCHTON RD DEALE MD 20751 SS 945,SM 11,SN 7,W 7 KINGS KIDS, BUS, TEEN, DEAF KJB church."
+    "description": "PO BOX 117 DEALE MD 20751 SS 945,SM 11,SN 7,W 7 KINGS KIDS, BUS, TEEN, DEAF KJB church"
   },
   {
     "id": "2046",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "",
+    "address": "7 ABERD",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.7351,
-    "longitude": -77.0221,
+    "latitude": 39.3941,
+    "longitude": -79.204,
     "phone": "(410) 398-6558",
     "website": "http://www.fbcelktonmd.org",
     "pastor": "DAN STALEY",
@@ -163,12 +163,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN STALEY. BOX 594 727 W PULASKI HWY ELKTON MD 21922 SS 10,SM 11,SN 6,W 7 ABERDEEN KJB church."
+    "description": "BOX 594 727 W PULASKI HWY ELKTON MD 21922 SS 10,SM 11,SN 6,W EEN KJB church"
   },
   {
     "id": "2047",
     "name": "FUNDAMENTAL BAPTIST CHURCH",
-    "address": "146 S POTOMAC ST",
+    "address": "146 S POTOMAC ST HAGERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -182,7 +182,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BEN HAYS. 146 S POTOMAC ST HAGERSTOWN MD 21740-5504 SS 930,SM 1030,SN 6,W 2 KJB church."
+    "description": "OWN MD 21740-5504 SS 930,SM 1030,SN 6,W 2 KJB church"
   },
   {
     "id": "2048",
@@ -200,12 +200,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY KITCHEN. 30 W FREDERICK ST WALKERSVILLE MD 21793 SS 10,SM 11,SN 6,W 7 FORT DIETRICK KJB church."
+    "description": "WALKERSVILLE MD 21793 SS 10,SM 11,SN 6,W 7 FORT DIETRICK KJB church"
   },
   {
     "id": "2049",
     "name": "WAYSIDE BAPTIST CHURCH",
-    "address": "21303 LEITER ST",
+    "address": "21303 LEITER ST HAGERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "21303",
@@ -219,7 +219,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAMES CLIDENCE. 21303 LEITER ST HAGERSTOWN MD 21742 SS 930, SM 1030, SN 6, W 7 SOULWINNING, PATCH CLUB, TEEN KJB church."
+    "description": "OWN MD 21742 SS 930, SM 1030, SN 6, W 7 SOULWINNING, PATCH CLUB, TEEN KJB church"
   },
   {
     "id": "2050",
@@ -237,7 +237,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB GREEN. 7001 GERMAN HILL RD DUNDALK MD 21222 SM 1045,SN 5,W 7 KJB, HAC"
+    "description": "DUNDALK MD 21222 SM 1045,SN 5,W 7 KJB, HAC"
   },
   {
     "id": "2051",
@@ -256,7 +256,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIM CURTIS. 3880 LIVINGSTON RD INDIAN HEAD MD 20902 SS 10,SM 11,SN 5,W 7 SOULWINNING, NURSERY, 25 MI SOUTH OF WASH DC KJB church."
+    "description": "INDIAN HEAD MD 20902 SS 10,SM 11,SN 5,W 7 SOULWINNING, NURSERY, 25 MI SOUTH OF WASH DC KJB church"
   },
   {
     "id": "2052",
@@ -274,7 +274,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD R SMITH. PO BOX 165 119 STATION LANE GRASONVILLE MD 21638 KJB church."
+    "description": "PO BOX 165 GRASONVILLE MD 21638 KJB church"
   },
   {
     "id": "2053",
@@ -292,7 +292,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW ARNEY. 209 N EARLTON RD HAVRE DE GRACE MD 21078 SS 10,SM 11,SN 6,W 7 ABERDEEN KJB church."
+    "description": "HAVRE DE GRACE MD 21078 SS 10,SM 11,SN 6,W 7 ABERDEEN KJB church"
   },
   {
     "id": "2054",
@@ -310,7 +310,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE SCHMIDLEY. 7271 MUNCSTER MILL RD ROCKVILLE MD 20855 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS, AWANA, FT MEADE KJB church."
+    "description": "ROCKVILLE MD 20855 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS, AWANA, FT MEADE KJB church"
   },
   {
     "id": "2055",
@@ -329,17 +329,17 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WILLIAM. PO BOX 8417 6650 SANTA BARBARA RD SUITE 4 ELKRIDGE MD 21075 COLUMBIA, ELLICOTT CITY, FT MEAD NSA, HANOVER, JESSUP, SAVAGE, LAUREL AREA SS 10, SM 11, SN 7, TH 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 8417 ELKRIDGE MD 21075 COLUMBIA, ELLICOTT CITY, FT MEAD NSA, HANOVER, JESSUP, SAVAGE, LAUREL AREA SS 10, SM 11, SN 7, TH 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2056",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "6705 BOOTS LN",
+    "address": "6705 BOOTS LN LA PL",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.9554,
-    "longitude": -75.846,
+    "latitude": 38.065,
+    "longitude": -77.7682,
     "phone": "(301) 743-2363",
     "website": "http://bbcmd.org",
     "pastor": "JOHN BLACK",
@@ -348,7 +348,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN BLACK. 6705 BOOTS LN LA PLATA MD 20646 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "ATA MD 20646 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "2057",
@@ -357,8 +357,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.9441,
-    "longitude": -76.7696,
+    "latitude": 38.5999,
+    "longitude": -78.4198,
     "phone": "(301) 377-4939",
     "website": "http://www.cibaptist.org",
     "pastor": "JEFFREY BERG",
@@ -367,12 +367,12 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEFFREY BERG. PO BOX 525 SAVAGE MD 20763-0525 9325 6TH ST in LAUREL SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "PO BOX 525 SAVAGE MD 20763-0525 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2058",
     "name": "FOREST RIDGE BAPTIST CHURCH",
-    "address": "2435 BAILEY RD",
+    "address": "2435 BAILEY RD FOREST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -386,7 +386,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE HAYS. 2435 BAILEY RD FOREST HILL MD 21050-1200 SS 10,SM 11,SN 6,W 730 KJB, UNAFFILIATED"
+    "description": "HILL MD 21050-1200 SS 10,SM 11,SN 6,W 730 KJB, UNAFFILIATED"
   },
   {
     "id": "2059",
@@ -404,17 +404,17 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM. 13984 GREGG NECK RD GALENA MD 21635 SS 930, SM 1030, SN 6, W 7 KJB church."
+    "description": "GALENA MD 21635 SS 930, SM 1030, SN 6, W 7 KJB church"
   },
   {
     "id": "2060",
     "name": "BLESSED HOPE BAPTIST CHURCH",
-    "address": "1525 MITCHELL LN",
+    "address": "1525 MITCHELL LN ABERD",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.9323,
-    "longitude": -76.0145,
+    "latitude": 37.9924,
+    "longitude": -76.8994,
     "phone": "(410) 273-0013",
     "website": "https://www.facebook.com/pages/Blessed-Hope-Baptist-Church/173887989335118",
     "pastor": "DOUG BYRA",
@@ -422,7 +422,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG BYRA. 1525 MITCHELL LN ABERDEEN MD 21001 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "EEN MD 21001 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2061",
@@ -441,17 +441,17 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHANCE GIBBS. 911 VAN BUREN ST ANNAPOLIS MD 21403 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, PATCH CLUB; VAN BUREN ST BAPTIST SCHOOL; FT MEADE, NAVAL ACADEMY 3 MILES KJB church."
+    "description": "ANNAPOLIS MD 21403 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, PATCH CLUB; VAN BUREN ST BAPTIST SCHOOL; FT MEADE, NAVAL ACADEMY 3 MILES KJB church"
   },
   {
     "id": "2062",
     "name": "GREATER VISION BAPTIST CHURCH",
-    "address": "41 MITCHELL AVE",
+    "address": "41 MITCHELL AVE ABERD",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 40.0587,
-    "longitude": -77.7966,
+    "latitude": 39.3493,
+    "longitude": -75.2769,
     "phone": "(410) 272-0686",
     "website": "https://www.facebook.com/gvbcaberdeen",
     "pastor": "STACEY SHIFFLIT",
@@ -459,7 +459,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STACEY SHIFFLIT. 41 MITCHELL AVE ABERDEEN MD 21001 SS 945,SM 11,SN 6,W 7 2 MILES FROM ABERDEEN PROVING GROUNDS KJB church."
+    "description": "EEN MD 21001 SS 945,SM 11,SN 6,W 7 2 MILES FROM ABERDEEN PROVING GROUNDS KJB church"
   },
   {
     "id": "2063",
@@ -478,7 +478,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEAVEN R SNOW. 7321 MANCHESTER RD DUNDALK MD 21222 BALTIMORE AREA SS 10,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "DUNDALK MD 21222 BALTIMORE AREA SS 10,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "2064",
@@ -498,7 +498,7 @@ export const marylandChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JASON BAXTER. 12003 BLUEBERRY RD WHALEYVILLE MD 21872 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, HAC, UNAFFILIATED"
+    "description": "WHALEYVILLE MD 21872 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, HAC, UNAFFILIATED"
   },
   {
     "id": "2065",
@@ -517,7 +517,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PAUL J ARCAND II. PO BOX 3242 1990 SOLOMONS ISLAND RD S PRINCE FREDERICK MD 20678 BUS, SOULWINNING 195 RITCHIE HWY PASADENA MD 21122 SS 10,SM 11,SN 6,W 730 FORT MEADE 10 MIN, NAVAL ACADEMY 20 MIN N, BALTIMORE 10 MIN KJ KJB church."
+    "description": "PO BOX 3242 PRINCE FREDERICK MD 20678 BUS, SOULWINNING 195 RITCHIE HWY PASADENA MD 21122 SS 10,SM 11,SN 6,W 730 FORT MEADE 10 MIN, NAVAL ACADEMY 20 MIN N, BALTIMORE 10 MIN KJ KJB church"
   },
   {
     "id": "2066",
@@ -535,7 +535,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK BLACKBURN. 216 CARROLL PKWY FREDERICK MD 21701 SS 930,SM 1040,SN 6,W 7 KJB church."
+    "description": "216 CARROLL PKWY FREDERICK MD 21701 SS 930,SM 1040,SN 6,W 7 KJB church"
   },
   {
     "id": "2067",
@@ -553,7 +553,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG COOK. 3115 LEVEL RD CHURCHVILLE MD 21028 KJB church."
+    "description": "CHURCHVILLE MD 21028 KJB church"
   },
   {
     "id": "2068",
@@ -571,7 +571,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT T JOSEPH. 2104 FRANKLIN CHURCH RD DARLINGTON MD 21034 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, RUCKMAN"
+    "description": "DARLINGTON MD 21034 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, RUCKMAN"
   },
   {
     "id": "2069",
@@ -589,7 +589,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by C. PO BOX 1556 WHITE PLAINS MD 20695 10440 CRAIN HWY (Route 301) in FAULKNER Route 301 Next to La Plata Walmart SS 10,SM 11,SN 4,W 7 KJB church."
+    "description": "PO BOX 1556 WHITE PLAINS MD 20695 10440 CRAIN HWY (Route 301) in FAULKNER SS 10,SM 11,SN 4,W 7 KJB church"
   },
   {
     "id": "2070",
@@ -607,7 +607,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES REEVES. 7823 OAKWOOD RD GLEN BURNIE MD 21061 SS 9,SM 10,SN 6,W 7 MASTER CLUBS, BOOKSTORE, CHOIR, YOUTH, TEEN; GRANITE BAPTIST ACADEMY, K3-12; LIVESTREAM SERVICES, GLEN BURNIE, FORT MEADE KJB church."
+    "description": "GLEN BURNIE MD 21061 SS 9,SM 10,SN 6,W 7 MASTER CLUBS, BOOKSTORE, CHOIR, YOUTH, TEEN; GRANITE BAPTIST ACADEMY, K3-12; LIVESTREAM SERVICES, GLEN BURNIE, FORT MEADE KJB church"
   },
   {
     "id": "2071",
@@ -626,7 +626,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TERRY MICHAEL BUCHHOLZ. 56 CHROME RD RISING SUN MD 21911 SS 10,SM 11,SN 5,W 7 SOULWINNING, BUS, KINGS KIDS, VBS, TEENS, RU PROGRAM, VIDEO SERMONS, ABERDEEN, EDGEWOOD KJB church."
+    "description": "RISING SUN MD 21911 SS 10,SM 11,SN 5,W 7 SOULWINNING, BUS, KINGS KIDS, VBS, TEENS, RU PROGRAM, VIDEO SERMONS, ABERDEEN, EDGEWOOD KJB church"
   },
   {
     "id": "2072",
@@ -645,7 +645,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by AARON HARTMAN. 360 EDNOR RD SILVER SPRING MD 20905 SS 10,SM 1050,SN 6,W 715 OUTREACH TO GALLAUDET UNIVERSITY; CAPITAL BAPTIST DEAF COLLEGE BACHELOR’S DEGREE & THEOLOGY DIPLOMA; KJB church."
+    "description": "SILVER SPRING MD 20905 SS 10,SM 1050,SN 6,W 715 OUTREACH TO GALLAUDET UNIVERSITY; CAPITAL BAPTIST DEAF COLLEGE BACHELOR’S DEGREE & THEOLOGY DIPLOMA; KJB church"
   },
   {
     "id": "2073",
@@ -664,12 +664,12 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVE ROGERS. 8014 OLD NATIONAL PIKE BOONSBORO MD 21713 SS 939,SM 1045,SN 6,W 715 CAMP DAVID 30 MINS, FT DETRICK 30 MINS, SOULWINNING INSTITUTE W 7 KJB church."
+    "description": "8014 OLD NATIONAL PIKE BOONSBORO MD 21713 SS 939,SM 1045,SN 6,W 715 , FT DETRICK 30 MINS, SOULWINNING INSTITUTE W 7 KJB church"
   },
   {
     "id": "2074",
     "name": "HARVEST BAPTIST CHURCH",
-    "address": "951 WOODLAND WAY",
+    "address": "951 WOODLAND WAY HAGERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -682,7 +682,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERALD SKINNER. 951 WOODLAND WAY HAGERSTOWN MD 21742 SS 945,SM 1045,SN 6,W 7 MASTER CLUB, BUS, COLL & CAR, JR CHURCH, YOUTH, ABOVE RUBIES LADIES, CHOIR, PUPPET, MEN FOR MISSIONS PO BOX 98 2108 GOLDEN BEACH RD CHARLOT KJB church."
+    "description": "OWN MD 21742 SS 945,SM 1045,SN 6,W 7 MASTER CLUB, BUS, COLL & CAR, JR CHURCH, YOUTH, ABOVE RUBIES LADIES, CHOIR, PUPPET, MEN FOR MISSIONS PO BOX 98 2108 GOLDEN BEACH RD CHARLOT KJB church"
   },
   {
     "id": "2075",
@@ -700,7 +700,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL CREED. KJB, BIMI"
+    "description": "KJB, BIMI"
   },
   {
     "id": "2076",
@@ -719,7 +719,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN LACOMBE. PO BOX 206 9255 PISCATAWAY RD CLINTON MD 20735 SS 930,SM 1040,SN 630,W 7 KJB, UNAFFILIATED, PRE-TRIB, PRE-MIL"
+    "description": "PO BOX 206 CLINTON MD 20735 SS 930,SM 1040,SN 630,W 7 KJB, UNAFFILIATED, PRE-TRIB, PRE-MIL"
   },
   {
     "id": "2077",
@@ -737,7 +737,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE WAGNER. 8410 PINEY ORCHARD PKWY ODENTON MD 21113 SS 945,SM 11,SN 630,W 7 1308 ROBINS AVE SALISBURY MD 21801 800 S SALISBURY BOULEVARD - SUITE F SS 10,SM 11,SN 6,W 7 DOVER AFB 1 HR CHURCH OF THE OPEN DOOR 550  KJB church."
+    "description": "ODENTON MD 21113 SS 945,SM 11,SN 630,W 7 1308 ROBINS AVE SALISBURY MD 21801 800 S SALISBURY BOULEVARD - SUITE F SS 10,SM 11,SN 6,W 7 DOVER AFB 1 HR CHURCH OF THE OPEN DOOR 550 KJB church"
   },
   {
     "id": "2078",
@@ -755,12 +755,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CK WHITE. 5305 MT ZION RD FREDERICK MD 21703 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "FREDERICK MD 21703 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "2079",
     "name": "BAYVIEW BAPTIST CHURCH",
-    "address": "729 E MAIN ST",
+    "address": "8011 ROSARYVILLE RD",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -774,7 +774,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BILL SCHNEIDER. 729 E MAIN ST SALISBURY MD 21804 PROPHETS CHAMBER; VICTORY CHRISTIAN ACADEMY,K-12 8011 ROSARYVILLE RD UPPER MARLBORO MD 20772 SS 945,SM 11,SN 1800,W 1915 AWANA, PROTEENS, ANDREWS, BOLLING, QUANTICO 77 KJB church."
+    "description": "SALISBURY MD 21804 PROPHETS CHAMBER; VICTORY CHRISTIAN ACADEMY,K-12 UPPER MARLBORO MD 20772 SS 945,SM 11,SN 1800,W 1915 AWANA, PROTEENS, ANDREWS, BOLLING, QUANTICO 77 KJB church"
   },
   {
     "id": "2080",
@@ -792,7 +792,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by D JASON MCNEESE. 22614 CHANDELLORS RUN RD GREAT MILLS MD 20634 SS 10,SM 11, SN 6, W 7 CORE INSTITUTE, PATUXENT RIVER NAVAL AIR STATION 7 MILES KJB church."
+    "description": "GREAT MILLS MD 20634 SS 10,SM 11, SN 6, W 7 CORE INSTITUTE, PATUXENT RIVER NAVAL AIR STATION 7 MILES KJB church"
   },
   {
     "id": "2081",
@@ -805,12 +805,12 @@ export const marylandChurches: Church[] = [
     "longitude": -77.0737,
     "phone": "(410) 569-0585",
     "website": "http://www.emmortonbaptist.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "106 PLUMTREE RD BEL AIR MD 21014 SS 10,SM 11,SN 7,W 7 YOUTH; EMMORTON CHRISTIAN ACADEMY, K4-12; EMMORTON BIBLE INSTITUTE; AUDIO SERMONS, ABERDEEN PROVING GROUNDS NEEDS PASTOR KJB church."
+    "description": "BEL AIR MD 21014 SS 10,SM 11,SN 7,W 7 YOUTH; EMMORTON CHRISTIAN ACADEMY, K4-12; EMMORTON BIBLE INSTITUTE; AUDIO SERMONS, ABERDEEN PROVING GROUNDS NEEDS"
   },
   {
     "id": "2082",
@@ -819,8 +819,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.9917,
-    "longitude": -77.2071,
+    "latitude": 39.5797,
+    "longitude": -78.1478,
     "phone": "(410) 546-4455",
     "website": "https://salisburybaptist.org",
     "pastor": "DENNIS LEATHERMAN",
@@ -828,7 +828,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS LEATHERMAN. 6413 HOBBS RD SALISBURY MD 21804 SS 10,SM 11,SN 6,W 730 PROPHETS CHAMBER, SALISBURY BAPTIST ACADEMY, K5-12 KJB church."
+    "description": "SALISBURY MD 21804 SS 10,SM 11,SN 6,W 730 PROPHETS CHAMBER, SALISBURY BAPTIST ACADEMY, K5-12 KJB church"
   },
   {
     "id": "2083",
@@ -847,7 +847,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WALTER E LANCASTER. 1005 BROADFORD RD OAKLAND MD 21550 SS 945,SM 11,SN 7 BUS, KINGS KIDS,N BT, TEENS ALIVE, AUDIO SERMONS; MOUNTAIN LAKE BIBLE INSTITUTE KJB church."
+    "description": "OAKLAND MD 21550 SS 945,SM 11,SN 7 BUS, KINGS KIDS,N BT, TEENS ALIVE, AUDIO SERMONS; MOUNTAIN LAKE BIBLE INSTITUTE KJB church"
   },
   {
     "id": "2084",
@@ -865,7 +865,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM TYSON. PO BOX 517 21911 WESTERNPORT RD KEYSER WV 26726 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "PO BOX 517 KEYSER WV 26726 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2085",
@@ -884,17 +884,17 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHNNIE BREWER. 5001 CHURCH RD BOWIE MD 20715 SS 10,SM 11,SN 7,W 730 AUDIO SERMONS, BUS, CHOIR, SPANISH KJB, BBFI 5501 LOYD AVE WHITE MARSH MD 21162 SS 930,SM 1030,SN 630,W 730"
+    "description": "BOWIE MD 20715 SS 10,SM 11,SN 7,W 730 AUDIO SERMONS, BUS, CHOIR, SPANISH KJB, BBFI 5501 LOYD AVE WHITE MARSH MD 21162 SS 930,SM 1030,SN 630,W 730"
   },
   {
     "id": "2086",
     "name": "MOUNTAIN VIEW BAPTIST CHURCH",
-    "address": "12107 WALNUT POINT RD",
+    "address": "12107 WALNUT POINT RD HAGERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "12107",
-    "latitude": 39.7744,
-    "longitude": -76.4725,
+    "latitude": 37.9368,
+    "longitude": -78.4539,
     "phone": "(301) 582-1468",
     "website": "http://mountainviewbaptist.com",
     "pastor": "JONATHAN PURKS",
@@ -902,7 +902,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN PURKS. 12107 WALNUT POINT RD HAGERSTOWN MD 21740 SS 930, SM 1030,SN 7,W 7 AUDIO SERMONS, BUS, TEEN, CHOIR, SENIORS, RADIO 6513 HIMES AVE FREDERICK MD 21703 SS 930,SM 10,SN 5 FT DETRICK KJB, GARBC, PCC, BJU,"
+    "description": "OWN MD 21740 SS 930, SM 1030,SN 7,W 7 AUDIO SERMONS, BUS, TEEN, CHOIR, SENIORS, RADIO 6513 HIMES AVE FREDERICK MD 21703 SS 930,SM 10,SN 5 FT DETRICK KJB, GARBC, PCC, BJU"
   },
   {
     "id": "2087",
@@ -920,7 +920,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL HALL. PO BOX 162 510 N MAIN ST HURLOCK MD 21643 SS 10,SM 11,SN 7,W 7 CHOIR,CHILDRENS CHURCH,KIDS4TRUTH,VBS,SENIORS,LADIES, RADIO PROGRAM ON 100.9 WAAI FM AT 0930 ON SUNDAYS KJB, IFFB"
+    "description": "PO BOX 162 HURLOCK MD 21643 SS 10,SM 11,SN 7,W 7 CHOIR,CHILDRENS CHURCH,KIDS4TRUTH,VBS,SENIORS,LADIES, RADIO PROGRAM ON 100.9 WAAI FM AT 0930 ON SUNDAYS KJB, IFFB"
   },
   {
     "id": "2088",
@@ -929,17 +929,17 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.9385,
-    "longitude": -76.6184,
+    "latitude": 38.5826,
+    "longitude": -75.3272,
     "phone": "(410) 896-9162",
     "website": "https://www.faithbaptistchurch-delmar.com",
-    "pastor": "JAMES A COBLENTZ",
+    "pastor": "KJB, UNAFFILIATED PO BOX 493 3173 HUTTON RD OAKLAND MD 21550 SS 10,SM 11,SN 7,W 7",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES A COBLENTZ. PO BOX 236 1207 E STATE ST DELMAR MD 19940 SS 10,SM 11,SN 6,W 730 NEEDS PASTOR KJB, UNAFFILIATED PO BOX 493 3173 HUTTON RD OAKLAND MD 21550 SS 10,SM 11,SN 7,W 7"
+    "description": "PO BOX 236 DELMAR MD 19940 SS 10,SM 11,SN 6,W 730 NEEDS"
   },
   {
     "id": "2089",
@@ -948,8 +948,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "13802",
-    "latitude": 39.7686,
-    "longitude": -75.8659,
+    "latitude": 39.3122,
+    "longitude": -77.1916,
     "phone": "(301) 271-7259",
     "website": "http://www.ipbc.net",
     "pastor": "JIM OLSZEWSKI",
@@ -957,7 +957,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM OLSZEWSKI. PO BOX 355 13802 LONG RD THURMONT MD 21788 SS 10,SM 11,SN 730,W 730 CHRISTIAN SCHOOL, RADIO STATION WTHU 1450AM 0830 SUNDAY, CAMP DAVID, AUDIO SERMONS KJB church."
+    "description": "PO BOX 355 THURMONT MD 21788 SS 10,SM 11,SN 730,W 730 CHRISTIAN SCHOOL, RADIO STATION WTHU 1450AM 0830 SUNDAY, CAMP DAVID, AUDIO SERMONS KJB church"
   },
   {
     "id": "2090",
@@ -975,12 +975,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL HUNT. PRINCE FREDERIC MD 20678 KJB, FAIRHAVEN-BC"
+    "description": "PRINCE FREDERIC MD 20678 KJB, FAIRHAVEN-BC"
   },
   {
     "id": "2091",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "613 UNIONTOWN RD",
+    "address": "613 UNIONTOWN RD WESTMINST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -993,7 +993,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "613 UNIONTOWN RD WESTMINSTER MD 21157 SS 930,SM 1045,SN 530,W 7"
+    "description": "ER MD 21157 SS 930,SM 1045,SN 530,W 7"
   },
   {
     "id": "2092",
@@ -1006,12 +1006,12 @@ export const marylandChurches: Church[] = [
     "longitude": -75.742,
     "phone": "",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "NEEDS PASTOR KJB church."
+    "description": "NEEDS"
   },
   {
     "id": "2093",
@@ -1020,8 +1020,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 40.0462,
-    "longitude": -77.2908,
+    "latitude": 38.9796,
+    "longitude": -75.9761,
     "phone": "(301) 705-7424",
     "website": "https://ccbcwaldorf.com",
     "pastor": "MANUEL GREGORY",
@@ -1029,7 +1029,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MANUEL GREGORY. 3822 OLD WASHINGTON RD WALDORF MD 20602 SS 945,SM 11,SN 130,W 730 MASTERS CLUB, VIDEO SERMONS ONLINE KJB, COEBA"
+    "description": "WALDORF MD 20602 SS 945,SM 11,SN 130,W 730 MASTERS CLUB, VIDEO SERMONS ONLINE KJB, COEBA"
   },
   {
     "id": "2094",
@@ -1038,8 +1038,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "10905",
-    "latitude": 39.7854,
-    "longitude": -77.5051,
+    "latitude": 39.4741,
+    "longitude": -78.1028,
     "phone": "(240) 504-1512",
     "website": "http://newtestamentbaptistmd.org",
     "pastor": "JEFF MESSER",
@@ -1047,12 +1047,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF MESSER. 10905 LIVINGSTON RD FT WASHINGTON MD 20744 SM 2, W 730 KJB church."
+    "description": "FT WASHINGTON MD 20744 SM 2, W 730 KJB church"
   },
   {
     "id": "2095",
     "name": "EMMANUEL BAPTIST TEMPLE",
-    "address": "",
+    "address": "16221 NATIONAL PIKE HAGERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -1066,7 +1066,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MICHAEL K CALHOUN. 16221 NATIONAL PIKE HAGERSTOWN MD 21740 SS 945, SM 830 & 11, SN 6, W 7 KJB, BBF"
+    "description": "OWN MD 21740 SS 945, SM 830 & 11, SN 6, W 7 KJB, BBF"
   },
   {
     "id": "2096",
@@ -1084,12 +1084,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL HODGE. PO BOX 1205 CUMBERLAND MD 21501 11911 MESSICK RD CUMBERLAND MD 21502 SS 10, SM 11, SN 7, W 7 KJB church."
+    "description": "PO BOX 1205 CUMBERLAND MD 21501 CUMBERLAND MD 21502 SS 10, SM 11, SN 7, W 7 KJB church"
   },
   {
     "id": "2097",
     "name": "CHARLESTOWN MISSIONARY BAPTIST",
-    "address": "1168 W OLD PHILADELPHIA RD",
+    "address": "1168 W OLD PHILADELPHIA RD CHARLEST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -1102,17 +1102,17 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEL WRAY. PO BOX 68 1168 W OLD PHILADELPHIA RD CHARLESTOWN MD 21914 SS 10,SM 11,SN 630,W 7 KJB, RUCKMAN"
+    "description": "PO BOX 68 OWN MD 21914 SS 10,SM 11,SN 630,W 7 KJB, RUCKMAN"
   },
   {
     "id": "2098",
     "name": "VICTORY BIBLE BAPTIST CHURCH",
-    "address": "30195 REHOBOTH RD",
+    "address": "30195 REHOBOTH RD MARION ST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "30195",
-    "latitude": 39.9702,
-    "longitude": -75.8204,
+    "latitude": 39.146,
+    "longitude": -77.9292,
     "phone": "(410) 623-2391",
     "website": "http://www.biblerays.com",
     "pastor": "CLAYTON E MOORMAN",
@@ -1120,7 +1120,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by CLAYTON E MOORMAN. 30195 REHOBOTH RD MARION STATION MD 21838-2213 SS 10,SM 11,SN 7,W 7 BBF, CCM"
+    "description": "ATION MD 21838-2213 SS 10,SM 11,SN 7,W 7 BBF, CCM"
   },
   {
     "id": "2099",
@@ -1138,7 +1138,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY HARMON. 6011 TELEGRAPH RD ELKTON MD 21921 PO BOX 5839 NEWARK DE 19714 ABERDEEN NOT KJV ONLY KJB church."
+    "description": "ELKTON MD 21921 PO BOX 5839 NEWARK DE 19714 ABERDEEN NOT KJV ONLY KJB church"
   },
   {
     "id": "2100",
@@ -1156,7 +1156,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRUCE MCBRIDE. 1518 N ROLLING RD BALTIMORE MD 21228 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC 14517 MCMULLEN HWY CRESAPTOWN MD 21505 KJB church."
+    "description": "BALTIMORE MD 21228 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC 14517 MCMULLEN HWY CRESAPTOWN MD 21505 KJB church"
   },
   {
     "id": "2101",
@@ -1174,12 +1174,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON FAITH. SS 945,SM 1045,SN 6,W 7 TV, AWANA CALVARY CHRISTIAN SCHOOL, PK-12, AACSI NOT KJV ONLY, GARBC, DELMARVA-BF KJB church."
+    "description": "SS 945,SM 1045,SN 6,W 7 TV, AWANA CALVARY CHRISTIAN SCHOOL, PK-12, AACSI NOT KJV ONLY, GARBC, DELMARVA-BF KJB church"
   },
   {
     "id": "2102",
     "name": "EVANGEL BAPTIST CHURCH",
-    "address": "17922 BROADFORDING RD",
+    "address": "17922 BROADFORDING RD HAGERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "17922",
@@ -1192,7 +1192,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS CANTVILLE. 17922 BROADFORDING RD HAGERSTOWN MD 21740 SS 930, SM 1035, SN 6,W 7 CHOIR, TEENS, AWANA, SENIORS, AUDIO SERMONS NOT KJV ONLY,  FBF KJB church."
+    "description": "OWN MD 21740 SS 930, SM 1035, SN 6,W 7 CHOIR, TEENS, AWANA, SENIORS, AUDIO SERMONS NOT KJV ONLY, FBF KJB church"
   },
   {
     "id": "2103",
@@ -1201,8 +1201,8 @@ export const marylandChurches: Church[] = [
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.7647,
-    "longitude": -77.7752,
+    "latitude": 38.2663,
+    "longitude": -75.146,
     "phone": "(410) 861-8225",
     "website": "",
     "pastor": "MARK CAMPBELL",
@@ -1210,7 +1210,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK CAMPBELL. 1950 DEER PARK RD FINKSBURG MD 21048 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY, ABC, MBBC, FBF KJB church."
+    "description": "FINKSBURG MD 21048 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY, ABC, MBBC, FBF KJB church"
   },
   {
     "id": "2104",
@@ -1228,7 +1228,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3030 N ROLLING RD BALTIMORE MD 21244"
+    "description": "BALTIMORE MD 21244"
   },
   {
     "id": "2105",
@@ -1246,7 +1246,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW SINE JR. NOT KJV ONLY, GARBC KJB church."
+    "description": "NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2106",
@@ -1265,17 +1265,17 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DONALD W REYNOLDS. 7911 ALLENTOWN RD FORT WASHINGTON MD 20744 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 1120 MARKET ST DENTON MD 21629 SS 10,SM 11,SN 7,W 7 CALVARY CHRISTIAN ACADEMY, K5-12 NOT KJV ONLY KJB church."
+    "description": "FORT WASHINGTON MD 20744 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 1120 MARKET ST DENTON MD 21629 SS 10,SM 11,SN 7,W 7 CALVARY CHRISTIAN ACADEMY, K5-12 NOT KJV ONLY KJB church"
   },
   {
     "id": "2107",
     "name": "LIVING HOPE BAPTIST CHURCH",
-    "address": "",
+    "address": "14450 HANOVER PK REISTERST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.8853,
-    "longitude": -76.261,
+    "latitude": 39.3043,
+    "longitude": -78.1435,
     "phone": "(410) 833-7764",
     "website": "",
     "pastor": "MATTHEW SIMPSON",
@@ -1284,7 +1284,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MATTHEW SIMPSON. 14450 HANOVER PK REISTERSTOWN MD 21136 SS 945,SM 830 & 11,SN 7,W 7 AWANA, CHOIR, DRAMA, MOTORCYCLE, ODENTON,FT MEADE NOT KJV ONLY, BJU, BBF KJB church."
+    "description": "OWN MD 21136 SS 945,SM 830 & 11,SN 7,W 7 AWANA, CHOIR, DRAMA, MOTORCYCLE, ODENTON,FT MEADE NOT KJV ONLY, BJU, BBF KJB church"
   },
   {
     "id": "2108",
@@ -1303,25 +1303,25 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KURT SCHRODER. 9605 OLD ANNAPOLIS RD ELLICOTT CITY MD 21042 SS 9,SM 1030,SN 6,W 7 CONSERVATIVE MUSIC, TEENS, SENIORS, VAN, LADIES, AWANA, NEAR COLUMBIA, FT MEADE, ELKRIDGE, CATONSVILLE, BALTIMORE, AND LAUREL KJB church."
+    "description": "ELLICOTT CITY MD 21042 SS 9,SM 1030,SN 6,W 7 CONSERVATIVE MUSIC, TEENS, SENIORS, VAN, LADIES, AWANA, NEAR COLUMBIA, FT MEADE, ELKRIDGE, CATONSVILLE, BALTIMORE, AND LAUREL KJB church"
   },
   {
     "id": "2109",
     "name": "GOOD NEWS BAPTIST CHURCH",
-    "address": "760-1 CUSHMAN AVE",
+    "address": "21719 PHYSICAL ADDR",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
-    "latitude": 39.8018,
-    "longitude": -76.8064,
+    "latitude": 38.2308,
+    "longitude": -77.1915,
     "phone": "(301) 241-5058",
     "website": "http://www.goodnewsmountainvalley.com",
-    "pastor": "AARON KIMMEL",
+    "pastor": "NOT KJV ONLY, BJU KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON KIMMEL. 760-1 CUSHMAN AVE CASCADE MD  21719 PHYSICAL ADDRESS: 14421 LAKE ROYER DR NOT KJV ONLY, BJU KJB church."
+    "description": "CASCADE MD ESS: 14421 LAKE ROYER DR NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "2110",
@@ -1340,7 +1340,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DONALD FRAZIER. PO BOX 778 PRINCE FREDERIC MD 20678 155 GERMAN CHAPEL RD SS 945,SM 11,SN 6,W 7 AWANA, YOUTH, LADIES, SENIORS, CHOIRS, PATUXENT RIVER NAS NOT KJV ONLY, BBF KJB church."
+    "description": "PO BOX 778 PRINCE FREDERIC MD 20678 SS 945,SM 11,SN 6,W 7 AWANA, YOUTH, LADIES, SENIORS, CHOIRS, PATUXENT RIVER NAS NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2111",
@@ -1359,7 +1359,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MATTHEW BOLSTER. 1153 BACON RIDGE RD CLINTON MD 21032 1485 WATERBURY RD CROWNSVILLE MD 21032 SS 10,SM 11,SN 630,W 7 RESCUE MISSION KJB church."
+    "description": "CLINTON MD 21032 1485 WATERBURY RD CROWNSVILLE MD 21032 SS 10,SM 11,SN 630,W 7 RESCUE MISSION KJB church"
   },
   {
     "id": "2112",
@@ -1378,7 +1378,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREG GIFFORD. 3443 PORT TOBACCO RD NANJEMOY MD 20662 ANDREWS AFB, CHELTENHAM NAVAL BASE, INDIAN HEAD NOT KJV ONLY, BBF, BBC-E, CCM KJB church."
+    "description": "NANJEMOY MD 20662 ANDREWS AFB, CHELTENHAM NAVAL BASE, INDIAN HEAD NOT KJV ONLY, BBF, BBC-E, CCM KJB church"
   },
   {
     "id": "2113",
@@ -1396,7 +1396,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN HYRNE. 1177 LARGO RD UPPER MARLBORO MD 20774 SS 930,SM 1045,SN 645.W 645 AUDIO SERMONS; RIVERDALE BAPTIST SCHOOL, PS-12; BOLLING, ANDREWS, QUANTICO PREACH KJV, NOT KJV ONLY, TRINITY-BC-FL KJB church."
+    "description": "UPPER MARLBORO MD 20774 SS 930,SM 1045,SN 645.W 645 AUDIO SERMONS; RIVERDALE BAPTIST SCHOOL, PS-12; BOLLING, ANDREWS, QUANTICO PREACH KJV, NOT KJV ONLY, TRINITY-BC-FL KJB church"
   },
   {
     "id": "2114",
@@ -1415,12 +1415,12 @@ export const marylandChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATTHEW LYON. 12029 EASTERN AVE MIDDLE RIVER MD 21220 KJB church."
+    "description": "MIDDLE RIVER MD 21220 KJB church"
   },
   {
     "id": "2115",
     "name": "CHESAPEAKE BAPTIST CHURCH",
-    "address": "585 OLD OAK RD",
+    "address": "416 WELLHAM AVE",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -1434,7 +1434,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM GHANAYEM. 585 OLD OAK RD SEVERN MD 21144 NURSERY, DEAF, TRADITIONAL WORSHIP, NEAR FT. MEADE NOT KJV ONLY, BJU, PCC 416 WELLHAM AVE FERNDALE MD 21060 (GLEN BURNIE AREA) NOT KJV ONLY, BBF, CCM 404 N MARLYN AVE ES KJB church."
+    "description": "SEVERN MD 21144 NURSERY, DEAF, TRADITIONAL WORSHIP, NEAR FT. MEADE NOT KJV ONLY, BJU, PCC FERNDALE MD 21060 (GLEN BURNIE AREA) NOT KJV ONLY, BBF, CCM 404 N MARLYN AVE ES KJB church"
   },
   {
     "id": "2116",
@@ -1452,7 +1452,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BROCK MAWDESLEY. 320 W PASADENA RD MILLERSVILLE MD 21108 SS 915, SM 1030, SN 6, W 7 PREACH KJV, NOT KJV ONLY, FBF KJB church."
+    "description": "MILLERSVILLE MD 21108 SS 915, SM 1030, SN 6, W 7 PREACH KJV, NOT KJV ONLY, FBF KJB church"
   },
   {
     "id": "2117",
@@ -1470,7 +1470,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT LUFF. 2717 GREENE RD BALDWIN MD 21013 SS 945,SM 830 & 11,SN 630,W 730 AWANA, TEEN, CHOIR, ABERDEEN PROVING GROUNDS NOT KJV ONLY, GARBC 7107 CHERRY LN LAUREL MD 20707 SS 930,SM 1045,W 7 NOT KJV ONLY, CCM KJB church."
+    "description": "BALDWIN MD 21013 SS 945,SM 830 & 11,SN 630,W 730 AWANA, TEEN, CHOIR, ABERDEEN PROVING GROUNDS NOT KJV ONLY, GARBC 7107 CHERRY LN LAUREL MD 20707 SS 930,SM 1045,W 7 NOT KJV ONLY, CCM KJB church"
   },
   {
     "id": "2118",
@@ -1489,7 +1489,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT C REINERT SR. 9202 PHILADELPHIA RD BALTIMORE MD 21237 SS 10,SM 845 & 11,SN 7,W 730 NOT KJV ONLY, BBF, BJU KJB church."
+    "description": "BALTIMORE MD 21237 SS 10,SM 845 & 11,SN 7,W 730 NOT KJV ONLY, BBF, BJU KJB church"
   },
   {
     "id": "2119",
@@ -1507,12 +1507,12 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "30505 DAGSBORO RD SALISBURY MD 21801 SS 930,SM 1045,SN 630,W 730"
+    "description": "SALISBURY MD 21801 SS 930,SM 1045,SN 630,W 730"
   },
   {
     "id": "2120",
     "name": "FAITH BAPTIST SCHOOL",
-    "address": "3200 RIDGE RD",
+    "address": "3200 RIDGE RD WESTMINST",
     "city": "Annapolis",
     "state": "MD",
     "zipCode": "",
@@ -1526,7 +1526,7 @@ export const marylandChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM LEAMAN. NOT KJV ONLY, BJU 3200 RIDGE RD WESTMINSTER MD 21157 SS 915, SM 1030, SN 6, W 7 AUDIO SERMONS NOT KJV ONLY, BBF, S.GOSPEL, 1689 CONF., KJB church."
+    "description": "NOT KJV ONLY, BJU ER MD 21157 SS 915, SM 1030, SN 6, W 7 AUDIO SERMONS NOT KJV ONLY, BBF, S.GOSPEL, 1689 CONF., KJB church"
   },
   {
     "id": "2121",
@@ -1544,7 +1544,7 @@ export const marylandChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "337 TILGHMAN RD SALISBURY MD 21801"
+    "description": "SALISBURY MD 21801"
   },
   {
     "id": "2122",

@@ -4,7 +4,7 @@ export const ohioChurches: Church[] = [
   {
     "id": "3623",
     "name": "BEDFORD BAPTIST CHURCH",
-    "address": "24 EAST GRACE ST",
+    "address": "24 EAST GRACE ST BEDFORD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -18,7 +18,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MATTHEW GRESHAM. 24 EAST GRACE ST BEDFORD OH 44146 SS 10, SM 11, SN 130, W 7 BUS, WITNESSING, YOUTUBE, SMALL BLUE BUILDING LOOKS LIKE A HOUSE KJB church."
+    "description": "OH 44146 SS 10, SM 11, SN 130, W 7 BUS, WITNESSING, YOUTUBE, SMALL BLUE BUILDING LOOKS LIKE A HOUSE KJB church"
   },
   {
     "id": "3624",
@@ -36,7 +36,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TED WEBB. 41051 TRAIL RUN RD NEW MATAMORAS OH 45767 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "NEW MATAMORAS OH 45767 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3625",
@@ -54,7 +54,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3837 ELSMERE AVE NORWOOD OH 45212"
+    "description": "NORWOOD OH 45212"
   },
   {
     "id": "3626",
@@ -72,7 +72,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by GORDON GEE. SOULWINNING"
+    "description": "SOULWINNING"
   },
   {
     "id": "3627",
@@ -91,7 +91,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARCUS HUNTER. 331 FERRY ST CLARINGTON OH 43915 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "CLARINGTON OH 43915 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3628",
@@ -110,7 +110,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by WALLACE A MILLER. 2700 N GETTYSBURG AVE TROTWOOD OH 45466 SS 10, SM 11, SN 6(BEGINNING 4 JAN 2020), TH 7 KJB church."
+    "description": "TROTWOOD OH 45466 SS 10, SM 11, SN 6(BEGINNING 4 JAN 2020), TH 7 KJB church"
   },
   {
     "id": "3629",
@@ -129,7 +129,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIM DELELLO. 1249 SYMMES RD FAIRFIELD OH 45014 SS 10,SM 11,SN 630,W 7 MASTERS CLUB W 645, YOUTH, DIVORCE, DEAF, VISITATION, SOULWINNING, AUDIO SERMONS KJB church."
+    "description": "FAIRFIELD OH 45014 SS 10,SM 11,SN 630,W 7 MASTERS CLUB W 645, YOUTH, DIVORCE, DEAF, VISITATION, SOULWINNING, AUDIO SERMONS KJB church"
   },
   {
     "id": "3630",
@@ -148,7 +148,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEITH TAYLOR. 1483 LAKE RD LAKEMORE OH 44250 SS 10,SM 11,SN 6,W 7 KJB, GIBF, HBBC, UNAFFILIATED"
+    "description": "LAKEMORE OH 44250 SS 10,SM 11,SN 6,W 7 KJB, GIBF, HBBC, UNAFFILIATED"
   },
   {
     "id": "3631",
@@ -166,7 +166,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS SHANER. 8222 MONON AVE CINCINNATI OH 45216 SS 930, SM 1030, SN 6, W 7 KJB church."
+    "description": "CINCINNATI OH 45216 SS 930, SM 1030, SN 6, W 7 KJB church"
   },
   {
     "id": "3632",
@@ -184,7 +184,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "101 MASONIC PARK RD MARIETTA OH 45750 SS 945,SM 1045,SN 6,W 7 ASTOR RONALD DOUGLAS KJB, HAC"
+    "description": "MARIETTA OH 45750 SS 945,SM 1045,SN 6,W 7 ASTOR RONALD DOUGLAS KJB, HAC"
   },
   {
     "id": "3633",
@@ -202,12 +202,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY RUDOLPH. 135 FAIRVIEW ST MARION OH 43302 SS 940,SM 1030 ,SN 6,W 715 KJB church."
+    "description": "MARION OH 43302 SS 940,SM 1030 ,SN 6,W 715 KJB church"
   },
   {
     "id": "3634",
     "name": "ANCHORED HOPE BAPTIST CHURCH",
-    "address": "PO BOX 29 W HIGH ST",
+    "address": "4185 BELLEFONTAINE RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -221,7 +221,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAMES KEESEE. PO BOX 29 W HIGH ST LIMA OH 45804 MEETING AT: 4185 BELLEFONTAINE RD LIMA OH 45802 SM 11,SN 6,TH 7 SOULWINNING KJB church."
+    "description": "LIMA OH 45804 MEETING AT: LIMA OH 45802 SM 11,SN 6,TH 7 SOULWINNING KJB church"
   },
   {
     "id": "3635",
@@ -239,7 +239,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by B J VANAMAN. 525 N SECOND AVE MIDDLEPORT OH 45760 SS 10,SM 11,SN 7,W 7 KJB, CROWN"
+    "description": "MIDDLEPORT OH 45760 SS 10,SM 11,SN 7,W 7 KJB, CROWN"
   },
   {
     "id": "3636",
@@ -257,7 +257,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL TRIPP. 521 N CENTER ST PICKERING OH 43147 AUDIO SERMONS KJB church."
+    "description": "PICKERING OH 43147 AUDIO SERMONS KJB church"
   },
   {
     "id": "3637",
@@ -275,7 +275,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRETT SMITH. PO BOX 181 2026 CEMETERY RD GOSHEN OH 45122 AUDIO SERMONS KJB church."
+    "description": "PO BOX 181 GOSHEN OH 45122 AUDIO SERMONS KJB church"
   },
   {
     "id": "3638",
@@ -294,12 +294,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LENNY TOWLE. 6500 HIGHLAND RD MAYFIELD VILLAGE OH 44143 KJB, FUNDAMENTAL"
+    "description": "MAYFIELD VILLAGE OH 44143 KJB, FUNDAMENTAL"
   },
   {
     "id": "3639",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "1401 SHAW AVE",
+    "address": "238 N MILTON ST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -312,7 +312,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN MOORE. 1401 SHAW AVE NILES OH 44446 SS 10, SM 11,SN 6,W  630 PO BOX 49 238 N MILTON ST SMITHVILLE OH 44677 KJB church."
+    "description": "NILES OH 44446 SS 10, SM 11,SN 6,W 630 PO BOX 49 SMITHVILLE OH 44677 KJB church"
   },
   {
     "id": "3640",
@@ -330,7 +330,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS RIGGS. 9015 TOWNSHIP RD 36 NW SOMERSET OH 43764 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SOMERSET OH 43764 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3641",
@@ -350,7 +350,7 @@ export const ohioChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by TROY KAHLER. 5500 CHURCH HILL RD ZANESVILLE OH 43701 SS 930,SM 1030,SN 6,W 7 470 MANNING ST NEWARK OH 43055 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "ZANESVILLE OH 43701 SS 930,SM 1030,SN 6,W 7 470 MANNING ST NEWARK OH 43055 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3642",
@@ -369,7 +369,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by RONNIE TYREE. PO BOX 251 NEGLEY OH 44441 48995 CARMEL ACHOR RD ROGERS OH 44455 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church."
+    "description": "PO BOX 251 NEGLEY OH 44441 ROGERS OH 44455 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER KJB church"
   },
   {
     "id": "3643",
@@ -388,12 +388,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN WATERHOUSE. 10322 CR 1 CHESAPEAKE OH 45619 SM 1030,SN 6,W 7 KJB, TRADITIONAL 3744 SR 37 W DELAWARE OH 43015 SS 930,SM 1030,SN 6,W 7 BUS, CHOIR, COUPLES, SINGLES, KINGS KIDS, PATCH CLUBS, TEENS, YOUNG AT HEART (55"
+    "description": "10322 CR 1 CHESAPEAKE OH 45619 SM 1030,SN 6,W 7 KJB, TRADITIONAL 3744 SR 37 W DELAWARE OH 43015 SS 930,SM 1030,SN 6,W 7 BUS, CHOIR, COUPLES, SINGLES, KINGS KIDS, PATCH CLUBS, TEENS, YOUNG AT HEART (55"
   },
   {
     "id": "3644",
     "name": "WESTPHAL AVENUE BAPTIST CHURCH",
-    "address": "780 WESTPHAL AVE",
+    "address": "4283 SHOEMAKER RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -408,12 +408,12 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by PATRICK BOYLE. 780 WESTPHAL AVE WHITEHALL OH 43213 4283 SHOEMAKER RD SW PORT WASHINGTON OH 43837 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TAPE KJB, UNAFFILIATED"
+    "description": "WHITEHALL OH 43213 SW PORT WASHINGTON OH 43837 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TAPE KJB, UNAFFILIATED"
   },
   {
     "id": "3645",
     "name": "WAVERLY BAPTIST TEMPLE",
-    "address": "",
+    "address": "220 W WAVE",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -426,7 +426,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM JENKINS. 7498 SR 220 W WAVERLY OH 45690 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "7498 SR RLY OH 45690 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "3646",
@@ -445,12 +445,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID PATRICK. PO BOX 396 SOUTH POINT OH 45680 JUST OF RT 52 ON SAND RD SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "PO BOX 396 SOUTH POINT OH 45680 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3647",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "1600 MARION RD",
+    "address": "18712 MUMFORD RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -463,12 +463,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN BEATTY. 1600 MARION RD BUCYRUS OH 44820 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS & MUSIC KJB, HAC CHURCH AT TROY 18712 MUMFORD RD GARRETTSVILLE OH 44231 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
+    "description": "BUCYRUS OH 44820 SS 930,SM 1030,SN 630,W 7 AUDIO SERMONS & MUSIC KJB, HAC CHURCH AT TROY GARRETTSVILLE OH 44231 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "3648",
     "name": "PLEASANT HEIGHTS BAPTIST CHURCH",
-    "address": "1817 MONTANA AVE",
+    "address": "1817 MONTANA AVE EAST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -481,7 +481,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL L ELLIS. 1817 MONTANA AVE EAST LIVERPOOL OH  43920 SS 945,SM 11,SN 7,W 7 KJB church."
+    "description": "LIVERPOOL OH 43920 SS 945,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "3649",
@@ -499,7 +499,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN LANG. 5542 LEWIS AVE TOLEDO OH 43612 SS 10,SM 11,SN 6,W 630 KINGS KIDS KJB, TRADITIONAL MUSIC"
+    "description": "TOLEDO OH 43612 SS 10,SM 11,SN 6,W 630 KINGS KIDS KJB, TRADITIONAL MUSIC"
   },
   {
     "id": "3650",
@@ -517,7 +517,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MARK VALENTI. 9501 HIGHLAND AVE CINCINNATI (BLUE ASH) OH 45242"
+    "description": "CINCINNATI (BLUE ASH) OH 45242"
   },
   {
     "id": "3651",
@@ -535,12 +535,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARREN LARUE. MEETING AT THE QUALITY INN HOTEL 1455 S CARPENTER RD BRUNSWICK OH  44212 SS 930,SM 1045, W 7 KJB, RUCKMAN"
+    "description": "MEETING AT THE QUALITY INN HOTEL BRUNSWICK OH 44212 SS 930,SM 1045, W 7 KJB, RUCKMAN"
   },
   {
     "id": "3652",
     "name": "ANCHOR BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "35 WEST ALEXANDR",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -553,12 +553,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT YORK. 3165 E US 35 WEST ALEXANDRIA OH 45381 near EATON, OH SS 10, SM 11, W 7 KJB, HAC"
+    "description": "3165 E US IA OH 45381 near EATON, OH SS 10, SM 11, W 7 KJB, HAC"
   },
   {
     "id": "3653",
     "name": "FIRST BAPTIST CHURCH OF STREETSBORO",
-    "address": "",
+    "address": "PO BOX 648",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -571,7 +571,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL G READER. 9001 SR 43 STREETSBORO OH 44241 SS 10,SM 11,SN 6,W 7 PO BOX 648 3672 SR 133 WILLIAMSBURG OH 45176 SS 930,SM 1030,SN 630,W 7 KJB church."
+    "description": "9001 SR 43 STREETSBORO OH 44241 SS 10,SM 11,SN 6,W 7 3672 SR 133 WILLIAMSBURG OH 45176 SS 930,SM 1030,SN 630,W 7 KJB church"
   },
   {
     "id": "3654",
@@ -590,7 +590,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRIAN MILLER. 809 FURNACE RD CONNEAUT OH 44030 SM 10,SN 6,W 7 KJB, UNAFFILIATED, HAC"
+    "description": "CONNEAUT OH 44030 SM 10,SN 6,W 7 KJB, UNAFFILIATED, HAC"
   },
   {
     "id": "3655",
@@ -609,7 +609,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN MIDDLETON. 39 BIRCH AVE NORTHFIELD OH 44067 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB church."
+    "description": "NORTHFIELD OH 44067 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB church"
   },
   {
     "id": "3656",
@@ -627,7 +627,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS HANKINS. 2912 ST RT 131 NEWTONSVILLE OH 45158 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "NEWTONSVILLE OH 45158 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "3657",
@@ -646,7 +646,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHARLES KEESEE. BOX 239 100 SENEAK AVE FRANKLIN FURNACE OH 45629 SS 10,SM 11,SN 7,W 7 REFORMERS UNANIMOUS; FRANKLIN FURNACE CHRISTIAN ACADEMY, K3-12, ABEKA KJB church."
+    "description": "BOX 239 FRANKLIN FURNACE OH 45629 SS 10,SM 11,SN 7,W 7 REFORMERS UNANIMOUS; FRANKLIN FURNACE CHRISTIAN ACADEMY, K3-12, ABEKA KJB church"
   },
   {
     "id": "3658",
@@ -664,7 +664,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAUN H COTTERILL. 41810 GRISWOLD RD ELYRIA OH 44035 SS 10,SM 11,SN 7,W 7 AWANA,TV KJB, BUCKEYE-IBF"
+    "description": "ELYRIA OH 44035 SS 10,SM 11,SN 7,W 7 AWANA,TV KJB, BUCKEYE-IBF"
   },
   {
     "id": "3659",
@@ -682,12 +682,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES E RYAN. PO BOX 14 85 E MAIN ST BERLIN HEIGHTS OH 44814 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "PO BOX 14 BERLIN HEIGHTS OH 44814 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3660",
     "name": "LIBERTY BAPTIST TEMPLE",
-    "address": "6463 W BROAD ST",
+    "address": "6463 W BROAD ST GALLOWAY",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -700,7 +700,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE SCHAG. 6463 W BROAD ST GALLOWAY OH 43228 Near COLUMBUS SS 10,SM 11,SN 6,W 7 PATCH PIRATE,CHOIR, KINGS KIDS 727 S MYRTLE AVE WILLARD OH 44890 SS 10,SM 11,S-SPANISH 4,SN 6,W 7 745 S MEDINA LINE RD WADSWORTH OH KJB church."
+    "description": "OH 43228 Near COLUMBUS SS 10,SM 11,SN 6,W 7 PATCH PIRATE,CHOIR, KINGS KIDS 727 S MYRTLE AVE WILLARD OH 44890 SS 10,SM 11,S-SPANISH 4,SN 6,W 7 745 S MEDINA LINE RD WADSWORTH OH KJB church"
   },
   {
     "id": "3661",
@@ -719,7 +719,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JAY HUBBARD. PO BOX 2132 285 STONEHAVEN DR PAINESVILLE OH 44077 SM 1030,SN 6,TH 7 KJB church."
+    "description": "PO BOX 2132 PAINESVILLE OH 44077 SM 1030,SN 6,TH 7 KJB church"
   },
   {
     "id": "3662",
@@ -737,7 +737,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES FROST. PO BOX 454 LITTLE HOCKING OH 45742 29541 E BELPRE PIKE RD COOLVILLE OH  45723 (740) 667- 3149 CH SS 10,SM 11,SN 7,W 7 HERITAGE CHRISTIAN SCHOOL KJB church."
+    "description": "PO BOX 454 LITTLE HOCKING OH 45742 COOLVILLE OH 45723 (740) 667- 3149 CH SS 10,SM 11,SN 7,W 7 HERITAGE CHRISTIAN SCHOOL KJB church"
   },
   {
     "id": "3663",
@@ -755,7 +755,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL BEAVER. 1470 W SANDUSKY AVE BELLEFONTAINE OH 43311 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BELLEFONTAINE OH 43311 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3664",
@@ -773,7 +773,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE BOTTS. PO BOX 5 SOUTH POINT OH 45680 101 SOLIDA RD & US 52 SS 930,SM 1030,SN 6,W 730 RADIO, TEEN, AWANA KJB church."
+    "description": "PO BOX 5 SOUTH POINT OH 45680 SS 930,SM 1030,SN 6,W 730 RADIO, TEEN, AWANA KJB church"
   },
   {
     "id": "3665",
@@ -791,12 +791,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by STEVE BANKHEAD. 6342 HAMILTON MIDDLETOWN RD MIDDLETOWN OH 45044 HTR CHRISTIAN SCHOOL, PRE-K12; PRISON, AWANA, CHOIR SS 10,SM 11,SN 6,W 7 BBF church."
+    "description": "MIDDLETOWN OH 45044 HTR CHRISTIAN SCHOOL, PRE-K12; PRISON, AWANA, CHOIR SS 10,SM 11,SN 6,W 7 BBF church"
   },
   {
     "id": "3666",
     "name": "WINCHESTER BAPTIST CHURCH",
-    "address": "19089 STATE RT 136",
+    "address": "6111 S SALEM WARREN RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "19089",
@@ -809,12 +809,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM GENTILE. 19089 STATE RT 136 WINCHESTER OH 45697 SS 10,SM 11,SN 630,W 11 6111 S SALEM WARREN RD ELLSWORTH OH 44416 KJB, HERITAGE-BC 704 N FIRESTONE BLVD AKRON OH 44306 SS 945,SM 9 & 1030,SN 6,W 730 AUDIO SERMON"
+    "description": "WINCHESTER OH 45697 SS 10,SM 11,SN 630,W 11 ELLSWORTH OH 44416 KJB, HERITAGE-BC 704 N FIRESTONE BLVD AKRON OH 44306 SS 945,SM 9 & 1030,SN 6,W 730 AUDIO SERMON"
   },
   {
     "id": "3667",
     "name": "SOUTHEAST BAPTIST CHURCH",
-    "address": "5185 LEE RD",
+    "address": "5185 LEE RD MAPL",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -827,7 +827,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5185 LEE RD MAPLE HEIGHTS OH 44137"
+    "description": "E HEIGHTS OH 44137"
   },
   {
     "id": "3668",
@@ -846,7 +846,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PAUL ROWE. SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TEEN, CHILDREN KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TEEN, CHILDREN KJB church"
   },
   {
     "id": "3669",
@@ -864,7 +864,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON WEBB. 5300 3 138TH ST GARFIELD HEIGHTS OH 44125 KJB church."
+    "description": "GARFIELD HEIGHTS OH 44125 KJB church"
   },
   {
     "id": "3670",
@@ -883,7 +883,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by HERMAN B BUCKLEW JR. 3407 W ERIE AVE LORAIN OH 44053 (440) 244- 0552 CH SS 10,SM 11,SN 6,W 730 BUS, SOULWINNING, TEENS, AWANA, AUDIO VIDEO SERMONS & MUSIC 519 N 7TH ST UPPER SANDUSKY OH  43351 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "LORAIN OH 44053 (440) 244- 0552 CH SS 10,SM 11,SN 6,W 730 BUS, SOULWINNING, TEENS, AWANA, AUDIO VIDEO SERMONS & MUSIC 519 N 7TH ST UPPER SANDUSKY OH 43351 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3671",
@@ -901,12 +901,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYN JACKSON. 9160 GEISER RD HOLLAND OH 43528 SS 10,SM 11,SN 6,W 7 BUS, VIDEO SERMONS KJB church."
+    "description": "HOLLAND OH 43528 SS 10,SM 11,SN 6,W 7 BUS, VIDEO SERMONS KJB church"
   },
   {
     "id": "3672",
     "name": "BIBLE BAPTIST TEMPLE",
-    "address": "",
+    "address": "41 NW WASHINGTON COURT",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -919,7 +919,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID MCCLELLAN. 4361 SR 41 NW WASHINGTON COURT OH 43160 SS 10,SM 1045,SN 6,W 7 KJB church."
+    "description": "4361 SR OH 43160 SS 10,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "3673",
@@ -938,7 +938,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHARLES CUSICK. 1679 W 2ND ST XENIA OH 45385 SS 945, SM 1045, SN 630, W 7 LIVE AUDIO SERMONS, 20 MINUTES WRIGHT PATTERSON KJB, BBF, WOL"
+    "description": "XENIA OH 45385 SS 945, SM 1045, SN 630, W 7 LIVE AUDIO SERMONS, 20 MINUTES WRIGHT PATTERSON KJB, BBF, WOL"
   },
   {
     "id": "3674",
@@ -957,12 +957,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSEPH WILLIAMS. PO BOX 395 LISBON OH 44432 6428 LISBON RD KJB, UNAFFILIATED 8343 HARRIS RD LODI OH 44254 SS 945,SM 830 & 11,SN 6,W 7 NURSERY, CHILDREN’S CONQUEST, YOUTH, MUSIC, GROWING KIDS GOD’S WAY 42 N STATE ST PH"
+    "description": "PO BOX 395 LISBON OH 44432 KJB, UNAFFILIATED 8343 HARRIS RD LODI OH 44254 SS 945,SM 830 & 11,SN 6,W 7 NURSERY, CHILDREN’S CONQUEST, YOUTH, MUSIC, GROWING KIDS GOD’S WAY 42 N STATE ST PH"
   },
   {
     "id": "3675",
     "name": "TRUTH BAPTIST CHURCH",
-    "address": "12457 N ELYRIA RD",
+    "address": "12457 N ELYRIA RD WEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "12457",
@@ -975,7 +975,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE DECKER. 12457 N ELYRIA RD WEST SALEM OH 44287 SS 930,SM 1030,SN 6,W 7 TRUTH CHRISTIAN SCHOOL, PS-8, AACS; AUDIO SERMONS KJB church."
+    "description": "SALEM OH 44287 SS 930,SM 1030,SN 6,W 7 TRUTH CHRISTIAN SCHOOL, PS-8, AACS; AUDIO SERMONS KJB church"
   },
   {
     "id": "3676",
@@ -993,12 +993,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LOU ASHWORTH. 620 TREASE RD WADSWORTH OH 44281 SS 10,SM 11,SN 2,W 7 KJB church."
+    "description": "WADSWORTH OH 44281 SS 10,SM 11,SN 2,W 7 KJB church"
   },
   {
     "id": "3677",
     "name": "SOUTH WEBSTER BAPTIST CHURCH",
-    "address": "50 TYRELL ST",
+    "address": "50 TYRELL ST SOUTH WEBST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1011,7 +1011,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HARRY L LUSBY. 50 TYRELL ST SOUTH WEBSTER OH 45682 KJB church."
+    "description": "ER OH 45682 KJB church"
   },
   {
     "id": "3678",
@@ -1029,12 +1029,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDALL L SATCHWELL. 5421 FOLEY RD CINCINNATI OH 45238 KJB,TRAD MUSIC"
+    "description": "CINCINNATI OH 45238 KJB,TRAD MUSIC"
   },
   {
     "id": "3679",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "115 STAUNTON ST",
+    "address": "93 WORTHINGTON DR",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1042,18 +1042,18 @@ export const ohioChurches: Church[] = [
     "longitude": -82.6,
     "phone": "(937) 778-0980",
     "website": "http://centralbaptistpiqua.blogspot.com",
-    "pastor": "GREGG LANZEN",
+    "pastor": "GERMANTOWN OH 45327 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREGG LANZEN. 115 STAUNTON ST PIQUA OH 45356 1828 WOODVILLE PIKE GOSHEN OH 45122 SS 9,SM 1015,W 630 SPANISH CARPENTER’S HOUSE BAPTIST CHURCH 93 WORTHINGTON DR GERMANTOWN OH 45327 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS  KJB church."
+    "description": "PIQUA OH 45356 1828 WOODVILLE PIKE GOSHEN OH 45122 SS 9,SM 1015,W 630 SPANISH CARPENTER’S HOUSE BAPTIST CHURCH GERMANTOWN OH 45327 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3680",
     "name": "AMAZINGGRACEBAPTIST",
-    "address": "",
+    "address": "7 CHILDR",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1068,7 +1068,7 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JAMES BUTLER. SS 10 SM 1030 SN 6 TH 7 CHILDREN’S CHURCH, YOUTH, SENIORS, HYMNS, SOULWINNING KJB, UNAFFILIATED"
+    "description": "SS 10 SM 1030 SN 6 TH EN’S CHURCH, YOUTH, SENIORS, HYMNS, SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "3681",
@@ -1088,7 +1088,7 @@ export const ohioChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by STEVE LEATHLEY. PO BOX 202 1150 MASSILLON RD MILLERSBURG OH 44654 SS 10, SM11, SN 5,TH 7 207 S 5TH ST BYESVILLE OH 43723 SS 945,SM 1045,SN 7,W 7 AUDIO SERMONS KJB, BBF 8334 PIPPEN RD CINCINNATI OH 45239 KJB, HAC"
+    "description": "PO BOX 202 MILLERSBURG OH 44654 SS 10, SM11, SN 5,TH 7 207 S 5TH ST BYESVILLE OH 43723 SS 945,SM 1045,SN 7,W 7 AUDIO SERMONS KJB, BBF 8334 PIPPEN RD CINCINNATI OH 45239 KJB, HAC"
   },
   {
     "id": "3682",
@@ -1107,7 +1107,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GLENN E ROGERS JR. PO BOX 1822 1530 WESTERN AVE CHILLICOTHE OH 45601 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS Part 4 KJB, BBF"
+    "description": "PO BOX 1822 CHILLICOTHE OH 45601 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS Part 4 KJB, BBF"
   },
   {
     "id": "3683",
@@ -1126,7 +1126,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES BARTA JR. PO BOX 181 1212 GREENSBURG RD GREEN OH 44232 SS 930,SM 1030,SN 6,W 7 AWANA, SENIOR, YOUTH, TEEN KJB, BBF"
+    "description": "PO BOX 181 GREEN OH 44232 SS 930,SM 1030,SN 6,W 7 AWANA, SENIOR, YOUTH, TEEN KJB, BBF"
   },
   {
     "id": "3684",
@@ -1144,7 +1144,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "34361 LORAIN RD N RIDGEVILLE OH 44039 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEENS, SENIORS ASTOR MATT SMITH KJB church."
+    "description": "N RIDGEVILLE OH 44039 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEENS, SENIORS ASTOR MATT SMITH KJB church"
   },
   {
     "id": "3685",
@@ -1164,12 +1164,12 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOSEPH SHIHADY. PO BOX 482 530 ELSON ST MAGNOLIA OH 44643 SS 10, SM 11, SN 6, W 7 SOULWINNING, BUS/VAN, CHILDREN, TEEN, YOUNG ADULTS, SENIORS, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "PO BOX 482 MAGNOLIA OH 44643 SS 10, SM 11, SN 6, W 7 SOULWINNING, BUS/VAN, CHILDREN, TEEN, YOUNG ADULTS, SENIORS, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "3686",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "434 WILSON PARK DR",
+    "address": "434 WILSON PARK DR WEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1183,7 +1183,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT J KURTZ. 434 WILSON PARK DR WEST CARROLLTON OH 45449 DAYTON OH 45449 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS, WPAFB WRIGHT PATTERSON AIR FORCE BASE; BETHEL BAPTIST SCHOOL, K5-12, BCSA, AACS; KJB, IBFI"
+    "description": "CARROLLTON OH 45449 DAYTON OH 45449 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS, WPAFB WRIGHT PATTERSON AIR FORCE BASE; BETHEL BAPTIST SCHOOL, K5-12, BCSA, AACS; KJB, IBFI"
   },
   {
     "id": "3687",
@@ -1201,12 +1201,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES R SIEKBERT JR. 752 N STEWART RD MANSFIELD OH 44905 SS 10,SM 845 & 11,SN 630,W 7 BUS, CHOIR, TEENS, TOPPERS, TEMPLE CHRISTIAN SCHOOL KJB church."
+    "description": "MANSFIELD OH 44905 SS 10,SM 845 & 11,SN 630,W 7 BUS, CHOIR, TEENS, TOPPERS, TEMPLE CHRISTIAN SCHOOL KJB church"
   },
   {
     "id": "3688",
     "name": "CHIPPEWA LAKE BAPTIST CHURCH",
-    "address": "5326 CHIPPEWA RD",
+    "address": "223 VANDERBILT RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1220,7 +1220,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES SPENCER. 5326 CHIPPEWA RD MEDINA OH 44256 BOB SENZ, YOUTH DIRECTOR SS 10,SM 11,SN 6,W 7 PATCH PIRATE, TEENS, CHOIR, DRAMA PO BOX 3625 223 VANDERBILT RD MANSFIELD OH 44907 SS 945, SM 1045, SN 545, W 645 KJB church."
+    "description": "MEDINA OH 44256 BOB SENZ, YOUTH DIRECTOR SS 10,SM 11,SN 6,W 7 PATCH PIRATE, TEENS, CHOIR, DRAMA PO BOX 3625 MANSFIELD OH 44907 SS 945, SM 1045, SN 545, W 645 KJB church"
   },
   {
     "id": "3689",
@@ -1239,12 +1239,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PHIL CLAYTON. 1601 MUNROE FALLS AVE CUYAHOGA FALLS OH 44221 Near STOW SS 10,SM 11,SN 6,W 7 KJB, OH-BBF"
+    "description": "CUYAHOGA FALLS OH 44221 Near STOW SS 10,SM 11,SN 6,W 7 KJB, OH-BBF"
   },
   {
     "id": "3690",
     "name": "VILLAGE BAPTIST TEMPLE",
-    "address": "6322 WHIPPLE AVE NW",
+    "address": "745 N FREEDOM ST RAVE",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1259,7 +1259,7 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RICHARD E SKIVER. 6322 WHIPPLE AVE NW NORTH CANTON OH 44720 SS & SM 10,SN 630,W 7 BUS, TEEN, SOULWINNING, CHILDREN’S CHARACTER CLUBS, OLD HYMNS SUNG, NURSERY KJB, UNAFFILIATED 745 N FREEDOM ST RAVENNA OH 44266 SS 930,S"
+    "description": "NORTH CANTON OH 44720 SS & SM 10,SN 630,W 7 BUS, TEEN, SOULWINNING, CHILDREN’S CHARACTER CLUBS, OLD HYMNS SUNG, NURSERY KJB, UNAFFILIATED NNA OH 44266 SS 930,S"
   },
   {
     "id": "3691",
@@ -1280,7 +1280,7 @@ export const ohioChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by JEFF MULLET. 116 E UNION ST WALBRIDGE OH 43465 near OREGON & TOLEDO SS 930,SM 1030,LUNCH,SN 1,W 7 AUDIO SERMONS KJB, UNAFFILIATED PO BOX 127 302 W MAIN ST SPENCER OH 44275 AUDIO SERMONS KJB,BBF 130 BRACE AVE TIFFI"
+    "description": "WALBRIDGE OH 43465 near OREGON & TOLEDO SS 930,SM 1030,LUNCH,SN 1,W 7 AUDIO SERMONS KJB, UNAFFILIATED PO BOX 127 302 W MAIN ST SPENCER OH 44275 AUDIO SERMONS KJB,BBF 130 BRACE AVE TIFFI"
   },
   {
     "id": "3692",
@@ -1298,7 +1298,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN HOLMES. 3955 WALES RD NW MASSILLON OH 44646 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "MASSILLON OH 44646 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3693",
@@ -1318,7 +1318,7 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by BOB BURGESS. 1022 S MAIN ST CLYDE OH 43410 SS 10,SM 11,SN 7,W 7 RADIO WHVT 90.5 FM, SOULWINNING; HARVEST TEMPLE CHRISTIAN ACADEMY K-12; INSTITUTE KJB, BBF 3583 SR 59 RAVENNA OH 44266 SS 10,SM 11,SN 6,W 7 NEW TESTA"
+    "description": "CLYDE OH 43410 SS 10,SM 11,SN 7,W 7 RADIO WHVT 90.5 FM, SOULWINNING; HARVEST TEMPLE CHRISTIAN ACADEMY K-12; INSTITUTE KJB, BBF 3583 SR 59 RAVENNA OH 44266 SS 10,SM 11,SN 6,W 7 NEW TESTA"
   },
   {
     "id": "3694",
@@ -1338,7 +1338,7 @@ export const ohioChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by LON A TAYLOR. 57 E FOSTER-MAINVILLE RD MAINEVILLE OH 45039 SS 10,SM 11,SN 7,W 7 KJB, PBI-RUCKMAN 2955 COUNTY RD 20 ADA OH 45810 CORNER OF SR 235 & SR 20 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE, KJB, UNAFFILIATED PO BO"
+    "description": "MAINEVILLE OH 45039 SS 10,SM 11,SN 7,W 7 KJB, PBI-RUCKMAN 2955 COUNTY RD 20 ADA OH 45810 CORNER OF SR 235 & SR 20 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE, KJB, UNAFFILIATED PO BO"
   },
   {
     "id": "3695",
@@ -1356,12 +1356,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL MALES JR. 301 FRANKLIN ST MARIETTA OH 45750 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "MARIETTA OH 45750 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3696",
     "name": "WESTLAKE BAPTIST CHURCH",
-    "address": "28955 HILLIARD BLVD",
+    "address": "28955 HILLIARD BLVD WEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "28955",
@@ -1374,7 +1374,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW ALLEN. 28955 HILLIARD BLVD WESTLAKE OH 44145 SS 930,SM 1015,SN 6,W 7 KJB church."
+    "description": "LAKE OH 44145 SS 930,SM 1015,SN 6,W 7 KJB church"
   },
   {
     "id": "3697",
@@ -1392,12 +1392,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALAN C JENKINS. 10531 CHURCH ST FRAZEYSBURG OH 43822 SS 10,SM 11,SN 6,W 7 KJB, BUCKEYE BAPTIST FELLOWSHIP"
+    "description": "FRAZEYSBURG OH 43822 SS 10,SM 11,SN 6,W 7 KJB, BUCKEYE BAPTIST FELLOWSHIP"
   },
   {
     "id": "3698",
     "name": "COLUMBIA RD BAPTIST CHURCH",
-    "address": "4116 COLUMBIA RD",
+    "address": "4116 COLUMBIA RD NORTH OLMST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1412,12 +1412,12 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by WILLIAM. 4116 COLUMBIA RD NORTH OLMSTED OH 44070 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, TEENS, MISSION BOARD, AUDIO SERMON; COLUMBIA RD BIBLE BAPTIST INSTITUTE; KJB, IBFI, WBF 1020 BEAVER VALLEY RD BEAVERCREE"
+    "description": "ED OH 44070 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, TEENS, MISSION BOARD, AUDIO SERMON; COLUMBIA RD BIBLE BAPTIST INSTITUTE; KJB, IBFI, WBF 1020 BEAVER VALLEY RD BEAVERCREE"
   },
   {
     "id": "3699",
     "name": "TRINITY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1625",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1430,7 +1430,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL WICKOFF. PO BOX 1625 7839 CR 236 FINDLAY OH 45839 SS 930,SM 1030,SN 6,W 7 AWANA, TEEN, SENIORS, TV, RADIO, BUS, DEAF KJB church."
+    "description": "7839 CR 236 FINDLAY OH 45839 SS 930,SM 1030,SN 6,W 7 AWANA, TEEN, SENIORS, TV, RADIO, BUS, DEAF KJB church"
   },
   {
     "id": "3700",
@@ -1448,7 +1448,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD E ROSS. 5996 WERK RD CINCINNATI OH 45248 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "CINCINNATI OH 45248 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "3701",
@@ -1466,7 +1466,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL CARDWELL. 195 OLD STATE ROUTE 122 LEBANON OH 45036 SS 10,SM 11,SN 630,W 630 BUS; EMMANUEL BAPTIST CHRISTIAN SCHOOL K-12; KJB, WBF, ABC"
+    "description": "LEBANON OH 45036 SS 10,SM 11,SN 630,W 630 BUS; EMMANUEL BAPTIST CHRISTIAN SCHOOL K-12; KJB, WBF, ABC"
   },
   {
     "id": "3702",
@@ -1485,7 +1485,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN WISEMAN. 5142 COUNTY RD 25 MARENGO OH 43334 SS 10, SM 11, SN 6, W 7 KINGS KIDS, KIDS CLUB, 939 W COOK RD MANSFIELD OH 44907 PROPHETS CHAMBER 1955 FRANK RD COLUMBUS OH 43223 SS 10, SM 11, SN 6, W 7 SOULWINNING, KJB church."
+    "description": "MARENGO OH 43334 SS 10, SM 11, SN 6, W 7 KINGS KIDS, KIDS CLUB, 939 W COOK RD MANSFIELD OH 44907 PROPHETS CHAMBER 1955 FRANK RD COLUMBUS OH 43223 SS 10, SM 11, SN 6, W 7 SOULWINNING, KJB church"
   },
   {
     "id": "3703",
@@ -1503,12 +1503,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL ROYALTY. PO BOX 787 5995 SR 7 PROCTORVILLE OH 45669 AUDIO SERMONS ONLINE SS 10,SN 7,W 7 AWANA, CAMP JERRI, BUS KJB church."
+    "description": "PO BOX 787 5995 SR 7 PROCTORVILLE OH 45669 AUDIO SERMONS ONLINE SS 10,SN 7,W 7 AWANA, CAMP JERRI, BUS KJB church"
   },
   {
     "id": "3704",
     "name": "BROADVIEW HEIGHTS BAPTIST CHURCH",
-    "address": "9850 BROADVIEW RD",
+    "address": "325 S TOUSSAINT PORTAGE RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1523,7 +1523,7 @@ export const ohioChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by RICK BICKELHAUPT. 9850 BROADVIEW RD BROADVIEW HEIGHTS OH 44147 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED PO BOX 69 325 S TOUSSAINT PORTAGE RD OAK HARBOR OH 43449 SS 10,SM 11,SN 6,W 7 BUS, AUDIO SERMON"
+    "description": "VIEW HEIGHTS OH 44147 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED PO BOX 69 OAK HARBOR OH 43449 SS 10,SM 11,SN 6,W 7 BUS, AUDIO SERMON"
   },
   {
     "id": "3705",
@@ -1541,7 +1541,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON ISOM. 1270 STATE RD HINCKLEY OH 44233 SS 945,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS 510 FRONT ST GREENVILLE OH 45331 KJB church."
+    "description": "HINCKLEY OH 44233 SS 945,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS 510 FRONT ST GREENVILLE OH 45331 KJB church"
   },
   {
     "id": "3706",
@@ -1560,12 +1560,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID KIPER. 1313 TOWER BLVD LORAIN OH 44053 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA KJB church."
+    "description": "LORAIN OH 44053 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, AWANA KJB church"
   },
   {
     "id": "3707",
     "name": "BEREA BAPTIST CHURCH",
-    "address": "316 PARK AVE",
+    "address": "17390 TOWNSHIP RD FOREST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1578,7 +1578,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG DAVIS. 316 PARK AVE PO BOX 151 KENTON OH 43326 17390 TOWNSHIP RD FOREST OH 45843 KJB church."
+    "description": "PO BOX 151 KENTON OH 43326 OH 45843 KJB church"
   },
   {
     "id": "3708",
@@ -1596,12 +1596,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY TUCKER. PO BOX 104 329 N CARPENTER RD BRUNSWICK OH 44212 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 104 BRUNSWICK OH 44212 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3709",
     "name": "BETHESDA BAPTIST CHURCH",
-    "address": "992 BROADWAY AVE",
+    "address": "992 BROADWAY AVE BEDFORD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1614,7 +1614,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHUCK ZIMMERMAN. 992 BROADWAY AVE BEDFORD OH 44146 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "OH 44146 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3710",
@@ -1632,7 +1632,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAMON MEDEIROS. 7730 TAYLORSVILLE RD DAYTON OH 45424 SS 10,SM 11,SN 6,W 7 BUS,KIDS FOR CHRIST HUBER HEIGHTS CHRISTIAN ACADEMY, K-12,ACE; WRIGHT PATTERSON 10 MILES KJB, PRE-TRIB, PRE-MIL"
+    "description": "DAYTON OH 45424 SS 10,SM 11,SN 6,W 7 BUS,KIDS FOR CHRIST HUBER HEIGHTS CHRISTIAN ACADEMY, K-12,ACE; WRIGHT PATTERSON 10 MILES KJB, PRE-TRIB, PRE-MIL"
   },
   {
     "id": "3711",
@@ -1652,7 +1652,7 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by RON ROYALTY. 1067 ST RT 68 S XENIA OH 45385 SS 930,SM 1030,SN 6,W 7 SOULWINNING, BUS, FREEDOM EAGLES, TEEN; FREEDOM CHRISTIAN ACADEMY,K-12,ACE; WRIGHT PATTERSON AFB 6235 CLINGAN RD POLAND OH 44514 SS 930,SM 1030,S KJB church."
+    "description": "XENIA OH 45385 SS 930,SM 1030,SN 6,W 7 SOULWINNING, BUS, FREEDOM EAGLES, TEEN; FREEDOM CHRISTIAN ACADEMY,K-12,ACE; WRIGHT PATTERSON AFB 6235 CLINGAN RD POLAND OH 44514 SS 930,SM 1030,S KJB church"
   },
   {
     "id": "3712",
@@ -1670,12 +1670,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WES KENNEDY. 8080 SR 124 HILLSBORO OH 45133 SS 930,SM 830 & 1030,W 7 2151 8 MILE RD CINCINNATI OH 45244 SS 10,SM 830 & 11,SN 6,W 7 AUDIO SERMONS KJB, RUCKMAN"
+    "description": "8080 SR 124 HILLSBORO OH 45133 SS 930,SM 830 & 1030,W 7 CINCINNATI OH 45244 SS 10,SM 830 & 11,SN 6,W 7 AUDIO SERMONS KJB, RUCKMAN"
   },
   {
     "id": "3713",
     "name": "PHILADELPHIA BAPTIST CHURCH",
-    "address": "44 KINSEY RD",
+    "address": "45385 NORTH END OF TOWN JUST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1689,7 +1689,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by GIL MORROW. 44 KINSEY RD XENIA OH 45385 NORTH END OF TOWN JUST OFF US 68, NEAR MCDONALDS SS 10, SM 11, W 7 113 N MAIN ST ENGLEWOOD OH 45322 SS 945,SM 11,SN 6,W 7 WRIGHT PATTERSON 30 MINS AWAY KJB church."
+    "description": "XENIA OH OFF US 68, NEAR MCDONALDS SS 10, SM 11, W 7 113 N MAIN ST ENGLEWOOD OH 45322 SS 945,SM 11,SN 6,W 7 WRIGHT PATTERSON 30 MINS AWAY KJB church"
   },
   {
     "id": "3714",
@@ -1707,12 +1707,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAB BARNES. 40 WRENWOOD DR HAMILTON OH 45013 KJB church."
+    "description": "HAMILTON OH 45013 KJB church"
   },
   {
     "id": "3715",
     "name": "EASTGATE BAPTIST CHURCH",
-    "address": "919 THRUSH AVE",
+    "address": "919 THRUSH AVE CREST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1726,7 +1726,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHRIS SPENCER. 717 BARG SALT RUN CINCINNATI OH 45244-1103 SS 930,SM 1045,SN 630,W 7 AWANA, CHOIR, YOUTH, TEEN, AUDIO SERMONS KJB, BBF 919 THRUSH AVE CRESTLINE OH 44827 SS 930,SM 1030,SN 6,W 7"
+    "description": "717 BARG SALT RUN CINCINNATI OH 45244-1103 SS 930,SM 1045,SN 630,W 7 AWANA, CHOIR, YOUTH, TEEN, AUDIO SERMONS KJB, BBF LINE OH 44827 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "3716",
@@ -1745,12 +1745,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM BELCHER. 198 ORVILLE BROWN RD JACKSON OH 45640 SS 10,SM 11,SN 6,W 7 441 DUANE ST CLYDE OH 43410 5501 JACKMAN RD TOLEDO OH 43613 SS 10,SM 11,SN 6,W 7 KJB, BBF 2929 CARPENTER RD ASHTABULA OH 44004 SS 10, SM 11,"
+    "description": "JACKSON OH 45640 SS 10,SM 11,SN 6,W 7 441 DUANE ST CLYDE OH 43410 5501 JACKMAN RD TOLEDO OH 43613 SS 10,SM 11,SN 6,W 7 KJB, BBF 2929 CARPENTER RD ASHTABULA OH 44004 SS 10, SM 11"
   },
   {
     "id": "3717",
     "name": "GRACE BAPTIST ACADEMY",
-    "address": "3289 LAUREL RD",
+    "address": "21 WASHINGTON ST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1763,12 +1763,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD. 3289 LAUREL RD BRUNSWICK OH 44212 SM 830 & 11,SN 6,W 6,W 7 AWANA, TEENS, SENIORS, AUDIO SERMONS KJB, IBFI, MASSILON-BC PO BOX 632 21 WASHINGTON ST SHELBY OH 44875 SS 10,SM 11,SN 6,W 7"
+    "description": "BRUNSWICK OH 44212 SM 830 & 11,SN 6,W 6,W 7 AWANA, TEENS, SENIORS, AUDIO SERMONS KJB, IBFI, MASSILON-BC PO BOX 632 SHELBY OH 44875 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "3718",
     "name": "WOODVILLE BAPTIST CHURCH",
-    "address": "40 WOODVILLE RD",
+    "address": "40 WOODVILLE RD BLANCHEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1782,12 +1782,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID J BLACKSTONE. 40 WOODVILLE RD BLANCHESTER OH 45107 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS & MUSIC KJB, BBF"
+    "description": "ER OH 45107 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS & MUSIC KJB, BBF"
   },
   {
     "id": "3719",
     "name": "BELFAST BAPTIST CHURCH",
-    "address": "6023 BELFAST RD",
+    "address": "13039 PURDY RD SARD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1801,7 +1801,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN MITCHELL. 6023 BELFAST RD GOSHEN OH 45122 PO BOX 63 13039 PURDY RD SARDINIA OH 45171 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 539 FLEMING RD CINCINNATI OH 45231 SS 10,SM 11,SN 6,W 7 YOUTH, PRIMETIMERS, JUNIOR CHU"
+    "description": "GOSHEN OH 45122 PO BOX 63 INIA OH 45171 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 539 FLEMING RD CINCINNATI OH 45231 SS 10,SM 11,SN 6,W 7 YOUTH, PRIMETIMERS, JUNIOR CHU"
   },
   {
     "id": "3720",
@@ -1820,7 +1820,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WALLY GILBERT. 691 STAUNTON RD TROY OH 45373 SS 945,SM 1045,SN 6,W 7 KJB, BBF"
+    "description": "TROY OH 45373 SS 945,SM 1045,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "3721",
@@ -1839,7 +1839,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY PAYNE. 2611 CAMPBELL ST SANDUSKY OH 44870 SS 930,SM 1030,SN 6,W 7 KJB, BBF"
+    "description": "SANDUSKY OH 44870 SS 930,SM 1030,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "3722",
@@ -1857,7 +1857,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL CAPIZZI. 1441 W VINE ST ALLIANCE OH 44601 KJB church."
+    "description": "ALLIANCE OH 44601 KJB church"
   },
   {
     "id": "3723",
@@ -1876,12 +1876,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RONNIE WOLFE. 99 E MAIN ST NORWALK OH 44857 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB, ANTIOCH-BC 119 S HILL & BROADWAY STS HARRISON OH 45030-0201 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "NORWALK OH 44857 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB, ANTIOCH-BC 119 S HILL & BROADWAY STS HARRISON OH 45030-0201 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3724",
     "name": "GRAHAM ROAD BAPTIST CHURCH",
-    "address": "705 GRAHAM RD",
+    "address": "1507 OLDTOWN VALLEY RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -1894,7 +1894,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON SNOW. 705 GRAHAM RD CUYAHOGA FALLS OH 44221 SS 915,SM 1030,SN 6,W 7 1507 OLDTOWN VALLEY RD SE NEW PHILADELPHIA OH 44663 KJB church."
+    "description": "CUYAHOGA FALLS OH 44221 SS 915,SM 1030,SN 6,W 7 SE NEW PHILADELPHIA OH 44663 KJB church"
   },
   {
     "id": "3725",
@@ -1912,7 +1912,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED ADAMS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3726",
@@ -1931,7 +1931,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIMOTHY J PERIA. 5529 MASON RD MASON OH 45040 SM 11,SN 3,TH 7 SWORD DEAF BIBLE COLLEGE KJV, BBF KJB church."
+    "description": "MASON OH 45040 SM 11,SN 3,TH 7 SWORD DEAF BIBLE COLLEGE KJV, BBF KJB church"
   },
   {
     "id": "3727",
@@ -1950,7 +1950,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GAYLORD W COX SR. 16623 SR 739 RICHWOOD OH 43344 SS 930, SM 1030,SN 630,W 7 YOUTH GROUP & DISCOVERY BIBLE CLUBS KJB, BBF"
+    "description": "16623 SR 739 RICHWOOD OH 43344 SS 930, SM 1030,SN 630,W 7 YOUTH GROUP & DISCOVERY BIBLE CLUBS KJB, BBF"
   },
   {
     "id": "3728",
@@ -1970,7 +1970,7 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "BMA"
     ],
-    "description": "Led by ROBERT SHAW. 1840 DRESDEN AVE E LIVERPOOL OH 43920 2901 GALEWOOD ST KETTERING OH 45420 SS 930,SM 1030,SN 6,W 7 SENIORS, SOULWINNING, 10 MILES FROM WRIGHT-PATTERSON AFB KJB, IBFI, ARLINGTON-BC,"
+    "description": "E LIVERPOOL OH 43920 2901 GALEWOOD ST KETTERING OH 45420 SS 930,SM 1030,SN 6,W 7 SENIORS, SOULWINNING, 10 MILES FROM WRIGHT-PATTERSON AFB KJB, IBFI, ARLINGTON-BC"
   },
   {
     "id": "3729",
@@ -1990,7 +1990,7 @@ export const ohioChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by NICK TIMMS. 724 HELKE RD VANDALIA OH 45377 SS 10,SM 11,SN 6,W 7 AWANA, WORD OF LIFE, WRIGHT PATTERSON AFB KJB, MASSILLON 42862 SR 39 WELLSVILLE OH 43968 SS 945,SM 1045,SN 6,W 7 KJB, BBF PO BOX 336 2741 TRI COUNTY"
+    "description": "VANDALIA OH 45377 SS 10,SM 11,SN 6,W 7 AWANA, WORD OF LIFE, WRIGHT PATTERSON AFB KJB, MASSILLON 42862 SR 39 WELLSVILLE OH 43968 SS 945,SM 1045,SN 6,W 7 KJB, BBF PO BOX 336 2741 TRI COUNTY"
   },
   {
     "id": "3730",
@@ -2009,7 +2009,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOSH JACKSON. 1474 BANTAM RIDGE RD WINTERSVILLE OH 43953 KJB, SHAWNEE-BC 3033 US RT 50 BATAVIA OH 45103 near MARATHON SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, BBF 4577 SR 276 BATAVIA OH 45103 KJB, CCM"
+    "description": "WINTERSVILLE OH 43953 KJB, SHAWNEE-BC 3033 US RT 50 BATAVIA OH 45103 near MARATHON SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, BBF 4577 SR 276 BATAVIA OH 45103 KJB, CCM"
   },
   {
     "id": "3731",
@@ -2029,7 +2029,7 @@ export const ohioChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by TED RICCI. 6565 COLUMBUS RD LOUISVILLE OH 44641 SS 945,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, BBF PO BOX 177 79 FARMERSVILLE PK GERMANTOWN OH 45327 AUDIO SERMONS, CHOIR KJB, BIMI, BBFI, MT ABIRIM, PCC, UNAFFILIATED"
+    "description": "LOUISVILLE OH 44641 SS 945,SM 1030,SN 6,W 7 AUDIO SERMONS KJB, BBF PO BOX 177 79 FARMERSVILLE PK GERMANTOWN OH 45327 AUDIO SERMONS, CHOIR KJB, BIMI, BBFI, MT ABIRIM, PCC, UNAFFILIATED"
   },
   {
     "id": "3732",
@@ -2048,12 +2048,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN MARSHALL. 3151 ANNABELLE DR KETTERING OH 45429 NEAR DAYTON OH SS 10,SM 11,SN 6,W 7 KINGS KIDS & CHOIR,  SOULWINNING, HOPE FOR TODAY TV, LADIES BIBLE STUDY F 10, COLLEGE CAREER, TEENS, MEN’S FELLOWSHIP, LADIES F KJB church."
+    "description": "KETTERING OH 45429 NEAR DAYTON OH SS 10,SM 11,SN 6,W 7 KINGS KIDS & CHOIR, SOULWINNING, HOPE FOR TODAY TV, LADIES BIBLE STUDY F 10, COLLEGE CAREER, TEENS, MEN’S FELLOWSHIP, LADIES F KJB church"
   },
   {
     "id": "3733",
     "name": "HOPE BAPTIST CHURCH",
-    "address": "6250 SOUTH AVE",
+    "address": "43615 HOPE INST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2066,12 +2066,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL V BARTLETT. 6250 SOUTH AVE TOLEDO OH 43615 HOPE INSTITUTE OF THE SCRIPTURES KJB, RUCKMAN"
+    "description": "TOLEDO OH ITUTE OF THE SCRIPTURES KJB, RUCKMAN"
   },
   {
     "id": "3734",
     "name": "WYLDEWOOD BAPTIST CHURCH",
-    "address": "7979 MONROE RD",
+    "address": "7979 MONROE RD JUST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2085,7 +2085,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHARLES E MAINOUS III. PO BOX 707 LAMBERTVILLE MI 48144 CURRENTLY MEETING AT: MONROE ROAD ELEMENTARY SCHOOL 7979 MONROE RD JUST OUTSIDE OF TOLEDO SS 930,SM 1015,SN 630,W 7 KJB, UNREGISTERED, UNAFFILIATED"
+    "description": "PO BOX 707 LAMBERTVILLE MI 48144 CURRENTLY MEETING AT: MONROE ROAD ELEMENTARY SCHOOL OUTSIDE OF TOLEDO SS 930,SM 1015,SN 630,W 7 KJB, UNREGISTERED, UNAFFILIATED"
   },
   {
     "id": "3735",
@@ -2103,7 +2103,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY A ROESER. 7399 N HIGH ST COLUMBUS OH 43081 WORTHINGTON AREA SS 10,SM 11,SN 6,W 715 BUS, DEAF, BLIND, YOUTH, STREET PREACHING, AUDIO SERMONS;  CHRISTIAN SCHOOL, K-12 START HERE KJB church."
+    "description": "COLUMBUS OH 43081 WORTHINGTON AREA SS 10,SM 11,SN 6,W 715 BUS, DEAF, BLIND, YOUTH, STREET PREACHING, AUDIO SERMONS; CHRISTIAN SCHOOL, K-12 START HERE KJB church"
   },
   {
     "id": "3736",
@@ -2121,12 +2121,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC CONSTANTINO. 4774 S HAMETOWN RD NORTON OH 44203 BARBERTON AREA SS 930,SM 1030,SN 630,W 715 AUDIO SERMONS; HAMETOWN CHRISTIAN ACADEMY; 8215 US RT 127 S CAMDEN OH 45311 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER 4736 W T KJB church."
+    "description": "NORTON OH 44203 BARBERTON AREA SS 930,SM 1030,SN 630,W 715 AUDIO SERMONS; HAMETOWN CHRISTIAN ACADEMY; 8215 US RT 127 S CAMDEN OH 45311 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER 4736 W T KJB church"
   },
   {
     "id": "3737",
     "name": "CARDINGTON BAPTIST TEMPLE",
-    "address": "510 PARK AVE",
+    "address": "510 PARK AVE CARD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2140,7 +2140,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GARY L JACKSON. 510 PARK AVE CARDINGTON OH 43315 KJB, OVBA 8580 CHEVIOT RD CINCINNATI OH 45239 SPANISH, BUS, AWANA, DEAF, FOOD, CHOIR, AUDIO SERMONS SS 10,SM 11,SN 630,W 730 KJB, BBF"
+    "description": "INGTON OH 43315 KJB, OVBA 8580 CHEVIOT RD CINCINNATI OH 45239 SPANISH, BUS, AWANA, DEAF, FOOD, CHOIR, AUDIO SERMONS SS 10,SM 11,SN 630,W 730 KJB, BBF"
   },
   {
     "id": "3738",
@@ -2159,12 +2159,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PAT BRUCE. PO BOX 110 SEBRING OH 44672 18320 5TH ST in BELOIT KJB, BBFI"
+    "description": "PO BOX 110 SEBRING OH 44672 KJB, BBFI"
   },
   {
     "id": "3739",
     "name": "MILL CREEK BAPTIST CHURCH",
-    "address": "59 N FOURTH ST",
+    "address": "59 N FOURTH ST OST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2178,12 +2178,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PHILLIP BLACKWELL. PO BOX 88 59 N FOURTH ST OSTRANDER OH 43061 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 88 RANDER OH 43061 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "3740",
     "name": "SALEM BAPTIST CHURCH",
-    "address": "6468 SALEM RD",
+    "address": "4215 INDIAN RIPPLE RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2197,7 +2197,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PAUL NORTON. 6468 SALEM RD CINCINNATI OH 45230 SS 930,SM 1013,SN 7,W 730 KJB, HBBC 4215 INDIAN RIPPLE RD DAYTON OH 45440 SS 930,SM 1030,SN 6,W 7,AWANA RADIO, TV ,BUS, SOULWINNING, TEEN, YOUTH, SINGLES, COUPLES, WR"
+    "description": "CINCINNATI OH 45230 SS 930,SM 1013,SN 7,W 730 KJB, HBBC DAYTON OH 45440 SS 930,SM 1030,SN 6,W 7,AWANA RADIO, TV ,BUS, SOULWINNING, TEEN, YOUTH, SINGLES, COUPLES, WR"
   },
   {
     "id": "3741",
@@ -2215,7 +2215,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY WATSON. 1707 OHMER DR DAYTON OH 45410 TEXT SERMONS AND OUTLINES SS 10,SM 845 & 11,SN 630,W 7 CHOIR, PATCH PIRATE, BUS, TEEN, VIDEO SERMONS & MUSIC; TEMPLE CHRISTIAN SCHOOL; WRIGHT PATTERSON AFB PO BOX 68 3692 KJB church."
+    "description": "DAYTON OH 45410 TEXT SERMONS AND OUTLINES SS 10,SM 845 & 11,SN 630,W 7 CHOIR, PATCH PIRATE, BUS, TEEN, VIDEO SERMONS & MUSIC; TEMPLE CHRISTIAN SCHOOL; WRIGHT PATTERSON AFB PO BOX 68 3692 KJB church"
   },
   {
     "id": "3742",
@@ -2236,7 +2236,7 @@ export const ohioChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by ANDREW J RUSNACKO. 705 N BARRON ST EATON OH 45320 SS 10,SM 11,SN 6,W 7 LIVESTREAM SERMONS KJB, BBF PO BOX 32005 1565 CHARDON RD EUCLID OH 44132 SS 1030,SM 11,SN 7,W 7 206 N MARTIN ST FOREST OH 45843 SS 930,SM 1030,SN 6,"
+    "description": "EATON OH 45320 SS 10,SM 11,SN 6,W 7 LIVESTREAM SERMONS KJB, BBF PO BOX 32005 1565 CHARDON RD EUCLID OH 44132 SS 1030,SM 11,SN 7,W 7 206 N MARTIN ST FOREST OH 45843 SS 930,SM 1030,SN 6"
   },
   {
     "id": "3743",
@@ -2255,7 +2255,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SE. MASSILLON OH 44648 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, CHOIR, CLASSES FOR ALL AGES, SHIPMATES ON WED DURING SCHOOL YEAR, W.A.V.E. TEEN PROGRAM KJB, UNAFFILIATED, RUCKMAN"
+    "description": "MASSILLON OH 44648 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, CHOIR, CLASSES FOR ALL AGES, SHIPMATES ON WED DURING SCHOOL YEAR, W.A.V.E. TEEN PROGRAM KJB, UNAFFILIATED, RUCKMAN"
   },
   {
     "id": "3744",
@@ -2273,12 +2273,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW STENSAAS. 9200 STRIMPLE RD HARRISON OH 45030 SS 10,SM 11,SN 630,W 7 PO BOX 3 1308 N MAPLE ST EATON OH 45320 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HARRISON OH 45030 SS 10,SM 11,SN 630,W 7 PO BOX 3 1308 N MAPLE ST EATON OH 45320 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3745",
     "name": "LEBANON BAPTIST TEMPLE",
-    "address": "9431 SHELLY LN",
+    "address": "7 FELLOWSHIP TRACT",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2292,12 +2292,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DEAN GOOCH. 130 W SILVER LEBANON OH 45036 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 9431 SHELLY LN CINCINNATI OH 45242 SS 10,SM 11,SN 6,W 7 PO BOX 164 LEBANON OH 45036 SS 10,SM 11,SN 6,W 7 FELLOWSHIP TRACT LEAGUE KJ"
+    "description": "130 W SILVER LEBANON OH 45036 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED CINCINNATI OH 45242 SS 10,SM 11,SN 6,W 7 PO BOX 164 LEBANON OH 45036 SS 10,SM 11,SN 6,W LEAGUE KJ"
   },
   {
     "id": "3746",
     "name": "DECATUR BAPTIST CHURCH",
-    "address": "",
+    "address": "6 BIBLE INST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2310,7 +2310,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA LEHMAN. 6687 SR 555 LITTLE HOCKING OH 45742 SS 930,SM 1030,SN 6,W 6 BIBLE INSTITUTE; AUDIO SERMONS KJB church."
+    "description": "6687 SR 555 LITTLE HOCKING OH 45742 SS 930,SM 1030,SN 6,W ITUTE; AUDIO SERMONS KJB church"
   },
   {
     "id": "3747",
@@ -2329,12 +2329,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by VIC WILSON. 1481 YAUGER RD MT VERNON OH 43050 SM 10,SN 6,W 7 CHOIR, AWANA, SOULWINNING, RADIO, AUDIO SERMONS PO BOX 218 211 BROADWAY LOVELAND OH 45140 KJB, GIPP"
+    "description": "MT VERNON OH 43050 SM 10,SN 6,W 7 CHOIR, AWANA, SOULWINNING, RADIO, AUDIO SERMONS PO BOX 218 211 BROADWAY LOVELAND OH 45140 KJB, GIPP"
   },
   {
     "id": "3748",
     "name": "BRANCH HILL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 295",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2347,7 +2347,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE SCOTT. PO BOX 295 6526 GUINEA PIKE LOVELAND OH 45140 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, TEENS, BIBLE INSTITUTE PO BOX 40 2500 S SR 48 LUDLOW FALLS OH 45339 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "6526 GUINEA PIKE LOVELAND OH 45140 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, TEENS, BIBLE INSTITUTE PO BOX 40 2500 S SR 48 LUDLOW FALLS OH 45339 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "3749",
@@ -2360,12 +2360,12 @@ export const ohioChurches: Church[] = [
     "longitude": -82.1808,
     "phone": "(513) 398-2961",
     "website": "http://lbcmoraine.com",
-    "pastor": "ERIC BRAZZELTON",
+    "pastor": "6953 GERMANTOWN PIKE MIAMISBURG OH 45342 SS 10,SM 11,SN 7,W 7 KJB, RUCKMAN",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC BRAZZELTON. 5946 SOCIALVILLE FOSTER RD MASON OH 45040 NEEDS PASTOR 6953 GERMANTOWN PIKE MIAMISBURG OH 45342 SS 10,SM 11,SN 7,W 7 KJB, RUCKMAN"
+    "description": "MASON OH 45040 NEEDS"
   },
   {
     "id": "3750",
@@ -2384,7 +2384,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICHARD KIPP. 4475 ELK CREEK MIDDLETON OH 45042 KJB, RUCKMAN 1252 E AURORA RD MACEDONIA OH 44056 SAGAMORE HILLS AREA SS 930,SM 1045,SN 6,W 7 AUDIO MUSIC KJB,BBF"
+    "description": "4475 ELK CREEK MIDDLETON OH 45042 KJB, RUCKMAN MACEDONIA OH 44056 SAGAMORE HILLS AREA SS 930,SM 1045,SN 6,W 7 AUDIO MUSIC KJB,BBF"
   },
   {
     "id": "3751",
@@ -2402,7 +2402,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERALD COLLINGSWORTH. 6459 MANCHESTER RD FRANKLIN OH 45005 Near MIDDLETOWN KJB, HAV, HUTSON, GRAY-TX 77 SAXE RD MOGADORE VILLAGE OH 44260 SS 10,SM 11,SN 7,W 730 BUS, PHOSTERS, FISHERMENS CLUB; HERITAGE BAPTIST ACADEMY"
+    "description": "FRANKLIN OH 45005 Near MIDDLETOWN KJB, HAV, HUTSON, GRAY-TX 77 SAXE RD MOGADORE VILLAGE OH 44260 SS 10,SM 11,SN 7,W 730 BUS, PHOSTERS, FISHERMENS CLUB; HERITAGE BAPTIST ACADEMY"
   },
   {
     "id": "3752",
@@ -2422,12 +2422,12 @@ export const ohioChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by DON R HOOKER. 14 PRIVATE DR, 2114 SOUTH POINT OH 45680 SS 930,SM 1030,SN 630,W 7 KJB, BBFI"
+    "description": "2114 SOUTH POINT OH 45680 SS 930,SM 1030,SN 630,W 7 KJB, BBFI"
   },
   {
     "id": "3753",
     "name": "SERENITY BAPTIST CHURCH",
-    "address": "9000 COX RD",
+    "address": "9000 COX RD WEST CHEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2440,7 +2440,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "9000 COX RD WEST CHESTER OH 45069 SOUTH OF TYLERSVILLE, NORTH OF ST RT 42 SM 1030,SS 6,W 7"
+    "description": "ER OH 45069 SOUTH OF TYLERSVILLE, NORTH OF ST RT 42 SM 1030,SS 6,W 7"
   },
   {
     "id": "3754",
@@ -2459,7 +2459,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID J KOEHLER. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "3755",
@@ -2477,12 +2477,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARRY CLICK. 15528 STATE ROUTE 3 N LOUDONVILLE OH 44842 KJB, MIDWESTERN-BC"
+    "description": "LOUDONVILLE OH 44842 KJB, MIDWESTERN-BC"
   },
   {
     "id": "3756",
     "name": "FREMONT BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 865",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2495,7 +2495,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW EDWARDS III. PO BOX 865 1150 S CR 198 FREMONT OH 43420 SS 10,SM 11,SN 6,W 7 MASTER CLUBS; TEMPLE CHRISTIAN ACADEMY, K5-12; KJB church."
+    "description": "1150 S CR 198 FREMONT OH 43420 SS 10,SM 11,SN 6,W ER CLUBS; TEMPLE CHRISTIAN ACADEMY, K5-12; KJB church"
   },
   {
     "id": "3757",
@@ -2513,7 +2513,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HALE. 3906 W ALEXIS RD TOLEDO OH 43623 SS 10,SM 11,SN 630,W 730 BUS, KINGS KIDS, TEEN, DEAF; NORTHWEST BAPTIST ACADEMY; KJB church."
+    "description": "TOLEDO OH 43623 SS 10,SM 11,SN 630,W 730 BUS, KINGS KIDS, TEEN, DEAF; NORTHWEST BAPTIST ACADEMY; KJB church"
   },
   {
     "id": "3758",
@@ -2531,12 +2531,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE GRIMALDI. PO BOX 398 6244 MANCHESTER RD AKRON OH 44216 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB church."
+    "description": "PO BOX 398 AKRON OH 44216 SS 10,SM 11,SN 6,W 7 KINGS KIDS KJB church"
   },
   {
     "id": "3759",
     "name": "FIRST BAPTIST CHURCH OF KENMORE",
-    "address": "2330 EAST AVE",
+    "address": "602 ILLINOIS AVE",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2552,7 +2552,7 @@ export const ohioChurches: Church[] = [
       "BMA",
       "SBC"
     ],
-    "description": "Led by MICHAEL S SETSER. 2330 EAST AVE AKRON OH 44314 SS 10,SM 11,SN 7,W 7 BUS, KINGS KIDS, SOULWINNING; FIRST BAPTIST ACADEMY, K4-12,ACE; KENMORE BAPTIST COLLEGE; AUDIO SERMONS KJB, HAC 602 ILLINOIS AVE MCDONALD OH 44437 SS"
+    "description": "AKRON OH 44314 SS 10,SM 11,SN 7,W 7 BUS, KINGS KIDS, SOULWINNING; FIRST BAPTIST ACADEMY, K4-12,ACE; KENMORE BAPTIST COLLEGE; AUDIO SERMONS KJB, HAC MCDONALD OH 44437 SS"
   },
   {
     "id": "3760",
@@ -2570,7 +2570,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN MOORE. 7760 SOUTH ST FULTONHAM OH 43738 432 PARK AVE NEW LONDON OH 44851 KJB church."
+    "description": "FULTONHAM OH 43738 432 PARK AVE NEW LONDON OH 44851 KJB church"
   },
   {
     "id": "3761",
@@ -2588,7 +2588,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL MOORE. SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3762",
@@ -2606,12 +2606,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN GILIN. 4131 SWAIN DR NORTON OH 44203 KJB church."
+    "description": "NORTON OH 44203 KJB church"
   },
   {
     "id": "3763",
     "name": "MISSION BAPTIST TEMPLE",
-    "address": "4163 KENT RD",
+    "address": "4163 KENT RD ST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2624,12 +2624,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROY KEITER. 4163 KENT RD STOW OH 44224 (330) 688- 0901 CH SS 10,SM 11,SN 6,W 6 KJB, IBFI"
+    "description": "OW OH 44224 (330) 688- 0901 CH SS 10,SM 11,SN 6,W 6 KJB, IBFI"
   },
   {
     "id": "3764",
     "name": "GOSPEL LIGHT BAPTIST CHURCH",
-    "address": "6434 SMITH RD",
+    "address": "4448 N RIDGE RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2644,7 +2644,7 @@ export const ohioChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GREG A COLE. 6434 SMITH RD LOVELAND OH 45140 KJB, UNAFFILIATED 4448 N RIDGE RD W ASHTABULA OH 44004 BUS, KINGS KIDS, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS, PROPHETS CHAMBER, BEARING PRECIOUS S"
+    "description": "LOVELAND OH 45140 KJB, UNAFFILIATED W ASHTABULA OH 44004 BUS, KINGS KIDS, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, AUDIO SERMONS, PROPHETS CHAMBER, BEARING PRECIOUS S"
   },
   {
     "id": "3765",
@@ -2662,7 +2662,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON FURMAN. PO BOX 157 GREENVILLE OH 45331 near DAYTON SS 10,SM 11,SN 630,W 7 820 WHITE POND DR AKRON OH 44310 SM 10,TH 7 KJB, IBFI, ARLINGTON-BC"
+    "description": "PO BOX 157 GREENVILLE OH 45331 near DAYTON SS 10,SM 11,SN 630,W 7 AKRON OH 44310 SM 10,TH 7 KJB, IBFI, ARLINGTON-BC"
   },
   {
     "id": "3766",
@@ -2680,7 +2680,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK MOWRY. 7816 DUBOIS RD CARLISLE, OH 45005 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, IBFI"
+    "description": "CARLISLE, OH 45005 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, IBFI"
   },
   {
     "id": "3767",
@@ -2698,7 +2698,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PATRICK MURPHY. 1661 HAWORTH RD LAURA OH 45337 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "LAURA OH 45337 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3768",
@@ -2716,7 +2716,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY BASHAM SR. 1506 N FAIRFIELD RD DAYTON OH 45432 SS 945,SM 1045,SN 6,TH 7, JAIL, STREET, CHARITY BF-SHIPPING, MAILBOX,; CHARITY BAPTIST BIBLE INSTITUTE,RESIDENT AND CORRESPONDENCE; WRIGHT PATTERSON AFB KJB church."
+    "description": "DAYTON OH 45432 SS 945,SM 1045,SN 6,TH 7, JAIL, STREET, CHARITY BF-SHIPPING, MAILBOX,; CHARITY BAPTIST BIBLE INSTITUTE,RESIDENT AND CORRESPONDENCE; WRIGHT PATTERSON AFB KJB church"
   },
   {
     "id": "3769",
@@ -2734,7 +2734,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRADY SMALE. 5027 AVERY RD AMLIN OH 43002 SS 930, SM 1045, SN 6, W 7 AUDIO SERMONS, LOCAL CHURCH BIBLE INSTITUTE KJB, HAC"
+    "description": "AMLIN OH 43002 SS 930, SM 1045, SN 6, W 7 AUDIO SERMONS, LOCAL CHURCH BIBLE INSTITUTE KJB, HAC"
   },
   {
     "id": "3770",
@@ -2753,7 +2753,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOE FRENCH. 310 LOWELL ST ELYRIA OH 44035 SS 10,SM 11,SN 7,W 7 AUDIO & VIDEO SERMONS KJB,UNAFFILIATED"
+    "description": "ELYRIA OH 44035 SS 10,SM 11,SN 7,W 7 AUDIO & VIDEO SERMONS KJB,UNAFFILIATED"
   },
   {
     "id": "3771",
@@ -2772,7 +2772,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVE GREEGOR. 4117 HAMILTON MIDDLETON RD HAMILTON OH 45011 INDIAN SPRINGS OH 45011 SS 10,SM 11,SN 6,W 630 BOYS BATTALION, ROYAL DAUGHTERS, SOULWINNING AUDIO SERMONS KJB, IBFI"
+    "description": "HAMILTON OH 45011 INDIAN SPRINGS OH 45011 SS 10,SM 11,SN 6,W 630 BOYS BATTALION, ROYAL DAUGHTERS, SOULWINNING AUDIO SERMONS KJB, IBFI"
   },
   {
     "id": "3772",
@@ -2790,7 +2790,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS BURKE. PO BOX 110 400 LINCOLNVIEW DR DALTON OH 44618 SS 10,SM  11,SN 7,W 7 KJB church."
+    "description": "PO BOX 110 DALTON OH 44618 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "3773",
@@ -2809,12 +2809,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES R DENNIS. 10632 ELTZROTH ST GOSHEN OH 45122 SS 10,SM 11,SN 630,TH 7 KJB, UNAFFILIATED"
+    "description": "GOSHEN OH 45122 SS 10,SM 11,SN 630,TH 7 KJB, UNAFFILIATED"
   },
   {
     "id": "3774",
     "name": "NEWARK BAPTIST TEMPLE",
-    "address": "81 LICKING VIEW DR",
+    "address": "43056 LICKING COUNTY CHRIST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2828,12 +2828,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID CURINGTON. 81 LICKING VIEW DR HEATH OH 43056 LICKING COUNTY CHRISTIAN ACADEMY, K5-12,AACS; AUDIO SERMONS KJB, UNAFFILIATED, HAC PO BOX 453 111 E MAIN ST AMELIA OH 45102 SS 10,SN 11,SN 6,W 7"
+    "description": "HEATH OH IAN ACADEMY, K5-12,AACS; AUDIO SERMONS KJB, UNAFFILIATED, HAC PO BOX 453 111 E MAIN ST AMELIA OH 45102 SS 10,SN 11,SN 6,W 7"
   },
   {
     "id": "3775",
     "name": "KINGS MILLS BAPTIST CHURCH",
-    "address": "1627 KING AVE",
+    "address": "8911 LAKESHORE BLVD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2847,7 +2847,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PHILIP HILDITCH. PO BOX 256 1627 KING AVE KINGS MILLS OH 45034 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS , BUS, SENIORS PO BOX 627 NORTH KINGSVILLE OH  44068 8911 LAKESHORE BLVD MENTOR OH 44060 KJB, WBF BBF, IBFI CARROLLT"
+    "description": "PO BOX 256 KINGS MILLS OH 45034 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS , BUS, SENIORS PO BOX 627 NORTH KINGSVILLE OH 44068 MENTOR OH 44060 KJB, WBF BBF, IBFI CARROLLT"
   },
   {
     "id": "3776",
@@ -2865,7 +2865,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY RUH. PO BOX 13093 1324 MILLVILLE AVE HAMILTON OH 45013 SS 10,SM 11,SN 6,W 7 KINGS KIDS, AUDIO PREACHING, BIBLE INSTITUTE 215 E BROADWAY NEW LEXINGTON OH 43764 SS 930,SM 830 & 11,SN 7,W 7 KJB, GIBF"
+    "description": "PO BOX 13093 HAMILTON OH 45013 SS 10,SM 11,SN 6,W 7 KINGS KIDS, AUDIO PREACHING, BIBLE INSTITUTE 215 E BROADWAY NEW LEXINGTON OH 43764 SS 930,SM 830 & 11,SN 7,W 7 KJB, GIBF"
   },
   {
     "id": "3777",
@@ -2884,12 +2884,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRYAN DAHLKE. 3728 SNOUFFER RD COLUMBUS OH 43235 SS 10, SM 11, SN 6, W 7 AUDIO SERMONS, BUS, SOULWINNING, PATCH THE PIRATE, MINISTRY ON CAMPUS OF OHIO STATE, PRISON KJB church."
+    "description": "COLUMBUS OH 43235 SS 10, SM 11, SN 6, W 7 AUDIO SERMONS, BUS, SOULWINNING, PATCH THE PIRATE, MINISTRY ON CAMPUS OF OHIO STATE, PRISON KJB church"
   },
   {
     "id": "3778",
     "name": "CAPITOL CITY BAPTIST CHURCH",
-    "address": "5442 SUNBURY RD",
+    "address": "1395 DUFFY RD LANCAST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2903,12 +2903,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROY E MAPLE. 5442 SUNBURY RD COLUMBUS OH 43221 NEAR GAHANNA AREA SS 10,SM 11,SN 6,W 730 KINGS KIDS, SPANISH KJB, WBF 1395 DUFFY RD LANCASTER OH 43130 PROPHETS CHAMBER KJB, UNAFFILIATED, HAC 2032 CEDAR HILL RD LANC"
+    "description": "COLUMBUS OH 43221 NEAR GAHANNA AREA SS 10,SM 11,SN 6,W 730 KINGS KIDS, SPANISH KJB, WBF ER OH 43130 PROPHETS CHAMBER KJB, UNAFFILIATED, HAC 2032 CEDAR HILL RD LANC"
   },
   {
     "id": "3779",
     "name": "CALVARY COMMUNITY CHURCH",
-    "address": "100 1ST LN",
+    "address": "6290 RIP RAP RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2922,12 +2922,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by E M REED. PO BOX 151 100 1ST LN BELPRE OH 45714 SS 945,SM 1045,SN 6,W 7 BUS, RADIO WCVV 89.5, AUDIO SERMONS; BELPRE CHRISTIAN ACADEMY, K-12, ACE; KJB, IBFI 6290 RIP RAP RD HUBER HEIGHTS OH 45424 KJB, BBF"
+    "description": "PO BOX 151 100 1ST LN BELPRE OH 45714 SS 945,SM 1045,SN 6,W 7 BUS, RADIO WCVV 89.5, AUDIO SERMONS; BELPRE CHRISTIAN ACADEMY, K-12, ACE; KJB, IBFI HUBER HEIGHTS OH 45424 KJB, BBF"
   },
   {
     "id": "3780",
     "name": "DILLON RD BAPTIST CHURCH",
-    "address": "11275 DILLON RD",
+    "address": "11275 DILLON RD FOST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "11275",
@@ -2940,12 +2940,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL DOLLISON. PO BOX 48 11275 DILLON RD FOSTORIA OH 44830 KJB church."
+    "description": "PO BOX 48 ORIA OH 44830 KJB church"
   },
   {
     "id": "3781",
     "name": "RESTORATION BAPTIST CHURCH",
-    "address": "21 DEPOT ST",
+    "address": "1212 GREENSBURG RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -2964,7 +2964,7 @@ export const ohioChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by GLENN E ROGERS JR. 21 DEPOT ST PATASKALA OH 43062 SM 1030,W 6 Part 4 KJB, BBF PO BOX 181 1212 GREENSBURG RD GREEN OH 44232 SS 930,SM 1030,SN 6,W 7 AWANA, SENIOR, YOUTH, TEEN KJB, BBF 34361 LORAIN RD N RIDGEVILLE OH 4403"
+    "description": "PATASKALA OH 43062 SM 1030,W 6 Part 4 KJB, BBF PO BOX 181 GREEN OH 44232 SS 930,SM 1030,SN 6,W 7 AWANA, SENIOR, YOUTH, TEEN KJB, BBF 34361 LORAIN RD N RIDGEVILLE OH 4403"
   },
   {
     "id": "3782",
@@ -2982,7 +2982,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by SHAWN CADLE. 557  US HWY 224 SULLIVAN OH 44880"
+    "description": "557 US HWY 224 SULLIVAN OH 44880"
   },
   {
     "id": "3783",
@@ -3000,7 +3000,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by RONALD LAUGHLIN. PO BOX 15 420 MISSION LN FRANKLIN OH 45005 BBF church."
+    "description": "PO BOX 15 FRANKLIN OH 45005 BBF church"
   },
   {
     "id": "3784",
@@ -3018,7 +3018,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by J W ROGERS. PO BOX 723 668 ARCH ST SALEM OH 44460 SS 10,SM 11,SN 6 719 ROOT RD LORAIN OH 44052 STEELE 5633 LAKE RD MORROW OH 45152 BBF church."
+    "description": "PO BOX 723 SALEM OH 44460 SS 10,SM 11,SN 6 719 ROOT RD LORAIN OH 44052 STEELE 5633 LAKE RD MORROW OH 45152 BBF church"
   },
   {
     "id": "3785",
@@ -3036,7 +3036,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2288 LILAC ST LOVELAND OH 45140 SS 10,SM 11, SN 6,W 7"
+    "description": "LOVELAND OH 45140 SS 10,SM 11, SN 6,W 7"
   },
   {
     "id": "3786",
@@ -3054,7 +3054,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by LEE ROBERTSON."
+    "description": ""
   },
   {
     "id": "3787",
@@ -3072,7 +3072,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4021 W 120TH ST CLEVELAND OH 44135 SS 10,SM 11,SN 6,W 7"
+    "description": "CLEVELAND OH 44135 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "3788",
@@ -3091,7 +3091,7 @@ export const ohioChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DAVID MASON. 2219 ALLEN COMP DORSET OH 44032 OH-BBF"
+    "description": "2219 ALLEN COMP DORSET OH 44032 OH-BBF"
   },
   {
     "id": "3789",
@@ -3109,7 +3109,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WALKER DEATON. 1552 ELMORE AVE COLUMBUS OH 43224 SS 9,SM 1030,SN 6,W 7"
+    "description": "COLUMBUS OH 43224 SS 9,SM 1030,SN 6,W 7"
   },
   {
     "id": "3790",
@@ -3127,7 +3127,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID JACKSON. 1191 W SEYMOUR AVE CINCINNATI OH 45216"
+    "description": "CINCINNATI OH 45216"
   },
   {
     "id": "3791",
@@ -3145,7 +3145,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DON NOEL. PO BOX 39482 9800 LORALINDA DR CINCINNATI OH 45239 SS 10,SM 11,SN 6,W 7 KIDS BIBLE CLUB, BUS; FAITH BIBLE INSTITUTE"
+    "description": "PO BOX 39482 CINCINNATI OH 45239 SS 10,SM 11,SN 6,W 7 KIDS BIBLE CLUB, BUS; FAITH BIBLE INSTITUTE"
   },
   {
     "id": "3792",
@@ -3163,7 +3163,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by AARON KIMMEL. 2797 ST RT 139 PORTSMOUTH OH 45662 SS 930,SM 1030,SN 6,W 7 OBF, BJU"
+    "description": "PORTSMOUTH OH 45662 SS 930,SM 1030,SN 6,W 7 OBF, BJU"
   },
   {
     "id": "3793",
@@ -3181,12 +3181,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MARION SPENCER. 2998 DEFIANCE TRAIL DELPHOS OH 45833 SS 10,SM 11,SN 6,W 7 350 N BEACH ST NORTH BALTIMORE OH 45872 BBF church."
+    "description": "2998 DEFIANCE TRAIL DELPHOS OH 45833 SS 10,SM 11,SN 6,W 7 NORTH BALTIMORE OH 45872 BBF church"
   },
   {
     "id": "3794",
     "name": "RIVERVIEW BAPTIST CHURCH",
-    "address": "1810 VISTA DR",
+    "address": "1810 VISTA DR ABERD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3199,12 +3199,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by SCOTT JENKINS. 1810 VISTA DR ABERDEEN OH 45101 310 S 6TH ST IRONTON OH 45638 SS 10,SM 11,SN 6,W 7 BBF church."
+    "description": "EEN OH 45101 310 S 6TH ST IRONTON OH 45638 SS 10,SM 11,SN 6,W 7 BBF church"
   },
   {
     "id": "3795",
     "name": "SUMMIT ROAD BAPTIST CHURCH",
-    "address": "3336 SUMMIT RD",
+    "address": "3336 SUMMIT RD RAVE",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3217,12 +3217,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JEREMY STOUT. PO BOX 471 3336 SUMMIT RD RAVENNA OH 44266 404 OAK ST MARYSVILLE OH 43040 SS 930,SM 1030,SN 6,W 7 BBF church."
+    "description": "PO BOX 471 NNA OH 44266 404 OAK ST MARYSVILLE OH 43040 SS 930,SM 1030,SN 6,W 7 BBF church"
   },
   {
     "id": "3796",
     "name": "FIRST BAPTIST CHURCH OF BELPRE",
-    "address": "500 BEACH DR",
+    "address": "45714 FREEDOM CHRIST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3236,12 +3236,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by F R. PO BOX 295 500 BEACH DR BELPRE OH 45714 FREEDOM CHRISTIAN SCHOOL, K6-6TH GRADE, AACS 2525 MANSFIELD RD 1223 US RT 42 ASHLAND OH 44805 SS 10,SM 11,W 7 NOT KJV ONLY KJB church."
+    "description": "PO BOX 295 BELPRE OH IAN SCHOOL, K6-6TH GRADE, AACS 2525 MANSFIELD RD 1223 US RT 42 ASHLAND OH 44805 SS 10,SM 11,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "3797",
     "name": "MARANATHA BIBLE CHURCH",
-    "address": "",
+    "address": "PO BOX 226",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3255,7 +3255,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JERRY JONES. PO BOX 226 10965 SR 613 VAN BUREN OH 45889 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, BBF, BBC-MO KJB church."
+    "description": "10965 SR 613 VAN BUREN OH 45889 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, BBF, BBC-MO KJB church"
   },
   {
     "id": "3798",
@@ -3268,18 +3268,18 @@ export const ohioChurches: Church[] = [
     "longitude": -83.4841,
     "phone": "(513) 531-3626",
     "website": "http://www.cbcrittman.com",
-    "pastor": "MICHAEL LEMAR",
+    "pastor": "RITTMAN OH 44270 SS 10,SM 11,SN 6,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MICHAEL LEMAR. PO BOX 86 4255 ASHLAND AVE NORWOOD OH 45212 SS 10,SM 1045,SN 6,W 730 CHOIR, AWANA, TEEN NOT KJV ONLY, BBFI, BBC-MO PO BOX 38 516 W SUNSET DR RITTMAN OH 44270 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 86 NORWOOD OH 45212 SS 10,SM 1045,SN 6,W 730 CHOIR, AWANA, TEEN NOT KJV ONLY, BBFI, BBC-MO PO BOX 38 516 W SUNSET DR RITTMAN OH 44270 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3799",
     "name": "FIRESTONE PARK BAPTIST CHURCH",
-    "address": "310 E WILBETH RD",
+    "address": "8233 W COVINGTON GETTYSBURG RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3292,7 +3292,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLIFF L CHRISTMAN. 310 E WILBETH RD AKRON OH 44301 KJB, S.GRACE-TULIP 8233 W COVINGTON GETTYSBURG RD COVINGTON OH 45318 SS 930,SM 1030,SN 6,W 7 BUS; OLD PATHS BAPTIST ACADEMY KJB, 1689 CONFESSION OF FAITH, S.GRACE-TULIP"
+    "description": "AKRON OH 44301 KJB, S.GRACE-TULIP COVINGTON OH 45318 SS 930,SM 1030,SN 6,W 7 BUS; OLD PATHS BAPTIST ACADEMY KJB, 1689 CONFESSION OF FAITH, S.GRACE-TULIP"
   },
   {
     "id": "3800",
@@ -3310,7 +3310,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PATRICK ODLE. 3791 PETRE RD SPRINGFIELD OH 45502 PM 10,SM 11, SN 1,W 7 NOT KJV ONLY, GARBC, OARBC, HARBC KJB church."
+    "description": "SPRINGFIELD OH 45502 PM 10,SM 11, SN 1,W 7 NOT KJV ONLY, GARBC, OARBC, HARBC KJB church"
   },
   {
     "id": "3801",
@@ -3328,12 +3328,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON MORRIS. PO BOX 929 1400 LAGRANGE RD ELYRIA OH 44036 SS 945,SM 830 & 1050,SN 6,W 7 AWANA; FIRST BAPTIST CHRISTIAN SCHOOL, K-12; NOT KJV ONLY, GARBC KJB church."
+    "description": "PO BOX 929 ELYRIA OH 44036 SS 945,SM 830 & 1050,SN 6,W 7 AWANA; FIRST BAPTIST CHRISTIAN SCHOOL, K-12; NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3802",
     "name": "BETHLEHEM BAPTIST CHURCH",
-    "address": "27250 EMERY RD",
+    "address": "7 BETHLEHEM CHRIST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "27250",
@@ -3346,12 +3346,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUKE CRAWFORD. 27250 EMERY RD ORANGE VILLAGE OH 44128 SS 930,SM 1045,SN 6,W 7 BETHLEHEM CHRISTIAN SCHOOL K-6; ORANGE CHRISTIAN ACADEMY 7-12; NOT KJV ONLY,GARBC 4207 W LASKEY RD TOLEDO OH 43623 SS 830 & 10,SM 830 & 1 KJB church."
+    "description": "ORANGE VILLAGE OH 44128 SS 930,SM 1045,SN 6,W IAN SCHOOL K-6; ORANGE CHRISTIAN ACADEMY 7-12; NOT KJV ONLY,GARBC 4207 W LASKEY RD TOLEDO OH 43623 SS 830 & 10,SM 830 & 1 KJB church"
   },
   {
     "id": "3803",
     "name": "WHEELERSBURG BAPTIST CHURCH",
-    "address": "136 RIX MILLS RD",
+    "address": "136 RIX MILLS RD NEW CONCORD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3365,12 +3365,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MICHAEL DE LEON. PO BOX 224 11712 GALLIA PIKE WHEELERSBURG OH 45694 TEXT SERMONS, AWANA 136 RIX MILLS RD NEW CONCORD OH 43762 SS 930,SM 1045,SN 630,W 7 AUDIO SERMONS KJB, S.GRACE-TULIP 770 E EPWORTH AVE CINCINNATI OH"
+    "description": "PO BOX 224 11712 GALLIA PIKE WHEELERSBURG OH 45694 TEXT SERMONS, AWANA OH 43762 SS 930,SM 1045,SN 630,W 7 AUDIO SERMONS KJB, S.GRACE-TULIP 770 E EPWORTH AVE CINCINNATI OH"
   },
   {
     "id": "3804",
     "name": "WOOSTER BAPTIST TEMPLE",
-    "address": "2695 CLEVELAND RD",
+    "address": "2695 CLEVELAND RD WOOST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3384,12 +3384,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by NATE MCKANNA. PO BOX 433 2695 CLEVELAND RD WOOSTER OH 44691 SS 10,SM 11,SN 7,W 730 NOT KJV ONLY,BBF, WOL, OARBC 4750 EAST RD ELIDA OH 45807 KJB church."
+    "description": "PO BOX 433 ER OH 44691 SS 10,SM 11,SN 7,W 730 NOT KJV ONLY,BBF, WOL, OARBC 4750 EAST RD ELIDA OH 45807 KJB church"
   },
   {
     "id": "3805",
     "name": "FAITHBAPTIST",
-    "address": "119 E JACKSON ST",
+    "address": "119 E JACKSON ST WEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3402,12 +3402,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRUCE GERENESER. S. GRACE 119 E JACKSON ST WEST UNITY OH 43570 GARBC, OARBC, NOT KJV ONLY 440 N LAKE ST AMHERST OH 44001 SS 945,SM 1045,SN 6,W 7 AWANA, TEEN, LADIES BIBLE STUDY KJB, S.GRACE-TULIP"
+    "description": "S. GRACE UNITY OH 43570 GARBC, OARBC, NOT KJV ONLY 440 N LAKE ST AMHERST OH 44001 SS 945,SM 1045,SN 6,W 7 AWANA, TEEN, LADIES BIBLE STUDY KJB, S.GRACE-TULIP"
   },
   {
     "id": "3806",
     "name": "EASTBROOK BAPTIST CHURCH",
-    "address": "9733 TAYLOR RD SW",
+    "address": "7 RICKENBACHER OHIO NATION GUARD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3421,12 +3421,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRIAN CLAPROOD. 9733 TAYLOR RD SW REYNOLDSBURG OH 43068 SS 930,SM 1040,SN 6,W 7 RICKENBACHER OHIO NATION GUARD NOT KJV ONLY, BBF, IBFI KJB church."
+    "description": "REYNOLDSBURG OH 43068 SS 930,SM 1040,SN 6,W NOT KJV ONLY, BBF, IBFI KJB church"
   },
   {
     "id": "3807",
     "name": "WEST CHESTER BAPTIST CHURCH",
-    "address": "6856 DIMMICK RD",
+    "address": "6856 DIMMICK RD WEST CHEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3439,7 +3439,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC CUENIN. 6856 DIMMICK RD WEST CHESTER OH 45069 AUDIO SERMONS, CHOIR, BUS PREACH-KJV, NOT KJV ONLY, GARBC 12985 TOLLGATE RD PICKERINGTON OH 43147 SS 930,SM 1030,SN 6,W 7 RICKENBACKER NOT KJV ONLY KJB church."
+    "description": "ER OH 45069 AUDIO SERMONS, CHOIR, BUS PREACH-KJV, NOT KJV ONLY, GARBC 12985 TOLLGATE RD PICKERINGTON OH 43147 SS 930,SM 1030,SN 6,W 7 RICKENBACKER NOT KJV ONLY KJB church"
   },
   {
     "id": "3808",
@@ -3457,7 +3457,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC MOUNTS. 18664 SHELDON RD BROOK PARK OH  44142 near CLEVELAND SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "BROOK PARK OH 44142 near CLEVELAND SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3809",
@@ -3475,7 +3475,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN ESTEP. 2111 SOUTH CENTER BLVD SPRINGFIELD OH 45506 SS 915,SM 1030,SN 6,W NOT KJV ONLY, GARBC, OARBC KJB church."
+    "description": "SPRINGFIELD OH 45506 SS 915,SM 1030,SN 6,W NOT KJV ONLY, GARBC, OARBC KJB church"
   },
   {
     "id": "3810",
@@ -3493,7 +3493,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID BURMAN JR. 74 HINKLEY HOLLOW RD PORTSMOUTH OH 45662 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "PORTSMOUTH OH 45662 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3811",
@@ -3511,12 +3511,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRISTOPHER HORN. 26 E CHURCH ST NILES OH 44446 SS 930,SM 1045,SN 6,W 7 KJB, S.GRACE-TULIP"
+    "description": "NILES OH 44446 SS 930,SM 1045,SN 6,W 7 KJB, S.GRACE-TULIP"
   },
   {
     "id": "3812",
     "name": "WEST MILTON BAPTIST CHURCH",
-    "address": "1070 S MIAMI ST",
+    "address": "1070 S MIAMI ST WEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3529,7 +3529,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MONTE MCCUNE. 1070 S MIAMI ST WEST MILTON OH 45383 SS 930,SM 1030,SN 7 NOT KJV ONLY, OARBC, GARBC KJB church."
+    "description": "MILTON OH 45383 SS 930,SM 1030,SN 7 NOT KJV ONLY, OARBC, GARBC KJB church"
   },
   {
     "id": "3813",
@@ -3548,7 +3548,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRENT JONES. 17385 S CANAAN RD ATHENS OH 45701 NOT KJV ONLY, BBF, CBA KJB church."
+    "description": "ATHENS OH 45701 NOT KJV ONLY, BBF, CBA KJB church"
   },
   {
     "id": "3814",
@@ -3567,12 +3567,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHARLIE MILLER. 1311 NAGEL RD CINCINNATI OH 45255 SS 10,SM 830 & 11,SN 6,W 715 NOT KJV ONLY, BBF KJB church."
+    "description": "CINCINNATI OH 45255 SS 10,SM 830 & 11,SN 6,W 715 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "3815",
     "name": "LIMA BAPTIST TEMPLE",
-    "address": "982 BROWER RD",
+    "address": "7 TEMPLE CHRIST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3586,7 +3586,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DARRELL MESSER. 982 BROWER RD LIMA OH 45801 SS 10,SM 11,SN 6,W 7 TEMPLE CHRISTIAN, K-12; AUDIO SERMONS NOT KJV ONLY 667 MIAMISBURG CENTERVILLE RD CENTERVILLE OH 45459 DAYTON AREA SS 930,SM 1030,SN 6,W 7 S.GRACE, LAND KJB church."
+    "description": "LIMA OH 45801 SS 10,SM 11,SN 6,W IAN, K-12; AUDIO SERMONS NOT KJV ONLY 667 MIAMISBURG CENTERVILLE RD CENTERVILLE OH 45459 DAYTON AREA SS 930,SM 1030,SN 6,W 7 S.GRACE, LAND KJB church"
   },
   {
     "id": "3816",
@@ -3605,7 +3605,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE FRAZIER. 2037 COURTLAND AVE NORWOOD OH 45212 CHRISTIAN SCHOOL, K-12 NOT KJV ONLY, BBF, BIMI KJB church."
+    "description": "NORWOOD OH 45212 CHRISTIAN SCHOOL, K-12 NOT KJV ONLY, BBF, BIMI KJB church"
   },
   {
     "id": "3817",
@@ -3624,7 +3624,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHET SWEET. 515 WHIPPLE AVE NE CANTON OH 44708-3699 SS 9,SM 8 & 1030,SN 6,W 7 AWANA, BUS, YOUTH, TEEN, SINGLES, TV Part 5 NOT KJV ONLY, PREMIL 213 WESTERN AVE NEW RICHMOND OH 45157 SS 930,SM 1030,SN 6,W 730 NOT K KJB church."
+    "description": "CANTON OH 44708-3699 SS 9,SM 8 & 1030,SN 6,W 7 AWANA, BUS, YOUTH, TEEN, SINGLES, TV Part 5 NOT KJV ONLY, PREMIL 213 WESTERN AVE NEW RICHMOND OH 45157 SS 930,SM 1030,SN 6,W 730 NOT K KJB church"
   },
   {
     "id": "3818",
@@ -3642,12 +3642,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAN FARRELL. PO BOX 663 117 INDUSTRY DR JACKSON OH 45640 SS 10,SM 11,SN 630,W 7 S.GRACE-TULIP"
+    "description": "PO BOX 663 JACKSON OH 45640 SS 10,SM 11,SN 630,W 7 S.GRACE-TULIP"
   },
   {
     "id": "3819",
     "name": "WILMINGTON BAPTIST TEMPLE",
-    "address": "",
+    "address": "45177 BAPTIST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3660,12 +3660,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN MCKEE. PO BOX 245 2873 S US HWY WILMINGTON OH 45177 BAPTIST VOICE BIBLE COLLEGE NOT KJV ONLY, TRI-STATE-BC, MCARTHUR, PIPER KJB church."
+    "description": "PO BOX 245 2873 S US HWY WILMINGTON OH VOICE BIBLE COLLEGE NOT KJV ONLY, TRI-STATE-BC, MCARTHUR, PIPER KJB church"
   },
   {
     "id": "3820",
     "name": "MAMRE MISSIONARY BAPTIST CHURCH",
-    "address": "101 S HARRISON ST",
+    "address": "630 FAITH BIBLE INST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3673,13 +3673,13 @@ export const ohioChurches: Church[] = [
     "longitude": -81.8938,
     "phone": "(740) 533-0767",
     "website": "http://www.mamre.org",
-    "pastor": "JIM BURNS",
+    "pastor": "WILMI KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM BURNS. ROUTE 1 BOX 635 2367 CR 182 KITTS HILL OH 45645 NOT KJV ONLY, FBFI, BJU, BBC-MO 101 S HARRISON ST VAN WERT OH 45891 SS 930,SM 1045,SN 630,W 630 FAITH BIBLE INSTITUTE NOT KJV ONLY,BBF 55 MEGAN DR WILMI KJB church."
+    "description": "ROUTE 1 BOX 635 2367 CR 182 KITTS HILL OH 45645 NOT KJV ONLY, FBFI, BJU, BBC-MO VAN WERT OH 45891 SS 930,SM 1045,SN 630,W ITUTE NOT KJV ONLY,BBF 55 MEGAN DR WILMI KJB church"
   },
   {
     "id": "3821",
@@ -3697,7 +3697,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by M EARL MCGUFFEY. 1811 BRITIAN RD AKRON OH 44310 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "AKRON OH 44310 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "3822",
@@ -3715,7 +3715,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRISTOPHER RHODES. 5886 SR 132 MORROW OH 45152 NOT KJV ONLY, LIBERTY-U KJB church."
+    "description": "5886 SR 132 MORROW OH 45152 NOT KJV ONLY, LIBERTY-U KJB church"
   },
   {
     "id": "3823",
@@ -3734,7 +3734,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by P ANDY LAKE. 2896 SR 800 NE DOVER OH 44622 SM 1030,SN 630,W 630 CHOIR,SENIORS,TEENS,YOUTH PREACH KJV, NOT KJV ONLY, UNAFFILIATED KJB church."
+    "description": "2896 SR 800 NE DOVER OH 44622 SM 1030,SN 630,W 630 CHOIR,SENIORS,TEENS,YOUTH PREACH KJV, NOT KJV ONLY, UNAFFILIATED KJB church"
   },
   {
     "id": "3824",
@@ -3752,7 +3752,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TERRY MORGAN. 2111 SODOM HUTCHINGS RD NE VIENNA OH 44473 REFORMERS UNANIMOUS, BUS, CHOIR,RADIO, LIBERTY PUBLICATIONS, NORTH EAST BIBLE INSTITUTE SS 10,SM 11,SN 6,W 630 S.GRACE-TULIP"
+    "description": "VIENNA OH 44473 REFORMERS UNANIMOUS, BUS, CHOIR,RADIO, LIBERTY PUBLICATIONS, NORTH EAST BIBLE INSTITUTE SS 10,SM 11,SN 6,W 630 S.GRACE-TULIP"
   },
   {
     "id": "3825",
@@ -3771,7 +3771,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MATT BARTON. PO BOX 24466 9045 BELLEFONTAINE RD HUBER HEIGHTS  OH 45424 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 5670 SR 19 GALION OH 44833 SS 930,SM 1030,SN 630,W 7 KJB, TRINITY-BC, CCM"
+    "description": "PO BOX 24466 HUBER HEIGHTS OH 45424 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF 5670 SR 19 GALION OH 44833 SS 930,SM 1030,SN 630,W 7 KJB, TRINITY-BC, CCM"
   },
   {
     "id": "3826",
@@ -3790,12 +3790,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BRIAN BEE. 17939 PAVER BARNES RD MARYSVILLE OH 43040 SS 930,SM 1045,SN 6 AUDIO SERMONS PREACH & STUDY KJV, NOT KJV ONLY, BJU, PCC KJB church."
+    "description": "MARYSVILLE OH 43040 SS 930,SM 1045,SN 6 AUDIO SERMONS PREACH & STUDY KJV, NOT KJV ONLY, BJU, PCC KJB church"
   },
   {
     "id": "3827",
     "name": "EBENEZER BAPTIST CHURCH",
-    "address": "307 OAK ST",
+    "address": "2486 ANDERSON STATION RD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3809,7 +3809,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BRANDON LEE. 307 OAK ST BETHESDA OH 43719 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS, AWANA GARBC, NKJV 2486 ANDERSON STATION RD CHILLICOTHE OH 45601 SS 930,WM 1030,SN 6,W 6 NOT KJV ONLY, GARBC 1635 FOSTORIA AVE FINDLAY O KJB church."
+    "description": "BETHESDA OH 43719 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS, AWANA GARBC, NKJV CHILLICOTHE OH 45601 SS 930,WM 1030,SN 6,W 6 NOT KJV ONLY, GARBC 1635 FOSTORIA AVE FINDLAY O KJB church"
   },
   {
     "id": "3828",
@@ -3827,7 +3827,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID KISNER. 39536 SR 821 CALDWELL OH 43724 SS 930,SM 1030,SN 730,W 730 NOT KJV ONLY, GARBC KJB church."
+    "description": "39536 SR 821 CALDWELL OH 43724 SS 930,SM 1030,SN 730,W 730 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3829",
@@ -3845,12 +3845,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CONRAD. 5650 FAR HILLS AVE DAYTON OH 45429-2286 SS & MS 930 & 1030,SN 6,W 7 AWANA, YOUTH NOT KJV ONLY, GARBC 1601 W 2ND ST XENIA OH 45385-4205 SS 930,SM 1030,SN 6,W 7 YOUTH EXCEL, AWANA NOT KJV ONLY, GARBC 30 KJB church."
+    "description": "DAYTON OH 45429-2286 SS & MS 930 & 1030,SN 6,W 7 AWANA, YOUTH NOT KJV ONLY, GARBC 1601 W 2ND ST XENIA OH 45385-4205 SS 930,SM 1030,SN 6,W 7 YOUTH EXCEL, AWANA NOT KJV ONLY, GARBC 30 KJB church"
   },
   {
     "id": "3830",
     "name": "FOSTORIA BAPTIST CHURCH",
-    "address": "524 W LYTLE ST",
+    "address": "524 W LYTLE ST FOST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3864,7 +3864,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by BRUCE CHOUINARD. PO BOX 1005 524 W LYTLE ST FOSTORIA OH 44830 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC 5915 RHODES RD KENT OH 44240 SS 9,SM 1030,SN 6 NOT KJV ONLY, GARBC 4650 PORT CLINTON EASTERN RD PORT CLINTON OH KJB church."
+    "description": "PO BOX 1005 ORIA OH 44830 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC 5915 RHODES RD KENT OH 44240 SS 9,SM 1030,SN 6 NOT KJV ONLY, GARBC 4650 PORT CLINTON EASTERN RD PORT CLINTON OH KJB church"
   },
   {
     "id": "3831",
@@ -3882,12 +3882,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRUCE WINNER. 685 S WASHINGTON MILLERSBURG OH 44654 SS 930,SM 1045,SN 6,W 7 NOT KJ ONLY, TULIP-S.GRACE, GARBC 528 N MAIN ST ENGLEWOOD OH 45322 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "685 S WASHINGTON MILLERSBURG OH 44654 SS 930,SM 1045,SN 6,W 7 NOT KJ ONLY, TULIP-S.GRACE, GARBC ENGLEWOOD OH 45322 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3832",
     "name": "ALBANY BAPTIST CHURCH",
-    "address": "5331 STATE ST",
+    "address": "2205 LANCASTER CIRCLEVILLE RD LANCAST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3901,7 +3901,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by KENNETH SPINK. PO BOX 357 5331 STATE ST ALBANY OH 45710 SM 10,SN 6,W 630 AWANA, TEENS, CHOIR, SENIOR, TEXT SERMONS; GRACE ACADEMY, K-12; INSTITUTE NOT KJV ONLY, GARBC 2205 LANCASTER CIRCLEVILLE RD LANCASTER OH 43130 KJB church."
+    "description": "PO BOX 357 ALBANY OH 45710 SM 10,SN 6,W 630 AWANA, TEENS, CHOIR, SENIOR, TEXT SERMONS; GRACE ACADEMY, K-12; INSTITUTE NOT KJV ONLY, GARBC ER OH 43130 KJB church"
   },
   {
     "id": "3833",
@@ -3919,7 +3919,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MILLER. 3417 PALMETTO ST COLUMBUS OH 43204 NOT KJV ONLY, GARBC KJB church."
+    "description": "COLUMBUS OH 43204 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3834",
@@ -3956,7 +3956,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN MCCAW. SS 945,SM 1050,SN 6,W 730 NOT KJV ONLY, GARBC 3646 MEDINA RD MEDINA OH 44256 VARIOUS VERSIONS, GARBC, BBF, ABWE 9890 SR 43 STREETSBORO OH 44241 SS 930,SM 8 & 1045,SN 6,W 7 GARBC,BBC-PA, NOT KJV ONLY KJB church."
+    "description": "SS 945,SM 1050,SN 6,W 730 NOT KJV ONLY, GARBC MEDINA OH 44256 VARIOUS VERSIONS, GARBC, BBF, ABWE 9890 SR 43 STREETSBORO OH 44241 SS 930,SM 8 & 1045,SN 6,W 7 GARBC,BBC-PA, NOT KJV ONLY KJB church"
   },
   {
     "id": "3836",
@@ -3974,12 +3974,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ELZA GREEN. 1611 ARMSTRONG RD FAIRBORN OH 45324 SS 915,SM 1030,SN 6,W 7 AWANA, CONTEMPORARY WORSHIP NOT KJV ONLY 323 N BINGHAM ST OAK HILL OH 45656 ABC, NOT KJV ONLY KJB church."
+    "description": "FAIRBORN OH 45324 SS 915,SM 1030,SN 6,W 7 AWANA, CONTEMPORARY WORSHIP NOT KJV ONLY 323 N BINGHAM ST OAK HILL OH 45656 ABC, NOT KJV ONLY KJB church"
   },
   {
     "id": "3837",
     "name": "KARL ROAD BAPTIST CHURCH",
-    "address": "5750 KARL RD",
+    "address": "5050 MIDDLEBRANCH AVE",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -3993,7 +3993,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DAVID RYAN. 5750 KARL RD COLUMBUS OH 43229-3692 SS 9 & 1030,SM 9 & 1030,SN 6 W 7 CONTEMPORARY & TRADITIONAL WORSHIP NASV KJV NKJV & SOME NIV, GARBC, OARBC 5050 MIDDLEBRANCH AVE NE CANTON OH 44705 KJB church."
+    "description": "COLUMBUS OH 43229-3692 SS 9 & 1030,SM 9 & 1030,SN 6 W 7 CONTEMPORARY & TRADITIONAL WORSHIP NASV KJV NKJV & SOME NIV, GARBC, OARBC NE CANTON OH 44705 KJB church"
   },
   {
     "id": "3838",
@@ -4013,7 +4013,7 @@ export const ohioChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by LEWIS LAMAR FERRELL. SS 930,SM 1030,SN 6,W 7 AWANA, SENIORS, TEEN NKJV, BBF KJB church."
+    "description": "SS 930,SM 1030,SN 6,W 7 AWANA, SENIORS, TEEN NKJV, BBF KJB church"
   },
   {
     "id": "3839",
@@ -4031,7 +4031,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD EDWARDS. 1914 FIRST AVE MIDDLETOWN OH 45042 300 S MAIN ST SPRINGBORO OH 45066 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "MIDDLETOWN OH 45042 300 S MAIN ST SPRINGBORO OH 45066 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "3840",
@@ -4049,7 +4049,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "1170 STATE RD 131 MILFORD OH 45150 SS 930,SM 1040,SN 6,W JASON MCCLANAHAN NOT KJV ONLY KJB church."
+    "description": "MILFORD OH 45150 SS 930,SM 1040,SN 6,W JASON MCCLANAHAN NOT KJV ONLY KJB church"
   },
   {
     "id": "3841",
@@ -4068,12 +4068,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SHAWN HESS. 480 S HEMPSTEAD RD COLUMBUS OH 43081 NOT KJV ONLY, GARBC 21 LITTLEJOHN RD TROY OH 45373 SS 10,SM 845 & 11,SN NOT KJV ONLY, BBF, PURPOSE DRIVEN, KJB church."
+    "description": "COLUMBUS OH 43081 NOT KJV ONLY, GARBC 21 LITTLEJOHN RD TROY OH 45373 SS 10,SM 845 & 11,SN NOT KJV ONLY, BBF, PURPOSE DRIVEN, KJB church"
   },
   {
     "id": "3842",
     "name": "YOUNGSTOWN BAPTIST CHURCH",
-    "address": "554 S MERIDIAN RD",
+    "address": "554 S MERIDIAN RD YOUNGST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4086,12 +4086,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by DENNIS ROST. 554 S MERIDIAN RD YOUNGSTOWN OH 44509 SM TRAD 930 & CONT 1045,W 630 TRADITIONAL & CONTEMPORARY, AWANA 245 S 6TH ST BYESVILLE OH 43723 Non-KJV church."
+    "description": "OWN OH 44509 SM TRAD 930 & CONT 1045,W 630 TRADITIONAL & CONTEMPORARY, AWANA 245 S 6TH ST BYESVILLE OH 43723 Non-KJV church"
   },
   {
     "id": "3843",
     "name": "DEAF MINISTRY",
-    "address": "878 COMMERCIAL AVE SW",
+    "address": "630 INDIAN HILLS CHRIST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4104,7 +4104,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF BARTELL. ASV, CCM, CONTEMPORARY 878 COMMERCIAL AVE SW NEW PHILADELPHIA OH 44663 SM 10,W 630 INDIAN HILLS CHRISTIAN SCHOOL; AUDIO SERMONS KJB, S.GRACE-TULIP"
+    "description": "ASV, CCM, CONTEMPORARY NEW PHILADELPHIA OH 44663 SM 10,W IAN SCHOOL; AUDIO SERMONS KJB, S.GRACE-TULIP"
   },
   {
     "id": "3844",
@@ -4122,7 +4122,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER P HOGLE. 9524 NEW DELAWARE RD MT VERNON OH 43050 SM 1030,W 7 NOT KJV ONLY KJB church."
+    "description": "MT VERNON OH 43050 SM 1030,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "3845",
@@ -4141,7 +4141,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JACK W HACKWORTH. 924 CENTER RD CONNEAUT OH 44030 WGOJ RADIO,105.5 FM; SOUTH RIDGE CHRISTIAN ACADEMY, K-12; NOT KJV ONLY, BBF KJB church."
+    "description": "CONNEAUT OH 44030 WGOJ RADIO,105.5 FM; SOUTH RIDGE CHRISTIAN ACADEMY, K-12; NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "3846",
@@ -4159,7 +4159,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "54 E COOK RD MANSFIELD OH 44907"
+    "description": "MANSFIELD OH 44907"
   },
   {
     "id": "3847",
@@ -4178,7 +4178,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TONY LIUZZO. BLIND, DRAMA, CHOIR, PROPHETS CHAMBER KJB, BBF, CCM, TRINITY-BC-FL 4701 WINCHESTER PIKE COLUMBUS OH 43227 SS 10,SN 11,SN 7,W 7 BUS, YOUTH, TEEN, SINGLES, SENIORS, AWANA, CHOIR, SPORTS OUTREACH, RICKEN"
+    "description": "BLIND, DRAMA, CHOIR, PROPHETS CHAMBER KJB, BBF, CCM, TRINITY-BC-FL COLUMBUS OH 43227 SS 10,SN 11,SN 7,W 7 BUS, YOUTH, TEEN, SINGLES, SENIORS, AWANA, CHOIR, SPORTS OUTREACH, RICKEN"
   },
   {
     "id": "3848",
@@ -4196,12 +4196,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY LAMBERT. 4596 BELLS LANE CINCINNATI OH 45244 KJB, SEEKER SENSITIVE"
+    "description": "CINCINNATI OH 45244 KJB, SEEKER SENSITIVE"
   },
   {
     "id": "3849",
     "name": "ADAMS COUNTY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 24",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4214,7 +4214,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by PAUL M GABRIEL. PO BOX 24 42 SR 137 CHERRY FORK OH 45618 VIDEO SERMONS BBFI, WBF, LBC, BJU"
+    "description": "42 SR 137 CHERRY FORK OH 45618 VIDEO SERMONS BBFI, WBF, LBC, BJU"
   },
   {
     "id": "3850",
@@ -4232,12 +4232,12 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5075 CLEVELAND AVE COLUMBUS OH 43231"
+    "description": "COLUMBUS OH 43231"
   },
   {
     "id": "3851",
     "name": "CBTEMPLE",
-    "address": "891 ST RT 511",
+    "address": "525 N CAMPUS AVE OXFORD",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4251,7 +4251,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICHARD GRILLEY. SS 945,SM 11,SN 6,W 730 PRISON, COUPLES, TEENS; TEMPLE BIBLE COLLEGE NOT KJV ONLY, BBF 891 ST RT 511 ASHLAND OH 44805 NOT KJV ONLY, GARBC 525 N CAMPUS AVE OXFORD OH 45056 SS 10,SM 11,SN 6,W 645 KJB, L"
+    "description": "SS 945,SM 11,SN 6,W 730 PRISON, COUPLES, TEENS; TEMPLE BIBLE COLLEGE NOT KJV ONLY, BBF 891 ST RT 511 ASHLAND OH 44805 NOT KJV ONLY, GARBC OH 45056 SS 10,SM 11,SN 6,W 645 KJB, L"
   },
   {
     "id": "3852",
@@ -4269,7 +4269,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL BERESFORD. 9400 RT 104 LUCASVILLE OH 45648 NOT KJV ONLY KJB church."
+    "description": "9400 RT 104 LUCASVILLE OH 45648 NOT KJV ONLY KJB church"
   },
   {
     "id": "3853",
@@ -4289,7 +4289,7 @@ export const ohioChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by BOB BARBOUR. 727 MENTOR AVE PAINESVILLE OH 44077 SM 1030,SN 6,W 7 AWANA, CHOIR 17632 SR 243 CHESAPEAKE OH 45619 SS 930,SM 1045,W 7 NOT KJV ONLY, BBF 6477 COOPER RD MONTGOMERY OH 45242 CINCINNATI AREA SS 9,SM 10,SN KJB church."
+    "description": "PAINESVILLE OH 44077 SM 1030,SN 6,W 7 AWANA, CHOIR 17632 SR 243 CHESAPEAKE OH 45619 SS 930,SM 1045,W 7 NOT KJV ONLY, BBF 6477 COOPER RD MONTGOMERY OH 45242 CINCINNATI AREA SS 9,SM 10,SN KJB church"
   },
   {
     "id": "3854",
@@ -4308,12 +4308,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARTY L LEWIS. 1043 SPRINGMILL RD MANSFIELD OH 44906 SS 945,SM 1030,W 7 AWANA, SENIOR LIFE, TEEN, MOPS, LADIES BIBLE STUDY, TUE-MENS BIBLE STUDY, SMALL GROUPS, YOUNG AT HEART RETIREMENT COMMUNITY NOT KJV ONLY, BBF,  KJB church."
+    "description": "MANSFIELD OH 44906 SS 945,SM 1030,W 7 AWANA, SENIOR LIFE, TEEN, MOPS, LADIES BIBLE STUDY, TUE-MENS BIBLE STUDY, SMALL GROUPS, YOUNG AT HEART RETIREMENT COMMUNITY NOT KJV ONLY, BBF, KJB church"
   },
   {
     "id": "3855",
     "name": "ALL OF GRACE BAPTIST CHURCH",
-    "address": "7938 COX RD",
+    "address": "7938 COX RD WEST CHEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4327,12 +4327,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LEW DAVIS. 7938 COX RD WEST CHESTER OH 45069 NOT KJV ONLY, BBF, BMM KJB church."
+    "description": "ER OH 45069 NOT KJV ONLY, BBF, BMM KJB church"
   },
   {
     "id": "3856",
     "name": "TRI COUNTY BAPTIST CHURCH",
-    "address": "8195 BECKETT RD",
+    "address": "8195 BECKETT RD WEST CHEST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4347,12 +4347,12 @@ export const ohioChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ALVIS POLLARD. 8195 BECKETT RD WEST CHESTER OH 45096 SS 945,SM 1050,SN 630,W 645 AWANA,TEENS, SPORTS, SINGLES, CHOIR NOT KJV ONLY, BBF 1100 4TH AVE GALLIPOLIS OH 45631 UNAFFILIATED, TULIP-S.GRACE PO BOX 203 817 E PI KJB church."
+    "description": "ER OH 45096 SS 945,SM 1050,SN 630,W 645 AWANA,TEENS, SPORTS, SINGLES, CHOIR NOT KJV ONLY, BBF 1100 4TH AVE GALLIPOLIS OH 45631 UNAFFILIATED, TULIP-S.GRACE PO BOX 203 817 E PI KJB church"
   },
   {
     "id": "3857",
     "name": "MILLHEIM BAPTIST CHURCH",
-    "address": "2661 HAYNE RD",
+    "address": "7 PREACH KJV ST",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4366,7 +4366,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BOB LADYGO. 2661 HAYNE RD AKRON OH 44312 SS 945,SM 1045,SN 6,W 7 PREACH KJV STUDY OTHERS, FBF, BJU, GARBC 5819 W CHAPEL RD MADISON OH 44057 SS 945, SM 1045, SN 6, W 7 AWANA, YOUTH NOT KJV ONLY, GARBC 1910 MARIETT KJB church."
+    "description": "AKRON OH 44312 SS 945,SM 1045,SN 6,W UDY OTHERS, FBF, BJU, GARBC 5819 W CHAPEL RD MADISON OH 44057 SS 945, SM 1045, SN 6, W 7 AWANA, YOUTH NOT KJV ONLY, GARBC 1910 MARIETT KJB church"
   },
   {
     "id": "3858",
@@ -4385,7 +4385,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN BOUQUET. 4714 UNION AVE NE 4 MILES SOUTH OF ALLIANCE ON RT 183 NOT KJV ONLY PO BOX 128 BETWEEN RTS 60 & 250 SAVANNAH OH 44874 SS 930,SM 1045,SN 6,W 630 NOAHS ARK DAYCARE NOT KJV ONLY, OH-BBF, BJU KJB church."
+    "description": "4 MILES SOUTH OF ALLIANCE ON RT 183 NOT KJV ONLY PO BOX 128 BETWEEN RTS 60 & 250 SAVANNAH OH 44874 SS 930,SM 1045,SN 6,W 630 NOAHS ARK DAYCARE NOT KJV ONLY, OH-BBF, BJU KJB church"
   },
   {
     "id": "3859",
@@ -4406,7 +4406,7 @@ export const ohioChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by JERRY PELFREY. 3865 N HIGH ST COLUMBUS OH 43214 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS , PATCH PIRATE; NORTHSIDE CHRISTIAN SCHOOL, BJU-LINK; NOT KJV ONLY, BBF 5595 MASON RD MASON OH 45040 SS 10,SM 11,SN 6,W 730 KJB,"
+    "description": "COLUMBUS OH 43214 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS , PATCH PIRATE; NORTHSIDE CHRISTIAN SCHOOL, BJU-LINK; NOT KJV ONLY, BBF 5595 MASON RD MASON OH 45040 SS 10,SM 11,SN 6,W 730 KJB"
   },
   {
     "id": "3860",
@@ -4424,7 +4424,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAN WALBORN. 4600 N EDGEWOOD AVE CINCINNATI OH 45232 SS 10,SM 11,SN 630,W 7 S.GRACE-TULIP 15879 COUNTY RD F WAUSEON OH 43567"
+    "description": "CINCINNATI OH 45232 SS 10,SM 11,SN 630,W 7 S.GRACE-TULIP 15879 COUNTY RD F WAUSEON OH 43567"
   },
   {
     "id": "3861",
@@ -4442,7 +4442,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM BEALS. REFORMED 3424 OLD SALEM RD CLAYTON OH 45415 KJB, CCM"
+    "description": "REFORMED CLAYTON OH 45415 KJB, CCM"
   },
   {
     "id": "3862",
@@ -4461,7 +4461,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CHARLES E WHISNANT. 1009 MARION PIKE COAL GROVE OH 45638 SS 930,SM 1045,SN 7,W 7 CAMP, YOUTH PRAISE BAND, AUDIO MUSIC PREACH-KJV, NKJV, NASV, ESV KJB church."
+    "description": "1009 MARION PIKE COAL GROVE OH 45638 SS 930,SM 1045,SN 7,W 7 CAMP, YOUTH PRAISE BAND, AUDIO MUSIC PREACH-KJV, NKJV, NASV, ESV KJB church"
   },
   {
     "id": "3863",
@@ -4474,12 +4474,12 @@ export const ohioChurches: Church[] = [
     "longitude": -83.1352,
     "phone": "(740) 353-0525",
     "website": "http://www.growbylearning.com",
-    "pastor": "",
+    "pastor": "KJB, TULIP-S",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "62 SHADY LN AND 139 MINFORD OH 454653 PASTOR KJB, TULIP-S.GRACE"
+    "description": "MINFORD OH 454653 GRACE"
   },
   {
     "id": "3864",
@@ -4498,7 +4498,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY GRABER. PO BOX 840 BURTON OH 44021 12199 CLARIDON-TROY RD CHARDON OH 44024 S.GRACE-TULIP 2920 BEAVER VALLEY RD FAIRBORN OH 45324 NOT KJV ONLY, BBF, CEDARVILLE-U 5470 SPRINGFIELD JAMESTOWN RD SPRINGFIELD OH 45 KJB church."
+    "description": "PO BOX 840 BURTON OH 44021 CHARDON OH 44024 S.GRACE-TULIP 2920 BEAVER VALLEY RD FAIRBORN OH 45324 NOT KJV ONLY, BBF, CEDARVILLE-U 5470 SPRINGFIELD JAMESTOWN RD SPRINGFIELD OH 45 KJB church"
   },
   {
     "id": "3865",
@@ -4534,7 +4534,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM NEWTON. NOT KJV ONLY KJB church."
+    "description": "NOT KJV ONLY KJB church"
   },
   {
     "id": "3867",
@@ -4553,12 +4553,12 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRANDON J LITTLE. PO DRAWER 239 WADSWORTH OH 44281 NOT KJV ONLY, BBF, WOL, CCM KJB church."
+    "description": "PO DRAWER 239 WADSWORTH OH 44281 NOT KJV ONLY, BBF, WOL, CCM KJB church"
   },
   {
     "id": "3868",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 228",
     "city": "Columbus",
     "state": "OH",
     "zipCode": "",
@@ -4572,7 +4572,7 @@ export const ohioChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK E BALLMER. PO BOX 228 1450 CLOUGH PIKE AMELIA OH 45102 SS 915,SM 1015,SN 6 AUDIO SERMONS NOT KJV ONLY, BBF, BBC-MO KJB church."
+    "description": "1450 CLOUGH PIKE AMELIA OH 45102 SS 915,SM 1015,SN 6 AUDIO SERMONS NOT KJV ONLY, BBF, BBC-MO KJB church"
   },
   {
     "id": "3869",
@@ -4591,7 +4591,7 @@ export const ohioChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by R CARROL MCDONALD. 2395 E PIKE ST ZANESVILLE OH 43701 SS 930,SM 1030,SN 6,W 7 ESV, BBF, WOF Non-KJV church."
+    "description": "ZANESVILLE OH 43701 SS 930,SM 1030,SN 6,W 7 ESV, BBF, WOF Non-KJV church"
   },
   {
     "id": "3870",
@@ -4609,7 +4609,7 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON HUGHES. 9903 W NATIONAL RD NEW CARLISLE OH 45344 PREACH-KJV STUDY OTHERS, GARBC KJB church."
+    "description": "NEW CARLISLE OH 45344 PREACH-KJV STUDY OTHERS, GARBC KJB church"
   },
   {
     "id": "3871",
@@ -4627,6 +4627,6 @@ export const ohioChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2234 COUNTY LINE RD DAYTON OH 45430 SS 930,SM 1030,SN 6,W 7 NURSERY, CHILDREN’S CHURCH, CHOIR, AWANA, YOUTH GROUP, 10 MINS FROM WRIGHT PATTERSON AFB"
+    "description": "DAYTON OH 45430 SS 930,SM 1030,SN 6,W 7 NURSERY, CHILDREN’S CHURCH, CHOIR, AWANA, YOUTH GROUP, 10 MINS FROM WRIGHT PATTERSON AFB"
   }
 ];

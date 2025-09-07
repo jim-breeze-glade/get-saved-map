@@ -4,7 +4,7 @@ export const newjerseyChurches: Church[] = [
   {
     "id": "2859",
     "name": "CROSSROADS BAPTIST CHURCH",
-    "address": "201 BROWN AVE",
+    "address": "201 BROWN AVE LAKEHURST",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
@@ -17,7 +17,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN BELL. 201 BROWN AVE LAKEHURST NJ 08733 SS 945,SM 11,SN 630,W 630 KJB church."
+    "description": "NJ 08733 SS 945,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "2860",
@@ -35,7 +35,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID STRUBLE. PO BOX 33 45 TRENTON RD BROWNS MILLS NJ 08015 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "PO BOX 33 BROWNS MILLS NJ 08015 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "2861",
@@ -55,7 +55,7 @@ export const newjerseyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID BASDEO. 1574 GLENWOOD RD SUSSEX NJ 07461 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, UNAFFILIATED"
+    "description": "SUSSEX NJ 07461 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "2862",
@@ -74,7 +74,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSE A SANTOS. 38 MCKINLEY AVE CARTERET NJ 07008 SS 10, SM 11, W 7 VIDEO SERMONS ONLINE KJB, UNAFFILIATED"
+    "description": "CARTERET NJ 07008 SS 10, SM 11, W 7 VIDEO SERMONS ONLINE KJB, UNAFFILIATED"
   },
   {
     "id": "2863",
@@ -87,13 +87,13 @@ export const newjerseyChurches: Church[] = [
     "longitude": -74.6898,
     "phone": "(732) 826-5475",
     "website": "https://www.firstbaptistnj.org",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "79 MARKET ST PERTH AMBOY NJ 08861 SS 945,SM 11,SN 7,W 7 BUS, SOULWINNING, SPANISH-SERVICES TRANSLATED, SERMONS , LIVESTREAMED SERVICES NEEDS PASTOR KJB church."
+    "description": "PERTH AMBOY NJ 08861 SS 945,SM 11,SN 7,W 7 BUS, SOULWINNING, SPANISH-SERVICES TRANSLATED, SERMONS , LIVESTREAMED SERVICES NEEDS"
   },
   {
     "id": "2864",
@@ -102,8 +102,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.7038,
-    "longitude": -73.4655,
+    "latitude": 39.8818,
+    "longitude": -74.1963,
     "phone": "(856) 785-1740",
     "website": "http://www.portnorrisbaptist.org",
     "pastor": "RON BARBER",
@@ -111,7 +111,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON BARBER. 1672 MAIN ST PORT NORRIS NJ 08349 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PORT NORRIS NJ 08349 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2865",
@@ -120,8 +120,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.8939,
-    "longitude": -73.055,
+    "latitude": 40.759,
+    "longitude": -74.2205,
     "phone": "(856) 498-9339",
     "website": "https://www.facebook.com/pinegrovebaptistnj",
     "pastor": "LOUIS GUARNERI",
@@ -131,7 +131,7 @@ export const newjerseyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by LOUIS GUARNERI. 1000 OLD MARLTON PIKE E MARLTON NJ 08053 SS 930, SM 1030, SN 6, W 7 SOULWINNING KJB, UNAFFILIATED"
+    "description": "1000 OLD MARLTON PIKE E MARLTON NJ 08053 SS 930, SM 1030, SN 6, W 7 SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "2866",
@@ -140,8 +140,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.4429,
-    "longitude": -73.064,
+    "latitude": 40.6893,
+    "longitude": -74.6279,
     "phone": "(609) 423-8792",
     "website": "http://www.straightwaybaptist.com",
     "pastor": "DAVID POTTBERG",
@@ -149,7 +149,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID POTTBERG. 680 WHITEHEAD RD LAWRENCEVILLE NJ 08648 SS 10 SM 11 SN 630 W 7 KJB church."
+    "description": "LAWRENCEVILLE NJ 08648 SS 10 SM 11 SN 630 W 7 KJB church"
   },
   {
     "id": "2867",
@@ -158,8 +158,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.8864,
-    "longitude": -73.4754,
+    "latitude": 39.2469,
+    "longitude": -74.5243,
     "phone": "(973) 471-0404",
     "website": "https://www.communitybaptistgarfield.com",
     "pastor": "JOSEPH J CRILLY III",
@@ -167,7 +167,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH J CRILLY III. 41 MARSELLUS PLACE GARFIELD NJ 07026 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "GARFIELD NJ 07026 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "2868",
@@ -176,8 +176,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.8075,
-    "longitude": -75.7449,
+    "latitude": 40.4998,
+    "longitude": -74.8742,
     "phone": "(732) 291-0669",
     "website": "https://www.leonardobaptistchurch.org",
     "pastor": "",
@@ -185,7 +185,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "LEONARD AVE LEONARDO NJ 07737 46 LEONARD AVE SS 10,SM 11,W 7 TEEN, FOOD PANTRY INTERIM JOSEPH ANTONACCIO KJB, HBBC"
+    "description": "LEONARD AVE LEONARDO NJ 07737 SS 10,SM 11,W 7 TEEN, FOOD PANTRY INTERIM JOSEPH ANTONACCIO KJB, HBBC"
   },
   {
     "id": "2869",
@@ -194,8 +194,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.7694,
-    "longitude": -75.7366,
+    "latitude": 39.0355,
+    "longitude": -74.6593,
     "phone": "",
     "website": "",
     "pastor": "",
@@ -203,7 +203,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Independent church."
+    "description": "Independent church"
   },
   {
     "id": "2870",
@@ -222,17 +222,17 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREG ROBINSON. 215 MIDDLE RD HAZLET NJ 07730 SM 1130,SN 7,TH 730 AUDIO SERMONS KJB church."
+    "description": "HAZLET NJ 07730 SM 1130,SN 7,TH 730 AUDIO SERMONS KJB church"
   },
   {
     "id": "2871",
     "name": "BETHANY BAPTIST CHURCH",
-    "address": "2702 GOOD INTENT RD",
+    "address": "2702 GOOD INTENT RD DEPTFORD",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.6945,
-    "longitude": -75.8554,
+    "latitude": 39.0012,
+    "longitude": -74.0367,
     "phone": "(856) 228-9443",
     "website": "https://www.bethanybaptistdeptford.org",
     "pastor": "JAMES FULLEYLOVE JR",
@@ -240,7 +240,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES FULLEYLOVE JR. 2702 GOOD INTENT RD DEPTFORD NJ 08096 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, MASTERS CLUB, BUS, PATCH PIRATE; BETHANY BAPTIST CHRISTIAN SCHOOL, K-12; KJB church."
+    "description": "NJ 08096 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, MASTERS CLUB, BUS, PATCH PIRATE; BETHANY BAPTIST CHRISTIAN SCHOOL, K-12; KJB church"
   },
   {
     "id": "2872",
@@ -258,7 +258,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY P RICE. 6192 HARDING HWY MAYS LANDING NJ 08037 SS 10, SM 11, SN 630, W 730 KJB, AMBASSASOR-BC"
+    "description": "MAYS LANDING NJ 08037 SS 10, SM 11, SN 630, W 730 KJB, AMBASSASOR-BC"
   },
   {
     "id": "2873",
@@ -267,8 +267,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.6348,
-    "longitude": -75.7527,
+    "latitude": 40.4983,
+    "longitude": -74.8082,
     "phone": "(609) 646-3020",
     "website": "http://www.northfieldbaptist.com",
     "pastor": "MICHAEL A WEIGEL",
@@ -276,7 +276,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL A WEIGEL. 1964 ZION RD NORTHFIELD NJ 08225 SS 930,SM 1045,SN 7,W 730 KJB church."
+    "description": "NORTHFIELD NJ 08225 SS 930,SM 1045,SN 7,W 730 KJB church"
   },
   {
     "id": "2874",
@@ -294,7 +294,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAT HIGGINS. 1380 OLD FREEHOLD RD TOMS RIVER NJ 08753 SS 10,SM 830 & 11,SN 6,W 7 BUS, DEAF, CHOIR, DISCOVERY CLUB, LADIES JOY FELLOWSHIP; OCEAN COUNTRY CHRISTIAN ACADEMY; LAKEHURST NAVAL 30 MIN,FT DIX 45 MIN KJB,"
+    "description": "TOMS RIVER NJ 08753 SS 10,SM 830 & 11,SN 6,W 7 BUS, DEAF, CHOIR, DISCOVERY CLUB, LADIES JOY FELLOWSHIP; OCEAN COUNTRY CHRISTIAN ACADEMY; LAKEHURST NAVAL 30 MIN,FT DIX 45 MIN KJB"
   },
   {
     "id": "2875",
@@ -312,17 +312,17 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES GELHAUSEN. 2131 MARNE HWY HAINESPORT NJ 08036 Near MOORESTOWN SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "2131 MARNE HWY HAINESPORT NJ 08036 Near MOORESTOWN SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "2876",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "505 WYLIE ST",
+    "address": "505 WYLIE ST AVE",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.3425,
-    "longitude": -73.0944,
+    "latitude": 40.3767,
+    "longitude": -75.3177,
     "phone": "(732) 634-8514",
     "website": "http://www.centralbaptistchurchnj.org",
     "pastor": "CHOONG-WON SEO",
@@ -331,7 +331,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHOONG-WON SEO. 505 WYLIE ST AVENEL NJ 07001 SS 930,SM 1030,SN 6,W 730 KJB FOR ENGLISH & KOREAN, HAC, BBFI"
+    "description": "NEL NJ 07001 SS 930,SM 1030,SN 6,W 730 KJB FOR ENGLISH & KOREAN, HAC, BBFI"
   },
   {
     "id": "2877",
@@ -349,7 +349,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "900 MADISON AVE PATERSON NJ 07501 15 MINUTES FROM KOREAN TOWN SS 1PM,SA 2PM,MID-WEEK 7 PROPHETS CHAMBER PATCH THE PIRATE, YOUTH, VAN, SOULWINNING"
+    "description": "PATERSON NJ 07501 15 MINUTES FROM KOREAN TOWN SS 1PM,SA 2PM,MID-WEEK 7 PROPHETS CHAMBER PATCH THE PIRATE, YOUTH, VAN, SOULWINNING"
   },
   {
     "id": "2878",
@@ -368,7 +368,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MATT SWIATKOWSKI.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2879",
@@ -386,7 +386,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN PHALON. 135 DAVIS AVE KEARNY NJ 07032-3327 SS 945,SM 11,SN 630,W PATCH PIRATE, SPANISH, BIBLE INSTITUTE KJB church."
+    "description": "KEARNY NJ 07032-3327 SS 945,SM 11,SN 630,W PATCH PIRATE, SPANISH, BIBLE INSTITUTE KJB church"
   },
   {
     "id": "2880",
@@ -404,7 +404,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN FERRELL. 121 SPARTA AVE SPARTA NJ 07871 SS 945,SM 11,SN 6,W 7 KJB, HAC"
+    "description": "SPARTA NJ 07871 SS 945,SM 11,SN 6,W 7 KJB, HAC"
   },
   {
     "id": "2881",
@@ -422,7 +422,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "650 TANYARD RD WOODBURY NJ 08096 CO-PASTORS CHRIS TEIS & GEORGE SIEBOLD KJB, HAC"
+    "description": "WOODBURY NJ 08096 CO-PASTORS CHRIS TEIS & GEORGE SIEBOLD KJB, HAC"
   },
   {
     "id": "2882",
@@ -441,17 +441,17 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GEORGE YURICK. 521 LAKEWOOD FARMINGDALE RD HOWELL NJ 07731-8774 SS 945,SM 11,SN 7,W 730 KJB, UNAFFILIATED"
+    "description": "HOWELL NJ 07731-8774 SS 945,SM 11,SN 7,W 730 KJB, UNAFFILIATED"
   },
   {
     "id": "2883",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "117 NICHOLSON RD",
+    "address": "117 NICHOLSON RD WEST",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.3555,
-    "longitude": -73.4391,
+    "latitude": 41.2871,
+    "longitude": -74.9501,
     "phone": "(856) 456-8595",
     "website": "https://www.calvarybaptistwcnj.org",
     "pastor": "LUKE MIDDLETON",
@@ -459,7 +459,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LUKE MIDDLETON. 117 NICHOLSON RD WEST COLLINGSWOOD HEIGHTS NJ 08059 GLOUCESTER NJ 08030 SS 10,SM 11,SN 7,W 7,TH SW 7 BUS, DEAF, SPANISH, PANTRY, CLOTHING,TEENS; LIGHTHOUSE BAPTIST ACADEMY, K4-12 LANDMARK BAPT FREE; M KJB church."
+    "description": "COLLINGSWOOD HEIGHTS NJ 08059 GLOUCESTER NJ 08030 SS 10,SM 11,SN 7,W 7,TH SW 7 BUS, DEAF, SPANISH, PANTRY, CLOTHING,TEENS; LIGHTHOUSE BAPTIST ACADEMY, K4-12 LANDMARK BAPT FREE; M KJB church"
   },
   {
     "id": "2884",
@@ -478,12 +478,12 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ANDY REESE. 594 BEVERLY RANCOCAS RD WILLINGBORO NJ 08046 SS 10,SM 11,SN 6,W 7 KJB, CROWN"
+    "description": "WILLINGBORO NJ 08046 SS 10,SM 11,SN 6,W 7 KJB, CROWN"
   },
   {
     "id": "2885",
     "name": "FELLOWSHIP BIBLE BAPTIST CHURCH",
-    "address": "22 ZULKER AVE",
+    "address": "22 ZULKER AVE WEST",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
@@ -497,7 +497,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TRAVIS CLARK. 22 ZULKER AVE WEST BERLIN NJ 08091 NEAR CLEMENTON NJ SS 1,SM 11,SN 6,W 7 259 BLOOMFIELD AVE CALDWELL NJ 07006 SS 945,SM 11,SN 7,W 7 SPANISH, YOUTH, TEEN, BIBLE INSTITUTE KJB, UNAFFILIATED"
+    "description": "BERLIN NJ 08091 NEAR CLEMENTON NJ SS 1,SM 11,SN 6,W 7 259 BLOOMFIELD AVE CALDWELL NJ 07006 SS 945,SM 11,SN 7,W 7 SPANISH, YOUTH, TEEN, BIBLE INSTITUTE KJB, UNAFFILIATED"
   },
   {
     "id": "2886",
@@ -506,8 +506,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "27729",
-    "latitude": 40.9329,
-    "longitude": -73.8516,
+    "latitude": 40.1184,
+    "longitude": -75.2293,
     "phone": "(609) 298-3930",
     "website": "http://www.ntbcnj.org",
     "pastor": "PAUL ZERON",
@@ -515,7 +515,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL ZERON. 27729 MT PLEASANT RD COLUMBUS NJ 08022 SS 930,SM 1030,SN 6,W 7 KJB, NOT RUCKMAN, NO CCM"
+    "description": "COLUMBUS NJ 08022 SS 930,SM 1030,SN 6,W 7 KJB, NOT RUCKMAN, NO CCM"
   },
   {
     "id": "2887",
@@ -524,8 +524,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.9477,
-    "longitude": -75.604,
+    "latitude": 39.3811,
+    "longitude": -74.0938,
     "phone": "(201) 858-8816",
     "website": "http://www.pbchurch.com",
     "pastor": "JIM GENT",
@@ -534,7 +534,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM GENT. 16 W 27TH ST BAYONNE NJ 07002-3824 SS 930,SM 11,SN 630,TH 730 AUDIO SERMONS, TEENS, SPANISH KJB, BBF"
+    "description": "BAYONNE NJ 07002-3824 SS 930,SM 11,SN 630,TH 730 AUDIO SERMONS, TEENS, SPANISH KJB, BBF"
   },
   {
     "id": "2888",
@@ -552,7 +552,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM GUAL. 174 AUSTIN AVE OLD BRIDGE NJ 08857 SS 945,SM 1045,SN 6,W 730 WMCA - 570 AM KJB church."
+    "description": "OLD BRIDGE NJ 08857 SS 945,SM 1045,SN 6,W 730 WMCA - 570 AM KJB church"
   },
   {
     "id": "2889",
@@ -571,17 +571,17 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SAL YANNIZZI. 31 HILLTOP RD HOWELL NJ 07731 SS 10,SM 11,SN 6,W 7 KJB, BBF"
+    "description": "HOWELL NJ 07731 SS 10,SM 11,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "2890",
     "name": "OPEN BIBLE BAPTIST CHURCH",
-    "address": "1073 NEW BROOKLYN RD",
+    "address": "1073 NEW BROOKLYN RD WILLIAMST",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.8811,
-    "longitude": -73.0093,
+    "latitude": 40.1428,
+    "longitude": -74.664,
     "phone": "(856) 629-3800",
     "website": "https://www.openbiblenj.org",
     "pastor": "PHIL ERIKSON SR",
@@ -589,17 +589,17 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHIL ERIKSON SR. PO BOX 806 1073 NEW BROOKLYN RD WILLIAMSTOWN NJ 08094-3710 SS 945,SM 830 & 11,SN 6,W 7 AWANA, CHURCH FINANCES, AUDIO SERMONS; VICTORY CHRISTIAN SCHOOL, PS-12; KJB church."
+    "description": "PO BOX 806 OWN NJ 08094-3710 SS 945,SM 830 & 11,SN 6,W 7 AWANA, CHURCH FINANCES, AUDIO SERMONS; VICTORY CHRISTIAN SCHOOL, PS-12; KJB church"
   },
   {
     "id": "2891",
     "name": "JERSEY SHORE BAPTIST CHURCH",
-    "address": "216 S WRANGLEBORO RD",
+    "address": "216 S WRANGLEBORO RD GALLOWAY",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.085,
-    "longitude": -75.8812,
+    "latitude": 39.4143,
+    "longitude": -75.4815,
     "phone": "(609) 748-4955",
     "website": "http://www.jerseyshorebaptist.com",
     "pastor": "SAMSON RYMAN",
@@ -609,7 +609,7 @@ export const newjerseyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by SAMSON RYMAN. 216 S WRANGLEBORO RD GALLOWAY NJ 08205 ATLANTIC CITY AREA SS 945,SM 11,SN 5,W 7 AUDIO SERMONS, BUS, SOULWINNING; JERSEY SHORE BAPTIST ACADEMY; KJB, UNAFFILIATED"
+    "description": "NJ 08205 ATLANTIC CITY AREA SS 945,SM 11,SN 5,W 7 AUDIO SERMONS, BUS, SOULWINNING; JERSEY SHORE BAPTIST ACADEMY; KJB, UNAFFILIATED"
   },
   {
     "id": "2892",
@@ -629,7 +629,7 @@ export const newjerseyChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by WAYNE Z FOSTER. PO BOX 156 744 KINGS HWY MICKLETON NJ 08056 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 2625 E MAIN ST MILLVILLE NJ 08332-9661 SS 10,SM 11,SN 6,W 7 DEAF, BUS CO-PASTORS CHARLES CLARK JR & CHARLES CLARK III"
+    "description": "PO BOX 156 744 KINGS HWY MICKLETON NJ 08056 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED MILLVILLE NJ 08332-9661 SS 10,SM 11,SN 6,W 7 DEAF, BUS CO-PASTORS CHARLES CLARK JR & CHARLES CLARK III"
   },
   {
     "id": "2893",
@@ -638,8 +638,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.2842,
-    "longitude": -73.6583,
+    "latitude": 41.3526,
+    "longitude": -74.8269,
     "phone": "(201) 792-5350",
     "website": "http://www.trinitybaptistjc.org",
     "pastor": "KIRK LOBB",
@@ -647,7 +647,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KIRK LOBB. 165 BOWERS ST JERSEY CITY NJ 07307-2905 SS 10,SM 11,SN 6,W 7,SW TU 730 SAT 11 KJB church."
+    "description": "JERSEY CITY NJ 07307-2905 SS 10,SM 11,SN 6,W 7,SW TU 730 SAT 11 KJB church"
   },
   {
     "id": "2894",
@@ -667,17 +667,17 @@ export const newjerseyChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by MIKE DINGES. 115 E 15TH ST HAMMONTON NJ 08037-8639 SS 945,SM 11,SN 6,W 7 BUS, DEAF, CAMP, SOULWINNING KJB, HAC 51 HEPBURN RD CLIFTON NJ 07012 SS 10,SM 11,SN 630,W 730 SOULWINNING KJB, BBF"
+    "description": "HAMMONTON NJ 08037-8639 SS 945,SM 11,SN 6,W 7 BUS, DEAF, CAMP, SOULWINNING KJB, HAC 51 HEPBURN RD CLIFTON NJ 07012 SS 10,SM 11,SN 630,W 730 SOULWINNING KJB, BBF"
   },
   {
     "id": "2895",
     "name": "RIVERDALE BAPTIST CHURCH",
-    "address": "6 NEWBURY PLACE",
+    "address": "6 NEWBURY PLACE RIVERD",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.7612,
-    "longitude": -75.9998,
+    "latitude": 41.2262,
+    "longitude": -75.0943,
     "phone": "(973) 835-3275",
     "website": "https://rbcnj.org",
     "pastor": "DEAN F BULT SR",
@@ -685,17 +685,17 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEAN F BULT SR. 6 NEWBURY PLACE RIVERDALE NJ 07457-1145 SS 930,SM 1030,SN 7,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "ALE NJ 07457-1145 SS 930,SM 1030,SN 7,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "2896",
     "name": "MAINLAND BAPTIST CHURCH",
-    "address": "512 S PITNEY RD",
+    "address": "512 S PITNEY RD GALLOWAY",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.555,
-    "longitude": -73.4561,
+    "latitude": 40.1905,
+    "longitude": -74.5094,
     "phone": "(609) 652-7507",
     "website": "http://mainlandbc.com",
     "pastor": "JOHN NEMO",
@@ -704,7 +704,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN NEMO. 512 S PITNEY RD GALLOWAY NJ 08205 ADSECON Area BUS; CHAMPION BAPTIST ACADEMY,K-12 KJB, BBF"
+    "description": "NJ 08205 ADSECON Area BUS; CHAMPION BAPTIST ACADEMY,K-12 KJB, BBF"
   },
   {
     "id": "2897",
@@ -722,7 +722,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4614 TONNELLE AVE NORTH BERGEN NJ 07047-2650 SS 945,SM 11,SN 6,W 7"
+    "description": "NORTH BERGEN NJ 07047-2650 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "2898",
@@ -741,12 +741,12 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by D A WAITE. KJB, UNAFFILIATED, PRE-MIL, THE BIBLE FOR TODAY 900 PARK AVE COLLINGSWOOD NJ 08108 SM 10,SN 130,TH 8, RADIO, VIDEO, SHORTWAVE, GREAT KJB PROOF WEB SITE, AUDIO SERMONS ONLINE KJB, HAC"
+    "description": "KJB, UNAFFILIATED, PRE-MIL, THE BIBLE FOR TODAY COLLINGSWOOD NJ 08108 SM 10,SN 130,TH 8, RADIO, VIDEO, SHORTWAVE, GREAT KJB PROOF WEB SITE, AUDIO SERMONS ONLINE KJB, HAC"
   },
   {
     "id": "2899",
     "name": "SOMERSET BIBLE BAPTIST CHURCH",
-    "address": "42 CEDAR GROVE LN",
+    "address": "126 MT PLEASANT AVE",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
@@ -762,7 +762,7 @@ export const newjerseyChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by BRANDON BLACK. 42 CEDAR GROVE LN SOMERSET NJ 08876-3652 SS 930,SM 815 & 1045,SN 6,W 730 BUS, DEAF, PRISON, TEEN, SOULWINNING, YOUTH, PATCH PIRATE, CHOIR KJV, BBF, BBC-MO 126 MT PLEASANT AVE DOVER NJ 07801 Near ROCKA KJB church."
+    "description": "SOMERSET NJ 08876-3652 SS 930,SM 815 & 1045,SN 6,W 730 BUS, DEAF, PRISON, TEEN, SOULWINNING, YOUTH, PATCH PIRATE, CHOIR KJV, BBF, BBC-MO DOVER NJ 07801 Near ROCKA KJB church"
   },
   {
     "id": "2900",
@@ -771,8 +771,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.4811,
-    "longitude": -75.7741,
+    "latitude": 40.5529,
+    "longitude": -75.3935,
     "phone": "(609) 268-1607",
     "website": "https://www.facebook.com/medfordfarmsbaptistchurch",
     "pastor": "JAMES SIPES",
@@ -780,17 +780,17 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES SIPES. 1631 US HWY 206 TABERNACLE NJ 08088 SS 10,SM 11,SN 6,W 7 SUNDAY SCHOOL, PRAYER MEETING, BIBLE STUDIES KJB, TRAD SERVICES 155 PEQUEST RD BELVIDERE NJ 07823 SS 945,SM 11,SN 6,W 630 AUDIO SERMONS"
+    "description": "1631 US HWY 206 TABERNACLE NJ 08088 SS 10,SM 11,SN 6,W 7 SUNDAY SCHOOL, PRAYER MEETING, BIBLE STUDIES KJB, TRAD SERVICES BELVIDERE NJ 07823 SS 945,SM 11,SN 6,W 630 AUDIO SERMONS"
   },
   {
     "id": "2901",
     "name": "GREAT COMMISSION BAPTIST CHURCH",
-    "address": "18 SWAINTON GOSHEN RD",
+    "address": "18 SWAINTON GOSHEN RD CAPE MAY COURT",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.4017,
-    "longitude": -73.7434,
+    "latitude": 39.3032,
+    "longitude": -74.1836,
     "phone": "(609) 463-0108",
     "website": "",
     "pastor": "DOMINICK CUOZZO",
@@ -798,7 +798,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOMINICK CUOZZO. 18 SWAINTON GOSHEN RD CAPE MAY COURT HOUSE NJ 08210 SS 945,SM 11,SN 7,W 7 KJB, CROWN"
+    "description": "HOUSE NJ 08210 SS 945,SM 11,SN 7,W 7 KJB, CROWN"
   },
   {
     "id": "2902",
@@ -807,8 +807,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.9611,
-    "longitude": -73.632,
+    "latitude": 41.3509,
+    "longitude": -74.3556,
     "phone": "(609) 758-7667",
     "website": "http://www.bbcnewegypt.com",
     "pastor": "DEREK MAKRI",
@@ -816,17 +816,17 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEREK MAKRI. 100 LAKEWOOD RD NEW EGYPT NJ 08533 SS 915, SM 1030, SN 5,W 630 DIRECTOR ARLAN DAVIS; KJB church."
+    "description": "NEW EGYPT NJ 08533 SS 915, SM 1030, SN 5,W 630 DIRECTOR ARLAN DAVIS; KJB church"
   },
   {
     "id": "2903",
     "name": "CHRIST BAPTIST CHURCH",
-    "address": "",
+    "address": "0624 ROSEMONT AVE",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.3195,
-    "longitude": -73.5357,
+    "latitude": 39.4105,
+    "longitude": -74.7125,
     "phone": "(908) 496-4459",
     "website": "http://www.christbaptistcolumbia.org",
     "pastor": "DAVID DILLON",
@@ -834,7 +834,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID DILLON. 462 SR 94 COLUMBIA NJ 07832 SS 945,SM 11,SN 630,W 7 PATCH PIRATE KJB, GARBC PO BOX 624 NEWFIELD NJ 08344-0624 ROSEMONT AVE & CATAWBA AVE SS 945,SM 11,SN 6,W 715 TEENS, AWANA"
+    "description": "462 SR 94 COLUMBIA NJ 07832 SS 945,SM 11,SN 630,W 7 PATCH PIRATE KJB, GARBC PO BOX 624 NEWFIELD NJ 08344- & CATAWBA AVE SS 945,SM 11,SN 6,W 715 TEENS, AWANA"
   },
   {
     "id": "2904",
@@ -852,7 +852,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "900 W NEW YORK SOMERS POINT NJ 08244 Independent church."
+    "description": "900 W NEW YORK SOMERS POINT NJ 08244 Independent church"
   },
   {
     "id": "2905",
@@ -871,7 +871,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GARY TUM SUDEN. 771 GERSHAL AVE NORMA NJ 08318 76 PORTER AVE SICKLERVILLE NJ 08081 SS 945,SM 1055,SN 6,W 7 NOT KJV ONLY, GARBC 216 SUNSET RD WILLINGBORO NJ 08046 SS 945,SM 11,SN 6,W 7 AWANA, PRISON, CHOIR, TEEN, YOUT KJB church."
+    "description": "NORMA NJ 08318 76 PORTER AVE SICKLERVILLE NJ 08081 SS 945,SM 1055,SN 6,W 7 NOT KJV ONLY, GARBC 216 SUNSET RD WILLINGBORO NJ 08046 SS 945,SM 11,SN 6,W 7 AWANA, PRISON, CHOIR, TEEN, YOUT KJB church"
   },
   {
     "id": "2906",
@@ -889,7 +889,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "900 MADISON AVE PATERSON NJ 07501-3100 SM 1045,SN 5,W 7 TEEN,YOUTH,CHOIR"
+    "description": "PATERSON NJ 07501-3100 SM 1045,SN 5,W 7 TEEN,YOUTH,CHOIR"
   },
   {
     "id": "2907",
@@ -908,7 +908,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by FERNANDO REYES. ESV, RVR 1960, NKJV IGLESIA BIBLICA BAUTISTA KJB church."
+    "description": "ESV, RVR 1960, NKJV IGLESIA BIBLICA BAUTISTA KJB church"
   },
   {
     "id": "2908",
@@ -917,8 +917,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.572,
-    "longitude": -73.8849,
+    "latitude": 40.4703,
+    "longitude": -75.0411,
     "phone": "(973) 595-7050",
     "website": "",
     "pastor": "MARK MANDARANO",
@@ -928,17 +928,17 @@ export const newjerseyChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by MARK MANDARANO. 413 UNION AVE PATERSON NJ 07502-1916 NOT KJV ONLY, ESV, UNAFFILIATED, ELDERS & PASTORS KJB church."
+    "description": "PATERSON NJ 07502-1916 NOT KJV ONLY, ESV, UNAFFILIATED, ELDERS & PASTORS KJB church"
   },
   {
     "id": "2909",
     "name": "OLD BRIDGE BAPTIST CHURCH",
-    "address": "21 KOSSMAN ST",
+    "address": "21 KOSSMAN ST EAST",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.2178,
-    "longitude": -73.5379,
+    "latitude": 40.1641,
+    "longitude": -74.0205,
     "phone": "(732) 257-7959",
     "website": "http://www.oldbridgebaptistchurch.org",
     "pastor": "ALBERT N MARTIN",
@@ -946,7 +946,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ALBERT N MARTIN. 21 KOSSMAN ST EAST BRUNSWICK NJ 08816 SS 930,SM 11,SN 630,W 630 SENIORS, YOUTH, FORT DIX, MCGUIRE AFB 40 MILES S.GRACE TULIP"
+    "description": "BRUNSWICK NJ 08816 SS 930,SM 11,SN 630,W 630 SENIORS, YOUTH, FORT DIX, MCGUIRE AFB 40 MILES S.GRACE TULIP"
   },
   {
     "id": "2910",
@@ -955,8 +955,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.7562,
-    "longitude": -75.6328,
+    "latitude": 39.8277,
+    "longitude": -75.2919,
     "phone": "(973) 334-5045",
     "website": "http://www.trinitymontville.org",
     "pastor": "PAUL ORT",
@@ -965,7 +965,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by PAUL ORT. 160 CHANGEBRIDGE RD MONTVILLE NJ 07045 AUDIO SERMONS SS 930,SM 11,SN 6,W 730 KJB church."
+    "description": "MONTVILLE NJ 07045 AUDIO SERMONS SS 930,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "2911",
@@ -974,8 +974,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.6949,
-    "longitude": -73.826,
+    "latitude": 39.8421,
+    "longitude": -73.9194,
     "phone": "(609) 965-2177",
     "website": "http://www.fbehc.beliefnet.com",
     "pastor": "KEVIN O",
@@ -984,7 +984,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KEVIN O. 234 LONDON AVE EGG HARBOR NJ 08215 SS 930,SM 11,SN 7,W 7 AWANA, YOUTH, SENIORS NOT KJV ONLY, BBF, J.MCARTHUR, ABWE KJB church."
+    "description": "EGG HARBOR NJ 08215 SS 930,SM 11,SN 7,W 7 AWANA, YOUTH, SENIORS NOT KJV ONLY, BBF, J.MCARTHUR, ABWE KJB church"
   },
   {
     "id": "2912",
@@ -993,8 +993,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 41.1734,
-    "longitude": -73.7626,
+    "latitude": 39.0262,
+    "longitude": -74.4626,
     "phone": "(609) 399-2261",
     "website": "http://www.oceancitybaptist.org",
     "pastor": "ROY R WISE",
@@ -1003,7 +1003,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROY R WISE. 603 10TH ST OCEAN CITY NJ 08226 SS 930,SM 1045,SN 7,W 7 AWANA, YOUTH, TEENS PREACH-KJV, NOT KJV ONLY, BBF, LANDSDALE, BJU KJB church."
+    "description": "OCEAN CITY NJ 08226 SS 930,SM 1045,SN 7,W 7 AWANA, YOUTH, TEENS PREACH-KJV, NOT KJV ONLY, BBF, LANDSDALE, BJU KJB church"
   },
   {
     "id": "2913",
@@ -1012,8 +1012,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 41.164,
-    "longitude": -75.7651,
+    "latitude": 40.2904,
+    "longitude": -75.4458,
     "phone": "(856) 234-1145",
     "website": "",
     "pastor": "ALFRED MCLEOD",
@@ -1023,7 +1023,7 @@ export const newjerseyChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by ALFRED MCLEOD. 530 UNION MILL RD MT LAUREL NJ 08054 SS 10,SM 11,SN 6,W 7 HERITAGE CHRISTIAN ACADEMY,PRE-12 NKJV, BBF KJB church."
+    "description": "MT LAUREL NJ 08054 SS 10,SM 11,SN 6,W 7 HERITAGE CHRISTIAN ACADEMY,PRE-12 NKJV, BBF KJB church"
   },
   {
     "id": "2914",
@@ -1032,8 +1032,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 41.0858,
-    "longitude": -75.7263,
+    "latitude": 38.9097,
+    "longitude": -74.8675,
     "phone": "(856) 478-2858",
     "website": "http://www.mullicahillbaptist.com",
     "pastor": "",
@@ -1042,7 +1042,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "PO BOX 117 MULLICA HILL NJ 08062 18 S MAIN ST NOT KJV ONLY, BJU, UNAFFILIATED KJB church."
+    "description": "PO BOX 117 MULLICA HILL NJ 08062 NOT KJV ONLY, BJU, UNAFFILIATED KJB church"
   },
   {
     "id": "2915",
@@ -1061,7 +1061,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ROBERT OAKLEY. 303 ATLANTIC AVE NORTH WILDWOOD NJ 08260 SS 945,SM 1030,SN 6,W 7 PREACH-KJV, STUDY-NASV, NIV, NKJV, BJU, PCC, S.GRACE-TULIP KJB church."
+    "description": "NORTH WILDWOOD NJ 08260 SS 945,SM 1030,SN 6,W 7 PREACH-KJV, STUDY-NASV, NIV, NKJV, BJU, PCC, S.GRACE-TULIP KJB church"
   },
   {
     "id": "2916",
@@ -1070,8 +1070,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.5822,
-    "longitude": -73.7857,
+    "latitude": 40.7703,
+    "longitude": -74.6986,
     "phone": "(856) 451-5212",
     "website": "http://www.greenwichbaptistchurch.org",
     "pastor": "RON WHITEHEAD",
@@ -1079,7 +1079,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON WHITEHEAD. PO BOX 52 GREENWICH NJ 08323 928 YE GREATE ST SS 10,SM 11,SN 7,W 7 CORNERSTONE BOOKLETS NOT KJV ONLY, FFBC KJB church."
+    "description": "PO BOX 52 GREENWICH NJ 08323 SS 10,SM 11,SN 7,W 7 CORNERSTONE BOOKLETS NOT KJV ONLY, FFBC KJB church"
   },
   {
     "id": "2917",
@@ -1097,7 +1097,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALAN BROWN. 20 ELMWOOD AVE PENNS GROVE NJ 08069 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "PENNS GROVE NJ 08069 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2918",
@@ -1106,8 +1106,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.3264,
-    "longitude": -76.0038,
+    "latitude": 41.3418,
+    "longitude": -74.2061,
     "phone": "(973) 539-7011",
     "website": "http://parsippanybaptist.org",
     "pastor": "AARON HART",
@@ -1115,17 +1115,17 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON HART. 1179 LITTLETON RD PARSIPPANY NJ 07054 SS 945,SM 11,SN 6,W 7 PATCH PIRATE, TNT TEEN, TV CABLE 3; PARSIPPANY CHRISTIAN SCHOOL, K-12; NOT KJV ONLY, GARBC KJB church."
+    "description": "PARSIPPANY NJ 07054 SS 945,SM 11,SN 6,W 7 PATCH PIRATE, TNT TEEN, TV CABLE 3; PARSIPPANY CHRISTIAN SCHOOL, K-12; NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2919",
     "name": "SHAWNEE BAPTIST CHURCH",
-    "address": "303 OAKSHADE RD",
+    "address": "1 AUTUMN LEAF DRIVE",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 40.0889,
-    "longitude": -73.0814,
+    "latitude": 41.3772,
+    "longitude": -74.2925,
     "phone": "(609) 268-2500",
     "website": "http://www.shawneechurch.org",
     "pastor": "DANIEL B TROUTMAN",
@@ -1135,12 +1135,12 @@ export const newjerseyChurches: Church[] = [
       "Non-KJV",
       "SBC"
     ],
-    "description": "Led by DANIEL B TROUTMAN. 303 OAKSHADE RD SHAMONG NJ 08088 NOT KJV ONLY, CALVARY-LANSDALE 1 AUTUMN LEAF DRIVE FLEMINGTON NJ 08822 SS 930,SM 1045,SN 6,W 7 TRUTH TRACKERS, TEEN NOT KJV ONLY, GARBC, CEDARVILLE 850 RAILROAD DR LIT KJB church."
+    "description": "SHAMONG NJ 08088 NOT KJV ONLY, CALVARY-LANSDALE FLEMINGTON NJ 08822 SS 930,SM 1045,SN 6,W 7 TRUTH TRACKERS, TEEN NOT KJV ONLY, GARBC, CEDARVILLE 850 RAILROAD DR LIT KJB church"
   },
   {
     "id": "2920",
     "name": "HYDEWOOD PARK BAPTIST CHURCH",
-    "address": "100 NORWOOD AVE",
+    "address": "100 NORWOOD AVE NORTH PL",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
@@ -1153,7 +1153,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID A CORTNER. 100 NORWOOD AVE NORTH PLAINFIELD NJ 07060 NOT KJV ONLY KJB church."
+    "description": "AINFIELD NJ 07060 NOT KJV ONLY KJB church"
   },
   {
     "id": "2921",
@@ -1162,8 +1162,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.9957,
-    "longitude": -73.3353,
+    "latitude": 39.8252,
+    "longitude": -75.3496,
     "phone": "(856) 424-2331",
     "website": "http://www.bethelonline.org",
     "pastor": "LANCE WALKER",
@@ -1172,7 +1172,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LANCE WALKER. 1704 SPRINGDALE RD CHERRY HILL NJ 08003 SS 9, SM 1030 DRAMA,CHOIR,DAYCARE;BETHEL BAPTIST CHRISTIAN SCHOOL, K-8; NOT KJV ONLY, GARBC 2111 KUSER RD TRENTON NJ 08690 HAMILTON SQUARE NJ SS 945,SM 11,SN 6, KJB church."
+    "description": "CHERRY HILL NJ 08003 SS 9, SM 1030 DRAMA,CHOIR,DAYCARE;BETHEL BAPTIST CHRISTIAN SCHOOL, K-8; NOT KJV ONLY, GARBC 2111 KUSER RD TRENTON NJ 08690 HAMILTON SQUARE NJ SS 945,SM 11,SN 6, KJB church"
   },
   {
     "id": "2922",
@@ -1181,8 +1181,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 41.1757,
-    "longitude": -75.9317,
+    "latitude": 39.3015,
+    "longitude": -75.3837,
     "phone": "(856) 785-1464",
     "website": "https://visitdcbc.org",
     "pastor": "DAVID BROWN",
@@ -1190,7 +1190,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID BROWN. PO BOX 98 928 UNION ST DIVIDING CREEK NJ 08315 SS 10,SN 1115,SN 6,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "PO BOX 98 DIVIDING CREEK NJ 08315 SS 10,SN 1115,SN 6,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "2923",
@@ -1209,7 +1209,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICK RULE. PO BOX 1 PEMBERTON NJ 08068 NOT KJV ONLY, BBF KJB church."
+    "description": "PO BOX 1 PEMBERTON NJ 08068 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2924",
@@ -1218,8 +1218,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 41.2389,
-    "longitude": -75.7809,
+    "latitude": 41.0205,
+    "longitude": -75.4466,
     "phone": "(732) 574-1479",
     "website": "http://www.ucbc.net",
     "pastor": "JOSH JOHN",
@@ -1228,12 +1228,12 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSH JOHN. 4 VALLEY RD CLARK NJ 07066 SS 10,SM 11, W 7 NOT KJV ONLY, UNAFFILIATED KJB church."
+    "description": "CLARK NJ 07066 SS 10,SM 11, W 7 NOT KJV ONLY, UNAFFILIATED KJB church"
   },
   {
     "id": "2925",
     "name": "KENDALL PARK BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 5086",
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
@@ -1247,7 +1247,7 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MIKE MILLER. PO BOX 5086 3583 SR 27 KENDALL PARK NJ 08824 SS 945,SM 11,SN 630,W 7 AWANA, TEEN, CAMP KJB church."
+    "description": "3583 SR 27 KENDALL PARK NJ 08824 SS 945,SM 11,SN 630,W 7 AWANA, TEEN, CAMP KJB church"
   },
   {
     "id": "2926",
@@ -1265,7 +1265,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALBERT GRAEBER. 4 CHERRY TREE FARM RD NEW MONMOUTH NJ 07748 SS 945,SM 830 & 11 SPANISH, YOUTH CLUBS, CHOIR, NOT KJV ONLY, WOL KJB church."
+    "description": "NEW MONMOUTH NJ 07748 SS 945,SM 830 & 11 SPANISH, YOUTH CLUBS, CHOIR, NOT KJV ONLY, WOL KJB church"
   },
   {
     "id": "2927",
@@ -1274,8 +1274,8 @@ export const newjerseyChurches: Church[] = [
     "city": "Trenton",
     "state": "NJ",
     "zipCode": "",
-    "latitude": 39.7611,
-    "longitude": -73.5872,
+    "latitude": 39.7263,
+    "longitude": -75.3299,
     "phone": "(856) 678-2528",
     "website": "",
     "pastor": "",
@@ -1283,7 +1283,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "95 SPARKS AVE PENNSVILLE NJ 08070"
+    "description": "PENNSVILLE NJ 08070"
   },
   {
     "id": "2928",
@@ -1301,7 +1301,7 @@ export const newjerseyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VINCENT F MILANO. SS 945,SM 11,SN 7,W 7 PARK BIBLE ACADEMY, K-12 KJB, CCM"
+    "description": "SS 945,SM 11,SN 7,W 7 PARK BIBLE ACADEMY, K-12 KJB, CCM"
   },
   {
     "id": "2929",
@@ -1320,6 +1320,6 @@ export const newjerseyChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JOEL SPIECKER. 166 FRANKLIN ST BELLEVILLE NJ 07095 AUDIO & VIDEO SERMONS NOT KJV ONLY 1528 RT 9 S TOMS RIVER NJ 08755 SS 945,SM 11,SN 6,W 730 KJV, NKJV, CBA 303 GREEN AVE PENNS GROVE NJ 08069 CARNEYS POINT AREA SS 9 KJB church."
+    "description": "BELLEVILLE NJ 07095 AUDIO & VIDEO SERMONS NOT KJV ONLY 1528 RT 9 S TOMS RIVER NJ 08755 SS 945,SM 11,SN 6,W 730 KJV, NKJV, CBA 303 GREEN AVE PENNS GROVE NJ 08069 CARNEYS POINT AREA SS 9 KJB church"
   }
 ];

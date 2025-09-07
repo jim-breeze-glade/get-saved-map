@@ -18,7 +18,7 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by THOMAS CASTELLAW. 300 KUULEI RD KAILUA HI 96734 SM 1030,SN 5,W 630 SOULWINNING, CHILDREN, TEENS, COLLEGE CAREER, FAMILIES FACEBOOK AND YOUTUBE SERMONS ONLINE 4 MILES FROM MCBH PEARL HARBOR, HICKAM, FT. SHAFTER, SCHOFIE KJB church."
+    "description": "KAILUA HI 96734 SM 1030,SN 5,W 630 SOULWINNING, CHILDREN, TEENS, COLLEGE CAREER, FAMILIES FACEBOOK AND YOUTUBE SERMONS ONLINE 4 MILES FROM MCBH PEARL HARBOR, HICKAM, FT. SHAFTER, SCHOFIE KJB church"
   },
   {
     "id": "1161",
@@ -36,7 +36,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAFAEL SOTO. 455 KILANI AVE WAHIAWA HI 96786 SS 10, SM 11, SN 530, W 630 SCOFIELD BARRACKS, WHEELER AAF KJB church."
+    "description": "WAHIAWA HI 96786 SS 10, SM 11, SN 530, W 630 SCOFIELD BARRACKS, WHEELER AAF KJB church"
   },
   {
     "id": "1162",
@@ -54,7 +54,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN KROLL. 7192 KALANIANAOLE HWY E123B HONOLULU HI 96825 SM 10, W 630 KJB,CHAPPEL,HYLES"
+    "description": "7192 KALANIANAOLE HWY E123B HONOLULU HI 96825 SM 10, W 630 KJB,CHAPPEL,HYLES"
   },
   {
     "id": "1163",
@@ -73,7 +73,7 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DON GRAY. PO BOX 492908 15-1736 24TH AVE KEAAU HI 96749 SS 9,SM 10,SN 1215, W 615 SOULWINNING KJB church."
+    "description": "PO BOX 492908 KEAAU HI 96749 SS 9,SM 10,SN 1215, W 615 SOULWINNING KJB church"
   },
   {
     "id": "1164",
@@ -91,7 +91,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SPENCER BAKER. 2575 KILAUEA AVE HILO HI 96720 SS 9,SM 1015,SN 6,W 630 KJB church."
+    "description": "HILO HI 96720 SS 9,SM 1015,SN 6,W 630 KJB church"
   },
   {
     "id": "1165",
@@ -104,7 +104,7 @@ export const hawaiiChurches: Church[] = [
     "longitude": -157.7609,
     "phone": "(808) 895-2051",
     "website": "http://http://www.bigisland.church",
-    "pastor": "",
+    "pastor": "KAILUA KONA HI 96740 KJB,UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -129,7 +129,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY KING. PO BOX 260 NAALEHU HI 96772-0260 MEETS SUNDAY AT KAU LEARNING ACADEMY, 94-1581 KAULUA CIR SM 10, W 7 KJB,WCBC, CHAPPELL"
+    "description": "PO BOX 260 NAALEHU HI 96772-0260 , 94-1581 KAULUA CIR SM 10, W 7 KJB,WCBC, CHAPPELL"
   },
   {
     "id": "1167",
@@ -148,7 +148,7 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KING EX-NAVY. 1216 WAIMANU ST HONOLULU HI 96814 SM 1030,SN 5,W 7 SOULWINNING, PRISON, COLLEGE CAREER, TEENS, MP3 AUDIO SERMONS ONLINE, 9 MILES FROM PEARL HARBOR/HICKAM KJB,TRIEBER"
+    "description": "HONOLULU HI 96814 SM 1030,SN 5,W 7 SOULWINNING, PRISON, COLLEGE CAREER, TEENS, MP3 AUDIO SERMONS ONLINE, 9 MILES FROM PEARL HARBOR/HICKAM KJB,TRIEBER"
   },
   {
     "id": "1168",
@@ -166,7 +166,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SKIP WOODFIN. 3335 LALA RD LIHUE HI 96766 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LIHUE HI 96766 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1169",
@@ -184,7 +184,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "45-633 KENEKE ST KANEOHE HI 96744 SS 930,SM 1030,SN 6,W 630 CONNECT WITH SUNDAY SCHOOL FOR ALL AGES COLLEGE/CAREER,  YOUNG MARRIEDS, MIDDLE ADULTS, SINGLE MOMS, SENIOR ADULTS"
+    "description": "KANEOHE HI 96744 SS 930,SM 1030,SN 6,W 630 CONNECT WITH SUNDAY SCHOOL FOR ALL AGES COLLEGE/CAREER, YOUNG MARRIEDS, MIDDLE ADULTS, SINGLE MOMS, SENIOR ADULTS"
   },
   {
     "id": "1170",
@@ -221,12 +221,12 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KAM H CHING. VIDEO SERMONS ONLINE MCB, PEARL HARBOR, HICKAM, FT SHAFTER, SCHOFIELD KJB,UNAFFILIATED,GIPP"
+    "description": "VIDEO SERMONS ONLINE MCB, PEARL HARBOR, HICKAM, FT SHAFTER, SCHOFIELD KJB,UNAFFILIATED,GIPP"
   },
   {
     "id": "1172",
     "name": "INDEPENDENT BAPTIST CHURCH",
-    "address": "436 MCNEILL ST",
+    "address": "96813 ACROSS THE STREET FROM SAVE",
     "city": "Honolulu",
     "state": "HI",
     "zipCode": "",
@@ -241,7 +241,7 @@ export const hawaiiChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by STEVE C WYGLE. 436 MCNEILL ST HONOLULU HI 96813 ACROSS THE STREET FROM SAVERS AND L&L SS 930,SM 1030,SA 130,W 730 AUDIO SERMONS ONLINE FT SHAFTER KJB,BBF"
+    "description": "HONOLULU HI RS AND L&L SS 930,SM 1030,SA 130,W 730 AUDIO SERMONS ONLINE FT SHAFTER KJB,BBF"
   },
   {
     "id": "1173",
@@ -259,7 +259,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "94-1250 WAIPAHU ST WAIPAHU HI 96797 SS 930,SM 1030,SN 6,W 7 BUS,AWANA ABA church."
+    "description": "WAIPAHU HI 96797 SS 930,SM 1030,SN 6,W 7 BUS,AWANA ABA church"
   },
   {
     "id": "1174",
@@ -277,12 +277,12 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR ARZA E BROWN. SCHOFIELD,HICKAM,PEARL HARBOR,CAMP SMITH KJB,WBF,MASSILLON BAPTIST TEMPLE"
+    "description": "SCHOFIELD,HICKAM,PEARL HARBOR,CAMP SMITH KJB,WBF,MASSILLON BAPTIST TEMPLE"
   },
   {
     "id": "1175",
     "name": "GRACE INDEPENDENT BAPTIST CHURCH",
-    "address": "164 FLEMING RD",
+    "address": "12 SERMON VIDEOS ONLINE MISSIONS MINDED CONSERVATIVE AND TRADITIONAL MUSIC STANDARD",
     "city": "Honolulu",
     "state": "HI",
     "zipCode": "",
@@ -297,7 +297,7 @@ export const hawaiiChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by WAYNE T SURFACE. 164 FLEMING RD LAHAINA HI 96761 SS 930,SM 1030,SN 6,W 7 MANAO “I” O BAPTIST ACADEMY, K-12 SERMON VIDEOS ONLINE MISSIONS MINDED CONSERVATIVE AND TRADITIONAL MUSIC STANDARDS- KINGS KIDS KJB church."
+    "description": "LAHAINA HI 96761 SS 930,SM 1030,SN 6,W 7 MANAO “I” O BAPTIST ACADEMY, K-S- KINGS KIDS KJB church"
   },
   {
     "id": "1176",
@@ -316,12 +316,12 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JAMES REID. 2879 PA’A ST HONOLULU HI 96819 IN MAPUNAPUNA NEXT TO YOUNG GUNS SS 930,SM 1030,SN 6,W 645 PATCH PIRATE,TEENS,SINGLES, HICKAM AFB, PEARL HARBOR, TRIPLER, CAMP SMITH SCHOFIELD, KANEOHE VIDEO SERMONS ONL KJB church."
+    "description": "2879 PA’A ST HONOLULU HI 96819 IN MAPUNAPUNA NEXT TO YOUNG GUNS SS 930,SM 1030,SN 6,W 645 PATCH PIRATE,TEENS,SINGLES, HICKAM AFB, PEARL HARBOR, TRIPLER, CAMP SMITH SCHOFIELD, KANEOHE VIDEO SERMONS ONL KJB church"
   },
   {
     "id": "1177",
     "name": "FRIENDSHIP BIBLE CHURCH",
-    "address": "91-1130 RENTON RD",
+    "address": "7 FRIENDSHIP CHRIST",
     "city": "Honolulu",
     "state": "HI",
     "zipCode": "",
@@ -334,7 +334,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN USITA. 91-1130 RENTON RD EWA HI 96706 SS 10,SM 1115,SN 6,W 7 FRIENDSHIP CHRISTIAN SCHOOL,K3-12 KJB church."
+    "description": "EWA HI 96706 SS 10,SM 1115,SN 6,W IAN SCHOOL,K3-12 KJB church"
   },
   {
     "id": "1178",
@@ -352,7 +352,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN AKANA. PO BOX 17426 1249 N SCHOOL ST HONOLULU HI 96817 SS 9,SM 10,SN 6,W 7 FILLIPINO KJB church."
+    "description": "PO BOX 17426 HONOLULU HI 96817 SS 9,SM 10,SN 6,W 7 FILLIPINO KJB church"
   },
   {
     "id": "1179",
@@ -370,7 +370,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LESTER LIPPINCOTT. 47-528 KAMEHAMEHA HWY KANEOHE HI 96744 SS 10,SM 11,SN 230,W 7 KJB church."
+    "description": "47-528 KAMEHAMEHA HWY KANEOHE HI 96744 SS 10,SM 11,SN 230,W 7 KJB church"
   },
   {
     "id": "1180",
@@ -389,7 +389,7 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by STEVE SZUKALA. MAKAKILO HI 96707 KJB church."
+    "description": "MAKAKILO HI 96707 KJB church"
   },
   {
     "id": "1181",
@@ -408,12 +408,12 @@ export const hawaiiChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WILLIAM R DIERKING. 95-453 LANIKUHANA AVD MILILANI HI 96789 KJB, UNAFFILIATED"
+    "description": "95-453 LANIKUHANA AVD MILILANI HI 96789 KJB, UNAFFILIATED"
   },
   {
     "id": "1182",
     "name": "KONA COAST BAPTIST CHURCH",
-    "address": "75-678 S. MEA LANAKILA PL.",
+    "address": "96740 MEETING AT KONA OUTDOOR CIRCLE",
     "city": "Honolulu",
     "state": "HI",
     "zipCode": "",
@@ -426,7 +426,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CHARLES HIERS. 75-678 S. MEA LANAKILA PL. KAILUA-KONA, HI 96740 MEETING AT KONA OUTDOOR CIRCLE 76-6280 KUAKINI HIGHWAY KAILUA-KONA HI 96740 SS 10, SM 11, SN 1"
+    "description": "75-678 S. MEA LANAKILA PL. KAILUA-KONA, HI 76-6280 KUAKINI HIGHWAY KAILUA-KONA HI 96740 SS 10, SM 11, SN 1"
   },
   {
     "id": "1183",
@@ -444,7 +444,7 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRYL KEANE. 94-294 ANANIA DR MILILANI HI 96789 ASSEMBLING AT HANALANI SCHOOLS SM 945,SN 6,W 630 NOT KJV ONLY,R.WARREN KJB church."
+    "description": "MILILANI HI 96789 ASSEMBLING AT HANALANI SCHOOLS SM 945,SN 6,W 630 NOT KJV ONLY,R.WARREN KJB church"
   },
   {
     "id": "1184",
@@ -462,12 +462,12 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by DAVE WEST. 1230 KAILUA RD KAILUA HI 96734 SS 930,SM 8 & 1045,SN 630 NASB,BMM Non-KJV church."
+    "description": "KAILUA HI 96734 SS 930,SM 8 & 1045,SN 630 NASB,BMM Non-KJV church"
   },
   {
     "id": "1185",
     "name": "KUKUILANI BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1165",
     "city": "Honolulu",
     "state": "HI",
     "zipCode": "",
@@ -480,6 +480,6 @@ export const hawaiiChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1165 PEARL CITY HI 96782 PATCH PIRATE"
+    "description": "PEARL CITY HI 96782 PATCH PIRATE"
   }
 ];

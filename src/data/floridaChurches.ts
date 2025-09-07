@@ -19,7 +19,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by LENNY DEYOUNG. 799 BLANDING BLVD SUITE 8 ORANGE PARK FL 32065 SM 11,SN 4,TH 7 LIVE PREACHING ONLINE SOULWINNING, FAMILY INTEGRATED SERVICES KJB, UNAFFILIATED"
+    "description": "ORANGE PARK FL 32065 SM 11,SN 4,TH 7 LIVE PREACHING ONLINE SOULWINNING, FAMILY INTEGRATED SERVICES KJB, UNAFFILIATED"
   },
   {
     "id": "634",
@@ -39,7 +39,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DEREK TOLLEY. 16250 N COURTENAY PKWY MERRITT ISLAND FL 32953 SS 10,SM 11,W 6 SOULWINNING,BANANA RIVER BAPTIST ACADEMY,VBS, BUS, AUDIO/VIDEO SERMONS ONLINE , NURSERY, CHILDRENS CLASSES, TEEN CLASSES, COMMUNITY OUTRE KJB church."
+    "description": "MERRITT ISLAND FL 32953 SS 10,SM 11,W 6 SOULWINNING,BANANA RIVER BAPTIST ACADEMY,VBS, BUS, AUDIO/VIDEO SERMONS ONLINE , NURSERY, CHILDRENS CLASSES, TEEN CLASSES, COMMUNITY OUTRE KJB church"
   },
   {
     "id": "635",
@@ -57,7 +57,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN JOHNSON. 105 RIVERCLIFF LANE MERRIT ISLAND FL 32952 PHYSICAL ADD 194 COASTAL LANE MELBOURNE FL 32904 SS 930,SM 11,W 6 KJB,PRE-TRIB"
+    "description": "MERRIT ISLAND FL 32952 PHYSICAL ADD 194 COASTAL LANE MELBOURNE FL 32904 SS 930,SM 11,W 6 KJB,PRE-TRIB"
   },
   {
     "id": "636",
@@ -76,12 +76,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by RYLAN MILLET. 670 3RD AVE WELAKA FL 32193 SS 9,SM 10,SN 6,W 6 KJB,PRE-TRIB"
+    "description": "WELAKA FL 32193 SS 9,SM 10,SN 6,W 6 KJB,PRE-TRIB"
   },
   {
     "id": "637",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "700 HOLLYWOOD BLVD",
+    "address": "700 HOLLYWOOD BLVD WEST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -94,12 +94,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PATRICK GIMENEZ. 700 HOLLYWOOD BLVD WEST MELBOURNE FL 32904 SS 915,SM 1015,SN 530,W 7 AUDIO & VIDEO SERMONS ONLINE KJB church."
+    "description": "MELBOURNE FL 32904 SS 915,SM 1015,SN 530,W 7 AUDIO & VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "638",
     "name": "VICTORY SPRINGS INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 539",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -113,7 +113,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN PRIDEMORE. PO BOX 539 18172 US 441 HIGH SPRINGS FL 32655 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "18172 US 441 HIGH SPRINGS FL 32655 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "639",
@@ -131,7 +131,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DWAYNE KIGHT. 3300 PINE ISLAND RD SW CAPE CORAL FL 33991 SS 10,SM 11,SN 6,W 6 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "CAPE CORAL FL 33991 SS 10,SM 11,SN 6,W 6 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "640",
@@ -150,12 +150,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY TIRSE. 116 SOUTHEAST 146 AVE OLD TOWN FL 32680 SS 945,SM 11,SN 6,W 6 AUDIO SERMONS ONLINE KJB, UNAFFILIATED"
+    "description": "OLD TOWN FL 32680 SS 945,SM 11,SN 6,W 6 AUDIO SERMONS ONLINE KJB, UNAFFILIATED"
   },
   {
     "id": "641",
     "name": "FREEDOM BAPTIST CHURCH",
-    "address": "8702 FRANKLIN RD",
+    "address": "8702 FRANKLIN RD PL",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -168,7 +168,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "8702 FRANKLIN RD PLANT CITY FL 33565 SS 10,SM 11,SN 6,W 7 SOULWINNING, SENIORS, CD AUDIO SERMONS AVAILABLE, PROPHETS CHAMBER, NURSERY"
+    "description": "ANT CITY FL 33565 SS 10,SM 11,SN 6,W 7 SOULWINNING, SENIORS, CD AUDIO SERMONS AVAILABLE, PROPHETS CHAMBER, NURSERY"
   },
   {
     "id": "642",
@@ -186,12 +186,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH BAXTER. 25 MILES NORTHEAST OF MACDILL AFB KJB church."
+    "description": "KJB church"
   },
   {
     "id": "643",
     "name": "NAPLES BAPTIST TEMPLE",
-    "address": "5860 AUTUMN OAKS LN",
+    "address": "5860 AUTUMN OAKS LN NAPL",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -204,7 +204,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAYMOND RODRIGUEZ. 5860 AUTUMN OAKS LN NAPLES FL 34119Y67Y SM 11,SN 6,W 7 KJB,HYMNS"
+    "description": "ES FL 34119Y67Y SM 11,SN 6,W 7 KJB,HYMNS"
   },
   {
     "id": "644",
@@ -222,7 +222,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TIM JORDAN. 103 HOLDEN AVE ORLANDO FL 32839 SS 930,SM 1030,SN 6,W 7"
+    "description": "ORLANDO FL 32839 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "645",
@@ -240,7 +240,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRACY COVEL. 750 US-1 OAK HILL FL 32759 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "750 US-1 OAK HILL FL 32759 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "646",
@@ -258,7 +258,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD ROSSITER. 4220 S HOPKINS AVE TITUSVILLE FL 32780 MAILING ADDRESS: 4295 SUGAR MAPLE CT TITUSVILLE, FL  32780 SS 9, SM 10, SN 6, W 7 MENS PRAYER MEETING AT 0825 ON SUNDAYS, WOMENS PRAYER AT 1715 SUNDAY KJB, FLORI"
+    "description": "TITUSVILLE FL 32780 MAILING ADDRESS: 4295 SUGAR MAPLE CT TITUSVILLE, FL 32780 SS 9, SM 10, SN 6, W 7 MENS PRAYER MEETING AT 0825 ON SUNDAYS, WOMENS PRAYER AT 1715 SUNDAY KJB, FLORI"
   },
   {
     "id": "647",
@@ -276,7 +276,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL O. 13171 TARA ST SPRING HILL FL 34608 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "SPRING HILL FL 34608 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "648",
@@ -294,7 +294,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BLARE. 4597 TUNIS ST JACKSONVILLE FL 34222 SS 10,SM 11,SN 6,W 7 KJB, LANDMARK-BC"
+    "description": "JACKSONVILLE FL 34222 SS 10,SM 11,SN 6,W 7 KJB, LANDMARK-BC"
   },
   {
     "id": "649",
@@ -314,7 +314,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BRYAN GENTRY. 2601 STATE RD 60 E LAKE WALES FL 33898 SS 10, SM 11 SN 6, W 7 BUS, SOULWINNING, ANDREWS FELLOWSHIP,SENIOR ADULTS, YOUNG ADULTS, SINGLE LADIES, TEENS, CHILDRENS, JUNIOR CHURCH, AUDIO SERMONS ONLINE KJB"
+    "description": "LAKE WALES FL 33898 SS 10, SM 11 SN 6, W 7 BUS, SOULWINNING, ANDREWS FELLOWSHIP,SENIOR ADULTS, YOUNG ADULTS, SINGLE LADIES, TEENS, CHILDRENS, JUNIOR CHURCH, AUDIO SERMONS ONLINE KJB"
   },
   {
     "id": "650",
@@ -332,7 +332,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL MCLUCAS. 1355 EAST PINEHURST ST BARTOW FL 33830 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "BARTOW FL 33830 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "651",
@@ -350,7 +350,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS ESTES. 11764 LEM TURNER RD JACKSONVILLE FL 32218 SM 11,SN 6,W 7 KJB church."
+    "description": "JACKSONVILLE FL 32218 SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "652",
@@ -369,7 +369,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DANNY HERSHEY. 1301 7TH ST SW WINTER HAVEN FL 33880 KJB church."
+    "description": "WINTER HAVEN FL 33880 KJB church"
   },
   {
     "id": "653",
@@ -387,7 +387,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "330 N DAVIS LN DEFUNIAK SPRINGS FL 32433"
+    "description": "DEFUNIAK SPRINGS FL 32433"
   },
   {
     "id": "654",
@@ -406,12 +406,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RYAN M PRICE. SS 10,SM 11,SN 6,W 630 KJB, MASORETIC, TEXTUS RECEPTUS, UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 6,W 630 KJB, MASORETIC, TEXTUS RECEPTUS, UNAFFILIATED"
   },
   {
     "id": "655",
     "name": "MIAMI BEACH BAPTIST CHURCH",
-    "address": "1185 71ST ST",
+    "address": "33141 MAILING ADDR",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -419,13 +419,13 @@ export const floridaChurches: Church[] = [
     "longitude": -82.5203,
     "phone": "(954) 464-5308",
     "website": "http://www.miamibaptist.org",
-    "pastor": "MATTHEW STIDHAM",
+    "pastor": "NEW PORT RICHEY FL 34653 SS 945,SM 1045,SN 6,W 7 KJB,KIDD PO BOX",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MATTHEW STIDHAM. 1185 71ST ST MIAMI BEACH FL 33141 MAILING ADDRESS: 4907 NE 9TH AVE OAKLAND PARK FL 33334 SS 9, SM 8, TH 730 SOULWINNING 6628 CECELIA DR NEW PORT RICHEY FL 34653 SS 945,SM 1045,SN 6,W 7 KJB,KIDD PO BOX"
+    "description": "1185 71ST ST MIAMI BEACH FL ESS: 4907 NE 9TH AVE OAKLAND PARK FL 33334 SS 9, SM 8, TH 730 SOULWINNING 6628 CECELIA DR NEW PORT RICHEY FL 34653 SS 945,SM 1045,SN 6,W 7 KJB,KIDD PO BOX"
   },
   {
     "id": "656",
@@ -443,7 +443,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM L WILLIAMS. SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "657",
@@ -461,7 +461,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "5709 NE 78TH PLACE GAINESVILLE FL 32609 Non-KJV church."
+    "description": "GAINESVILLE FL 32609 Non-KJV church"
   },
   {
     "id": "658",
@@ -480,7 +480,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NICK WIELANDER. SS 930,SM 1045,SN 7,W 7 KJB, MASORETIC, TEXTUS RECEPTUS, UNAFFILIATED"
+    "description": "SS 930,SM 1045,SN 7,W 7 KJB, MASORETIC, TEXTUS RECEPTUS, UNAFFILIATED"
   },
   {
     "id": "659",
@@ -499,7 +499,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOB OSSEWAARDE. 10875 OVERSEAS HWY, SUITE 120 MARATHON FL 33050 SS 10, SM 11, SN 6, TH 7 CHILDREN, TEENS ON JUNE 10TH, 2012 MARATHON BAPTIST CHURCH OPENED ITS DOORS KJB, UNAFFILIATED"
+    "description": "10875 OVERSEAS HWY, SUITE 120 MARATHON FL 33050 SS 10, SM 11, SN 6, TH 7 CHILDREN, TEENS , 2012 MARATHON BAPTIST CHURCH OPENED ITS DOORS KJB, UNAFFILIATED"
   },
   {
     "id": "660",
@@ -517,7 +517,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID WILLIAMS. 1819 HILL AVE FORT MYERS FL 33901 SS 10, SM 11, SN 6, WE 7 KJB,LANDMARK-BC"
+    "description": "FORT MYERS FL 33901 SS 10, SM 11, SN 6, WE 7 KJB,LANDMARK-BC"
   },
   {
     "id": "661",
@@ -536,7 +536,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GEORGE A PIRT. 307 ALT BAB CUTOFF RD LAKE WALES FL 33853 SS 930,SM 1030,SN 6,W 7 SOULWINNING AUDIO SERMONS ONLINE KJB,GIBF"
+    "description": "LAKE WALES FL 33853 SS 930,SM 1030,SN 6,W 7 SOULWINNING AUDIO SERMONS ONLINE KJB,GIBF"
   },
   {
     "id": "662",
@@ -554,12 +554,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5121 KELLY RD TAMPA FL 33615 SS 10,SM 11,SN 630,TH 730 MP3 AUDIO SERMONS ONLINE, BUS,DEAF,YOUTH,ADVENTURE CLUB, WEST GATE CHRISTIAN SCHOOL,K3-12"
+    "description": "TAMPA FL 33615 SS 10,SM 11,SN 630,TH 730 MP3 AUDIO SERMONS ONLINE, BUS,DEAF,YOUTH,ADVENTURE CLUB, WEST GATE CHRISTIAN SCHOOL,K3-12"
   },
   {
     "id": "663",
     "name": "FLORIDA BAPTIST COLLEGE",
-    "address": "2903 E SLIGH AVE",
+    "address": "5 MINUTES FROM BUSCH GARD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -573,7 +573,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by CHRIS FERGUSON. 12 MILES FROM MACDILL AFB 2903 E SLIGH AVE TAMPA FL 33610 SS 10, SM 11, SN 6, TH 7 MACDILL AFB 10 MILES 5 MINUTES FROM BUSCH GARDENS AMUSEMENT PARK KJB, TRADITIONAL SERVICES ONLY"
+    "description": "12 MILES FROM MACDILL AFB TAMPA FL 33610 SS 10, SM 11, SN 6, TH 7 MACDILL AFB 10 MILES ENS AMUSEMENT PARK KJB, TRADITIONAL SERVICES ONLY"
   },
   {
     "id": "664",
@@ -591,7 +591,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYNN MASSEY. 9910 NW 29TH CT HOLLYWOOD FL 33024 PHYSICAL ADD In COOPER CITY SS 945, SM 11, SN 6, W 7 NEW MEMBERS, SPANISH, TEENS, CHILDREN, TODDLERS, ALL SVCS: NURSERY, VAN ROUTE MP3, WED KINGS KIDS, REGULAR VISIT KJB church."
+    "description": "HOLLYWOOD FL 33024 PHYSICAL ADD In COOPER CITY SS 945, SM 11, SN 6, W 7 NEW MEMBERS, SPANISH, TEENS, CHILDREN, TODDLERS, ALL SVCS: NURSERY, VAN ROUTE MP3, WED KINGS KIDS, REGULAR VISIT KJB church"
   },
   {
     "id": "665",
@@ -609,7 +609,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "13290 RANCH RD JACKSONVILLE FL 32218 SS 10,SM 11,SN 6,W 7"
+    "description": "JACKSONVILLE FL 32218 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "666",
@@ -628,7 +628,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICHARD P HESTON. 1 BLOCK FROM AIRPORT ROAD/I-95; 12 MILES FROM YULEE; 12 MILES FROM DOWNTOWN/WESTSIDE KJB church."
+    "description": "KJB church"
   },
   {
     "id": "667",
@@ -647,12 +647,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAYSON KEEFER. PO BOX 1667 47 S COLUMBIA CITY RD LAKE CITY FL  32056 SS 10,SM 11,SN 630,TH 730 DEAF, YOUTH, SOULWINNING KJB, LANDMARK-BC,CARTER"
+    "description": "PO BOX 1667 LAKE CITY FL 32056 SS 10,SM 11,SN 630,TH 730 DEAF, YOUTH, SOULWINNING KJB, LANDMARK-BC,CARTER"
   },
   {
     "id": "668",
     "name": "ASTATULA BAPTIST CHURCH",
-    "address": "13239 FLORIDA BLVD",
+    "address": "13239 FLORIDA BLVD AST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "13239",
@@ -666,12 +666,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by VANCE CATLIN. 13239 FLORIDA BLVD ASTATULA FL 34705 SS 945,SM 1045,SN 6, W 7 KJB church."
+    "description": "ATULA FL 34705 SS 945,SM 1045,SN 6, W 7 KJB church"
   },
   {
     "id": "669",
     "name": "HARMONY BAPTIST CHURCH",
-    "address": "6008 W KNIGHTS GRIFFIN RD",
+    "address": "6008 W KNIGHTS GRIFFIN RD PL",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -684,7 +684,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by S L CARPENTER. 6008 W KNIGHTS GRIFFIN RD PLANT CITY FL 33565 SS 945,SM 11,SN 6,W 7 MASTER CLUBS,PRISON,TEENS KJB,LANDMARK-BC-FL PO BOX 233 10011 HWY 301 S DADE CITY FL 34297 SS 10,SM 11,SN 6,W 7"
+    "description": "ANT CITY FL 33565 SS 945,SM 11,SN 6,W 7 MASTER CLUBS,PRISON,TEENS KJB,LANDMARK-BC-FL PO BOX 233 10011 HWY 301 S DADE CITY FL 34297 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "670",
@@ -702,7 +702,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT SUTTON. 3120 CLEVELAND HGTS BLVD LAKELAND FL 33803 SS 930,SM 1030,SN 6,W 7 KINGS KIDS,CHOIR, SERMONS ONLINE KJB church."
+    "description": "LAKELAND FL 33803 SS 930,SM 1030,SN 6,W 7 KINGS KIDS,CHOIR, SERMONS ONLINE KJB church"
   },
   {
     "id": "671",
@@ -721,7 +721,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIM STINE. 5177 CAPITOL CIRCLE SW TALLAHASSEE FL 32310 SS 10, AM 11, PM 6, W 6 BUS, AWANA, TEEN, SENIOR SAINTS, SOULWINNING KJB church."
+    "description": "TALLAHASSEE FL 32310 SS 10, AM 11, PM 6, W 6 BUS, AWANA, TEEN, SENIOR SAINTS, SOULWINNING KJB church"
   },
   {
     "id": "672",
@@ -739,7 +739,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL VROMAN. 1167 CR 479 LAKE PANASOFFKEE FL 33538 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "1167 CR 479 LAKE PANASOFFKEE FL 33538 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "673",
@@ -757,7 +757,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BENOIT GEORGE. PO BOX 637 27388 W 1ST AVE HILLIARD FL 32046 SS 10,SM 11,SN 7,W 7 CHRISTIAN SCHOOL, K5-12,ABEKA DVD 3134 TROUT RIVER BLVD JACKSONVILLE FL 32208 KJB church."
+    "description": "PO BOX 637 HILLIARD FL 32046 SS 10,SM 11,SN 7,W 7 CHRISTIAN SCHOOL, K5-12,ABEKA DVD 3134 TROUT RIVER BLVD JACKSONVILLE FL 32208 KJB church"
   },
   {
     "id": "674",
@@ -775,7 +775,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DWAINE JOHNSON.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "675",
@@ -793,7 +793,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY CARTER. 211 MADISON AVE DAYTONA BEACH FL 32114 SS 11, SM 1130,W 730 KJB church."
+    "description": "DAYTONA BEACH FL 32114 SS 11, SM 1130,W 730 KJB church"
   },
   {
     "id": "676",
@@ -811,7 +811,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARNE PALMANI. 1221 SHACKLETON RD JACKSONVILLE FL 32211 SS 10,SM 11,W 7 KJB,HYLES"
+    "description": "JACKSONVILLE FL 32211 SS 10,SM 11,W 7 KJB,HYLES"
   },
   {
     "id": "677",
@@ -829,7 +829,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE REDMAN. 4222 S FLORIDA AVE INVERNESS FL 34450 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "INVERNESS FL 34450 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "678",
@@ -847,7 +847,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH NORMAN. 12790 72ND TERRACE LIVE OAK FL 32060 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "12790 72ND TERRACE LIVE OAK FL 32060 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "679",
@@ -865,12 +865,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS A HUNTER JR. 2750 MCNEIL RD FT PIERCE FL 34981 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "FT PIERCE FL 34981 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "680",
     "name": "PLANTATION BAPTIST CHURCH",
-    "address": "11700 NW 28TH CT",
+    "address": "3 AUDIO SERMONS ONLINE PB CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "11700",
@@ -883,7 +883,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TORREY DISMUKE. 11700 NW 28TH CT PLANTATION FL 33323 SS 10,SM 11,SN 6,W 7 SINGLES, SENIORS, YOUTH, TEENS, CHOIR MP3 AUDIO SERMONS ONLINE PB CHRISTIAN SCHOOL, K5-12, ABEKA PO BOX 452 604 W MACCLENNY AVE MACCLENNY FL 3 KJB church."
+    "description": "11700 NW 28TH CT PLANTATION FL 33323 SS 10,SM 11,SN 6,W 7 SINGLES, SENIORS, YOUTH, TEENS, CHOIR MPIAN SCHOOL, K5-12, ABEKA PO BOX 452 604 W MACCLENNY AVE MACCLENNY FL 3 KJB church"
   },
   {
     "id": "681",
@@ -901,7 +901,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PATRICK WRAIGHT. 10886 SR 51 LIVE OAK FL 32060 SS 10,SM 11,SN 2,W 7 KJB church."
+    "description": "10886 SR 51 LIVE OAK FL 32060 SS 10,SM 11,SN 2,W 7 KJB church"
   },
   {
     "id": "682",
@@ -919,7 +919,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE NORMAN. 11859 NE STATE RD 121 LAKE BUTLER, FL 32054 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "LAKE BUTLER, FL 32054 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "683",
@@ -937,7 +937,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "144 SE MONTROSE AVE LAKE CITY FL 32025 SS 10,SM 11,SN 6,W 730"
+    "description": "LAKE CITY FL 32025 SS 10,SM 11,SN 6,W 730"
   },
   {
     "id": "684",
@@ -974,7 +974,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ADAM WILDER. KJB, UNAFFILIATED 6300 OAKLEY BLVD"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "686",
@@ -992,7 +992,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "SS 930,SM 1030,SN 630,W 7 SOULWINNING,PATCH CLUBS,"
+    "description": "SS 930,SM 1030,SN 630,W 7 SOULWINNING,PATCH CLUBS"
   },
   {
     "id": "687",
@@ -1011,12 +1011,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM HEWITT. ABEKA, ACSI (ASSOCIATION OF CHRISTIAN SCHOOLS INTERNATIONAL) 3055 SATTERFIELD RD TITUSVILLE FL 32780 SS 950,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB,UNAFFILIATED"
+    "description": "ABEKA, ACSI (ASSOCIATION OF CHRISTIAN SCHOOLS INTERNATIONAL) TITUSVILLE FL 32780 SS 950,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB,UNAFFILIATED"
   },
   {
     "id": "688",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "4422 GUN CLUB RD",
+    "address": "4422 GUN CLUB RD WEST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1030,7 +1030,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOMMIE R DANLEY. 4422 GUN CLUB RD WEST PALM BEACH FL 33406 SS 945,SM 11,SN 630,W 630 BUS, CHILDREN, MUSIC KJB,UNAFFILIATED"
+    "description": "PALM BEACH FL 33406 SS 945,SM 11,SN 630,W 630 BUS, CHILDREN, MUSIC KJB,UNAFFILIATED"
   },
   {
     "id": "689",
@@ -1048,7 +1048,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SERGIO REYES. 8613 HIGHWAY 90 MILTON FL 32583 SS 10, SM 11, SN 6, W 7 WHITING FIELD 10 MILES, NAS 35 MILES KJB church."
+    "description": "MILTON FL 32583 SS 10, SM 11, SN 6, W 7 WHITING FIELD 10 MILES, NAS 35 MILES KJB church"
   },
   {
     "id": "690",
@@ -1067,7 +1067,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBERT DAVIS. 2980 N WICKHAM RD MELBOURNE FL 32935 SS 945,SM 11,SN 630,W 730 AWANA,CHOIR,PROTEENS PATRICK AFB,CAPE KENNEDY KJB,UNAFFILIATED 3170 HOWLAND BLVD DELTONA FL 32725 SS 9, SM 10,SN 6,W 7 TEEN, PATCH THE PI"
+    "description": "MELBOURNE FL 32935 SS 945,SM 11,SN 630,W 730 AWANA,CHOIR,PROTEENS PATRICK AFB,CAPE KENNEDY KJB,UNAFFILIATED 3170 HOWLAND BLVD DELTONA FL 32725 SS 9, SM 10,SN 6,W 7 TEEN, PATCH THE PI"
   },
   {
     "id": "691",
@@ -1085,12 +1085,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID E WALKER. 3520 JOHNSON STRIPLING RD PERRY FL 32347 285 N MAGNOLIA ST MONTICELLO FL 32344 SS 945, SM 11, SN 630, W 7 CHOIR,FOOD PANTRY,TEEN TRAC CLUB, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "PERRY FL 32347 285 N MAGNOLIA ST MONTICELLO FL 32344 SS 945, SM 11, SN 630, W 7 CHOIR,FOOD PANTRY,TEEN TRAC CLUB, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "692",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "107 HOLLISTER CHURCH RD",
+    "address": "107 HOLLISTER CHURCH RD HOLLIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1103,7 +1103,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY DICKMAN. PO BOX 118 107 HOLLISTER CHURCH RD HOLLISTER FL 32147 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 118 ER FL 32147 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "693",
@@ -1121,12 +1121,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAY LAVON LOWE. 3803 WIMBLEDON DR PENSACOLA FL 32504 SS 10,SM 11,SN 7,W 7 “Consider Him” on WTGF 90.5 FM (Monday and Thursday 730 AM) PENSACOLA NAS KJB church."
+    "description": "PENSACOLA FL 32504 SS 10,SM 11,SN 7,W 7 “Consider Him” on WTGF 90.5 FM (Monday and Thursday 730 AM) PENSACOLA NAS KJB church"
   },
   {
     "id": "694",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "9401 4TH ST N",
+    "address": "630 LIBERTY CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1140,7 +1140,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RALPH FLOWERS. 9401 4TH ST N ST PETERSBURG FL 33702 SS 915,SM 1030,W 630 LIBERTY CHRISTIAN SCHOOL K1-5 MCDILL AFB KJB, BBF"
+    "description": "9401 4TH ST N ST PETERSBURG FL 33702 SS 915,SM 1030,W IAN SCHOOL K1-5 MCDILL AFB KJB, BBF"
   },
   {
     "id": "695",
@@ -1158,12 +1158,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON SETZER. 1130 ROGERO RD JACKSONVILLE FL 32211 SS 930,SM 1030,SN 630,W 7 KJB church."
+    "description": "JACKSONVILLE FL 32211 SS 930,SM 1030,SN 630,W 7 KJB church"
   },
   {
     "id": "696",
     "name": "REDEMPTION BAPTIST CHURCH",
-    "address": "156 N RIFLE RANGE RD",
+    "address": "156 N RIFLE RANGE RD WINTER HAVE",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1176,7 +1176,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES WINTERBAUER. 156 N RIFLE RANGE RD WINTER HAVEN FL 33880 KJB church."
+    "description": "N FL 33880 KJB church"
   },
   {
     "id": "697",
@@ -1195,7 +1195,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RYAN M PRICE. 5401 CURRY FORD RD ORLANDO FL  32807 SS 10,SM 11,SN 630,W 730 KJB, MASORETIC, TEXTUS RECEPTUS, UNAFFILIATED"
+    "description": "ORLANDO FL 32807 SS 10,SM 11,SN 630,W 730 KJB, MASORETIC, TEXTUS RECEPTUS, UNAFFILIATED"
   },
   {
     "id": "698",
@@ -1213,12 +1213,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM RUSS. 4907 NE 9TH AVE OAKLAND PARK FL 33334 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "OAKLAND PARK FL 33334 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "699",
     "name": "CENTRAL BAPTIST CHURCH OF FLAGLER CO",
-    "address": "",
+    "address": "100 PALM COAST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1231,7 +1231,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES H TAYLOR. 5830 SR 100 PALM COAST FL 32110 SS 10,SM 11,W 7 KJB church."
+    "description": "5830 SR FL 32110 SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "700",
@@ -1251,7 +1251,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TERRY PERMENTER. 5465 CR 208 ST AUGUSTINE FL 32092 SS 10,SM 11,W 7 KJB,UNAFFILIATED TALLAHASSEE FL 32303 SS 10,SM 11,SN 6,W 7 SOULWINNING, STREET PREACHING KJB, CROWN, WCBC, PCC 6918 S SPARTAN AVE HOMOSASSA FL 34446 S"
+    "description": "5465 CR 208 ST AUGUSTINE FL 32092 SS 10,SM 11,W 7 KJB,UNAFFILIATED TALLAHASSEE FL 32303 SS 10,SM 11,SN 6,W 7 SOULWINNING, STREET PREACHING KJB, CROWN, WCBC, PCC HOMOSASSA FL 34446 S"
   },
   {
     "id": "701",
@@ -1269,12 +1269,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS CRAWLEY. 2550 W NINE MILE RD PENSACOLA FL  32534 SS 915,SM 1030,SN 6,W 7 PENSACOLA NAS 18 MILES AWANA,TEENS,SERMONS ONLINE KJB, PBI, TBDI"
+    "description": "PENSACOLA FL 32534 SS 915,SM 1030,SN 6,W 7 PENSACOLA NAS 18 MILES AWANA,TEENS,SERMONS ONLINE KJB, PBI, TBDI"
   },
   {
     "id": "702",
     "name": "OAK HILL BAPTIST CHURCH",
-    "address": "8060 OSCEOLA POLK LINE RD",
+    "address": "8060 OSCEOLA POLK LINE RD DAVE",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1287,7 +1287,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by W R BOEHM. PO BOX 112 LOUGHMAN FL 33858 8060 OSCEOLA POLK LINE RD DAVENPORT FL 33896 SS 10 SM 11 LUNCH 12 SSN 1 SN 2 W 7 KJB,CROWN-BC"
+    "description": "PO BOX 112 LOUGHMAN FL 33858 NPORT FL 33896 SS 10 SM 11 LUNCH 12 SSN 1 SN 2 W 7 KJB,CROWN-BC"
   },
   {
     "id": "703",
@@ -1307,12 +1307,12 @@ export const floridaChurches: Church[] = [
       "ABA",
       "SBC"
     ],
-    "description": "Led by KERRY NANCE. PO BOX 947 ESTERO FL  33928 7327 SANIBEL BLVD, FORT MYERS FL 33928 SS 9,SM 10,SN 6,W 7 3911 W BAY AVE TAMPA FL 33616 SS 10, SM 11, SN 6, W 7 1/2 mile North of MacDill AFB KJB,ABA,ROBERSON,ROLOFF,CARTE"
+    "description": "PO BOX 947 ESTERO FL 33928 , FORT MYERS FL 33928 SS 9,SM 10,SN 6,W 7 3911 W BAY AVE TAMPA FL 33616 SS 10, SM 11, SN 6, W 7 1/2 mile North of MacDill AFB KJB,ABA,ROBERSON,ROLOFF,CARTE"
   },
   {
     "id": "704",
     "name": "FIRST INDEPENDENT BAPTIST CHURCH",
-    "address": "5123 EASTLAND ST",
+    "address": "5123 EASTLAND ST CREST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1326,7 +1326,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHAD PERDUE. 5123 EASTLAND ST CRESTVIEW FL 32539 SS 10,SM 11,SN 530,W 530 EGLIN AFB 20MI,HURLBURT 30MI,DUKE F 8 MILES 1950 MICHIGAN AVE COCOA FL 32922 SS 10,SM 11,SN 6,W 7 SPACE COAST CHRISTIAN ACADEMY,PRE K-12,AB KJB church."
+    "description": "VIEW FL 32539 SS 10,SM 11,SN 530,W 530 EGLIN AFB 20MI,HURLBURT 30MI,DUKE F 8 MILES 1950 MICHIGAN AVE COCOA FL 32922 SS 10,SM 11,SN 6,W 7 SPACE COAST CHRISTIAN ACADEMY,PRE K-12,AB KJB church"
   },
   {
     "id": "705",
@@ -1344,7 +1344,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DINO HATEM SR.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "706",
@@ -1364,7 +1364,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by HENRY C KISH. PO BOX 1134 DAVENPORT FL 33836-1134 721 SYLVAN RAMBLE RD, 33837 SS 10,SM 11,SN 6,W 730 OLD FASHIONED, FUNDAMENTAL, SEPARATED, PRE-TRIB, PRE-MIL KJB,TRAD-MUSIC PO BOX 4025 883 AENON CHURCH RD TALLAHASS"
+    "description": "PO BOX 1134 DAVENPORT FL 33836-1134 , 33837 SS 10,SM 11,SN 6,W 730 OLD FASHIONED, FUNDAMENTAL, SEPARATED, PRE-TRIB, PRE-MIL KJB,TRAD-MUSIC PO BOX 4025 883 AENON CHURCH RD TALLAHASS"
   },
   {
     "id": "707",
@@ -1382,7 +1382,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK PALMA. 4463 BRYAN AVE KISSIMMEE FL 34746 SS 10,SM 11,SN 5,W 7 KJB, RVR 1960,PROVIDENCE"
+    "description": "KISSIMMEE FL 34746 SS 10,SM 11,SN 5,W 7 KJB, RVR 1960,PROVIDENCE"
   },
   {
     "id": "708",
@@ -1401,7 +1401,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PALMA IS BILINGUAL. 2951 W MIDWAY RD FT PIERCE FL 34981 SS 1030,SM 1130,SN 5,W 7 BUS, SOULWINNING, ACADEMY SERVICES PROVIDED IN BOTH LANGUAGES KJB church."
+    "description": "FT PIERCE FL 34981 SS 1030,SM 1130,SN 5,W 7 BUS, SOULWINNING, ACADEMY SERVICES PROVIDED IN BOTH LANGUAGES KJB church"
   },
   {
     "id": "709",
@@ -1420,7 +1420,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEVIN LONG. PO BOX 730967 428 TOMOKA AVE ORMOND BEACH FL 32173 SM 1030,SN 6,W 7 EVANGELISM, DISCIPLESHIP, CHILDRENS,SENIORS KJB church."
+    "description": "PO BOX 730967 ORMOND BEACH FL 32173 SM 1030,SN 6,W 7 EVANGELISM, DISCIPLESHIP, CHILDRENS,SENIORS KJB church"
   },
   {
     "id": "710",
@@ -1439,7 +1439,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ALBERT LORENZO. PO BOX 10009 1661 W JEFFERSON ST BROOKSVILLE FL 34601-2407 SS 945, SM 11, SN 630, W 7 KJB church."
+    "description": "PO BOX 10009 BROOKSVILLE FL 34601-2407 SS 945, SM 11, SN 630, W 7 KJB church"
   },
   {
     "id": "711",
@@ -1458,7 +1458,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RYAN WORTMAN. 100 CYPRESS LAKE DR ROYAL PALM BEACH FL 33411 SS 945,SM 11,SN 7,W 7 YOUTH,LADIES,MEN,SOULWINNING, pre-millenial, non-charismatic, non-Calvinistic, and conservative KJB church."
+    "description": "ROYAL PALM BEACH FL 33411 SS 945,SM 11,SN 7,W 7 YOUTH,LADIES,MEN,SOULWINNING, pre-millenial, non-charismatic, non-Calvinistic, and conservative KJB church"
   },
   {
     "id": "712",
@@ -1476,12 +1476,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAY SHEPPARD. 251 LLEWELLYN AVE LAKE CITY FL 32025 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "LAKE CITY FL 32025 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "713",
     "name": "TRI-CITY BAPTIST CHURCH",
-    "address": "24058 HERITAGE PL",
+    "address": "5940 MASSACHUSETTS AVE",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "24058",
@@ -1494,7 +1494,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA MARTIN. 24058 HERITAGE PL PORT CHARLOTTE FL 33980 MP3 AUDIO SERMONS ONLINE 5940 MASSACHUSETTS AVE NEW PORT RICHEY FL 34652-1815 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER 9847 SR 54 NEW PORT RICHEY FL 34655 SS  KJB church."
+    "description": "PORT CHARLOTTE FL 33980 MP3 AUDIO SERMONS ONLINE NEW PORT RICHEY FL 34652-1815 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER 9847 SR 54 NEW PORT RICHEY FL 34655 SS KJB church"
   },
   {
     "id": "714",
@@ -1513,7 +1513,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ERIC R JUSTICE. 590 S COUNTRY CLUB RD LAKE MARY FL  32746 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED"
+    "description": "LAKE MARY FL 32746 SS 10,SM 11,SN 6,W 730 KJB,UNAFFILIATED"
   },
   {
     "id": "715",
@@ -1532,7 +1532,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRENT WHITTLE. 8635 W GOODMAN LANE HOMOSASSA FL 34448 SS 945,SM 11,SN 6,W 7 TRUE LIGHT COLLEGE OF THE BIBLE, RADIO KJB,UNAFFILIATED PO BOX 1296 321 EVA AVE NE LIVE OAK FL 32060 SS 10,SM 11,SN 6,W 7 BUS,RADIO, PROPHE"
+    "description": "HOMOSASSA FL 34448 SS 945,SM 11,SN 6,W 7 TRUE LIGHT COLLEGE OF THE BIBLE, RADIO KJB,UNAFFILIATED PO BOX 1296 321 EVA AVE NE LIVE OAK FL 32060 SS 10,SM 11,SN 6,W 7 BUS,RADIO, PROPHE"
   },
   {
     "id": "716",
@@ -1550,12 +1550,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN HART.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "717",
     "name": "HIGHLANDS BAPTIST CHURCH",
-    "address": "216 E PARK ST",
+    "address": "216 E PARK ST LAKE PL",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1568,7 +1568,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD HICKS. 216 E PARK ST LAKE PLACID FL 33852 SS 10,SM 11,SN 6,W 7 171 HWY 97 MOLINO FL 32577 SS 10,SM 11,SN 7,W 7 PO BOX 326 INTERLACHEN FL  32148-5426 SS 10,SM  11,SN 630,W 7 FAITH CHRISTIAN ACADEMY,K-12 KJB church."
+    "description": "ACID FL 33852 SS 10,SM 11,SN 6,W 7 171 HWY 97 MOLINO FL 32577 SS 10,SM 11,SN 7,W 7 PO BOX 326 INTERLACHEN FL 32148-5426 SS 10,SM 11,SN 630,W 7 FAITH CHRISTIAN ACADEMY,K-12 KJB church"
   },
   {
     "id": "718",
@@ -1586,7 +1586,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RALPH DURHAM. 1499 CHEMSTRAND RD CANTONMENT FL 32533 SS 10,SM 11,SN 6,W 7 YOUTH, MASTERS CLUB, SINGLES, CHOIR, BUS PENSACOLA NAS 10 MILES PO BOX 67 116 SW 12TH AVE LAKE BUTLER FL 32054 SM 11,SN 6 1601 A D MIMS RD O KJB church."
+    "description": "CANTONMENT FL 32533 SS 10,SM 11,SN 6,W 7 YOUTH, MASTERS CLUB, SINGLES, CHOIR, BUS PENSACOLA NAS 10 MILES PO BOX 67 116 SW 12TH AVE LAKE BUTLER FL 32054 SM 11,SN 6 1601 A D MIMS RD O KJB church"
   },
   {
     "id": "719",
@@ -1604,7 +1604,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BREWER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "720",
@@ -1622,7 +1622,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN LONIX. 115 N CHRISTIANA APOPKA FL 32704 SM 1030,SN 630,W 7 BUS, CHILDRENS CHURCH, TAPE KJB church."
+    "description": "APOPKA FL 32704 SM 1030,SN 630,W 7 BUS, CHILDRENS CHURCH, TAPE KJB church"
   },
   {
     "id": "721",
@@ -1640,12 +1640,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL A WAPINSKY. PO BOX 77538 305 W 41ST ST JACKSONVILLE FL 32218 SS 10,SM 11,SN 6,W 7 642 NE 20TH ST OCALA FL 34470 SS 930,SM 1030,SN 630,W 7 PATCH PIRATE KJB church."
+    "description": "PO BOX 77538 JACKSONVILLE FL 32218 SS 10,SM 11,SN 6,W 7 642 NE 20TH ST OCALA FL 34470 SS 930,SM 1030,SN 630,W 7 PATCH PIRATE KJB church"
   },
   {
     "id": "722",
     "name": "GARDENS BAPTIST CHURCH",
-    "address": "2731 MORNINGSIDE BLVD",
+    "address": "2731 MORNINGSIDE BLVD PORT ST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1658,7 +1658,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG NEAL. 2731 MORNINGSIDE BLVD PORT ST LUCIE FL 34952 KJB,UNAFFLIATED"
+    "description": "LUCIE FL 34952 KJB,UNAFFLIATED"
   },
   {
     "id": "723",
@@ -1677,7 +1677,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEN PLEDGER. 12046 NORMANDY BLVD JACKSONVILLE FL 32221 SS 1020,SM 9,SN 5,TH 7 1532 LONG BAY RD MIDDLEBURG FL 32068 SS 945,SM 11,SN 7,W 730 BUS,TEEN,SOULWINNING CALVARY CHRISTIAN ACADEMY,K5-12 CO-PASTORS GARY R JAC KJB church."
+    "description": "JACKSONVILLE FL 32221 SS 1020,SM 9,SN 5,TH 7 1532 LONG BAY RD MIDDLEBURG FL 32068 SS 945,SM 11,SN 7,W 730 BUS,TEEN,SOULWINNING CALVARY CHRISTIAN ACADEMY,K5-12 CO-PASTORS GARY R JAC KJB church"
   },
   {
     "id": "724",
@@ -1695,12 +1695,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD PURDY. PROPHETS CHAMBER KJB church."
+    "description": "PROPHETS CHAMBER KJB church"
   },
   {
     "id": "725",
     "name": "SPACE COAST BAPTIST CHURCH",
-    "address": "223 N SAMSULA DR",
+    "address": "7 SPACE COAST CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1713,7 +1713,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE BARBER. 223 N SAMSULA DR NEW SMYRNA BEACH FL 32168 SS 9,SM 10,SN 5,W 7 SPACE COAST CHRISTIAN ACADEMY,K-12 KJB church."
+    "description": "NEW SMYRNA BEACH FL 32168 SS 9,SM 10,SN 5,W IAN ACADEMY,K-12 KJB church"
   },
   {
     "id": "726",
@@ -1731,12 +1731,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6021 WILLIAMS RD SEFFNER FL 33584 SS 930,SM 1030,SN 6,W 7"
+    "description": "SEFFNER FL 33584 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "727",
     "name": "HILLSBOROUGH BAPTIST SCHOOL",
-    "address": "",
+    "address": "PO BOX 248",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1749,12 +1749,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EMORY KING. PO BOX 248 8099 SR 471 WEBSTER FL 33597 SS 10,SM 11,SN 6,W 7 KJB,WBF"
+    "description": "8099 SR ER FL 33597 SS 10,SM 11,SN 6,W 7 KJB,WBF"
   },
   {
     "id": "728",
     "name": "PINE LEVEL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 596",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1768,7 +1768,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BARRY NIXON. PO BOX 596 7844 SR 100 W STARKE FL 32901 SS 945,SM 11,SN 7,WED AWA 645,W 7 BUS,CC, SOULWINNING,BUS-VAN,NURSERY, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "7844 SR ARKE FL 32901 SS 945,SM 11,SN 7,WED AWA 645,W 7 BUS,CC, SOULWINNING,BUS-VAN,NURSERY, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "729",
@@ -1789,12 +1789,12 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by JASON B STEPHENS. 815 W ORIENT TAMPA FL 33603 SS 945,SM 11,SN 630,W 7 SMYRNA CHRISTIAN ACADEMY PO BOX 1517 7207 N SR 21 KEYSTONE HEIGHTS FL 32656-1517 SS 9,SM 10,SN 630,W 7 BUS, AWANA, CHILDREN’S CHURCH, IMPACT TEENS,  KJB church."
+    "description": "815 W ORIENT TAMPA FL 33603 SS 945,SM 11,SN 630,W 7 SMYRNA CHRISTIAN ACADEMY PO BOX 1517 7207 N SR 21 KEYSTONE HEIGHTS FL 32656-1517 SS 9,SM 10,SN 630,W 7 BUS, AWANA, CHILDREN’S CHURCH, IMPACT TEENS, KJB church"
   },
   {
     "id": "730",
     "name": "ANCIENT BAPTIST PRESS",
-    "address": "7 SW 129TH AVE",
+    "address": "730 CROSSWALK CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1807,12 +1807,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANE KEELY. SANDY CREEK REVIVAL – GOSPEL BLUEGRASS 7 SW 129TH AVE PEMBROKE PINES FL 33027 SS 945,SM 1045,SN 6,W 730 CROSSWALK CHRISTIAN COMMUNITY 1603 E BLOOMINGDALE VALRICO FL 33954 KJB church."
+    "description": "SANDY CREEK REVIVAL – GOSPEL BLUEGRASS 7 SW 129TH AVE PEMBROKE PINES FL 33027 SS 945,SM 1045,SN 6,W IAN COMMUNITY 1603 E BLOOMINGDALE VALRICO FL 33954 KJB church"
   },
   {
     "id": "731",
     "name": "FIRST BAPTIST CHURCH OF BITHLO",
-    "address": "18415 11TH AVE",
+    "address": "1200 PROVIDENCE BLVD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "18415",
@@ -1825,7 +1825,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY SWANSON. 18415 11TH AVE BITHLO FL 32833 1200 PROVIDENCE BLVD DELTONA FL 32725 SS 945,SM 11,SN 6,W 7 DELTONA CHRISTIAN SCHOOL,PS-12 KJB church."
+    "description": "18415 11TH AVE BITHLO FL 32833 DELTONA FL 32725 SS 945,SM 11,SN 6,W 7 DELTONA CHRISTIAN SCHOOL,PS-12 KJB church"
   },
   {
     "id": "732",
@@ -1843,7 +1843,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK SEIRS. 1708 S RIDGEWOOD AVE EDGEWATER FL 32132 SS 10 SM 11 SN 6 WED 7 KJB church."
+    "description": "EDGEWATER FL 32132 SS 10 SM 11 SN 6 WED 7 KJB church"
   },
   {
     "id": "733",
@@ -1862,12 +1862,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by PAUL HARRIS. 261 S ORANGE AVE ORANGE CITY FL 32763 SM 830 & 10,SN 6,TH 7 WMA AUDIO SERMONS & MUSIC ONLINE KJB church."
+    "description": "ORANGE CITY FL 32763 SM 830 & 10,SN 6,TH 7 WMA AUDIO SERMONS & MUSIC ONLINE KJB church"
   },
   {
     "id": "734",
     "name": "NEW HOPE INDEPENDENT BAPTIST CHURCH",
-    "address": "1051 YAUN RD SE",
+    "address": "1051 YAUN RD SE MOORE HAVE",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1882,7 +1882,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TOM SHAVERS. 1051 YAUN RD SE MOORE HAVEN FL 33471 SS 10,SM 11,SN 6,W 6 12846 BALM RIVERVIEW RD RIVERVIEW FL 33569 SS 10,SM 11,SN 630,W 730 BUS, SOULWINNING, PATCH PIRATE, TEEN, WMA AUDIO MUSIC ONLINE KJB church."
+    "description": "N FL 33471 SS 10,SM 11,SN 6,W 6 12846 BALM RIVERVIEW RD RIVERVIEW FL 33569 SS 10,SM 11,SN 630,W 730 BUS, SOULWINNING, PATCH PIRATE, TEEN, WMA AUDIO MUSIC ONLINE KJB church"
   },
   {
     "id": "735",
@@ -1900,7 +1900,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK E STALNAKER. 4243 E LUMSDEN RD VALRICO FL 33594 E LUMSDEN & MULRENAN SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "VALRICO FL 33594 E LUMSDEN & MULRENAN SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "736",
@@ -1920,12 +1920,12 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DANNY FOURAKER. 820 S 14TH ST FERNANDINA BEACH FL 32034 SS 10,SM 11,SN 6,W 7 PATCH PIRATE 325 SW 6TH ST LAKE BUTLER FL 32054 SM 1045,SN 6,W 7 PROPHETS CHAMBER 1714 SE 36TH AVE OCALA FL 34471 SS 945,SM 11,SN 7,W 730 M KJB church."
+    "description": "FERNANDINA BEACH FL 32034 SS 10,SM 11,SN 6,W 7 PATCH PIRATE 325 SW 6TH ST LAKE BUTLER FL 32054 SM 1045,SN 6,W 7 PROPHETS CHAMBER 1714 SE 36TH AVE OCALA FL 34471 SS 945,SM 11,SN 7,W 730 M KJB church"
   },
   {
     "id": "737",
     "name": "TRINITY BAPTIST SATELLITE SCHOOLS",
-    "address": "",
+    "address": "4 YEAR BIBLE PROGRAM Located one half mile from Bell Ln in Pea Ridge heading East",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1938,7 +1938,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL W WATKINS. BAPTIST INSTITUTE, 4 YEAR BIBLE PROGRAM Located one half mile from Bell Ln in Pea Ridge heading East on Hwy 90 KJB,HYLES,GRAY-TX 18530 SR 44 EUSTIS FL 32736 SS 945,SM 11,SN 7,W 730 LIGHTHOUSE CHRISTIA"
+    "description": "BAPTIST INSTITUTE, on Hwy 90 KJB,HYLES,GRAY-TX 18530 SR 44 EUSTIS FL 32736 SS 945,SM 11,SN 7,W 730 LIGHTHOUSE CHRISTIA"
   },
   {
     "id": "738",
@@ -1957,7 +1957,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DOUG STAUFFER. 320 US 27 CLERMONT FL 34714 SOULWINNING, HARD PREACHING, FAMILY INTEGRATED SERVICES KJB church."
+    "description": "320 US 27 CLERMONT FL 34714 SOULWINNING, HARD PREACHING, FAMILY INTEGRATED SERVICES KJB church"
   },
   {
     "id": "739",
@@ -1976,12 +1976,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STAUFFER. 1309 VALPARAISO BLVD NICEVILLE FL 32578 SS 10, SM 11, SN 6,W 7 EGLIN AFB, HURLBURT FIELD, DESTIN, FT WALTON KJB,UNAFFILIATED"
+    "description": "NICEVILLE FL 32578 SS 10, SM 11, SN 6,W 7 EGLIN AFB, HURLBURT FIELD, DESTIN, FT WALTON KJB,UNAFFILIATED"
   },
   {
     "id": "740",
     "name": "MILL CREEK BAPTIST CHURCH",
-    "address": "",
+    "address": "16 ST AUGUST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -1994,7 +1994,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM GREEN. 6019A SR 16 ST AUGUSTINE FL 32092 SS 10,SM 11,SN 7,W 730 CAMP, SENIORS, CHRISTIAN SCHOOL,K5-12 KJB church."
+    "description": "6019A SR INE FL 32092 SS 10,SM 11,SN 7,W 730 CAMP, SENIORS, CHRISTIAN SCHOOL,K5-12 KJB church"
   },
   {
     "id": "741",
@@ -2013,12 +2013,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TODD HILL. 651 S ADAMS ST TALLAHASSEE FL 32351 SS 10,SM 11,SN 7,W 730 5411 GREENSBORO HWY QUINCY FL 32351 SM 1030,SN 6,W 7 4646 E HWY 98 PANAMA CITY FL 32404 Near PARKER FL SS 10,SM 11,W 7 TYNDALL AFB KJB church."
+    "description": "TALLAHASSEE FL 32351 SS 10,SM 11,SN 7,W 730 5411 GREENSBORO HWY QUINCY FL 32351 SM 1030,SN 6,W 7 4646 E HWY 98 PANAMA CITY FL 32404 Near PARKER FL SS 10,SM 11,W 7 TYNDALL AFB KJB church"
   },
   {
     "id": "742",
     "name": "CENTRAL PARK BAPTIST CHURCH",
-    "address": "1170 N HOWELL AVE",
+    "address": "410 WINGARD ST CREST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2031,7 +2031,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE MATHESON. 1170 N HOWELL AVE BROOKSVILLE FL 34601 KJB,FELLURE 410 WINGARD ST CRESTVIEW FL 32539 SS 10,SM 11,SN 6,W 7 PDF SERMONS ONLINE KJB,TRAD. MUSIC,PRE-MIL, 1905 W 11TH ST PANAMA CITY FL 32401 SS 10,SM 11,SN"
+    "description": "BROOKSVILLE FL 34601 KJB,FELLURE VIEW FL 32539 SS 10,SM 11,SN 6,W 7 PDF SERMONS ONLINE KJB,TRAD. MUSIC,PRE-MIL, 1905 W 11TH ST PANAMA CITY FL 32401 SS 10,SM 11,SN"
   },
   {
     "id": "743",
@@ -2049,7 +2049,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH C MOTT. 3445 LUKE ST PENSACOLA FL 32505 SS 10,SM 11,SN 545,W 7 EGLIN AFB MP3 AUDIO SERMONS ONLINE KJB,IBFI"
+    "description": "PENSACOLA FL 32505 SS 10,SM 11,SN 545,W 7 EGLIN AFB MP3 AUDIO SERMONS ONLINE KJB,IBFI"
   },
   {
     "id": "744",
@@ -2067,7 +2067,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HENRY LEWIS. 14 STUMPFIELD RD PENSACOLA FL 32503 SS 945,SM 11,SN 6,W 7 PENSACOLA NAS KJB church."
+    "description": "PENSACOLA FL 32503 SS 945,SM 11,SN 6,W 7 PENSACOLA NAS KJB church"
   },
   {
     "id": "745",
@@ -2085,12 +2085,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY MULLENS. 2610 W LEONARD ST PENSACOLA FL 32505 EGLIN AFB, PENSACOLA NAS KJB church."
+    "description": "PENSACOLA FL 32505 EGLIN AFB, PENSACOLA NAS KJB church"
   },
   {
     "id": "746",
     "name": "GRACEWAY BAPTIST CHURCH",
-    "address": "6500 WESTMONT ST",
+    "address": "2824 W GONZALES ST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2103,7 +2103,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN COTTON. 6500 WESTMONT ST PENSACOLA FL 32514 2824 W GONZALES ST, 32505 EGLIN AFB KJB church."
+    "description": "PENSACOLA FL 32514 , 32505 EGLIN AFB KJB church"
   },
   {
     "id": "747",
@@ -2121,12 +2121,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CORY MCDONALD. PO BOX 18303 3906 N ANDREW AVE PENSACOLA FL 32505 SS 1030,SN 6,W 7 EGLIN AFB, PENSACOLA NAS KJB church."
+    "description": "PO BOX 18303 PENSACOLA FL 32505 SS 1030,SN 6,W 7 EGLIN AFB, PENSACOLA NAS KJB church"
   },
   {
     "id": "748",
     "name": "YUKON BAPTIST CHURCH",
-    "address": "4552 120TH ST",
+    "address": "2200 W MICHIGAN AVE",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2140,7 +2140,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM HUNTER. 4552 120TH ST JACKSONVILLE FL 32244 SM 10,W 630 A VOICE CRYING IN THE WILDERNESS-NEWSLETTER AUDIO SERMONS ONLINE CO-PASTORS JERALD MANLEY & JODY WOLF KJB,UNAFFILIATED,PCC 2200 W MICHIGAN AVE PENSACOLA"
+    "description": "4552 120TH ST JACKSONVILLE FL 32244 SM 10,W 630 A VOICE CRYING IN THE WILDERNESS-NEWSLETTER AUDIO SERMONS ONLINE CO-PASTORS JERALD MANLEY & JODY WOLF KJB,UNAFFILIATED,PCC PENSACOLA"
   },
   {
     "id": "749",
@@ -2159,12 +2159,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM LEWIS. PO BOX 678 CENTURY FL 32535 5901 N CENTURY BLVD SS 10, SM 11, SN 6, W 7 PENSACOLA NAS 45 MILES KJB,UNAFFILIATED"
+    "description": "PO BOX 678 CENTURY FL 32535 SS 10, SM 11, SN 6, W 7 PENSACOLA NAS 45 MILES KJB,UNAFFILIATED"
   },
   {
     "id": "750",
     "name": "CRESTVIEW INDEPENDENT BAPTIST CHURCH",
-    "address": "600 FERNDON BLVD N",
+    "address": "600 FERNDON BLVD N CREST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2178,7 +2178,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by AL JONES. 600 FERNDON BLVD N CRESTVIEW FL 32536 SS 10,SM 11,SN 6,W 7 EGLIN AFB, HURLBURT FIELD KJB church."
+    "description": "VIEW FL 32536 SS 10,SM 11,SN 6,W 7 EGLIN AFB, HURLBURT FIELD KJB church"
   },
   {
     "id": "751",
@@ -2196,7 +2196,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICH BARNETT. 5540 S HWY A1A MELBOURNE FL 32951 SS 10,SM 11,SN 6,W 630 300 NE 15tTH ST NAZARENE BUILDING SS 10,SM 11,SN 6,W 7 KJB,SPANISH-RV 1909"
+    "description": "5540 S HWY A1A MELBOURNE FL 32951 SS 10,SM 11,SN 6,W 630 NAZARENE BUILDING SS 10,SM 11,SN 6,W 7 KJB,SPANISH-RV 1909"
   },
   {
     "id": "752",
@@ -2214,7 +2214,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "IGLESIA BAUTISTA DE HIALEAH 5700 W 12TH AVE"
+    "description": "IGLESIA BAUTISTA DE HIALEAH"
   },
   {
     "id": "753",
@@ -2233,7 +2233,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BARRY RUMSEY. HIALEAH FL 33010 SS 11,SM 4,W 8 820 COLLEGE AVE W RUSKIN FL 33570 SS 945,SM 830 & 11,SN 6,W 7 TEEN,AWANA,BUS,SENIORS,CHOIR, AUDIO SERMONS ONLINE RUSKIN CHRISTIAN SCHOOL,K-12 2020 E HINSON AVE HAINES C KJB church."
+    "description": "HIALEAH FL 33010 SS 11,SM 4,W 8 RUSKIN FL 33570 SS 945,SM 830 & 11,SN 6,W 7 TEEN,AWANA,BUS,SENIORS,CHOIR, AUDIO SERMONS ONLINE RUSKIN CHRISTIAN SCHOOL,K-12 2020 E HINSON AVE HAINES C KJB church"
   },
   {
     "id": "754",
@@ -2305,7 +2305,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAYMOND B HADLEY SR. KJB, BJU, CENTRAL FLORIDA IBC PREACHER’S FELLOWSHIP"
+    "description": "KJB, BJU, CENTRAL FLORIDA IBC PREACHER’S FELLOWSHIP"
   },
   {
     "id": "758",
@@ -2324,7 +2324,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LAMAR BREEDLOVE. 129 S WEKIWA SPRINGS RD APOPKA FL 32703 SS 945,SM 11,SN 6,W 7 SOULWINNING,ASSISTED LIVING DEVOTIONS,FAMILY ACTIVITIES KJB,HYLES"
+    "description": "APOPKA FL 32703 SS 945,SM 11,SN 6,W 7 SOULWINNING,ASSISTED LIVING DEVOTIONS,FAMILY ACTIVITIES KJB,HYLES"
   },
   {
     "id": "759",
@@ -2343,7 +2343,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DON WRUCK. 626 E KICKLIGHTER RD LAKE HELEN FL 32744 SS 10,SM 11,SN 7,W 715 PODCAST SERMONS ONLINE, SOULWINNING, BUS KJB,CROWN-BC,HYLES,WEST COAST,TIBS&S 3838 HOWELL BRANCH RD WINTER PARK FL 32792 SS 10,SM 11,SN"
+    "description": "LAKE HELEN FL 32744 SS 10,SM 11,SN 7,W 715 PODCAST SERMONS ONLINE, SOULWINNING, BUS KJB,CROWN-BC,HYLES,WEST COAST,TIBS&S 3838 HOWELL BRANCH RD WINTER PARK FL 32792 SS 10,SM 11,SN"
   },
   {
     "id": "760",
@@ -2362,7 +2362,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATT WALTERS. (SCHOOL-CHURCH ONLY) 27 MILES FROM WALT DISNEY WORLD, 24 MILES FROM UNIVERSAL STUDIOS KJB,HYLES 4300 N WICKHAM RD MELBOURNE FL 32935 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS ONLINE WADE CHRISTIAN ACADEMY, K"
+    "description": "(SCHOOL-CHURCH ONLY) , 24 MILES FROM UNIVERSAL STUDIOS KJB,HYLES 4300 N WICKHAM RD MELBOURNE FL 32935 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS ONLINE WADE CHRISTIAN ACADEMY, K"
   },
   {
     "id": "761",
@@ -2380,7 +2380,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MAX LLAMA. 2851 SPRING PARK RD JACKSONVILLE FL 32207 KJB,CROWN"
+    "description": "JACKSONVILLE FL 32207 KJB,CROWN"
   },
   {
     "id": "762",
@@ -2398,7 +2398,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETER MAASS. PO BOX 5554 5727 2ND AVE STOCK ISLAND FL 33040 SS 10,SM 11,SN 5,TH 7 KEY WEST NAS KJB church."
+    "description": "PO BOX 5554 STOCK ISLAND FL 33040 SS 10,SM 11,SN 5,TH 7 KEY WEST NAS KJB church"
   },
   {
     "id": "763",
@@ -2416,12 +2416,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA GOODWIN. 5020 PURITAN RD TAMPA FL 33687-6671 SM ENGLISH 930,SS 1030,SM SPANISH 1130,W 7 SPANISH SERVICES MCDILL AFB KJB church."
+    "description": "TAMPA FL 33687-6671 SM ENGLISH 930,SS 1030,SM SPANISH 1130,W 7 SPANISH SERVICES MCDILL AFB KJB church"
   },
   {
     "id": "764",
     "name": "INDEPENDENT BAPTIST CHURCH",
-    "address": "15880 HART RD NE",
+    "address": "7 FAITH BIBLE INST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "15880",
@@ -2435,7 +2435,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN MATEY. PO BOX 1872 5704 CR 17 S SEBRING FL 33870 SS 930,SM 1030,SN 6,W 7 MP3 AUDIO SERMONS ONLINE 15880 HART RD NE NORTH FORT MYERS FL 33917 SS 10,SM 11,SN 6,W 7 FAITH BIBLE INSTITUTE KJB, UNAFFILIATED, UNRE"
+    "description": "PO BOX 1872 5704 CR 17 S SEBRING FL 33870 SS 930,SM 1030,SN 6,W 7 MP3 AUDIO SERMONS ONLINE NORTH FORT MYERS FL 33917 SS 10,SM 11,SN 6,W ITUTE KJB, UNAFFILIATED, UNRE"
   },
   {
     "id": "765",
@@ -2453,7 +2453,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY SEAMAN. 2805 NE PINE ISLAND RD CAPE CORAL FL 33909 FORT MYERS AREA SS 10,SM 11,SN 6,W 7 SENIORS, BUS, KINGS KIDS, LADIES, VIDEO SERMONS ONLINE KJB church."
+    "description": "CAPE CORAL FL 33909 FORT MYERS AREA SS 10,SM 11,SN 6,W 7 SENIORS, BUS, KINGS KIDS, LADIES, VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "766",
@@ -2472,7 +2472,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ANTHONY AIKEN. 5770 WINKLER RD FORT MYERS FL 33919 SS 10,SM 11,SN 6,W 7 BUS, KINGS KIDS, TEEN, SOULWINNING, MP3 AUDIO SERMONS ONLINE KJB,WCBC,PCC 4401 S 25TH ST FORT PIERCE FL 34981 (77) 461-6630 CH SS 945,SM 11,SN"
+    "description": "FORT MYERS FL 33919 SS 10,SM 11,SN 6,W 7 BUS, KINGS KIDS, TEEN, SOULWINNING, MP3 AUDIO SERMONS ONLINE KJB,WCBC,PCC 4401 S 25TH ST FORT PIERCE FL 34981 (77) 461-6630 CH SS 945,SM 11,SN"
   },
   {
     "id": "767",
@@ -2490,7 +2490,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "312 SE 24TH AVE CAPE CORAL FL 33990 SS 945,SM 1045,SN 630,W 730"
+    "description": "CAPE CORAL FL 33990 SS 945,SM 1045,SN 630,W 730"
   },
   {
     "id": "768",
@@ -2508,7 +2508,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL LECLERCQ.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "769",
@@ -2526,12 +2526,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLENN WIGGINS. 2920 US HWY 301 ELLENTON FL 34222 SS 10,SM 11,SN 6,W 7 KJB,CROWN-BC"
+    "description": "2920 US HWY 301 ELLENTON FL 34222 SS 10,SM 11,SN 6,W 7 KJB,CROWN-BC"
   },
   {
     "id": "770",
     "name": "SEAGATE BAPTIST CHURCH",
-    "address": "1010 WHIPPORWILL LN",
+    "address": "1010 WHIPPORWILL LN NAPL",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2544,7 +2544,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES LANDSBERGER. 1010 WHIPPORWILL LN NAPLES FL 33999 SS 10,SM 11,SN 7,W 730 SEAGATE CS,K4-12,ACE; ABEKA KJB,PRE-TRIB,"
+    "description": "ES FL 33999 SS 10,SM 11,SN 7,W 730 SEAGATE CS,K4-12,ACE; ABEKA KJB,PRE-TRIB"
   },
   {
     "id": "771",
@@ -2562,7 +2562,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "PO BOX 769 2616 51ST ST W BRADENTON FL 34206 SS 10,SM 11,SN 630,W 7 BUS, KINGS KIDS, SOULWINNING, SENIORS, TEENS"
+    "description": "PO BOX 769 BRADENTON FL 34206 SS 10,SM 11,SN 630,W 7 BUS, KINGS KIDS, SOULWINNING, SENIORS, TEENS"
   },
   {
     "id": "772",
@@ -2580,12 +2580,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRETT A BELL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "773",
     "name": "LEGACY BAPTIST CHURCH",
-    "address": "415 67TH AVE W",
+    "address": "34207 FAITH BIBLE INST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2599,12 +2599,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JEFF BAILIE. 415 67TH AVE W BRADENTON FL 34207 FAITH BIBLE INSTITUTE KJB,FBF,BJU,NORTHLAND-BC 3600 CREIGHTON RD PENSACOLA FL 32504 SS 945,SM 11,SN 6,W 645 AWANA,CHOIR, MP3 AUDIO SERMONS ONLINE PENSACOLA 15 MILES ,"
+    "description": "415 67TH AVE W BRADENTON FL ITUTE KJB,FBF,BJU,NORTHLAND-BC 3600 CREIGHTON RD PENSACOLA FL 32504 SS 945,SM 11,SN 6,W 645 AWANA,CHOIR, MP3 AUDIO SERMONS ONLINE PENSACOLA 15 MILES"
   },
   {
     "id": "774",
     "name": "TRINITY BAPTIST BIBLE INSTITUTE",
-    "address": "2113 57TH ST E",
+    "address": "2289 N MCGEE DR",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2617,7 +2617,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TROY MASTERSON. 2113 57TH ST E MORGAN JOHNSON RD BRADENTON FL 34208 SS 945,SM 830 & 11,SN 6,W 7 SERMONS ONLINE 2289 N MCGEE DR HERNANDO FL 34442 NEAR INVERNESS SS 10,SM 11,SN 6,W 7 4800 SW 20TH ST OCALA FL 34474 SS 1 KJB church."
+    "description": "2113 57TH ST E MORGAN JOHNSON RD BRADENTON FL 34208 SS 945,SM 830 & 11,SN 6,W 7 SERMONS ONLINE HERNANDO FL 34442 NEAR INVERNESS SS 10,SM 11,SN 6,W 7 4800 SW 20TH ST OCALA FL 34474 SS 1 KJB church"
   },
   {
     "id": "775",
@@ -2635,7 +2635,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VAUGHN H FOUST. 9475 SE 35 COURT OCALA FL 34480 95TH STREET SS 930,SM 1030,SN 630,W 730 AUDIO SERMONS ONLINE KJB,HYLES"
+    "description": "OCALA FL 34480 95TH STREET SS 930,SM 1030,SN 630,W 730 AUDIO SERMONS ONLINE KJB,HYLES"
   },
   {
     "id": "776",
@@ -2648,12 +2648,12 @@ export const floridaChurches: Church[] = [
     "longitude": -80.5058,
     "phone": "(352) 625-2706",
     "website": "https://www.facebook.com/p/Cedar-Creek-Baptist-Church-100064501937852",
-    "pastor": "MATTHEW TINSLEY",
+    "pastor": "LAND O LAKES FL 34639 SS 945,SM 830 & 11,SN 7,W 7 YOUTH, TEEN, AWANA, MP3 AUDIO SERMONS ONLINE, LAND O LA KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW TINSLEY. 15455 NE C-314 SILVER SPRINGS FL 34488 SS 10,SM 11,SN 7,W 730,TH 7 NEEDS PASTOR 5105 SCHOOL RD LAND O LAKES FL 34639 SS 945,SM 830 & 11,SN 7,W 7 YOUTH, TEEN, AWANA, MP3 AUDIO SERMONS ONLINE, LAND O LA KJB church."
+    "description": "15455 NE C-314 SILVER SPRINGS FL 34488 SS 10,SM 11,SN 7,W 730,TH 7 NEEDS"
   },
   {
     "id": "777",
@@ -2671,12 +2671,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT W YOUNG. WINTER REVIVAL EARLY DECEMBER ANNUAL BIBLE CONFERENCE (STARTS 3RD MONDAY IN MARCH) RV HOOKUP AVAILABLE KJB church."
+    "description": "WINTER REVIVAL EARLY DECEMBER ANNUAL BIBLE CONFERENCE (STARTS 3RD MONDAY IN MARCH) RV HOOKUP AVAILABLE KJB church"
   },
   {
     "id": "778",
     "name": "SAWYER ROAD BAPTIST CHURCH",
-    "address": "5055 SAWYER RD",
+    "address": "3857 HARTLEY RD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2689,7 +2689,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID PEACOCK. 5055 SAWYER RD SARASOTA FL 34233 KJB,RUCKMAN 3857 HARTLEY RD JACKSONVILLE FL 32257 SS 945,SM 1045,SN 6,W 7 THE BIBLE DOCTRINE INSTITUTE MAYPORT,CECIL FIELD,NAS JAX KJB,IBFI"
+    "description": "SARASOTA FL 34233 KJB,RUCKMAN JACKSONVILLE FL 32257 SS 945,SM 1045,SN 6,W 7 THE BIBLE DOCTRINE INSTITUTE MAYPORT,CECIL FIELD,NAS JAX KJB,IBFI"
   },
   {
     "id": "779",
@@ -2707,7 +2707,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1006 E CROWN POINT RD OCOEE FL 34761 SS 10,SM 830 & 11,SN 6,W 7"
+    "description": "OCOEE FL 34761 SS 10,SM 830 & 11,SN 6,W 7"
   },
   {
     "id": "780",
@@ -2726,7 +2726,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY FORD. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "781",
@@ -2744,12 +2744,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE HARRIS. 32630 N WHITNEY RD LEESBURG FL 34748 SS 930,SM 1030,SN 6,W 630 KJB, HAC, HEARTLAND, WEST COAST, IFB"
+    "description": "LEESBURG FL 34748 SS 930,SM 1030,SN 6,W 630 KJB, HAC, HEARTLAND, WEST COAST, IFB"
   },
   {
     "id": "782",
     "name": "FIRST BAPTIST CHURCH OF OCOEE",
-    "address": "106 OHIO ST",
+    "address": "PO BOX 10119",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2763,7 +2763,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RAYMOND HALL. 106 OHIO ST OCOEE FL 34761 SS 945,SM 1045,SN 6,W 7 BUS, CHILDREN’S CHURCH, SOULWINNING, FAITH PROMISE MISSIONS, YOUTH CASSETTE TAPE SERMONS KJB,HYLES PO BOX 10119 242 CAPRON RD COCOA FL 32927 SS 930,S"
+    "description": "106 OHIO ST OCOEE FL 34761 SS 945,SM 1045,SN 6,W 7 BUS, CHILDREN’S CHURCH, SOULWINNING, FAITH PROMISE MISSIONS, YOUTH CASSETTE TAPE SERMONS KJB,HYLES 242 CAPRON RD COCOA FL 32927 SS 930,S"
   },
   {
     "id": "783",
@@ -2781,7 +2781,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT PHILLIPS. 7415 BABCOCK ST SE PALM BAY FL 32909 SS 10,SM 11,SN 6,W 7 500 SW 9TH ST OKEECHOBEE FL 34974 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PALM BAY FL 32909 SS 10,SM 11,SN 6,W 7 500 SW 9TH ST OKEECHOBEE FL 34974 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "784",
@@ -2801,7 +2801,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by AARON DOWLER. PO BOX 1105 535 NE 28TH AVE OKEECHOBEE FL 34973 SS 930,SM 1030,SN 6, W  7 SOULWINNING, CHILDRENS CHURCH, TAPE, INTERNET CORRESPONDENCE, PRISON, SENIORS, TEENS, ANNUAL JUBILEE KJB, UNAFFILIATED 3607 OL"
+    "description": "PO BOX 1105 OKEECHOBEE FL 34973 SS 930,SM 1030,SN 6, W 7 SOULWINNING, CHILDRENS CHURCH, TAPE, INTERNET CORRESPONDENCE, PRISON, SENIORS, TEENS, ANNUAL JUBILEE KJB, UNAFFILIATED 3607 OL"
   },
   {
     "id": "785",
@@ -2837,12 +2837,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHNNY PRUITT.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "787",
     "name": "FAITH BAPTIST CHURCH OF HOLLY HILL",
-    "address": "497 FLOMICH ST",
+    "address": "4000 AVALON BLVD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2855,12 +2855,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM FELLURE. 497 FLOMICH ST HOLLY HILL FL 32117 SS 930,SM 1030,SN 6,W 7 PO BOX 766 4000 AVALON BLVD MILTON FL 32572-0766 SM 1030,SN 6,W 7 KJB church."
+    "description": "HOLLY HILL FL 32117 SS 930,SM 1030,SN 6,W 7 PO BOX 766 MILTON FL 32572-0766 SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "788",
     "name": "VICTORY BAPTIST PRESS",
-    "address": "2490 SE MELALEUCA BLVD",
+    "address": "2490 SE MELALEUCA BLVD PORT ST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2873,7 +2873,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD DOWNS. PENSACOLA NAS,CORRY,WHITING 2490 SE MELALEUCA BLVD PORT ST LUCIE FL 34952 SS 945,SM 1045,SN 6,W 730 CHOIR, YOUTH, NURSING HERITAGE CHRISTIAN SCHOOL, K-12 KJB church."
+    "description": "PENSACOLA NAS,CORRY,WHITING LUCIE FL 34952 SS 945,SM 1045,SN 6,W 730 CHOIR, YOUTH, NURSING HERITAGE CHRISTIAN SCHOOL, K-12 KJB church"
   },
   {
     "id": "789",
@@ -2891,7 +2891,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK LEONARD.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "790",
@@ -2910,12 +2910,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SAM ADAMS. 4601 N OLD DIXIE HWY FT PIERCE FL 34946 SS 10,SM 11,SN 6,W 7 BUS, DEAF, LADIES, YOUTH, SOULWINNING KJB, POST-TRIB, UNREGISTERED"
+    "description": "4601 N OLD DIXIE HWY FT PIERCE FL 34946 SS 10,SM 11,SN 6,W 7 BUS, DEAF, LADIES, YOUTH, SOULWINNING KJB, POST-TRIB, UNREGISTERED"
   },
   {
     "id": "791",
     "name": "INDEPENDENCE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 11",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2928,12 +2928,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES GREEN. PO BOX 11 INVERNESS FL 34605 NEAR OCALA SS 430, SN 630 FAMILY INTEGRATED, NO CCM, GEOCENTRIC KJB,HEARTLAND"
+    "description": "INVERNESS FL 34605 NEAR OCALA SS 430, SN 630 FAMILY INTEGRATED, NO CCM, GEOCENTRIC KJB,HEARTLAND"
   },
   {
     "id": "792",
     "name": "TEMPLE BAPTIST CHURCH",
-    "address": "732 DEBARY AVE",
+    "address": "872 GLENWOOD RD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -2946,7 +2946,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES W KNOX. PO BOX 6367 732 DEBARY AVE DELTONA FL 32728 SS 10,SM 11,SN 6,W 7 KINGS KIDS 872 GLENWOOD RD DELAND FL 32724 NEW AUDIO SERMONS ONLINE WEEKLY SM 1030,SN 6,THU 7 THOUSANDS OF RECORDED SERMONS AND BIBLE S KJB church."
+    "description": "PO BOX 6367 DELTONA FL 32728 SS 10,SM 11,SN 6,W 7 KINGS KIDS DELAND FL 32724 NEW AUDIO SERMONS ONLINE WEEKLY SM 1030,SN 6,THU 7 THOUSANDS OF RECORDED SERMONS AND BIBLE S KJB church"
   },
   {
     "id": "793",
@@ -2965,7 +2965,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIMMY L MCMILLAN. 1365 W PLYMOUTH AVE DELAND FL 32720 SS 945,SM 11,SN 630,W 630 KJB church."
+    "description": "DELAND FL 32720 SS 945,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "794",
@@ -2983,7 +2983,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM. 9900 103RD ST JACKSONVILLE FL 32210 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS ONLINE KJB,RUCKMAN"
+    "description": "JACKSONVILLE FL 32210 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS ONLINE KJB,RUCKMAN"
   },
   {
     "id": "795",
@@ -3003,7 +3003,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by DANIEL GREEN. PO BOX 812 4216 WARD BASIN RD MILTON FL 32583 SM 1030,SN 6,W 730 PRINTING, SOULWINNING PENSACOLA NAS, CORRY, WHITING KJB,BBF"
+    "description": "PO BOX 812 MILTON FL 32583 SM 1030,SN 6,W 730 PRINTING, SOULWINNING PENSACOLA NAS, CORRY, WHITING KJB,BBF"
   },
   {
     "id": "796",
@@ -3021,7 +3021,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN D STEAD SR. 6000 E COLONIAL DR ORLANDO FL 32807 SS 945,SM 11,SN 6,W 7 EASTLAND CHRISTIAN SCHOOL, PS-12 KJB church."
+    "description": "ORLANDO FL 32807 SS 945,SM 11,SN 6,W 7 EASTLAND CHRISTIAN SCHOOL, PS-12 KJB church"
   },
   {
     "id": "797",
@@ -3039,7 +3039,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6760 EAST GATE RD MILTON FL 32570 SS 10, SM 11, SN 6, W 7"
+    "description": "MILTON FL 32570 SS 10, SM 11, SN 6, W 7"
   },
   {
     "id": "798",
@@ -3057,12 +3057,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY LITZELL. NAS  WHITING FIELD KJB church."
+    "description": "NAS WHITING FIELD KJB church"
   },
   {
     "id": "799",
     "name": "OPEN BIBLE BAPTIST CHURCH",
-    "address": "124 OLD SAN MATEO RD",
+    "address": "124 OLD SAN MATEO RD EAST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3075,7 +3075,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THERON CHEWING. PO BOX 698 PALATKA FL 32177 124 OLD SAN MATEO RD EAST PALATKA FL 32131 (386) 325- 4770 CH SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 698 PALATKA FL 32177 PALATKA FL 32131 (386) 325- 4770 CH SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "800",
@@ -3094,7 +3094,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIMOTHY MANESS. PO BOX 16217 6161 E FOWLER AVE TAMPA FL 33617 SS 10,SM 11,SN 6,W 730 1309 CR 452 EUSTIS FL 32726 VICTORY CHRISTIAN SCHOOL K-8 KJB, UNAFFILIATED"
+    "description": "PO BOX 16217 TAMPA FL 33617 SS 10,SM 11,SN 6,W 730 1309 CR 452 EUSTIS FL 32726 VICTORY CHRISTIAN SCHOOL K-8 KJB, UNAFFILIATED"
   },
   {
     "id": "801",
@@ -3113,7 +3113,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by WILLIAM. 747 NEAL RD CANTONMENT FL 32533 SS 10,SM 11,SN 6,W 7 BUS, KINGS KIDS, SOULWINNING, AUDIO SERMONS ONLINE PENSACOLA NAS KJB church."
+    "description": "CANTONMENT FL 32533 SS 10,SM 11,SN 6,W 7 BUS, KINGS KIDS, SOULWINNING, AUDIO SERMONS ONLINE PENSACOLA NAS KJB church"
   },
   {
     "id": "802",
@@ -3131,7 +3131,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON WILEY. 7845 LAWTON ST PENSACOLA FL 32505 SS 10,SM 11,SN 6,W 7 PENSACOLA NAS 280 RIVIERE RD PALM HARBOR FL 34683-5103 CLEARWATER AREA SS 930,SM 1030,SN 6,W 7 DEAF, BUS, AWANA, AUDIO SERMONS ONLINE KJB church."
+    "description": "PENSACOLA FL 32505 SS 10,SM 11,SN 6,W 7 PENSACOLA NAS 280 RIVIERE RD PALM HARBOR FL 34683-5103 CLEARWATER AREA SS 930,SM 1030,SN 6,W 7 DEAF, BUS, AWANA, AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "803",
@@ -3154,7 +3154,7 @@ export const floridaChurches: Church[] = [
   {
     "id": "804",
     "name": "MEETING AT PROVIDENCE BAPTIST CHURCH BUILDING",
-    "address": "1101 SW 49TH AVE",
+    "address": "33323 BROWARD CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3167,7 +3167,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STANLEY K HEINDEL. 1101 SW 49TH AVE PLANTATION FL 33323 BROWARD CHRISTIAN SCHOOL,AGE 3-5TH GRADE, ABEKA KJB church."
+    "description": "1101 SW 49TH AVE PLANTATION FL IAN SCHOOL,AGE 3-5TH GRADE, ABEKA KJB church"
   },
   {
     "id": "805",
@@ -3185,7 +3185,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLENN JOHNSON. 6332 N PALAFAX PENSACOLA FL 32505 SS 10,SM 11,SN 6 PENSACOLA NAS 9301 ACADEMY ST CENTURY FL 32535 SS 10,SM 11,SN 6,W 7 LIVE VIDEO SERVICES ONLINE KJB,IBFI"
+    "description": "6332 N PALAFAX PENSACOLA FL 32505 SS 10,SM 11,SN 6 PENSACOLA NAS CENTURY FL 32535 SS 10,SM 11,SN 6,W 7 LIVE VIDEO SERVICES ONLINE KJB,IBFI"
   },
   {
     "id": "806",
@@ -3203,7 +3203,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM. 3333 N RIVERSIDE DR INDIATLANTIC FL 32903 SS 945,SM 11,SN 6,W 7 PATRICK AFB KJB church."
+    "description": "INDIATLANTIC FL 32903 SS 945,SM 11,SN 6,W 7 PATRICK AFB KJB church"
   },
   {
     "id": "807",
@@ -3222,12 +3222,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by KENNETH RALPH. 7000 N PENSACOLA BLVD PENSACOLA FL 32505 JUST SOUTH OF I-10 NEAR BURGESS RD SS 945,SM 11,SN 7,W 7 BUS,CHOIR,ORCHESTRA,DEAF, PENSACOLA NAS KJB,IBFI"
+    "description": "PENSACOLA FL 32505 JUST SOUTH OF I-10 NEAR BURGESS RD SS 945,SM 11,SN 7,W 7 BUS,CHOIR,ORCHESTRA,DEAF, PENSACOLA NAS KJB,IBFI"
   },
   {
     "id": "808",
     "name": "PENSACOLA BAPTIST TEMPLE",
-    "address": "5000 CERNY RD",
+    "address": "514 S PARRAMORE AVE",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3241,7 +3241,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GLENDY HAMILTON. 5000 CERNY RD PENSACOLA FL 32526-2516 SS 10,SM 11,SN 615,W 7 TEEN,TAPE,MENS LADIES NAS PENSACOLA KJB,GRAY-TX 514 S PARRAMORE AVE ORLANDO FL 32805 SS 930,SM 11,SPAN 4,LBS 445,SN 6,W 730 SOULWINNING,BUS"
+    "description": "PENSACOLA FL 32526-2516 SS 10,SM 11,SN 615,W 7 TEEN,TAPE,MENS LADIES NAS PENSACOLA KJB,GRAY-TX ORLANDO FL 32805 SS 930,SM 11,SPAN 4,LBS 445,SN 6,W 730 SOULWINNING,BUS"
   },
   {
     "id": "809",
@@ -3260,7 +3260,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DEAN STARLING. 3436 LANE AVE N JACKSONVILLE FL 32254 KJB church."
+    "description": "JACKSONVILLE FL 32254 KJB church"
   },
   {
     "id": "810",
@@ -3278,7 +3278,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "24861 OLD 41 RD BONITA SPRINGS FL 34135 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE, SOULWINNING"
+    "description": "BONITA SPRINGS FL 34135 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE, SOULWINNING"
   },
   {
     "id": "811",
@@ -3296,7 +3296,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TED HINES. KJB,RUCKMAN"
+    "description": "KJB,RUCKMAN"
   },
   {
     "id": "812",
@@ -3315,7 +3315,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAY T FRAZIER. PO BOX 694 3055 BACOM POINT RD PAHOKEE FL 33476 SS 10,SM 11,SN 6,W 630 KJB,UNAFFILIATED PO BOX 3731 350 FAIRMONT PL COCOA FL 32924-3731 SS 9,SM 10,SN 6,W 7 PATRICK AFB"
+    "description": "PO BOX 694 PAHOKEE FL 33476 SS 10,SM 11,SN 6,W 630 KJB,UNAFFILIATED PO BOX 3731 350 FAIRMONT PL COCOA FL 32924-3731 SS 9,SM 10,SN 6,W 7 PATRICK AFB"
   },
   {
     "id": "813",
@@ -3333,7 +3333,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK COOLEY. 1675 W ROBERTS RD CANTONMENT FL 32533 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "CANTONMENT FL 32533 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "814",
@@ -3352,7 +3352,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GARY. 250 W BURGESS RD PENSACOLA FL 32503 SS 930,SM 1030,SN 6,W 7 AWANA,MP3 AUDIO & WMV VIDEO SERMONS ONLINE PENSACOLA NAS KJB, BBF"
+    "description": "PENSACOLA FL 32503 SS 930,SM 1030,SN 6,W 7 AWANA,MP3 AUDIO & WMV VIDEO SERMONS ONLINE PENSACOLA NAS KJB, BBF"
   },
   {
     "id": "815",
@@ -3370,12 +3370,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY KLINE. 4448 EMERSON ST JACKSONVILLE FL 32207 SS 10,SM 1050,SN 630,W 7 BUS, YOUTH, TEEN KJB church."
+    "description": "JACKSONVILLE FL 32207 SS 10,SM 1050,SN 630,W 7 BUS, YOUTH, TEEN KJB church"
   },
   {
     "id": "816",
     "name": "CORKSCREW BAPTIST CHURCH",
-    "address": "22022 IMMOKALEE RD",
+    "address": "34120 IMMOKALEE AREA CORKSCREW CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "22022",
@@ -3389,7 +3389,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RODNEY KELLEY. 22022 IMMOKALEE RD NAPLES FL 34120 IMMOKALEE AREA CORKSCREW CHRISTIAN SCHOOL, K-12 KJB, UNAFFILIATED"
+    "description": "ES FL IAN SCHOOL, K-12 KJB, UNAFFILIATED"
   },
   {
     "id": "817",
@@ -3407,7 +3407,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE LATTA. 5634 NORMANDY BLVD JACKSONVILLE FL 32205 SS 930,SM 1030,SN 6, W 7 SUNDAY SCHOOL FOR ALL AGES, CHOIR, TEENS, SINGLES, CHILDREN'S, MASTER CLUBS, PRIME TIME SENIORS, DISCIPLESHIP, GOSPEL RADIO STATION, S KJB church."
+    "description": "JACKSONVILLE FL 32205 SS 930,SM 1030,SN 6, W 7 SUNDAY SCHOOL FOR ALL AGES, CHOIR, TEENS, SINGLES, CHILDREN'S, MASTER CLUBS, PRIME TIME SENIORS, DISCIPLESHIP, GOSPEL RADIO STATION, S KJB church"
   },
   {
     "id": "818",
@@ -3425,7 +3425,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURTIS D HARRINGTON. 12165 DUVAL RD JACKSONVILLE FL 32218 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS ONLINE KJB,IBFI"
+    "description": "JACKSONVILLE FL 32218 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS ONLINE KJB,IBFI"
   },
   {
     "id": "819",
@@ -3443,12 +3443,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK KELLY. PO BOX 430 553274 US 1 HILLIARD FL 32046 SS 945,SM 11,SN TU 6,SN 630,W 730 PATCH PIRATE,TEEN 241 BURNEY RD OSPREY FL 34229 SS 10,SM 11,SN 6,W 7 CHILD CARE, AWANA KJB church."
+    "description": "PO BOX 430 553274 US 1 HILLIARD FL 32046 SS 945,SM 11,SN TU 6,SN 630,W 730 PATCH PIRATE,TEEN OSPREY FL 34229 SS 10,SM 11,SN 6,W 7 CHILD CARE, AWANA KJB church"
   },
   {
     "id": "820",
     "name": "PROVIDENCE BAPTIST CHURCH",
-    "address": "5416 PROVIDENCE RD",
+    "address": "7 PROVIDENCE CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3462,12 +3462,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GORDON GODFREY JR. 5416 PROVIDENCE RD RIVERVIEW FL 33578 TAMPA BAY, BRANDON AREA SM 930, SS 11, SN 6, W 7 PROVIDENCE CHRISTIAN SCHOOL & PROVIDENCE EARLY LEARNING CENTER KJB, BBF, CCM"
+    "description": "RIVERVIEW FL 33578 TAMPA BAY, BRANDON AREA SM 930, SS 11, SN 6, W IAN SCHOOL & PROVIDENCE EARLY LEARNING CENTER KJB, BBF, CCM"
   },
   {
     "id": "821",
     "name": "MARCUS POINTE BAPTIST CHURCH",
-    "address": "6205 N W ST",
+    "address": "123 THUNDERBIRD DR SEBAST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3475,18 +3475,18 @@ export const floridaChurches: Church[] = [
     "longitude": -81.4443,
     "phone": "(850) 479-8337",
     "website": "http://www.marcuspointebaptist.org",
-    "pastor": "NEIL TRAHAN",
+    "pastor": "SEBASTIAN FL 32958 S",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by NEIL TRAHAN. 6205 N W ST PENSACOLA FL 32505 SS 815 & 930,SM 815 & 1045,SN 630,W 630 AWANA, CHOIR, ORCHESTRA, TEEN CHILD CARE, K4-8 PENSACOLA NAS, CORRY FIELD KJB, WWBBF, BBF 123 THUNDERBIRD DR SEBASTIAN FL 32958 S"
+    "description": "PENSACOLA FL 32505 SS 815 & 930,SM 815 & 1045,SN 630,W 630 AWANA, CHOIR, ORCHESTRA, TEEN CHILD CARE, K4-8 PENSACOLA NAS, CORRY FIELD KJB, WWBBF, BBF IAN FL 32958 S"
   },
   {
     "id": "822",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "",
+    "address": "7 BIBLE INST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3499,7 +3499,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM BLALOCK. 17140 N US HWY 27 CLERMONT FL 34715 SS 915,SM 1030,SN 6,W 7 BIBLE INSTITUTE KJB,PCC"
+    "description": "17140 N US HWY 27 CLERMONT FL 34715 SS 915,SM 1030,SN 6,W ITUTE KJB,PCC"
   },
   {
     "id": "823",
@@ -3518,7 +3518,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PATRICK BOYLE. 11616 W INDIANTOWN RD JUPITER FL 33478 SS 10,SM 11,SN 630,W 730 MP3 AUDIO SERMONS ONLINE, AWANA 320 US 27 CLERMONT FL 34714 SOULWINNING, HARD PREACHING, FAMILY INTEGRATED SERVICES KJB church."
+    "description": "JUPITER FL 33478 SS 10,SM 11,SN 630,W 730 MP3 AUDIO SERMONS ONLINE, AWANA 320 US 27 CLERMONT FL 34714 SOULWINNING, HARD PREACHING, FAMILY INTEGRATED SERVICES KJB church"
   },
   {
     "id": "824",
@@ -3536,7 +3536,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN NUGIER. 10936 HWY 301 S WEBSTER FL 33597 SS 10,SM 11,BTC 6,SN 7,W 7 RADIO,BUS, MARANATHA CHRISTIAN ACADEMY, ACE 4621 HESTOR AVE SANFORD FL 32773 SS 945,SM 11,SN 630,W 7 KJB, HYLES, RUCKMAN"
+    "description": "10936 HWY 301 S WEBSTER FL 33597 SS 10,SM 11,BTC 6,SN 7,W 7 RADIO,BUS, MARANATHA CHRISTIAN ACADEMY, ACE SANFORD FL 32773 SS 945,SM 11,SN 630,W 7 KJB, HYLES, RUCKMAN"
   },
   {
     "id": "825",
@@ -3555,12 +3555,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TERRY GORDIE. 1324 FERNWOOD RD TALLAHASSEE FL 32304 SS 10,SM 11,SN 630,W 730 MISSION, STREET PREACH, SOULWINNING, FOOD PANTRY, BUS, TEXT SERMONS ONLINE KJB church."
+    "description": "TALLAHASSEE FL 32304 SS 10,SM 11,SN 630,W 730 MISSION, STREET PREACH, SOULWINNING, FOOD PANTRY, BUS, TEXT SERMONS ONLINE KJB church"
   },
   {
     "id": "826",
     "name": "KING JAMES BIBLE CHURCH",
-    "address": "",
+    "address": "PO BOX 1713",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3573,7 +3573,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON MCCOY. PO BOX 1713 153877 CR 108 YULEE FL 32041 2494 HWY 71 MARIANNA FL 32448 SS 10,SM 11,SN 6,W 6 KJB,IBFI"
+    "description": "153877 CR 108 YULEE FL 32041 2494 HWY 71 MARIANNA FL 32448 SS 10,SM 11,SN 6,W 6 KJB,IBFI"
   },
   {
     "id": "827",
@@ -3591,7 +3591,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY CREEL. 2114 BRAND COURT NAVARRE FL 32566 HIWAY 98 SS 10,SM 11,SN 6,W 7 NAVARRE ACADEMY PENSACOLA, CORRY, WHITING, EGLIN, HURLBURT KJB church."
+    "description": "NAVARRE FL 32566 HIWAY 98 SS 10,SM 11,SN 6,W 7 NAVARRE ACADEMY PENSACOLA, CORRY, WHITING, EGLIN, HURLBURT KJB church"
   },
   {
     "id": "828",
@@ -3609,7 +3609,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD NOBLE. 2304 N GOLDENROD RD ORLANDO FL 32807 SS 945,SM 830 & 11,SN 6,W 645 AUDIO SERMONS ONLINE, AWANA BRUSH ARBOR CHRISTIAN SCHOOL,K3-7,ABEKA KJB church."
+    "description": "ORLANDO FL 32807 SS 945,SM 830 & 11,SN 6,W 645 AUDIO SERMONS ONLINE, AWANA BRUSH ARBOR CHRISTIAN SCHOOL,K3-7,ABEKA KJB church"
   },
   {
     "id": "829",
@@ -3628,7 +3628,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MARTY MOON. 3570 NW 16TH BLVD GAINESVILLE FL 32605 SM 1045,SN 6,W 7 KJB church."
+    "description": "GAINESVILLE FL 32605 SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "830",
@@ -3647,7 +3647,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by SAM CASTANO. 6203 NW 39TH AVE GAINESVILLE FL 32606 SS 945,SM 1045,SN 6,W 7 KJB, SINGING TRADITIONAL HYMNS OF FAITH 615 WALNUT ST GREEN COVE SPRINGS FL 32043 SS 945, SM 11, SN 630, W 7 BUS, FOOD"
+    "description": "GAINESVILLE FL 32606 SS 945,SM 1045,SN 6,W 7 KJB, SINGING TRADITIONAL HYMNS OF FAITH 615 WALNUT ST GREEN COVE SPRINGS FL 32043 SS 945, SM 11, SN 630, W 7 BUS, FOOD"
   },
   {
     "id": "831",
@@ -3666,12 +3666,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "2840 E HAYES ST INVERNESS FL 34450 KJB church."
+    "description": "INVERNESS FL 34450 KJB church"
   },
   {
     "id": "832",
     "name": "TRINITYBAPTISTCHURCHFL",
-    "address": "9850 S PARKSIDE AVE",
+    "address": "32636 NEW TESTAMENT CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3684,7 +3684,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEDFORD HODGES. SS 10,SM 11,SN 6,W 7 KJB, IBFI PO BOX 490 9850 S PARKSIDE AVE FLORAL CITY FL 32636 NEW TESTAMENT CHRISTIAN SCHOOL,PS-12 KJB,CROWN-BC,REVIVAL FIRES,SOL,HYLES"
+    "description": "SS 10,SM 11,SN 6,W 7 KJB, IBFI PO BOX 490 FLORAL CITY FL IAN SCHOOL,PS-12 KJB,CROWN-BC,REVIVAL FIRES,SOL,HYLES"
   },
   {
     "id": "833",
@@ -3702,12 +3702,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN STEVENSON. 190 E BAHAMA RD WINTER SPRINGS FL 32708 SS 930,SM 1030,SN 630,730 BUS,MASTERS CLUBS,TEEN,SENIOR SAINTS STARLIGHT BIBLE INSTITUTE KJB,ABC 4001 VERN ST PACE FL 32571 SS 10,SM 11,SN 6,W 7 PENSACOLA,CORRY"
+    "description": "WINTER SPRINGS FL 32708 SS 930,SM 1030,SN 630,730 BUS,MASTERS CLUBS,TEEN,SENIOR SAINTS STARLIGHT BIBLE INSTITUTE KJB,ABC 4001 VERN ST PACE FL 32571 SS 10,SM 11,SN 6,W 7 PENSACOLA,CORRY"
   },
   {
     "id": "834",
     "name": "HERITAGE BAPTIST COLLEGE",
-    "address": "6950 ROYAL PALM BLVD",
+    "address": "3 AUDIO SERMONS ONLINE FAITH CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3722,7 +3722,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BILL GORMAN. KJB, UNAFFILIATED, REVIVAL FIRES! 6950 ROYAL PALM BLVD MARGATE FL 33063 SS 945,SM 11,SN 6,W 7 SOULWINNING, BUS, TEEN, KINGS KIDS, SENIORS, FISHERMANS CLUB, MP3 AUDIO SERMONS ONLINE FAITH CHRISTIAN SCH"
+    "description": "KJB, UNAFFILIATED, REVIVAL FIRES! MARGATE FL 33063 SS 945,SM 11,SN 6,W 7 SOULWINNING, BUS, TEEN, KINGS KIDS, SENIORS, FISHERMANS CLUB, MPIAN SCH"
   },
   {
     "id": "835",
@@ -3740,7 +3740,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL L MCCLURE.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "836",
@@ -3758,12 +3758,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD BAILEY. 4004 W LAKE IDA RD DELRAY BEACH FL 33445 SS 930,SM 1030,SN 6,W 7 CREOLE,MARTIAL ARTS,TEEN,SINGLES KJB church."
+    "description": "DELRAY BEACH FL 33445 SS 930,SM 1030,SN 6,W 7 CREOLE,MARTIAL ARTS,TEEN,SINGLES KJB church"
   },
   {
     "id": "837",
     "name": "BRANDON BAPTIST TABERNACLE",
-    "address": "1118 N PARSONS AVE",
+    "address": "7 FREEDOM ACADEMY TAMPA THEOLOGICAL INST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3776,7 +3776,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LADUE STRAUGHN. 1118 N PARSONS AVE BRANDON FL 33510 SS 930,SM 1045,SN 6,W 7 FREEDOM ACADEMY TAMPA THEOLOGICAL INSTITUTE & SEMINARY KJB church."
+    "description": "BRANDON FL 33510 SS 930,SM 1045,SN 6,W ITUTE & SEMINARY KJB church"
   },
   {
     "id": "838",
@@ -3794,7 +3794,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NEEDS PASTOR. 2700 JOHN MOORE RD BRANDON FL 33511 KJB church."
+    "description": "BRANDON FL 33511 KJB church"
   },
   {
     "id": "839",
@@ -3813,12 +3813,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by LARRY NOLAND. 9420 OLD PLANK RD JACKSONVILLE FL 32220 KJB church."
+    "description": "JACKSONVILLE FL 32220 KJB church"
   },
   {
     "id": "840",
     "name": "HEAVENLY HEIGHTS BAPTIST CHURCH",
-    "address": "6680 DUNN AVE",
+    "address": "19603 NE CHARLIE JOHNS ST BLOUNTST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3826,13 +3826,13 @@ export const floridaChurches: Church[] = [
     "longitude": -80.7168,
     "phone": "(904) 764-5667",
     "website": "http://www.hhbcjax.com",
-    "pastor": "FRANK CARLISLE",
+    "pastor": "ST AUGUSTINE FL 32086 207 ON WILDWOOD DR SS 930,SM 1 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by FRANK CARLISLE. 6680 DUNN AVE JACKSONVILLE FL 32218 SS 10,SM 11,SN 6,W 7 BUS,YOUTH 19603 NE CHARLIE JOHNS ST BLOUNTSTOWN FL 32424 SS 10,SM 11,SN 2 1480 WILDWOOD DR ST AUGUSTINE FL 32086 207 ON WILDWOOD DR SS 930,SM 1 KJB church."
+    "description": "JACKSONVILLE FL 32218 SS 10,SM 11,SN 6,W 7 BUS,YOUTH OWN FL 32424 SS 10,SM 11,SN 2 1480 WILDWOOD DR ST AUGUSTINE FL 32086 207 ON WILDWOOD DR SS 930,SM 1 KJB church"
   },
   {
     "id": "841",
@@ -3850,7 +3850,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by REX CARRINGER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "842",
@@ -3869,12 +3869,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by RICK W HARTMAN. PO BOX 1627 19455 SW 61ST ST DUNNELLON FL 34432 SS 945,SM 1045,SN 6,W 725 MASTER CLUBS,BUS,RADIO, WMA AUDIO SERMONS ONLINE RIVERLAND CHRISTIAN SCHOOL KJB,ABA"
+    "description": "PO BOX 1627 DUNNELLON FL 34432 SS 945,SM 1045,SN 6,W 725 MASTER CLUBS,BUS,RADIO, WMA AUDIO SERMONS ONLINE RIVERLAND CHRISTIAN SCHOOL KJB,ABA"
   },
   {
     "id": "843",
     "name": "HIGHLAND MISSIONARY BAPTIST CHURCH",
-    "address": "2620 NE 15TH ST",
+    "address": "14745 JOHNS LAKE RD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3889,7 +3889,7 @@ export const floridaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JOEL SHACKLEFORD. PO BOX 140272 GAINESVILLE FL 32609 2620 NE 15TH ST SS 945,SM 11,SN 7,W 7 SENIORS & YOUTH & EVERYTHING IN BETWEEN! KJV,WBF 14745 JOHNS LAKE RD CLERMONT FL 34711 SS 930,SM 1030,SN 6,AWANA W 7 KJB,BBF,SO"
+    "description": "PO BOX 140272 GAINESVILLE FL 32609 2620 NE 15TH ST SS 945,SM 11,SN 7,W 7 SENIORS & YOUTH & EVERYTHING IN BETWEEN! KJV,WBF CLERMONT FL 34711 SS 930,SM 1030,SN 6,AWANA W 7 KJB,BBF,SO"
   },
   {
     "id": "844",
@@ -3908,7 +3908,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by GENE WIGGINS. PO 837 8950 NW 75TH AVE CHIEFLAND FL 32644 WTBH 91.5 FM SM 1030,SN 6,W 7 57 6TH ST NW WINTER HAVEN FL 33881 SS 10,SM 11,SN 7,W 7 BUS,YOUTH,TEENS KJB,ABA 6178 OLD BAGDAD HWY MILTON FL 32583-8929 SS 10,"
+    "description": "PO 837 CHIEFLAND FL 32644 WTBH 91.5 FM SM 1030,SN 6,W 7 57 6TH ST NW WINTER HAVEN FL 33881 SS 10,SM 11,SN 7,W 7 BUS,YOUTH,TEENS KJB,ABA 6178 OLD BAGDAD HWY MILTON FL 32583-8929 SS 10"
   },
   {
     "id": "845",
@@ -3926,12 +3926,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DERRICK BURRUS. 23105 VETERANS BLVD PORT CHARLOTTE FL 33954 SS 930,SM 1030,SN 6,W 7 DEAF, KINGS KIDS, ORCHESTRA KJB church."
+    "description": "PORT CHARLOTTE FL 33954 SS 930,SM 1030,SN 6,W 7 DEAF, KINGS KIDS, ORCHESTRA KJB church"
   },
   {
     "id": "846",
     "name": "CAPITAL HEIGHTS BAPTIST CHURCH",
-    "address": "7150 APALACHEE PARKWAY",
+    "address": "631 S DILLARD WINTER GARD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3945,12 +3945,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by T J KLAPPERICH. 7150 APALACHEE PARKWAY TALLAHASSEE FL 32311 SS 10,SM 11,SN 6,W 7 SUNDAY SCHOOL,CHILDRENS CHAPEL,WED YOUTH PROGRAMS & PRAYER MEETING AUDIO SERMONS ONLINE PO BOX 1255 631 S DILLARD WINTER GARDEN FL 3278 KJB church."
+    "description": "TALLAHASSEE FL 32311 SS 10,SM 11,SN 6,W 7 SUNDAY SCHOOL,CHILDRENS CHAPEL,WED YOUTH PROGRAMS & PRAYER MEETING AUDIO SERMONS ONLINE PO BOX 1255 EN FL 3278 KJB church"
   },
   {
     "id": "847",
     "name": "CHICKEE BAPTIST CHURCH",
-    "address": "2910 N 64 AVE",
+    "address": "7 CHICKEE CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -3965,7 +3965,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JAY W MCCAIG. 2910 N 64 AVE HOLLYWOOD FL 33024 SEMINOLE INDIAN RESERVATION SS 10,SM 11,SN 6,W 7 CHICKEE CHRISTIAN ACADEMY,K-12,ACE 3797 EDSEL AVE SAINT CLOUD FL 34772 SS 10,SM 11,SN 630, W 7 KINGS KIDS, TEENS, SENI KJB church."
+    "description": "2910 N 64 AVE HOLLYWOOD FL 33024 SEMINOLE INDIAN RESERVATION SS 10,SM 11,SN 6,W IAN ACADEMY,K-12,ACE 3797 EDSEL AVE SAINT CLOUD FL 34772 SS 10,SM 11,SN 630, W 7 KINGS KIDS, TEENS, SENI KJB church"
   },
   {
     "id": "848",
@@ -3983,12 +3983,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRONSON CLEMENS. 3415 APALACHEE WAY TALLAHASSEE FL 32311 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB, WOL"
+    "description": "TALLAHASSEE FL 32311 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB, WOL"
   },
   {
     "id": "849",
     "name": "WHITEHOUSE BAPTIST CHURCH",
-    "address": "24 CELERY AVE N",
+    "address": "2909 JOHN MOORE RD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4002,7 +4002,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN JUPP. 24 CELERY AVE N JACKSONVILLE FL 32220 SS 930,SM 1045,SN 6,W 7 AWANA,TEEN KJB, BBF,FL-BBF 2909 JOHN MOORE RD BRANDON FL 33511 SS 10,SM 11,SN 630,W 7 TEMPLE CHRISTIAN ACADEMY,K2-12 3740 EAGLES NEST RD F"
+    "description": "JACKSONVILLE FL 32220 SS 930,SM 1045,SN 6,W 7 AWANA,TEEN KJB, BBF,FL-BBF BRANDON FL 33511 SS 10,SM 11,SN 630,W 7 TEMPLE CHRISTIAN ACADEMY,K2-12 3740 EAGLES NEST RD F"
   },
   {
     "id": "850",
@@ -4021,7 +4021,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BRUCE BARTON. PO BOX 135335 15744 CR 474 CLERMONT FL 34713 MP3 AUDIO SERMONS ONLINE KJB,TTU 1104 BALBOA AVE PANAMA CITY FL 32401 SS 930,SM 1030,SN 630,W 630 BUS, KIDS 4 CHRIST, SOULWINNING,EXPOSITORY PREACHING, CEN"
+    "description": "PO BOX 4 CR 474 CLERMONT FL 34713 MP3 AUDIO SERMONS ONLINE KJB,TTU PANAMA CITY FL 32401 SS 930,SM 1030,SN 630,W 630 BUS, KIDS 4 CHRIST, SOULWINNING,EXPOSITORY PREACHING, CEN"
   },
   {
     "id": "851",
@@ -4039,7 +4039,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG WILMORE. 5005 BLANDING BLVD JACKSONVILLE FL 32210 SS 10,SM 11,SN 6,W 7 PATCH CLUBS KJB church."
+    "description": "JACKSONVILLE FL 32210 SS 10,SM 11,SN 6,W 7 PATCH CLUBS KJB church"
   },
   {
     "id": "852",
@@ -4057,7 +4057,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF MATHERLY. 10035 POE ST LEESBURG FL 34788-3026 SS 930, SM 1030, WINTER SN 6, W 7 YOUTH, BUS KJB church."
+    "description": "LEESBURG FL 34788-3026 SS 930, SM 1030, WINTER SN 6, W 7 YOUTH, BUS KJB church"
   },
   {
     "id": "853",
@@ -4075,12 +4075,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL NAWLIN. 1484 NW 42ND PL OCALA FL 32670 ON HWY 301 JUST NORTH OF OCALA SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "OCALA FL 32670 ON HWY 301 JUST NORTH OF OCALA SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "854",
     "name": "FIRST BAPTIST CHURCH OF STEINHATCHEE",
-    "address": "615 RIVERSIDE DR",
+    "address": "615 RIVERSIDE DR ST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4093,7 +4093,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE A MULFORD III. PO BOX 342 615 RIVERSIDE DR STEINHATCHEE FL 32359 SS 945,SM 11,W 630 PO BOX 700 FRUITLAND PARK FL 34731 1703 LEWIS RD, LEESBURG 34748 SS 915,SM 1030,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, AWANA, TEENS 452 KJB church."
+    "description": "PO BOX 342 EINHATCHEE FL 32359 SS 945,SM 11,W 630 PO BOX 700 FRUITLAND PARK FL 34731 1703 LEWIS RD, LEESBURG 34748 SS 915,SM 1030,SN 6,W 7 MP3 AUDIO SERMONS ONLINE, AWANA, TEENS 452 KJB church"
   },
   {
     "id": "855",
@@ -4106,17 +4106,17 @@ export const floridaChurches: Church[] = [
     "longitude": -82.6645,
     "phone": "(352) 463-9084",
     "website": "https://www.facebook.com/bellbaptistchurch",
-    "pastor": "JOHN J KAGER",
+    "pastor": "5875 NEW HOPE CHURCH RD TALLAHASSEE FL 32305 4325 HWY 17 S ORANGE PARK FL 32073 HERITAGE CHRISTIAN ACADEMY, K5-12 ACE SS 10,SM 11,SN 6,W 7 216 HWY 305 SE BBF church",
     "category": "BBF",
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JOHN J KAGER. PO BOX 340 1039 S MAIN ST BELL FL 32619 PASTOR 5875 NEW HOPE CHURCH RD TALLAHASSEE FL 32305 4325 HWY 17 S ORANGE PARK FL 32073 HERITAGE CHRISTIAN ACADEMY, K5-12 ACE SS 10,SM 11,SN 6,W 7 216 HWY 305 SE BBF church."
+    "description": "PO BOX 340 BELL FL 32619"
   },
   {
     "id": "856",
     "name": "MT CALVARY INDEPENDENT BAPTIST CHURCH",
-    "address": "1701 MINNIE ST",
+    "address": "6776 SUNSET STRIP FT LAUDERD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4130,12 +4130,12 @@ export const floridaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by CULPEPPER. 1701 MINNIE ST COCOA BEACH FL 32926 6776 SUNSET STRIP FT LAUDERDALE FL 33319-4832 LAUDERDALE LAKE AREA 10835 SE 70TH AVE PO BOX 1329 BELLEVIEW FL 34420 SS 930,SM 1030,SN 6,W 7 27368 US HWY N CLEARWATE BBF church."
+    "description": "COCOA BEACH FL 32926 ALE FL 33319-4832 LAUDERDALE LAKE AREA 10835 SE 70TH AVE PO BOX 1329 BELLEVIEW FL 34420 SS 930,SM 1030,SN 6,W 7 27368 US HWY N CLEARWATE BBF church"
   },
   {
     "id": "857",
     "name": "GRIFFIN RD BAPTIST CHURCH",
-    "address": "4650 SW 30 AVE",
+    "address": "30 AVE FORT LAUDERD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4148,7 +4148,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JOSEPH SELLERS. 4650 SW 30 AVE FORT LAUDERDALE FL 33312 GRIFFIN RD & SW 30 AVE SS 945,SM 11, BBF church."
+    "description": "4650 SW ALE FL 33312 GRIFFIN RD & SW 30 AVE SS 945,SM 11, BBF church"
   },
   {
     "id": "858",
@@ -4167,7 +4167,7 @@ export const floridaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DAVID E DAVIS. 6006 JOHN PITTS RD PANAMA CITY FL 32404 TYNDALL AFB BBF church."
+    "description": "PANAMA CITY FL 32404 TYNDALL AFB BBF church"
   },
   {
     "id": "859",
@@ -4185,7 +4185,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JEFF LEAKE. 15901 LITTLE RANCH RD SPRING HILL FL 34608 SS 10,SM 11,W 7"
+    "description": "SPRING HILL FL 34608 SS 10,SM 11,W 7"
   },
   {
     "id": "860",
@@ -4221,12 +4221,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RUSSELL WARD. 401 S FAIRFIELD DR PENSACOLA FL 32506 PENSACOLA NAS"
+    "description": "PENSACOLA FL 32506 PENSACOLA NAS"
   },
   {
     "id": "862",
     "name": "EAST SIDE BAPTIST CHURCH",
-    "address": "236 KRAFT AVE",
+    "address": "20 CINNAMON ST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4240,7 +4240,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DANIEL PADGETT. 236 KRAFT AVE PANAMA CITY FL 32401 SS 10,SM 11,W 7 TYNDALL AFB 20 CINNAMON ST MIDDLEBURG FL 32068 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PANAMA CITY FL 32401 SS 10,SM 11,W 7 TYNDALL AFB MIDDLEBURG FL 32068 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "863",
@@ -4259,7 +4259,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOSH PAYNTER. DAYCARE BIBLE COLLEGE BUS, ADULT& YOUTH CHOIRS, THE “BOM” AGES 11-17, WEEKLY PRAYER MEETINGS LADIES, MEN, & GIRLS NOT KJV ONLY,BBFI PO BOX 9577 4040 DUNN AVE JACKSONVILLE FL 32208 SS 945,SM 11,SN 6,W  KJB church."
+    "description": "DAYCARE BIBLE COLLEGE BUS, ADULT& YOUTH CHOIRS, THE “BOM” AGES 11-17, WEEKLY PRAYER MEETINGS LADIES, MEN, & GIRLS NOT KJV ONLY,BBFI PO BOX 9577 JACKSONVILLE FL 32208 SS 945,SM 11,SN 6,W KJB church"
   },
   {
     "id": "864",
@@ -4277,7 +4277,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BANKS. 13011 SUNSHINE GROVE RD BROOKSVILLE FL 34614 NOT KJV ONLY,GARBC KJB church."
+    "description": "BROOKSVILLE FL 34614 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "865",
@@ -4295,12 +4295,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID C ALTMAN. 5878 DANIELS PKWY FORT MYERS FL 33912 NOT KJV ONLY,GARBC 379 S COMMERCE AVE SEBRING FL 33870 SS 930,SM 1045,SN 630,W 7 NOT KJV ONLY,GARBC KJB church."
+    "description": "5878 DANIELS PKWY FORT MYERS FL 33912 NOT KJV ONLY,GARBC SEBRING FL 33870 SS 930,SM 1045,SN 630,W 7 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "866",
     "name": "WEST PINES BAPTIST CHURCH",
-    "address": "4906 MELALEUCA LN",
+    "address": "114 COURTLAND BLVD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4313,7 +4313,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD FIELDS. 4906 MELALEUCA LN LAKE WORTH FL 33463 YOUTH,TEENS,SINGLES NOT KJV ONLY, GARBC 114 COURTLAND BLVD DELTONA FL 32738 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY,CCM KJB church."
+    "description": "LAKE WORTH FL 33463 YOUTH,TEENS,SINGLES NOT KJV ONLY, GARBC DELTONA FL 32738 SS 915,SM 1030,SN 6,W 7 NOT KJV ONLY,CCM KJB church"
   },
   {
     "id": "867",
@@ -4331,7 +4331,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "5621 W HWY 90 MILTON FL 32583 SM 9 & 1045,SN 6,W 7 ABA church."
+    "description": "5621 W HWY 90 MILTON FL 32583 SM 9 & 1045,SN 6,W 7 ABA church"
   },
   {
     "id": "868",
@@ -4349,7 +4349,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE RAGSDALE. PENSACOLA NAS,CORRY,WHITING PREACH KJV,NOT KJV ONLY KJB church."
+    "description": "PENSACOLA NAS,CORRY,WHITING PREACH KJV,NOT KJV ONLY KJB church"
   },
   {
     "id": "869",
@@ -4367,7 +4367,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY COLLINS. 6001 NW 135TH AVE MORRISTON FL 32668 SS 945,SM  11,SN 6,W 7,PRIM & JR CH SM 11 & W 7 SENIORS,YOUNG ADULTS,TEEN,PRIM & JR CH SM 11 & W 7 NOT KJV ONLY,WBF,ARLINGTON-BC KJB church."
+    "description": "MORRISTON FL 32668 SS 945,SM 11,SN 6,W 7,PRIM & JR CH SM 11 & W 7 SENIORS,YOUNG ADULTS,TEEN,PRIM & JR CH SM 11 & W 7 NOT KJV ONLY,WBF,ARLINGTON-BC KJB church"
   },
   {
     "id": "870",
@@ -4404,12 +4404,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM MULKEY. 33354 TIGER HOLE RD JACKSONVILLE FL 32216 SS 945,SM 11,SN 6,W 715 WOL,AWANA PROPHETS CHAMBER KJB,CCM PO BOX 256 1836 ADAMS ST LAWTEY FL 32058-0256 SS 945, SM 11,SN 5,W 730 NOT KJV ONLY,BBF"
+    "description": "JACKSONVILLE FL 32216 SS 945,SM 11,SN 6,W 715 WOL,AWANA PROPHETS CHAMBER KJB,CCM PO BOX 256 1836 ADAMS ST LAWTEY FL 32058-0256 SS 945, SM 11,SN 5,W 730 NOT KJV ONLY,BBF"
   },
   {
     "id": "872",
     "name": "PALM SPRINGS DRIVE BAPTIST CHURCH",
-    "address": "601 PALM SPRINGS DR",
+    "address": "32701 ALTAMONTE CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4422,12 +4422,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE R SLEDD. 601 PALM SPRINGS DR ALTAMONTE SPRINGS FL 32701 ALTAMONTE CHRISTIAN SCHOOL,PS-12 KJB,S.GRACE-TULIP"
+    "description": "ALTAMONTE SPRINGS FL IAN SCHOOL,PS-12 KJB,S.GRACE-TULIP"
   },
   {
     "id": "873",
     "name": "JORDAN BAPTIST CHURCH",
-    "address": "920 UPSALA RD",
+    "address": "920 UPSALA RD SANFORD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4442,12 +4442,12 @@ export const floridaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JEREMY COPPOCK. 920 UPSALA RD SANFORD FL 32771 SS 10,SM 11,SN 6,W 7 RADIO WHIM-AM 1520 NKJV, BBF, LIBERTY-U 1220 N CARPENTER RD TITUSVILLE FL 32782 SS 9,SM 11,W 630 FAITH KIDZ CLUB NOT KJV ONLY,BBF KJB church."
+    "description": "FL 32771 SS 10,SM 11,SN 6,W 7 RADIO WHIM-AM 1520 NKJV, BBF, LIBERTY-U 1220 N CARPENTER RD TITUSVILLE FL 32782 SS 9,SM 11,W 630 FAITH KIDZ CLUB NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "874",
     "name": "PALATKA BAPTIST CHURCH",
-    "address": "",
+    "address": "630 TEMPLE CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4462,12 +4462,12 @@ export const floridaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by DAN JEFFERS. PO BOX 966 908 N SR 19 PALATKA FL 32177 SS 930,SM 1030,SN 5,W 630 TEMPLE CHRISTIAN SCHOOL,K5-12,AACS,ACE NOT KJV ONLY,CCM,S-BBFI BBC-MO KJB church."
+    "description": "PO BOX 966 908 N SR 19 PALATKA FL 32177 SS 930,SM 1030,SN 5,W IAN SCHOOL,K5-12,AACS,ACE NOT KJV ONLY,CCM,S-BBFI BBC-MO KJB church"
   },
   {
     "id": "875",
     "name": "PARK ST BAPTIST CHURCH",
-    "address": "3901 PARK ST N",
+    "address": "3901 PARK ST N ST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4480,7 +4480,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL COX. 3901 PARK ST N ST PETERSBURG FL 33709 SS 930,SM 1030,SN 6,W 7 SENIOR,KINGS KIDS,TEEN,DEAF, MACDILL KJB, CCM 75 PINE ST ENGLEWOOD FL 34223 SS 945, SM 11, SN 6, W 7 CHOIR,AWANA, TEENS, BUS, SENIORS, DEA"
+    "description": "PETERSBURG FL 33709 SS 930,SM 1030,SN 6,W 7 SENIOR,KINGS KIDS,TEEN,DEAF, MACDILL KJB, CCM 75 PINE ST ENGLEWOOD FL 34223 SS 945, SM 11, SN 6, W 7 CHOIR,AWANA, TEENS, BUS, SENIORS, DEA"
   },
   {
     "id": "876",
@@ -4499,7 +4499,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KENNETH R GRIFFITH. 4826 BAYMEADOWS RD JACKSONVILLE FL 32217 SS 9,SM 1015,SN 6,W 7 NOT KJV ONLY,BBF 18841 SR 31 NORTH FORT MYERS FL 33917 KJB church."
+    "description": "JACKSONVILLE FL 32217 SS 9,SM 1015,SN 6,W 7 NOT KJV ONLY,BBF 18841 SR 31 NORTH FORT MYERS FL 33917 KJB church"
   },
   {
     "id": "877",
@@ -4517,12 +4517,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK D HODGES. NOT KJV ONLY,,BBC-MO,FBBC KJB church."
+    "description": "NOT KJV ONLY,,BBC-MO,FBBC KJB church"
   },
   {
     "id": "878",
     "name": "WINTER HAVEN BAPTIST CHURCH",
-    "address": "6601 NW 167TH ST",
+    "address": "13900 GRIFFIN RD FORT LAUDERD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4536,7 +4536,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by REYNOR CRUZ. 1500 HWY 542 E WINTER HAVEN FL 33880 SS 930,SM 830 & 1030,SN 6,W 7,SW SAT 930 BUS,PATCH,TEENS,CHOIR NOT KJV ONLY 6601 NW 167TH ST MIAMI FL 33015 13900 GRIFFIN RD FORT LAUDERDALE FL 33330 NOT KJV ONLY, KJB church."
+    "description": "1500 HWY N FL 33880 SS 930,SM 830 & 1030,SN 6,W 7,SW SAT 930 BUS,PATCH,TEENS,CHOIR NOT KJV ONLY 6601 NW 167TH ST MIAMI FL 33015 ALE FL 33330 NOT KJV ONLY, KJB church"
   },
   {
     "id": "879",
@@ -4555,7 +4555,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PETER GRANT. 1723 NE 6TH ST CAPE CORAL FL 33909 SS 945,SM 11,SN 6,W 630 NOT KJVONLY,BBF,CCM KJB church."
+    "description": "CAPE CORAL FL 33909 SS 945,SM 11,SN 6,W 630 NOT KJVONLY,BBF,CCM KJB church"
   },
   {
     "id": "880",
@@ -4568,13 +4568,13 @@ export const floridaChurches: Church[] = [
     "longitude": -81.9562,
     "phone": "(863) 646-5031",
     "website": "https://parkwaybaptist.org",
-    "pastor": "TIM DELANY",
+    "pastor": "NOT KJV ONLY,CCM 676 76TH ST OCEAN MARATHON FL 33050 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM DELANY. 4210 LAKELAND HIGHLANDS RD LAKELAND FL 33813 SS 10,SM 11,SN 6,W 7 PARKWAY CHRISTIAN ACADEMY,PS-12 BUS, YOUTH, TEENS, SINGLES, SENIORS NEEDS PASTOR NOT KJV ONLY,CCM 676 76TH ST OCEAN MARATHON FL 33050  KJB church."
+    "description": "LAKELAND FL 33813 SS 10,SM 11,SN 6,W 7 PARKWAY CHRISTIAN ACADEMY,PS-12 BUS, YOUTH, TEENS, SINGLES, SENIORS NEEDS"
   },
   {
     "id": "881",
@@ -4593,7 +4593,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JERRY R HANSON SR. 1880 CURLEW RD DUNEDIN FL 34698 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, BBF KJB church."
+    "description": "DUNEDIN FL 34698 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "882",
@@ -4611,7 +4611,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE SHELTON. 1840 OLD DIXIE HWY TITUSVILLE FL 32796 KJB,TULIP-S.GRACE 3159 21ST ST N ST PETERSBURG FL 33713 SS 10,SM 11,SN 4,W 730 NOT KJV ONLY,GARBC"
+    "description": "1840 OLD DIXIE HWY TITUSVILLE FL 32796 KJB,TULIP-S.GRACE ST PETERSBURG FL 33713 SS 10,SM 11,SN 4,W 730 NOT KJV ONLY,GARBC"
   },
   {
     "id": "883",
@@ -4629,12 +4629,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHANIEL HILLE. 11637 CHARLIE RD JACKSONVILLE FL 32218 KJB,S.GRACE-TULIP,"
+    "description": "JACKSONVILLE FL 32218 KJB,S.GRACE-TULIP"
   },
   {
     "id": "884",
     "name": "THE BIBLE BAPTIST CHURCH",
-    "address": "809 CHARLIE GRIFFIN RD",
+    "address": "809 CHARLIE GRIFFIN RD PL",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4649,12 +4649,12 @@ export const floridaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by PAUL YOUMANS. PO BOX 352 809 CHARLIE GRIFFIN RD PLANT CITY FL 33564 SS 10,SM 11,SN 6,W 7 ALCOHOL IN THE LORDS SUPPER NOT KJV ONLY,GARBC 288 GRAYSON ST ORANGE CITY FL 32763 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,BBF,FAL KJB church."
+    "description": "PO BOX 352 ANT CITY FL 33564 SS 10,SM 11,SN 6,W 7 ALCOHOL IN THE LORDS SUPPER NOT KJV ONLY,GARBC 288 GRAYSON ST ORANGE CITY FL 32763 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,BBF,FAL KJB church"
   },
   {
     "id": "885",
     "name": "PEACE RIVER BAPTIST CHURCH",
-    "address": "478 BERRY ST",
+    "address": "478 BERRY ST PUNTA GORD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4668,12 +4668,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JERRY WILLIAMSON. 478 BERRY ST PUNTA GORDA FL 33950 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF KJB church."
+    "description": "A FL 33950 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "886",
     "name": "FIRST BAPTIST CHURCH OF COCONUT CREEK",
-    "address": "5100 W HILLSBORO BLVD",
+    "address": "33073 near FORT LAUDERD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4688,7 +4688,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by BERT C WILSON. 5100 W HILLSBORO BLVD COCONUT CREEK FL 33073 near FORT LAUDERDALE SS 930,SM 1040,SN 6,W 7 GOLD COAST CHRISTIAN SCHOOL,PS-12 NOT KJV ONLY,GARBC 7966 20TH ST VERO BEACH FL 32966 SS 945,SM 11,SN 6,W 7 PA KJB church."
+    "description": "COCONUT CREEK FL ALE SS 930,SM 1040,SN 6,W 7 GOLD COAST CHRISTIAN SCHOOL,PS-12 NOT KJV ONLY,GARBC 7966 20TH ST VERO BEACH FL 32966 SS 945,SM 11,SN 6,W 7 PA KJB church"
   },
   {
     "id": "887",
@@ -4706,12 +4706,12 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY ROUSE. 2927 LEON RD JACKSONVILLE FL 32216 NOT KJV ONLY,BBC-PA,GARBC KJB church."
+    "description": "JACKSONVILLE FL 32216 NOT KJV ONLY,BBC-PA,GARBC KJB church"
   },
   {
     "id": "888",
     "name": "SPRING HILL BAPTIST CHURCH",
-    "address": "3140 MARINER BLVD",
+    "address": "7 SPRING HILL CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4725,7 +4725,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ERIC MCCONNELL. 3140 MARINER BLVD SPRING HILL FL 34609 SS 945,SM 1050,SN 6,W 7 SPRING HILL CHRISTIAN ACADEMY,K-12 NOT KJV ONLY,BBF,CCM KJB church."
+    "description": "SPRING HILL FL 34609 SS 945,SM 1050,SN 6,W IAN ACADEMY,K-12 NOT KJV ONLY,BBF,CCM KJB church"
   },
   {
     "id": "889",
@@ -4744,7 +4744,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DEREK PARKER. 410 WARRINGTON BLVD PORT CHARLOTTE FL 33953 CHOIR,PATCH PIRATE SS 915,SM 1030,SN 6 NOT KJV ONLY,BBF,BMM,ABWE KJB church."
+    "description": "PORT CHARLOTTE FL 33953 CHOIR,PATCH PIRATE SS 915,SM 1030,SN 6 NOT KJV ONLY,BBF,BMM,ABWE KJB church"
   },
   {
     "id": "890",
@@ -4763,7 +4763,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GORDON GODFREY JR. 8800 STARKEY RD SEMINOLE FL 33777 AWANA,TEENS,MOPS,CHOIR, KJB,BBF,CCM 6205 N W ST PENSACOLA FL 32505 SS 815 & 930,SM 815 & 1045,SN 630,W 630 AWANA,CHOIR,ORCHESTRA,TEEN CHILD CARE,K4-8 PENSACOLA NAS, C"
+    "description": "SEMINOLE FL 33777 AWANA,TEENS,MOPS,CHOIR, KJB,BBF,CCM 6205 N W ST PENSACOLA FL 32505 SS 815 & 930,SM 815 & 1045,SN 630,W 630 AWANA,CHOIR,ORCHESTRA,TEEN CHILD CARE,K4-8 PENSACOLA NAS, C"
   },
   {
     "id": "891",
@@ -4782,12 +4782,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILL LONG. HC 61 BOX 17 E CLEWISTON FL 33440 34800 FRANK E BILLIE DR BIG CYPRESS SEMINOLE INDIAN RESERVATION NOT KJV ONLY,BBF,LIBERTY-U,CCM KJB church."
+    "description": "HC 61 BOX 17 E CLEWISTON FL 33440 BIG CYPRESS SEMINOLE INDIAN RESERVATION NOT KJV ONLY,BBF,LIBERTY-U,CCM KJB church"
   },
   {
     "id": "892",
     "name": "SOUTH DADE BAPTIST CHURCH",
-    "address": "17105 SW 296TH ST",
+    "address": "630 SPANISH AWANA COLONIAL CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "17105",
@@ -4801,12 +4801,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JONATHAN WILLIAMS. PO BOX 901589 17105 SW 296TH ST SS 930,SM 1030,SN 630 SPANISH AWANA COLONIAL CHRISTIAN SCHOOL,K5-12 NOT KJV ONLY,S-BBF,CCM KJB church."
+    "description": "PO BOX 5 SW 296TH ST SS 930,SM 1030,SN IAN SCHOOL,K5-12 NOT KJV ONLY,S-BBF,CCM KJB church"
   },
   {
     "id": "893",
     "name": "PALMETTO AVENUE BAPTIST CHURCH",
-    "address": "2626 S PALMETTO AVE",
+    "address": "2626 S PALMETTO AVE SANFORD",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "",
@@ -4819,7 +4819,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONNY GLOVER. 2626 S PALMETTO AVE SANFORD FL 32773 SS 945,SM 830 & 11,W 7 LIBERTY CHRISTIAN SCHOOL,PS-12 AUDIO SERMONS ONLINE NOT KJV ONLY KJB church."
+    "description": "FL 32773 SS 945,SM 830 & 11,W 7 LIBERTY CHRISTIAN SCHOOL,PS-12 AUDIO SERMONS ONLINE NOT KJV ONLY KJB church"
   },
   {
     "id": "894",
@@ -4837,7 +4837,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY GOAD. 204 HOLLYWOOD BLVD SE FT WALTON BEACH FL 32546 SS 930,SM 1030,SN 6,W 7 BUS, ORCHESTRA, CHOIR, EGLIN,HURLBURT, WHITING, CORRY, PENSACOLA NOT KJV ONLY,CBM, BMM KJB church."
+    "description": "FT WALTON BEACH FL 32546 SS 930,SM 1030,SN 6,W 7 BUS, ORCHESTRA, CHOIR, EGLIN,HURLBURT, WHITING, CORRY, PENSACOLA NOT KJV ONLY,CBM, BMM KJB church"
   },
   {
     "id": "895",
@@ -4855,7 +4855,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS D SMITH. 3605 LORRAINE RD LAKEWOOD RANCH FL 34211 SS 930,SM 1030,SN 6,W 7 PREACH KJV,NOT KJV ONLY,FBF,BJU KJB church."
+    "description": "LAKEWOOD RANCH FL 34211 SS 930,SM 1030,SN 6,W 7 PREACH KJV,NOT KJV ONLY,FBF,BJU KJB church"
   },
   {
     "id": "896",
@@ -4874,7 +4874,7 @@ export const floridaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JEFF SNYDER. 5800 N CHURCH AVE TAMPA FL 33614 TEXT SERMONS ONLINE TEENS,AWANA,SINGLES,SENIORS HILLSDALE BIBLE INSTITUTE GARBC,KJV-NASB-NKJV KJB church."
+    "description": "TAMPA FL 33614 TEXT SERMONS ONLINE TEENS,AWANA,SINGLES,SENIORS HILLSDALE BIBLE INSTITUTE GARBC,KJV-NASB-NKJV KJB church"
   },
   {
     "id": "897",
@@ -4892,7 +4892,7 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DOUG KING. 1640 SW 61 AVE POMPANO BEACH FL 33068 SS 945,SM 11,SN 6,W 7 S.GRACE-TULIP"
+    "description": "POMPANO BEACH FL 33068 SS 945,SM 11,SN 6,W 7 S.GRACE-TULIP"
   },
   {
     "id": "898",
@@ -4911,12 +4911,12 @@ export const floridaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TODD ADAMS. BOX 12 3629 CRYSTAL ST GOTHA FL 32734 NOT KJV ONLY,BBF,CCM 10005 RIDGE RD NEW PORT RICHEY FL 34654 SM 930 & 11,SN 6,W 7 AUDIO AND VIDEO SERMONS ONLINE, AWANA KJB church."
+    "description": "BOX 12 GOTHA FL 32734 NOT KJV ONLY,BBF,CCM 10005 RIDGE RD NEW PORT RICHEY FL 34654 SM 930 & 11,SN 6,W 7 AUDIO AND VIDEO SERMONS ONLINE, AWANA KJB church"
   },
   {
     "id": "899",
     "name": "FAITH BAPTIST ACADEMY",
-    "address": "10926 NW 39TH AVE",
+    "address": "630 COUNTRYSIDE CHRIST",
     "city": "Tallahassee",
     "state": "FL",
     "zipCode": "10926",
@@ -4931,7 +4931,7 @@ export const floridaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by BILL MARTIN. NKJV, GARBC PO BOX 1999 798 CR 17A S AVON PARK FL 33826 NOT KJV ONLY 10926 NW 39TH AVE GAINESVILLE FL 32606 SS 930,SM 1030,W 630 COUNTRYSIDE CHRISTIAN SCHOOL,PK-12 KJB,UNAFFILIATED, PRE-WRATH, IFB"
+    "description": "NKJV, GARBC PO BOX 1999 798 CR 17A S AVON PARK FL 33826 NOT KJV ONLY 10926 NW 39TH AVE GAINESVILLE FL 32606 SS 930,SM 1030,W IAN SCHOOL,PK-12 KJB,UNAFFILIATED, PRE-WRATH, IFB"
   },
   {
     "id": "900",
@@ -4951,7 +4951,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RANDY JACKSON. 485 HALSEMA RD N JACKSONVILLE FL 32220 SS 10 SM 11, SN 5, W 7 SOULWINNING, LIVE STREAM, NEW BELIEVER DISCIPLESHIP, LUNCH KJB,LIBERTY-U,CCM 1500 E VINE ST KISSIMMEE FL 34744 SS 930,SM 1030,SN 6,W 730 A"
+    "description": "JACKSONVILLE FL 32220 SS 10 SM 11, SN 5, W 7 SOULWINNING, LIVE STREAM, NEW BELIEVER DISCIPLESHIP, LUNCH KJB,LIBERTY-U,CCM 1500 E VINE ST KISSIMMEE FL 34744 SS 930,SM 1030,SN 6,W 730 A"
   },
   {
     "id": "901",
@@ -4972,7 +4972,7 @@ export const floridaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by DUSTIN JANNEY. 3661 CROWN POINT COURT JACKSONVILLE FL 32257 SM 1030,SN 530,W 7 SOULWINNING, TRADITIONAL HYMNS, FAMILY ORIENTATED, SERMONS ONLINE KJV,NKJV,BBF KJB church."
+    "description": "JACKSONVILLE FL 32257 SM 1030,SN 530,W 7 SOULWINNING, TRADITIONAL HYMNS, FAMILY ORIENTATED, SERMONS ONLINE KJV,NKJV,BBF KJB church"
   },
   {
     "id": "902",
@@ -4992,7 +4992,7 @@ export const floridaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by STEVE VETTER. 500 S SEMORAN BLVD ORLANDO FL 32807 SS 930,SM 1045,SN 6,W 630 AWANA,CHOIR,DRAMA,SPANISH,DEAF ORLANDO REGIONAL CHRISTIAN ED SYS,PS-12 NKJV,BBF KJB church."
+    "description": "ORLANDO FL 32807 SS 930,SM 1045,SN 6,W 630 AWANA,CHOIR,DRAMA,SPANISH,DEAF ORLANDO REGIONAL CHRISTIAN ED SYS,PS-12 NKJV,BBF KJB church"
   },
   {
     "id": "903",
@@ -5010,6 +5010,6 @@ export const floridaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1063 835 LARGO RD KEY LARGO FL 33037 SS 1015,SM  845 & 11,W 7"
+    "description": "PO BOX 1063 KEY LARGO FL 33037 SS 1015,SM 845 & 11,W 7"
   }
 ];

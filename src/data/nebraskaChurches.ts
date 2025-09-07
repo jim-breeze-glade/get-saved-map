@@ -17,7 +17,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM ZECHMAN. 614 HOWARD ST SCRIBNER NE 68057 SS 945, SM 1045, SN 4, TH 7 KJB church."
+    "description": "SCRIBNER NE 68057 SS 945, SM 1045, SN 4, TH 7 KJB church"
   },
   {
     "id": "2755",
@@ -35,7 +35,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK ANTHONY. 1860 HWY 77 LYONS NE 68038 SS 10, SM 11, SN 6 KJB church."
+    "description": "1860 HWY 77 LYONS NE 68038 SS 10, SM 11, SN 6 KJB church"
   },
   {
     "id": "2756",
@@ -54,7 +54,7 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JASON DOWELL. PO BOX 34 208 E 4TH ST WAYNE NE 68787 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "PO BOX 34 WAYNE NE 68787 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2757",
@@ -67,13 +67,13 @@ export const nebraskaChurches: Church[] = [
     "longitude": -97.6898,
     "phone": "(308) 868-4124",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB, UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "270 N MAIN AVE PO BOX 97 STAMFORD NE 68977 SS 10, SM 11, SN 6, W 7 LOCATED BETWEEN BEAVER CITY, OXFORD AND ORLEANS NEEDS PASTOR KJB, UNAFFILIATED"
+    "description": "PO BOX 97 STAMFORD NE 68977 SS 10, SM 11, SN 6, W 7 LOCATED BETWEEN BEAVER CITY, OXFORD AND ORLEANS NEEDS"
   },
   {
     "id": "2758",
@@ -91,7 +91,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BOLING. 1726 E 17TH ST SCOTTSBLUFF NE 69361 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "SCOTTSBLUFF NE 69361 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "2759",
@@ -109,7 +109,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN MOORE. PO BOX 453 713 N MONROE ST LEXINGTON NE 68850 SS 930, SM 11, W 7 KJB church."
+    "description": "PO BOX 453 LEXINGTON NE 68850 SS 930, SM 11, W 7 KJB church"
   },
   {
     "id": "2760",
@@ -127,7 +127,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL RAMAGE. 2023 VALLEY AVE FALLS CITY NE 68355 (402( 245-3890 CH SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "FALLS CITY NE 68355 (402( 245-3890 CH SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2761",
@@ -145,12 +145,12 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL REEVES. MEETING AT THE GATHERING PLACE 816 CENTRAL AVE NEBRASKA CITY NE 68410 SS 10,SM 11 KJB church."
+    "description": "MEETING AT THE GATHERING PLACE NEBRASKA CITY NE 68410 SS 10,SM 11 KJB church"
   },
   {
     "id": "2762",
     "name": "NORTH PLATTE BAPTIST CHURCH",
-    "address": "663 E HALLIGAN DR",
+    "address": "663 E HALLIGAN DR NORTH PL",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -158,12 +158,12 @@ export const nebraskaChurches: Church[] = [
     "longitude": -98.0827,
     "phone": "(308) 534-5279",
     "website": "http://www.northplattebaptistchurch.org",
-    "pastor": "",
+    "pastor": "NORTH PLATTE NE 69101",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "663 E HALLIGAN DR NORTH PLATTE NE 69101"
+    "description": "ATTE NE 69101"
   },
   {
     "id": "2763",
@@ -183,12 +183,12 @@ export const nebraskaChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by DOUG ROBERTSON. SS 10, SM 11, SN 6, W 7 OLD FASHIONED PREACHING, TRADITIONAL MUSIC (NO CCM OR SOUTHERN GOSPEL), SOULWINNING, BUS, CROSSROADS CHARACTER TRAINING CENTER FOR TROUBLED TEEN BOYS KJB church."
+    "description": "SS 10, SM 11, SN 6, W 7 OLD FASHIONED PREACHING, TRADITIONAL MUSIC (NO CCM OR SOUTHERN GOSPEL), SOULWINNING, BUS, CROSSROADS CHARACTER TRAINING CENTER FOR TROUBLED TEEN BOYS KJB church"
   },
   {
     "id": "2764",
     "name": "WEST OMAHA BAPTIST CHURCH",
-    "address": "13931 S PLAZA",
+    "address": "7 STUDENT MINIST",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "13931",
@@ -203,7 +203,7 @@ export const nebraskaChurches: Church[] = [
       "Soulwinning",
       "ABA"
     ],
-    "description": "Led by TIM BULLOCK. 13931 S PLAZA OMAHA NE 68137 SS 10, SM 11, SN 6, W 7 STUDENT MINISTRIES FOR TEENS, MENS AND LADIES, ADULT BIBLE CLASSES, SOULWINNING & DISCIPLESHIP,BUS, OFFUT AIRFORCE BASE KJB church."
+    "description": "OMAHA NE 68137 SS 10, SM 11, SN 6, W RIES FOR TEENS, MENS AND LADIES, ADULT BIBLE CLASSES, SOULWINNING & DISCIPLESHIP,BUS, OFFUT AIRFORCE BASE KJB church"
   },
   {
     "id": "2765",
@@ -216,12 +216,12 @@ export const nebraskaChurches: Church[] = [
     "longitude": -97.1405,
     "phone": "(402) 759-1759",
     "website": "http://www.genevanebaptistchurch.org",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "540 S 12TH ST PO BOX 425 GENEVA NE 68361 SS 10, SM 11 NEEDS PASTOR KJB church."
+    "description": "PO BOX 425 GENEVA NE 68361 SS 10, SM 11 NEEDS"
   },
   {
     "id": "2766",
@@ -239,7 +239,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN LARGENT. PO BOX 34217 5111 N 78TH ST OMAHA NE 68134 SM 1030,SN 630,W 730 OFFUT AFB KJB, IBFI"
+    "description": "PO BOX 34217 OMAHA NE 68134 SM 1030,SN 630,W 730 OFFUT AFB KJB, IBFI"
   },
   {
     "id": "2767",
@@ -257,7 +257,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by UNKNOWN. 3343 PEDERSEN DR OMAHA NE 68114 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, PATCH & PEE WEE, TEEN; OMAHA BAPTIST ACADEMY, K5-12, ABEKA,SAXON; OFFUTT AFB KJB church."
+    "description": "OMAHA NE 68114 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, PATCH & PEE WEE, TEEN; OMAHA BAPTIST ACADEMY, K5-12, ABEKA,SAXON; OFFUTT AFB KJB church"
   },
   {
     "id": "2768",
@@ -275,7 +275,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLARENCE PATTERSON. 401 E PARK AVE NORFOLK NE 68701 SS 930,SM 1030,SN 6,W 7 KJB, HBBC"
+    "description": "NORFOLK NE 68701 SS 930,SM 1030,SN 6,W 7 KJB, HBBC"
   },
   {
     "id": "2769",
@@ -294,12 +294,12 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM PEPPEL. 3623 3RD AVE KEARNEY NE 68845 SS 930, SM 11, SN 2, W 7 KJB, UNAFFILIATED"
+    "description": "KEARNEY NE 68845 SS 930, SM 11, SN 2, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2770",
     "name": "BIBLE BAPTIST CHURCH",
-    "address": "800 N ASH ST",
+    "address": "800 N ASH ST MAILING ADDR",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -312,12 +312,12 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICK HUNTLEY. 800 N ASH ST MAILING ADDRESS: 6007 270TH LANE GORDON NE 69343 SS 1030, SM 11, W 7 KJB, HBBC"
+    "description": "ESS: 6007 270TH LANE GORDON NE 69343 SS 1030, SM 11, W 7 KJB, HBBC"
   },
   {
     "id": "2771",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "208 E BEK AVE",
+    "address": "208 E BEK AVE SEWARD",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -332,7 +332,7 @@ export const nebraskaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by HOWARD JORDAN. 208 E BEK AVE SEWARD NE 68434 SS 10,SM 11,SN 5,W 7 KINGS KIDS, OFFUTT AFB 1326 GRANT ST BEATRICE NE 68310 SS 10,SM 11,SN 6,W 7 SOULWINNING, VAN, SPANISH, TEEN KJB, UNAFFILIATED, FAMILY INTEGRATED"
+    "description": "NE 68434 SS 10,SM 11,SN 5,W 7 KINGS KIDS, OFFUTT AFB 1326 GRANT ST BEATRICE NE 68310 SS 10,SM 11,SN 6,W 7 SOULWINNING, VAN, SPANISH, TEEN KJB, UNAFFILIATED, FAMILY INTEGRATED"
   },
   {
     "id": "2772",
@@ -350,7 +350,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN PAINTER. 901 BOX BUTTE AVE ALLIANCE NE 69301 SM 10, SN 1215, W 7 - PRAYER 6 OUTREACH 1ST 3RD TUES 630 KJB church."
+    "description": "ALLIANCE NE 69301 SM 10, SN 1215, W 7 - PRAYER 6 OUTREACH 1ST 3RD TUES 630 KJB church"
   },
   {
     "id": "2773",
@@ -369,7 +369,7 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LARRY DOHMEN. 2400 S 11TH ST LINCOLN NE 68502 SS 945; SM 11, SN 6, W 7 BUS ROUTES, SOULWINNING, OLD FASHIONED HYMNS, STREAMED ON YOUTUBE KJB, HBBC"
+    "description": "LINCOLN NE 68502 SS 945; SM 11, SN 6, W 7 BUS ROUTES, SOULWINNING, OLD FASHIONED HYMNS, STREAMED ON YOUTUBE KJB, HBBC"
   },
   {
     "id": "2774",
@@ -387,7 +387,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMY REAGAN. PO BOX 316 1001 STATE HWY 35 NORFOLK NE 68702 SS 10, SM 11, SN 630, W 630 KJB, HBBC"
+    "description": "PO BOX 316 NORFOLK NE 68702 SS 10, SM 11, SN 630, W 630 KJB, HBBC"
   },
   {
     "id": "2775",
@@ -405,7 +405,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN BOTTERBRODT. 3221 W 13TH GRAND ISLAND NE 68803 SS 10,SM 11,SN 7,W 730 KJB church."
+    "description": "3221 W 13TH GRAND ISLAND NE 68803 SS 10,SM 11,SN 7,W 730 KJB church"
   },
   {
     "id": "2776",
@@ -423,7 +423,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2140 HAWTHORNE AVE CRETE NE 68333 SS 10, SM 11, SN 1, W 7"
+    "description": "CRETE NE 68333 SS 10, SM 11, SN 1, W 7"
   },
   {
     "id": "2777",
@@ -442,12 +442,12 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEFFREY GIRDNER. KJB, HBBC, GIBF"
+    "description": "KJB, HBBC, GIBF"
   },
   {
     "id": "2778",
     "name": "PLAINS BAPTIST CHURCH",
-    "address": "2902 RANDOLPH ST",
+    "address": "2902 RANDOLPH ST LINCOLN",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -460,7 +460,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VERN RICE JR. 2902 RANDOLPH ST LINCOLN NE 68510 SS 10,SM 11,SN 6,W 7 TEENS, CHILDREN, CHOIR, OFFUTT AFB KJB, IBFI"
+    "description": "NE 68510 SS 10,SM 11,SN 6,W 7 TEENS, CHILDREN, CHOIR, OFFUTT AFB KJB, IBFI"
   },
   {
     "id": "2779",
@@ -478,7 +478,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1223 E 6TH ST GRAND ISLAND NE 68801"
+    "description": "GRAND ISLAND NE 68801"
   },
   {
     "id": "2780",
@@ -496,12 +496,12 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEAN PAUL ESCALERA. SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "2781",
     "name": "GRACE BAPTIST CHURCH",
-    "address": "235 S BURLINGTON AVE D",
+    "address": "235 S BURLINGTON AVE D HAST",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -514,12 +514,12 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW DIORIO. PO BOX 1062 235 S BURLINGTON AVE D HASTINGS NE 68901 SS 10,SN 6 KJB, HBBC, GIBF"
+    "description": "PO BOX 1062 INGS NE 68901 SS 10,SN 6 KJB, HBBC, GIBF"
   },
   {
     "id": "2782",
     "name": "MIDLANDS BIBLE BAPTIST CHURCH",
-    "address": "2407 CHANDLER RD",
+    "address": "2407 CHANDLER RD EAST",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -534,7 +534,7 @@ export const nebraskaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOSHUA PRETTYMAN. 2407 CHANDLER RD EAST BELLEVUE NE 68005 SS 930, SM 1030,SN 7, W 7 KINGS KIDS, SOULWINNING, OFFUTT AFB, AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "BELLEVUE NE 68005 SS 930, SM 1030,SN 7, W 7 KINGS KIDS, SOULWINNING, OFFUTT AFB, AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "2783",
@@ -554,7 +554,7 @@ export const nebraskaChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by RAYMOND WICKS. 11825 S 36TH ST BELLEVUE NE 68123 SS 10,SM 11,SN 6,W 7 KINGS KIDS, CHILDREN’S CHURCH; CHRISTIAN SCHOOL, MEMBERS ONLY,ABEKA, K-12; BIBLE INSTITUTE; OFFUTT AFB 5 MILES 16220 US 75 PLATTSMOUTH NE 68048 B KJB church."
+    "description": "BELLEVUE NE 68123 SS 10,SM 11,SN 6,W 7 KINGS KIDS, CHILDREN’S CHURCH; CHRISTIAN SCHOOL, MEMBERS ONLY,ABEKA, K-12; BIBLE INSTITUTE; OFFUTT AFB 5 MILES 16220 US 75 PLATTSMOUTH NE 68048 B KJB church"
   },
   {
     "id": "2784",
@@ -572,7 +572,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT T CULLISON. 1025 N 72 ST OMAHA NE 68132 SS 10,SM 11,SN 730,W 730, BUS, DEAF; MIDWESTERN BAPTIST ACADEMY,K-12; OFFUT AFB KJB, HBBC"
+    "description": "OMAHA NE 68132 SS 10,SM 11,SN 730,W 730, BUS, DEAF; MIDWESTERN BAPTIST ACADEMY,K-12; OFFUT AFB KJB, HBBC"
   },
   {
     "id": "2785",
@@ -592,12 +592,12 @@ export const nebraskaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by MERVIN D GOODRICK. PO BOX 722 951 EAST 1ST OGALLALA NE 69153 SS 10,SM 11,W 7 KJB, BBFI, HBBC"
+    "description": "PO BOX 722 OGALLALA NE 69153 SS 10,SM 11,W 7 KJB, BBFI, HBBC"
   },
   {
     "id": "2786",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "1515 W SOUTH ST",
+    "address": "1515 W SOUTH ST LINCOLN",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -611,7 +611,7 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DWANE JOHNSON. 1515 W SOUTH ST LINCOLN NE 68522 SS 930,SM 1030,SN 6,W 7 OFFUTT AFB KJB, UNAFFILIATED"
+    "description": "NE 68522 SS 930,SM 1030,SN 6,W 7 OFFUTT AFB KJB, UNAFFILIATED"
   },
   {
     "id": "2787",
@@ -629,7 +629,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE SZEKELY. PO BOX 910 NORTH PLATTE NE 69103 1600 E 2ND ST, 69101 KJB church."
+    "description": "PO BOX 910 NORTH PLATTE NE 69103 , 69101 KJB church"
   },
   {
     "id": "2788",
@@ -647,12 +647,12 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN MCQUEEN. 112 COMMERCIAL ST LOOMIS NE 68958 HOLDREGE AREA SS 10,SM 11,W 7 KJB church."
+    "description": "LOOMIS NE 68958 HOLDREGE AREA SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "2789",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "1106 N MAIN ST",
+    "address": "7 AUDIO SERMONS NEEDS PAST",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -660,12 +660,12 @@ export const nebraskaChurches: Church[] = [
     "longitude": -99.0274,
     "phone": "(402) 721-1059",
     "website": "http://libertybaptistne.com",
-    "pastor": "JAMES LESLIE",
+    "pastor": "1320 Q ST BRIDGEPORT NE 69336 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES LESLIE. 1106 N MAIN ST FREMONT NE 68025 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS NEEDS PASTOR 1320 Q ST BRIDGEPORT NE 69336 KJB church."
+    "description": "FREMONT NE 68025 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS NEEDS"
   },
   {
     "id": "2790",
@@ -683,12 +683,12 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ANDREW O. 1020 17TH AVE SIDNEY NE 69162-1524 SS 945,SM 11,SN 130,W 7"
+    "description": "SIDNEY NE 69162-1524 SS 945,SM 11,SN 130,W 7"
   },
   {
     "id": "2791",
     "name": "PRAIRIE BAPTIST CHURCH",
-    "address": "155 BARTON AVE",
+    "address": "155 BARTON AVE BREWST",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -701,7 +701,7 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 55 155 BARTON AVE BREWSTER NE 68821-0055"
+    "description": "PO BOX 55 ER NE 68821-0055"
   },
   {
     "id": "2792",
@@ -720,7 +720,7 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM AMMERMAN. NOT KJV ONLY, BBF KJB church."
+    "description": "NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2793",
@@ -733,12 +733,12 @@ export const nebraskaChurches: Church[] = [
     "longitude": -98.257,
     "phone": "(402) 895-4227",
     "website": "",
-    "pastor": "TIM LYZENGA",
+    "pastor": "NOT KJV ONLY KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM LYZENGA. 4845 MARSHALL DR OMAHA NE 68137 PROPHETS CHAMBER, OFFUT AFB NOT KJV ONLY PO BOX 66 302 S PINE ST MAXWELL NE 69151 SS 945,SM 11,SN 630,W 7 NEEDS PASTOR NOT KJV ONLY KJB church."
+    "description": "OMAHA NE 68137 PROPHETS CHAMBER, OFFUT AFB NOT KJV ONLY PO BOX 66 302 S PINE ST MAXWELL NE 69151 SS 945,SM 11,SN 630,W 7 NEEDS"
   },
   {
     "id": "2794",
@@ -757,7 +757,7 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ED ANDERSON. 16909 PACIFIC ST OMAHA NE 68118 SS 930,SM 1030,SN 6,W 7 OFFUTT AFB NOT KJV ONLY, GARBC PO BOX 112 605 5TH ST PAWNEE CITY NE 68420 NKJV, GARBC KJB church."
+    "description": "OMAHA NE 68118 SS 930,SM 1030,SN 6,W 7 OFFUTT AFB NOT KJV ONLY, GARBC PO BOX 112 605 5TH ST PAWNEE CITY NE 68420 NKJV, GARBC KJB church"
   },
   {
     "id": "2795",
@@ -776,12 +776,12 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT WALKER. OMAHA NE 68117-1203 OFFUTT AFB S.GRACE-TULIP 1771 43RD AVE COLUMBUS NE 68061 SS 945, SM 11, SN 630,W 730 PREACH-KJV, NOT KJV ONLY, BBFI KJB church."
+    "description": "OMAHA NE 68117-1203 OFFUTT AFB S.GRACE-TULIP COLUMBUS NE 68061 SS 945, SM 11, SN 630,W 730 PREACH-KJV, NOT KJV ONLY, BBFI KJB church"
   },
   {
     "id": "2796",
     "name": "GENTLE SHEPHERD BAPTIST CHURCH",
-    "address": "1601 W BURNHAM ST",
+    "address": "1601 W BURNHAM ST LINCOLN",
     "city": "Lincoln",
     "state": "NE",
     "zipCode": "",
@@ -795,7 +795,7 @@ export const nebraskaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by GREG L UBBEN. 1601 W BURNHAM ST LINCOLN NE 68522 SS 10,SM 11,SN 6, W 7 NOT KJV ONLY, GARBC 2440 S 10TH ST OMAHA NE 68108 SS 945,SM 11,SN 6,W 7 OFFUTT AFB NKJV, GARBC KJB church."
+    "description": "NE 68522 SS 10,SM 11,SN 6, W 7 NOT KJV ONLY, GARBC 2440 S 10TH ST OMAHA NE 68108 SS 945,SM 11,SN 6,W 7 OFFUTT AFB NKJV, GARBC KJB church"
   },
   {
     "id": "2797",
@@ -813,6 +813,6 @@ export const nebraskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5550 N 60TH AVE OMAHA NE 68104 SS 945,SM 11,SN 6,W 7 YOUTH, OFFUTT AFB"
+    "description": "OMAHA NE 68104 SS 945,SM 11,SN 6,W 7 YOUTH, OFFUTT AFB"
   }
 ];

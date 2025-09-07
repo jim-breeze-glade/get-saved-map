@@ -18,12 +18,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NATHAN BARBER. 107 N MAJOR ST EUREKA IL 61530 SS 10, SM 11, SN 6, TH 7 BUS, TEENS KJB, UNAFFILIATED, AIBCI"
+    "description": "EUREKA IL 61530 SS 10, SM 11, SN 6, TH 7 BUS, TEENS KJB, UNAFFILIATED, AIBCI"
   },
   {
     "id": "1231",
     "name": "SHOREWOOD BAPTIST CHURCH",
-    "address": "5820 W THEODORE ST",
+    "address": "5820 W THEODORE ST PL",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -36,7 +36,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "MEETING AT ORENIC INTERMEDIATE SCHOOL 5820 W THEODORE ST PLAINFIELD IL 60586 SM 1030, SN & WN CALL FOR TIME & LOCATION"
+    "description": "MEETING AT ORENIC INTERMEDIATE SCHOOL AINFIELD IL 60586 SM 1030, SN & WN CALL FOR TIME & LOCATION"
   },
   {
     "id": "1232",
@@ -55,12 +55,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DENNIS COCKS. SOULWINNING, DISCIPLESHIP, LEADERSHIP TRACK, KJB church."
+    "description": "SOULWINNING, DISCIPLESHIP, LEADERSHIP TRACK, KJB church"
   },
   {
     "id": "1233",
     "name": "NEW HOPE BAPTIST CHURCH",
-    "address": "4101 NEEDHAM RD",
+    "address": "4101 NEEDHAM RD PL",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -73,7 +73,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY MCMURTRY. 4101 NEEDHAM RD PLANO IL 60545 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "ANO IL 60545 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "1234",
@@ -92,7 +92,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID WRIGHT. 2002 9TH AVE ROCK FALLS IL 61071 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS , RADIO KJB church."
+    "description": "ROCK FALLS IL 61071 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS , RADIO KJB church"
   },
   {
     "id": "1235",
@@ -110,7 +110,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL FREDERICK. 1771 CAMP JACKSON RD CAHOKIA IL 62206 SS 10, SM 11, SN 6, W 7 GPS will show E of 255, it is W of 255 KJB church."
+    "description": "CAHOKIA IL 62206 SS 10, SM 11, SN 6, W 7 GPS will show E of 255, it is W of 255 KJB church"
   },
   {
     "id": "1236",
@@ -128,7 +128,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON MONCOFSKY. 3561 BOONE ST RD SALEM IL  62881 SS 930, SM 1030, SN 6 KJB church."
+    "description": "SALEM IL 62881 SS 930, SM 1030, SN 6 KJB church"
   },
   {
     "id": "1237",
@@ -147,7 +147,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PHIL PRICE. 325 S 8TH STREET QUINCY IL 62301 SS 10,SM 11,SN 6,W 7, KINGS KIDS 6 SN, KIDS KORNER 630-650 W SOULWINNING KJB church."
+    "description": "QUINCY IL 62301 SS 10,SM 11,SN 6,W 7, KINGS KIDS 6 SN, KIDS KORNER 630-650 W SOULWINNING KJB church"
   },
   {
     "id": "1238",
@@ -160,13 +160,13 @@ export const illinoisChurches: Church[] = [
     "longitude": -88.7917,
     "phone": "(240) 408-8460",
     "website": "http://www.lighthousebc-dennison.com",
-    "pastor": "TONY YE",
+    "pastor": "205 S STANFORD ST GRIGGSVILLE IL 62340 KJB, FUNDAMENTAL",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY YE. 21504 N 2250TH ST DENNISON IL 26423 SS 930,SM 1030,SN 5,W 7 NEEDS PASTOR 205 S STANFORD ST GRIGGSVILLE IL 62340 KJB, FUNDAMENTAL"
+    "description": "DENNISON IL 26423 SS 930,SM 1030,SN 5,W 7 NEEDS"
   },
   {
     "id": "1239",
@@ -184,12 +184,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEVI DEATRICK. YMCA- 2627 CARLYLE AVE BELLEVILLE IL 62221 SS 930, SM 1030 WED- GATEWAY GROWTH GROUPS; ST CLAIR COUNTY ILLINOIS AND METRO ST LOUIS; 2 MILES SCOTT AFB KJB, AIBCI 931 S RAILROAD AVE PAXTON IL 60957 SS 9"
+    "description": "BELLEVILLE IL 62221 SS 930, SM 1030 WED- GATEWAY GROWTH GROUPS; ST CLAIR COUNTY ILLINOIS AND METRO ST LOUIS; 2 MILES SCOTT AFB KJB, AIBCI 931 S RAILROAD AVE PAXTON IL 60957 SS 9"
   },
   {
     "id": "1240",
     "name": "AVERYVILLE BAPTIST CHURCH",
-    "address": "1070 SPRING BAY RD",
+    "address": "1070 SPRING BAY RD EAST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -202,12 +202,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH D THIBO. 1070 SPRING BAY RD EAST PEORIA IL 61611 SS 10,SM 11,SN 630,W 7 BUS, AUDIO SERMONS KJB, HYLES"
+    "description": "PEORIA IL 61611 SS 10,SM 11,SN 630,W 7 BUS, AUDIO SERMONS KJB, HYLES"
   },
   {
     "id": "1241",
     "name": "BAY VIEW BAPTIST CHURCH",
-    "address": "105 WOODLAND HILLS DR",
+    "address": "105 WOODLAND HILLS DR EAST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -215,12 +215,12 @@ export const illinoisChurches: Church[] = [
     "longitude": -87.4986,
     "phone": "(309) 699-4909",
     "website": "http://www.bayviewbaptistministries.org",
-    "pastor": "",
+    "pastor": "EAST PEORIA IL 61611 SS9,SM 10,SN 6,W 7",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "105 WOODLAND HILLS DR EAST PEORIA IL 61611 SS9,SM 10,SN 6,W 7"
+    "description": "PEORIA IL 61611 SS9,SM 10,SN 6,W 7"
   },
   {
     "id": "1242",
@@ -238,7 +238,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR DANIEL HAIFLEY. 401 MORGAN ST PEORIA IL 61603 SS 930,SM 1030,SN 630,W 7 KJB church."
+    "description": "PEORIA IL 61603 SS 930,SM 1030,SN 630,W 7 KJB church"
   },
   {
     "id": "1243",
@@ -256,7 +256,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD R LETSON. 3400 DEWITT AVE MATTOON IL 61938 SS 930,SM 1030,SN 6,W 7,RU FRI 7H KJB church."
+    "description": "MATTOON IL 61938 SS 930,SM 1030,SN 6,W 7,RU FRI 7H KJB church"
   },
   {
     "id": "1244",
@@ -274,12 +274,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEN W KARROW. PO BOX 338 304 N MAPLE ST (HWY 111) BRIGHTON IL 62012 SS 930, SM 1030, SN 6, W 7 KJB, HYLES"
+    "description": "PO BOX 338 BRIGHTON IL 62012 SS 930, SM 1030, SN 6, W 7 KJB, HYLES"
   },
   {
     "id": "1245",
     "name": "FIFTY-EIGHTH AVENUE BAPTIST CHURCH",
-    "address": "2228 S 58th AVE",
+    "address": "62946 LIGHTHOUSE CHRIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -293,7 +293,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LOY L BARGER. 2228 S 58th AVE CICERO IL 60804 NEAR CHICAGO 70 LIGHTHOUSE RD HARRISBURG IL 62946 LIGHTHOUSE CHRISTIAN SCHOOL KJB, UNAFFILIATED"
+    "description": "2228 S 58th AVE CICERO IL 60804 NEAR CHICAGO HARRISBURG IL IAN SCHOOL KJB, UNAFFILIATED"
   },
   {
     "id": "1246",
@@ -312,7 +312,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "525 ADA ST CARY IL 60013 SM 10, SN 530, W 7 29 MILES FROM GREAT LAKES NAVAL BASE KJB,WEST COAST BAPTIST COLLEGE,UNAFFILIATED"
+    "description": "CARY IL 60013 SM 10, SN 530, W 7 29 MILES FROM GREAT LAKES NAVAL BASE KJB,WEST COAST BAPTIST COLLEGE,UNAFFILIATED"
   },
   {
     "id": "1247",
@@ -331,12 +331,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANNY ORTIZ SR. 167 E THIRD ST DALLAS CITY IL 62330 SS 1015,SM 9 SENIORS, REFORMERS UNANIMOUS, PROPHETS CHAMBER IGLESIA BIBLICA BAUTISTA PO BOX 4296 604 173RD ST HAMMOND IN 46324 KJB, UNAFFILIATED"
+    "description": "DALLAS CITY IL 62330 SS 1015,SM 9 SENIORS, REFORMERS UNANIMOUS, PROPHETS CHAMBER IGLESIA BIBLICA BAUTISTA PO BOX 4296 604 173RD ST HAMMOND IN 46324 KJB, UNAFFILIATED"
   },
   {
     "id": "1248",
     "name": "HARVEST BAPTIST CHURCH",
-    "address": "151 S MAIN ST",
+    "address": "151 S MAIN ST ST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -350,7 +350,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CURTIS L COCHRAN. 151 S MAIN ST STOCKTON IL 61085 SM 10, SA 1230, TH 630 SOULWINNING, NURSERY, TEENS, JUNIOR CHURCH KJB,AIBCI"
+    "description": "OCKTON IL 61085 SM 10, SA 1230, TH 630 SOULWINNING, NURSERY, TEENS, JUNIOR CHURCH KJB,AIBCI"
   },
   {
     "id": "1249",
@@ -369,7 +369,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JEREMY BAIER. 1028 CLOVERDALE RD CHILLICOTHE IL 61523 SS 945,SM 11,SN 6,W 7 BUS,KINGS KIDS; CALVARY BAPTIST ACADEMY PREK-12 KJB, UNAFFILIATED, FAIRHAVEN"
+    "description": "CHILLICOTHE IL 61523 SS 945,SM 11,SN 6,W 7 BUS,KINGS KIDS; CALVARY BAPTIST ACADEMY PREK-12 KJB, UNAFFILIATED, FAIRHAVEN"
   },
   {
     "id": "1250",
@@ -388,7 +388,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBERT DAVID BROWN. 628 E 12TH ST GIBSON CITY IL 60936 SM 1030, SN 5, TH 6 KJB, WEST COAST-BC"
+    "description": "GIBSON CITY IL 60936 SM 1030, SN 5, TH 6 KJB, WEST COAST-BC"
   },
   {
     "id": "1251",
@@ -407,12 +407,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DR RON REYNOLDS. 945 S JASPER DECATUR IL 62521 SS 930,SM 1030,SN 6,W 7 BUS, PATCH PIRATE, PHOSTER CLUB, SOULWINNING, TEEN KJB church."
+    "description": "945 S JASPER DECATUR IL 62521 SS 930,SM 1030,SN 6,W 7 BUS, PATCH PIRATE, PHOSTER CLUB, SOULWINNING, TEEN KJB church"
   },
   {
     "id": "1252",
     "name": "MT VERNON BAPTIST TEMPLE",
-    "address": "817 WOODLAND DR",
+    "address": "630 MT VERNON CHRIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -425,7 +425,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON SMITH. 817 WOODLAND DR MT VERNON IL 62864 SS 930, SM 1030,SN 130,W 630 MT VERNON CHRISTIAN SCHOOL K-12; AUDIO SERMONS, BUS, KINGS KIDS KJB church."
+    "description": "MT VERNON IL 62864 SS 930, SM 1030,SN 130,W IAN SCHOOL K-12; AUDIO SERMONS, BUS, KINGS KIDS KJB church"
   },
   {
     "id": "1253",
@@ -444,12 +444,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RANDY JUSTUS. 1801 S BROOKSIDE ST CENTRALIA IL 62801 SS 930,SM 1030,SN 6,W 6 AUDIO SERMONS KJB, WCBC 1301 S 14TH ST PEKIN IL 61554 SS 930,SM 1030,SN 6,W 7 SOULWINNING, DISCIPLESHIP, BIBLE STUDIES, CHOIR, CHILDREN,"
+    "description": "CENTRALIA IL 62801 SS 930,SM 1030,SN 6,W 6 AUDIO SERMONS KJB, WCBC 1301 S 14TH ST PEKIN IL 61554 SS 930,SM 1030,SN 6,W 7 SOULWINNING, DISCIPLESHIP, BIBLE STUDIES, CHOIR, CHILDREN"
   },
   {
     "id": "1254",
     "name": "NEW BEGINNINGS BAPTIST CHURCH",
-    "address": "305 N GROVE ST",
+    "address": "305 N GROVE ST CREST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -462,12 +462,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR ROD MATTOON. PO BOX 220 305 N GROVE ST CRESTON IL 60113 ROCHELLE AREA SS 10, SM 11,SN 6, W 7 KJB church."
+    "description": "PO BOX 220 ON IL 60113 ROCHELLE AREA SS 10, SM 11,SN 6, W 7 KJB church"
   },
   {
     "id": "1255",
     "name": "LINCOLN LAND BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 4504",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -481,7 +481,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY BRANAM. PO BOX 4504 4805 OLD RT 36 SPRINGFIELD IL 62708 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "4805 OLD RT 36 SPRINGFIELD IL 62708 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1256",
@@ -499,7 +499,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "303 W FRANKLIN ST BAILEYVILLE IL 61007"
+    "description": "BAILEYVILLE IL 61007"
   },
   {
     "id": "1257",
@@ -517,7 +517,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD DELHOTAL. SS 930, SM 1040, SN 630 W 7 30 MILES W OF ROCKFORD AND 6 MILES S OF FREEPORT KJB,FAIRHAVEN-BC"
+    "description": "SS 930, SM 1040, SN 630 W 7 KJB,FAIRHAVEN-BC"
   },
   {
     "id": "1258",
@@ -536,7 +536,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID LYNN. 818 N CHURCH ST PRINCETON IL 61356 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB,HYLES 425 RUSCHE AVE CREVE COEUR IL 61610 SS 945,SM 1045,SN 6,W 7 SOULWINNING, KINGS KIDS, VAN, CHOIR, AUDIO SERMONS"
+    "description": "PRINCETON IL 61356 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB,HYLES 425 RUSCHE AVE CREVE COEUR IL 61610 SS 945,SM 1045,SN 6,W 7 SOULWINNING, KINGS KIDS, VAN, CHOIR, AUDIO SERMONS"
   },
   {
     "id": "1259",
@@ -555,12 +555,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE RIMI. 2121 W GALENA BLVD AURORA IL 60506 KJB,HAC,UNAFFILIATED"
+    "description": "AURORA IL 60506 KJB,HAC,UNAFFILIATED"
   },
   {
     "id": "1260",
     "name": "GEM CITY BAPTIST CHURCH",
-    "address": "901 N 4TH ST",
+    "address": "900 W NORTHERN AVE",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -573,12 +573,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERALD MCPHILLIPS. PO BOX 3901 901 N 4TH ST QUINCY IL 62305 SS 10, SM 11, SN 1, W 6 AIBC OF IL 900 W NORTHERN AVE TAYLORVILLE IL 62568 SS 930,SM 1030,SN 6 BUS, KINGS KIDS KJB church."
+    "description": "PO BOX 3901 901 N 4TH ST QUINCY IL 62305 SS 10, SM 11, SN 1, W 6 AIBC OF IL TAYLORVILLE IL 62568 SS 930,SM 1030,SN 6 BUS, KINGS KIDS KJB church"
   },
   {
     "id": "1261",
     "name": "CHICAGOLAND BAPTIST CHURCH",
-    "address": "18247 ADA ST",
+    "address": "60438 MEETING TEMPORARILY AT THE LUTHER EAST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "18247",
@@ -592,12 +592,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LUIS ZAPATA. 18247 ADA ST LANSING IL 60438 MEETING TEMPORARILY AT THE LUTHER EAST HIGH SCHOOL 2750 GLENWOOD LANSING RD (PLEASE DO NOT SEND MAIL TO THIS ADDRESS) SS 10, SM 11,SN 6 KJB,HAC,REINA VALERA 1960 IGLESIA"
+    "description": "LANSING IL HIGH SCHOOL 2750 GLENWOOD LANSING RD (PLEASE DO NOT SEND MAIL TO THIS ADDRESS) SS 10, SM 11,SN 6 KJB,HAC,REINA VALERA 1960 IGLESIA"
   },
   {
     "id": "1262",
     "name": "FUNDAMENTAL BAPTIST CHURCH",
-    "address": "5122 S WINCHESTER",
+    "address": "7 LIGHTHOUSE CHRIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -612,7 +612,7 @@ export const illinoisChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by MARK HILTIBIDAL. 5122 S WINCHESTER CHICAGO IL 60609 SPANISH 42 HWY 34 N RALEIGH IL 62977 3196 RT 251 N LASALLE IL 61301 SS 930,SM 1030,SN 6,W 7 LIGHTHOUSE CHRISTIAN SCHOOL,K-12,ACE, MEMBERS ONLY; BUS, AUDIO SERMONS KJB church."
+    "description": "CHICAGO IL 60609 SPANISH 42 HWY 34 N RALEIGH IL 62977 3196 RT 251 N LASALLE IL 61301 SS 930,SM 1030,SN 6,W IAN SCHOOL,K-12,ACE, MEMBERS ONLY; BUS, AUDIO SERMONS KJB church"
   },
   {
     "id": "1263",
@@ -631,7 +631,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KEITH HARRISON. 6401 S KOMENSKY CHICAGO IL 60632 WEST LAWN AREA SS 10,SM 11,SN 6,W 730 SOULWINNING 501 N STATE ST LOCKPORT IL 60441 SS 930,SM 1030,SN 6,W 7 SOULWINNING, VAN, CHILDREN, TEEN, AUDIO SERMONS KJB, AIBCI"
+    "description": "6401 S KOMENSKY CHICAGO IL 60632 WEST LAWN AREA SS 10,SM 11,SN 6,W 730 SOULWINNING LOCKPORT IL 60441 SS 930,SM 1030,SN 6,W 7 SOULWINNING, VAN, CHILDREN, TEEN, AUDIO SERMONS KJB, AIBCI"
   },
   {
     "id": "1264",
@@ -649,7 +649,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 197 1160 ROMANS RD BEECHER IL 60401"
+    "description": "PO BOX 197 BEECHER IL 60401"
   },
   {
     "id": "1265",
@@ -668,12 +668,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by GARY MCKEE. SS 10,SM 11,SN 630,W 7 SOULWINNING KJB church."
+    "description": "SS 10,SM 11,SN 630,W 7 SOULWINNING KJB church"
   },
   {
     "id": "1266",
     "name": "SHOOTING PARK ROAD BAPTIST CHURCH",
-    "address": "4281 SHOOTING PARK RD",
+    "address": "7028 RYDBERG RD ROCKFORD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -687,7 +687,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by AL BUGBEE. 4281 SHOOTING PARK RD PERU IL 61354 SS 930,SM 1030,SN 630,W 7 KINGS KIDS, SOULWINNING 7028 RYDBERG RD ROCKFORD IL 61109 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER, AUDIO SERMONS 210 N MARION ST MEREDOSI KJB church."
+    "description": "PERU IL 61354 SS 930,SM 1030,SN 630,W 7 KINGS KIDS, SOULWINNING IL 61109 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER, AUDIO SERMONS 210 N MARION ST MEREDOSI KJB church"
   },
   {
     "id": "1267",
@@ -705,7 +705,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE JONES. 2339 N OAKLAND AVE DECATUR IL 62526 KJB,PRE-MIL"
+    "description": "DECATUR IL 62526 KJB,PRE-MIL"
   },
   {
     "id": "1268",
@@ -724,7 +724,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICHARD SHRIBER. RR 1 BOX 63 2663 MAIN ST LAKE CITY IL 61937 SS 930,SM 1030,SN 630,W 7 SOULWINNING, KINGS KIDS KJB church."
+    "description": "RR 1 BOX 63 LAKE CITY IL 61937 SS 930,SM 1030,SN 630,W 7 SOULWINNING, KINGS KIDS KJB church"
   },
   {
     "id": "1269",
@@ -742,7 +742,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY SEVERT. 1074 MONROE ST GALESBURG IL 61401 SS 10,SM 11,W 630 KJB church."
+    "description": "GALESBURG IL 61401 SS 10,SM 11,W 630 KJB church"
   },
   {
     "id": "1270",
@@ -760,7 +760,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ZACH ROGERS. PO BOX 949 200 E FAST AVE MACKINAW IL 61755 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "PO BOX 949 MACKINAW IL 61755 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1271",
@@ -778,7 +778,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE TAYLOR. 9024 W LANCASTER RD BARTONVILLE IL 61607 SM 1030,SN 6,W 7 KJB church."
+    "description": "BARTONVILLE IL 61607 SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1272",
@@ -797,7 +797,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PHIL STRINGER. 235 W DOUGLAS ST PRINCEVILLE IL 61559 SS 945,SM 1045,SN 6,W 7 BUS, SOULWINNING, RADIO, DEAF KJB church."
+    "description": "PRINCEVILLE IL 61559 SS 945,SM 1045,SN 6,W 7 BUS, SOULWINNING, RADIO, DEAF KJB church"
   },
   {
     "id": "1273",
@@ -816,12 +816,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by ROGER D LONG. 4455 N SEELEY AVE CHICAGO IL 60625 4437 N SEELEY AVE (SCHOOL) SS 945,SM 11,SN 630,W 7 AUDIO SERMONS , BUS, PATCH PIRATE, CHOIR; RAVENSWOOD BAPTIST CHRISTIAN SCHOOL PS-12 10335 N 1100TH ST NEWTON IL 62 KJB church."
+    "description": "CHICAGO IL 60625 4437 N SEELEY AVE (SCHOOL) SS 945,SM 11,SN 630,W 7 AUDIO SERMONS , BUS, PATCH PIRATE, CHOIR; RAVENSWOOD BAPTIST CHRISTIAN SCHOOL PS-12 10335 N 1100TH ST NEWTON IL 62 KJB church"
   },
   {
     "id": "1274",
     "name": "COLONIAL BAPTIST CHURCH",
-    "address": "1232 W FREMONT ST",
+    "address": "12451 S KOSTNER AVE",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -836,7 +836,7 @@ export const illinoisChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MIKE FRENCH. 1232 W FREMONT ST GALESBURG IL 61401 SS 930,SM 1030,SN 6, W 7 SOULWINNING KJB,UNAFFILIATED 12451 S KOSTNER AVE ALSIP IL 60658 SS 945,SM 1145,SN 6, W 7 GREAT LAKES NAVAL STATION KJB,UNAFFILIATED 804 N"
+    "description": "GALESBURG IL 61401 SS 930,SM 1030,SN 6, W 7 SOULWINNING KJB,UNAFFILIATED ALSIP IL 60658 SS 945,SM 1145,SN 6, W 7 GREAT LAKES NAVAL STATION KJB,UNAFFILIATED 804 N"
   },
   {
     "id": "1275",
@@ -854,7 +854,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN BANMAN. 2007 BELTLINE RD COLLINSVILLE IL 62234 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS ; SCOTT USAF 25 MILES KJB,MBBC,NTAIBC,BJU"
+    "description": "COLLINSVILLE IL 62234 SS 10,SM 11,SN 6,W 730 AUDIO SERMONS ; SCOTT USAF 25 MILES KJB,MBBC,NTAIBC,BJU"
   },
   {
     "id": "1276",
@@ -872,7 +872,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JUSTYN SMITH. 1919 BALTIMORE AVE DECATUR IL 62521 SS 930,SM 11,SN 6,W 7 KJB, PCC,TRADITIONAL MUSIC"
+    "description": "DECATUR IL 62521 SS 930,SM 11,SN 6,W 7 KJB, PCC,TRADITIONAL MUSIC"
   },
   {
     "id": "1277",
@@ -891,7 +891,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICK BEVINS. 9600 N BROADWAY ST PEORIA IL 61615 SS 10, SM 11, SN 6, W 7 NURSERY, SOULWINNING, JOLLY 60’S SENIOR'S, CORRESPONDENCE COURSE, PEORIA RESCUE MINISTRY, TEENS, VBS, JUNIOR AND TEEN CAMP, NEAR MOSSVILLE 19 KJB church."
+    "description": "PEORIA IL 61615 SS 10, SM 11, SN 6, W 7 NURSERY, SOULWINNING, JOLLY 60’S SENIOR'S, CORRESPONDENCE COURSE, PEORIA RESCUE MINISTRY, TEENS, VBS, JUNIOR AND TEEN CAMP, NEAR MOSSVILLE 19 KJB church"
   },
   {
     "id": "1278",
@@ -910,7 +910,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BILL STEDMAN. 1619 COYNE CENTER RD MILAN IL 61264 SS 930,SM 1030,SN 6,W 7 REFORMERS UNANIMOUS KJB,SHAWNEE-BC 14841 S KEDZIE AVE POSEN IL 60469 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
+    "description": "MILAN IL 61264 SS 930,SM 1030,SN 6,W 7 REFORMERS UNANIMOUS KJB,SHAWNEE-BC 14841 S KEDZIE AVE POSEN IL 60469 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "1279",
@@ -928,12 +928,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES WAGAHOFF. 220 W MILL ST KEWANEE IL 61443 KJB church."
+    "description": "KEWANEE IL 61443 KJB church"
   },
   {
     "id": "1280",
     "name": "BLESSED HOPE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 603",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -946,7 +946,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK MORGAN. PO BOX 603 RT 48 W RAYMOND IL 62560 SS 930,SM 1030,SN 630,W 630 KJB church."
+    "description": "RT 48 W RAYMOND IL 62560 SS 930,SM 1030,SN 630,W 630 KJB church"
   },
   {
     "id": "1281",
@@ -965,7 +965,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ADAM BJORK. 331 N MACON ST LATHAM IL 62543 SS 930,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "LATHAM IL 62543 SS 930,SM 1030,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1282",
@@ -983,7 +983,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE GURLEY. 385 SILVER ST ELGIN IL 60123 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church."
+    "description": "ELGIN IL 60123 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "1283",
@@ -1001,7 +1001,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE P MYERS. 6732 N 1075TH ST ROBINSON IL 62454 SS 930,SM 1030,SN 630,W 7 KJB,AIBCI"
+    "description": "ROBINSON IL 62454 SS 930,SM 1030,SN 630,W 7 KJB,AIBCI"
   },
   {
     "id": "1284",
@@ -1019,7 +1019,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN WILLIS. BOX 546 209 W FIFTH ST PECATONICA IL 61063-0546 819 WASHINGTON ST SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "PECATONICA IL 61063-0546 819 WASHINGTON ST SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1285",
@@ -1055,12 +1055,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL WOODWARD. KJB,GIPP 401 N CLINTON DWIGHT IL 60420 SS 945,SM 1045,W 715 KJB,OBC"
+    "description": "KJB,GIPP 401 N CLINTON DWIGHT IL 60420 SS 945,SM 1045,W 715 KJB,OBC"
   },
   {
     "id": "1287",
     "name": "OHIO VALLEY BAPTIST CHURCH",
-    "address": "714 FILMORE ST",
+    "address": "1156 W NEW MONEE RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1074,12 +1074,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT UELTZEN. 714 FILMORE ST METROPOLIS IL 62960 SS 10,SM 11,SN 6,W 7 SOULWINNING,BUS KJB,HYLES 1156 W NEW MONEE RD CRETE IL 60417 SS 10,SM 11,SN 6,W 6 3401 MARION AVE MATTOON IL 61938 SS 930,SM 1030,SN 6,W 7 AUDIO"
+    "description": "METROPOLIS IL 62960 SS 10,SM 11,SN 6,W 7 SOULWINNING,BUS KJB,HYLES CRETE IL 60417 SS 10,SM 11,SN 6,W 6 3401 MARION AVE MATTOON IL 61938 SS 930,SM 1030,SN 6,W 7 AUDIO"
   },
   {
     "id": "1288",
     "name": "PARK MEADOWS BAPTIST CHURCH",
-    "address": "800 N MEMORIAL PARK RD",
+    "address": "800 N MEMORIAL PARK RD LINCOLN",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1093,12 +1093,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN HORNER. 800 N MEMORIAL PARK RD LINCOLN IL 62656 SS 930,SM 1030,SN 6,W 715 BOOKS TAPES ETC. FOR SALE (LOTS OF FAMILY ITEMS) KJB,UNAFFILIATED PO BOX 887 212 E CENTRAL MINIER IL 61759 SS 10,SM 1045,SN 6,W 7 PO B"
+    "description": "IL 62656 SS 930,SM 1030,SN 6,W 715 BOOKS TAPES ETC. FOR SALE (LOTS OF FAMILY ITEMS) KJB,UNAFFILIATED PO BOX 887 212 E CENTRAL MINIER IL 61759 SS 10,SM 1045,SN 6,W 7 PO B"
   },
   {
     "id": "1289",
     "name": "LAMARSH BAPTIST CHURCH",
-    "address": "9507 W MAPLE RIDGE RD",
+    "address": "9507 W MAPLE RIDGE RD MAPL",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1111,7 +1111,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "PO BOX 40 9507 W MAPLE RIDGE RD MAPLETON IL 61547 SS 930,SM 1030,SN 6,W 7,THU SW 630 SOULWINNING, BUS"
+    "description": "PO BOX 40 ETON IL 61547 SS 930,SM 1030,SN 6,W 7,THU SW 630 SOULWINNING, BUS"
   },
   {
     "id": "1290",
@@ -1129,7 +1129,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAY ARNOLD.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1291",
@@ -1148,7 +1148,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM JETT. 4201 EDGEWATER DR PEKIN IL 61604 Near PEORIA SS 10,SM 11,SN 1,W 7 AUDIO SERMONS KJB,BBF,AIBCI"
+    "description": "PEKIN IL 61604 Near PEORIA SS 10,SM 11,SN 1,W 7 AUDIO SERMONS KJB,BBF,AIBCI"
   },
   {
     "id": "1292",
@@ -1166,7 +1166,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "SBC"
     ],
-    "description": "10110 S CENTRAL AVE OAK LAWN IL 60453 SS 10,SM 11,SN 6,W 7 SBC church."
+    "description": "OAK LAWN IL 60453 SS 10,SM 11,SN 6,W 7 SBC church"
   },
   {
     "id": "1293",
@@ -1184,7 +1184,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM SCUDDER. KJB,IFCA"
+    "description": "KJB,IFCA"
   },
   {
     "id": "1294",
@@ -1202,7 +1202,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEY WATT. 60 QUENTIN RD LAKE ZURICH IL 60047 HAWTHORN WOODS AREA SS 945,SM 11,SN 6,W 7 LIVE SERMONS, AWANA, DAYSPRING BIBLE COLLEGE KJB,SWORD OF THE LORD,HYLES,FAIRHAVEN-BC,AMBASSADOR-BC,TTU-GRAD 78,"
+    "description": "LAKE ZURICH IL 60047 HAWTHORN WOODS AREA SS 945,SM 11,SN 6,W 7 LIVE SERMONS, AWANA, DAYSPRING BIBLE COLLEGE KJB,SWORD OF THE LORD,HYLES,FAIRHAVEN-BC,AMBASSADOR-BC,TTU-GRAD 78"
   },
   {
     "id": "1295",
@@ -1223,12 +1223,12 @@ export const illinoisChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by MELVIN SWANSON. 6301 N SYLER ST PEORIA IL 61615-2927 SS 930,SM 1030,SN 6,W 7 DEAF, SOULWINNING, BUS, TAPE, EVERLASTING NATION FELLOWSHIP; EL VISTA BAPTIST ACADEMY K-6 A BEKA 7-12 ACE KJB,BBF,MBBC"
+    "description": "PEORIA IL 61615-2927 SS 930,SM 1030,SN 6,W 7 DEAF, SOULWINNING, BUS, TAPE, EVERLASTING NATION FELLOWSHIP; EL VISTA BAPTIST ACADEMY K-6 A BEKA 7-12 ACE KJB,BBF,MBBC"
   },
   {
     "id": "1296",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "5626 SAFFORD RD",
+    "address": "5626 SAFFORD RD ROCKFORD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1241,7 +1241,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5626 SAFFORD RD ROCKFORD IL 61101 SS 10,SM 11,SN 630,W 7 YOUTH, BUS, KINGS KIDS, DEAF, AUDIO SERMONS"
+    "description": "IL 61101 SS 10,SM 11,SN 630,W 7 YOUTH, BUS, KINGS KIDS, DEAF, AUDIO SERMONS"
   },
   {
     "id": "1297",
@@ -1259,7 +1259,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH GOMEZ.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1298",
@@ -1278,7 +1278,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DUDLEY N MATTIES JR. 9N889 NESLER RD ELGIN IL 60124 SS 945,SM 1045,SN 7,W 7 5831 TRIPP RD BELVIDERE IL 61008 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB,HBBC"
+    "description": "ELGIN IL 60124 SS 945,SM 1045,SN 7,W 7 5831 TRIPP RD BELVIDERE IL 61008 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB,HBBC"
   },
   {
     "id": "1299",
@@ -1296,7 +1296,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS P BRENNAN. 708 7TH ST MAZON IL 60444 SS 930,SM 1030,SN 6,W 7 KJB,HYLES,CROWN"
+    "description": "MAZON IL 60444 SS 930,SM 1030,SN 6,W 7 KJB,HYLES,CROWN"
   },
   {
     "id": "1300",
@@ -1315,7 +1315,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RONALD RUEBEN. 4956 W GEORGE ST NW CHICAGO IL 60641 SS 10,SM 11,SN 6,W 730 PATCH PIRATE,BUS 3 E ROMEO RD ROMEOVILLE IL 60446 BOLINGBROOK AREA SS 10,SM 11,SN 6,W 630 KINGS KIDS KJB, UNAFFILIATED"
+    "description": "NW CHICAGO IL 60641 SS 10,SM 11,SN 6,W 730 PATCH PIRATE,BUS 3 E ROMEO RD ROMEOVILLE IL 60446 BOLINGBROOK AREA SS 10,SM 11,SN 6,W 630 KINGS KIDS KJB, UNAFFILIATED"
   },
   {
     "id": "1301",
@@ -1334,7 +1334,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by DR RONALD PETRICK. 2308 S VETERANS DR EFFINGHAM IL 62401 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "EFFINGHAM IL 62401 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "1302",
@@ -1352,7 +1352,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHILLIP WILLARD. 39236 N GREEN BAY RD WAUKEGAN IL 60087 SS 930,SM 1030,SN 630,W 7 CHRISTIAN SCHOOL K-12, MEN TRAINING KJB church."
+    "description": "WAUKEGAN IL 60087 SS 930,SM 1030,SN 630,W 7 CHRISTIAN SCHOOL K-12, MEN TRAINING KJB church"
   },
   {
     "id": "1303",
@@ -1371,7 +1371,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DR TERRY ANGLEA. 11878 GENESSEE ST ROCKTON IL 61072 DURAND AREA BBC@Stateline-ISP.Com SS 930,SM 1030,SN 7,W 645 KINGS KIDS,SOULWINNING, BIBLE BAPTIST ACADEMY K-12 ACE 1280 ARMOUR RD BOURBONNAIS IL 60914 SS 10,SM 11,SN KJB church."
+    "description": "ROCKTON IL 61072 DURAND AREA BBC@Stateline-ISP.Com SS 930,SM 1030,SN 7,W 645 KINGS KIDS,SOULWINNING, BIBLE BAPTIST ACADEMY K-12 ACE 1280 ARMOUR RD BOURBONNAIS IL 60914 SS 10,SM 11,SN KJB church"
   },
   {
     "id": "1304",
@@ -1389,7 +1389,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WAYNE MUSATICS. 634 W 59TH ST CHICAGO IL 60621 SS 930,SM 1045,SN 6,W 630 KJB,HYLES 3940 HWY 111 GRANITE CITY IL 62040 SS 945,SM 1045,SN 615,W 7 PO BOX 562 405 E MAIN ST BELLEVILLE IL 62222 SS 10, SM 11,SN 6,W 7 SCOTT"
+    "description": "CHICAGO IL 60621 SS 930,SM 1045,SN 6,W 630 KJB,HYLES 3940 HWY 111 GRANITE CITY IL 62040 SS 945,SM 1045,SN 615,W 7 PO BOX 562 405 E MAIN ST BELLEVILLE IL 62222 SS 10, SM 11,SN 6,W 7 SCOTT"
   },
   {
     "id": "1305",
@@ -1408,7 +1408,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by GREG OGLE. 2650 S TAYLORVILLE RD DECATUR IL 62521 SS 930,SM 1030,SN 6,W 8 BUS, YOUTH, KINGS KIDS, REFORMERS UNANIMOUS, AUDIO SERMONS KJB,HYLES 20 N AVENUE I CANTON IL 61520 SS 930,SM 1030,SN 6,W 730 RADIO, TEEN,"
+    "description": "DECATUR IL 62521 SS 930,SM 1030,SN 6,W 8 BUS, YOUTH, KINGS KIDS, REFORMERS UNANIMOUS, AUDIO SERMONS KJB,HYLES 20 N AVENUE I CANTON IL 61520 SS 930,SM 1030,SN 6,W 730 RADIO, TEEN"
   },
   {
     "id": "1306",
@@ -1426,12 +1426,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HEMPHILL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1307",
     "name": "VALLEY BAPTIST CHURCH",
-    "address": "2480 WOLF RD",
+    "address": "1191 MCCARTHY RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1444,7 +1444,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN MEISTER. PO BOX 794 2480 WOLF RD OSWEGO IL 60543 AURORA NAPERVILLE SS 945,SM 11,SN 6,W 730 YOUTH, BOOKSTORE, RADIO, TV, AUDIO SERMONS, HARTLAND BAPTIST MISSIONS; BIBLE INSTITUTE 1191 MCCARTHY RD LEMONT IL 6043 KJB church."
+    "description": "PO BOX 794 OSWEGO IL 60543 AURORA NAPERVILLE SS 945,SM 11,SN 6,W 730 YOUTH, BOOKSTORE, RADIO, TV, AUDIO SERMONS, HARTLAND BAPTIST MISSIONS; BIBLE INSTITUTE LEMONT IL 6043 KJB church"
   },
   {
     "id": "1308",
@@ -1463,7 +1463,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by THOMAS GRIFFIN. 380 W BOUGTON RD BOLINGBROOK IL 60440 SS 10,SM 11,SN 6,W 730 PATCH PIRATE KJB church."
+    "description": "BOLINGBROOK IL 60440 SS 10,SM 11,SN 6,W 730 PATCH PIRATE KJB church"
   },
   {
     "id": "1309",
@@ -1482,12 +1482,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JOHN R REED. 5040 W 87TH ST BURBANK IL 60459 SS 10,SM 11,SN 5,W 630 BUS, SPANISH, CHOIR, TEEN, AUDIO SERMONS; JORDAN BAPTIST SCHOOL K4-12 ABEKA KJB church."
+    "description": "BURBANK IL 60459 SS 10,SM 11,SN 5,W 630 BUS, SPANISH, CHOIR, TEEN, AUDIO SERMONS; JORDAN BAPTIST SCHOOL K4-12 ABEKA KJB church"
   },
   {
     "id": "1310",
     "name": "HAZELGREEN BAPTIST CHURCH",
-    "address": "5022 W 115TH ST",
+    "address": "1925 S SCHUYLER AVE",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1500,7 +1500,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT D PAISLEY. 5022 W 115TH ST ALSIP IL 60803 NEAR WORTH CHICAGO SS 10,SM 11,SN 6,W 7 KJB, CROWN-BC 1925 S SCHUYLER AVE KANKAKEE IL 60901 SS 930,SM 1030,SN 6,W 7 KJB,IFCA PO BOX 253 305 N GROVE ST ROCHELLE IL 61068"
+    "description": "5022 W 115TH ST ALSIP IL 60803 NEAR WORTH CHICAGO SS 10,SM 11,SN 6,W 7 KJB, CROWN-BC KANKAKEE IL 60901 SS 930,SM 1030,SN 6,W 7 KJB,IFCA PO BOX 253 305 N GROVE ST ROCHELLE IL 61068"
   },
   {
     "id": "1311",
@@ -1519,7 +1519,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM BEDDINGFIELD. 5622 SR 154 PINCKNEYVILLE IL 62274 SS 930,SM 1030,SN 6,W 7 KJB, BBF"
+    "description": "5622 SR 154 PINCKNEYVILLE IL 62274 SS 930,SM 1030,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "1312",
@@ -1537,7 +1537,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN GIBSON. 12716 N ALLEN RD DUNLAP IL 61525 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DUNLAP IL 61525 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1313",
@@ -1555,7 +1555,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "23027 CHERRY LN JERSEYVILLE IL 62052 SS 930,SM 1030,SN 6,W 7"
+    "description": "JERSEYVILLE IL 62052 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1314",
@@ -1574,12 +1574,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DALE A STEENHOVEN. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "1315",
     "name": "WILL COUNTY BAPTIST TEMPLE",
-    "address": "320 HUNTER AVE",
+    "address": "800 THORNTON AVE",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1595,7 +1595,7 @@ export const illinoisChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by GIL PALMER. 320 HUNTER AVE JOLIET IL 60436 SS 10,SM 11,SN 7,W 7 SOULWINNING, TV KJB,BBF 800 THORNTON AVE LOCKPORT IL 60441 SS 930,SM 1045,SN 6,W 7 AWANA, YOUTH, TEENS, SINGLES, MARRIEDS KJB, UNAFFILIATED"
+    "description": "JOLIET IL 60436 SS 10,SM 11,SN 7,W 7 SOULWINNING, TV KJB,BBF LOCKPORT IL 60441 SS 930,SM 1045,SN 6,W 7 AWANA, YOUTH, TEENS, SINGLES, MARRIEDS KJB, UNAFFILIATED"
   },
   {
     "id": "1316",
@@ -1614,12 +1614,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY SIMON. 606 DILL AVE PARIS IL 61944 SS 9,SM 10,SN 5,W 6 KJB, UNAFFILIATED PO BOX 166 203 N POPLAR PANA IL 62557 SS 930,SM 1030,SN 6,W 7 PO BOX 158 111 E 1ST ST VERSAILLES IL 62378 1ST ST & WALNUT ST 485 42ND"
+    "description": "PARIS IL 61944 SS 9,SM 10,SN 5,W 6 KJB, UNAFFILIATED PO BOX 166 203 N POPLAR PANA IL 62557 SS 930,SM 1030,SN 6,W 7 PO BOX 158 111 E 1ST ST VERSAILLES IL 62378 1ST ST & WALNUT ST 485 42ND"
   },
   {
     "id": "1317",
     "name": "LIGHTHOUSE INDEPENDENT BAPTIST CHURCH",
-    "address": "24 N MASON AVE",
+    "address": "7 FAITH BIBLE INST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1633,12 +1633,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROCKY FRITZ. 2473 E US HWY 40 ALTAMONT IL 62411 SS 930,SM 1030,SN 6,W 7 FAITH BIBLE INSTITUTE 24 N MASON AVE AMBOY IL 61310 SS 930,SM 1030,SN 6,W 630 KINGS KIDS,REFORMERS UNANIMOUS, AUDIO SERMONS, AMBOY CHRISTIAN  KJB church."
+    "description": "2473 E US HWY 40 ALTAMONT IL 62411 SS 930,SM 1030,SN 6,W ITUTE 24 N MASON AVE AMBOY IL 61310 SS 930,SM 1030,SN 6,W 630 KINGS KIDS,REFORMERS UNANIMOUS, AUDIO SERMONS, AMBOY CHRISTIAN KJB church"
   },
   {
     "id": "1318",
     "name": "FOX RIVER BAPTIST CHURCH",
-    "address": "1205 7TH AVE",
+    "address": "804 FOUR SEASONS RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1652,7 +1652,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TODD M HARRISON. 1205 7TH AVE AURORA IL 60505 804 FOUR SEASONS RD BLOOMINGTON IL 61701 SS 930,SM 1030,SN 6,W 7 CHOIR, TEENS, SOULWINNING, DISCIPLESHIP, CHILDREN, FAMILY, NURSERY 1701 PAPOOSE RD CARPENTERSVILLE IL 6011 KJB church."
+    "description": "1205 7TH AVE AURORA IL 60505 BLOOMINGTON IL 61701 SS 930,SM 1030,SN 6,W 7 CHOIR, TEENS, SOULWINNING, DISCIPLESHIP, CHILDREN, FAMILY, NURSERY 1701 PAPOOSE RD CARPENTERSVILLE IL 6011 KJB church"
   },
   {
     "id": "1319",
@@ -1670,12 +1670,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN RAUHAUS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1320",
     "name": "VICTORY HILL BAPTIST CHURCH",
-    "address": "23030 STATE ST",
+    "address": "6613 TAYLOR DR WOODR",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "23030",
@@ -1683,14 +1683,14 @@ export const illinoisChurches: Church[] = [
     "longitude": -87.7149,
     "phone": "(708) 758-3945",
     "website": "http://www.victoryhillbaptistchurch.com",
-    "pastor": "MATTHEW BARBER",
+    "pastor": "WOODRIDGE IL 60517 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, KINGS KIDS, PATCH PIRATE 220 ILLINI DR CLINTON IL 61727 SS 93 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MATTHEW BARBER. PO BOX 335 23030 STATE ST STEGER IL 60475 SS 10, SM 11, SN 6, W 7 6613 TAYLOR DR WOODRIDGE IL 60517 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, KINGS KIDS, PATCH PIRATE 220 ILLINI DR CLINTON IL 61727 SS 93 KJB church."
+    "description": "PO BOX 335 EGER IL 60475 SS 10, SM 11, SN 6, W 7 IDGE IL 60517 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, KINGS KIDS, PATCH PIRATE 220 ILLINI DR CLINTON IL 61727 SS 93 KJB church"
   },
   {
     "id": "1321",
@@ -1710,12 +1710,12 @@ export const illinoisChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JAMES LOLLAR. PO BOX 1805 8602 W MAIN MARION IL 62959 SS 10,SM 11,SN 6,W 7 BUS, TEEN, SOULWINNING 112 CHURCH ST NEW LENOX IL 60451 NEAR JOLIET SS 930,SM 1045,SN 6,W 7 PATCH PIRATE, AUDIO SERMONS KJB,HYLES"
+    "description": "PO BOX 1805 8602 W MAIN MARION IL 62959 SS 10,SM 11,SN 6,W 7 BUS, TEEN, SOULWINNING NEW LENOX IL 60451 NEAR JOLIET SS 930,SM 1045,SN 6,W 7 PATCH PIRATE, AUDIO SERMONS KJB,HYLES"
   },
   {
     "id": "1322",
     "name": "PARKVIEW BAPTIST CHURCH",
-    "address": "70 W GOLFVIEW DR",
+    "address": "11015 S EASTWOOD DR",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1723,13 +1723,13 @@ export const illinoisChurches: Church[] = [
     "longitude": -89.4977,
     "phone": "(708) 562-2351",
     "website": "http://www.prkviewbc.org",
-    "pastor": "RANDY CLARK",
+    "pastor": "PALOS HILLS IL 60465 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "SBC"
     ],
-    "description": "Led by RANDY CLARK. 70 W GOLFVIEW DR NORTHLAKE IL 60164 11015 S EASTWOOD DR PALOS HILLS IL 60465 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "NORTHLAKE IL 60164 PALOS HILLS IL 60465 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1323",
@@ -1747,12 +1747,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY COLLARD. PO BOX 347 4411 SAUK TRAIL RICHTON PARK IL 60471 SS 10,SM 11,SN 7,W 730 KJV, MARANATHA-BC 1501 HOWARD CT PEKIN IL 61554 SS 930,SM 1045,SN 6,W 7 BUS, PATCH PIRATE, TEENS, CHOIR; FAITH BAPTIST CHRISTIAN KJB church."
+    "description": "PO BOX 347 4411 SAUK TRAIL RICHTON PARK IL 60471 SS 10,SM 11,SN 7,W 730 KJV, MARANATHA-BC PEKIN IL 61554 SS 930,SM 1045,SN 6,W 7 BUS, PATCH PIRATE, TEENS, CHOIR; FAITH BAPTIST CHRISTIAN KJB church"
   },
   {
     "id": "1324",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "2410 LIND ST",
+    "address": "430 E MAC AVE OLN",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1765,7 +1765,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS JENNETTE. 2410 LIND ST QUINCY IL 62301 SS 9, SM 1015, SN 6, W 7 KJB, CROWN-BC 430 E MAC AVE OLNEY IL 62450 SS 930,SM 1030,SN 6,W 7 FAITH BIBLE INSTITUTE, 3 YEAR KJB,PCC 17430 94TH AVE TINLEY PARK IL 60477 SS 94"
+    "description": "QUINCY IL 62301 SS 9, SM 1015, SN 6, W 7 KJB, CROWN-BC EY IL 62450 SS 930,SM 1030,SN 6,W 7 FAITH BIBLE INSTITUTE, 3 YEAR KJB,PCC 17430 94TH AVE TINLEY PARK IL 60477 SS 94"
   },
   {
     "id": "1325",
@@ -1783,12 +1783,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL SHARP. 1918 E 223RD ST SAUK VILLAGE IL 60411 KJB church."
+    "description": "SAUK VILLAGE IL 60411 KJB church"
   },
   {
     "id": "1326",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "863 ROSCOE AVE",
+    "address": "2812 S WALNUT ST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1801,7 +1801,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID BRADY. 863 ROSCOE AVE SOUTH BELOIT IL 61080 SS 10,SM 11,SN 6, W 7 KJB, AIBCI 2812 S WALNUT ST SPRINGFIELD IL 62704 SS 930,SM 1045,SN 6,W 7"
+    "description": "SOUTH BELOIT IL 61080 SS 10,SM 11,SN 6, W 7 KJB, AIBCI SPRINGFIELD IL 62704 SS 930,SM 1045,SN 6,W 7"
   },
   {
     "id": "1327",
@@ -1819,7 +1819,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY GRITTON. 2106 E WINDSOR RD URBANA IL 61802 SS 930,SM 1030,SN 6,W 7 AWANA, TEEN, BUS, CHINESE, AUDIO SERMONS CALVARY CHRISTIAN ACADEMY K-12 KJB church."
+    "description": "URBANA IL 61802 SS 930,SM 1030,SN 6,W 7 AWANA, TEEN, BUS, CHINESE, AUDIO SERMONS CALVARY CHRISTIAN ACADEMY K-12 KJB church"
   },
   {
     "id": "1328",
@@ -1838,12 +1838,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by RONALD E HOWELL. 1550 W YORKHOUSE RD WAUKEGAN IL 60087 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, SPANISH, FILIPINO, AWANA; LAKE COUNTY BAPTIST SCHOOL PREK - 12; GREAT LAKES NTC, 11.5 MILES KJB, ABA"
+    "description": "WAUKEGAN IL 60087 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, SPANISH, FILIPINO, AWANA; LAKE COUNTY BAPTIST SCHOOL PREK - 12; GREAT LAKES NTC, 11.5 MILES KJB, ABA"
   },
   {
     "id": "1329",
     "name": "CORNERSTONE MISSIONARY BAPTIST CHURCH",
-    "address": "350 BLAIR LN",
+    "address": "4309 BLACKHAWK RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1856,12 +1856,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID NAPUUNOA. PO BOX 1428 BOLINGBROOK HIGH SCHOOL LIBRARY 350 BLAIR LN BOLINGBROOK IL 60440-7420 SS 10, SM 11, W 6 GREAT LAKES NAVAL BASE 4309 BLACKHAWK RD ROCK ISLAND IL 61201 SS 10 SM 11 SN 6 W 7 KJB church."
+    "description": "PO BOX 1428 BOLINGBROOK HIGH SCHOOL LIBRARY BOLINGBROOK IL 60440-7420 SS 10, SM 11, W 6 GREAT LAKES NAVAL BASE ROCK ISLAND IL 61201 SS 10 SM 11 SN 6 W 7 KJB church"
   },
   {
     "id": "1330",
     "name": "STATE ROAD BAPTIST CHURCH",
-    "address": "8310 STATE RD",
+    "address": "60459 Near OAK LAWN STATE ROAD CHRIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1874,12 +1874,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HAROLD TEESDALE. 8310 STATE RD BURBANK IL 60459 Near OAK LAWN STATE ROAD CHRISTIAN SCHOOL KJB,FAIRHAVEN-BC"
+    "description": "BURBANK IL IAN SCHOOL KJB,FAIRHAVEN-BC"
   },
   {
     "id": "1331",
     "name": "GARFIELD RIDGE BAPTIST CHURCH",
-    "address": "BUS",
+    "address": "1 MILE W OF MIDWAY",
     "city": "SOULWINNING; 1 MILE W",
     "state": "IL",
     "zipCode": "",
@@ -1895,7 +1895,7 @@ export const illinoisChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by RANDY F MILLER. 5520 S NARRANGANSETT CHICAGO IL 60638 SS 945,SM 1055,SN 6,W 7 BUS, SOULWINNING; 1 MILE W OF MIDWAY AIRPORT KJB,BBF"
+    "description": "5520 S NARRANGANSETT CHICAGO IL 60638 SS 945,SM 1055,SN 6,W 7 BUS, SOULWINNING; AIRPORT KJB,BBF"
   },
   {
     "id": "1332",
@@ -1913,12 +1913,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID ANDERSON. RR 2 PO BOX 24 TOWER HILL IL 62571 SS 930,SM 1030,SN 6,W 7 12848 WILLOW BROOK RD #289 ROSCOE IL 61073 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "RR 2 PO BOX 24 TOWER HILL IL 62571 SS 930,SM 1030,SN 6,W 7 ROSCOE IL 61073 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "1333",
     "name": "NEW TESTAMENT MISSIONARY BAPTIST CHURCH",
-    "address": "2121 VELDA DR",
+    "address": "920 WARRINGTON AVE",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1932,7 +1932,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ALLAN J RUDIE SR. 2121 VELDA DR PEKIN IL 61554 920 WARRINGTON AVE DANVILLE IL 61832 SS 930,SM 1030,SN 6,W 7 CHOIR, BUS, PATCH PIRATE, TEENS, TAPE, LADIES OF FAITH KJV,BJU,GARBC 2005 FREEPORT STERLING IL 61801 1412 5TH  KJB church."
+    "description": "PEKIN IL 61554 DANVILLE IL 61832 SS 930,SM 1030,SN 6,W 7 CHOIR, BUS, PATCH PIRATE, TEENS, TAPE, LADIES OF FAITH KJV,BJU,GARBC 2005 FREEPORT STERLING IL 61801 1412 5TH KJB church"
   },
   {
     "id": "1334",
@@ -1952,12 +1952,12 @@ export const illinoisChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by MITCHELL SANDERSON SR. 7609 W SMITHVILLE RD BARTONVILLE IL 61607 SS 930,SM 1030,SN 6,W 7 BEREA CHRISTIAN SCHOOL,1-12,AACS 204 S MAIN ST TROY IL 62294 SS 930, SM 1030, SN 6, W 7 KJB, HYLES 7259 W 74TH ST BRIDGEVIEW IL 60455"
+    "description": "BARTONVILLE IL 61607 SS 930,SM 1030,SN 6,W 7 BEREA CHRISTIAN SCHOOL,1-12,AACS 204 S MAIN ST TROY IL 62294 SS 930, SM 1030, SN 6, W 7 KJB, HYLES 7259 W 74TH ST BRIDGEVIEW IL 60455"
   },
   {
     "id": "1335",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "309 E 3RD ST",
+    "address": "15300 FORD RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1970,12 +1970,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID MURPHY. PO BOX 557 309 E 3RD ST ANDALUSIA IL 61232 KJB, HAC 15300 FORD RD GENESEO IL 61254 SS 930,SM 1030,SN 6,W 7 KJB, HEARTLAND FELLOWSHIP"
+    "description": "PO BOX 557 309 E 3RD ST ANDALUSIA IL 61232 KJB, HAC GENESEO IL 61254 SS 930,SM 1030,SN 6,W 7 KJB, HEARTLAND FELLOWSHIP"
   },
   {
     "id": "1336",
     "name": "GOOD SHEPHERD BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 494",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -1988,7 +1988,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE M ROWELL SR. PO BOX 494 2530 E CR 2180 N MANITO IL 61546 KJB church."
+    "description": "2530 E CR 2180 N MANITO IL 61546 KJB church"
   },
   {
     "id": "1337",
@@ -2007,7 +2007,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAYSON GARCIA. 2720 BROADWAY PEKIN IL 61554 215 E PEMBROKE TUSCOLA IL 61953 S 930,SM 1030,SN 6,W 630 SS 930,SM 1030,SN 6,W 630 14883 HWY 34 BENTON IL 62812 KJB, UNAFFILIATED, HEAD COVERING"
+    "description": "PEKIN IL 61554 215 E PEMBROKE TUSCOLA IL 61953 S 930,SM 1030,SN 6,W 630 SS 930,SM 1030,SN 6,W 630 14883 HWY 34 BENTON IL 62812 KJB, UNAFFILIATED, HEAD COVERING"
   },
   {
     "id": "1338",
@@ -2026,7 +2026,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by NATE ELLIS. NAPERVILLE IL 60564 STREET PREACHING KJB church."
+    "description": "NAPERVILLE IL 60564 STREET PREACHING KJB church"
   },
   {
     "id": "1339",
@@ -2045,7 +2045,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by THOMAS H OLNEY. 6045 EAST RT 36 DECATUR IL 62521 SS 10,SM 11,SN 6,W 7 KJV,FBF,NBBC,BJU 7505 HUMBERT RD GODFREY IL 62035 SS 9,SM 10,SN 7,W 7 KJB, MBBC"
+    "description": "DECATUR IL 62521 SS 10,SM 11,SN 6,W 7 KJV,FBF,NBBC,BJU 7505 HUMBERT RD GODFREY IL 62035 SS 9,SM 10,SN 7,W 7 KJB, MBBC"
   },
   {
     "id": "1340",
@@ -2064,12 +2064,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVE ROGERS. 2405 E WASHINGTON ST BLOOMINGTON IL 61704 SS 10, SM 11, SN 1, W 7 KINGS KIDS, SOULWINNING KJB, BJU, AMBASSADOR-BC 14030 CHICAGO RD SANDWICH IL 60548 SS 945,SM 11,SN 1,W 7"
+    "description": "BLOOMINGTON IL 61704 SS 10, SM 11, SN 1, W 7 KINGS KIDS, SOULWINNING KJB, BJU, AMBASSADOR-BC 14030 CHICAGO RD SANDWICH IL 60548 SS 945,SM 11,SN 1,W 7"
   },
   {
     "id": "1341",
     "name": "BETHANY BAPTIST CHURCH",
-    "address": "",
+    "address": "7 BETHANY CHRIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2082,12 +2082,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARYL YORK. 590 S ACADEMY GALESBURG IL 61401 SM 10, SN 6, W 7 BETHANY CHRISTIAN ACADEMY KJB, MBBC, NBBC, BJU"
+    "description": "590 S ACADEMY GALESBURG IL 61401 SM 10, SN 6, W IAN ACADEMY KJB, MBBC, NBBC, BJU"
   },
   {
     "id": "1342",
     "name": "BRENTWOOD BAPTIST CHURCH",
-    "address": "",
+    "address": "588 DARA JAMES DES PL",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2100,7 +2100,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "BMA"
     ],
-    "description": "588 DARA JAMES DES PLAINES IL 60016 SS 930,SM 11,SN 6,W 730 BMA church."
+    "description": "AINES IL 60016 SS 930,SM 11,SN 6,W 730 BMA church"
   },
   {
     "id": "1343",
@@ -2118,7 +2118,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK G NOYES.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1344",
@@ -2137,12 +2137,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBBY COGGINS. 1601 FREDERICK DR PEKIN IL 61554 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TAPE, CORRESPONDENCE, JAIL, TEENS, AUDIO & VIDEO SERMONS KJB,GPA"
+    "description": "PEKIN IL 61554 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, TAPE, CORRESPONDENCE, JAIL, TEENS, AUDIO & VIDEO SERMONS KJB,GPA"
   },
   {
     "id": "1345",
     "name": "THE WELCOME HILL MISSIONARY BAPTIST CHURCH",
-    "address": "11461 S BELL RD",
+    "address": "1350 N WEST LINCOLN ST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "11461",
@@ -2156,12 +2156,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by GLENN FOSTER. 11461 S BELL RD LEMONT IL 60439 KJB ,MBBC,AIBCI 1376 CR 1350 N WEST LINCOLN ST HENRY IL 61537 SM 10, SN 6, W 630"
+    "description": "LEMONT IL 60439 KJB ,MBBC,AIBCI 1376 CR HENRY IL 61537 SM 10, SN 6, W 630"
   },
   {
     "id": "1346",
     "name": "TRI COUNTY INDEPENDENT BAPTIST CHURCH",
-    "address": "13909 S BUDLER RD",
+    "address": "13909 S BUDLER RD PL",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "13909",
@@ -2175,12 +2175,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RONALD RUEBEN. PO BOX 129 460 SR 4 WILLISVILLE IL 62997 13909 S BUDLER RD PLAINFIELD IL 60544-2460 SS 10,SM 11,SN 6,W 630 KINGS KIDS 313 VAN BUREN AVE DIXON IL 61021 SS 945,SM 1045,SN 6,W 730 KJB,UNAFFILIATED"
+    "description": "PO BOX 129 460 SR 4 WILLISVILLE IL 62997 AINFIELD IL 60544-2460 SS 10,SM 11,SN 6,W 630 KINGS KIDS 313 VAN BUREN AVE DIXON IL 61021 SS 945,SM 1045,SN 6,W 730 KJB,UNAFFILIATED"
   },
   {
     "id": "1347",
     "name": "WOODLANDS BAPTIST CHURCH",
-    "address": "5301 E RIVERSIDE BLVD",
+    "address": "5301 E RIVERSIDE BLVD ROCKFORD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2193,12 +2193,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by CHAD BUHMAN. 5301 E RIVERSIDE BLVD ROCKFORD IL 61114 SS 8,SM 1045,SN 6,W 7 AUDIO & LIVE VIDEO SERMONS, PROPHETS CHAMBER 230 N MAIN ST MOWEAQUA IL 62550 SS 9,SM 10,SN 6,W 630 PATCH PIRATE BBF,AIBCI"
+    "description": "IL 61114 SS 8,SM 1045,SN 6,W 7 AUDIO & LIVE VIDEO SERMONS, PROPHETS CHAMBER 230 N MAIN ST MOWEAQUA IL 62550 SS 9,SM 10,SN 6,W 630 PATCH PIRATE BBF,AIBCI"
   },
   {
     "id": "1348",
     "name": "OAK GROVE BAPTIST CHURCH",
-    "address": "",
+    "address": "135 WILBORN CREEK RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2211,7 +2211,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DENNIS R FITZGERALD. RT 1 BOX 135 WILBORN CREEK RD BETHANY IL 61914 SS 10,SM 1045,SN 6,W 7"
+    "description": "RT 1 BOX BETHANY IL 61914 SS 10,SM 1045,SN 6,W 7"
   },
   {
     "id": "1349",
@@ -2229,12 +2229,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVE P MYERS. PO BOX 765 701 W DEARBORN ELMWOOD IL 61529-0765 SS 930,SM 1030,SN 6,W 7 BOX 546 209 W FIFTH ST PECATONICA IL 61063-0546 819 WASHINGTON ST SS 930,SM 1030,SN 6,W 7 MBU, NTAIBC"
+    "description": "PO BOX 765 701 W DEARBORN ELMWOOD IL 61529-0765 SS 930,SM 1030,SN 6,W 7 PECATONICA IL 61063-0546 819 WASHINGTON ST SS 930,SM 1030,SN 6,W 7 MBU, NTAIBC"
   },
   {
     "id": "1350",
     "name": "FIRST BAPTIST CHURCH OF OREGON",
-    "address": "505 HILL ST",
+    "address": "615 S FIRST ST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2247,7 +2247,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LARRY ALLISON. 505 HILL ST OREGON IL 61061-3669 SS 930,SM 1030,SN 6,W 7 615 S FIRST ST DEKALB IL 60115 SS 930,SM 1030,SN 6,W 7 NBBC,LANSDALE-PA,BJU 150 EAST AVE L LEWISTOWN IL 61542 SS 930, SM 1030, LUNCH NOON, PM 1 BBF church."
+    "description": "OREGON IL 61061-3669 SS 930,SM 1030,SN 6,W 7 DEKALB IL 60115 SS 930,SM 1030,SN 6,W 7 NBBC,LANSDALE-PA,BJU 150 EAST AVE L LEWISTOWN IL 61542 SS 930, SM 1030, LUNCH NOON, PM 1 BBF church"
   },
   {
     "id": "1351",
@@ -2265,7 +2265,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by RICK COOK. 467 W MAIN ST OAKDALE IL 62268 Independent church."
+    "description": "OAKDALE IL 62268 Independent church"
   },
   {
     "id": "1352",
@@ -2283,7 +2283,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by CHAD FOSTER. 13888 E 1700TH RD CHRISMAN IL 61924 SS 930,SM 1030,SN 6,W 7 PO BOX 612 209 SCHOOL ST MORRISONVILLE IL 62546 BBF church."
+    "description": "CHRISMAN IL 61924 SS 930,SM 1030,SN 6,W 7 PO BOX 612 209 SCHOOL ST MORRISONVILLE IL 62546 BBF church"
   },
   {
     "id": "1353",
@@ -2301,7 +2301,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by PHILLIP NELSON. 5430 N BIG HOLLOW RD PEORIA IL 61604 BBF church."
+    "description": "PEORIA IL 61604 BBF church"
   },
   {
     "id": "1354",
@@ -2319,7 +2319,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD DIX. 1028 N CR 2950 PLYMOUTH IL 62367 SS 945,SM 1045,SN 6,W 7"
+    "description": "1028 N CR 2950 PLYMOUTH IL 62367 SS 945,SM 1045,SN 6,W 7"
   },
   {
     "id": "1355",
@@ -2337,7 +2337,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by STEVEN KU. PATTERSON ELEMENTARY 3731 LAWRENCE DR NAPERVILLE IL 60564 SS 930,SM 1045,SN 430,W 7"
+    "description": "PATTERSON ELEMENTARY NAPERVILLE IL 60564 SS 930,SM 1045,SN 430,W 7"
   },
   {
     "id": "1356",
@@ -2355,7 +2355,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by LARRY MULCH. 3900 N ALBANY CHICAGO IL 60618 610 E MAIN ST GALATIA IL 62935"
+    "description": "3900 N ALBANY CHICAGO IL 60618 GALATIA IL 62935"
   },
   {
     "id": "1357",
@@ -2373,12 +2373,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DON FARRIS. BOX 43 HAMILTON IL 62341 380 N 18TH ST SS 930,SM 1035,SN 6,W 7 AUDIO SERMONS"
+    "description": "BOX 43 HAMILTON IL 62341 SS 930,SM 1035,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "1358",
     "name": "ROSAMOND BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 84",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2391,7 +2391,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ORVILLE S LESTER SR. PO BOX 84 ROSAMOND IL 62083 MOWEQUA AREA OLD REGULAR"
+    "description": "ROSAMOND IL 62083 MOWEQUA AREA OLD REGULAR"
   },
   {
     "id": "1359",
@@ -2409,7 +2409,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CHARLES GATELEY. 10310 REIDER RD LEBANON IL 62254"
+    "description": "LEBANON IL 62254"
   },
   {
     "id": "1360",
@@ -2427,12 +2427,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ROBERT REEISE. PO BOX 63 210 S WALNUT ITASCA IL 60143 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 63 ITASCA IL 60143 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1361",
     "name": "FAITH BIBLE BAPTIST CHURCH",
-    "address": "306 N ADAMS ST",
+    "address": "306 N ADAMS ST LEWIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2445,7 +2445,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ALBERT BENNETT. 306 N ADAMS ST LEWISTOWN IL 61542-1102 201 N CENTURY BLVD RANTOUL IL 61866 SS 930,SM 1045,SN 6,W 6 AWANA, CAMP, CHANUTE AFB BBF church."
+    "description": "OWN IL 61542-1102 201 N CENTURY BLVD RANTOUL IL 61866 SS 930,SM 1045,SN 6,W 6 AWANA, CAMP, CHANUTE AFB BBF church"
   },
   {
     "id": "1362",
@@ -2463,7 +2463,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by EDWARD HATHCOAT. 1818 E MOUND RD DECATUR IL 62526 SS 930,SM 1030,SN 6,W 7"
+    "description": "DECATUR IL 62526 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "1363",
@@ -2481,12 +2481,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB LAPINE. 316 N SYCAMORE ST GENOA IL 60135 SS 945,SM 1045,SN 6,W 7 FIRST CHRISTIAN ACADEMY K-12 ACE NOT KJV ONLY, GARBC KJB church."
+    "description": "GENOA IL 60135 SS 945,SM 1045,SN 6,W 7 FIRST CHRISTIAN ACADEMY K-12 ACE NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "1364",
     "name": "GRACE COMMUNITY CHURCH",
-    "address": "114 S MAPLE",
+    "address": "1100 S FAIRFIELD LOMBARD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2499,7 +2499,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "1100 S FAIRFIELD LOMBARD IL 60148 NOT KJV ONLY, GARBC 114 S MAPLE PANA IL 62557 SS 9,SM 10,SN 6,W 7 KJB church."
+    "description": "IL 60148 NOT KJV ONLY, GARBC 114 S MAPLE PANA IL 62557 SS 9,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "1365",
@@ -2517,7 +2517,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS CAIN. NOT KJV ONLY, GARBC PO BOX 417 12 N 7TH CHATSWORTH IL 60921 NOT KJV ONLY, FBF 200 N ROSELLE RD SCHAUMBURG IL 60194 SS 945,SM 11,SN 6,W 7 DEAF, SPANISH, YOUTH, BUS; SCHAUMBURG CHRISTIAN SCHOOL, K4-12;  KJB church."
+    "description": "NOT KJV ONLY, GARBC PO BOX 417 12 N 7TH CHATSWORTH IL 60921 NOT KJV ONLY, FBF SCHAUMBURG IL 60194 SS 945,SM 11,SN 6,W 7 DEAF, SPANISH, YOUTH, BUS; SCHAUMBURG CHRISTIAN SCHOOL, K4-12; KJB church"
   },
   {
     "id": "1366",
@@ -2535,7 +2535,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ART J NUTZHORN. 803 BROADMOOR DR MT CARMEL IL 62863-2410 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY BOX 267 215 N OLIN ST ALTONA IL 61414 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, MBBC,FBF 310 E VINE ST TOULON IL 61483 SS 930,SM  KJB church."
+    "description": "MT CARMEL IL 62863-2410 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY BOX 267 215 N OLIN ST ALTONA IL 61414 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, MBBC,FBF 310 E VINE ST TOULON IL 61483 SS 930,SM KJB church"
   },
   {
     "id": "1367",
@@ -2553,7 +2553,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICK HOHIMER. 41412 N HWY 83 ANTIOCH IL 60002 WAUKEGAN AREA SS 915,SM 1015,SN 6,W 7 FALWELL,ROLOFF"
+    "description": "41412 N HWY 83 ANTIOCH IL 60002 WAUKEGAN AREA SS 915,SM 1015,SN 6,W 7 FALWELL,ROLOFF"
   },
   {
     "id": "1368",
@@ -2572,12 +2572,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK KING. PO BOX 142 27334 OAKFORD RD CHANDLERVILLE IL 62627 6 MILES EAST OF CHANDLERVILLE SS 930,SM 1030,SN 7,W 7 KJB, S.GRACE-TULIP 2753 MYRTLE AVE GRANITE CITY IL 62040 AUDIO SERMONS BBF, S.GRACE-TULIP 11 W"
+    "description": "PO BOX 142 CHANDLERVILLE IL 62627 6 MILES EAST OF CHANDLERVILLE SS 930,SM 1030,SN 7,W 7 KJB, S.GRACE-TULIP 2753 MYRTLE AVE GRANITE CITY IL 62040 AUDIO SERMONS BBF, S.GRACE-TULIP 11 W"
   },
   {
     "id": "1369",
     "name": "FIRST BAPTIST CHURCH OF ROCKFORD",
-    "address": "5304 CHARLES ST",
+    "address": "5304 CHARLES ST ROCKFORD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2590,12 +2590,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ART DONLEY. 5304 CHARLES ST ROCKFORD IL 61108 NOT KJV ONLY 606 W CHURCH ST HARRISBURG IL 62946 AIBCI,BJU,MBBC,NBBC,PCC KJB church."
+    "description": "IL 61108 NOT KJV ONLY 606 W CHURCH ST HARRISBURG IL 62946 AIBCI,BJU,MBBC,NBBC,PCC KJB church"
   },
   {
     "id": "1370",
     "name": "WINDSOR BAPTIST CHURCH",
-    "address": "2903 WARWICK WAY",
+    "address": "2903 WARWICK WAY ROCKFORD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2608,12 +2608,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL LASHLEY. 2903 WARWICK WAY ROCKFORD IL 61103 CORNER OF ELM AVE & WINDSOR RD SS 930,SM 1045,SN 6,W 7 PREACH KJV, NOT KJV ONLY, AIBCI, BJU 312 N STATE ST BELVIDERE IL 61008 AUDIO SERMONS NOT KJV ONLY,GARBC 301 W  KJB church."
+    "description": "IL 61103 CORNER OF ELM AVE & WINDSOR RD SS 930,SM 1045,SN 6,W 7 PREACH KJV, NOT KJV ONLY, AIBCI, BJU 312 N STATE ST BELVIDERE IL 61008 AUDIO SERMONS NOT KJV ONLY,GARBC 301 W KJB church"
   },
   {
     "id": "1371",
     "name": "FIRST BAPTIST CHURCH OF PLYMOUTH",
-    "address": "106 N UNION ST",
+    "address": "106 N UNION ST PL",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2626,7 +2626,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN FIELDS. PO BOX 292 106 N UNION ST PLYMOUTH IL 62367 SS 930,SM 1040,SN 6 NOT KJV ONLY, GARBC KJB church."
+    "description": "PO BOX 292 YMOUTH IL 62367 SS 930,SM 1040,SN 6 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "1372",
@@ -2645,12 +2645,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LARRY BALTHUS. 1923 CHURCH LN JERSEYVILLE IL 62052 NOT KJV ONLY,BBF KJB church."
+    "description": "JERSEYVILLE IL 62052 NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "1373",
     "name": "WESTFAIR BAPTIST CHURCH",
-    "address": "14 CLARKE DR",
+    "address": "7 WESTFAIR CHRIST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2663,7 +2663,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG COWAN. 14 CLARKE DR JACKSONVILLE IL 62650 SS 9,SM 10,SN 6,W 7 WESTFAIR CHRISTIAN ACADEMY, K-12 NOT KJV ONLY,MBBC,BJU 810 WOLF CT ROCHELLE IL 61068 SS 945,SM 11,SN 6,W 7 KINGS KIDS,TEENS GARBC, NOT KJV ONLY P KJB church."
+    "description": "JACKSONVILLE IL 62650 SS 9,SM 10,SN 6,W IAN ACADEMY, K-12 NOT KJV ONLY,MBBC,BJU 810 WOLF CT ROCHELLE IL 61068 SS 945,SM 11,SN 6,W 7 KINGS KIDS,TEENS GARBC, NOT KJV ONLY P KJB church"
   },
   {
     "id": "1374",
@@ -2682,7 +2682,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RON BURNET. 64 CR 475 E GRAYVILLE IL 62844 GARBC (PREACH-KJV, STUDY-NAS, NIV OTHERS) KJB church."
+    "description": "64 CR 475 E GRAYVILLE IL 62844 GARBC (PREACH-KJV, STUDY-NAS, NIV OTHERS) KJB church"
   },
   {
     "id": "1375",
@@ -2700,12 +2700,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN TRENNEPOHL. 801 3RD ST SILVIS IL 61282 SS 930,SM 1030,SN 6,W 7 ROCK ISLAND ARSENAL KJV, AIBCI, FBF, GFA KJB church."
+    "description": "SILVIS IL 61282 SS 930,SM 1030,SN 6,W 7 ROCK ISLAND ARSENAL KJV, AIBCI, FBF, GFA KJB church"
   },
   {
     "id": "1376",
     "name": "BENSON BAPTIST CHURCH",
-    "address": "402 PLEASANT ST",
+    "address": "17906 UNSICKER RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2719,7 +2719,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVEN HAUTER. PO BOX 136 402 PLEASANT ST BENSON IL 61701 SS 9,SM 1015,SN 6,W 7 NOT KJV ONLY,BBF,BJU,NBBC PO BOX 924 17906 UNSICKER RD MORTON IL 61550 GROVELAND IL 61535 SS 930,SM 1045,SN 6,W 6 AWANA,RADIO,CHOIR,MOP KJB church."
+    "description": "PO BOX 136 BENSON IL 61701 SS 9,SM 1015,SN 6,W 7 NOT KJV ONLY,BBF,BJU,NBBC PO BOX 924 MORTON IL 61550 GROVELAND IL 61535 SS 930,SM 1045,SN 6,W 6 AWANA,RADIO,CHOIR,MOP KJB church"
   },
   {
     "id": "1377",
@@ -2737,12 +2737,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TYLER ROBBINS. 515 FRONTENAC Rd AURORA IL 60504 S 7AM BIBLE STUDY, SS 945, SM 11, SN 6, W 7 PREACH KJV, NOT KJV ONLY 133 W SOUTH ST DIVERNON IL 62530 SS 930,SM 1030,SN 1,W 7 NOT KJV ONLY,NTAIBC, MBU 501 S MAIN ST GE KJB church."
+    "description": "AURORA IL 60504 S 7AM BIBLE STUDY, SS 945, SM 11, SN 6, W 7 PREACH KJV, NOT KJV ONLY 133 W SOUTH ST DIVERNON IL 62530 SS 930,SM 1030,SN 1,W 7 NOT KJV ONLY,NTAIBC, MBU 501 S MAIN ST GE KJB church"
   },
   {
     "id": "1378",
     "name": "WESTERN SPRINGS BAPTIST CHURCH",
-    "address": "4475 WOLF RD",
+    "address": "4475 WOLF RD WEST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2756,7 +2756,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "4475 WOLF RD WESTERN SPRINGS IL 60558 SS 930,SM 11,SN YOUTH, TEEN KJV & NKJ-PREACH, UNAFFILIATED, TTU KJB church."
+    "description": "ERN SPRINGS IL 60558 SS 930,SM 11,SN YOUTH, TEEN KJV & NKJ-PREACH, UNAFFILIATED, TTU KJB church"
   },
   {
     "id": "1379",
@@ -2776,7 +2776,7 @@ export const illinoisChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JERRY TAYLOR. 4737 FOSTERBURG RD BETHALTO IL 62010 SM 830 & 1030,SS 930,SN 630,W 7 AWANA, CHOIR, DRAMA, ENSEMBLE NIV,GARBC,IFCA 910 W COUNTRY RD JERSEYVILLE IL 62052 SS 930,SM 1040,SN 6,W 7 WORD OF LIFE OLYMPIANS,T KJB church."
+    "description": "BETHALTO IL 62010 SM 830 & 1030,SS 930,SN 630,W 7 AWANA, CHOIR, DRAMA, ENSEMBLE NIV,GARBC,IFCA 910 W COUNTRY RD JERSEYVILLE IL 62052 SS 930,SM 1040,SN 6,W 7 WORD OF LIFE OLYMPIANS,T KJB church"
   },
   {
     "id": "1380",
@@ -2794,12 +2794,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR MICHAEL J LOVE. 2704 38TH ST ROCK ISLAND IL 61201 SS 930,SM 1040,SN 6,W 630 YOUNG MARRIEDS, SINGLES, CHOIR, AWANA NOT KJV ONLY KJB church."
+    "description": "ROCK ISLAND IL 61201 SS 930,SM 1040,SN 6,W 630 YOUNG MARRIEDS, SINGLES, CHOIR, AWANA NOT KJV ONLY KJB church"
   },
   {
     "id": "1381",
     "name": "TRINITY BAPTIST COMMUNITY CHURCH",
-    "address": "300 N 30TH ST",
+    "address": "823 HAMILTON ST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2814,12 +2814,12 @@ export const illinoisChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by KEITH GARRETT. 505 SURREY RIDGE CARY IL 60013 SS 10,SM 11 NAVAL BASE NKJV,NIV,CCM 300 N 30TH ST QUINCY IL 62301 SS 930,SM 1030,SN 6,W 7 BUSY BEES,KINGS KIDS,TEENS NOT KJV ONLY, FBF, IBC OF ILL, 823 HAMILTON ST GENEV KJB church."
+    "description": "505 SURREY RIDGE CARY IL 60013 SS 10,SM 11 NAVAL BASE NKJV,NIV,CCM 300 N 30TH ST QUINCY IL 62301 SS 930,SM 1030,SN 6,W 7 BUSY BEES,KINGS KIDS,TEENS NOT KJV ONLY, FBF, IBC OF ILL, GENEV KJB church"
   },
   {
     "id": "1382",
     "name": "SHANNON BAPTIST CHURCH",
-    "address": "101 N BROAD ST",
+    "address": "31457 N ALLEGHANY RD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2832,7 +2832,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL GARRISON. PO BOX 228 101 N BROAD ST SHANNON IL 60178 SS 945,SM 1110,SN 6,W 7 AWANA 645 WED PREACH KJV,NOT KJV ONLY,AIBCI 31457 N ALLEGHANY RD GRAYSLAKE IL 60030 SS 945,SM 11,SN 6,W 730 PATCH PIRATE,DEAF NOT KJV KJB church."
+    "description": "PO BOX 228 SHANNON IL 60178 SS 945,SM 1110,SN 6,W 7 AWANA 645 WED PREACH KJV,NOT KJV ONLY,AIBCI GRAYSLAKE IL 60030 SS 945,SM 11,SN 6,W 730 PATCH PIRATE,DEAF NOT KJV KJB church"
   },
   {
     "id": "1383",
@@ -2851,7 +2851,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RALPH WINGATE JR. 11940 SR 154 SPARTA IL 62286 BUS; CHRISTIAN SCHOOL K-12 ESV, NKJV, NLT 1017 N SCHOOL ST NORMAL IL 61761 NOT KJV ONLY,GARBC KJB church."
+    "description": "11940 SR 154 SPARTA IL 62286 BUS; CHRISTIAN SCHOOL K-12 ESV, NKJV, NLT NORMAL IL 61761 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "1384",
@@ -2870,7 +2870,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID SCHLAGEL. 902 WESTERN AVE HENRY IL 61537 SS 945,SM 1045,SN 6,W 7 NOT KJV ONLY, BBF, FBF, BJU KJB church."
+    "description": "HENRY IL 61537 SS 945,SM 1045,SN 6,W 7 NOT KJV ONLY, BBF, FBF, BJU KJB church"
   },
   {
     "id": "1385",
@@ -2888,7 +2888,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "333 75TH ST DOWNERS GROVE IL 60516-4496 SS 915,SM 1015,SN 6,W 715 SOULWINNING, VBS, CENTURION CLASSIC, GOLF, CRAFT, SINGLES, COUPLES, MENS, LADIES"
+    "description": "DOWNERS GROVE IL 60516-4496 SS 915,SM 1015,SN 6,W 715 SOULWINNING, VBS, CENTURION CLASSIC, GOLF, CRAFT, SINGLES, COUPLES, MENS, LADIES"
   },
   {
     "id": "1386",
@@ -2907,7 +2907,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TOM ROBBINS. NOT KJV ONLY,IL-MO-ARBC,GARBC HWY 34 & 94 CAMP POINT IL 62320 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,BBF,BBC-MO,LIBERTY-U PO BOX 417 10 BETHEL MEADOWS RD CASEYVILLE IL 62232 SS 930,SM 1045,SN 630,THU 7  KJB church."
+    "description": "NOT KJV ONLY,IL-MO-ARBC,GARBC HWY 34 & 94 CAMP POINT IL 62320 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY,BBF,BBC-MO,LIBERTY-U PO BOX 417 CASEYVILLE IL 62232 SS 930,SM 1045,SN 630,THU 7 KJB church"
   },
   {
     "id": "1387",
@@ -2925,12 +2925,12 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5622 35TH ST ROCKFORD IL 61109"
+    "description": "ROCKFORD IL 61109"
   },
   {
     "id": "1388",
     "name": "CATHEDRAL BAPTIST SCHOOL",
-    "address": "241 SCOTT AVE",
+    "address": "323 E SEMINARY AVE HOOPEST",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2945,12 +2945,12 @@ export const illinoisChurches: Church[] = [
       "Non-KJV",
       "BMA"
     ],
-    "description": "Led by JAMES ADCOCK. NOT KJV ONLY,WCA-HYBLES 241 SCOTT AVE ROCHELLE IL 61068 NOT KJV ONLY,BJU 323 E SEMINARY AVE HOOPESTON IL 60942 SS 930,SM 1030,SN 6,W 7 KINGS KIDS NIV,NLT,CBA,NCCBA 204 S MONROE ST STREATOR IL 61364 SS KJB church."
+    "description": "NOT KJV ONLY,WCA-HYBLES ROCHELLE IL 61068 NOT KJV ONLY,BJU ON IL 60942 SS 930,SM 1030,SN 6,W 7 KINGS KIDS NIV,NLT,CBA,NCCBA 204 S MONROE ST STREATOR IL 61364 SS KJB church"
   },
   {
     "id": "1389",
     "name": "HARMONY BAPTIST CHURCH",
-    "address": "7422 N HEINZ LN",
+    "address": "7422 N HEINZ LN EDWARD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -2964,7 +2964,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RITCH BOERCKAL. GALESBURG IL 61401 NOT KJV ONLY 7422 N HEINZ LN EDWARDS IL 61528 SS 935,SM 815 & 935 & 11,SN 6,W 7 NOT KJV ONLY,BBF,FBF 114 N EMERSON MONTICELLO IL 61856 PROPHETS CHAMBER NOT KJV ONLY, BBF, BBC-MO KJB church."
+    "description": "GALESBURG IL 61401 NOT KJV ONLY S IL 61528 SS 935,SM 815 & 935 & 11,SN 6,W 7 NOT KJV ONLY,BBF,FBF 114 N EMERSON MONTICELLO IL 61856 PROPHETS CHAMBER NOT KJV ONLY, BBF, BBC-MO KJB church"
   },
   {
     "id": "1390",
@@ -2977,13 +2977,13 @@ export const illinoisChurches: Church[] = [
     "longitude": -88.0736,
     "phone": "(630) 832-3328",
     "website": "http://www.welcometomessiah.org",
-    "pastor": "JOE MCDONALD",
+    "pastor": "ST CHARLES IL 60174 PREACH-KJV, NOT KJV ONLY KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOE MCDONALD. 600 S VILLA AVE ADDISON IL 60101 SS 950,SM 11,SN 6,W 7 NOT KJV ONLY,BBF 6N 218 WEBER DR ST CHARLES IL 60174 PREACH-KJV, NOT KJV ONLY KJB church."
+    "description": "ADDISON IL 60101 SS 950,SM 11,SN 6,W 7 NOT KJV ONLY,BBF 6N 218 WEBER DR ST CHARLES IL 60174 PREACH-KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "1391",
@@ -3002,7 +3002,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "HAMPSHIRE IL 60140 SS 945,SM 1030,W 630 SOULWINNING PREACH-KJV, BUT STUDY OTHERS KJB church."
+    "description": "HAMPSHIRE IL 60140 SS 945,SM 1030,W 630 SOULWINNING PREACH-KJV, BUT STUDY OTHERS KJB church"
   },
   {
     "id": "1392",
@@ -3022,7 +3022,7 @@ export const illinoisChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by RAY SPELLBRINK. 845 N BIRCH DR LENA IL 61048 PREACH KJV but approves AMP, NKJV, MESSAGE, NIV, UNAFFILIATED,CCM KJB church."
+    "description": "LENA IL 61048 PREACH KJV but approves AMP, NKJV, MESSAGE, NIV, UNAFFILIATED,CCM KJB church"
   },
   {
     "id": "1393",
@@ -3041,12 +3041,12 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATTHEW HARMLESS. 13922 GREELEY ST PETERSBURG IL 62675 ATTERBERRY AREA SS 10,SM 11,SN 6,W 630 NOT KJV ONLY 236 POLAND RD DANVILLE IL 61834 SS 930,SM 1030,SN 1,W 7 AUDIO SERMONS PREACH FROM KJV, STUDY NKJV,MBBC PCC KJB church."
+    "description": "PETERSBURG IL 62675 ATTERBERRY AREA SS 10,SM 11,SN 6,W 630 NOT KJV ONLY 236 POLAND RD DANVILLE IL 61834 SS 930,SM 1030,SN 1,W 7 AUDIO SERMONS PREACH FROM KJV, STUDY NKJV,MBBC PCC KJB church"
   },
   {
     "id": "1394",
     "name": "MEMORIAL BAPTIST CHURCH",
-    "address": "7007 FLORA RD",
+    "address": "7007 FLORA RD ROCKFORD",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -3060,7 +3060,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RYAN BARE. 7007 FLORA RD ROCKFORD IL 61101 SS 930, SM 1045, SN 5, W 7 PREACH KJV, NOT KJV-ONLY, MBU, UNAFFILIATED 101 W JEFFERSON ST WARREN IL 61087 SS 945,SM 1045,LUNCH,SA 1,W 7 NOT KJV ONLY 2499 WALDRON RD KAN KJB church."
+    "description": "IL 61101 SS 930, SM 1045, SN 5, W 7 PREACH KJV, NOT KJV-ONLY, MBU, UNAFFILIATED 101 W JEFFERSON ST WARREN IL 61087 SS 945,SM 1045,LUNCH,SA 1,W 7 NOT KJV ONLY 2499 WALDRON RD KAN KJB church"
   },
   {
     "id": "1395",
@@ -3079,7 +3079,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by PAUL CARLSON. NASB,BJU MARLOWE MIDDLE SCHOOL 9625 HALIGUS RD LAKE IN THE HILLS IL 60156 SM 930,W 7 AUDIO SERMONS NOT KJV ONLY, MBBC KJB church."
+    "description": "NASB,BJU MARLOWE MIDDLE SCHOOL LAKE IN THE HILLS IL 60156 SM 930,W 7 AUDIO SERMONS NOT KJV ONLY, MBBC KJB church"
   },
   {
     "id": "1396",
@@ -3098,7 +3098,7 @@ export const illinoisChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JERRY L CUMMINGS. RR 4 BOX 37 13658 GRAPE CREEK RD DANVILLE IL 61834 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,BBF,AMBASSADOR-BC 1211 N VERMILLION ST DANVILLE IL 61832 SS 930,SM 1045,SN 6,W 7 KJB church."
+    "description": "RR 4 BOX 37 DANVILLE IL 61834 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,BBF,AMBASSADOR-BC 1211 N VERMILLION ST DANVILLE IL 61832 SS 930,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "1397",
@@ -3116,7 +3116,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE JASPERS. NOT KJV ONLY KJB church."
+    "description": "NOT KJV ONLY KJB church"
   },
   {
     "id": "1398",
@@ -3134,7 +3134,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1968 HILLCREST RD JOLIET IL 60432 SS 10,SM 9 & 11,W 7"
+    "description": "JOLIET IL 60432 SS 10,SM 9 & 11,W 7"
   },
   {
     "id": "1399",
@@ -3152,7 +3152,7 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ARTHUR GENE MACINTOSH JR. KJB,MBBC"
+    "description": "KJB,MBBC"
   },
   {
     "id": "1400",
@@ -3172,12 +3172,12 @@ export const illinoisChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by MARK SMITH. PO BOX 73 444 W CEDARVILLE RD CEDARVILLE IL 61013-0073 NOT KJV ONLY,BBF 4001 W KIRBY AVE CHAMPAIGN IL 61821 SS 9,SM 1015,SN 6,W 7 PREACH KJV,NOT KJV ONLY 1110 10TH AVE ROCK FALLS IL 61071 SS 10,SM 11, KJB church."
+    "description": "PO BOX 73 CEDARVILLE IL 61013-0073 NOT KJV ONLY,BBF 4001 W KIRBY AVE CHAMPAIGN IL 61821 SS 9,SM 1015,SN 6,W 7 PREACH KJV,NOT KJV ONLY 1110 10TH AVE ROCK FALLS IL 61071 SS 10,SM 11, KJB church"
   },
   {
     "id": "1401",
     "name": "FIRST BAPTIST CHURCH OF ROXANA",
-    "address": "",
+    "address": "PO BOX 35",
     "city": "Springfield",
     "state": "IL",
     "zipCode": "",
@@ -3190,6 +3190,6 @@ export const illinoisChurches: Church[] = [
     "affiliation": [
       "SBC"
     ],
-    "description": "PO BOX 35 ROXANA IL 62084 TYDEMAN & CENTRAL AVE SS 930,SM 1030,SN 6,W 645 SBC church."
+    "description": "ROXANA IL 62084 TYDEMAN & CENTRAL AVE SS 930,SM 1030,SN 6,W 645 SBC church"
   }
 ];

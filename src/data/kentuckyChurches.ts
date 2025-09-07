@@ -4,7 +4,7 @@ export const kentuckyChurches: Church[] = [
   {
     "id": "1808",
     "name": "PLEASANT VIEW BAPTIST CHURCH",
-    "address": "7980 NAPOLEON ZION STATION RD",
+    "address": "7980 NAPOLEON ZION STATION RD DR",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -17,7 +17,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS HARDIN. 7980 NAPOLEON ZION STATION RD DRY RIDGE KY 41035 SS 10, SM 11, SN 7, W 7 KJB church."
+    "description": "Y RIDGE KY 41035 SS 10, SM 11, SN 7, W 7 KJB church"
   },
   {
     "id": "1809",
@@ -36,7 +36,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ARTHUR MOORE. 3770 OLD MILL RD BRANDENBURG KY 40108 SS 10,SM 11,SN 6,W 7 KJB, FUNDAMENTAL"
+    "description": "BRANDENBURG KY 40108 SS 10,SM 11,SN 6,W 7 KJB, FUNDAMENTAL"
   },
   {
     "id": "1810",
@@ -55,7 +55,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIMOTHY SHIRLEY. 364 LIONS LANE VANCEBURG KY 41179 SS 10,SM 11,SN 6 KJB, UNAFFILIATED"
+    "description": "VANCEBURG KY 41179 SS 10,SM 11,SN 6 KJB, UNAFFILIATED"
   },
   {
     "id": "1811",
@@ -73,7 +73,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DERVIN SPEARS. 1696 HUDGINS HWY SUMMERSVILLE KY 42782 SS 10, SM 11, SN 5, W 6 YOUTH CHOIR, JAIL KJB church."
+    "description": "1696 HUDGINS HWY SUMMERSVILLE KY 42782 SS 10, SM 11, SN 5, W 6 YOUTH CHOIR, JAIL KJB church"
   },
   {
     "id": "1812",
@@ -92,7 +92,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL T SMITH. PO BOX 104 2465 HWY 22 EAST OWENTON KY 40359 SS 10, SM 11, SN 6, W 7 YOUTH, SCHOOL OF FUNDAMENTAL TRUTHS KJB church."
+    "description": "PO BOX 104 OWENTON KY 40359 SS 10, SM 11, SN 6, W 7 YOUTH, SCHOOL OF FUNDAMENTAL TRUTHS KJB church"
   },
   {
     "id": "1813",
@@ -110,12 +110,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEY DURHAM. 135 KENTON ST ELSMERE KY 41018 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "ELSMERE KY 41018 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "1814",
     "name": "STURGIS BAPTIST CHURCH",
-    "address": "620 N ADAMS ST",
+    "address": "620 N ADAMS ST ST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -129,7 +129,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by IVAN SILER. 620 N ADAMS ST STURGIS KY 42459 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "URGIS KY 42459 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1815",
@@ -147,7 +147,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS ALLTOP. 2478 BLACK DIAMOND RD CORBIN KY 40701 SS 10,SM 11,SN 7,W 7 TRACT,AUDIO & VIDEO SINGING & SERMONS KJB church."
+    "description": "CORBIN KY 40701 SS 10,SM 11,SN 7,W 7 TRACT,AUDIO & VIDEO SINGING & SERMONS KJB church"
   },
   {
     "id": "1816",
@@ -165,7 +165,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VINCE STOVER. 1400 BLUEGRASS PKE DANVILLE KY 40422 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "1400 BLUEGRASS PKE DANVILLE KY 40422 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1817",
@@ -184,12 +184,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SAM EPLEY. 2171 CHRISTIAN RD LEXINGTON KY 40505 SM 10, SS 1115, SN 6, W 7 SOULWINNING KJB church."
+    "description": "LEXINGTON KY 40505 SM 10, SS 1115, SN 6, W 7 SOULWINNING KJB church"
   },
   {
     "id": "1818",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "432 WEST ST",
+    "address": "432 WEST ST BEDFORD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -202,12 +202,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JEFFREY LONG. 432 WEST ST BEDFORD KY 40006 SS 10,SM 11,SN 6,W 7"
+    "description": "KY 40006 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1819",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "675 W MILLER RD",
+    "address": "675 W MILLER RD ALEXANDR",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -221,7 +221,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ALAN RAMSEY. KJB, UNAFFILIATED PO BOX 287 675 W MILLER RD ALEXANDRIA KY 41001 KJB, CROWN"
+    "description": "KJB, UNAFFILIATED PO BOX 287 IA KY 41001 KJB, CROWN"
   },
   {
     "id": "1820",
@@ -240,7 +240,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS BLYTHE. 173 US HWY 41 S HENDERSON  KY 42420 SS 945,SM 1045,SN 6,W 7 KINGS KIDS KJB, UNAFFILIATED"
+    "description": "173 US HWY 41 S HENDERSON KY 42420 SS 945,SM 1045,SN 6,W 7 KINGS KIDS KJB, UNAFFILIATED"
   },
   {
     "id": "1821",
@@ -258,7 +258,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF BURNETT. 2588 FAIRVIEW CHURCH RD SMITHS GROVE KY 42171 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "SMITHS GROVE KY 42171 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1822",
@@ -276,7 +276,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY D EATON. 124 E TIVERTON WAY LEXINGTON KY 40503 SS 945,SM 1045,SN 6,W 630 AUDIO SERMONS KJB, UNAFFILATED"
+    "description": "LEXINGTON KY 40503 SS 945,SM 1045,SN 6,W 630 AUDIO SERMONS KJB, UNAFFILATED"
   },
   {
     "id": "1823",
@@ -296,7 +296,7 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RICK MCGOWAN. 215 BLUEGRASS RD FRANKLIN KY 42134 SOULWINNING, TEENS KJB, PRE-TRIB, UNAFFILIATED"
+    "description": "FRANKLIN KY 42134 SOULWINNING, TEENS KJB, PRE-TRIB, UNAFFILIATED"
   },
   {
     "id": "1824",
@@ -315,12 +315,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PAUL SHIRLEY. PO BOX 4024 2755 PRINCETON RD HOPKINSVILLE KY 42241 SS 10,SM 11,SN 6,W 7 SOULWINNING, KINGS KIDS, FORT CAMPBELL KJB church."
+    "description": "PO BOX 4024 HOPKINSVILLE KY 42241 SS 10,SM 11,SN 6,W 7 SOULWINNING, KINGS KIDS, FORT CAMPBELL KJB church"
   },
   {
     "id": "1825",
     "name": "CALVARY ROAD BAPTIST CHURCH",
-    "address": "2120 RAYMOND RD",
+    "address": "2120 RAYMOND RD SHEPHERD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -333,12 +333,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAKE TUCKER. 2120 RAYMOND RD SHEPHERDSVILLE KY 40165 SS 945,SM 11,SN 6, W 7 SW, TEEN, VAN, NURSING, SENIORS, ADDICTIONS, CHRISTIAN SCHOOL, VIDEO SERMONS 559 HWY 2747 SOMERSET KY 42501 SS 10,SM 11,SN 6,W 7 GOSPEL T KJB church."
+    "description": "SVILLE KY 40165 SS 945,SM 11,SN 6, W 7 SW, TEEN, VAN, NURSING, SENIORS, ADDICTIONS, CHRISTIAN SCHOOL, VIDEO SERMONS 559 HWY 2747 SOMERSET KY 42501 SS 10,SM 11,SN 6,W 7 GOSPEL T KJB church"
   },
   {
     "id": "1826",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "170 BESNEL LN",
+    "address": "170 BESNEL LN SHEPHERD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -351,12 +351,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDDIE CALLOWAY. 170 BESNEL LN SHEPHERDSVILLE KY 40165 SS 10,SM 11,SN  7,W 730 AUDIO SERMONS KJB church."
+    "description": "SVILLE KY 40165 SS 10,SM 11,SN 7,W 730 AUDIO SERMONS KJB church"
   },
   {
     "id": "1827",
     "name": "SUGAR GROVE BIBLE BAPTIST CHURCH",
-    "address": "7692 SUNNYDALE RD",
+    "address": "42343 SUGAR GROVE CHRIST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -370,7 +370,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTT KENNEDY. PO BOX 284 7692 SUNNYDALE RD FORDSVILLE KY 42343 SUGAR GROVE CHRISTIAN ACADEMY KJB, UNAFFILIATED PO BOX 645 1202 STATE ST BOWLING GREEN KY 42101 SS 945,SM 11,SN 5,W 7 KJB, HBBC"
+    "description": "PO BOX 284 SVILLE KY IAN ACADEMY KJB, UNAFFILIATED PO BOX 645 1202 STATE ST BOWLING GREEN KY 42101 SS 945,SM 11,SN 5,W 7 KJB, HBBC"
   },
   {
     "id": "1828",
@@ -388,12 +388,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SONNY MULL. 110 MARK TRL BOWLING GREEN KY 42101 SS 10,SM 1045,SN 6,W 7 RADIO, CHOIR, COUPLES, BUS, PATCH PIRATE KJB church."
+    "description": "110 MARK TRL BOWLING GREEN KY 42101 SS 10,SM 1045,SN 6,W 7 RADIO, CHOIR, COUPLES, BUS, PATCH PIRATE KJB church"
   },
   {
     "id": "1829",
     "name": "BETHEL MISSIONARY BAPTIST CHURCH",
-    "address": "6811 TAFFY ANN DR",
+    "address": "1403 S PARK RD FAIRD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -407,7 +407,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DARIN OTJEN. 6811 TAFFY ANN DR LOUISVILLE KY 40228 PHY ADD: 1403 S PARK RD FAIRDALE KY 40118 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "LOUISVILLE KY 40228 PHY ADD: ALE KY 40118 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1830",
@@ -425,12 +425,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL GOODLETT. 353 CHASE LAKE RD RINEYVILLE KY 40162 SS 930, SM 1030, THU 7 12 MILES FROM FORT KNOX KJB church."
+    "description": "RINEYVILLE KY 40162 SS 930, SM 1030, THU 7 12 MILES FROM FORT KNOX KJB church"
   },
   {
     "id": "1831",
     "name": "NELSON COUNTY BAPTIST CHURCH",
-    "address": "55 LUTHERAN CHURCH RD",
+    "address": "55 LUTHERAN CHURCH RD BARDST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -443,7 +443,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "55 LUTHERAN CHURCH RD BARDSTOWN KY 40004-9023 SS 930,SN 1030,SN 6,W 7"
+    "description": "OWN KY 40004-9023 SS 930,SN 1030,SN 6,W 7"
   },
   {
     "id": "1832",
@@ -461,12 +461,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF COX.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1833",
     "name": "LITTLE CYPRESS BAPTIST CHURCH",
-    "address": "350 N 4TH ST",
+    "address": "150 TWIN OAKS DR",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -480,7 +480,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE GRABER. 10261 US HWY 62 CALVERT CITY KY 42029 SS 945,SM 1045,SN 6,W 7 SERMON OUTLINES, PROPHETS CHAMBER KJB, UNAFFILIATED 350 N 4TH ST CENTRAL CITY KY 42330 SS 10,SM 11,SN 6,W 7 150 TWIN OAKS DR GREENVILLE KY"
+    "description": "10261 US HWY 62 CALVERT CITY KY 42029 SS 945,SM 1045,SN 6,W 7 SERMON OUTLINES, PROPHETS CHAMBER KJB, UNAFFILIATED 350 N 4TH ST CENTRAL CITY KY 42330 SS 10,SM 11,SN 6,W 7 GREENVILLE KY"
   },
   {
     "id": "1834",
@@ -498,7 +498,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONNIE HOWTON. 189 PICKERELL LN VINE GROVE KY 40175 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "VINE GROVE KY 40175 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1835",
@@ -516,7 +516,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN HEARN. 15 4H CAMP DR DAWSON SPRINGS KY  42408-8553 KJB, CROWN-BC"
+    "description": "DAWSON SPRINGS KY 42408-8553 KJB, CROWN-BC"
   },
   {
     "id": "1836",
@@ -535,7 +535,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAN NEWTON. 125 GARRETT AVE LEXINGTON KY 40504 7691 HWY 60 EKRON KY 40117 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "LEXINGTON KY 40504 7691 HWY 60 EKRON KY 40117 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "1837",
@@ -554,7 +554,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by EUGENE N OWENS JR. 12699 US ROUTE 60 ASHLAND KY 41102 SS 10, SM 11, SN 6, W 7 KJB, EARLY HYLES GRAD, UNAFFILIATED"
+    "description": "12699 US ROUTE 60 ASHLAND KY 41102 SS 10, SM 11, SN 6, W 7 KJB, EARLY HYLES GRAD, UNAFFILIATED"
   },
   {
     "id": "1838",
@@ -573,12 +573,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STAN DURRETT. 835 NEW GLENDALE RD ELIZABETHTOWN KY 42701 SS 10, SM 11, SN 630, W 630 BUS, SOULWINNING, CLOSE TO FT KNOX, AUDIO SERMONS & MUSIC KJB church."
+    "description": "ELIZABETHTOWN KY 42701 SS 10, SM 11, SN 630, W 630 BUS, SOULWINNING, CLOSE TO FT KNOX, AUDIO SERMONS & MUSIC KJB church"
   },
   {
     "id": "1839",
     "name": "RICKMAN ROAD MISSIONARY BAPTIST CHURCH",
-    "address": "3335 RICKMAN RD",
+    "address": "3335 RICKMAN RD WEST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -592,7 +592,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ANDY HARRELL. 3335 RICKMAN RD WEST PADUCAH KY 42086 SS 10,SM 11,SN 6,W 7 REAL & MP3 AUDIO SERMONS, KINGS KIDS, CHOIR, TEEN, JAIL, SOULWINNING 1020 SMITH AVE PADUCAH, KY 42003 VICTORY CHRISTIAN ACADEMY KJB, GOLDEN S"
+    "description": "PADUCAH KY 42086 SS 10,SM 11,SN 6,W 7 REAL & MP3 AUDIO SERMONS, KINGS KIDS, CHOIR, TEEN, JAIL, SOULWINNING 1020 SMITH AVE PADUCAH, KY 42003 VICTORY CHRISTIAN ACADEMY KJB, GOLDEN S"
   },
   {
     "id": "1840",
@@ -612,7 +612,7 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JASON PORTER. 2191 SR 94 E MURRAY KY 42071 SS 10,SM 11,SN 6,W 7 BUS, PATCH PIRATE, REFORMERS UNANIMOUS; EASTWOOD CHRISTIAN ACADEMY,PS-12 KJB, COMMONWEALTH BC, UNAFFILIATED 1115 TRINITY LN ASHLAND KY 41102 SS 10,SM"
+    "description": "2191 SR 94 E MURRAY KY 42071 SS 10,SM 11,SN 6,W 7 BUS, PATCH PIRATE, REFORMERS UNANIMOUS; EASTWOOD CHRISTIAN ACADEMY,PS-12 KJB, COMMONWEALTH BC, UNAFFILIATED ASHLAND KY 41102 SS 10,SM"
   },
   {
     "id": "1841",
@@ -630,7 +630,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES MILLS. 7039 S WILSON RD ELIZABETHTOWN KY 42701 SS 10,SM 11, SN 7 KJB, HYLES"
+    "description": "ELIZABETHTOWN KY 42701 SS 10,SM 11, SN 7 KJB, HYLES"
   },
   {
     "id": "1842",
@@ -648,12 +648,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NOAH BROUGHTON. 2362 HIGHWAY 90 BRONSTON KY 42518 KJB,HBBC"
+    "description": "BRONSTON KY 42518 KJB,HBBC"
   },
   {
     "id": "1843",
     "name": "SALINE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 691",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -667,7 +667,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by HAROLD COUNCIL. PO BOX 691 2685 W HWY 80 SOMERSET KY 42501 SS 10,SM 11,SN 630,W 7 RADIO, AUDIO SERMONS; SALINE CHRISTIAN ACADEMY,K4-12 KJB, BBF, TTU"
+    "description": "2685 W HWY 80 SOMERSET KY 42501 SS 10,SM 11,SN 630,W 7 RADIO, AUDIO SERMONS; SALINE CHRISTIAN ACADEMY,K4-12 KJB, BBF, TTU"
   },
   {
     "id": "1844",
@@ -685,7 +685,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES B LUNSFORD. PO BOX 2527 927 YARBRO LN PADUCAH KY 42002 SS 945,SM 1045,SN 6,W 645 AWANA, AUDIO SERMONS KJB, RUCKMAN"
+    "description": "PO BOX 2527 PADUCAH KY 42002 SS 945,SM 1045,SN 6,W 645 AWANA, AUDIO SERMONS KJB, RUCKMAN"
   },
   {
     "id": "1845",
@@ -704,12 +704,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIMOTHY CHARLTON. 235 PANOLA ROAD WACO KY 40385 SS 10,SM 11,SN 6,W 730 STREET PREACHING, SOULWINNING, BOOKSTORE IN PEDDLERS MALL; BIBLE BELIEVERS BAPTIST ACADEMY, K-12, LANDMARK CURR; BETWEEN RICHMOND AND IRVINE KJB church."
+    "description": "WACO KY 40385 SS 10,SM 11,SN 6,W 730 STREET PREACHING, SOULWINNING, BOOKSTORE IN PEDDLERS MALL; BIBLE BELIEVERS BAPTIST ACADEMY, K-12, LANDMARK CURR; BETWEEN RICHMOND AND IRVINE KJB church"
   },
   {
     "id": "1846",
     "name": "SUGAR CAMP BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 410",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -722,7 +722,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD SEXTON. PO BOX 410 HWY 3346 BOONEVILLE KY 41314 SS 10,SM 11,SN 6,W 7 BUS, PATCH, SUNDAY SCHOOL ALL AGES, REFORMERS UNANIMOUS FRIDAY 7; OWSLEY COUNTY CHRISTIAN SCHOOL; REACHING THE BEATTYVILLE NATURAL BRIDGE A KJB church."
+    "description": "HWY 3346 BOONEVILLE KY 41314 SS 10,SM 11,SN 6,W 7 BUS, PATCH, SUNDAY SCHOOL ALL AGES, REFORMERS UNANIMOUS FRIDAY 7; OWSLEY COUNTY CHRISTIAN SCHOOL; REACHING THE BEATTYVILLE NATURAL BRIDGE A KJB church"
   },
   {
     "id": "1847",
@@ -741,7 +741,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by UNKNOWN. RR 2 BOX 249 3666 BLUE SPRINGS RD CADIZ KY 42211 KJB, UNAFFILIATED"
+    "description": "RR 2 BOX 249 CADIZ KY 42211 KJB, UNAFFILIATED"
   },
   {
     "id": "1848",
@@ -759,7 +759,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SHAVER. 1534 E 18TH ST OWENSBORO KY 42303 SS 10,SM 11,SN 6,W 7 TRADITIONAL SERVICES KJB church."
+    "description": "OWENSBORO KY 42303 SS 10,SM 11,SN 6,W 7 TRADITIONAL SERVICES KJB church"
   },
   {
     "id": "1849",
@@ -779,7 +779,7 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by J DALE MASSENGALE. 533 TRIPLETT ST OWENSBORO KY 42302 SS 945,SM 1045,SN 6,W 7 SOULWINNING PO BOX 100 6700 HWY 261 MCQUADY KY 40153 SS 10,SM 11,SN 6,W 7 PRISON,YOUTH DETENTION, AUDIO SERMONS & MUSIC KJB, UNAFFILIATED PO"
+    "description": "OWENSBORO KY 42302 SS 945,SM 1045,SN 6,W 7 SOULWINNING PO BOX 100 6700 HWY 261 MCQUADY KY 40153 SS 10,SM 11,SN 6,W 7 PRISON,YOUTH DETENTION, AUDIO SERMONS & MUSIC KJB, UNAFFILIATED PO"
   },
   {
     "id": "1850",
@@ -799,12 +799,12 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CALEB SHIRLEY. 86 MAINTENANCE DR MT VERNON KY 40456 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, BUS, PATCH, SOULWINNING, CD, PRISON, TEENS; CENTRAL BAPTIST CHRISTIAN ACADEMY, K5-12, ABEKA, ACE KJB, UNAFFILIATED PO BOX 98 12"
+    "description": "MT VERNON KY 40456 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, BUS, PATCH, SOULWINNING, CD, PRISON, TEENS; CENTRAL BAPTIST CHRISTIAN ACADEMY, K5-12, ABEKA, ACE KJB, UNAFFILIATED PO BOX 98 12"
   },
   {
     "id": "1851",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 268",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -817,7 +817,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERRY GRIFFITH. PO BOX 268 FERGUSON KY 42501 56 HWY 1247 in SOMERSET SS 10,SM 11,SN 6, W AWANA 630,W 7 BUS, AWANA, SUPERCHURCH, NURSERY, JAIL, AUDIO SERMONS; TIMOTHIAN BIBLE COLLEGE KJB church."
+    "description": "FERGUSON KY 42501 56 HWY 1247 in SOMERSET SS 10,SM 11,SN 6, W AWANA 630,W 7 BUS, AWANA, SUPERCHURCH, NURSERY, JAIL, AUDIO SERMONS; TIMOTHIAN BIBLE COLLEGE KJB church"
   },
   {
     "id": "1852",
@@ -836,7 +836,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PATRICK MILLER. 412 M ST LOUISVILLE KY 40206 KJB, KY-BBF"
+    "description": "LOUISVILLE KY 40206 KJB, KY-BBF"
   },
   {
     "id": "1853",
@@ -854,7 +854,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL HARGIS. 100 CARDINAL DR RICHMOND KY 40475 SS 920,SM 1030,W 7 VBS, G.R.O.W., AUDIO SERMONS KJB church."
+    "description": "RICHMOND KY 40475 SS 920,SM 1030,W 7 VBS, G.R.O.W., AUDIO SERMONS KJB church"
   },
   {
     "id": "1854",
@@ -873,7 +873,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHUCK MERICLE. 280 SLATE LICK ST LONDON KY 40741 SS 10,SM 11,SN 6,W 7 BUS, KIDS, SOULWINNING, CORRESPONDENCE LESSONS, PRISON, STREET PREACHING, SENIORS, TEENS KJB church."
+    "description": "LONDON KY 40741 SS 10,SM 11,SN 6,W 7 BUS, KIDS, SOULWINNING, CORRESPONDENCE LESSONS, PRISON, STREET PREACHING, SENIORS, TEENS KJB church"
   },
   {
     "id": "1855",
@@ -891,7 +891,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LAWRENCE RICHARDSON. 213 GANO AVE GEORGETOWN KY 40324 SS 945,SM 11,SN 5; SW CLASS 6,W 7 735 LENIN RD MADISONVILLE KY 42431 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER, AUDIO & TEXT SERMONS; GRACE BAPTIST SCHOOL KJB church."
+    "description": "GEORGETOWN KY 40324 SS 945,SM 11,SN 5; SW CLASS 6,W 7 735 LENIN RD MADISONVILLE KY 42431 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER, AUDIO & TEXT SERMONS; GRACE BAPTIST SCHOOL KJB church"
   },
   {
     "id": "1856",
@@ -909,7 +909,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE GREENWELL. 7183 PLEASANT VALLEY RD FLORENCE KY 41042 SS 10,SM 11,SN 6,W 7 MASTER CLUBS, VICTORY 1050 RADIO, JAIL KJB church."
+    "description": "FLORENCE KY 41042 SS 10,SM 11,SN 6,W 7 MASTER CLUBS, VICTORY 1050 RADIO, JAIL KJB church"
   },
   {
     "id": "1857",
@@ -927,12 +927,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMIE MUNCIE. 6026 US HWY 641 GILBERTSVILLE KY 42025 Near BENTON KY SS 930,SM 1045,SN 6,W 7 KJB, GIPP"
+    "description": "6026 US HWY 641 GILBERTSVILLE KY 42025 Near BENTON KY SS 930,SM 1045,SN 6,W 7 KJB, GIPP"
   },
   {
     "id": "1858",
     "name": "LANDMARK BAPTIST CHURCH",
-    "address": "1223 IRONWORKS RD",
+    "address": "1223 IRONWORKS RD WINCHEST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -945,7 +945,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 255 1223 IRONWORKS RD WINCHESTER KY 40391 SS 10,SM 11,SN 6,W 7"
+    "description": "PO BOX 255 ER KY 40391 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1859",
@@ -964,7 +964,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RONNIE W BLAIR. KJB,UNAFFILIATED"
+    "description": "KJB,UNAFFILIATED"
   },
   {
     "id": "1860",
@@ -977,12 +977,12 @@ export const kentuckyChurches: Church[] = [
     "longitude": -84.1623,
     "phone": "(270) 531-5561",
     "website": "https://www.facebook.com/pages/BonnievilleBaptistChurch/364324246955063",
-    "pastor": "",
+    "pastor": "BONNIEVILLE KY 42713 SS 10,SM 11,SN 630,W 630",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "164 MEMORIAL PARK DR BONNIEVILLE KY 42713 SS 10,SM 11,SN 630,W 630"
+    "description": "BONNIEVILLE KY 42713 SS 10,SM 11,SN 630,W 630"
   },
   {
     "id": "1861",
@@ -1001,12 +1001,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK JARRELL. FORT KNOX APPROX 35 MILES KJB, UNAFFILIATED"
+    "description": "FORT KNOX APPROX 35 MILES KJB, UNAFFILIATED"
   },
   {
     "id": "1862",
     "name": "PRATER CREEK BAPTIST CHURCH",
-    "address": "426 CLICK BRANCH RD",
+    "address": "274 ORCHARD BRANCH RD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1019,12 +1019,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMY PERKINS. 426 CLICK BRANCH RD BANNER KY 41603 PHYSICAL ADD: 274 ORCHARD BRANCH RD SS 10,SM 11,SN 6,W 7 HOPE CLUB,PLUGGED IN, TEXT SERMONS ONLINE, RAY OF HOPE BROADCAST AT 830 AM SUN 95.5 FM, HAND OF HOPE MINIST KJB church."
+    "description": "BANNER KY 41603 PHYSICAL ADD: SS 10,SM 11,SN 6,W 7 HOPE CLUB,PLUGGED IN, TEXT SERMONS ONLINE, RAY OF HOPE BROADCAST AT 830 AM SUN 95.5 FM, HAND OF HOPE MINIST KJB church"
   },
   {
     "id": "1863",
     "name": "ALUM SPRINGS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 127",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1037,7 +1037,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 127 875 ALUM SPRINGS CROSS PIKE DANVILLE KY 40423"
+    "description": "875 ALUM SPRINGS CROSS PIKE DANVILLE KY 40423"
   },
   {
     "id": "1864",
@@ -1055,7 +1055,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN SHAVER. SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1865",
@@ -1074,12 +1074,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GENE DAME. 3822 LAFAYETTE RD HOPKINSVILLE KY 42240 7 MILES FROM FORT CAMPBELL AUDIO SERMONS KJB, UNAFFILIATED"
+    "description": "HOPKINSVILLE KY 42240 7 MILES FROM FORT CAMPBELL AUDIO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "1866",
     "name": "FAITH PROMISE BAPTIST CHURCH",
-    "address": "1008 BROOKHAVEN DR",
+    "address": "7808 BEULAH CHURCH RD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1092,12 +1092,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RANDY KENNEDY. 1008 BROOKHAVEN DR FRANKLIN KY 42134 SS 10,SM 11,SN 6 7808 BEULAH CHURCH RD LOUISVILLE KY 40228 SS 930,SM 1030,SN 6,W 7 240 PIKE ST BROMLEY KY 41016 COVINGTON AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS;  KJB church."
+    "description": "FRANKLIN KY 42134 SS 10,SM 11,SN 6 LOUISVILLE KY 40228 SS 930,SM 1030,SN 6,W 7 240 PIKE ST BROMLEY KY 41016 COVINGTON AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS; KJB church"
   },
   {
     "id": "1867",
     "name": "BETHESDA BAPTIST CHURCH",
-    "address": "410 S MAIN ST",
+    "address": "410 S MAIN ST BEAVE",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1110,7 +1110,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J C STEVENS. 410 S MAIN ST BEAVER DAM KY 42320 SS 10,SM 11,SN 630,TH 7 TRUE SONG MINISTRIES, FORT CAMPBELL, FORT KNOX KJB church."
+    "description": "R DAM KY 42320 SS 10,SM 11,SN 630,TH 7 TRUE SONG MINISTRIES, FORT CAMPBELL, FORT KNOX KJB church"
   },
   {
     "id": "1868",
@@ -1128,7 +1128,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK S PROFFITT. PO BOX 389 MANCHESTER KY 40962 1636 BUSHY BRANCH RD KJB church."
+    "description": "PO BOX 389 MANCHESTER KY 40962 KJB church"
   },
   {
     "id": "1869",
@@ -1147,7 +1147,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM KEELIN. 105 KENTUCKY ST GLASGOW KY 42141 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "GLASGOW KY 42141 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1870",
@@ -1167,7 +1167,7 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DEAN DEMARIS. PO BOX 362 CATLETTSBURG KY 41129 PHYSICAL ADD: 6900 US ROUTE 60, ASHLAND  41102 SS 930,SM 1030,SN 6,W 7 YOUTH , LADIES CHRISTIAN CIRCLE, SOULWINNING, DISCIPLESHIP KJB, HYLES PO BOX 51 37 SPEEDWAY RD H"
+    "description": "PO BOX 362 CATLETTSBURG KY 41129 PHYSICAL ADD: 6900 US ROUTE 60, ASHLAND 41102 SS 930,SM 1030,SN 6,W 7 YOUTH , LADIES CHRISTIAN CIRCLE, SOULWINNING, DISCIPLESHIP KJB, HYLES PO BOX 51 H"
   },
   {
     "id": "1871",
@@ -1185,12 +1185,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES H WATERS JR. 2420 LEXINGTON RD NICHOLASVILLE KY 40353 SS 930,SM 1045,SN 6,W 7 PRO TEEN,KIDS CLUBS; TABERNACLE CHRISTIAN ACADEMY KJB church."
+    "description": "NICHOLASVILLE KY 40353 SS 930,SM 1045,SN 6,W 7 PRO TEEN,KIDS CLUBS; TABERNACLE CHRISTIAN ACADEMY KJB church"
   },
   {
     "id": "1872",
     "name": "FAITH BAPTIST BIBLE CHURCH",
-    "address": "270 S SANDERS LN",
+    "address": "270 S SANDERS LN LEBANON JCT",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1204,7 +1204,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRISTOPHER PAGE. 270 S SANDERS LN LEBANON JCT KY 40150 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "KY 40150 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1873",
@@ -1222,7 +1222,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEWAYNE WALKER. 3115 GRACEY HERNDON RD GRACEY KY 42232 SS 945,SM 11,SN 6,W 7 KJB, HYLES"
+    "description": "GRACEY KY 42232 SS 945,SM 11,SN 6,W 7 KJB, HYLES"
   },
   {
     "id": "1874",
@@ -1242,12 +1242,12 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by HOWARD LLOYD LATIMER. 1008 DELAWARE AVE LEXINGTON KY 40505-4002 SS 945,SM 11,SN 630,W 7 SOULWINNING, SHO LIN MARTIAL ARTS KJB, BBF"
+    "description": "LEXINGTON KY 40505-4002 SS 945,SM 11,SN 630,W 7 SOULWINNING, SHO LIN MARTIAL ARTS KJB, BBF"
   },
   {
     "id": "1875",
     "name": "EMMANUEL BAPTIST CHURCH",
-    "address": "",
+    "address": "555 PREWITT PK MT ST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1261,7 +1261,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM SANDAHL. PO BOX 631 555 PREWITT PK MT STERLING KY 40353 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 631 ERLING KY 40353 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1876",
@@ -1279,7 +1279,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENNETH. 1668 HWY 60 LEDBETTER KY 42058 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "1668 HWY 60 LEDBETTER KY 42058 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1877",
@@ -1297,7 +1297,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY J FUGATE. 7617 MARKET CART WAY LOUISVILLE KY 40229 SS 945,SM 11,SN 7,W 7 KJB church."
+    "description": "LOUISVILLE KY 40229 SS 945,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "1878",
@@ -1316,12 +1316,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DENNIS HIBBARD. 1220 BRANNON RD LEXINGTON KY 40503 SS 10,SM 11,SN 7,W 7 SPANISH SM 11,SN 7,THU 7 KJB, HBBC, S-BBF"
+    "description": "LEXINGTON KY 40503 SS 10,SM 11,SN 7,W 7 SPANISH SM 11,SN 7,THU 7 KJB, HBBC, S-BBF"
   },
   {
     "id": "1879",
     "name": "TEMPLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 486",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1334,12 +1334,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM. PO BOX 486 388 LONGHUNTERS TRL GLASGOW KY 42141 KJB church."
+    "description": "388 LONGHUNTERS TRL GLASGOW KY 42141 KJB church"
   },
   {
     "id": "1880",
     "name": "LETCHER INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 81",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1353,7 +1353,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE FROST. PO BOX 81 HWY 7 S JEREMIAH KY 41826 KJB church."
+    "description": "HWY 7 S JEREMIAH KY 41826 KJB church"
   },
   {
     "id": "1881",
@@ -1372,7 +1372,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEPHEN M ALEXANDER. 2214 BANK ST LOUISVILLE KY 40212 SS 945,SM 11,SN 6,W 7 AUDIO & LIVE SERMONS, YOUTH, CAMP; NORTHSIDE CHRISTIAN SCHOOL,PS-12; SHAWNEE BAPTIST COLLEGE; FORT KNOX ARMY KJB, UNAFFILIATED"
+    "description": "LOUISVILLE KY 40212 SS 945,SM 11,SN 6,W 7 AUDIO & LIVE SERMONS, YOUTH, CAMP; NORTHSIDE CHRISTIAN SCHOOL,PS-12; SHAWNEE BAPTIST COLLEGE; FORT KNOX ARMY KJB, UNAFFILIATED"
   },
   {
     "id": "1882",
@@ -1390,12 +1390,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN CHAMBERLIN. 587 RAWLINGS LN ELIZABETHTOWN KY 42701 SS 945,SM 1045,SN 6,W 7 PO BOX 1 1760 US HWY 27 S CYNTHIANA KY 41031 KJB church."
+    "description": "ELIZABETHTOWN KY 42701 SS 945,SM 1045,SN 6,W 7 PO BOX 1 1760 US HWY 27 S CYNTHIANA KY 41031 KJB church"
   },
   {
     "id": "1883",
     "name": "FAITHBAPTISTCYN",
-    "address": "",
+    "address": "7 FAITH CHRIST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1408,7 +1408,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL CASADA. SS 10,SM 11,SN 7,W 7 FAITH CHRISTIAN SCHOOL,K-12 KJB, CROWN"
+    "description": "SS 10,SM 11,SN 7,W IAN SCHOOL,K-12 KJB, CROWN"
   },
   {
     "id": "1884",
@@ -1427,7 +1427,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DR JACK D ROBERTS. 409 SUNSHINE HILL RD LONDON KY 40741-8844 SS 10,SM 11,SN 630,W 730 SOULWINNING KJB church."
+    "description": "LONDON KY 40741-8844 SS 10,SM 11,SN 630,W 730 SOULWINNING KJB church"
   },
   {
     "id": "1885",
@@ -1445,7 +1445,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL HURST. 130 SMITH LN LOUISVILLE KY 40229 SS 10,SM 11,SN 6,W 7 CHRISTIAN SCHOOL: M.I.C.A.H.,K3-12,NACS,ABEKA; AUDIO & VIDEO SERMONS, RADIO,TV, NEAR FORT KNOX KJB, HYLES"
+    "description": "LOUISVILLE KY 40229 SS 10,SM 11,SN 6,W 7 CHRISTIAN SCHOOL: M.I.C.A.H.,K3-12,NACS,ABEKA; AUDIO & VIDEO SERMONS, RADIO,TV, NEAR FORT KNOX KJB, HYLES"
   },
   {
     "id": "1886",
@@ -1465,7 +1465,7 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BRANDON NEAL. PO BOX 785 880 N HWY 25 W WILLIAMSBURG KY 40769 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 8 205 STATELINE RD OAK GROVE KY 42262 SS 10, SM 11, SN 6, W 7 BUS, MASTER’S CLUB, SOULWINNING, CD/DVD, TEE"
+    "description": "PO BOX 785 880 N HWY 25 W WILLIAMSBURG KY 40769 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 8 OAK GROVE KY 42262 SS 10, SM 11, SN 6, W 7 BUS, MASTER’S CLUB, SOULWINNING, CD/DVD, TEE"
   },
   {
     "id": "1887",
@@ -1483,7 +1483,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE WISEMAN. PO BOX 252 DAWSON SPRINGS KY 42408 219 SEVEN BRANCH RD MARION KY 42064 KJB church."
+    "description": "PO BOX 252 DAWSON SPRINGS KY 42408 MARION KY 42064 KJB church"
   },
   {
     "id": "1888",
@@ -1501,12 +1501,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR PHILLIP HUNTER. PO BOX 446 331 ASH AVE PEWEE VALLEY KY 40056 SS 10,SM 11,SN 7,W 7 VIDEO SERMONS, SIGH SENIORS, SMART YOUTH & TEENS, LIFT LADIES, PATCH CLUB KJB church."
+    "description": "PO BOX 446 PEWEE VALLEY KY 40056 SS 10,SM 11,SN 7,W 7 VIDEO SERMONS, SIGH SENIORS, SMART YOUTH & TEENS, LIFT LADIES, PATCH CLUB KJB church"
   },
   {
     "id": "1889",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "2001 PRINCE AVE",
+    "address": "2100 FORT PICKENS RD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1519,7 +1519,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID WOOSLEY. 2001 PRINCE AVE OWENSBORO KY 42303 SS10,SM 11,SN 6,W 7 PO BOX 318 2100 FORT PICKENS RD LAGRANGE KY 40031 SS 945,SM 11,SN 6,W 7 KJB, CROWN-BC 156 SHELBY AVE RADCLIFF KY 40160 SS 10,SM 11,SN 6,W 7"
+    "description": "OWENSBORO KY 42303 SS10,SM 11,SN 6,W 7 PO BOX 318 LAGRANGE KY 40031 SS 945,SM 11,SN 6,W 7 KJB, CROWN-BC 156 SHELBY AVE RADCLIFF KY 40160 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1890",
@@ -1539,12 +1539,12 @@ export const kentuckyChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by TOM OTTO. 1415 ISLAND FORD RD MADISONVILLE KY 42431 SS 1015,SM 1105,SN 630,W 7 MADISON CHRISTIAN SCHOOL; AUDIO SERMONS KJB, UNAFFILIATED 1008 W CEDAR ST FRANKLIN KY 42134 PHYSICAL LOCATION: 1012 W CEDAR SS 10,S"
+    "description": "MADISONVILLE KY 42431 SS 1015,SM 1105,SN 630,W 7 MADISON CHRISTIAN SCHOOL; AUDIO SERMONS KJB, UNAFFILIATED 1008 W CEDAR ST FRANKLIN KY 42134 PHYSICAL LOCATION: 1012 W CEDAR SS 10,S"
   },
   {
     "id": "1891",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "1190 DRY RIDGE RD",
+    "address": "1190 DRY RIDGE RD DR",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1557,12 +1557,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM BOOHER. 1190 DRY RIDGE RD DRY RIDGE KY 41035 SS 10,SM 11,SN 6,W 7 TEXT SERMONS KJB church."
+    "description": "Y RIDGE KY 41035 SS 10,SM 11,SN 6,W 7 TEXT SERMONS KJB church"
   },
   {
     "id": "1892",
     "name": "GOSPEL INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "42602 BROWNS CROSSROAD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1576,7 +1576,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREG DOWDY. RR 2 BOX 206 ALBANY KY 42602 BROWNS CROSSROADS, RR 4 BOX 405 KJB, CROWN"
+    "description": "RR 2 BOX 206 ALBANY KY S, RR 4 BOX 405 KJB, CROWN"
   },
   {
     "id": "1893",
@@ -1595,12 +1595,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TRUMAN COOPER. 4430 OLD CALHOUN RD OWENSBORO KY 42301 SS 930,SM 1030,SN 6,W 7 SOULWINNING; OWENSBORO CHRISTIAN ACADEMY KJB church."
+    "description": "OWENSBORO KY 42301 SS 930,SM 1030,SN 6,W 7 SOULWINNING; OWENSBORO CHRISTIAN ACADEMY KJB church"
   },
   {
     "id": "1894",
     "name": "FAITH BAPTIST TEMPLE",
-    "address": "49 JESSE SMALL LN",
+    "address": "49 JESSE SMALL LN BEAVE",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1613,7 +1613,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY LOGSDON. 49 JESSE SMALL LN BEAVER DAM KY 42320 KJB church."
+    "description": "R DAM KY 42320 KJB church"
   },
   {
     "id": "1895",
@@ -1632,7 +1632,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR CARL FRENSLEY. 450 NELSON LN BENTON KY 42025 SS 10,SM 11,SN 530,W 630 KJB, BBF"
+    "description": "BENTON KY 42025 SS 10,SM 11,SN 530,W 630 KJB, BBF"
   },
   {
     "id": "1896",
@@ -1651,7 +1651,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WAYNE COX. PO BOX 725 4357 NEW GLASGOW RD SCOTTSVILLE KY 42164 KJB, BBF"
+    "description": "PO BOX 725 SCOTTSVILLE KY 42164 KJB, BBF"
   },
   {
     "id": "1897",
@@ -1669,7 +1669,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROB PADDOCK. 1898 FLORENCE PIKE BURLINGTON KY 41005 FLORENCE AREA SS 930,SM 1030,SN 630,W 730 AWANA, BUS, AUDIO & VIDEO SERMONS KJB church."
+    "description": "1898 FLORENCE PIKE BURLINGTON KY 41005 FLORENCE AREA SS 930,SM 1030,SN 630,W 730 AWANA, BUS, AUDIO & VIDEO SERMONS KJB church"
   },
   {
     "id": "1898",
@@ -1687,7 +1687,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILL CRADDOCK. PO BOX 516 161 CORNETT RD HINDMAN KY 41822 KJB church."
+    "description": "PO BOX 516 HINDMAN KY 41822 KJB church"
   },
   {
     "id": "1899",
@@ -1705,7 +1705,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5600 COOPER CHAPEL RD LOUISVILLE KY 40229"
+    "description": "LOUISVILLE KY 40229"
   },
   {
     "id": "1900",
@@ -1723,12 +1723,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON BOTTRELL. SS 10,SM 11,SN 6,W 730 486 BATTLEFIELD MEMORIAL PKY RICHMOND KY 40475 BUS,MASTERS CLUB,SW,TEEN KJB, RUCKMAN PO BOX 2154 8130 MANOR DR ASHLAND KY 41105"
+    "description": "SS 10,SM 11,SN 6,W 730 486 BATTLEFIELD MEMORIAL PKY RICHMOND KY 40475 BUS,MASTERS CLUB,SW,TEEN KJB, RUCKMAN PO BOX 2154 ASHLAND KY 41105"
   },
   {
     "id": "1901",
     "name": "LITTLE OBION BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 33",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1743,7 +1743,7 @@ export const kentuckyChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TOMMY MORROW. PO BOX 33 HWY 339 NORTH WINGO KY 42088 SS 10,SM 11,SN 6,W 7 KJB,HAC,FUNDAMENTAL 105 SHUN PIKE NICHOLASVILLE KY 40356 SS 10,SM 11,SN 6,W 7 SOULWINNING, STREET PREACHING, BUS, CHOIR, PATCH PIRATE, RADIO"
+    "description": "HWY 339 NORTH WINGO KY 42088 SS 10,SM 11,SN 6,W 7 KJB,HAC,FUNDAMENTAL 105 SHUN PIKE NICHOLASVILLE KY 40356 SS 10,SM 11,SN 6,W 7 SOULWINNING, STREET PREACHING, BUS, CHOIR, PATCH PIRATE, RADIO"
   },
   {
     "id": "1902",
@@ -1761,7 +1761,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL BAKER. HC 36 BOX 49 3867 KY HWY 2022 BUCKHORN KY 41721 6093 TAYLOR MILL RD COVINGTON KY 41015 SS 10,SM 11,SN 6,W 630 BUS, PATCH PIRATE, ORCHESTRA, JAIL, AUDIO SERMONS KJB church."
+    "description": "HC 36 BOX 49 3867 KY HWY 2022 BUCKHORN KY 41721 COVINGTON KY 41015 SS 10,SM 11,SN 6,W 630 BUS, PATCH PIRATE, ORCHESTRA, JAIL, AUDIO SERMONS KJB church"
   },
   {
     "id": "1903",
@@ -1779,7 +1779,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES MARTIN. 71 HALO RD WHITESBURG KY 41858 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "WHITESBURG KY 41858 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1904",
@@ -1797,7 +1797,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURTIS D LEAR. 5152 SR 384 MAYFIELD KY 42066 SS 10,SM 11,SN 6,W 730 KJB church."
+    "description": "5152 SR 384 MAYFIELD KY 42066 SS 10,SM 11,SN 6,W 730 KJB church"
   },
   {
     "id": "1905",
@@ -1815,7 +1815,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM SCHELLING. 3900 ANTIOCH RD HOPKINSVILLE KY 42240 SS 10,SM 11,SN 7,W 7 FORT CAMPBELL 20 MILES KJB church."
+    "description": "HOPKINSVILLE KY 42240 SS 10,SM 11,SN 7,W 7 FORT CAMPBELL 20 MILES KJB church"
   },
   {
     "id": "1906",
@@ -1833,7 +1833,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH BANKS. 2681 TURKEYFOOT RD LAKESIDE PARK KY 41017 SS 945,SM 830 & 1050,SN 6,W 7 KJB, RUCKMAN 1036 BEAVERDAM RD WHITESBURG KY 41858 PHYSICAL ADD: 8497 KENTUCKY 7"
+    "description": "LAKESIDE PARK KY 41017 SS 945,SM 830 & 1050,SN 6,W 7 KJB, RUCKMAN 1036 BEAVERDAM RD WHITESBURG KY 41858 PHYSICAL ADD: 8497 KENTUCKY 7"
   },
   {
     "id": "1907",
@@ -1851,7 +1851,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDDIE MITCHELL. 1360 OLD HODGENVILLE RD CAMPBELLSVILLE KY 42719 SS 945,SM 1045,SN 6,W 7 DEAF, RADIO, TEENS, KINGS KIDS KJB church."
+    "description": "CAMPBELLSVILLE KY 42719 SS 945,SM 1045,SN 6,W 7 DEAF, RADIO, TEENS, KINGS KIDS KJB church"
   },
   {
     "id": "1908",
@@ -1870,7 +1870,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GARY ROGERS. GENERAL DELIVERY ALLEGRE KY 42203 SS 10,SM 11,SN 6,W 730 KJB, BBF"
+    "description": "GENERAL DELIVERY ALLEGRE KY 42203 SS 10,SM 11,SN 6,W 730 KJB, BBF"
   },
   {
     "id": "1909",
@@ -1888,7 +1888,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ARVILL DUNCAN. 9007 PROSPECT AVE LOUISVILLE KY 40220 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "LOUISVILLE KY 40220 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "1910",
@@ -1907,7 +1907,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PAUL HATCHER. PO BOX 59 7533 BALLARDSVILLE RD SMITHFIELD KY 40068 SS 10,SM 11,SN 6,W 7 AUDIO PREACHING KJB, BBF"
+    "description": "PO BOX 59 SMITHFIELD KY 40068 SS 10,SM 11,SN 6,W 7 AUDIO PREACHING KJB, BBF"
   },
   {
     "id": "1911",
@@ -1926,7 +1926,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BOB CUTLER. PO BOX 514 2435 BROADWAY ST PADUCAH KY 42001 SS 10,SM 11,SN 6,W 7 TEXT SERMONS, AWANA,BUS KJB, BBF, MBBC"
+    "description": "PO BOX 514 PADUCAH KY 42001 SS 10,SM 11,SN 6,W 7 TEXT SERMONS, AWANA,BUS KJB, BBF, MBBC"
   },
   {
     "id": "1912",
@@ -1945,12 +1945,12 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT BAILEY. 50 BAMBI DR CAMPBELLSVILLE KY 42718 ON HWY 68 W CHRISTIAN SCHOOL,K-12 KJB, FBBF, HYLES TRUE SONG MINISTRIES 414 S MAIN ST BEAVER DAM KY 42320 SS 10,SM 11,SN 630,TH 7 TRUE SONG MINISTRIES, FORT CAMPBEL"
+    "description": "CAMPBELLSVILLE KY 42718 ON HWY 68 W CHRISTIAN SCHOOL,K-12 KJB, FBBF, HYLES TRUE SONG MINISTRIES 414 S MAIN ST BEAVER DAM KY 42320 SS 10,SM 11,SN 630,TH 7 TRUE SONG MINISTRIES, FORT CAMPBEL"
   },
   {
     "id": "1913",
     "name": "HARVEST BAPTIST CHURCH",
-    "address": "9205 BROWN AUSTIN RD",
+    "address": "9205 BROWN AUSTIN RD FAIRD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1963,12 +1963,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY J PERRY. 9205 BROWN AUSTIN RD FAIRDALE KY 40118 LOUISVILLE AREA SS 930, SM 1030, SN 6, W 7 AWANA, TEEN, CHOIR, SENIORS, FT KNOX KJB church."
+    "description": "ALE KY 40118 LOUISVILLE AREA SS 930, SM 1030, SN 6, W 7 AWANA, TEEN, CHOIR, SENIORS, FT KNOX KJB church"
   },
   {
     "id": "1914",
     "name": "CALVARY BAPTIST TEMPLE",
-    "address": "",
+    "address": "25 EAST BERNST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -1981,7 +1981,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB CAUDILL. 6041 N US HWY 25 EAST BERNSTADT KY 40729 SS 10,SM 11,SN 7,W 715 AUDIO SERMONS & MUSIC KJB church."
+    "description": "6041 N US HWY ADT KY 40729 SS 10,SM 11,SN 7,W 715 AUDIO SERMONS & MUSIC KJB church"
   },
   {
     "id": "1915",
@@ -1999,12 +1999,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM WRIGHT. 11625 KY HWY 7 CORNETTSVILLE KY 41731 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "11625 KY HWY 7 CORNETTSVILLE KY 41731 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "1916",
     "name": "LITTLE SANDY BAPTIST CHURCH",
-    "address": "140 MILLER RD",
+    "address": "281 CHILDERS RD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2017,7 +2017,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR EDGAR MCKINNEY. 3569 SR 3307 GREENUP KY 41144 SS 10,SM 11,SN 7,W 7 140 MILLER RD HODGENVILLE KY 42748 281 CHILDERS RD PIKEVILLE KY 41501 KJB church."
+    "description": "3569 SR 3307 GREENUP KY 41144 SS 10,SM 11,SN 7,W 7 HODGENVILLE KY 42748 PIKEVILLE KY 41501 KJB church"
   },
   {
     "id": "1917",
@@ -2036,7 +2036,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by CHRIS WHITMER. 10010 DIXIE HWY LOUISVILLE KY 40272 1111 OUTER W BROADWAY MADISONVILLE KY 42431 KJB church."
+    "description": "10010 DIXIE HWY LOUISVILLE KY 40272 MADISONVILLE KY 42431 KJB church"
   },
   {
     "id": "1918",
@@ -2049,12 +2049,12 @@ export const kentuckyChurches: Church[] = [
     "longitude": -83.8159,
     "phone": "(636) 578-0223",
     "website": "https://gmail.com",
-    "pastor": "TERRY TUTTLE",
+    "pastor": "GEORGETOWN KY 40324 SS 10,SM 11,SN 5,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY TUTTLE. PO BOX 144 6880 RICHLAND RD LIVERMORE KY 42352 SS 945,SM 1045,SN 6,W 7 200 OAKMONT DR GEORGETOWN KY 40324 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "PO BOX 144 LIVERMORE KY 42352 SS 945,SM 1045,SN 6,W 7 200 OAKMONT DR GEORGETOWN KY 40324 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "1919",
@@ -2073,7 +2073,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DON KENNEDY. 4530 ALVES FERRY RD HENDERSON KY 42420 KJB, UNAFFILIATED"
+    "description": "HENDERSON KY 42420 KJB, UNAFFILIATED"
   },
   {
     "id": "1920",
@@ -2091,12 +2091,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TROY MCGAHAN. 2492 LINCOLN FARM RD HODGENVILLE KY 42748 AUDIO SERMONS, BUS,CHOIR KJB, LANDMARK"
+    "description": "HODGENVILLE KY 42748 AUDIO SERMONS, BUS,CHOIR KJB, LANDMARK"
   },
   {
     "id": "1921",
     "name": "ROLLING HILLS BAPTIST CHURCH",
-    "address": "575 OLD COLUMBIA RD",
+    "address": "7 SS FOR ADULTS AND CHILDR",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2104,7 +2104,7 @@ export const kentuckyChurches: Church[] = [
     "longitude": -85.3073,
     "phone": "(606) 451-5746",
     "website": "http://www.ourchurch.com/member/r/rollhillsbc",
-    "pastor": "ARNOLD MARTIN",
+    "pastor": "HARLAN KY 40865 BUS, MASTER’S CLUB, SOUL KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -2112,7 +2112,7 @@ export const kentuckyChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by ARNOLD MARTIN. 575 OLD COLUMBIA RD NANCY KY 42544 SS 10,SM 11,SN 6,W 7 SS FOR ADULTS AND CHILDREN, VISITATION, LAST SUNDAY OF EACH MONTH FELLOWSHIP DINNER 550 UPPER ELCOMB DR HARLAN KY 40865 BUS, MASTER’S CLUB, SOUL KJB church."
+    "description": "NANCY KY 42544 SS 10,SM 11,SN 6,W EN, VISITATION, LAST SUNDAY OF EACH MONTH FELLOWSHIP DINNER 550 UPPER ELCOMB DR HARLAN KY 40865 BUS, MASTER’S CLUB, SOUL KJB church"
   },
   {
     "id": "1922",
@@ -2130,7 +2130,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by BILLY G FAYNE. 1377 S 20th St LOUISVILLE KY 40210 SS 10,SM 11,SN 4,TH 7 BUS, SOULWINNING, AUDIO SERMONS"
+    "description": "LOUISVILLE KY 40210 SS 10,SM 11,SN 4,TH 7 BUS, SOULWINNING, AUDIO SERMONS"
   },
   {
     "id": "1923",
@@ -2148,12 +2148,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DON EMERSON. 1434 EDGELAWN DR LEXINGTON KY 40505"
+    "description": "LEXINGTON KY 40505"
   },
   {
     "id": "1924",
     "name": "UNION INDEPENDENT BAPTIST CHURCH",
-    "address": "4290 N PRESTON HWY",
+    "address": "4290 N PRESTON HWY SHEPHERD",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2167,12 +2167,12 @@ export const kentuckyChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by LARRY J MERRICK. 461 HWY 3525 RUSSELL SPRINGS KY 42642 BBFI, PCC 4290 N PRESTON HWY SHEPHERDSVILLE KY 40165 PHYSICAL ADD: SS 10,SM 11,SN 630,W 7 ROLLING HILLS CHRISTIAN SCHOOL"
+    "description": "461 HWY 3525 RUSSELL SPRINGS KY 42642 BBFI, PCC SVILLE KY 40165 PHYSICAL ADD: SS 10,SM 11,SN 630,W 7 ROLLING HILLS CHRISTIAN SCHOOL"
   },
   {
     "id": "1925",
     "name": "LAKELAND BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 435",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2185,12 +2185,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BRIAN JONES. PO BOX 435 CALVERT CITY KY 42029 HWY 62 & 95 SS 10,SM 11,SN 6,W 7 BBF church."
+    "description": "CALVERT CITY KY 42029 HWY 62 & 95 SS 10,SM 11,SN 6,W 7 BBF church"
   },
   {
     "id": "1926",
     "name": "CLEATON MISSIONARY BAPTIST CHURCH",
-    "address": "186 MAIN ST",
+    "address": "4517 CRAWFORD AVE",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2203,7 +2203,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by RICHARD GONZALEZ. PO BOX 92 186 MAIN ST CLEATON KY 42332 SS 10,SM 11,SN 6,W 6 PO BOX 72326 4517 CRAWFORD AVE LOUISVILLE KY 40258 880 BEAN CEMETERY RD MADISONVILLE KY 42431 BBF church."
+    "description": "PO BOX 92 CLEATON KY 42332 SS 10,SM 11,SN 6,W 6 PO BOX 72326 LOUISVILLE KY 40258 880 BEAN CEMETERY RD MADISONVILLE KY 42431 BBF church"
   },
   {
     "id": "1927",
@@ -2221,7 +2221,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 171 1500 HUSBAND RD PADUCAH KY 42002"
+    "description": "PO BOX 171 PADUCAH KY 42002"
   },
   {
     "id": "1928",
@@ -2240,7 +2240,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRUCE SCHROADER. 1624 JOHNSON DR BOWLING GREEN KY 42101 PREACH-KJV, BUT CONSULT OTHERS,UNAFFILIATED KJB church."
+    "description": "BOWLING GREEN KY 42101 PREACH-KJV, BUT CONSULT OTHERS,UNAFFILIATED KJB church"
   },
   {
     "id": "1929",
@@ -2258,7 +2258,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RODGER D BAKER. 4131 RUDY MARTIN DR OWENSBORO KY 42301 PREACH KJV,NOT KJV ONLY, FBF, BJU KJB church."
+    "description": "OWENSBORO KY 42301 PREACH KJV,NOT KJV ONLY, FBF, BJU KJB church"
   },
   {
     "id": "1930",
@@ -2278,7 +2278,7 @@ export const kentuckyChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by TONY CHARLES. 2945 LEXINGTON RD PO BOX 502 RICHMOND KY 40476 SS 10,SM 11,SN 6,W 7 KJV-NIV, PRE-TRIB, PRE-MIL, UNAFFILIATED KJB church."
+    "description": "PO BOX 502 RICHMOND KY 40476 SS 10,SM 11,SN 6,W 7 KJV-NIV, PRE-TRIB, PRE-MIL, UNAFFILIATED KJB church"
   },
   {
     "id": "1931",
@@ -2296,12 +2296,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY SPICER. 2271 HWY 708W LONE KY 41347 SS 1030, SM 1115, SN 6 VAN, MULTIMEDIA, CHURCH LIBRARY, THEATER, NURSERY; 15 MINUTES FROM BEATTYVILLE, BOONEVILLE AND JACKSON NOT KJV ONLY,PRE-MIL KJB church."
+    "description": "2271 HWY 708W LONE KY 41347 SS 1030, SM 1115, SN 6 VAN, MULTIMEDIA, CHURCH LIBRARY, THEATER, NURSERY; 15 MINUTES FROM BEATTYVILLE, BOONEVILLE AND JACKSON NOT KJV ONLY,PRE-MIL KJB church"
   },
   {
     "id": "1932",
     "name": "GRAY FORK BAPTIST CHURCH",
-    "address": "",
+    "address": "818 MANCHEST",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2315,7 +2315,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by CORY MCCAIG. RT 1 BOX 818 MANCHESTER KY 40962 SS 10,SM 11,SN 6,W 7 FOOD PANTRY,WELLNESS CENTER, BMA, NOT KJV ONLY, KJB church."
+    "description": "RT 1 BOX ER KY 40962 SS 10,SM 11,SN 6,W 7 FOOD PANTRY,WELLNESS CENTER, BMA, NOT KJV ONLY, KJB church"
   },
   {
     "id": "1933",
@@ -2333,7 +2333,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KENNETH LONG. 6330 SCOTTSVILLE RD BOWLING GREEN KY 42104 SS 10,SM AA,SN 6,W 630 S.GRACE-TULIP"
+    "description": "BOWLING GREEN KY 42104 SS 10,SM AA,SN 6,W 630 S.GRACE-TULIP"
   },
   {
     "id": "1934",
@@ -2351,12 +2351,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RON DUTY. 12800 CASTLE RD LOUISVILLE KY 40272 TULIP, FOUNDERS"
+    "description": "LOUISVILLE KY 40272 TULIP, FOUNDERS"
   },
   {
     "id": "1935",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "104 WASHINGTON AVE",
+    "address": "104 WASHINGTON AVE ALEXANDR",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2369,12 +2369,12 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EARL W THOMAS. 104 WASHINGTON AVE ALEXANDRIA KY 41001 KJB, LANDMARK,  MISSIONARY,EVANGELICAL-TULIP"
+    "description": "IA KY 41001 KJB, LANDMARK, MISSIONARY,EVANGELICAL-TULIP"
   },
   {
     "id": "1936",
     "name": "PLEASANT RIDGE BAPTIST CHURCH",
-    "address": "",
+    "address": "7 OFF LIBERTY RD ONE BLOCK NE OF NEW CIRCLE",
     "city": "Frankfort",
     "state": "KY",
     "zipCode": "",
@@ -2387,7 +2387,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE E DYE. LEXINGTON KY 40509 SS 930,SM 1030,SN 6, W 7 OFF LIBERTY RD ONE BLOCK NE OF NEW CIRCLE KJB, S.GRACE-TULIP"
+    "description": "LEXINGTON KY 40509 SS 930,SM 1030,SN 6, W KJB, S.GRACE-TULIP"
   },
   {
     "id": "1937",
@@ -2406,7 +2406,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE MCDONALD. PO BOX 77 340 MAIN ST SALVISA KY 40372 SS 10, SM 11, SN 5, W 6 BBF, PK, NOT KJV ONLY KJB church."
+    "description": "PO BOX 77 SALVISA KY 40372 SS 10, SM 11, SN 5, W 6 BBF, PK, NOT KJV ONLY KJB church"
   },
   {
     "id": "1938",
@@ -2424,7 +2424,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT GUILEY. 109 S MAIN ST CALVERT CITY KY 42029 SS 10,SM 830 & 11,SN 6,W 7 AWANA, SINGLES KJB, S.GRACE-TULIP"
+    "description": "CALVERT CITY KY 42029 SS 10,SM 830 & 11,SN 6,W 7 AWANA, SINGLES KJB, S.GRACE-TULIP"
   },
   {
     "id": "1939",
@@ -2443,7 +2443,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOBBY LAKES. 299 JOLLY RIDGE RD RICHMOND KY 40475 KJB, TULIP-S.GRACE 3692 HUNTERTOWN RD VERSAILLES KY 40383 SS 10,SM 11,SN 7,W 7 CHOIR,RADIO 770,TEEN,YOUTH, FORT KNOX 90 MILES KJB, LANDMARK, S.GRACE-TULIP 1300 MT"
+    "description": "RICHMOND KY 40475 KJB, TULIP-S.GRACE 3692 HUNTERTOWN RD VERSAILLES KY 40383 SS 10,SM 11,SN 7,W 7 CHOIR,RADIO 770,TEEN,YOUTH, FORT KNOX 90 MILES KJB, LANDMARK, S.GRACE-TULIP 1300 MT"
   },
   {
     "id": "1940",
@@ -2461,7 +2461,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRENT SPEARS. 619 LONGVIEW DR NICHOLASVILLE KY 40356 SS 10,SM 11,SN 6,W 7 KJB, S.GRACE-TULIP"
+    "description": "NICHOLASVILLE KY 40356 SS 10,SM 11,SN 6,W 7 KJB, S.GRACE-TULIP"
   },
   {
     "id": "1941",
@@ -2479,7 +2479,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM MURRINER. 3175 BRIAR HILL RD LEXINGTON KY 40516 AUDIO PREACHING, RADIO,TAPE,TV, SS 945,SM 11,SN 6,W 730 KJB, S.GRACE-TULIP 103 BOWMAN RD #35 BEREA KY 40403 OH KY CAMPGROUND - KY 21 W SS 10,SM 11,SN 6,W 7"
+    "description": "LEXINGTON KY 40516 AUDIO PREACHING, RADIO,TAPE,TV, SS 945,SM 11,SN 6,W 730 KJB, S.GRACE-TULIP 103 BOWMAN RD #35 BEREA KY 40403 OH KY CAMPGROUND - KY 21 W SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "1942",
@@ -2498,7 +2498,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by HAROLD BROWN. BBF, BBC-MO,NOT KJV ONLY KJB church."
+    "description": "BBF, BBC-MO,NOT KJV ONLY KJB church"
   },
   {
     "id": "1943",
@@ -2516,7 +2516,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY THURMAN. 2135 OAK HILL RD SOMERSET KY 42501 PREACHES KJV,NOT KJV ONLY 116 BROWN AVE LEXINGTON KY 40505 KJB,TULIP-S.GRACE 3692 HUNTERTOWN RD VERSAILLES KY 40383 KJB, LANDMARK, S.GRACE-TULIP 1300 MT VERNON DR GE"
+    "description": "SOMERSET KY 42501 PREACHES KJV,NOT KJV ONLY 116 BROWN AVE LEXINGTON KY 40505 KJB,TULIP-S.GRACE 3692 HUNTERTOWN RD VERSAILLES KY 40383 KJB, LANDMARK, S.GRACE-TULIP 1300 MT VERNON DR GE"
   },
   {
     "id": "1944",
@@ -2535,7 +2535,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DEREK HOLMES. 5897 RICHMOND RD LEXINGTON KY 40515 KJB, KY-BBF, CCM"
+    "description": "LEXINGTON KY 40515 KJB, KY-BBF, CCM"
   },
   {
     "id": "1945",
@@ -2553,7 +2553,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ADRIAN MCKINNEY. 1100 ARMSTRONG MILL RD LEXINGTON KY 40517 SS 10,SM 11,SN 6,W 7 AWANA, PRAISE BAND, AUDIO SERMONS S.GRACE-TULIP"
+    "description": "LEXINGTON KY 40517 SS 10,SM 11,SN 6,W 7 AWANA, PRAISE BAND, AUDIO SERMONS S.GRACE-TULIP"
   },
   {
     "id": "1946",
@@ -2572,7 +2572,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by J PAT FINLEY. 225 SUGAR HOLLOW RD IRVINE KY 40336 SS 10,SM 11,SN 3,W 6 SS 10,SM 11,SN 3,W 6 NOT KJV ONLY,BBF PO BOX 4064 WINCHESTER KY 40392 NOT KJV ONLY KJB church."
+    "description": "IRVINE KY 40336 SS 10,SM 11,SN 3,W 6 SS 10,SM 11,SN 3,W 6 NOT KJV ONLY,BBF PO BOX 4064 WINCHESTER KY 40392 NOT KJV ONLY KJB church"
   },
   {
     "id": "1947",
@@ -2590,7 +2590,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by FRANK MCCLANAHAN. 2034 HWY 39 SOMERSET KY 42501 KING OF KINGS RADIO NETWORK S.GRACE-LANDMARK"
+    "description": "2034 HWY 39 SOMERSET KY 42501 KING OF KINGS RADIO NETWORK S.GRACE-LANDMARK"
   },
   {
     "id": "1948",
@@ -2608,7 +2608,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT TOMLINSON. PO BOX 4242 330 LARCH LN LEXINGTON KY 40511 KJB, S.GRACE-TULIP"
+    "description": "PO BOX 4242 LEXINGTON KY 40511 KJB, S.GRACE-TULIP"
   },
   {
     "id": "1949",
@@ -2627,7 +2627,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MONTE WELLS. 1813 HOLMAN ST COVINGTON KY 41014 KJB, S.GRACE-TULIP, UNAFFILIATED, LANDMARK"
+    "description": "COVINGTON KY 41014 KJB, S.GRACE-TULIP, UNAFFILIATED, LANDMARK"
   },
   {
     "id": "1950",
@@ -2646,7 +2646,7 @@ export const kentuckyChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LARRY MANNING. 368 E HWY 635 SCIENCE HILL KY 42553 NOT KJV ONLY,BBF 6025 STATE HWY 3170 MAYSVILLE KY 41056-9446 SS 10,SM 11,SN 6,W 7 S.GRACE-TULIP 552 ASH ST LEXINGTON KY 40508 NOT KJV ONLY 100 HIGHER GROUND LN MT V KJB church."
+    "description": "368 E HWY 635 SCIENCE HILL KY 42553 NOT KJV ONLY,BBF MAYSVILLE KY 41056-9446 SS 10,SM 11,SN 6,W 7 S.GRACE-TULIP 552 ASH ST LEXINGTON KY 40508 NOT KJV ONLY 100 HIGHER GROUND LN MT V KJB church"
   },
   {
     "id": "1951",
@@ -2664,7 +2664,7 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN D BUSH. 73 MULBERRY RD CALVERT CITY KY 42029 SS 10,SM 11,SN 6,W 7 KJB, S.GRACE-TULIP 218 W 33RD ST COVINGTON KY 41015 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, S.GRACE-TULIP"
+    "description": "CALVERT CITY KY 42029 SS 10,SM 11,SN 6,W 7 KJB, S.GRACE-TULIP 218 W 33RD ST COVINGTON KY 41015 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, S.GRACE-TULIP"
   },
   {
     "id": "1952",
@@ -2682,6 +2682,6 @@ export const kentuckyChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "6502 JOHNSONTOWN RD LOUISVILLE KY 40272 SS 945, SM 11, SN 6, W 7 Independent church."
+    "description": "LOUISVILLE KY 40272 SS 945, SM 11, SN 6, W 7 Independent church"
   }
 ];

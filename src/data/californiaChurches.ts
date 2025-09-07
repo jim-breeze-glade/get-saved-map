@@ -17,7 +17,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAL MENJIVAR. 8245 RONSON RD SUITE D SAN DIEGO CA 92111 SS 930,SM 1045,SN 1215,W 7 PATCH PIRATE CLUB KJB,WCBC"
+    "description": "SAN DIEGO CA 92111 SS 930,SM 1045,SN 1215,W 7 PATCH PIRATE CLUB KJB,WCBC"
   },
   {
     "id": "165",
@@ -35,7 +35,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BENJAMIN N PLATA. 4622 WADSWORTH AVE LOS ANGELES CA 90011 ENGLISH SM 9,SN 1230,W 7 KOREAN SM 9 SPANISH SM 11,SN 1,W 7 KIDS KINGDOM, TEENS LOS ANGELES CHRISTIAN ACADEMY KJB church."
+    "description": "LOS ANGELES CA 90011 ENGLISH SM 9,SN 1230,W 7 KOREAN SM 9 SPANISH SM 11,SN 1,W 7 KIDS KINGDOM, TEENS LOS ANGELES CHRISTIAN ACADEMY KJB church"
   },
   {
     "id": "166",
@@ -55,7 +55,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by KYLE CONLEY. 616 E 8TH ST NATIONAL CITY CA 91950 SM 1030,SN 6,W 630 SOULWINNING, BIBLE STUDY KJB,UNAFFILIATED,UPLIFTING OLD HYMNS"
+    "description": "NATIONAL CITY CA 91950 SM 1030,SN 6,W 630 SOULWINNING, BIBLE STUDY KJB,UNAFFILIATED,UPLIFTING OLD HYMNS"
   },
   {
     "id": "167",
@@ -74,7 +74,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by KENT BLACK. 7600 OLD AUBURN RD CITRUS HEIGHTS CA 95610 SS 10, SM 11, SN 530, W 630 BUS, SOULWINNING, AUDIO SERMONS ONLINE, VBS KJB church."
+    "description": "CITRUS HEIGHTS CA 95610 SS 10, SM 11, SN 530, W 630 BUS, SOULWINNING, AUDIO SERMONS ONLINE, VBS KJB church"
   },
   {
     "id": "168",
@@ -92,7 +92,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by A J HAROLD. 1202 RAILROAD AVE ORLAND CA 95963 SS 945, SM 11, SN 1, TH 7 KJB church."
+    "description": "ORLAND CA 95963 SS 945, SM 11, SN 1, TH 7 KJB church"
   },
   {
     "id": "169",
@@ -110,7 +110,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2716 W 54TH PL LOS ANGELES CA 90043"
+    "description": "LOS ANGELES CA 90043"
   },
   {
     "id": "170",
@@ -129,7 +129,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HAROLD FORMER USAF. SS 10,SM 11,SN 5,TU 7 KJB, UNAFFILIATED"
+    "description": "SS 10,SM 11,SN 5,TU 7 KJB, UNAFFILIATED"
   },
   {
     "id": "171",
@@ -149,7 +149,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by PAUL CHOI. 1663 GREENFIELD DR EL CAJON CA 92021 SM 9 & 11,SN 530,W 7 SOULWINNING, SENIORS, TEENS,TRADITIONAL KJB,UNAFFILIATED,WCBC"
+    "description": "EL CAJON CA 92021 SM 9 & 11,SN 530,W 7 SOULWINNING, SENIORS, TEENS,TRADITIONAL KJB,UNAFFILIATED,WCBC"
   },
   {
     "id": "172",
@@ -167,7 +167,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL REED. MEETING AT VANDERMOLEN ELEMENTARY SCHOOL 6744 CARNELIAN ST MIRA LOMA CA 91752 KJB church."
+    "description": "MEETING AT VANDERMOLEN ELEMENTARY SCHOOL MIRA LOMA CA 91752 KJB church"
   },
   {
     "id": "173",
@@ -185,12 +185,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by REED. PO BOX 996 HERLONG COMMUNITY CENTER 100 TAMARACK RD HERLONG CA 96113 SM 11, SN 6,TH 7 KJB, HBBC, WCBC"
+    "description": "PO BOX 996 HERLONG COMMUNITY CENTER HERLONG CA 96113 SM 11, SN 6,TH 7 KJB, HBBC, WCBC"
   },
   {
     "id": "174",
     "name": "FREEDOM BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1225",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -204,7 +204,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BRUCE FORE. PO BOX 1225 73486 TWENTYNINE PALMS HWY TWENTYNINE PALMS CA 92277 SS 9,SM 10,SN 6,W 7 KJB,GSBC"
+    "description": "73486 TWENTYNINE PALMS HWY TWENTYNINE PALMS CA 92277 SS 9,SM 10,SN 6,W 7 KJB,GSBC"
   },
   {
     "id": "175",
@@ -223,7 +223,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MARSHALL P STEVENS. 1749 RAMADA DR PASO ROBLES CA 93446 SS 10,SM 11,SN 6,WED 7 BUS, PATCH THE PIRATE, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS KJB,HBBC,GIBF"
+    "description": "PASO ROBLES CA 93446 SS 10,SM 11,SN 6,WED 7 BUS, PATCH THE PIRATE, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS KJB,HBBC,GIBF"
   },
   {
     "id": "176",
@@ -241,7 +241,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "117 THERESA AVE AMERICAN CANYON CA 94503 VALLEJO/NAPA AREA SS 945,SM 11,SN 6,W 7 KING'S KIDS, BUS, MP3 AUDIO SERMONS ONLINE"
+    "description": "AMERICAN CANYON CA 94503 VALLEJO/NAPA AREA SS 945,SM 11,SN 6,W 7 KING'S KIDS, BUS, MP3 AUDIO SERMONS ONLINE"
   },
   {
     "id": "177",
@@ -260,7 +260,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RAY GRIGNON. TRAVIS AFB KJB,WCBC,UNAFFILIATED"
+    "description": "TRAVIS AFB KJB,WCBC,UNAFFILIATED"
   },
   {
     "id": "178",
@@ -279,12 +279,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIGUEL JURNA. 745 N PERRIS BLVD PERRIS CA 92571 SM 945 & 1130,SN 6, W 630 BUS, AWANA, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, MP3 AUDIO SERMONS ONLINE, TEMPLE CHRISTIAN SCHOOL,PreK-12,ABEKA,ACSI KJB church."
+    "description": "PERRIS CA 92571 SM 945 & 1130,SN 6, W 630 BUS, AWANA, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, MP3 AUDIO SERMONS ONLINE, TEMPLE CHRISTIAN SCHOOL,PreK-12,ABEKA,ACSI KJB church"
   },
   {
     "id": "179",
     "name": "FIRST BAPTIST CHURCH OF OLIVEHURST",
-    "address": "1777 8TH AVE",
+    "address": "578 OLIVEHURST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -297,7 +297,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUDY ABROT. PO BOX 578 1777 8TH AVE OLIVEHURST CA 95961 SS 10,SM 11,SN 6,W 7 KJB,WCBC"
+    "description": "PO BOX CA 95961 SS 10,SM 11,SN 6,W 7 KJB,WCBC"
   },
   {
     "id": "180",
@@ -318,7 +318,7 @@ export const californiaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by TRAVIS COLLINS. 1361 E CARSON ST CARSON CA 90745 SS 10,SM 1115,SN 615,TH 715 SOULWINNING KJB, GSBC, UNAFFILIATED"
+    "description": "CARSON CA 90745 SS 10,SM 1115,SN 615,TH 715 SOULWINNING KJB, GSBC, UNAFFILIATED"
   },
   {
     "id": "181",
@@ -336,7 +336,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "700 E COLLEGE AVE LOMPOC CA 93436 SS 10, SM 11, SN 630, W 7 BUS, KINGS KIDS, SOULWINNING, RU, PRISON, STREET PREACHING, SENIORS, TEENS, MP3 AUDIO AND VIDEO SERMONS ONLINE"
+    "description": "LOMPOC CA 93436 SS 10, SM 11, SN 630, W 7 BUS, KINGS KIDS, SOULWINNING, RU, PRISON, STREET PREACHING, SENIORS, TEENS, MP3 AUDIO AND VIDEO SERMONS ONLINE"
   },
   {
     "id": "182",
@@ -354,7 +354,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID HETZER. CLOSE TO VANDENBERG AIR FORCE BASE KJB, HBBC"
+    "description": "CLOSE TO VANDENBERG AIR FORCE BASE KJB, HBBC"
   },
   {
     "id": "183",
@@ -373,7 +373,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICHARD SZYDLOWSKI. PO BOX 688 2910 NORMAN STRASSE AVE STE 103 SAN MARCOS CA 92079 SM 1045,SN 530,W 7 NEAR CAMP PENDLETON AUDIO SERMONS ONLINE/PODCAST AVAILABLE, SOULWINNING, CONSERVATIVE MUSIC KJB church."
+    "description": "PO BOX 688 SAN MARCOS CA 92079 SM 1045,SN 530,W 7 NEAR CAMP PENDLETON AUDIO SERMONS ONLINE/PODCAST AVAILABLE, SOULWINNING, CONSERVATIVE MUSIC KJB church"
   },
   {
     "id": "184",
@@ -391,7 +391,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS CHADWICK. 1325 N MOUNTAIN AVENUE BANNING CA 92220 SS 945,SM 1045,SN 530,W 7 CALVARY CHRISTIAN SCHOOL,K-11 KJB church."
+    "description": "BANNING CA 92220 SS 945,SM 1045,SN 530,W 7 CALVARY CHRISTIAN SCHOOL,K-11 KJB church"
   },
   {
     "id": "185",
@@ -410,7 +410,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK IRMLER. 6866 LINDA VISTA RD SAN DIEGO CA 92111 SM 1030, SN 530, W 7 YOUTH BIBLE STUDY FOR TEENS - WEDNESDAY 7 OUTREACH - TUESDAY 10 & 630 AND SATURDAY 10 MP3 AUDIO & VIDEO SERMONS ONLINE KJB,UNAFFILIATED,WCBC"
+    "description": "SAN DIEGO CA 92111 SM 1030, SN 530, W 7 YOUTH BIBLE STUDY FOR TEENS - WEDNESDAY 7 OUTREACH - TUESDAY 10 & 630 AND SATURDAY 10 MP3 AUDIO & VIDEO SERMONS ONLINE KJB,UNAFFILIATED,WCBC"
   },
   {
     "id": "186",
@@ -428,12 +428,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON L GEHLKEN. 2350 SHASTA WAY SIMI VALLEY CA 93064 SM 10,SN 5,TH 7 AUDIO & VIDEO SERMONS ONLINE KJB church."
+    "description": "SIMI VALLEY CA 93064 SM 10,SN 5,TH 7 AUDIO & VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "187",
     "name": "CENTRAL BAPTIST CHURCH OF ORANGE COUNTY",
-    "address": "2323 N GRAND AVE",
+    "address": "92705 WHERE CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -447,7 +447,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by FORMER USAF INTELLIGENCE OFFICER. 2323 N GRAND AVE SANTA ANA CA 92705 WHERE CHRIST IS CENTRAL SS 9,SM 10,SN 5,THU 7, SOULWINNING SAT 10 THURSDAY MASTER CLUB FOR YOUTH 1764 S MAIN ST WILLITS CA 95490 SS 10,SM 11,SN 6,W 7 SUNDAY SCHOOL  KJB church."
+    "description": "SANTA ANA CA IS CENTRAL SS 9,SM 10,SN 5,THU 7, SOULWINNING SAT 10 THURSDAY MASTER CLUB FOR YOUTH 1764 S MAIN ST WILLITS CA 95490 SS 10,SM 11,SN 6,W 7 SUNDAY SCHOOL KJB church"
   },
   {
     "id": "188",
@@ -467,12 +467,12 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MICHAEL A FAULKNER. PO BOX 1383 220 E FOREST ST COALINGA CA 93210 SS 10,SM 11, SN 630, TH 7 BUS, SOULWINNING, PASTORS PALS 40 MINS NAS LEMOORE, 20 MINS AVENAL KJB,UNAFFILIATED"
+    "description": "PO BOX 1383 COALINGA CA 93210 SS 10,SM 11, SN 630, TH 7 BUS, SOULWINNING, PASTORS PALS 40 MINS NAS LEMOORE, 20 MINS AVENAL KJB,UNAFFILIATED"
   },
   {
     "id": "189",
     "name": "LANDMARK MISSIONARY BAPTIST CHURCH",
-    "address": "4831 TULLY RD",
+    "address": "4831 TULLY RD MODEST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -485,12 +485,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by A J BILLINGS. 4831 TULLY RD MODESTO CA 95356 SS 945,SM 11,SN 5,W 6 EXPOSITORY, COURTSHIP, MODEST, FAMILY INTEGRATED KJB, WEST COAST-BC"
+    "description": "O CA 95356 SS 945,SM 11,SN 5,W 6 EXPOSITORY, COURTSHIP, MODEST, FAMILY INTEGRATED KJB, WEST COAST-BC"
   },
   {
     "id": "190",
     "name": "SIERRA HILLS BAPTIST CHURCH",
-    "address": "32578 LODGE RD",
+    "address": "7 FAITH BIBLE INST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "32578",
@@ -504,7 +504,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BILLINGS FORMER-USMC. 32578 LODGE RD TOLLHOUSE CA 93667 SS 945,SM 11,SN 615,W 7 FAITH BIBLE INSTITUTE TEEN, PATCH PIRATE KJB, UNAFFILIATED"
+    "description": "TOLLHOUSE CA 93667 SS 945,SM 11,SN 615,W ITUTE TEEN, PATCH PIRATE KJB, UNAFFILIATED"
   },
   {
     "id": "191",
@@ -523,12 +523,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NEIL WARTHAN. 214 N EL CIRCULO PATTERSON CA 95363 SS 10,SM 11,SN 5,W 7 KJB, UNAFFILIATED"
+    "description": "PATTERSON CA 95363 SS 10,SM 11,SN 5,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "192",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "2650 LILLARD DR",
+    "address": "5115 E MCKINLEY AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -541,12 +541,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK OWENS. PO BOX 4336 DAVIS CA 95617 MEETING AT MERRYHILL SCHOOL 2650 LILLARD DR CAVIS CA 95618 SS 945,SM 11,SN 530 MP3 AUDIO SERMONS ONLINE 5115 E MCKINLEY AVE FRESNO CA 93727 SS 10,SM 11,SN 6 AUDIO SERMONS ON KJB church."
+    "description": "PO BOX 4336 DAVIS CA 95617 MEETING AT MERRYHILL SCHOOL CAVIS CA 95618 SS 945,SM 11,SN 530 MP3 AUDIO SERMONS ONLINE FRESNO CA 93727 SS 10,SM 11,SN 6 AUDIO SERMONS ON KJB church"
   },
   {
     "id": "193",
     "name": "AUBERRY FIRST BAPTIST CHURCH",
-    "address": "35635 AUBERRY MISSION RD",
+    "address": "7 SIENNA COMMUNITIES CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "35635",
@@ -559,7 +559,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "35635 AUBERRY MISSION RD AUBERRY CA 93602 SS 10,SM 11,SN 6,W 7 SIENNA COMMUNITIES CHRISTIAN"
+    "description": "AUBERRY CA 93602 SS 10,SM 11,SN 6,W IAN"
   },
   {
     "id": "194",
@@ -577,7 +577,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONNY WILSON. AUDIO SERMONS ONLINE SCHOOL KJB, WCBC, GIBF 12140 INDIAN ST MORENO VALLEY CA 92557 SS 10,SM 830 & 11,SN 630,W 7 MASTERS CLUB, PATCH PIRATE, TEENS, SINGLES, SENIORS, BUS, ENGLISH, SPANISH & FILIPINO SE"
+    "description": "AUDIO SERMONS ONLINE SCHOOL KJB, WCBC, GIBF MORENO VALLEY CA 92557 SS 10,SM 830 & 11,SN 630,W 7 MASTERS CLUB, PATCH PIRATE, TEENS, SINGLES, SENIORS, BUS, ENGLISH, SPANISH & FILIPINO SE"
   },
   {
     "id": "195",
@@ -595,7 +595,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ARTHUR MARICLE. 916 PLUMAS ST YUBA CITY CA 95991 SS 945,SM 11,SN 6,W 7 AWANA,BUS,CHOIR,TEENS,SENIORS KJB church."
+    "description": "YUBA CITY CA 95991 SS 945,SM 11,SN 6,W 7 AWANA,BUS,CHOIR,TEENS,SENIORS KJB church"
   },
   {
     "id": "196",
@@ -613,12 +613,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY DOSS. 3360 COFFEY LN, STE C SANTA ROSA CA 95407 SS 10,SM 11,SN 6,W 7 BUS, TEENS, PATCH PIRATE, SPANISH KJB church."
+    "description": "STE C SANTA ROSA CA 95407 SS 10,SM 11,SN 6,W 7 BUS, TEENS, PATCH PIRATE, SPANISH KJB church"
   },
   {
     "id": "197",
     "name": "MERCED BAPTIST CHURCH",
-    "address": "1004 W 15TH ST",
+    "address": "25100 NORMANDIE AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -632,7 +632,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RUDY ABORT. 1004 W 15TH ST MERCED CA 95340 SM 1030,SN 5,W 7 KJB, WEST COAST-BC 25100 NORMANDIE AVE HARBOR CITY CA 90710 BUS,CHOIR,SOULWINNING"
+    "description": "1004 W 15TH ST MERCED CA 95340 SM 1030,SN 5,W 7 KJB, WEST COAST-BC HARBOR CITY CA 90710 BUS,CHOIR,SOULWINNING"
   },
   {
     "id": "198",
@@ -650,12 +650,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH WILLIAMS. KJB,LIGHTHOUSE BIBLE INSTITUTE"
+    "description": "KJB,LIGHTHOUSE BIBLE INSTITUTE"
   },
   {
     "id": "199",
     "name": "GRACE BAPTIST CHURCH",
-    "address": "502 E DOUGHERTY ST",
+    "address": "7 We are located right outside the gate of the Naval Weapons St",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -669,7 +669,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WILLIAMS EX-NAVY. PO BOX 395 502 E DOUGHERTY ST FALLBROOK CA 92088 SS 930, SM 1045, SN 6, W 7 We are located right outside the gate of the Naval Weapons Station located on Camp Pendleton Marine Corps Base in Fallbrook  KJB church."
+    "description": "PO BOX 395 FALLBROOK CA 92088 SS 930, SM 1045, SN 6, W ation located on Camp Pendleton Marine Corps Base in Fallbrook KJB church"
   },
   {
     "id": "200",
@@ -688,7 +688,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PAUL K CHANG. 4098 CALLE TESORO DR CAMARILLO CA 93012 SM 10, SN 530, TH 6 SOULWINNING, AWANA, NURSERY, YOUTH ACTIVITIES KJB,CALVERT"
+    "description": "CAMARILLO CA 93012 SM 10, SN 530, TH 6 SOULWINNING, AWANA, NURSERY, YOUTH ACTIVITIES KJB,CALVERT"
   },
   {
     "id": "201",
@@ -706,7 +706,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VICTOR MACKEY. 139 1/2 N WESTERN AVE LOS ANGELES CA 90004 SM 1130,SN 130 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "LOS ANGELES CA 90004 SM 1130,SN 130 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "202",
@@ -724,12 +724,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by C P HANSON. 429 FITCH ST HEALDSBURG CA 95448 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HEALDSBURG CA 95448 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "203",
     "name": "FUNDAMENTALIST BAPTIST CHURCH",
-    "address": "2321 E 4TH ST",
+    "address": "621 W ALTON AVE",
     "city": "SUITE C 475",
     "state": "CA",
     "zipCode": "",
@@ -744,12 +744,12 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RON MOXON. 2321 E 4TH ST, SUITE C 475 SANTA ANA CA 92705 621 W ALTON AVE SN 630,TH 7 SOULWINNING KJB church."
+    "description": "2321 E 4TH ST, SUITE C 475 SANTA ANA CA 92705 SN 630,TH 7 SOULWINNING KJB church"
   },
   {
     "id": "204",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "2282 E PUMALO ST",
+    "address": "2282 E PUMALO ST SAN BERNARD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -762,7 +762,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAREN T DILTS. PO BOX 3653 2282 E PUMALO ST SAN BERNARDINO CA 92413"
+    "description": "PO BOX 3653 INO CA 92413"
   },
   {
     "id": "205",
@@ -781,7 +781,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JASON DICKEY. PO BOX 887 101 E MOJAVE BIG BEAR CITY CA 92314 SS 915,SM 1030,SN 6,W 7 SOULWINNING,TEEN,MASTER CLUBS 43400 WARNER TRAIL PALM DESERT CA 92211 SS 9,SM 1015,SN 530,W 7 KJB,TREIBER"
+    "description": "PO BOX 887 BIG BEAR CITY CA 92314 SS 915,SM 1030,SN 6,W 7 SOULWINNING,TEEN,MASTER CLUBS 43400 WARNER TRAIL PALM DESERT CA 92211 SS 9,SM 1015,SN 530,W 7 KJB,TREIBER"
   },
   {
     "id": "206",
@@ -800,7 +800,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STE. SAN DIEGO CA 92131 SS 930S,M 1030,SN 5,W 7 SOULWINNING KJB church."
+    "description": "SAN DIEGO CA 92131 SS 930S,M 1030,SN 5,W 7 SOULWINNING KJB church"
   },
   {
     "id": "207",
@@ -818,7 +818,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2600 N WHITE AVE LA VERNE CA 91750 SS 10,SM 11,SN 5,W 7"
+    "description": "LA VERNE CA 91750 SS 10,SM 11,SN 5,W 7"
   },
   {
     "id": "208",
@@ -836,7 +836,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY SHEIDBACH. 1310 W BETTERAVIA RD SANTA MARIA CA 93455 SS 930,SM 1045,SN 6,W 7 KJB church."
+    "description": "SANTA MARIA CA 93455 SS 930,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "209",
@@ -854,7 +854,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 599 10491 14TH AVE ARMONA CA 93202 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE"
+    "description": "PO BOX 599 ARMONA CA 93202 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE"
   },
   {
     "id": "210",
@@ -872,12 +872,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES NOLAN.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "211",
     "name": "BIBLE BAPTIST CHURCH OF CATHEDRAL CITY",
-    "address": "27-620 LANDAU BLVD",
+    "address": "620 LANDAU BLVD CATHEDR",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -890,7 +890,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA IRMLER. 27-620 LANDAU BLVD CATHEDRAL CITY CA 92234 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB, UNAFILLIATED"
+    "description": "27-AL CITY CA 92234 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE KJB, UNAFILLIATED"
   },
   {
     "id": "212",
@@ -909,7 +909,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by R C DAUGHERTY. 3354 W CLINTON AVE FRESNO CA 93722 SS 10,SM 11,SN 6,W 7 CHURCH PLANTING, SOULWINNING, MASTERS CLUB, CONSERVATIVE MUSIC (MAJESTY, WILDS, SOUNDFORTH), MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "FRESNO CA 93722 SS 10,SM 11,SN 6,W 7 CHURCH PLANTING, SOULWINNING, MASTERS CLUB, CONSERVATIVE MUSIC (MAJESTY, WILDS, SOUNDFORTH), MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "213",
@@ -929,7 +929,7 @@ export const californiaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by MIKE CHANTIGIAN. 1656 S LEGGETT ST PORTERVILLE CA 93257 SM 1030  W 7 HANFORD NAVAL BASE KJB, GSBC, WCBC,UNAFFILIATED"
+    "description": "PORTERVILLE CA 93257 SM 1030 W 7 HANFORD NAVAL BASE KJB, GSBC, WCBC,UNAFFILIATED"
   },
   {
     "id": "214",
@@ -948,7 +948,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BILL BRYSON. 461 MARSHALL WAY ALAMEDA CA 94501 SS 10, SM 11, SN 6, W 7, SAT 1030 SOULWINNING, MISSIONS MINDED, SEPARATED NEPALI/BHUTANESE MINISTRY MINISTRY TO THE US COAST GUARD ISC, ALAMEDA 118 NEAL ST PLEASANTON KJB church."
+    "description": "ALAMEDA CA 94501 SS 10, SM 11, SN 6, W 7, SAT 1030 SOULWINNING, MISSIONS MINDED, SEPARATED NEPALI/BHUTANESE MINISTRY MINISTRY TO THE US COAST GUARD ISC, ALAMEDA 118 NEAL ST PLEASANTON KJB church"
   },
   {
     "id": "215",
@@ -966,7 +966,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN BUTLER SR. PO BOX 429 1231 FOURTH ST LOS BANOS CA 93635 SS 945,SM 11,SN 5,W 7 KJB church."
+    "description": "PO BOX 429 LOS BANOS CA 93635 SS 945,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "216",
@@ -984,12 +984,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS LUCATORTA. CONSERVATIVE AND TRADITIONAL MUSIC STANDARDS-NO WORSHIP TEAM OR WORSHIP LEADER KJB church."
+    "description": "CONSERVATIVE AND TRADITIONAL MUSIC STANDARDS-NO WORSHIP TEAM OR WORSHIP LEADER KJB church"
   },
   {
     "id": "217",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "3496 SILVER ST",
+    "address": "2960 MERCED ST SAN LEANDR",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1002,12 +1002,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LUCATORTA VIETNAM VET. 3496 SILVER ST ANDERSON CA 96007 (ACROSS FROM THE SHASTA DISTRICT FAIRGROUNDS) SS 945,SM 11,SN 6,W 7 2960 MERCED ST SAN LEANDRO CA 94577 NEAR OAKLAND SS 9,SM 1015,SN 6,W 7 CANTONESE,CHINESE PO BOX 341 KJB church."
+    "description": "ANDERSON CA 96007 (ACROSS FROM THE SHASTA DISTRICT FAIRGROUNDS) SS 945,SM 11,SN 6,W 7 O CA 94577 NEAR OAKLAND SS 9,SM 1015,SN 6,W 7 CANTONESE,CHINESE PO BOX 341 KJB church"
   },
   {
     "id": "218",
     "name": "GREAT VALLEY BAPTIST CHURCH",
-    "address": "9017 THORNTON RD",
+    "address": "9017 THORNTON RD ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1021,7 +1021,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by AARON RICHERT. PO BOX 691046 9017 THORNTON RD STOCKTON CA 95209 SS 10,SM 11,SN 6,W 7 BUS,JAIL,RESCUE MISSION,STREET PREACHING KJB, WCBC PO BOX 887 BIG BEAR CITY CA 92314 SM 1030,TH 7 SOULWINNING, TEEN, MASTER CLUBS,"
+    "description": "PO BOX THORNTON RD STOCKTON CA 95209 SS 10,SM 11,SN 6,W 7 BUS,JAIL,RESCUE MISSION,STREET PREACHING KJB, WCBC PO BOX 887 BIG BEAR CITY CA 92314 SM 1030,TH 7 SOULWINNING, TEEN, MASTER CLUBS"
   },
   {
     "id": "219",
@@ -1042,12 +1042,12 @@ export const californiaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by WILLIAM PASQUINI. PO BOX 208 4091 NORTH OLIVE AVE TURLOCK CA 95381 LOCATED ON RT 99 1 HOUR NORTH OF FRESNO, 95382 Started services Feb. 23,2003 Meeting in Dennis G Earl Elementary School CALL FOR LOCATION OF THURSDAY S KJB church."
+    "description": "PO BOX 208 TURLOCK CA 95381 LOCATED ON RT 99 1 HOUR NORTH OF FRESNO, 95382 Started services Feb. 23,2003 Meeting in Dennis G Earl Elementary School CALL FOR LOCATION OF THURSDAY S KJB church"
   },
   {
     "id": "220",
     "name": "BEREAN BIBLE BAPTIST CHURCH",
-    "address": "881 KUHN DR",
+    "address": "102 CHULA VIST",
     "city": "SUITE 102",
     "state": "CA",
     "zipCode": "",
@@ -1062,7 +1062,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CLINTON MACOMBER. 881 KUHN DR, SUITE 102 CHULA VISTA CA 91914 AUDIO PREACHING ONLINE SOULWINNING, CHILDREN’S MINISTRY, BUS, DISCIPLESHIP, SENIORS CHRISTIAN SCHOOL (K-12) A-BEKA CURRICULUM 15 MILES FROM 32ND STREET NAVA KJB church."
+    "description": "SUITE A CA 91914 AUDIO PREACHING ONLINE SOULWINNING, CHILDREN’S MINISTRY, BUS, DISCIPLESHIP, SENIORS CHRISTIAN SCHOOL (K-12) A-BEKA CURRICULUM 15 MILES FROM 32ND STREET NAVA KJB church"
   },
   {
     "id": "221",
@@ -1082,7 +1082,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DALE R SEAMAN. 310 WOODHILL DR REDDING CA 96003-2930 SM 1145,TH 7 BIBLE INSTITUTE KJB,UNAFFILIATED 1768 N NEWCOMB ST PORTERVILLE CA 93257 SS 930,SM 1045,SN 6,W 7 C.B. TEENS, CHILDREN’S BIBLE CLUB,ATHLETIC,DISCIPLESH"
+    "description": "REDDING CA 96003-2930 SM 1145,TH 7 BIBLE INSTITUTE KJB,UNAFFILIATED 1768 N NEWCOMB ST PORTERVILLE CA 93257 SS 930,SM 1045,SN 6,W 7 C.B. TEENS, CHILDREN’S BIBLE CLUB,ATHLETIC,DISCIPLESH"
   },
   {
     "id": "222",
@@ -1100,7 +1100,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE ESPOSITO. NEAR TRAVIS AFB KJB,HYLES"
+    "description": "NEAR TRAVIS AFB KJB,HYLES"
   },
   {
     "id": "223",
@@ -1118,7 +1118,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3332 MAGNOLIA AVE LONG BEACH CA 90806-2902 SS 10,SM 9 & 11,SN 6,TH 7 BUS, FILIPINO, CAMBODIAN, SPANISH, DEAF MINISTRY, PATCH PIRATE, MP3 AUDIO SERMONS ONLINE"
+    "description": "LONG BEACH CA 90806-2902 SS 10,SM 9 & 11,SN 6,TH 7 BUS, FILIPINO, CAMBODIAN, SPANISH, DEAF MINISTRY, PATCH PIRATE, MP3 AUDIO SERMONS ONLINE"
   },
   {
     "id": "224",
@@ -1154,7 +1154,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREG BOWSER. PACIFIC PUBLICATIONS KJB,HYLES 1400 MCDERMOTT TRACY CA 95376-3235 KJB,HYLES"
+    "description": "PACIFIC PUBLICATIONS KJB,HYLES 1400 MCDERMOTT TRACY CA 95376-3235 KJB,HYLES"
   },
   {
     "id": "226",
@@ -1172,7 +1172,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KIRK BEARD. PO BOX 792 12830 GLASGLOW DR RED BUFF CA 96080-0792 SS 10,SM 11,SN 1,W 7 VIDEO AND LIVE SERMONS ONLINE KJB,HYLES"
+    "description": "PO BOX 792 RED BUFF CA 96080-0792 SS 10,SM 11,SN 1,W 7 VIDEO AND LIVE SERMONS ONLINE KJB,HYLES"
   },
   {
     "id": "227",
@@ -1190,7 +1190,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "Led by WILLIAM WALLACE. PO BOX 111 1707 W LATHAM AVE HEMET CA 92583 SS 830,SM 930,SN 5,TH 7 BUS, PATCH PIRATE, SOULWINNING, MP3 AUDIO SERMONS ONLINE"
+    "description": "PO BOX 111 HEMET CA 92583 SS 830,SM 930,SN 5,TH 7 BUS, PATCH PIRATE, SOULWINNING, MP3 AUDIO SERMONS ONLINE"
   },
   {
     "id": "228",
@@ -1209,7 +1209,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WILLIAM WALLACE U. 1535 ARAGON CIR SALINAS CA 93906 PHYSICAL ADD: 249 10TH ST MARINA SS 945,SM 1045,SN 6,W 7 NEAR: CARMEL, DEFENSE LANGUAGE INSTITUTE (DLI), MONTEREY, NAVAL POSTGRADUATE SCHOOL (NPS), SAND CITY, SALINAS, KJB church."
+    "description": "SALINAS CA 93906 PHYSICAL ADD: 249 10TH ST MARINA SS 945,SM 1045,SN 6,W 7 NEAR: CARMEL, DEFENSE LANGUAGE INSTITUTE (DLI), MONTEREY, NAVAL POSTGRADUATE SCHOOL (NPS), SAND CITY, SALINAS, KJB church"
   },
   {
     "id": "229",
@@ -1227,12 +1227,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "427 WOODROW AVE BAKERSFIELD CA 93308 SS 10,SM 11,SN 6,W 7"
+    "description": "BAKERSFIELD CA 93308 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "230",
     "name": "GOLDEN STATE BAPTIST SCHOOL",
-    "address": "160 SEASIDE CT",
+    "address": "160 SEASIDE CT MARINA CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1247,12 +1247,12 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by TIM KNAUF. KJB,BBF,FBF PO BOX 889 MARINA CA 93933 160 SEASIDE CT MARINA CHRISTIAN SCHOOL,K5-12 FORT ORD (15 MINS FROM DLI) KJB,BBF 4829 W AVE L-8 QUARTZ HILL CA 93536 SS 10,SM 11,SN 6,W 7 SOULWINNING ACADEMY,ACE"
+    "description": "KJB,BBF,FBF PO BOX 889 MARINA CA 93933 IAN SCHOOL,K5-12 FORT ORD (15 MINS FROM DLI) KJB,BBF 4829 W AVE L-8 QUARTZ HILL CA 93536 SS 10,SM 11,SN 6,W 7 SOULWINNING ACADEMY,ACE"
   },
   {
     "id": "231",
     "name": "FIRST BAPTIST CHURCH OF SEARLES VALLEY",
-    "address": "84661 TRONA RD",
+    "address": "630 PIONEER POINT CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "84661",
@@ -1265,7 +1265,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED KOLLMEYER. 84661 TRONA RD PIONEER POINT CA 93562-2554 TRONA AREA SS 10, SM 11, SN 230, W 630 PIONEER POINT CHRISTIAN ACADEMY, K5-12 25 M FROM NAVAL AIR WEAPONS STATION CHINA LAKE KJB church."
+    "description": "PIONEER POINT CA 93562-2554 TRONA AREA SS 10, SM 11, SN 230, W IAN ACADEMY, K5-12 25 M FROM NAVAL AIR WEAPONS STATION CHINA LAKE KJB church"
   },
   {
     "id": "232",
@@ -1283,12 +1283,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "RIDGECREST CA 93555 1 MILE FROM NAVAL AIR WEAPONS STATION CHINA LAKE"
+    "description": "RIDGECREST CA 93555"
   },
   {
     "id": "233",
     "name": "A MINISTRY OF FIRST BAPTIST CHURCH OF SEARLES VALLEY",
-    "address": "6724 PALM AVE",
+    "address": "400 OBSERVATORY AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1302,7 +1302,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by NORMAN G CRAWLEY. KJV,BBF 6724 PALM AVE FAIR OAKS CA 95628 400 OBSERVATORY AVE UKIAH CA 95482 SS 10,SM 11,SN 1,W 7 KJB,TRIEBER 13539 GARNER LN CHICO CA 95973 SS 10,SM 9 & 11,SN 6,W 7"
+    "description": "KJV,BBF FAIR OAKS CA 95628 UKIAH CA 95482 SS 10,SM 11,SN 1,W 7 KJB,TRIEBER 13539 GARNER LN CHICO CA 95973 SS 10,SM 9 & 11,SN 6,W 7"
   },
   {
     "id": "234",
@@ -1320,7 +1320,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC MADSEN. AUDIO WMV VIDEO SERMONS ONLINE KJB church."
+    "description": "AUDIO WMV VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "235",
@@ -1338,7 +1338,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL JOHNSON. PO BOX 1153 4133 BALLS FERRY RD COTTONWOOD CA 96022 KJB,TRIEBER"
+    "description": "PO BOX 1153 COTTONWOOD CA 96022 KJB,TRIEBER"
   },
   {
     "id": "236",
@@ -1357,7 +1357,7 @@ export const californiaChurches: Church[] = [
       "ABA",
       "SBC"
     ],
-    "description": "6600 WESTSIDE RD REDDING CA 96001 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE, BUS, JAIL, KINGS KIDS, TEEN, RESCUE MISSION, ABA church."
+    "description": "REDDING CA 96001 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE, BUS, JAIL, KINGS KIDS, TEEN, RESCUE MISSION, ABA church"
   },
   {
     "id": "237",
@@ -1375,7 +1375,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB COUNTS. KJB,CROWN-BC 12626 1ST AVE VICTORVILLE CA 92392 SS 945,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE, CHILDREN,TEEN,SENIORS,SINGLES,CHOIR,SPANISH"
+    "description": "KJB,CROWN-BC VICTORVILLE CA 92392 SS 945,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE, CHILDREN,TEEN,SENIORS,SINGLES,CHOIR,SPANISH"
   },
   {
     "id": "238",
@@ -1393,7 +1393,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RYAN JOHNSON. GEORGE AFB KJB,TRIEBER"
+    "description": "GEORGE AFB KJB,TRIEBER"
   },
   {
     "id": "239",
@@ -1412,7 +1412,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVE ANDRUS. 435 FIFTH AVE REDWOOD CITY CA 94063 SS 10,SM 11,SN 6,W 7 WMA AUDIO WMV VIDEO SERMONS ONLINE, BUS, SOULWINNING, CHILDREN, TEENS, CHOIR CHRISTIAN SCHOOL,K-12 MOFFITT FIELD KJB,RUCKMAN"
+    "description": "REDWOOD CITY CA 94063 SS 10,SM 11,SN 6,W 7 WMA AUDIO WMV VIDEO SERMONS ONLINE, BUS, SOULWINNING, CHILDREN, TEENS, CHOIR CHRISTIAN SCHOOL,K-12 MOFFITT FIELD KJB,RUCKMAN"
   },
   {
     "id": "240",
@@ -1431,7 +1431,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JOHN EVERTSON. PO BOX 853 914 W 7TH ST SAN PEDRO CA 90731 SS 10,SM 11,SN 6,W 7 KIDS CLUB,PRISON,STREET PREACHING KJB church."
+    "description": "PO BOX 853 SAN PEDRO CA 90731 SS 10,SM 11,SN 6,W 7 KIDS CLUB,PRISON,STREET PREACHING KJB church"
   },
   {
     "id": "241",
@@ -1467,7 +1467,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EZEQUIEL SALAZAR. BUS,YOUTH, BOOKSTORE AUDIO SERMONS ONLINE KJB,HYLES"
+    "description": "BUS,YOUTH, BOOKSTORE AUDIO SERMONS ONLINE KJB,HYLES"
   },
   {
     "id": "243",
@@ -1486,7 +1486,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM RASMUSSEN. 2560 S ARCHIBALD AVE ONTARIO CA 91761 LOS ANGELES AREA ENGLISH,SPANISH 1000 PINE AVE LONG BEACH CA 90813-3191 SS 9:45,SM 11,SN 6,W 7 MP3 AUDIO VIDEO SERMONS ONLINE CHRISTIAN SCHOOL,K4-12 KJB, UNAFFILI"
+    "description": "ONTARIO CA 91761 LOS ANGELES AREA ENGLISH,SPANISH 1000 PINE AVE LONG BEACH CA 90813-3191 SS 9:45,SM 11,SN 6,W 7 MP3 AUDIO VIDEO SERMONS ONLINE CHRISTIAN SCHOOL,K4-12 KJB, UNAFFILI"
   },
   {
     "id": "244",
@@ -1504,7 +1504,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "7644 FARRALONE AVE CANOGA PARK CA 91304 SM 830/1045, SS 945, SN 5, W 7 AWANA, BUS, FILIPINO, SPANISH REFORMERS UNANIMOUS AUDIO SERMONS ONLINE"
+    "description": "CANOGA PARK CA 91304 SM 830/1045, SS 945, SN 5, W 7 AWANA, BUS, FILIPINO, SPANISH REFORMERS UNANIMOUS AUDIO SERMONS ONLINE"
   },
   {
     "id": "245",
@@ -1523,7 +1523,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RHYJOB. KJB,UNAFFILIATED 8758 TROY ST SPRING VALLEY CA 91977-2536 SAN DIEGO CA SS 10,SM 11,SN 630,W 7"
+    "description": "KJB,UNAFFILIATED SPRING VALLEY CA 91977-2536 SAN DIEGO CA SS 10,SM 11,SN 630,W 7"
   },
   {
     "id": "246",
@@ -1559,7 +1559,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLINT MILLER. NAVAL & MARINE & COAST GUARD ,MARIMAR,NORTH ISLAND,32ND ST, MCRD KJB,HYLES"
+    "description": "MARIMAR,NORTH ISLAND,32ND ST, MCRD KJB,HYLES"
   },
   {
     "id": "248",
@@ -1596,12 +1596,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ERNIE MERRITT. 842 NORDAHL RD ESCONDIDO CA 92025 SS 950,SM 11,SN 6,W 7 BUS, SINGLES, COUPLES, TEEN, AWANA, MUSIC MINISTRY ONLINE CHRISTIAN SCHOOK, K5-12 CAMP PENDLETON,MARIMAS KJB,UNAFFILIATED"
+    "description": "ESCONDIDO CA 92025 SS 950,SM 11,SN 6,W 7 BUS, SINGLES, COUPLES, TEEN, AWANA, MUSIC MINISTRY ONLINE CHRISTIAN SCHOOK, K5-12 CAMP PENDLETON,MARIMAS KJB,UNAFFILIATED"
   },
   {
     "id": "250",
     "name": "FUNDAMENTAL BAPTIST CHURCH",
-    "address": "1111 N ASH ST",
+    "address": "2353 LA BRUCHERIE RD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1615,12 +1615,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE MYRICK. 1111 N ASH ST ESCONDIDO CA 92027-5108 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE,TEEN,BUS, PENDLETON,MARIMAR,23RD ST,NORTH ISLAND 2353 LA BRUCHERIE RD IMPERIAL CA 92251-9717 KJB church."
+    "description": "ESCONDIDO CA 92027-5108 SS 930,SM 1030,SN 6,W 7 PATCH PIRATE,TEEN,BUS, PENDLETON,MARIMAR,23RD ST,NORTH ISLAND IMPERIAL CA 92251-9717 KJB church"
   },
   {
     "id": "251",
     "name": "FAITHBAPTISTCHURCHOFIMPERIAL",
-    "address": "",
+    "address": "7 VALLEY CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1633,12 +1633,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NAION LUNDY. SS 10,SM 11,SN 6,W 7 VALLEY CHRISTIAN SCHOOL,K-12 KJB,TREIBER"
+    "description": "SS 10,SM 11,SN 6,W IAN SCHOOL,K-12 KJB,TREIBER"
   },
   {
     "id": "252",
     "name": "BARSTOW BAPTIST TEMPLE",
-    "address": "511 VICTOR AVE",
+    "address": "511 VICTOR AVE BARST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1652,7 +1652,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRUCE GODDARD. 511 VICTOR AVE BARSTOW CA 92311 SS 10,SM 11,SN 6, W 7 BUS YOUTH,SPANISH GEORGE AFB,FORT IRWIN,BARSTOW KJB,HYLES PO BOX 1030 WILDOMAR CA 92595-8744 21220 WALNUT SS 945,SM 11,SN 630,W 730 FAITH BIBLE IN"
+    "description": "OW CA 92311 SS 10,SM 11,SN 6, W 7 BUS YOUTH,SPANISH GEORGE AFB,FORT IRWIN,BARSTOW KJB,HYLES PO BOX 1030 WILDOMAR CA 92595-8744 21220 WALNUT SS 945,SM 11,SN 630,W 730 FAITH BIBLE IN"
   },
   {
     "id": "253",
@@ -1670,7 +1670,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1000 BISON AVE NEWPORT BEACH CA 92660 SS 945 & 11,SM 445,SN 6, W 715 MP3 AUDIO & WMV VIDEO SERMONS"
+    "description": "NEWPORT BEACH CA 92660 SS 945 & 11,SM 445,SN 6, W 715 MP3 AUDIO & WMV VIDEO SERMONS"
   },
   {
     "id": "254",
@@ -1706,7 +1706,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HILTON SMITH. KJB, RUCKMAN"
+    "description": "KJB, RUCKMAN"
   },
   {
     "id": "256",
@@ -1724,7 +1724,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J MICHAEL CALLAGHAN. 13005 ROUGH & READY HWY GRASS VALLEY CA 95945 SS 10,SM 11,SN 130,W 630 BEALE AFB KJB,HYLES"
+    "description": "13005 ROUGH & READY HWY GRASS VALLEY CA 95945 SS 10,SM 11,SN 130,W 630 BEALE AFB KJB,HYLES"
   },
   {
     "id": "257",
@@ -1737,14 +1737,14 @@ export const californiaChurches: Church[] = [
     "longitude": -120.4984,
     "phone": "(510) 233-2556",
     "website": "https://www.arlingtonbaptist.church",
-    "pastor": "MIKE RAY",
+    "pastor": "NAPA CA 94556 SS 10,SM 11,SN 630,W 7 BUS,SENIORS,SPANISH,YOUTH",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by MIKE RAY. 6382 ARLINGTON BLVD RICHMOND CA 94805 EL CERRITO SS 945,SM 11,SN 6,W 730 BUS,YOUTH CHRISTIAN SCHOOL,K-12 KJB,TRIEBER 3755 LINDA VISTA DR NAPA CA 94556 SS 10,SM 11,SN 630,W 7 BUS,SENIORS,SPANISH,YOUTH,"
+    "description": "RICHMOND CA 94805 EL CERRITO SS 945,SM 11,SN 6,W 730 BUS,YOUTH CHRISTIAN SCHOOL,K-12 KJB,TRIEBER 3755 LINDA VISTA DR NAPA CA 94556 SS 10,SM 11,SN 630,W 7 BUS,SENIORS,SPANISH,YOUTH"
   },
   {
     "id": "258",
@@ -1762,7 +1762,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "38517 BIRCH ST NEWARK CA 94560-4822 SS 10,SM 11,SN 6,W 7 ABA church."
+    "description": "NEWARK CA 94560-4822 SS 10,SM 11,SN 6,W 7 ABA church"
   },
   {
     "id": "259",
@@ -1780,7 +1780,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACK TRIEBER. ONIZUKA AFS KJB church."
+    "description": "ONIZUKA AFS KJB church"
   },
   {
     "id": "260",
@@ -1798,7 +1798,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "SBC"
     ],
-    "description": "941 CLYDE AVE SANTA CLARA CA 95054-1905 SS 10,SM 11,SN 630,W 7 WMV AUDIO & VIDEO SERMONS ONLINE, BUS,DEAF,FILIPINO,MENT. HAND.,SPANISH,PATCH PIRATE SBC church."
+    "description": "SANTA CLARA CA 95054-1905 SS 10,SM 11,SN 630,W 7 WMV AUDIO & VIDEO SERMONS ONLINE, BUS,DEAF,FILIPINO,MENT. HAND.,SPANISH,PATCH PIRATE SBC church"
   },
   {
     "id": "261",
@@ -1834,7 +1834,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE R NICHOLS. MOFFIT AFS,ONIZUKA AFS KJB church."
+    "description": "MOFFIT AFS,ONIZUKA AFS KJB church"
   },
   {
     "id": "263",
@@ -1852,12 +1852,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL CHAPPELL. 6930 HAZEL AVE PO BOX 622080 ORANGEVALE CA 95662 SS 945,SM 11,SN 630,W 7 KJB church."
+    "description": "PO BOX 622080 ORANGEVALE CA 95662 SS 945,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "264",
     "name": "LANCASTER BAPTIST CHURCH",
-    "address": "4020 E LANCASTER BLVD",
+    "address": "4020 E LANCASTER BLVD LANCAST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1870,7 +1870,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4020 E LANCASTER BLVD LANCASTER CA 93535 SS 815 & 930,SM 930 & 11,SN 530,W 7 BUS,YOUTH,TEEN,SINGLES,COUPLES,"
+    "description": "ER CA 93535 SS 815 & 930,SM 930 & 11,SN 530,W 7 BUS,YOUTH,TEEN,SINGLES,COUPLES"
   },
   {
     "id": "265",
@@ -1907,12 +1907,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TODD SHIELDS. MP3 AUDIO & VIDEO SERMONS ONLINE EDWARDS AFB The E.A.G.L.E. Ministry (Evangelizing All G.I.s Living Everywhere) Eagle Eyes - Soulwinning activities at Edwards AFB KJB church."
+    "description": "MP3 AUDIO & VIDEO SERMONS ONLINE EDWARDS AFB The E.A.G.L.E. Ministry (Evangelizing All G.I.s Living Everywhere) Eagle Eyes - Soulwinning activities at Edwards AFB KJB church"
   },
   {
     "id": "267",
     "name": "CROSSPOINTE BAPTIST CHURCH",
-    "address": "13230 POMERADO RD",
+    "address": "13230 POMERADO RD POWAY",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "13230",
@@ -1926,12 +1926,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GERALD R MITCHELL JR. 13230 POMERADO RD POWAY CA 92064 MP3 AUDIO SERMONS ONLINE KJB,BBF 11717 PIONEER BLVD NORWALK CA 90650"
+    "description": "CA 92064 MP3 AUDIO SERMONS ONLINE KJB,BBF 11717 PIONEER BLVD NORWALK CA 90650"
   },
   {
     "id": "268",
     "name": "PIONEER BAPTIST SCHOOL",
-    "address": "2781 S LINCOLN AVE",
+    "address": "3 AUDIO SERMONS ONLINE GRACE CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1944,7 +1944,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM SHANKS. 2781 S LINCOLN AVE CORONA CA 91720 SS 945,MS 11,SN 6,TH 7 KINGS KIDS, MP3 AUDIO SERMONS ONLINE GRACE CHRISTIAN ACADEMY,PRE K-12,ABEKA KJB church."
+    "description": "CORONA CA 91720 SS 945,MS 11,SN 6,TH 7 KINGS KIDS, MPIAN ACADEMY,PRE K-12,ABEKA KJB church"
   },
   {
     "id": "269",
@@ -1962,7 +1962,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE ROGERS. 395 E SAN BERNARDINO POMONA CA 91767 SS 945,SM 11,SN 6,W 7 AWANA,SENIORS, AMERICAN CHRISTIAN ACADEMY KJB church."
+    "description": "POMONA CA 91767 SS 945,SM 11,SN 6,W 7 AWANA,SENIORS, AMERICAN CHRISTIAN ACADEMY KJB church"
   },
   {
     "id": "270",
@@ -1980,12 +1980,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHIL T CLARK. 3501 Q ST NORTH HIGHLANDS CA 95660 SS 10,SM 11,SN 6,W 7 SCHOOL,K-12,ACE,AACS KJB church."
+    "description": "NORTH HIGHLANDS CA 95660 SS 10,SM 11,SN 6,W 7 SCHOOL,K-12,ACE,AACS KJB church"
   },
   {
     "id": "271",
     "name": "WEST COAST BAPTIST CHURCH",
-    "address": "1525 BUENA VISTA DR",
+    "address": "1525 BUENA VISTA DR VIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -1993,13 +1993,13 @@ export const californiaChurches: Church[] = [
     "longitude": -118.6538,
     "phone": "(760) 726-6163",
     "website": "http://www.westcoastbaptistkjv.org",
-    "pastor": "CASEY KUHLMAN",
+    "pastor": "YUCCA VALLEY CA 92284 SS 945",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CASEY KUHLMAN. 1525 BUENA VISTA DR VISTA CA 92083 SS 10,SM 11,SN 6,W 7 KINGS KIDS,BUS CHRISTIAN SCHOOL,K-12 Mostly ACE BIBLE INSTITUTE CAMP PENDLETON KJB,UNAFFILIATED 57175 GRESTVIEW DR YUCCA VALLEY CA 92284 SS 945,"
+    "description": "A CA 92083 SS 10,SM 11,SN 6,W 7 KINGS KIDS,BUS CHRISTIAN SCHOOL,K-12 Mostly ACE BIBLE INSTITUTE CAMP PENDLETON KJB,UNAFFILIATED 57175 GRESTVIEW DR YUCCA VALLEY CA 92284 SS 945"
   },
   {
     "id": "272",
@@ -2018,7 +2018,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MATTHEW D GIBBS. 29 PALMS MCB 30 MILES KJV,BBF PO BOX 644 RIALTO CA 92376 9988 OLIVE ST BLOOMINGTON CA 92316 KJB church."
+    "description": "29 PALMS MCB 30 MILES KJV,BBF PO BOX 644 RIALTO CA 92376 BLOOMINGTON CA 92316 KJB church"
   },
   {
     "id": "273",
@@ -2036,7 +2036,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "21401 BOX SPRINGS RD MORENO VALLEY CA 92557 SS 10,SM 11,SN 6,W 7 BUS,COUPLES,TEENS,SPANISH,CHILDREN"
+    "description": "MORENO VALLEY CA 92557 SS 10,SM 11,SN 6,W 7 BUS,COUPLES,TEENS,SPANISH,CHILDREN"
   },
   {
     "id": "274",
@@ -2054,7 +2054,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM M RENCH. KJB,GIBF 31087 NICOLAS RD TEMECULA CA 92591 SS 10,SM 11,SN 6,W 7"
+    "description": "KJB,GIBF TEMECULA CA 92591 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "275",
@@ -2072,12 +2072,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS BLANKENSHIP. PENDLETON-20 MILES, MARIMAR-45 MILES, MARCH-25 MILES KJB church."
+    "description": "PENDLETON-20 MILES, MARIMAR-45 MILES, MARCH-25 MILES KJB church"
   },
   {
     "id": "276",
     "name": "BIBLE FELLOWSHIP BAPTIST CHURCH",
-    "address": "9900 HORN RD",
+    "address": "901 S EUCLID ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2092,7 +2092,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by DAN DAVIDSON. 9900 HORN RD SACRAMENTO CA 95827 SS 10,SM 11,SN 6,W 7 BEALE AFB, TRAVIS, MATHER KJB, BBF, BIMI, BJU, PCC, LBU 901 S EUCLID ST SANTA ANA CA 92704 SS 945,SM 11,SN 6,W 7 SPANISH,SOULWINNING,YOUTH GROUP,C"
+    "description": "SACRAMENTO CA 95827 SS 10,SM 11,SN 6,W 7 BEALE AFB, TRAVIS, MATHER KJB, BBF, BIMI, BJU, PCC, LBU SANTA ANA CA 92704 SS 945,SM 11,SN 6,W 7 SPANISH,SOULWINNING,YOUTH GROUP,C"
   },
   {
     "id": "277",
@@ -2110,7 +2110,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "289 N WELLS RD VENTURA CA 93004 SS 945,SM 11,SN 6,W 630"
+    "description": "VENTURA CA 93004 SS 945,SM 11,SN 6,W 630"
   },
   {
     "id": "278",
@@ -2128,7 +2128,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MAX H GRAVES JR. PORT HUENEME KJB church."
+    "description": "PORT HUENEME KJB church"
   },
   {
     "id": "279",
@@ -2148,7 +2148,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DENNIS J CHAPMAN. 12029 E PINE ST NORWALK CA 90650 SS 930,SM 1045,SN 630,W 7 SPANISH KJB,UNAFFILIATED PO BOX 310 3050 KADOTA ST SIMI VALLEY CA 93062 SS 10,SM 11,SN 6,W 7 MISSIONS,YOUTH,BUS,SOULWINNING MP3 AUDIO SERNONS"
+    "description": "NORWALK CA 90650 SS 930,SM 1045,SN 630,W 7 SPANISH KJB,UNAFFILIATED PO BOX 310 3050 KADOTA ST SIMI VALLEY CA 93062 SS 10,SM 11,SN 6,W 7 MISSIONS,YOUTH,BUS,SOULWINNING MP3 AUDIO SERNONS"
   },
   {
     "id": "280",
@@ -2167,7 +2167,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BUD SILVA. 400 MCKEE RD BAKERSFIELD CA 93307 SS 930, SM 1045, SN 6, W 7 SOULWINNING, SUNDAY SCHOOL, DISCIPLESHIP, KID MINISTRIES, FAITH PROMISE MISSIONS, TEEN YOUTH GROUP, NURSERY KJB,TRIEBER,GOLDEN STATE-BC,OBC"
+    "description": "BAKERSFIELD CA 93307 SS 930, SM 1045, SN 6, W 7 SOULWINNING, SUNDAY SCHOOL, DISCIPLESHIP, KID MINISTRIES, FAITH PROMISE MISSIONS, TEEN YOUTH GROUP, NURSERY KJB,TRIEBER,GOLDEN STATE-BC,OBC"
   },
   {
     "id": "281",
@@ -2185,12 +2185,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "PO BOX 2162 650 W RICE RANCH RD SANTA MARIA CA 93455 SS 945,SM 1045,SN 6,W 7,SW TUES 630,SAT 9 SPANISH (TRANSLATION, DYNAMIC YOUTH MINISTRY, BUS, SENIORS, CHILDREN’S, COUPLES, SINGLES, LADIES, AGGRESS Soulwinning church."
+    "description": "PO BOX 2162 SANTA MARIA CA 93455 SS 945,SM 1045,SN 6,W 7,SW TUES 630,SAT 9 SPANISH (TRANSLATION, DYNAMIC YOUTH MINISTRY, BUS, SENIORS, CHILDREN’S, COUPLES, SINGLES, LADIES, AGGRESS Soulwinning church"
   },
   {
     "id": "282",
     "name": "FUNDAMENTAL BAPTIST SCHOOL",
-    "address": "106 E SHIELDS AVE",
+    "address": "1535 ARAGON CIRCLE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2204,7 +2204,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by A CHARLES. 106 E SHIELDS AVE FRESNO CA 93704 SS 10,SM 11,SN 6,W 7 1535 ARAGON CIRCLE SALINAS CA 93906 PHYSICAL LOCATION: 249 10TH ST MARINA CA SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "FRESNO CA 93704 SS 10,SM 11,SN 6,W 7 SALINAS CA 93906 PHYSICAL LOCATION: 249 10TH ST MARINA CA SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "283",
@@ -2223,12 +2223,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DENNIS KOFLER. DLI DEFENSE LANGUAGE INSTITUTE (FORT ORD) KJB,UNAFFILIATED,LIKES HYLES 2155 CHANTICLEER AVE SANTA CRUZ CA 95062 SS 10,SM 11,SN 6,W 7"
+    "description": "DLI DEFENSE LANGUAGE INSTITUTE (FORT ORD) KJB,UNAFFILIATED,LIKES HYLES SANTA CRUZ CA 95062 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "284",
     "name": "LIBERTY BAPTIST ACADEMY",
-    "address": "2377 FOOTHILL BLVD",
+    "address": "10173 SOUTH LOOP BLVD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2243,7 +2243,7 @@ export const californiaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by DOUG TAYLOR. KJB,CROWN-BC 2377 FOOTHILL BLVD OROVILLE CA 95965 BEALE AFB KJB,BJU,NORTHLAND-BC PO BOX 2462 10173 SOUTH LOOP BLVD CALIFORNIA CITY CA 93504 BETWEEN HACIENDA AND CAL CITY BLVD SS 10,SM 11,SN 7,WED 7 AW"
+    "description": "KJB,CROWN-BC OROVILLE CA 95965 BEALE AFB KJB,BJU,NORTHLAND-BC PO BOX 2462 CALIFORNIA CITY CA 93504 BETWEEN HACIENDA AND CAL CITY BLVD SS 10,SM 11,SN 7,WED 7 AW"
   },
   {
     "id": "285",
@@ -2256,13 +2256,13 @@ export const californiaChurches: Church[] = [
     "longitude": -120.1417,
     "phone": "(818) 367-1688",
     "website": "http://www.betterthangold.org",
-    "pastor": "JOHN LABINS",
+    "pastor": "PLACERVILLE CA 95667 NEAR GREENWOOD SS 10,SM 11,SN 6,W 7",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN LABINS. 13724 FENTON AVE SYLMAR CA 91342 SS 9,SM 10,SN 5,W 6 BIBLE INSTITUTE KJB,UNAFFILIATED 5391 MOTHER LODE DR PLACERVILLE CA 95667 NEAR GREENWOOD SS 10,SM 11,SN 6,W 7"
+    "description": "SYLMAR CA 91342 SS 9,SM 10,SN 5,W 6 BIBLE INSTITUTE KJB,UNAFFILIATED 5391 MOTHER LODE DR PLACERVILLE CA 95667 NEAR GREENWOOD SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "286",
@@ -2280,7 +2280,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "10948 S AIRPORT WAY MANTECA CA 95336 SS 10,SM 11,SN 6,W 7"
+    "description": "MANTECA CA 95336 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "287",
@@ -2298,12 +2298,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER MARGERISON. KJB,TBC-JX-FL"
+    "description": "KJB,TBC-JX-FL"
   },
   {
     "id": "288",
     "name": "OAT VALLEY BAPTIST CHURCH",
-    "address": "31000 COOLEY LN",
+    "address": "31000 COOLEY LN CLOVERD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "31000",
@@ -2319,12 +2319,12 @@ export const californiaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by MARGERISON FORMER-MARINE. PO BOX 284 31000 COOLEY LN CLOVERDALE CA 95425 SM 1030,SN 6,TH 7 AUDIO SERMONS ONLINE KJB,S-GRACE-TULIP 6 10TH ST GREENFIELD CA 93927 SS 945,SM 11,SN 5,W 7 LOCAL VISITATION FORT HUNTER LIGETTE KJB,UNA"
+    "description": "PO BOX 284 ALE CA 95425 SM 1030,SN 6,TH 7 AUDIO SERMONS ONLINE KJB,S-GRACE-TULIP 6 10TH ST GREENFIELD CA 93927 SS 945,SM 11,SN 5,W 7 LOCAL VISITATION FORT HUNTER LIGETTE KJB,UNA"
   },
   {
     "id": "289",
     "name": "SUNRISE VALLEY BAPTIST CHURCH",
-    "address": "5860 BLOSSOM AVE",
+    "address": "14101 VAN NUYS BLVD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2339,7 +2339,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MICHAEL D MCCUBBINS. 5860 BLOSSOM AVE SAN JOSE CA 95123 SS 930,SM 1045,SN 6,W 7 AWANA,TEEN KJB,UNAFFILIATED 14101 VAN NUYS BLVD ARLETA CA 91331 SS 945,SM 11,SN 5 BIBLE STUDY,SN 6,W 730 SPANISH,YOUTH,TEEN,TEXT ARTICLES ONL"
+    "description": "SAN JOSE CA 95123 SS 930,SM 1045,SN 6,W 7 AWANA,TEEN KJB,UNAFFILIATED ARLETA CA 91331 SS 945,SM 11,SN 5 BIBLE STUDY,SN 6,W 730 SPANISH,YOUTH,TEEN,TEXT ARTICLES ONL"
   },
   {
     "id": "290",
@@ -2358,7 +2358,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by THOMAS A BURNS. KJB,BBFI"
+    "description": "KJB,BBFI"
   },
   {
     "id": "291",
@@ -2377,12 +2377,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENT BRANDENBURG. 12226 ALONDRA BLVD NORWALK CA 90650 SS 1015,SM 1030,SN 6,W 7 KJB,UNAFFILIATED,TR  & MASORETIC, 4905 APPIAN WAY EL SOBRANTE CA 94803 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE BETHEL CHRISTIAN ACADEMY,"
+    "description": "NORWALK CA 90650 SS 1015,SM 1030,SN 6,W 7 KJB,UNAFFILIATED,TR & MASORETIC, 4905 APPIAN WAY EL SOBRANTE CA 94803 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE BETHEL CHRISTIAN ACADEMY"
   },
   {
     "id": "292",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "7716 SIERRA AVE",
+    "address": "44594 BUCKINGHAM ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2395,7 +2395,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL DIXON. 7716 SIERRA AVE FONTANA CA 92334 SS 10 & 3,SM 11,SN 6,W 7 44594 BUCKINGHAM ST INDIO CA 92201 KJB,HYLES"
+    "description": "FONTANA CA 92334 SS 10 & 3,SM 11,SN 6,W 7 INDIO CA 92201 KJB,HYLES"
   },
   {
     "id": "293",
@@ -2413,7 +2413,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "280 LLAGOS RD #447 MORGAN HILL CA 95037 SS 10,SM 830 & 11,SN 6,W 7 PODCAST AUDIO SERMONS ONLINE, DEAF, SPANISH, SOULWINNNING, TEENS, MUSIC"
+    "description": "MORGAN HILL CA 95037 SS 10,SM 830 & 11,SN 6,W 7 PODCAST AUDIO SERMONS ONLINE, DEAF, SPANISH, SOULWINNNING, TEENS, MUSIC"
   },
   {
     "id": "294",
@@ -2432,7 +2432,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by HAYNES EX-USAF. KJB,ABA,BAPTIST-BRIDE,"
+    "description": "KJB,ABA,BAPTIST-BRIDE"
   },
   {
     "id": "295",
@@ -2450,7 +2450,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAMUEL J OWENS SR. 2170 HARTNELL AVE REDDING CA 96002 SS 945,SM 1045,SN 5,W 7 KJB church."
+    "description": "REDDING CA 96002 SS 945,SM 1045,SN 5,W 7 KJB church"
   },
   {
     "id": "296",
@@ -2469,7 +2469,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICHARD MILLER. 390 INVERNESS DR PACIFICA CA 94044 SS 945,SM 11,SN 5,W 7 SOULWINNING,VAN 1280 SIERRA VISTA ATWATER CA 95301 SS 10,SM 11,SN 6,W 7 KJB,HYLES 14132 SAN ANTONIO AVE CHINO CA 91710 SS 10,SM 11,SN 6,W 7 VIC"
+    "description": "PACIFICA CA 94044 SS 945,SM 11,SN 5,W 7 SOULWINNING,VAN 1280 SIERRA VISTA ATWATER CA 95301 SS 10,SM 11,SN 6,W 7 KJB,HYLES 14132 SAN ANTONIO AVE CHINO CA 91710 SS 10,SM 11,SN 6,W 7 VIC"
   },
   {
     "id": "297",
@@ -2487,12 +2487,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEREK JUNG. 6018 STARR AVE MARYSVILLE CA 95901 SM 11,W 7 KJB church."
+    "description": "MARYSVILLE CA 95901 SM 11,W 7 KJB church"
   },
   {
     "id": "298",
     "name": "FUNDAMENTAL GOSPEL BAPTIST CHURCH",
-    "address": "618 VICTORIA CT",
+    "address": "618 VICTORIA CT SAN LEANDR",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2506,7 +2506,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN OPFERMAN. 618 VICTORIA CT SAN LEANDRO CA 94577 SS 930,SM 11,SN 2 KJB church."
+    "description": "O CA 94577 SS 930,SM 11,SN 2 KJB church"
   },
   {
     "id": "299",
@@ -2524,7 +2524,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY RAMIREZ. 1228 GRAND AVE SANTA ROSA CA 95492 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
+    "description": "SANTA ROSA CA 95492 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
   },
   {
     "id": "300",
@@ -2542,12 +2542,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4976 N FIGUEROA ST LOS ANGELES CA 90042 SS 11,SM 12,SN 630,W 7,"
+    "description": "LOS ANGELES CA 90042 SS 11,SM 12,SN 630,W 7"
   },
   {
     "id": "301",
     "name": "HILLSIDE BAPTIST ACADEMY",
-    "address": "1501 W CARSON ST",
+    "address": "3205 WASHINGTON ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2561,7 +2561,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DAVID W GREEN. 1501 W CARSON ST TORRANCE CA 90501 AWANA, AUDIO & TEXT SERMONS ONLINE FAITH BIBLE INSTITUTE KJB, RUCKMAN, SPANISH IGLESIA BAUTISTA LA PUERTA ABIERTA 3205 WASHINGTON ST LEMON GROVE CA 91945 SS 945,SM 1"
+    "description": "TORRANCE CA 90501 AWANA, AUDIO & TEXT SERMONS ONLINE FAITH BIBLE INSTITUTE KJB, RUCKMAN, SPANISH IGLESIA BAUTISTA LA PUERTA ABIERTA LEMON GROVE CA 91945 SS 945,SM 1"
   },
   {
     "id": "302",
@@ -2580,12 +2580,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIMOTHY CHOI. PO BOX 45 MANTECA CA 95336-3701 126 EAST EDISON (1/2 BLOCKS E OF MAIN) MODESTO STOCKTON CA SS 945,SM 1045,SN 6,W 7 17120 S NORMANDIE AVE GARDENA CA 90247 SM 930,SS 11,SN 530,W 730 PANISH, KOREAN, BUS, KJB church."
+    "description": "PO BOX 45 MANTECA CA 95336-3701 MODESTO STOCKTON CA SS 945,SM 1045,SN 6,W 7 17120 S NORMANDIE AVE GARDENA CA 90247 SM 930,SS 11,SN 530,W 730 PANISH, KOREAN, BUS, KJB church"
   },
   {
     "id": "303",
     "name": "AMAZING GRACE BAPTIST CHURCH",
-    "address": "11042 EXCELSIOR DR",
+    "address": "1265 NOLAN AVE CHULA VIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "11042",
@@ -2600,7 +2600,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by R C WETZEL. 11042 EXCELSIOR DR NORWALK CA 90650 KJB,BBF,IBFI PO BOX 3206 1265 NOLAN AVE CHULA VISTA CA 91909 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE NORTH ISLAND,32ND ST,MARIMAR KJB,HEARTLAND-BBC,WEST COAST-BC"
+    "description": "NORWALK CA 90650 KJB,BBF,IBFI PO BOX 3206 A CA 91909 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE NORTH ISLAND,32ND ST,MARIMAR KJB,HEARTLAND-BBC,WEST COAST-BC"
   },
   {
     "id": "304",
@@ -2618,7 +2618,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6095 ORANGE AVE LONG BEACH CA 90805 SS 9,SM 10,SN 5,W 7"
+    "description": "LONG BEACH CA 90805 SS 9,SM 10,SN 5,W 7"
   },
   {
     "id": "305",
@@ -2636,7 +2636,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT BENEFIELD.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "306",
@@ -2654,7 +2654,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 3710 3435 S LINWOOD AVE VISALIA CA 93278"
+    "description": "PO BOX 3710 VISALIA CA 93278"
   },
   {
     "id": "307",
@@ -2673,7 +2673,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LARRY OBERO. KJB,GIBF 2432 E 18TH ST NATIONAL CITY CA 91950 SS 950,SM 830 & 11,SN 6,W 7 BUS,SINGLES,AWANA,CHOIR CHRISTIAN SCHOOL KJV,BBF PO BOX 603 9969 11TH AVE HESPERIA CA 92345 SS 930,SM 1030,SW 7 GEORGE AFB"
+    "description": "KJB,GIBF NATIONAL CITY CA 91950 SS 950,SM 830 & 11,SN 6,W 7 BUS,SINGLES,AWANA,CHOIR CHRISTIAN SCHOOL KJV,BBF PO BOX 603 9969 11TH AVE HESPERIA CA 92345 SS 930,SM 1030,SW 7 GEORGE AFB"
   },
   {
     "id": "308",
@@ -2693,7 +2693,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by NATHAN P COOK. 6939 PALM AVE HIGHLAND CA 92346 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE BBF,KJV 5363 TYLER ST RIVERSIDE CA 92503 SS 945,SM 11,SN 6,W 730 FAITH CHRISTIAN ACADEMY BUS,SOULWINNING,CHOIR MARCH AFB. KJB,"
+    "description": "HIGHLAND CA 92346 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS ONLINE BBF,KJV 5363 TYLER ST RIVERSIDE CA 92503 SS 945,SM 11,SN 6,W 730 FAITH CHRISTIAN ACADEMY BUS,SOULWINNING,CHOIR MARCH AFB. KJB"
   },
   {
     "id": "309",
@@ -2711,7 +2711,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 5316 45 MICHIGAN AVE RIVERSIDE CA 92517 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEENS KJB church."
+    "description": "PO BOX 5316 RIVERSIDE CA 92517 SS 10,SM 11,SN 6,W 7 BUS, CHOIR, TEENS KJB church"
   },
   {
     "id": "310",
@@ -2730,12 +2730,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES WOODLEY. MARCH AFB, NORTON AFB KJB,WEST COAST-BC PO BOX 871 298 BULLARD AVE CLOVIS CA 93613 SS 930,SM 1045,SN 6,W 7 BUS,YOUTH,MUSIC,REFORMERS UNANIMOUS,TEEN AUDIO SERMONS ONLINE CANNON AFB KJB,UNAFFILIATED"
+    "description": "MARCH AFB, NORTON AFB KJB,WEST COAST-BC PO BOX 871 CLOVIS CA 93613 SS 930,SM 1045,SN 6,W 7 BUS,YOUTH,MUSIC,REFORMERS UNANIMOUS,TEEN AUDIO SERMONS ONLINE CANNON AFB KJB,UNAFFILIATED"
   },
   {
     "id": "311",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "4380 CONCORD BLVD",
+    "address": "4380 CONCORD BLVD CONCORD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2749,12 +2749,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STAN SMITH. 4380 CONCORD BLVD CONCORD CA 94521 SS 945,SM 1045,SN 6,W 7 CONCORD NWS 2 MILES,TRAVIS AFB 30 MILES KJV,BBF 2790 S KING RD SAN JOSE CA 95122 SS 945,SM 11,SN 6,W 7 BUS,YOUTH,ADULT,CHILDREN, KJV,BBF KJB church."
+    "description": "CA 94521 SS 945,SM 1045,SN 6,W 7 CONCORD NWS 2 MILES,TRAVIS AFB 30 MILES KJV,BBF 2790 S KING RD SAN JOSE CA 95122 SS 945,SM 11,SN 6,W 7 BUS,YOUTH,ADULT,CHILDREN, KJV,BBF KJB church"
   },
   {
     "id": "312",
     "name": "STOCKTON BAPTIST CHURCH",
-    "address": "",
+    "address": "5480 N US HWY ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2767,12 +2767,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 70115 5480 N US HWY STOCKTON CA 95207 SS 945,SM 11,SN 6,W 7 SPANISH, BUS"
+    "description": "PO BOX 70115 OCKTON CA 95207 SS 945,SM 11,SN 6,W 7 SPANISH, BUS"
   },
   {
     "id": "313",
     "name": "STOCKTON BAPTIST SCHOOL",
-    "address": "397 E EMPIRE ST",
+    "address": "1711 SYCAMORE ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2786,7 +2786,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ERNESTO GOMEZ. BIBLE INSTITUTE KJB,1960 REINA VALERA, BBF IGLESIA EVANGELICA BAUTISTA 397 E EMPIRE ST SAN JOSE CA 95112 SS 10, SN 630, W 7 KJV,BBF,CARBC 1711 SYCAMORE ST GRIDLEY CA 95948 545 NEVADA ST BEALE AFB KJV,"
+    "description": "BIBLE INSTITUTE KJB,1960 REINA VALERA, BBF IGLESIA EVANGELICA BAUTISTA SAN JOSE CA 95112 SS 10, SN 630, W 7 KJV,BBF,CARBC GRIDLEY CA 95948 545 NEVADA ST BEALE AFB KJV"
   },
   {
     "id": "314",
@@ -2805,7 +2805,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by SKIP HINTON. 345 5TH AVE CHULA VISTA CA 91910 SS 950,SM 830 & 11,SN 6,W 7 BUS,SINGLES,AWANA,CHOIR KJB,WCBC 27553 HWY 119 TAFT CA 93268 KJB,FBF"
+    "description": "CHULA VISTA CA 91910 SS 950,SM 830 & 11,SN 6,W 7 BUS,SINGLES,AWANA,CHOIR KJB,WCBC 27553 HWY 119 TAFT CA 93268 KJB,FBF"
   },
   {
     "id": "315",
@@ -2824,7 +2824,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES MILLER. PO BOX 616 SANTA MARIA CA 93456-0616 2320 THOMPSON WAY SM 9,SN 5,THU 7 KINGS KIDS,DEAF INT, VANDENBURG 15 MINS (If this church is still here let me know!) KJB,UNAFFILIATED"
+    "description": "PO BOX 616 SANTA MARIA CA 93456-0616 SM 9,SN 5,THU 7 KINGS KIDS,DEAF INT, VANDENBURG 15 MINS (If this church is still here let me know!) KJB,UNAFFILIATED"
   },
   {
     "id": "316",
@@ -2843,7 +2843,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "26366 HILLCREST AVE LOMITA CA 90717 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS ONLINE SOULWINNING,ROLLING HILLS PLAZA,CONV.,M L BS"
+    "description": "LOMITA CA 90717 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS ONLINE SOULWINNING,ROLLING HILLS PLAZA,CONV.,M L BS"
   },
   {
     "id": "317",
@@ -2861,12 +2861,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE CHAPPELL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "318",
     "name": "COASTLINE BAPTIST CHURCH",
-    "address": "503 VISTA BELLA",
+    "address": "1537 VERVAIS AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2879,7 +2879,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIMMIE L WALLACE. 503 VISTA BELLA OCEANSIDE CA 92067 SS 10,SM 830 & 11,SN 530,TH 7 AUDIO SERMONS ONLINE KJB, HAC 1537 VERVAIS AVE VALLEJO CA 94591 SS 10,SM 11,SN 6,W 7"
+    "description": "OCEANSIDE CA 92067 SS 10,SM 830 & 11,SN 530,TH 7 AUDIO SERMONS ONLINE KJB, HAC VALLEJO CA 94591 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "319",
@@ -2898,7 +2898,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ENRIQUE CASTRO. NEAR TRAVIS AFB KJB, BBF"
+    "description": "NEAR TRAVIS AFB KJB, BBF"
   },
   {
     "id": "320",
@@ -2916,7 +2916,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2327 OXFORD ST DELANO CA 93215"
+    "description": "DELANO CA 93215"
   },
   {
     "id": "321",
@@ -2934,7 +2934,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT COSTELLA.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "322",
@@ -2953,12 +2953,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by R L HYMERS JR. 7407 N MAPLE AVE FRESNO CA 93720 NEW ADDRESS IN SEPT 2011 2251 E BEECHWOOD SS 930,SM 1030,SN 6,W 630 KJV,BBF,WALDRIP KJB church."
+    "description": "FRESNO CA 93720 NEW ADDRESS IN SEPT 2011 2251 E BEECHWOOD SS 930,SM 1030,SN 6,W 630 KJV,BBF,WALDRIP KJB church"
   },
   {
     "id": "323",
     "name": "FUNDAMENTALIST BAPTIST TABERNACLE",
-    "address": "1329 SOUTH HOPE ST",
+    "address": "90015 ONLINE BIBLE ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -2973,7 +2973,7 @@ export const californiaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by KEVIN MAKI. 1329 SOUTH HOPE ST LOS ANGELES CA 90015 ONLINE BIBLE STUDIES, CHINESE & SPANISH;MINISTRIES KJB, GARBC"
+    "description": "LOS ANGELES CA UDIES, CHINESE & SPANISH;MINISTRIES KJB, GARBC"
   },
   {
     "id": "324",
@@ -2991,7 +2991,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JARED POZARNSKY. 5860 BLOSSOM AVE SAN JOSE CA 95123 SS 930, SM 1030, SN 4, TH 630 KJB,STEVE ANDERSON,POST-TRIB"
+    "description": "SAN JOSE CA 95123 SS 930, SM 1030, SN 4, TH 630 KJB,STEVE ANDERSON,POST-TRIB"
   },
   {
     "id": "325",
@@ -3010,7 +3010,7 @@ export const californiaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by BOB WILSON. 4323 N GOLDEN STATE BLVD SUITE 1-1 FRESNO CA 93722 SM 1030,SN 5, W 7 SOULWINNING,YOUTUBE,SERMONS ONLINE"
+    "description": "FRESNO CA 93722 SM 1030,SN 5, W 7 SOULWINNING,YOUTUBE,SERMONS ONLINE"
   },
   {
     "id": "326",
@@ -3028,7 +3028,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by & HWY. PO BOX 3744 SIERRA LODGE #788 OAKHURST CA 93644 SS 10,SM 11,W 5 IGLESIA BAUTISTA FUNDAMENTAL 787 WALNUT ST SAN CARLOS CA 94070 near SAN MATEO SS 2,SM 3,SN 7,W 730 ESCUELITA CHRISTIAN ACADEMY PO BOX 94 Independent church."
+    "description": "PO BOX 3744 SIERRA LODGE #788 OAKHURST CA 93644 SS 10,SM 11,W 5 IGLESIA BAUTISTA FUNDAMENTAL SAN CARLOS CA 94070 near SAN MATEO SS 2,SM 3,SN 7,W 730 ESCUELITA CHRISTIAN ACADEMY PO BOX 94 Independent church"
   },
   {
     "id": "327",
@@ -3046,12 +3046,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JOHNNY A GORMAN. 4522 E BROOKLYN AVE LOS ANGELES CA 90022 BBF church."
+    "description": "LOS ANGELES CA 90022 BBF church"
   },
   {
     "id": "328",
     "name": "TORRANCE BAPTIST TEMPLE",
-    "address": "2077 W 236TH ST",
+    "address": "1022 S THOMAS ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3064,7 +3064,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LLOYD GREENWOOD JR. 2077 W 236TH ST TORRANCE CA 90501 1022 S THOMAS ST POMONA CA 91766 BBF church."
+    "description": "2077 W 236TH ST TORRANCE CA 90501 POMONA CA 91766 BBF church"
   },
   {
     "id": "329",
@@ -3083,7 +3083,7 @@ export const californiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by RUSSELL B GORDON. 605 EL CAJON BLVD EL CAJON CA 92020 BBF church."
+    "description": "EL CAJON CA 92020 BBF church"
   },
   {
     "id": "330",
@@ -3101,12 +3101,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WILBUR PARRISH. 9015 MAGNOLIA AVE RIVERSIDE CA 92503 SS 10,SM 11,SN 6,W 7 BUS,AWANA,TEENS ALIVE, MARCH AFB GARBC,CARBC,"
+    "description": "RIVERSIDE CA 92503 SS 10,SM 11,SN 6,W 7 BUS,AWANA,TEENS ALIVE, MARCH AFB GARBC,CARBC"
   },
   {
     "id": "331",
     "name": "WESTWOOD BAPTIST CHURCH",
-    "address": "674 HARRISON RD",
+    "address": "93722 IGLESIA BAUTIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3119,7 +3119,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "3333 N CORNELIA FRESNO CA 93722 IGLESIA BAUTISTA MANANTIAL DE 674 HARRISON RD SALINAS CA 93907 CHRISTIAN SCHOOL,K-12 BBF church."
+    "description": "3333 N CORNELIA FRESNO CA A MANANTIAL DE 674 HARRISON RD SALINAS CA 93907 CHRISTIAN SCHOOL,K-12 BBF church"
   },
   {
     "id": "332",
@@ -3137,7 +3137,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1278 10241 HOLTZEL RD COULTERVILLE CA 95311 PONDEROSA CAMP"
+    "description": "PO BOX 1278 COULTERVILLE CA 95311 PONDEROSA CAMP"
   },
   {
     "id": "333",
@@ -3155,7 +3155,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JIM DOAN. 6256 PLEASANT VALLEY EL DORADO CA 95623 BBF,IBFI 6608 16TH ST RIO LINDA CA 95673"
+    "description": "EL DORADO CA 95623 BBF,IBFI 6608 16TH ST RIO LINDA CA 95673"
   },
   {
     "id": "334",
@@ -3173,12 +3173,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KYE KIM. 2231 W LINCOLN AVE ANAHEIM CA 92801 LARGELY A KOREAN CONGREGATION KJB church."
+    "description": "ANAHEIM CA 92801 LARGELY A KOREAN CONGREGATION KJB church"
   },
   {
     "id": "335",
     "name": "FIRST BAPTIST COMMUNITY CHURCH OF LOS GATOS",
-    "address": "17665 DAVES AVE",
+    "address": "1144 CHESTNUT ST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "17665",
@@ -3191,12 +3191,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "17665 DAVES AVE MONTE SERENO CA 95030 SS 915,SM 1030,SN 6,W 7 AWANAS GARBC,CARBC, 1144 CHESTNUT ST PO BOX 726 FORT BRAGG CA 95437 CARBC,GARBC"
+    "description": "MONTE SERENO CA 95030 SS 915,SM 1030,SN 6,W 7 AWANAS GARBC,CARBC, PO BOX 726 FORT BRAGG CA 95437 CARBC,GARBC"
   },
   {
     "id": "336",
     "name": "CLEAR LAKE BAPTIST CHURCH",
-    "address": "555 N FORGES ST",
+    "address": "131 HOT SPRINGS RD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3209,7 +3209,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by FRANK CARRION. 555 N FORGES ST LAKEPORT CA 95453 131 HOT SPRINGS RD GREENVILLE CA 95947 SS 945,SM 11,SN 6,W 7 26089 GIRARD ST HEMET CA 92544 GIRARD & ACACIA SS 9,SM 1030,SN 6,W 630 AWANA,YOUTH,TEENS,SENIORS BOYS & G"
+    "description": "LAKEPORT CA 95453 GREENVILLE CA 95947 SS 945,SM 11,SN 6,W 7 26089 GIRARD ST HEMET CA 92544 GIRARD & ACACIA SS 9,SM 1030,SN 6,W 630 AWANA,YOUTH,TEENS,SENIORS BOYS & G"
   },
   {
     "id": "337",
@@ -3222,17 +3222,17 @@ export const californiaChurches: Church[] = [
     "longitude": -119.5199,
     "phone": "(714) 563-1410",
     "website": "",
-    "pastor": "DAVID B CLIFT",
+    "pastor": "ANTIOCH CA 94509 SS 915,SM 1030,SN 6,W 7 TRAVIS AFB 9925 MARRO RD ATASCADERO CA 93422",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID B CLIFT. 2780 E WAGNER AVE ANAHEIM CA 92806 108 HILLSIDE DR ANTIOCH CA 94509 SS 915,SM 1030,SN 6,W 7 TRAVIS AFB 9925 MARRO RD ATASCADERO CA 93422"
+    "description": "ANAHEIM CA 92806 108 HILLSIDE DR ANTIOCH CA 94509 SS 915,SM 1030,SN 6,W 7 TRAVIS AFB 9925 MARRO RD ATASCADERO CA 93422"
   },
   {
     "id": "338",
     "name": "WESTERN AVE BAPTIST CHURCH",
-    "address": "555 N WESTERN AVE",
+    "address": "3100 W AVENUE K LANCAST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3245,7 +3245,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MATT KONNERTH. 555 N WESTERN AVE BRAWLEY CA 92227 SS 9,SM 10,SN 6,W 630 CARBC,GARBC 3100 W AVENUE K LANCASTER CA 93536 BETHEL CHRISTIAN SCHOOL,ACSI"
+    "description": "BRAWLEY CA 92227 SS 9,SM 10,SN 6,W 630 CARBC,GARBC ER CA 93536 BETHEL CHRISTIAN SCHOOL,ACSI"
   },
   {
     "id": "339",
@@ -3263,12 +3263,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JEFF CRAIG. 800 MAPLE AVE CARPINTERIA CA 93013 PORT HUENEME"
+    "description": "CARPINTERIA CA 93013 PORT HUENEME"
   },
   {
     "id": "340",
     "name": "FIRST BAPTIST CHURCH OF CASTAIC",
-    "address": "27754 CHURCH ST",
+    "address": "27754 CHURCH ST CAST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "27754",
@@ -3281,7 +3281,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "27754 CHURCH ST CASTAIC CA 91384 SS 945,SM 11,SN 6,W AWANA,"
+    "description": "AIC CA 91384 SS 945,SM 11,SN 6,W AWANA"
   },
   {
     "id": "341",
@@ -3299,12 +3299,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by WILLIAM H HEINRICH. 2735 5TH ST CERES CA 95307-3315 BOX 614 CHICO CA 95965"
+    "description": "CERES CA 95307-3315 BOX 614 CHICO CA 95965"
   },
   {
     "id": "342",
     "name": "FIRST BAPTIST CHURCH OF CLAYTON VALLEY",
-    "address": "5430 MICHIGAN BLVD",
+    "address": "5430 MICHIGAN BLVD CONCORD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3317,7 +3317,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD ASHLEY. 5430 MICHIGAN BLVD CONCORD CA 94521 CARBC,GARBC, 598 ROUND-UP AVE RED BLUFF CA 96080 GARBC,CARBC 1103 MAIN ST WEAVERVILLE CA 96093 GARBC,CARBC PO BOX 3632 TRUCKEE CA 96160 GARBC,CARBC 23477 DUCOR AVE"
+    "description": "CA 94521 CARBC,GARBC, 598 ROUND-UP AVE RED BLUFF CA 96080 GARBC,CARBC 1103 MAIN ST WEAVERVILLE CA 96093 GARBC,CARBC PO BOX 3632 TRUCKEE CA 96160 GARBC,CARBC 23477 DUCOR AVE"
   },
   {
     "id": "343",
@@ -3353,12 +3353,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by KEVIN ROBINSON. PO BOX 2327 MCKINLEYVILLE CA 9552 1616 WINDSOR RD GARBC,CARBC"
+    "description": "PO BOX 2327 MCKINLEYVILLE CA 9552 GARBC,CARBC"
   },
   {
     "id": "345",
     "name": "FOREST RANCH BAPTIST CHURCH",
-    "address": "4967 SCHOTT RD",
+    "address": "4967 SCHOTT RD FOREST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3371,7 +3371,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4967 SCHOTT RD FOREST RANCH CA 95942 GARBC,CARBC"
+    "description": "RANCH CA 95942 GARBC,CARBC"
   },
   {
     "id": "346",
@@ -3389,7 +3389,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD S RUSHING. 6269 E KINGS CANYON RD FRESNO CA 93727 GARBC,CARBC"
+    "description": "FRESNO CA 93727 GARBC,CARBC"
   },
   {
     "id": "347",
@@ -3407,12 +3407,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DENNIS E MCCAIN. 5550 ALHAMBRA AVE MARTINEZ CA 94553-5701 TRAVIS AFB"
+    "description": "MARTINEZ CA 94553-5701 TRAVIS AFB"
   },
   {
     "id": "348",
     "name": "NORTHSIDE BAPTIST CHURCH",
-    "address": "4718 GREENLEAF CT",
+    "address": "4718 GREENLEAF CT MODEST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3425,7 +3425,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PETER WOOTEN. 4718 GREENLEAF CT MODESTO CA 95350 SS 10,SM 11,SN 6,W 7 TEEN,YOUTH,SENIORS,COUPLES GARBC,CARBC 5850 CLARK RD PARADISE CA 95969 SS 945,SM 11,SN 6,W 7 PARADISE CHRISTIAN ACADEMY"
+    "description": "O CA 95350 SS 10,SM 11,SN 6,W 7 TEEN,YOUTH,SENIORS,COUPLES GARBC,CARBC 5850 CLARK RD PARADISE CA 95969 SS 945,SM 11,SN 6,W 7 PARADISE CHRISTIAN ACADEMY"
   },
   {
     "id": "349",
@@ -3443,7 +3443,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JERRY FERRAND. 1876 W HENDERSON AVE PORTERVILLE CA 93257 166 N SAN DIMAS AVE SAN DIMAS CA 91773-2645 2121 MONTIEL RD SAN MARCOS CA 92069 CAMP PENDLETON PO BOX 297 PINOLE CA 94564 16550 SAN PABLO AVE,SAN PABLO,94806"
+    "description": "PORTERVILLE CA 93257 166 N SAN DIMAS AVE SAN DIMAS CA 91773-2645 2121 MONTIEL RD SAN MARCOS CA 92069 CAMP PENDLETON PO BOX 297 PINOLE CA 94564 16550 SAN PABLO AVE,SAN PABLO,94806"
   },
   {
     "id": "350",
@@ -3461,12 +3461,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5551 S BRADLEY RD SANTA MARIA CA 93457 VANDENBURG CARBC,GARBC"
+    "description": "SANTA MARIA CA 93457 VANDENBURG CARBC,GARBC"
   },
   {
     "id": "351",
     "name": "AURORA DRIVE BAPTIST CHURCH",
-    "address": "13067 AURORA DR",
+    "address": "13067 AURORA DR SAN LEANDR",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "13067",
@@ -3474,17 +3474,17 @@ export const californiaChurches: Church[] = [
     "longitude": -118.1306,
     "phone": "(510) 357-6982",
     "website": "",
-    "pastor": "",
+    "pastor": "SAN LEANDRO CA 94577 CARBC,GARBC, 2336 BUENA VISTA AVE WALNUT CREEK CA 94596 GARBC,CARBC",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "13067 AURORA DR SAN LEANDRO CA 94577 CARBC,GARBC, 2336 BUENA VISTA AVE WALNUT CREEK CA 94596 GARBC,CARBC"
+    "description": "O CA 94577 CARBC,GARBC, 2336 BUENA VISTA AVE WALNUT CREEK CA 94596 GARBC,CARBC"
   },
   {
     "id": "352",
     "name": "HUNTINGTON VALLEY BAPTIST CHURCH",
-    "address": "9779 STARFISH AVE",
+    "address": "390 OLD VENTURA AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3497,7 +3497,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "9779 STARFISH AVE FOUNTAIN VALLEY CA 92708 CARBC,GARBC 390 OLD VENTURA AVE PO BOX 126 OAK VIEW CA 93022 CARBC,GARBC"
+    "description": "FOUNTAIN VALLEY CA 92708 CARBC,GARBC PO BOX 126 OAK VIEW CA 93022 CARBC,GARBC"
   },
   {
     "id": "353",
@@ -3515,7 +3515,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "535 N CEDAR AVE FRESNO CA 93702 GARBC,CARBC"
+    "description": "FRESNO CA 93702 GARBC,CARBC"
   },
   {
     "id": "354",
@@ -3533,7 +3533,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by CLIFF ROACH. 4910 COCHRAN ST SIMI VALLEY CA 93063 GARBC,CARBC"
+    "description": "SIMI VALLEY CA 93063 GARBC,CARBC"
   },
   {
     "id": "355",
@@ -3551,7 +3551,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "ABA"
     ],
-    "description": "Led by RANDALL FOX. 13234 GOLDEN STATE BLVD MADERA CA 93637 SS 930,SM 11,SN 630,W 630 2190 N CANAL ST ORANGE CA 92865-3601 WEST OF THE MALL OF ORANGE, CORONA AREA SS 9,SM 1015,SN 6,W 7 1421 WILSON AVE OILDALE CA 93308 BA ABA church."
+    "description": "MADERA CA 93637 SS 930,SM 11,SN 630,W 630 2190 N CANAL ST ORANGE CA 92865-3601 WEST OF THE MALL OF ORANGE, CORONA AREA SS 9,SM 1015,SN 6,W 7 1421 WILSON AVE OILDALE CA 93308 BA ABA church"
   },
   {
     "id": "356",
@@ -3569,7 +3569,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GHEORGHE MOTOC. PO BOX 305 4565 CORNETTS ENTRANCE RD CATHEYS VALLEY CA 95306-0305 SM 10,SN 6,W 6 NBBC,BJU,PCC PO BOX 2305 2962 SOMERSET AVE CASTRO VALLEY CA 94546 MS 10,SS 1120,SN 6,W 7 AUDIO SERMONS ONLINE KJB,NEW I"
+    "description": "PO BOX 305 CATHEYS VALLEY CA 95306-0305 SM 10,SN 6,W 6 NBBC,BJU,PCC PO BOX 2305 2962 SOMERSET AVE CASTRO VALLEY CA 94546 MS 10,SS 1120,SN 6,W 7 AUDIO SERMONS ONLINE KJB,NEW I"
   },
   {
     "id": "357",
@@ -3591,12 +3591,12 @@ export const californiaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by DON KALLNER. 5223 E ORNGETHORPE AVE ANAHEIM CA 92807 PH UNPUBLISHED SM 1030, SN 5,TH 7 SOULWINNING, MP3 PODCAST AND LIVESTEAM SERMONS ONLINE, MULTI ETHNIC S.GRACE-TULIP 169 HARRISON RD SALINAS CA 93906 UNAFFILIATE KJB church."
+    "description": "ANAHEIM CA 92807 PH UNPUBLISHED SM 1030, SN 5,TH 7 SOULWINNING, MP3 PODCAST AND LIVESTEAM SERMONS ONLINE, MULTI ETHNIC S.GRACE-TULIP 169 HARRISON RD SALINAS CA 93906 UNAFFILIATE KJB church"
   },
   {
     "id": "358",
     "name": "FAIRWAY PARK BAPTIST CHURCH",
-    "address": "",
+    "address": "425 GRESEL HAYWARD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3609,12 +3609,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT YODER. 425 GRESEL HAYWARD CA 94544 SS 855,SM 10,SN 6,W 7 MP3 AUDIO SERMONS ONLINE GARBC,CARBC,NOT-KJV-ONLY KJB church."
+    "description": "CA 94544 SS 855,SM 10,SN 6,W 7 MP3 AUDIO SERMONS ONLINE GARBC,CARBC,NOT-KJV-ONLY KJB church"
   },
   {
     "id": "359",
     "name": "FIRST BAPTIST CHURCH OF MENIFEE",
-    "address": "",
+    "address": "PO BOX 125",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3628,7 +3628,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JOHN ARDEN HENRY. PO BOX 125 MENIFEE CA 92586 SUN CITY AREA SS 930,SM 1045,W 630 GARBC,KJV-(RARELY USES NKJV), KJB church."
+    "description": "MENIFEE CA 92586 SUN CITY AREA SS 930,SM 1045,W 630 GARBC,KJV-(RARELY USES NKJV), KJB church"
   },
   {
     "id": "360",
@@ -3646,7 +3646,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by LANE LAWLESS. 151 SUNNYSIDE AVE CAMPBELL CA 95008-4116 SS 945,SM 11,SN 6,W 7 YOUTH,VBS,PRAYER & BIBLE STUDY GROUPS S.GRACE-TULIP"
+    "description": "CAMPBELL CA 95008-4116 SS 945,SM 11,SN 6,W 7 YOUTH,VBS,PRAYER & BIBLE STUDY GROUPS S.GRACE-TULIP"
   },
   {
     "id": "361",
@@ -3664,12 +3664,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY DECKARD. 11000 W CLOVER AVE TRACY CA 95376 SS 1045,SM 12 & 3,W 7 GARBC,NOT KJV ONLY KJB church."
+    "description": "TRACY CA 95376 SS 1045,SM 12 & 3,W 7 GARBC,NOT KJV ONLY KJB church"
   },
   {
     "id": "362",
     "name": "SIERRA BAPTIST CHURCH",
-    "address": "2215 AUBURN FOLSOM RD",
+    "address": "2215 AUBURN FOLSOM RD NEWCAST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3683,7 +3683,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by WILLIAM L BROWN. 2215 AUBURN FOLSOM RD NEWCASTLE CA 95658 SS 845,SM 10,SN 6,W 7 KJB,BBF,S.GRACE-TULIP"
+    "description": "LE CA 95658 SS 845,SM 10,SN 6,W 7 KJB,BBF,S.GRACE-TULIP"
   },
   {
     "id": "363",
@@ -3701,7 +3701,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ALAN ROSS. PO BOX 160 CARMICHAEL CA 95608 3210 CALIFORNIA AVE SS 10,SM 11,SN 6,W 7 S.GRACE-TULIP"
+    "description": "PO BOX 160 CARMICHAEL CA 95608 SS 10,SM 11,SN 6,W 7 S.GRACE-TULIP"
   },
   {
     "id": "364",
@@ -3719,12 +3719,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by R L CRAWFORD. 831 N CLAY ST REDLANDS CA 92374 KJB,S.GRACE"
+    "description": "REDLANDS CA 92374 KJB,S.GRACE"
   },
   {
     "id": "365",
     "name": "MISSIONARY BAPTIST CHURCH",
-    "address": "573 BARLETTE AVE",
+    "address": "573 BARLETTE AVE HAYWARD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3737,7 +3737,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "573 BARLETTE AVE HAYWARD CA 94541 SS 945,SM 11,SN 615,W 7"
+    "description": "CA 94541 SS 945,SM 11,SN 615,W 7"
   },
   {
     "id": "366",
@@ -3773,12 +3773,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK PURDUE. KJB,S.GRACE-TULIP 7150 WILDWOOD PLACE GRANITE BAY CA 95746 ROSEVILLE AREA SS 945,SM 1045,SN BT 5 & WSHP 6,W 730 LANDMARK MESSENGER BEALE AFB 30 MILES KJB,S.GRACE-TULIP"
+    "description": "KJB,S.GRACE-TULIP GRANITE BAY CA 95746 ROSEVILLE AREA SS 945,SM 1045,SN BT 5 & WSHP 6,W 730 LANDMARK MESSENGER BEALE AFB 30 MILES KJB,S.GRACE-TULIP"
   },
   {
     "id": "368",
     "name": "GRACE MISSIONARY BAPTIST CHURCH",
-    "address": "861 E J ST",
+    "address": "14722 CLARK AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3792,7 +3792,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE KALAPP. 861 E J ST ONTARIO CA 91764 SM 11, SS 115, SN 230, W 7 NLT, BBF PO BOX 489 14722 CLARK AVE BELLFLOWER CA 90706 SS 915,SM 1045 MP3 AUDIO SERMONS ONLINE 1 block south of Kaiser Hospital on Clark NOT KJV KJB church."
+    "description": "ONTARIO CA 91764 SM 11, SS 115, SN 230, W 7 NLT, BBF PO BOX 489 BELLFLOWER CA 90706 SS 915,SM 1045 MP3 AUDIO SERMONS ONLINE 1 block south of Kaiser Hospital on Clark NOT KJV KJB church"
   },
   {
     "id": "369",
@@ -3810,7 +3810,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEONARD BUKTRUM. 4130 GARDENIA AVE LONG BEACH CA 90807 KJV,S.GRACE-TULIP NICK PERDUE KJB church."
+    "description": "LONG BEACH CA 90807 KJV,S.GRACE-TULIP NICK PERDUE KJB church"
   },
   {
     "id": "370",
@@ -3828,12 +3828,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEWAYNE HARRIS. PO BOX 1272 ROSEVILLE CA 95746 7150 WILDWOOD PL KJV,S.GRACE-TULIP 452 WILLIAMS RD SALINAS CA 93905 NOT KJV ONLY KJB church."
+    "description": "PO BOX 1272 ROSEVILLE CA 95746 KJV,S.GRACE-TULIP 452 WILLIAMS RD SALINAS CA 93905 NOT KJV ONLY KJB church"
   },
   {
     "id": "371",
     "name": "CROSSROADS BAPTIST CHURCH",
-    "address": "12105 DRY CREEK RD",
+    "address": "12105 DRY CREEK RD BELLA VIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "12105",
@@ -3846,12 +3846,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by STEVE MARQUEDANT. 12105 DRY CREEK RD BELLA VISTA CA 96008 SS 930,SM 1045,SN 6,W 7 S.GRACE"
+    "description": "A CA 96008 SS 930,SM 1045,SN 6,W 7 S.GRACE"
   },
   {
     "id": "372",
     "name": "SOVEREIGN GRACE BAPTIST CHURCH",
-    "address": "1168 E G ST",
+    "address": "5200 HEIDORN RANCH RD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3865,7 +3865,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JAMES OESTERWIND. 1168 E G ST ONTARIO CA 91764 SS 10,SM 11,SN 6,W 715 NKJV,BJU,MBBC 5200 HEIDORN RANCH RD ANTIOCH CA 94509 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "ONTARIO CA 91764 SS 10,SM 11,SN 6,W 715 NKJV,BJU,MBBC ANTIOCH CA 94509 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "373",
@@ -3883,7 +3883,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESHER LUBATON. MP3 AUDIO SERMONS ONLINE NOT KJV ONLY,GARBC,CARBC KJB church."
+    "description": "MP3 AUDIO SERMONS ONLINE NOT KJV ONLY,GARBC,CARBC KJB church"
   },
   {
     "id": "374",
@@ -3903,7 +3903,7 @@ export const californiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by ANTHONY P BIRGE. 18701 S DENKER AVE AVE in GARDENA PREACH-KJV,STUDY-VARIOUS,BBF 227 N MAGNOLIA AVE ANAHEIM CA 92801 VICTORY CHRISTIAN SCHOOL, TULIP S.GRACE 6557 SNELL AVE 238 SAN JOSE CA 95123 SS 10,SM 11,SN 2 PACIFIC KJB church."
+    "description": "PREACH-KJV,STUDY-VARIOUS,BBF 227 N MAGNOLIA AVE ANAHEIM CA 92801 VICTORY CHRISTIAN SCHOOL, TULIP S.GRACE 6557 SNELL AVE 238 SAN JOSE CA 95123 SS 10,SM 11,SN 2 PACIFIC KJB church"
   },
   {
     "id": "375",
@@ -3921,7 +3921,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "319 W OLIVE AVE MONROVIA CA 91016 SM 1045,SN 6,W 7"
+    "description": "MONROVIA CA 91016 SM 1045,SN 6,W 7"
   },
   {
     "id": "376",
@@ -3939,7 +3939,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER JIMENEZ. TEXT SERMONS ONLINE KJB, S.ANDERSON, POST-TRIB"
+    "description": "TEXT SERMONS ONLINE KJB, S.ANDERSON, POST-TRIB"
   },
   {
     "id": "377",
@@ -3952,13 +3952,13 @@ export const californiaChurches: Church[] = [
     "longitude": -119.3112,
     "phone": "(916) 792-2050",
     "website": "http://www.veritybaptist.com",
-    "pastor": "LARRY P BALL",
+    "pastor": "HOLLISTER CA 95023 SS 945,SM 11,SN 6,W 7 AW KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by LARRY P BALL. 320 HARRIS AVE SUITE #A SACRAMENTO CA 95838 SOULWINNING, MP3 AUDIO SERMONS ONLINE ALSO MEETS AT 1703 FULTON ST FRESNO CA 93721 NOT KJV ONLY 1900 HIGHLAND DR HOLLISTER CA 95023 SS 945,SM 11,SN 6,W 7 AW KJB church."
+    "description": "SACRAMENTO CA 95838 SOULWINNING, MP3 AUDIO SERMONS ONLINE ALSO MEETS AT 1703 FULTON ST FRESNO CA 93721 NOT KJV ONLY 1900 HIGHLAND DR HOLLISTER CA 95023 SS 945,SM 11,SN 6,W 7 AW KJB church"
   },
   {
     "id": "378",
@@ -3978,12 +3978,12 @@ export const californiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by BARRY FERO. 416 RANCHO SANTE FE ENCINITAS CA 92024 SS 930, SM 1030 CAMP PENDLETON BBF,FALWELL,CONTEMPORARY WORSHIP, 5802 SANTA CATALINA GARDEN GROVE CA 92845 PURPOSE DRIVEN BBF PO BOX 60 3300 WEST ST SOMIS CA 930 KJB church."
+    "description": "416 RANCHO SANTE FE ENCINITAS CA 92024 SS 930, SM 1030 CAMP PENDLETON BBF,FALWELL,CONTEMPORARY WORSHIP, 5802 SANTA CATALINA GARDEN GROVE CA 92845 PURPOSE DRIVEN BBF PO BOX 60 3300 WEST ST SOMIS CA 930 KJB church"
   },
   {
     "id": "379",
     "name": "NAPA VALLEY BAPTIST CHURCH",
-    "address": "2303 TROWER AVE",
+    "address": "100 N PACIFIC COAST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -3997,7 +3997,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LEE HUDDLESTON. 2303 TROWER AVE NAPA CA 94558 SS 10,SM 11,SN 6,W 7 TRAVIS AFB NOT KJV ONLY,BBF,HYBELS,WCA,CONT WORSHIP 100 N PACIFIC COAST HWY REDONDO BEACH CA 90277 NOT KJV ONLY,GARBC 3320 BRUSH ST COTTONWOOD CA 960 KJB church."
+    "description": "NAPA CA 94558 SS 10,SM 11,SN 6,W 7 TRAVIS AFB NOT KJV ONLY,BBF,HYBELS,WCA,CONT WORSHIP HWY REDONDO BEACH CA 90277 NOT KJV ONLY,GARBC 3320 BRUSH ST COTTONWOOD CA 960 KJB church"
   },
   {
     "id": "380",
@@ -4017,12 +4017,12 @@ export const californiaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by LYNDELL KUNS. 22004 W PLACERITA CYN RD NEWHALL CA 91321 SS 830 & 10,SM 830 & 10,SN 5,W 630 AWANA, EDWARDS AFB NKJV,GARBC 1980 S WALTON AVE YUBA CITY CA 95993 SS 945,SM 830 & 11,SN 6,W 7, YOUTH,TEENS, GRACE CHRISTIA KJB church."
+    "description": "NEWHALL CA 91321 SS 830 & 10,SM 830 & 10,SN 5,W 630 AWANA, EDWARDS AFB NKJV,GARBC 1980 S WALTON AVE YUBA CITY CA 95993 SS 945,SM 830 & 11,SN 6,W 7, YOUTH,TEENS, GRACE CHRISTIA KJB church"
   },
   {
     "id": "381",
     "name": "MANOR BAPTIST CHURCH",
-    "address": "1845 LEWELLING BLVD",
+    "address": "1845 LEWELLING BLVD SAN LEANDR",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4035,7 +4035,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES T BORDENARO. 1845 LEWELLING BLVD SAN LEANDRO CA 94759 SS 945,SM 11,SN 6,W 7 AWANA,PATCH CLUB NOT KJV ONLY,GARBC KJB church."
+    "description": "O CA 94759 SS 945,SM 11,SN 6,W 7 AWANA,PATCH CLUB NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "382",
@@ -4056,12 +4056,12 @@ export const californiaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by GINO ABALDO. 1147 CORDOVA ST PASADENA CA 91106 SS 930,SM 11,SN 6,W 7 PREACH-KJV,STUDY-KJ21-NKJV,FBF,BBF,ACC KJB church."
+    "description": "PASADENA CA 91106 SS 930,SM 11,SN 6,W 7 PREACH-KJV,STUDY-KJ21-NKJV,FBF,BBF,ACC KJB church"
   },
   {
     "id": "383",
     "name": "SILVER VALLEY BAPTIST CHURCH",
-    "address": "520 YERMO RD",
+    "address": "2153 TWIN CREEK AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4075,7 +4075,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by STEVE BORDERS. PO BOX 610 520 YERMO RD YERMO CA 92398-0610 SM 9 AM PRYR,SS 10,SM 11 FT IRWIN-36M,NEBO 10M,YERMO 4M,MCLB PREACH KJV,STUDY-NASB,GARBC,ABWE 2153 TWIN CREEK AVE PALMDALE CA 93551 MEETS IN QUAIL VALLEY EL KJB church."
+    "description": "PO BOX 610 YERMO CA 92398-0610 SM 9 AM PRYR,SS 10,SM 11 FT IRWIN-36M,NEBO 10M,YERMO 4M,MCLB PREACH KJV,STUDY-NASB,GARBC,ABWE PALMDALE CA 93551 MEETS IN QUAIL VALLEY EL KJB church"
   },
   {
     "id": "384",
@@ -4093,7 +4093,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID R HOLLINGSWORTH. 6450 CREST AVE RIVERSIDE CA 92503 SS 930,SM 11,SN 6 MARCH AFB NOT KJV ONLY,GARBC 2120 GREEN ST CAMBRIA CA 93428 SS 915,SM 1030 GARBC,MACARTHUR,NOT KJV ONLY KJB church."
+    "description": "RIVERSIDE CA 92503 SS 930,SM 11,SN 6 MARCH AFB NOT KJV ONLY,GARBC 2120 GREEN ST CAMBRIA CA 93428 SS 915,SM 1030 GARBC,MACARTHUR,NOT KJV ONLY KJB church"
   },
   {
     "id": "385",
@@ -4112,12 +4112,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LEWIS MCCLENDON. 27249 LUTHER DR CANYON COUNTRY CA 91351 AUDIO SERMONS ONLINE SS 9,SM 10,SN 6,W 7 NOT KJV ONLY,BBF KJB church."
+    "description": "CANYON COUNTRY CA 91351 AUDIO SERMONS ONLINE SS 9,SM 10,SN 6,W 7 NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "386",
     "name": "VENTURA BAPTIST CHURCH",
-    "address": "5415 RALSTON RD",
+    "address": "2140 OLIVERA RD CONCORD",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4132,7 +4132,7 @@ export const californiaChurches: Church[] = [
       "Non-KJV",
       "ABA"
     ],
-    "description": "Led by RUSSELL BELMONT. 5415 RALSTON RD VENTURA CA 93003 SS 9, SM 9 & 1030 DEAF,AWANA,KINGDOM KIDS,COLL & CAR,AUDIO SERMONS ONLINE TEMPLE CHRISTIAN SCHOOL,K-8,TRAD PORT HUENEME NASB,GARBC,CARBC 2140 OLIVERA RD CONCORD CA 945 KJB church."
+    "description": "VENTURA CA 93003 SS 9, SM 9 & 1030 DEAF,AWANA,KINGDOM KIDS,COLL & CAR,AUDIO SERMONS ONLINE TEMPLE CHRISTIAN SCHOOL,K-8,TRAD PORT HUENEME NASB,GARBC,CARBC CA 945 KJB church"
   },
   {
     "id": "387",
@@ -4152,12 +4152,12 @@ export const californiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by GARY WORSHAM. PO BOX 768 3800 N SHINGLE RD SHINGLE SPRINGS CA 95682-0768 SS 945,SM 815 & 11,SN 6 CHOIR,AWANA GARBC,PREACH-KJV STUDY-NKJ-NASB-AMP, PO BOX 216 19661 ROTH RD STRATHMORE CA 93267 SS 945,SM 11,SN 6,W 7 A KJB church."
+    "description": "PO BOX 768 SHINGLE SPRINGS CA 95682-0768 SS 945,SM 815 & 11,SN 6 CHOIR,AWANA GARBC,PREACH-KJV STUDY-NKJ-NASB-AMP, PO BOX 216 19661 ROTH RD STRATHMORE CA 93267 SS 945,SM 11,SN 6,W 7 A KJB church"
   },
   {
     "id": "388",
     "name": "SONRISE CHURCH OF CLOVIS",
-    "address": "3105 LOCAN AVE",
+    "address": "1114 W ONTARIO AVE",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4172,7 +4172,7 @@ export const californiaChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JOHN S REED. 3105 LOCAN AVE CLOVIS CA 93611 NOT KJV ONLY,BBF,BGC,SWBC 1114 W ONTARIO AVE ONTARIO CA 91720 CORONA AREA NOT KJV ONLY,BBF,CARBC,GARBC 10285 STARR RD WINDSOR CA 95492 SS 9,SM 9 & 1030,SN 6,W 7 CHOIR, W KJB church."
+    "description": "CLOVIS CA 93611 NOT KJV ONLY,BBF,BGC,SWBC ONTARIO CA 91720 CORONA AREA NOT KJV ONLY,BBF,CARBC,GARBC 10285 STARR RD WINDSOR CA 95492 SS 9,SM 9 & 1030,SN 6,W 7 CHOIR, W KJB church"
   },
   {
     "id": "389",
@@ -4190,7 +4190,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by J DAVID ADAMS. 41354 ROBERTS AVE FREMONT CA 94538 SS 930,SM 1045,SN 6,W 7 SUNDAY SCHOOL, COMMUNITY GROUPS, AUDIO SERMONS ONLINE, PROPHETS CHAMBER Non-KJV church."
+    "description": "FREMONT CA 94538 SS 930,SM 1045,SN 6,W 7 SUNDAY SCHOOL, COMMUNITY GROUPS, AUDIO SERMONS ONLINE, PROPHETS CHAMBER Non-KJV church"
   },
   {
     "id": "390",
@@ -4208,12 +4208,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3233 W BALL RD ANAHEIM CA 92804"
+    "description": "ANAHEIM CA 92804"
   },
   {
     "id": "391",
     "name": "ANAHEIM BAPTIST SCHOOL",
-    "address": "3840 SANTE FE DR",
+    "address": "7 NEAR CASTLE AFB COMPL",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4227,7 +4227,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOSEPH G BERKNER. NLT,BBF PO BOX 534 3840 SANTE FE DR ATWATER CA 95301 MERCED AREA SS 10,SM 11,SN 6,W 7 NEAR CASTLE AFB COMPLEX NOT KJV ONLY,BBF KJB church."
+    "description": "NLT,BBF PO BOX 534 ATWATER CA 95301 MERCED AREA SS 10,SM 11,SN 6,W EX NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "392",
@@ -4245,7 +4245,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by SHAFER FORMER NAVY. PO BOX 2215 45825 EDGEHILL DR PALM DESERT CA 92261 SS 930,SM 1030,W 630 BBF,CCM"
+    "description": "PO BOX 2215 PALM DESERT CA 92261 SS 930,SM 1030,W 630 BBF,CCM"
   },
   {
     "id": "393",
@@ -4264,7 +4264,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by V MARK SMITH. 1820 BELL ST SACRAMENTO CA 95825 SS 10,SM 11,SN 6,W 7 BUS, RADIO TRAVIS,MATHIS,BEALE KJB, UNAFFILIATED, SOVEREIGN GRACE"
+    "description": "SACRAMENTO CA 95825 SS 10,SM 11,SN 6,W 7 BUS, RADIO TRAVIS,MATHIS,BEALE KJB, UNAFFILIATED, SOVEREIGN GRACE"
   },
   {
     "id": "394",
@@ -4277,12 +4277,12 @@ export const californiaChurches: Church[] = [
     "longitude": -117.9287,
     "phone": "(707) 584-7275",
     "website": "http://www.bbaptist.org",
-    "pastor": "",
+    "pastor": "ROHNERT PARK CA 94928 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "6298 COUNTRY CLUB DR ROHNERT PARK CA 94928 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE"
+    "description": "ROHNERT PARK CA 94928 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE"
   },
   {
     "id": "395",
@@ -4300,12 +4300,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BRUCE PARKER. GARBC,S-GRACE-TULIP"
+    "description": "GARBC,S-GRACE-TULIP"
   },
   {
     "id": "396",
     "name": "FIRST BAPTIST CHURCH OF WOODLAND",
-    "address": "1616 WEST ST",
+    "address": "6 TEXT SERMONS ONLINE WOODLAND CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4319,7 +4319,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE ALEXANDER. 1616 WEST ST WOODLAND CA 95695 SS 945,SM 815 & 1045,SN 6 TEXT SERMONS ONLINE WOODLAND CHRISTIAN SCHOOL,K-12 MATHER,TRAVIS,BEALE NOT KJV ONLY, GARBC,BBF KJB church."
+    "description": "WOODLAND CA 95695 SS 945,SM 815 & 1045,SN IAN SCHOOL,K-12 MATHER,TRAVIS,BEALE NOT KJV ONLY, GARBC,BBF KJB church"
   },
   {
     "id": "397",
@@ -4337,12 +4337,12 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACK M LEE JR. PO BOX 218 340 HIGHLAND AVE SMITH RIVER CA 95567 SS 945,SM 830 & 11,SN 6,W 645 KJV, CCM KJB church."
+    "description": "PO BOX 218 SMITH RIVER CA 95567 SS 945,SM 830 & 11,SN 6,W 645 KJV, CCM KJB church"
   },
   {
     "id": "398",
     "name": "CORONADO BAPTIST CHURCH",
-    "address": "516 NORRIS RD",
+    "address": "14137 BUSINESS CENTER DR",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4350,13 +4350,13 @@ export const californiaChurches: Church[] = [
     "longitude": -118.2432,
     "phone": "(661) 393-4098",
     "website": "http://coronadobaptist.com",
-    "pastor": "LEE EX-ARMY",
+    "pastor": "MORENO VALLEY CA 92552 TEXT SERMONS ONLINE KJV-NKJV KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by LEE EX-ARMY. 516 NORRIS RD BAKERSFIELD CA 93308 SS 945,SM 830 & 11,SN 6,W 630 BUS, AWANA NOT KJV ONLY 14137 BUSINESS CENTER DR MORENO VALLEY CA 92552 TEXT SERMONS ONLINE KJV-NKJV KJB church."
+    "description": "BAKERSFIELD CA 93308 SS 945,SM 830 & 11,SN 6,W 630 BUS, AWANA NOT KJV ONLY MORENO VALLEY CA 92552 TEXT SERMONS ONLINE KJV-NKJV KJB church"
   },
   {
     "id": "399",
@@ -4374,7 +4374,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID C INNIS. 345 DEWITT AVE CLOVIS CA 93612 SS 930, SM 1045, SN 5, W 7 NAS,KJV,NCFFB,FBF KJB church."
+    "description": "CLOVIS CA 93612 SS 930, SM 1045, SN 5, W 7 NAS,KJV,NCFFB,FBF KJB church"
   },
   {
     "id": "400",
@@ -4392,7 +4392,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1212 GEARY BLVD SAN FRANCISCO CA 94109 SS 945,SM 1050,SN 6,W 730 AUDIO SERMONS ONLINE, MISSION,HOSPITAL,PRISON"
+    "description": "SAN FRANCISCO CA 94109 SS 945,SM 1050,SN 6,W 730 AUDIO SERMONS ONLINE, MISSION,HOSPITAL,PRISON"
   },
   {
     "id": "401",
@@ -4411,7 +4411,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRUCE GARNER. NOT KJV ONLY,BBF KJB church."
+    "description": "NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "402",
@@ -4429,7 +4429,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FUNG LO. PO BOX 1057 7661 WARNER AVE HUNTINGTON BEACH CA 92647 SS 930,SM 1030 NOT KJV ONLY KJB church."
+    "description": "PO BOX 1057 HUNTINGTON BEACH CA 92647 SS 930,SM 1030 NOT KJV ONLY KJB church"
   },
   {
     "id": "403",
@@ -4449,7 +4449,7 @@ export const californiaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by ALVIN LOUIE & WILLY LIU. 37220 MAPLE ST FREMONT CA 94536 NOT KJV ONLY 280 8TH ST OAKLAND CA 94607 SM 930,SS 1115 S.GRACE-TULIP,CARBC,GARBC 3372 S HWY 99 STOCKTON CA 95215 BBF,CCM, KJB church."
+    "description": "FREMONT CA 94536 NOT KJV ONLY 280 8TH ST OAKLAND CA 94607 SM 930,SS 1115 S.GRACE-TULIP,CARBC,GARBC 3372 S HWY 99 STOCKTON CA 95215 BBF,CCM, KJB church"
   },
   {
     "id": "404",
@@ -4467,7 +4467,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN DOAN. 363 E ROWLAND ST COVINA CA 91723 HACIENDA HEIGHTS AREA SS 10,SM 11,W 730 NOT KJV ONLY,CARBC,GARBC,CONT SERVICES KJB church."
+    "description": "COVINA CA 91723 HACIENDA HEIGHTS AREA SS 10,SM 11,W 730 NOT KJV ONLY,CARBC,GARBC,CONT SERVICES KJB church"
   },
   {
     "id": "405",
@@ -4486,7 +4486,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MALCOLM WHITE. 301 N ORCHARD AVE VACAVILLE CA 95688 PW SM 830,SM 11,SN 6 AWANA,BUS,CHOIR, TRAVIS AFB NOT KJV ONLY, CARBC, GARBC KJB church."
+    "description": "VACAVILLE CA 95688 PW SM 830,SM 11,SN 6 AWANA,BUS,CHOIR, TRAVIS AFB NOT KJV ONLY, CARBC, GARBC KJB church"
   },
   {
     "id": "406",
@@ -4505,12 +4505,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RICHARD BARGAS. PO BOX 487 177 CALIFORNIA ST MAXWELL CA 95955 SS 945, SM 11, SN 6, W 6 IFCA,REFORMED 1502 MCDONALD AVE WILMINGTON CA 90744 SS 945,SM 1115,SN 6,W 7 NOT KJV ONLY,BBF,CCM KJB church."
+    "description": "PO BOX 487 MAXWELL CA 95955 SS 945, SM 11, SN 6, W 6 IFCA,REFORMED 1502 MCDONALD AVE WILMINGTON CA 90744 SS 945,SM 1115,SN 6,W 7 NOT KJV ONLY,BBF,CCM KJB church"
   },
   {
     "id": "407",
     "name": "BREA BAPTIST CHURCH",
-    "address": "110 N SUNRISE AVE",
+    "address": "92821 HERITAGE CHRIST",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4524,7 +4524,7 @@ export const californiaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by NATHAN BATE. 217 E BIRCH BREA CA 92821 HERITAGE CHRISTIAN SCHOOL,7-12 NOT KJV ONLY, BJU PO BOX 214 ROSEVILLE CA 95678 PHYSICAL: HAMPTON INN AND SUITES 110 N SUNRISE AVE NOT-KJV-ONLY KJB church."
+    "description": "217 E BIRCH BREA CA IAN SCHOOL,7-12 NOT KJV ONLY, BJU PO BOX 214 ROSEVILLE CA 95678 PHYSICAL: HAMPTON INN AND SUITES 110 N SUNRISE AVE NOT-KJV-ONLY KJB church"
   },
   {
     "id": "408",
@@ -4542,7 +4542,7 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH LEAVELL. 4710 N MAPLE ST FRESNO CA 93726 NOT-KJV-ONLY KJB church."
+    "description": "FRESNO CA 93726 NOT-KJV-ONLY KJB church"
   },
   {
     "id": "409",
@@ -4561,12 +4561,12 @@ export const californiaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BRAD W GUNTER. PO BOX 565 2584 DURHAM DAYTON HWY DURHAM CA 95938 NOT KJV ONLY,BBF,CCM,CONTEMPORARY SERVICES 301 W WHYTE AVE ROSEVILLE CA 95678 SM 1030,SN 7,W 7 VALLEY CHRISTIAN ACADEMY PREACH-KJV, NOT KJV ONLY, BJU KJB church."
+    "description": "PO BOX 565 2584 DURHAM DAYTON HWY DURHAM CA 95938 NOT KJV ONLY,BBF,CCM,CONTEMPORARY SERVICES ROSEVILLE CA 95678 SM 1030,SN 7,W 7 VALLEY CHRISTIAN ACADEMY PREACH-KJV, NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "410",
     "name": "FAITH COMMUNITY BIBLE CHURCH",
-    "address": "2375 CENTER PL",
+    "address": "19765 GRACE WAY",
     "city": "Sacramento",
     "state": "CA",
     "zipCode": "",
@@ -4579,6 +4579,6 @@ export const californiaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN SCHMIDT. 2375 CENTER PL EL CAJON CA 92020 SM 10, SS 530, W 630 NOT KJV ONLY 19765 GRACE WAY SONORA CA 95370 KJB church."
+    "description": "EL CAJON CA 92020 SM 10, SS 530, W 630 NOT KJV ONLY SONORA CA 95370 KJB church"
   }
 ];

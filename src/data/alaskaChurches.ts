@@ -17,7 +17,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON LAMBERT. PO BOX 55332 3555 LAURANCE RD NORTH POLE AK 99705 SS 930,SM 1030,SN 1,W 7 EIELSON AFB KJB church."
+    "description": "PO BOX 55332 NORTH POLE AK 99705 SS 930,SM 1030,SN 1,W 7 EIELSON AFB KJB church"
   },
   {
     "id": "2",
@@ -36,12 +36,12 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by EARL BARNETT. 64335 OIL WELL RD NINILCHIK AK 99639 KJB,UNAFFILIATED"
+    "description": "NINILCHIK AK 99639 KJB,UNAFFILIATED"
   },
   {
     "id": "3",
     "name": "KING COVE BIBLE CHAPEL",
-    "address": "100 MAIN ST",
+    "address": "3614 FOREST GLEN DR",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -49,18 +49,18 @@ export const alaskaChurches: Church[] = [
     "longitude": -153.603,
     "phone": "(907) 414-1402",
     "website": "https://earthlink.net",
-    "pastor": "JACOB GERASIMOF",
+    "pastor": "SS 10,SM 11,SN 130,W 7 SOULWINNING, INTERNET, PRISON, PROPHETS CHAMBER",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JACOB GERASIMOF. PO BOX 45 100 MAIN ST KING COVE AK 99612 SM 11,SN 7,W 7 YOUTH,CHILDREN,LADIES,MEN KJB, VBC COLLEGE 3614 FOREST GLEN DR SS 10,SM 11,SN 130,W 7 SOULWINNING, INTERNET, PRISON, PROPHETS CHAMBER"
+    "description": "PO BOX 45 KING COVE AK 99612 SM 11,SN 7,W 7 YOUTH,CHILDREN,LADIES,MEN KJB, VBC COLLEGE SS 10,SM 11,SN 130,W 7 SOULWINNING, INTERNET, PRISON, PROPHETS CHAMBER"
   },
   {
     "id": "4",
     "name": "GREATLAND BAPTIST CHURCH",
-    "address": "",
+    "address": "1648 DELTA JUNCT",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -73,7 +73,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RONALD ROBINSON. PO BOX 1648 DELTA JUNCTION AK 99737 SS 10,SM 11,SN 6,W 7 KJB, HYLES, RUCKMAN"
+    "description": "PO BOX ION AK 99737 SS 10,SM 11,SN 6,W 7 KJB, HYLES, RUCKMAN"
   },
   {
     "id": "5",
@@ -91,7 +91,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 74521 2755 PHILIPS FIELD RD FAIRBANKS AK 99707 SS 10,SM 11,SN 630,W 7"
+    "description": "PO BOX 74521 FAIRBANKS AK 99707 SS 10,SM 11,SN 630,W 7"
   },
   {
     "id": "6",
@@ -111,12 +111,12 @@ export const alaskaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GREG CLARK. KJB, HYLES 3800 W 80TH ANCHORAGE AK 99501 SS 10,SM 11,SN 7,W 7 MP3 AUDIO SERMONS ONLINE SOULWINNING, REFORMERS UNANIMOUS, SPANISH, FAITH PROMISE MISSIONS, CHOIR KJB,UNAFFILIATED"
+    "description": "KJB, HYLES 3800 W 80TH ANCHORAGE AK 99501 SS 10,SM 11,SN 7,W 7 MP3 AUDIO SERMONS ONLINE SOULWINNING, REFORMERS UNANIMOUS, SPANISH, FAITH PROMISE MISSIONS, CHOIR KJB,UNAFFILIATED"
   },
   {
     "id": "7",
     "name": "WAINWRIGHT BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 167",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -129,7 +129,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by UNGRY EX-NAVY. PO BOX 167 WAINWRIGHT AK 99782 SM 11, SN 7, W7, W TEEN TIME 830"
+    "description": "WAINWRIGHT AK 99782 SM 11, SN 7, W7, W TEEN TIME 830"
   },
   {
     "id": "8",
@@ -147,7 +147,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 89 2401 CEKIN CT KASILOF AK 99610 SS 930,SM 1030,SN 130,W 7"
+    "description": "PO BOX 89 KASILOF AK 99610 SS 930,SM 1030,SN 130,W 7"
   },
   {
     "id": "9",
@@ -165,7 +165,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD D ENSLEY JR. LOCATED AT 111.5 ON THE STERLING HWY IN KASILOF KJB,BIMI MISSIONARY,FBF"
+    "description": "KJB,BIMI MISSIONARY,FBF"
   },
   {
     "id": "10",
@@ -183,12 +183,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARYLL SERINO. PO BOX 356 116 TANNER CRAB CT CRAIG AK 99921 SS 10,SM 11,SE 130,W 630 KJB church."
+    "description": "PO BOX 356 CRAIG AK 99921 SS 10,SM 11,SE 130,W 630 KJB church"
   },
   {
     "id": "11",
     "name": "CALVARY BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 924",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -201,12 +201,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM UNGRY. PO BOX 924 BARROW AK 99723 SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "BARROW AK 99723 SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "12",
     "name": "KOTZEBUE BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 491",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -219,7 +219,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK SERINO. PO BOX 491 KOTZEBUE AK 99752 KJB,GIPP"
+    "description": "KOTZEBUE AK 99752 KJB,GIPP"
   },
   {
     "id": "13",
@@ -237,12 +237,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR STAN TUCKER. PO BOX 203 1446 IPIUTAAQ ST POINT HOPE AK 99768 KJB church."
+    "description": "PO BOX 203 POINT HOPE AK 99768 KJB church"
   },
   {
     "id": "14",
     "name": "PILGRIMS BAPTIST CHURCH",
-    "address": "",
+    "address": "7 FT RICHARD",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -256,7 +256,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by RUSSELL POSEY. BOX 872133 WASILLA AK 99687 SS 10,SM 11,SN 6,W 7 FT RICHARDSON, ELMONDORF KJB church."
+    "description": "BOX 872133 WASILLA AK 99687 SS 10,SM 11,SN 6,W SON, ELMONDORF KJB church"
   },
   {
     "id": "15",
@@ -274,12 +274,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE HUGHES. MILE 1 EDGERTON HWY HC60 BOX 211 COPPER CENTER AK 99573 SS 10,SM 11,W 7 KJB church."
+    "description": "MILE 1 EDGERTON HWY HC60 BOX 211 COPPER CENTER AK 99573 SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "16",
     "name": "CHUGIAK INDEPENDENT BAPTIST CHURCH",
-    "address": "24007 SKI RD",
+    "address": "PO BOX 771798",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "24007",
@@ -293,7 +293,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NILS DEGERLUND. PO BOX 771798 24007 SKI RD CHUGIAK AK 99577 SS 10,SM 11,SN 145,W 7 KJB church."
+    "description": "PO BOX 7 SKI RD CHUGIAK AK 99577 SS 10,SM 11,SN 145,W 7 KJB church"
   },
   {
     "id": "17",
@@ -311,7 +311,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE HANSON. PO BOX 58074 FAIRBANKS AK 99711 834 FAULTLINE AVE NORTH POLE AK 99705 SS 945,SM 11,SN 6,W 7 EIELSON AFB,FT WAINWRIGHT,FT GREELY KJB church."
+    "description": "PO BOX 58074 FAIRBANKS AK 99711 NORTH POLE AK 99705 SS 945,SM 11,SN 6,W 7 EIELSON AFB,FT WAINWRIGHT,FT GREELY KJB church"
   },
   {
     "id": "18",
@@ -329,7 +329,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES ENGLAND. 810 LINCOLN ST SITKA AK 99835 AUDIO SERMONS ONLINE KJB,MBBC"
+    "description": "SITKA AK 99835 AUDIO SERMONS ONLINE KJB,MBBC"
   },
   {
     "id": "19",
@@ -349,7 +349,7 @@ export const alaskaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by TERRY MCGOVERN. 7747 E 6TH AVE ANCHORAGE AK 99504-1943 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE BIBLE CAMPS,CHURCH PLANTING FORT RICHARDSON 1M,ELMENDORF 1/2 M KJB, UNAFFILIATED"
+    "description": "ANCHORAGE AK 99504-1943 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE BIBLE CAMPS,CHURCH PLANTING FORT RICHARDSON 1M,ELMENDORF 1/2 M KJB, UNAFFILIATED"
   },
   {
     "id": "20",
@@ -367,7 +367,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "1801 E 68TH AVE ANCHORAGE AK 99507 SS 10, SM 11, SN 5, W 7 AUDIO SERMONS ONLINE Independent church."
+    "description": "ANCHORAGE AK 99507 SS 10, SM 11, SN 5, W 7 AUDIO SERMONS ONLINE Independent church"
   },
   {
     "id": "21",
@@ -386,7 +386,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NICK MORLET. HIS SERVANTS BIBLE CAMP, JAIL AND PRISON, BUS, DEAF, VA, RADIO 15 MINUTES FROM JOINT BASE ELMENDORF RICHARDSON (JBER) KJB church."
+    "description": "HIS SERVANTS BIBLE CAMP, JAIL AND PRISON, BUS, DEAF, VA, RADIO KJB church"
   },
   {
     "id": "22",
@@ -404,7 +404,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JODY SLEPPY. 3340 RASPBERRY RD ANCHORAGE AK 99514 SM-SS 9,SM-SS 1030,FRI 7 ELMENDORF KJB church."
+    "description": "ANCHORAGE AK 99514 SM-SS 9,SM-SS 1030,FRI 7 ELMENDORF KJB church"
   },
   {
     "id": "23",
@@ -424,7 +424,7 @@ export const alaskaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DOUG SHOULTZ. 421 RIDGECREST DR BETHEL AK 99559 KJB,BBFI"
+    "description": "BETHEL AK 99559 KJB,BBFI"
   },
   {
     "id": "24",
@@ -443,7 +443,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEITH GARNER. PO BOX 855 538 CHURCH ST WRANGELL AK 99929-0855 KJB,UNAFFILIATED"
+    "description": "PO BOX 855 WRANGELL AK 99929-0855 KJB,UNAFFILIATED"
   },
   {
     "id": "25",
@@ -456,13 +456,13 @@ export const alaskaChurches: Church[] = [
     "longitude": -152.3966,
     "phone": "(907) 688-9477",
     "website": "http://www.biblebaptistchugiak.org",
-    "pastor": "RAY BOUTWELL",
+    "pastor": "CHUGIAK AK 99567 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE, CHURCH APP, MP3 AUDIO SERMONS, LIVE STREAM 20 MIN FROM JOINT BASE ELMENDORF-RICHARDSON KJB BBF",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RAY BOUTWELL. PO BOX 670332 22662 SAMPSON DR CHUGIAK AK 99567 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE, CHURCH APP, MP3 AUDIO SERMONS, LIVE STREAM 20 MIN FROM JOINT BASE ELMENDORF-RICHARDSON KJB BBF"
+    "description": "PO BOX 2 SAMPSON DR CHUGIAK AK 99567 SS 10,SM 11,SN 6,W 7 PATCH THE PIRATE, CHURCH APP, MP3 AUDIO SERMONS, LIVE STREAM 20 MIN FROM JOINT BASE ELMENDORF-RICHARDSON KJB BBF"
   },
   {
     "id": "26",
@@ -480,7 +480,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM CRATTY. PO BOX 1049 39030 KALIFORNSKY BEACH RD KENAI AK 99611 SS 10,SM 11,SN 5,W 7 MP3 AUDIO SERMONS ONLINE, REFORMERS UNANIMOUS BIBLE INSTITUTE WINGS CHRISTIAN ACADEMY,SCHL OF TOMM KJB,UNAFFLIATED"
+    "description": "PO BOX 1049 KENAI AK 99611 SS 10,SM 11,SN 5,W 7 MP3 AUDIO SERMONS ONLINE, REFORMERS UNANIMOUS BIBLE INSTITUTE WINGS CHRISTIAN ACADEMY,SCHL OF TOMM KJB,UNAFFLIATED"
   },
   {
     "id": "27",
@@ -498,7 +498,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 3665 1110 BARANOT ST KODIAK AK 99615"
+    "description": "PO BOX 3665 KODIAK AK 99615"
   },
   {
     "id": "28",
@@ -516,7 +516,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON HAMMAN. 1010 BARANOF SS 10,SN 11,SN 630,W 630 SPANISH,YOUTH,LADIES KODIAK USCG 7 MILES KJB church."
+    "description": "1010 BARANOF SS 10,SN 11,SN 630,W 630 SPANISH,YOUTH,LADIES KODIAK USCG 7 MILES KJB church"
   },
   {
     "id": "29",
@@ -536,12 +536,12 @@ export const alaskaChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by STEVE CARDIN. 711 E PARKS HWY WASILLA AK 99654 KJB, BBF"
+    "description": "711 E PARKS HWY WASILLA AK 99654 KJB, BBF"
   },
   {
     "id": "30",
     "name": "MANNA INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO  BOX  1048",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -556,7 +556,7 @@ export const alaskaChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by MICHAEL HULL. PO  BOX  1048 10151  PALMER/WASILLA HWY, MILE 2.4 PALMER  AK  99645 SS  10, SM  11,SN  530,W  7 KJB church."
+    "description": "10151 PALMER/WASILLA HWY, MILE 2.4 PALMER AK 99645 SS 10, SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "31",
@@ -574,7 +574,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG FERRETT. PO BOX 41 1600 N DOUBLE B ST PALMER AK 99645 MILE 5, PALMER WASILLA HWY SS 945,SM 11,SN 530,W 7 KINGS KIDS, YOUTH DEPT VALLEY CHRISTIAN SCHOOL; K-12 BOB JONES CURR. FAITH BIBLE INSTITUTE; 3 YR PROGRAM KJB church."
+    "description": "PO BOX 41 PALMER AK 99645 MILE 5, PALMER WASILLA HWY SS 945,SM 11,SN 530,W 7 KINGS KIDS, YOUTH DEPT VALLEY CHRISTIAN SCHOOL; K-12 BOB JONES CURR. FAITH BIBLE INSTITUTE; 3 YR PROGRAM KJB church"
   },
   {
     "id": "32",
@@ -593,7 +593,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KELLY  CINERESKI. 2.5 MILE BIG LAKE RD BIG LAKE AK 99652 SS 10,SM 11,SN 6,W 7 RICHARDSON AFB,ELMONDORF AFB KJB church."
+    "description": "BIG LAKE AK 99652 SS 10,SM 11,SN 6,W 7 RICHARDSON AFB,ELMONDORF AFB KJB church"
   },
   {
     "id": "33",
@@ -611,7 +611,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG DUFFETT. PO BOX 2706 MILE 5 1/2 SEWARD AK 99664 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE ARMY AND AIRFORCE REC CAMPS KJB (AFFILIATIONS: ALL WHO LOVE THE SAVIOUR & THE BOOK) 32 ADAK AVE FAIRBANKS AK 99701"
+    "description": "PO BOX 2706 MILE 5 1/2 SEWARD AK 99664 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE ARMY AND AIRFORCE REC CAMPS KJB (AFFILIATIONS: ALL WHO LOVE THE SAVIOUR & THE BOOK) FAIRBANKS AK 99701"
   },
   {
     "id": "34",
@@ -629,7 +629,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON DEMLOW. BIBLE INSTITUTE EIELSON AFB,FT WAINWRIGHT,FT GREELY KJB church."
+    "description": "BIBLE INSTITUTE EIELSON AFB,FT WAINWRIGHT,FT GREELY KJB church"
   },
   {
     "id": "35",
@@ -647,12 +647,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN CLUM. 1997 WATHENA CIR NORTH POLE AK 99705 SS 945,SM 11,SN 115,W 730 MP3 AUDIO SERMONS ONLINE 10021 E EAGLE RIVER LOOP EAGLE RIVER AK 99577 SS 945,SM 11,SN 6,W 6 ACROSS EAGLE RIVER LOOP FROM WALMART KJB church."
+    "description": "NORTH POLE AK 99705 SS 945,SM 11,SN 115,W 730 MP3 AUDIO SERMONS ONLINE 10021 E EAGLE RIVER LOOP EAGLE RIVER AK 99577 SS 945,SM 11,SN 6,W 6 ACROSS EAGLE RIVER LOOP FROM WALMART KJB church"
   },
   {
     "id": "36",
     "name": "COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 970",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -665,7 +665,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN GLASS. PO BOX 970 DILLINGHAM AK 99576 KJB church."
+    "description": "DILLINGHAM AK 99576 KJB church"
   },
   {
     "id": "37",
@@ -683,7 +683,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN BIGELOW. 1100 MCGRATH RD FAIRBANKS AK 99712-1272 SS 945,SM 11,SN 6,W 7 MP3 & TEXT SERMONS ONLINE EIELSON AFB,FT WAINWRIGHT,FT GREELY KJB,BAP. MID MISSIONS, MISSIONARY PASTOR"
+    "description": "FAIRBANKS AK 99712-1272 SS 945,SM 11,SN 6,W 7 MP3 & TEXT SERMONS ONLINE EIELSON AFB,FT WAINWRIGHT,FT GREELY KJB,BAP. MID MISSIONS, MISSIONARY PASTOR"
   },
   {
     "id": "38",
@@ -701,12 +701,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE MISHLER. PO BOX 32897 8493 FOREST LANE JUNEAU AK 99803 SS 930,SM 1030,SN 6,W 7 YOUTH,TEEN,NURSING 7TH COAST GUARD DISTRICT JUNEAU USCG BOX 33222 JUNEAU AK 99803 CURRENTLY MEETING @ THUNDER MOUNTAIN HIGH SCHOOL KJB church."
+    "description": "PO BOX 32897 JUNEAU AK 99803 SS 930,SM 1030,SN 6,W 7 YOUTH,TEEN,NURSING 7TH COAST GUARD DISTRICT JUNEAU USCG BOX 33222 JUNEAU AK 99803 CURRENTLY MEETING @ THUNDER MOUNTAIN HIGH SCHOOL KJB church"
   },
   {
     "id": "39",
     "name": "GATEWAY BAPTIST CHURCH",
-    "address": "",
+    "address": "630 GOOD NEWS CLUBS GATEWAY CHRIST",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -719,7 +719,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KIT PHERSON. 3764 DENALI KETCHIKAN AK 99901 SS 945,SM 11,SN 6,W 630 GOOD NEWS CLUBS GATEWAY CHRISTIAN SCHOOL K-12 & NOAHS ARK DAYCARE MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "3764 DENALI KETCHIKAN AK 99901 SS 945,SM 11,SN 6,W IAN SCHOOL K-12 & NOAHS ARK DAYCARE MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "40",
@@ -737,7 +737,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WES HUDSON. PO BOX 39509 15835 KINGSLEY RD NINILCHIK AK 99639 KJB,UNAFFLIATED"
+    "description": "PO BOX 39509 NINILCHIK AK 99639 KJB,UNAFFLIATED"
   },
   {
     "id": "41",
@@ -755,12 +755,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "BOX 363 MI 3 5 TALKEETNA SPUR HWY TALKEETNA AK 99676-0363 KJB church."
+    "description": "BOX 363 MI 3 5 TALKEETNA SPUR HWY TALKEETNA AK 99676-0363 KJB church"
   },
   {
     "id": "42",
     "name": "BROOKSIDE BAPTIST CHURCH",
-    "address": "401 MAIN ST",
+    "address": "99923 near STEWARD",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -773,7 +773,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ARON M SCHREPFER. PO BOX 70 401 MAIN ST HYDER AK  99923 near STEWARD, BRITISH COLOMBIA, CANADA KJB church."
+    "description": "PO BOX 70 HYDER AK , BRITISH COLOMBIA, CANADA KJB church"
   },
   {
     "id": "43",
@@ -791,12 +791,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ROYCE L MCCOY. 4355 S OLD GLENN HWY PALMER AK 99645 SS 945,SM 11,SN 6,W 7 ELMENDORF"
+    "description": "4355 S OLD GLENN HWY PALMER AK 99645 SS 945,SM 11,SN 6,W 7 ELMENDORF"
   },
   {
     "id": "44",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "103 E 1ST ST",
+    "address": "7 MISSIONARY PAST",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -809,12 +809,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by TERRY O. PO BOX 7113 51235 KENAI SPUR HWY NIKISKI, AK 99635 103 E 1ST ST NOME AK 99762 SS 10,SM 11,SN 6,W 7 MISSIONARY PASTOR BBF church."
+    "description": "PO BOX 7113 51235 KENAI SPUR HWY NIKISKI, AK 99635 103 E 1ST ST NOME AK 99762 SS 10,SM 11,SN 6,W OR BBF church"
   },
   {
     "id": "45",
     "name": "BIRCH HARBOR BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 877214",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -827,7 +827,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by W L TULLOS. PO BOX 877214 WASILLA AK 99687 BBF,TULIP-S.GRACE"
+    "description": "WASILLA AK 99687 BBF,TULIP-S.GRACE"
   },
   {
     "id": "46",
@@ -845,7 +845,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN BURTCH. 4001 E 5TH AVE ANCHORAGE AK 99508 SS 945,SM 11,SN 6,W 730 ELMENDORF NOT KJV ONLY,NORTHLAND,MBBC,FBF 855 S TRUNK RD PALMER AK 99645 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, MP3 AUDIO SERMONS ONLINE ELMENDORF KJB church."
+    "description": "ANCHORAGE AK 99508 SS 945,SM 11,SN 6,W 730 ELMENDORF NOT KJV ONLY,NORTHLAND,MBBC,FBF 855 S TRUNK RD PALMER AK 99645 SS 10,SM 11,SN 6,W 7 PATCH PIRATE, MP3 AUDIO SERMONS ONLINE ELMENDORF KJB church"
   },
   {
     "id": "47",
@@ -864,7 +864,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR JERRY PREVO. 3616 DIMOND BLVD ANCHORAGE AK 99515 SS 945,SM 11,SN 6,W 7 ELMENDORF NOT KJV ONLY,BBF KJB church."
+    "description": "ANCHORAGE AK 99515 SS 945,SM 11,SN 6,W 7 ELMENDORF NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "48",
@@ -882,7 +882,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRUCE HAMILTON. 6401 E NORTHERN LIGHTS BLVD ANCHORAGE AK 99504-3399 KTAB 89.3 FM,KCFT TV SS 10,SM 11,SN 6,W 7:30 SINGLES,BUS,MARRIED CHRISTIAN SCHOOL,K-12 ELMENDORF AFB,FORT RICHARDSON NOT KJV ONLY, FBF, BJU KJB church."
+    "description": "ANCHORAGE AK 99504-3399 KTAB 89.3 FM,KCFT TV SS 10,SM 11,SN 6,W 7:30 SINGLES,BUS,MARRIED CHRISTIAN SCHOOL,K-12 ELMENDORF AFB,FORT RICHARDSON NOT KJV ONLY, FBF, BJU KJB church"
   },
   {
     "id": "49",
@@ -900,12 +900,12 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by RICHARD. 138 FAREWELL AVE FAIRBANKS AK 99701-3624 K-1 BEKA, 2-12 ACE MP3 AUDIO SERMONS ONLINE EIELSON AFB,FT WAINWRIGHT,FT GREELY NIV,PIEDMONT-BC Non-KJV church."
+    "description": "FAIRBANKS AK 99701-3624 K-1 BEKA, 2-12 ACE MP3 AUDIO SERMONS ONLINE EIELSON AFB,FT WAINWRIGHT,FT GREELY NIV,PIEDMONT-BC Non-KJV church"
   },
   {
     "id": "50",
     "name": "GLACIER VIEW BAPTIST CHURCH",
-    "address": "960 EAST RD",
+    "address": "960 EAST RD PREACH KJV BUT ST",
     "city": "Juneau",
     "state": "AK",
     "zipCode": "",
@@ -918,7 +918,7 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM TIFFNER. BOX 2840 960 EAST RD PREACH KJV BUT STUDY OTHERS,BJU,FBF,IBF, GFA KJB church."
+    "description": "BOX 2840 UDY OTHERS,BJU,FBF,IBF, GFA KJB church"
   },
   {
     "id": "51",
@@ -939,7 +939,7 @@ export const alaskaChurches: Church[] = [
       "ABA",
       "SBC"
     ],
-    "description": "Led by BRIAN ROLSTON. 223 E REDOUBT AVE SOLDOTNA AK 99669-8018 SS 945,SM 1050,SN 6,W 7 KJV,NKJV KJB church."
+    "description": "SOLDOTNA AK 99669-8018 SS 945,SM 1050,SN 6,W 7 KJV,NKJV KJB church"
   },
   {
     "id": "52",
@@ -958,7 +958,7 @@ export const alaskaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by TIM WEEKLEY. BOX 670884 21308 OLD GLENN HWY PETERS CREEK AK 99567-0884 CHUGIAK SS 945,SM 11,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "BOX 8 OLD GLENN HWY PETERS CREEK AK 99567-0884 CHUGIAK SS 945,SM 11,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "53",
@@ -971,12 +971,12 @@ export const alaskaChurches: Church[] = [
     "longitude": -150.8123,
     "phone": "(907) 262-4711",
     "website": "http://www.sterlingbaptist.org",
-    "pastor": "DAN WALSH",
+    "pastor": "EAGLE RIVER AK 99577 ELMENDORF Non-KJV church",
     "category": "Non-KJV",
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by DAN WALSH. HC01 BOX 3500 STERLING AK 99672 MP3 AUDIO SERMONS ONLINE NASB,MASTERS SEMINARY & COLLEGE CHURCH IN THE WILDWOOD PO BOX 772764 16832 HANSON DR EAGLE RIVER AK 99577 ELMENDORF Non-KJV church."
+    "description": "HC01 BOX 3500 STERLING AK 99672 MP3 AUDIO SERMONS ONLINE NASB,MASTERS SEMINARY & COLLEGE CHURCH IN THE WILDWOOD PO BOX 2 HANSON DR EAGLE RIVER AK 99577 ELMENDORF Non-KJV church"
   },
   {
     "id": "54",
@@ -994,6 +994,6 @@ export const alaskaChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Independent church."
+    "description": "Independent church"
   }
 ];

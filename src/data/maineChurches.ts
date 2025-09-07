@@ -18,7 +18,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOSHUA VAN TRUMP. PO BOX 3023 AUBURN ME 04212 PHYSICAL ADDRESS 775 WASHINGTON ST NORTH AUBURN ME 04210 SS 930,SM 1030,SN 6,W 630 VANS, MASTER CLUBS, SOULWINNING, CD, AUDIO SERMONS KJB church."
+    "description": "PO BOX 3023 AUBURN ME 04212 PHYSICAL ADDRESS AUBURN ME 04210 SS 930,SM 1030,SN 6,W 630 VANS, MASTER CLUBS, SOULWINNING, CD, AUDIO SERMONS KJB church"
   },
   {
     "id": "1954",
@@ -36,7 +36,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AMOS CHRISTIANSEN. 5 SHORT ST CARIBOU ME 04736 KJB church."
+    "description": "CARIBOU ME 04736 KJB church"
   },
   {
     "id": "1955",
@@ -54,7 +54,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY HORTON. 77 CLINTON AVE BLDG 4 WINSLOW ME 04901 SM 11,SN 5,W 7 KJB church."
+    "description": "WINSLOW ME 04901 SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "1956",
@@ -73,12 +73,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN ROBBINS. 985 UNION ST BANGOR ME 04401 SS 930, SM 1030, SN 6, W 630 KJB, UNAFFILIATED"
+    "description": "BANGOR ME 04401 SS 930, SM 1030, SN 6, W 630 KJB, UNAFFILIATED"
   },
   {
     "id": "1957",
     "name": "HARBOR BAPTIST CHURCH",
-    "address": "209 LINCOLN ST",
+    "address": "209 LINCOLN ST LEWIST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -91,7 +91,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "MEETING IN THE LUNCHROOM OF HOPE HAVEN GOSPEL MISSION 209 LINCOLN ST LEWISTON ME 04240 SM 1030, SN 630, TH 630"
+    "description": "MEETING IN THE LUNCHROOM OF HOPE HAVEN GOSPEL MISSION ON ME 04240 SM 1030, SN 630, TH 630"
   },
   {
     "id": "1958",
@@ -109,12 +109,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE GRUBBS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "1959",
     "name": "GOSPEL LIGHT BAPTIST CHURCH",
-    "address": "268 BARKER RD",
+    "address": "268 BARKER RD NEW VINEYARD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -127,7 +127,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHUCK BARNES SR. 268 BARKER RD NEW VINEYARD ME 04956 SM 930,SN 630,W KJB church."
+    "description": "ME 04956 SM 930,SN 630,W KJB church"
   },
   {
     "id": "1960",
@@ -145,12 +145,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BROOKS SUTTLE. 1285 TREMONT RD TREMONT ME 04674 near BAR HARBOR on MT DESERT ISLAND KJB church."
+    "description": "TREMONT ME 04674 near BAR HARBOR on MT DESERT ISLAND KJB church"
   },
   {
     "id": "1961",
     "name": "ROYAL RIVER BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1343",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -163,7 +163,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BILL SCHOPPE. PO BOX 1343 438 US ROUTE 1 YARMOUTH ME 04096 SM 10,SN 5,W 630 KJB, CROWN"
+    "description": "438 US ROUTE 1 YARMOUTH ME 04096 SM 10,SN 5,W 630 KJB, CROWN"
   },
   {
     "id": "1962",
@@ -181,7 +181,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MITCH BICKFORD. PO BOX 81 110 PENDLETON POINT RD ISLEBORO ME 08480 KJB church."
+    "description": "PO BOX 81 ISLEBORO ME 08480 KJB church"
   },
   {
     "id": "1963",
@@ -199,7 +199,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2870 LEE RD LEE ME 04455"
+    "description": "LEE ME 04455"
   },
   {
     "id": "1964",
@@ -218,7 +218,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM GAPSKI. SS 930,SM 1030,SN 6,W 6 KJB, UNAFFILIATED"
+    "description": "SS 930,SM 1030,SN 6,W 6 KJB, UNAFFILIATED"
   },
   {
     "id": "1965",
@@ -237,7 +237,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID W BOWMAN. 143 BEECHNUT HILL RD WISCASSET ME 04578 SS 930,SM 1045,SN 6,W 7 SUNDAY SCHOOL, TEEN, JR CHURCH, NURSERY; WISCASSET CHRISTIAN ACADEMY,K1-12,AACS KJB, UNAFFILIATED"
+    "description": "WISCASSET ME 04578 SS 930,SM 1045,SN 6,W 7 SUNDAY SCHOOL, TEEN, JR CHURCH, NURSERY; WISCASSET CHRISTIAN ACADEMY,K1-12,AACS KJB, UNAFFILIATED"
   },
   {
     "id": "1966",
@@ -255,7 +255,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 119 395 MAIN ST JACKMAN ME 04945"
+    "description": "PO BOX 119 JACKMAN ME 04945"
   },
   {
     "id": "1967",
@@ -274,7 +274,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM ANDREWS. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "1968",
@@ -293,7 +293,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRIAN MCCARTHY. PO BOX 8464 BANGOR ME 04402 QUALITY INN CONFERENCE ROOM 750 HOGAN RD IN BANGOR SS 10,SM 11,SN 6,W 630 249 VILLAGE RD STETSON ME 04488 KJB, UNAFFILIATED"
+    "description": "PO BOX 8464 BANGOR ME 04402 QUALITY INN CONFERENCE ROOM SS 10,SM 11,SN 6,W 630 249 VILLAGE RD STETSON ME 04488 KJB, UNAFFILIATED"
   },
   {
     "id": "1969",
@@ -311,7 +311,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD COLBURN. 112 CHURCH ST BRYANT POND ME 04219 SS 915,SM 1030, SN 6,W 630 KJB church."
+    "description": "BRYANT POND ME 04219 SS 915,SM 1030, SN 6,W 630 KJB church"
   },
   {
     "id": "1970",
@@ -331,12 +331,12 @@ export const maineChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by GREG HEWITT. 2895 BURKETVILLE RD LIBERTY ME 04949 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER; CHRISTIAN SCHOOL KJB, UNAFFILIATED (BAPTIST DOCTRINE)"
+    "description": "LIBERTY ME 04949 SS 930,SM 1030,SN 6,W 7 PROPHETS CHAMBER; CHRISTIAN SCHOOL KJB, UNAFFILIATED (BAPTIST DOCTRINE)"
   },
   {
     "id": "1971",
     "name": "STEUBEN UNION CHURCH",
-    "address": "",
+    "address": "4 TOWNSLEY SQUARE ST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -350,7 +350,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICHARD AZUD. 4 TOWNSLEY SQUARE STEUBEN ME 04680 SS 915, SM 1030, SN 6, W 6 KJB, UNAFFILIATED"
+    "description": "EUBEN ME 04680 SS 915, SM 1030, SN 6, W 6 KJB, UNAFFILIATED"
   },
   {
     "id": "1972",
@@ -369,7 +369,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CHRIS GRIMBILAS. 475 BARTERS ISLAND RD TREVETT ME 04571 SS 10, SM 11, SN 130 W 7 BOOTHBAY HARBOR AREA UNAFFILIATED, KJB"
+    "description": "TREVETT ME 04571 SS 10, SM 11, SN 130 W 7 BOOTHBAY HARBOR AREA UNAFFILIATED, KJB"
   },
   {
     "id": "1973",
@@ -388,7 +388,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARY HARVEY SR. 66 HYDE RD JAY ME 04239 SS 930, SM 1030, SN 6, W 630 KJB,UNAFFILIATED"
+    "description": "JAY ME 04239 SS 930, SM 1030, SN 6, W 630 KJB,UNAFFILIATED"
   },
   {
     "id": "1974",
@@ -406,7 +406,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE HERSEY. PO BOX 773 GARDINER ME 04345 28 TOGS RD CHELSEA ME 04330 SM 11, SN 1 DINNER ON THE GROUNDS AT NOON PO BOX 1 ELLSWORTH ME 04605 968 US HWY 1 HANCOCK ME 04640 SS 930,SM 1030,SN 1,W 630 KINGS KIDS KJB church."
+    "description": "PO BOX 773 GARDINER ME 04345 CHELSEA ME 04330 SM 11, SN 1 DINNER ON THE GROUNDS AT NOON PO BOX 1 ELLSWORTH ME 04605 968 US HWY 1 HANCOCK ME 04640 SS 930,SM 1030,SN 1,W 630 KINGS KIDS KJB church"
   },
   {
     "id": "1975",
@@ -424,7 +424,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE CONLEY. 154 AUGUSTA RD JEFFERSON ME 04348 SS 930,SM 1030,SN 1,W 7 AUDIO SERMONS KJB church."
+    "description": "JEFFERSON ME 04348 SS 930,SM 1030,SN 1,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1976",
@@ -442,12 +442,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN PELKEY. 19 WASHBURN LN SKOWHEGAN ME 04976 SS 945,SM 1045 PO BOX 236 669 ALBION RD UNITY ME 04988 SS 930,SM 1030,SN 1,W 7 AUDIO SERMONS KJB church."
+    "description": "SKOWHEGAN ME 04976 SS 945,SM 1045 PO BOX 236 669 ALBION RD UNITY ME 04988 SS 930,SM 1030,SN 1,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1977",
     "name": "NORTH BALDWIN BAPTIST CHURCH",
-    "address": "113 CRAMS HILL RD",
+    "address": "113 CRAMS HILL RD EAST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -460,7 +460,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "113 CRAMS HILL RD EAST BALDWIN ME 04024"
+    "description": "BALDWIN ME 04024"
   },
   {
     "id": "1978",
@@ -473,17 +473,17 @@ export const maineChurches: Church[] = [
     "longitude": -69.7356,
     "phone": "",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "SM 1030, NEEDS PASTOR KJB church."
+    "description": "SM 1030, NEEDS"
   },
   {
     "id": "1979",
     "name": "CALVARY BIBLE CHURCH",
-    "address": "37 PARK ST",
+    "address": "37 PARK ST ST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -491,12 +491,12 @@ export const maineChurches: Church[] = [
     "longitude": -68.8277,
     "phone": "(207) 246-4652",
     "website": "http://cbcstratton.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 222 37 PARK ST STRATTON ME 04982 SS 945,SM 11,SN 130,W 7 AUDIO SERMONS PASTOR KJB church."
+    "description": "PO BOX 222 RATTON ME 04982 SS 945,SM 11,SN 130,W 7 AUDIO SERMONS"
   },
   {
     "id": "1980",
@@ -514,7 +514,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "17 WEBBS MILLS RD CASCO ME 04015"
+    "description": "CASCO ME 04015"
   },
   {
     "id": "1981",
@@ -527,12 +527,12 @@ export const maineChurches: Church[] = [
     "longitude": -68.0204,
     "phone": "",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PASTOR KJB church."
+    "description": ""
   },
   {
     "id": "1982",
@@ -550,12 +550,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK HAYMAN. 58 UNION ST PASSADUMKEAG ME 04474 SS 945,SM 1030,SN 6,W 630 KJB church."
+    "description": "PASSADUMKEAG ME 04474 SS 945,SM 1030,SN 6,W 630 KJB church"
   },
   {
     "id": "1983",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "35 WESTON AVE",
+    "address": "43 WASHINGTON ST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -563,12 +563,12 @@ export const maineChurches: Church[] = [
     "longitude": -68.1022,
     "phone": "(207) 696-7027",
     "website": "https://gmail.com",
-    "pastor": "JONATHAN CASE",
+    "pastor": "398 PARIS HILL RD SOUTH PARIS ME 04281 SS 930,SM 1030,SN 630,W 630 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN CASE. 35 WESTON AVE MADISON ME 04950 SS 930,SM 1045,W 6 43 WASHINGTON ST N AUBURN ME 04210 PASTOR 398 PARIS HILL RD SOUTH PARIS ME 04281 SS 930,SM 1030,SN 630,W 630 KJB church."
+    "description": "MADISON ME 04950 SS 930,SM 1045,W 6 N AUBURN ME 04210"
   },
   {
     "id": "1984",
@@ -586,12 +586,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON PELKEY. 752 BEECH HILL RD AUBURN ME 04210 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "AUBURN ME 04210 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "1985",
     "name": "CORNERSTONE BIBLE BAPTIST CHURCH",
-    "address": "569 N SEARSPORT AVE",
+    "address": "569 N SEARSPORT AVE PROSPECT",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -604,7 +604,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PERRY JONES JR. 569 N SEARSPORT AVE PROSPECT ME 04981 SS 10,SM 11,SN 3,W 7 KJB church."
+    "description": "ME 04981 SS 10,SM 11,SN 3,W 7 KJB church"
   },
   {
     "id": "1986",
@@ -622,7 +622,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE CHASSE. 867 CONGRESS ST PORTLAND ME 04102 SS 10, SM 11, SN 6, W 7 BIBLE INSTITUTE KJB church."
+    "description": "PORTLAND ME 04102 SS 10, SM 11, SN 6, W 7 BIBLE INSTITUTE KJB church"
   },
   {
     "id": "1987",
@@ -635,18 +635,18 @@ export const maineChurches: Church[] = [
     "longitude": -69.4198,
     "phone": "(207) 732-3170",
     "website": "https://howlandbaptist.org",
-    "pastor": "JAMES WILEY",
+    "pastor": "KJB, FUNDAMENTAL 16 COLUMBIA ST LITTLETON ME 04730 PHYSICAL ADD: 1667 US HWY 1 SS 930,SM 1030,SN 5,W 630",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES WILEY. 5 PENOBSCOT AVE HOWLAND ME 04448 SS 915,SM 1030,SN 6,W 630 NEEDS PASTOR KJB, FUNDAMENTAL 16 COLUMBIA ST LITTLETON ME 04730 PHYSICAL ADD: 1667 US HWY 1 SS 930,SM 1030,SN 5,W 630"
+    "description": "HOWLAND ME 04448 SS 915,SM 1030,SN 6,W 630 NEEDS"
   },
   {
     "id": "1988",
     "name": "CHURCH HILL BAPTIST",
-    "address": "258 CHURCH HILL RD",
+    "address": "258 CHURCH HILL RD AUGUST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -660,12 +660,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RANDALL SHERLIN. PO BOX 5190 258 CHURCH HILL RD AUGUSTA ME 04332 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, DISCIPLESHIP, AWANA, TEENS, YOUNG ADULTS KJB church."
+    "description": "PO BOX 5190 A ME 04332 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING, DISCIPLESHIP, AWANA, TEENS, YOUNG ADULTS KJB church"
   },
   {
     "id": "1989",
     "name": "CHESTER BAPTIST CHURCH",
-    "address": "2 S CHESTER RD",
+    "address": "2 S CHESTER RD CHEST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -679,12 +679,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROLAND GAY. 2 S CHESTER RD CHESTER ME 04457 SS 915, SM 1030,SN 6,W 6 KJB, UNAFFILIATED 310 CONANT ST WESTBROOK ME 04098 SM 1030, SN 5, W 7"
+    "description": "ER ME 04457 SS 915, SM 1030,SN 6,W 6 KJB, UNAFFILIATED 310 CONANT ST WESTBROOK ME 04098 SM 1030, SN 5, W 7"
   },
   {
     "id": "1990",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "68 HIGH ST",
+    "address": "68 HIGH ST SANFORD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -698,7 +698,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GREG BREEDEN. 68 HIGH ST SANFORD ME 04073 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "ME 04073 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1991",
@@ -716,7 +716,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE KEE. 41 WHITES BRIDGE RD WINDHAM ME 04062 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "WINDHAM ME 04062 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "1992",
@@ -734,12 +734,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEONARD PAUL SWIHART. 92 BUTLER RD UNION ME 04862 KJB church."
+    "description": "UNION ME 04862 KJB church"
   },
   {
     "id": "1993",
     "name": "WEST HEBRON BAPTIST CHURCH",
-    "address": "153 E HEBRON RD",
+    "address": "04220 PHYSICAL ADDR",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -752,12 +752,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY LINVILLE. PO BOX 83 BUCKFIELD ME 04220 PHYSICAL ADDRESS: 153 E HEBRON RD KJB church."
+    "description": "PO BOX 83 BUCKFIELD ME ESS: 153 E HEBRON RD KJB church"
   },
   {
     "id": "1994",
     "name": "CORINTH BAPTIST CHURCH",
-    "address": "331 MAIN ST",
+    "address": "67 FOSS ST BIDDEFORD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -771,12 +771,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JARRED RARRICK. 331 MAIN ST EAST CORINTH ME 04427 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, HYLES 67 FOSS ST BIDDEFORD ME 04005 SS 930,SM 11,SN 6,W 7 JAIL, MASTER CLUBS, AUDIO SERMONS, 20 MILES USCG GROUP PORTLAND K"
+    "description": "CORINTH ME 04427 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, HYLES ME 04005 SS 930,SM 11,SN 6,W 7 JAIL, MASTER CLUBS, AUDIO SERMONS, 20 MILES USCG GROUP PORTLAND K"
   },
   {
     "id": "1995",
     "name": "AMITY BAPTIST CHURCH",
-    "address": "144 MILLS RD",
+    "address": "144 MILLS RD NEWCAST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -789,12 +789,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE O. 1165 US 1 HOULTON ME 04730 SS 945,SM 11,SN 6,W 7 144 MILLS RD NEWCASTLE ME 04543 SS 10,SM 11,SN 7 FOOD PANTRY, BIBLE INSTITUTE KJB church."
+    "description": "1165 US 1 HOULTON ME 04730 SS 945,SM 11,SN 6,W 7 LE ME 04543 SS 10,SM 11,SN 7 FOOD PANTRY, BIBLE INSTITUTE KJB church"
   },
   {
     "id": "1996",
     "name": "SECOND BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 137",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -807,7 +807,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS GORDON. PO BOX 137 PALERMO ME 04354 SS 10,SM 11,SN 630,W 7 KJB, HYLES"
+    "description": "PALERMO ME 04354 SS 10,SM 11,SN 630,W 7 KJB, HYLES"
   },
   {
     "id": "1997",
@@ -825,7 +825,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS DROULLARD. 559 N MAIN ST BREWER ME 04412 SS 930,SM 1030,SN 6,W 630 KJB, HYLES, FUGATE"
+    "description": "BREWER ME 04412 SS 930,SM 1030,SN 6,W 630 KJB, HYLES, FUGATE"
   },
   {
     "id": "1998",
@@ -845,7 +845,7 @@ export const maineChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by CRAIG COBB. 1170 US RT 202 WINTHROP ME 04364 CH SS 945, SM 11, SN 6, W 7 SOULWINNING, BUS/VAN, COLLEGE & CAREER, AUDIO SERMONS,  YOUTUBE CHANNEL, VICTORY KIDS, DEAF KJB, UNAFFILIATED"
+    "description": "1170 US RT 202 WINTHROP ME 04364 CH SS 945, SM 11, SN 6, W 7 SOULWINNING, BUS/VAN, COLLEGE & CAREER, AUDIO SERMONS, YOUTUBE CHANNEL, VICTORY KIDS, DEAF KJB, UNAFFILIATED"
   },
   {
     "id": "1999",
@@ -863,7 +863,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMIAH CHASSE. 2385 DEXTER RD DOVER-FOXCROFT ME 04426 SM 1030,SN 2,W 630 KING JAMES BIBLE CLUBS K-12 KJB church."
+    "description": "DOVER-FOXCROFT ME 04426 SM 1030,SN 2,W 630 KING JAMES BIBLE CLUBS K-12 KJB church"
   },
   {
     "id": "2000",
@@ -882,7 +882,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOBBY MITCHELL. PO BOX 1043 4 RANDALL COURT HOULTON ME 04730 SS 10, SM 11, SN 6, W 630 KJB,UNAFFILIATED"
+    "description": "PO BOX 1043 HOULTON ME 04730 SS 10, SM 11, SN 6, W 630 KJB,UNAFFILIATED"
   },
   {
     "id": "2001",
@@ -901,12 +901,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID BLAISDELL. 119 BATH RD BRUNSWICK ME 04011 SS 10,SM 11,SN 6,TH 7 SOULWINNING KJB church."
+    "description": "BRUNSWICK ME 04011 SS 10,SM 11,SN 6,TH 7 SOULWINNING KJB church"
   },
   {
     "id": "2002",
     "name": "TRI-TOWN BAPTIST CHURCH",
-    "address": "101 MAIN ST",
+    "address": "101 MAIN ST EAST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -919,12 +919,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM THACKER. PO BOX 427 101 MAIN ST EAST MILLINOCKET ME 04430 SS 930,SM 1030,SN 7,W 7 KJB church."
+    "description": "PO BOX 427 MILLINOCKET ME 04430 SS 930,SM 1030,SN 7,W 7 KJB church"
   },
   {
     "id": "2003",
     "name": "NORWAY BAPTIST CHURCH",
-    "address": "12 COTTAGE ST",
+    "address": "12 COTTAGE ST NORWAY",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -937,7 +937,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN RITCHIE. 12 COTTAGE ST NORWAY ME 04268 SS 930, SM 1045, SN 6 (2 OCT. 31ST-MAR. 31ST.),W 7 KJV,WOL KJB church."
+    "description": "ME 04268 SS 930, SM 1045, SN 6 (2 OCT. 31ST-MAR. 31ST.),W 7 KJV,WOL KJB church"
   },
   {
     "id": "2004",
@@ -956,12 +956,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL LYNN. 8 HEWITT RD COOPERS MILLS ME 04341 SS 930,SM 1045,SN 6 KJB, UNAFFILIATED"
+    "description": "COOPERS MILLS ME 04341 SS 930,SM 1045,SN 6 KJB, UNAFFILIATED"
   },
   {
     "id": "2005",
     "name": "WEST HAMPDEN BAPTIST CHURCH",
-    "address": "574 WESTERN AVE (Rt 202/9)",
+    "address": "7 BANGOR AIR NATIONAL GUARD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -975,12 +975,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROB RICHARDS. PO BOX 398 574 WESTERN AVE (Rt 202/9) HAMPDEN ME 04444 SS 930,SM 1045,SN 6,W 7 BANGOR AIR NATIONAL GUARD 5 MI KJB, BBC-MO, BBFI"
+    "description": "PO BOX 398 HAMPDEN ME 04444 SS 930,SM 1045,SN 6,W 5 MI KJB, BBC-MO, BBFI"
   },
   {
     "id": "2006",
     "name": "FELLOWSHIP BAPTIST CHURCH",
-    "address": "237 EASTERN AVE",
+    "address": "237 EASTERN AVE AUGUST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -993,7 +993,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN MCFARLAND. PO BOX 200 237 EASTERN AVE AUGUSTA ME 04330 SS 945,SM 11,SN 6,W 7 TUE BIBLE STUDY, KEEPERS OF THE FAITH YOUTH CLUBS, MAILBOX CLUB KJB church."
+    "description": "PO BOX 200 A ME 04330 SS 945,SM 11,SN 6,W 7 TUE BIBLE STUDY, KEEPERS OF THE FAITH YOUTH CLUBS, MAILBOX CLUB KJB church"
   },
   {
     "id": "2007",
@@ -1011,12 +1011,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 160 334 REACH RD SEDGWICK ME 04676 SS 9,SM 10,SN 6,W 7 CO-PASTORS GARY WILKINS & BRYAN WILKINS KJB, HYLES"
+    "description": "PO BOX 160 SEDGWICK ME 04676 SS 9,SM 10,SN 6,W 7 CO-PASTORS GARY WILKINS & BRYAN WILKINS KJB, HYLES"
   },
   {
     "id": "2008",
     "name": "STANDISH BAPTIST CHURCH",
-    "address": "",
+    "address": "181 OSSIPEE TRAIL W ST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1029,7 +1029,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETER LEON. PO BOX 129 181 OSSIPEE TRAIL W STANDISH ME 04084 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "PO BOX 129 ANDISH ME 04084 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "2009",
@@ -1047,12 +1047,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA COVEL. 1342 BRANCH RD WELLS ME 04090 SM 930,SS 1045,SN 6,W 7 KJB, HYLES"
+    "description": "WELLS ME 04090 SM 930,SS 1045,SN 6,W 7 KJB, HYLES"
   },
   {
     "id": "2010",
     "name": "SEBEC CORNER BAPTIST CHURCH",
-    "address": "685 MILO RD",
+    "address": "229 CARIBOU RD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1066,12 +1066,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOE MORTLAND. 685 MILO RD SEBEC ME 04481 SS 10,SM 11,SN 6,W 6 KJV, BBF, BJU PO BOX 1576 229 CARIBOU RD PRESQUE ISLE ME 04769 SS 945,SM 1045,SN 630,W 630 NEW LIFE CHRISTIAN SCHOOL,PS-12 KJB, HYLES"
+    "description": "SEBEC ME 04481 SS 10,SM 11,SN 6,W 6 KJV, BBF, BJU PO BOX 1576 PRESQUE ISLE ME 04769 SS 945,SM 1045,SN 630,W 630 NEW LIFE CHRISTIAN SCHOOL,PS-12 KJB, HYLES"
   },
   {
     "id": "2011",
     "name": "OPEN BIBLE BAPTIST CHURCH",
-    "address": "12 LENFEST LN",
+    "address": "967 FOREST AVE",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1085,7 +1085,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ARTIE DEAN. PO BOX 721 12 LENFEST LN BATH ME 04530 SS 945,SM 1045,SN 6,W 7 SOULWINNING, BUS, ORCHESTRA, CHOIR 967 FOREST AVE ORONO ME 04402-2067 SM 10,SN 6,TH 630 476 SUMMIT ST PORTLAND ME 04103 SS 10, SM 11, SN  KJB church."
+    "description": "PO BOX 721 BATH ME 04530 SS 945,SM 1045,SN 6,W 7 SOULWINNING, BUS, ORCHESTRA, CHOIR ORONO ME 04402-2067 SM 10,SN 6,TH 630 476 SUMMIT ST PORTLAND ME 04103 SS 10, SM 11, SN KJB church"
   },
   {
     "id": "2012",
@@ -1103,12 +1103,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR STEVE CHRISTNER. 26 GARTLEY ST LISBON ME 04250 SS 10,SM 11,SN 6,W 7 BUS,TV KJB, HYLES PO BOX 161 20 N MAIN ST TURNER ME 04282 SS 10,SM 11,SN 7,W 7, CALVARY CHRISTAIN ACADEMY, K-12; SUMMER CAMP, BUS, KINGS KIDS, SPANIS"
+    "description": "LISBON ME 04250 SS 10,SM 11,SN 6,W 7 BUS,TV KJB, HYLES PO BOX 161 20 N MAIN ST TURNER ME 04282 SS 10,SM 11,SN 7,W 7, CALVARY CHRISTAIN ACADEMY, K-12; SUMMER CAMP, BUS, KINGS KIDS, SPANIS"
   },
   {
     "id": "2013",
     "name": "HIGH STREET BAPTIST CHURCH",
-    "address": "70 HIGH ST",
+    "address": "70 HIGH ST LIMEST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1121,12 +1121,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID ROWE. 70 HIGH ST LIMESTONE ME 04750 LORING AFB KJB, GARBC"
+    "description": "ONE ME 04750 LORING AFB KJB, GARBC"
   },
   {
     "id": "2014",
     "name": "EAST LIMINGTON BAPTIST CHURCH",
-    "address": "404 SOKOKIS AVE",
+    "address": "404 SOKOKIS AVE EAST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1139,12 +1139,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLINT ROBINSON. PO BOX 130 404 SOKOKIS AVE EAST LIMINGTON ME 04020 SS 930,SM 1045,SN 6,W 630 AWANA, 1 HR FROM BRUNSWICK NAS KJB church."
+    "description": "PO BOX 130 LIMINGTON ME 04020 SS 930,SM 1045,SN 6,W 630 AWANA, 1 HR FROM BRUNSWICK NAS KJB church"
   },
   {
     "id": "2015",
     "name": "AUBURN BAPTIST CHURCH",
-    "address": "227 POLAND RD",
+    "address": "53 FLEMING ST LINCOLN",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1152,12 +1152,12 @@ export const maineChurches: Church[] = [
     "longitude": -68.0811,
     "phone": "(207) 786-0206",
     "website": "https://lincolnbiblebaptistchurch.welcometolincolnmaine.com",
-    "pastor": "BOB PHILBRICK",
+    "pastor": "53 FLEMING ST LINCOLN ME 04457 SS 10,SM 11,SN 6,W 630 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB PHILBRICK. 227 POLAND RD AUBURN ME 04212 SS 915,SM 1015,SN 6,W 630 AUDIO SERMONS, BRUNSWICK NAS NEEDS PASTOR 53 FLEMING ST LINCOLN ME 04457 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "AUBURN ME 04212 SS 915,SM 1015,SN 6,W 630 AUDIO SERMONS, BRUNSWICK NAS NEEDS"
   },
   {
     "id": "2016",
@@ -1175,7 +1175,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PERRY JONES. PO BOX 1 10 SPRING ST CLINTON ME 04927 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "PO BOX 1 CLINTON ME 04927 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2017",
@@ -1194,7 +1194,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE YORK. 235 PLEASANT AVE PEAKS ISLAND ME 04108 SS 10,SM 11,SN 6,TH 6 KJB, UNAFFILIATED (BAPTIST DOCTRINE)"
+    "description": "PEAKS ISLAND ME 04108 SS 10,SM 11,SN 6,TH 6 KJB, UNAFFILIATED (BAPTIST DOCTRINE)"
   },
   {
     "id": "2018",
@@ -1213,12 +1213,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIM KELLY. 73 STATE ST VAN BUREN ME 04785 SM 11,W 630 BUS, SOULWINNING KJB church."
+    "description": "VAN BUREN ME 04785 SM 11,W 630 BUS, SOULWINNING KJB church"
   },
   {
     "id": "2019",
     "name": "LEWISTON BAPTIST CHURCH",
-    "address": "437 MAIN ST",
+    "address": "437 MAIN ST LEWIST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1232,7 +1232,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK FOSTER. 437 MAIN ST LEWISTON ME 04240 PROPHETS CHAMBER KJB, UNAFFILIATED"
+    "description": "ON ME 04240 PROPHETS CHAMBER KJB, UNAFFILIATED"
   },
   {
     "id": "2020",
@@ -1250,12 +1250,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID J NATALE. PO BOX 275 256 BAKERS GRANT RD LEBANON ME 04027 SS 930,SM 1030,SN 6,W 7 AWANA, LADIES MISSIONARY GROUP, PORTSMOUTH NAVY YARD PO BOX 44 160 FOREST AVE ORONO ME 04473 SS 930,SM 1045,SN 6,W 7"
+    "description": "PO BOX 275 LEBANON ME 04027 SS 930,SM 1030,SN 6,W 7 AWANA, LADIES MISSIONARY GROUP, PORTSMOUTH NAVY YARD PO BOX 44 160 FOREST AVE ORONO ME 04473 SS 930,SM 1045,SN 6,W 7"
   },
   {
     "id": "2021",
     "name": "WEST ENFIELD BAPTIST CHURCH",
-    "address": "",
+    "address": "04493 OLD COUNTY RD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1268,12 +1268,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD DAVIS. PO BOX 122 WEST ENFIELD ME 04493 OLD COUNTY RD"
+    "description": "PO BOX ENFIELD ME"
   },
   {
     "id": "2022",
     "name": "PARKMAN BAPTIST CHURCH",
-    "address": "20 HIGH ST",
+    "address": "150 GUILFORD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1286,7 +1286,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ROGER JACKSON. 693 SR 150 GUILFORD ME 04443 PARKMAN AREA CBA, BBF PO BOX 5 20 HIGH ST HARMONY ME 04942 415 US RT 1 SCARBOROUGH ME 04074 SS 930,SM 815 & 1045,SN 6,W 7"
+    "description": "693 SR ME 04443 PARKMAN AREA CBA, BBF PO BOX 5 20 HIGH ST HARMONY ME 04942 415 US RT 1 SCARBOROUGH ME 04074 SS 930,SM 815 & 1045,SN 6,W 7"
   },
   {
     "id": "2023",
@@ -1304,12 +1304,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MARK STOCKWELL."
+    "description": ""
   },
   {
     "id": "2024",
     "name": "HOPE COMMUNITY BIBLE CHURCH",
-    "address": "16 CHURCH ST",
+    "address": "47 CHURCH ST WEST GARD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1323,12 +1323,12 @@ export const maineChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by DAVE ADAMS. 16 CHURCH ST HOPE ME 04847 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS 47 CHURCH ST WEST GARDINER ME 04345 SS 915,SM 1045,SN 6,W 7 NOT KJV ONLY, CBA KJB church."
+    "description": "HOPE ME 04847 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS INER ME 04345 SS 915,SM 1045,SN 6,W 7 NOT KJV ONLY, CBA KJB church"
   },
   {
     "id": "2025",
     "name": "GALILEE BAPTIST CHURCH",
-    "address": "317 MAIN ST",
+    "address": "22 LITCHFIELD RD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1341,7 +1341,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JUSTIN KAUFFMAN. 317 MAIN ST GORHAM ME 04038 SS 9,SM 9 & 1045, AWANA,TEENS, AUDIO SERMONS NOT KJ ONLY, GARBC, NRBFC 22 LITCHFIELD RD KITTERY ME 03904-5519 SS 930,SM 1045,SN 630,W 7 SS ALL AGES,WED YOUTH,TEEN & ADULT C KJB church."
+    "description": "GORHAM ME 04038 SS 9,SM 9 & 1045, AWANA,TEENS, AUDIO SERMONS NOT KJ ONLY, GARBC, NRBFC KITTERY ME 03904-5519 SS 930,SM 1045,SN 630,W 7 SS ALL AGES,WED YOUTH,TEEN & ADULT C KJB church"
   },
   {
     "id": "2026",
@@ -1359,12 +1359,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH HILTON. PO BOX 704 91 MARSTON RD WATERVILLE ME 04903 SS 10, SM 11,SN 6,W 645 DEAF, AWANA, YOUTH PREACH KJV,NOT KJV ONLY, BJU, GFA KJB church."
+    "description": "PO BOX 704 WATERVILLE ME 04903 SS 10, SM 11,SN 6,W 645 DEAF, AWANA, YOUTH PREACH KJV,NOT KJV ONLY, BJU, GFA KJB church"
   },
   {
     "id": "2027",
     "name": "SOUTH GARDINER BAPTIST CHURCH",
-    "address": "",
+    "address": "116 SOUTH GARD",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1377,7 +1377,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN TABOR. RT 24, PO BOX 116 SOUTH GARDINER ME 04359 SS 945,SM 1045,SN 6,W 630 NOT KJV ONLY KJB church."
+    "description": "RT 24, PO BOX INER ME 04359 SS 945,SM 1045,SN 6,W 630 NOT KJV ONLY KJB church"
   },
   {
     "id": "2028",
@@ -1395,7 +1395,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN REBERT. HC 67 BOX 1034, RT 155 ENFIELD ME 04493 NOT KJV ONLY, BJU KJB church."
+    "description": "HC 67 BOX 1034, RT 155 ENFIELD ME 04493 NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "2029",
@@ -1413,7 +1413,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE PERKINS. PO BOX 786 114 PERHAM ST FARMINGTON ME 04938 PROPHETS CHAMBER NOT KJV ONLY, BJU 39 GROVE ST NEWPORT ME 04953 NOT KJV ONLY, BJU KJB church."
+    "description": "PO BOX 786 FARMINGTON ME 04938 PROPHETS CHAMBER NOT KJV ONLY, BJU 39 GROVE ST NEWPORT ME 04953 NOT KJV ONLY, BJU KJB church"
   },
   {
     "id": "2030",
@@ -1431,7 +1431,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN DEMERS. RR1 BOX 7130 272 COUNTY RD LUBEC ME 04652 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, PCC KJB church."
+    "description": "RR1 BOX 7130 LUBEC ME 04652 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, PCC KJB church"
   },
   {
     "id": "2031",
@@ -1449,12 +1449,12 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL BRITT. 1085 RIVERSIDE DR AUBURN ME 04210 SS 930,SM 1045,SN 6,TH 7 NOT KJV ONLY, CCM KJB church."
+    "description": "AUBURN ME 04210 SS 930,SM 1045,SN 6,TH 7 NOT KJV ONLY, CCM KJB church"
   },
   {
     "id": "2032",
     "name": "TOPSHAM BAPTIST CHURCH",
-    "address": "52 ROMAN RD",
+    "address": "7 TABERNACLE CHRIST",
     "city": "Augusta",
     "state": "ME",
     "zipCode": "",
@@ -1468,7 +1468,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JON JONES. 52 ROMAN RD TOPSHAM ME 04086 SS 945,SM 11,SN 6,W 7 TABERNACLE CHRISTIAN ACADEMY; BRUNSWICK NAS PREACH KJV,NOT KJV ONLY,UNAFFILIATED.WOL KJB church."
+    "description": "TOPSHAM ME 04086 SS 945,SM 11,SN 6,W IAN ACADEMY; BRUNSWICK NAS PREACH KJV,NOT KJV ONLY,UNAFFILIATED.WOL KJB church"
   },
   {
     "id": "2033",
@@ -1481,12 +1481,12 @@ export const maineChurches: Church[] = [
     "longitude": -69.0923,
     "phone": "(207) 353-8518",
     "website": "http://www.lisbonfallsbaptist.org",
-    "pastor": "",
+    "pastor": "NOT KJV ONLY KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 160 555 LISBON RD LISBON FALLS ME 04252-0160 SS 915,SM 1115,SN 630,TH 645 YOUTH, TEENS, SENIORS, CHOIR; LISBON FALLS CHRISTIAN ACADEMY,ACE; BRUNSWICK NAS 12-15 MILES PASTOR NOT KJV ONLY KJB church."
+    "description": "PO BOX 160 LISBON FALLS ME 04252-0160 SS 915,SM 1115,SN 630,TH 645 YOUTH, TEENS, SENIORS, CHOIR; LISBON FALLS CHRISTIAN ACADEMY,ACE; BRUNSWICK NAS 12-15 MILES"
   },
   {
     "id": "2034",
@@ -1504,7 +1504,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT EMRICH. 134 W MAIN ST FORT KENT ME 04743 SM 1030,SN 5,W 530 NOT KJV ONLY KJB church."
+    "description": "FORT KENT ME 04743 SM 1030,SN 5,W 530 NOT KJV ONLY KJB church"
   },
   {
     "id": "2035",
@@ -1522,7 +1522,7 @@ export const maineChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN REBERT. PLYMOUTH ME 04969 NOT KJV ONLY, BJU PO BOX 786 114 PERHAM ST FARMINGTON ME 04938 SS 930,SM 1045,SN 630,W 630 NOT KJV ONLY, TTU KJB church."
+    "description": "PLYMOUTH ME 04969 NOT KJV ONLY, BJU PO BOX 786 FARMINGTON ME 04938 SS 930,SM 1045,SN 630,W 630 NOT KJV ONLY, TTU KJB church"
   },
   {
     "id": "2036",
@@ -1541,7 +1541,7 @@ export const maineChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by SCOTT TOWNSEND. PO BOX 648 92 CENTER RD GRAY ME 04039 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, UNAFFILIATED 185 ATLANTIC HWY WARREN ME 04864 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,NEW TRIBES MISSIONS KJB church."
+    "description": "PO BOX 648 GRAY ME 04039 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, UNAFFILIATED 185 ATLANTIC HWY WARREN ME 04864 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,NEW TRIBES MISSIONS KJB church"
   },
   {
     "id": "2037",
@@ -1554,11 +1554,11 @@ export const maineChurches: Church[] = [
     "longitude": -69.204,
     "phone": "(207) 443-2532",
     "website": "http://www.wwbchurch.org",
-    "pastor": "",
+    "pastor": "WOOLWICH ME 04579 SS 930,SM 1045,SN 6,TH 630",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "15 FELLOWSHIP DR WOOLWICH ME 04579 SS 930,SM 1045,SN 6,TH 630"
+    "description": "WOOLWICH ME 04579 SS 930,SM 1045,SN 6,TH 630"
   }
 ];

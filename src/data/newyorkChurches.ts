@@ -17,7 +17,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VINCENT E WILLIAMS SR. 329 HAWLEY ST SYRACUSE NY 13203 ADD ALSO 301 HOWARD ST SM 11, SN 630,W 7 KJB church."
+    "description": "SYRACUSE NY 13203 ADD ALSO 301 HOWARD ST SM 11, SN 630,W 7 KJB church"
   },
   {
     "id": "2999",
@@ -35,7 +35,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW MERRITT. 1380 FIFTH AVE BAY SHORE NY 11706 TEEN, CHOIR, SW HERITAGE CA,K3-3 LIVE VIDEO SERVICES ONLINE KJB church."
+    "description": "BAY SHORE NY 11706 TEEN, CHOIR, SW HERITAGE CA,K3-3 LIVE VIDEO SERVICES ONLINE KJB church"
   },
   {
     "id": "3000",
@@ -53,7 +53,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL PHAROAH. 500 KENWOOD AVE DELMAR NY 12054 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "DELMAR NY 12054 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3001",
@@ -71,7 +71,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY ULYSE. 24650 HINDS RD WATERTOWN NY 13601 SS 10,SM 11,SN 5,W 630 KJB church."
+    "description": "WATERTOWN NY 13601 SS 10,SM 11,SN 5,W 630 KJB church"
   },
   {
     "id": "3002",
@@ -89,7 +89,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEN HAMILTON. VFW POST 516 635 MAIN ST FARMINGDALE NY 11735 KJB church."
+    "description": "VFW POST 516 FARMINGDALE NY 11735 KJB church"
   },
   {
     "id": "3003",
@@ -107,7 +107,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KANON BLOOM. 2864 KINGSBRIDGE TERRACE BRONX NY 10463 MEETING: VFW POST 3960 ORLOFF AVE SM 1045 KJB church."
+    "description": "2864 KINGSBRIDGE TERRACE BRONX NY 10463 MEETING: VFW POST SM 1045 KJB church"
   },
   {
     "id": "3004",
@@ -125,7 +125,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON CANAVAN. 46-28 KISSENA BLVD 2ND FLOOR FLUSHING NY 11355 SM 930 CHINESE KJB,WCBC"
+    "description": "FLUSHING NY 11355 SM 930 CHINESE KJB,WCBC"
   },
   {
     "id": "3005",
@@ -143,7 +143,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURTIS BAKER. 1641 CROSBY AVE BRONX NY 10461 SM 11,SN 5,TH 7 KJB church."
+    "description": "BRONX NY 10461 SM 11,SN 5,TH 7 KJB church"
   },
   {
     "id": "3006",
@@ -161,7 +161,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRAVIS LEWIS. 860 HOOK RD FARMINGTON NY 14425 SS 930, SM 1045, SN 6, W 7 KJB church."
+    "description": "FARMINGTON NY 14425 SS 930, SM 1045, SN 6, W 7 KJB church"
   },
   {
     "id": "3007",
@@ -174,17 +174,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -74.8335,
     "phone": "(716) 780-7314",
     "website": "https://www.hilltop-baptist.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "985 CHURCH RD ANGOLA NY 14006 SM 930,SN 6,W 7 NEEDS PASTOR KJB church."
+    "description": "ANGOLA NY 14006 SM 930,SN 6,W 7 NEEDS"
   },
   {
     "id": "3008",
     "name": "FLAT BROOK BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 175",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -197,7 +197,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS BLUEMLING. PO BOX 175 13091 SR 22 CANAAN NY 12029 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "13091 SR 22 CANAAN NY 12029 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3009",
@@ -215,7 +215,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MITCHELL LOGUE. 6701 4TH AVE BROOKLYN NY 11220 SS 10,SM 11,SN 130,W 730 KJB church."
+    "description": "BROOKLYN NY 11220 SS 10,SM 11,SN 130,W 730 KJB church"
   },
   {
     "id": "3010",
@@ -233,7 +233,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANZ REMIGIO. 1199 OWEGO RD OWEGO NY 13827 SS 945,SM 1030 KJB church."
+    "description": "OWEGO NY 13827 SS 945,SM 1030 KJB church"
   },
   {
     "id": "3011",
@@ -253,7 +253,7 @@ export const newyorkChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by MATTHEW WHITE. 708 LYDIG AVE SUITE 201 BRONX NY 10462 SS 10,SN 530,W 7 KJB,UNAFFILIATED,GSBC"
+    "description": "BRONX NY 10462 SS 10,SN 530,W 7 KJB,UNAFFILIATED,GSBC"
   },
   {
     "id": "3012",
@@ -271,7 +271,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM DENNING. 39 1/2 CHAPEL ST MOUNT MORRIS NY 14510 VIDEO SERMONS ONLINE TEENS, CHILDREN KJB church."
+    "description": "MOUNT MORRIS NY 14510 VIDEO SERMONS ONLINE TEENS, CHILDREN KJB church"
   },
   {
     "id": "3013",
@@ -289,7 +289,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW MONTORO. 31 S MAIN ST ALBION NY 14411 SS 10,SM 11 KJB,GIBF,HBBC"
+    "description": "ALBION NY 14411 SS 10,SM 11 KJB,GIBF,HBBC"
   },
   {
     "id": "3014",
@@ -307,7 +307,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE PICKETT. 5267 SOUND AVE RIVERHEAD NY 11901 SS 10,SM 11,W 7 KJB church."
+    "description": "RIVERHEAD NY 11901 SS 10,SM 11,W 7 KJB church"
   },
   {
     "id": "3015",
@@ -325,12 +325,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK WALLIS. 20886 NY SR 3 WATERTOWN NY 13601-9501 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "20886 NY SR 3 WATERTOWN NY 13601-9501 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3016",
     "name": "THE OLD MILL BAPTIST CHURCH",
-    "address": "",
+    "address": "23 SOUTH PL",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -343,12 +343,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS HOWE. 3806 HWY 23 SOUTH PLYMOUTH NY 1844 KJB church."
+    "description": "3806 HWY YMOUTH NY 1844 KJB church"
   },
   {
     "id": "3017",
     "name": "BETHEL INDEPENDENT BAPTIST CHURCH",
-    "address": "2205 ATWATER RD",
+    "address": "50 ST RITAS LANE",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -362,7 +362,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by EDUARDO CASTILLO-CROOKE. 2205 ATWATER RD KING FERRY NY 13081 SM 11,SS 2,W 7 VIDEO SERMONS ONLINE 50 ST RITAS LANE COHOES NY 12047 SS 10,SM 11,SN 5,W 7 KJB,CROWN-BC,UNAFFILIATED"
+    "description": "KING FERRY NY 13081 SM 11,SS 2,W 7 VIDEO SERMONS ONLINE COHOES NY 12047 SS 10,SM 11,SN 5,W 7 KJB,CROWN-BC,UNAFFILIATED"
   },
   {
     "id": "3018",
@@ -381,12 +381,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PHILIP BISHOP. 9 GILMORE ST POTSDAM NY 13621 SS 10,SM 11,SN 2,TH 7 SOULWINNING, PICK UP AVAILABLE, 10 MIN WALK FROM SUNY POTSDAM KJB church."
+    "description": "POTSDAM NY 13621 SS 10,SM 11,SN 2,TH 7 SOULWINNING, PICK UP AVAILABLE, 10 MIN WALK FROM SUNY POTSDAM KJB church"
   },
   {
     "id": "3019",
     "name": "FREEDOM LIFE BAPTIST CHURCH",
-    "address": "53 GUY PARK AVE",
+    "address": "53 GUY PARK AVE INMAN SENIOR CENTER AMSTERD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -399,7 +399,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "53 GUY PARK AVE INMAN SENIOR CENTER AMSTERDAM NY 12010 SS 10,SM 11,SN 6 NEEDS PASTOR"
+    "description": "AM NY 12010 SS 10,SM 11,SN 6 NEEDS PASTOR"
   },
   {
     "id": "3020",
@@ -417,7 +417,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN KELLY. KJB,HBBC 151 NOBLE ST BROOKLYN NY 11222 SM 11,SN 6,W 7"
+    "description": "KJB,HBBC BROOKLYN NY 11222 SM 11,SN 6,W 7"
   },
   {
     "id": "3021",
@@ -435,12 +435,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR MICHAEL A CESAR. PO BOX 459 1026 6TH AVE/AVENUE OF THE AMERICAS SUITE 201 NEW YORK (MANHATTAN) NY 10116 OPEN-AIR STREET PREACHING KJB church."
+    "description": "PO BOX 459 SUITE 201 NEW YORK (MANHATTAN) NY 10116 OPEN-AIR STREET PREACHING KJB church"
   },
   {
     "id": "3022",
     "name": "GRACE & TRUTH CHURCH",
-    "address": "271 BUCYRUS DR",
+    "address": "271 BUCYRUS DR AMHURST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -454,7 +454,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PAUL MORRISON. 271 BUCYRUS DR AMHURST NY 14228 NEAR BUFFALO SS 945,SM 11,TH 7 MP3 AUDIO SERMONS ONLINE KJB, UNAFFILIATED"
+    "description": "NY 14228 NEAR BUFFALO SS 945,SM 11,TH 7 MP3 AUDIO SERMONS ONLINE KJB, UNAFFILIATED"
   },
   {
     "id": "3023",
@@ -473,7 +473,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DEAN FRANCINI. PO BOX 237 FISHKILL NY 12524 13 MILES FROM STEWART AIRPORT / ANG BASE 18 MILES FROM CAMP SMITH 20 MILES FROM USMA WEST POINT KJB, CBC PO BOX 26546 518 N GREECE RD ROCHESTER NY 14468 SS 10,SM 11,SN 6,W"
+    "description": "PO BOX 237 FISHKILL NY 12524 18 MILES FROM CAMP SMITH 20 MILES FROM USMA WEST POINT KJB, CBC PO BOX 26546 518 N GREECE RD ROCHESTER NY 14468 SS 10,SM 11,SN 6,W"
   },
   {
     "id": "3024",
@@ -491,12 +491,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN BAKER. IGLESIA BAUTISTA ARCA DE SALVACION 36 HAMILTON AVE YONKERS NY 10705 SPANISH SPEAKING KJB, HYLES"
+    "description": "IGLESIA BAUTISTA ARCA DE SALVACION YONKERS NY 10705 SPANISH SPEAKING KJB, HYLES"
   },
   {
     "id": "3025",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "3226 SCHLEY AVE",
+    "address": "3515 E TREMONT AVE",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -509,7 +509,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLARENCE HAFELIN. 3226 SCHLEY AVE BRONX NY 10465 PHYSICAL ADD: 3515 E TREMONT AVE SM 11,SN 1 KJB church."
+    "description": "BRONX NY 10465 PHYSICAL ADD: SM 11,SN 1 KJB church"
   },
   {
     "id": "3026",
@@ -527,7 +527,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARC LORANGER. 4773 STATE ROUTE 12B ORISKANY FALLS NY 13425 SS 10,SM 11,SN 6,W 7 FAITH BIBLE INSTITUTE KJB church."
+    "description": "ORISKANY FALLS NY 13425 SS 10,SM 11,SN 6,W 7 FAITH BIBLE INSTITUTE KJB church"
   },
   {
     "id": "3027",
@@ -545,12 +545,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN COULLIETTE. 5443 RTE 241 CONEWANGO VALLEY NY 14726 MP3 AUDIO SERMONS ONLINE KJB, HYLES"
+    "description": "5443 RTE 241 CONEWANGO VALLEY NY 14726 MP3 AUDIO SERMONS ONLINE KJB, HYLES"
   },
   {
     "id": "3028",
     "name": "FIRST BAPTIST CHURCH OF BLACK RIVER",
-    "address": "122 MAPLE ST",
+    "address": "1 mile from the FORT DR",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -563,7 +563,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETER GUADAGNO. PO BOX 175 122 MAPLE ST BLACK RIVER NY 13612 SS 10,SM 11,SN 6 W 7 1 mile from the FORT DRUM SR 283 MAIN GATE AND NORTH GATE KJB church."
+    "description": "PO BOX 175 BLACK RIVER NY 13612 SS 10,SM 11,SN 6 W 7 UM SR 283 MAIN GATE AND NORTH GATE KJB church"
   },
   {
     "id": "3029",
@@ -576,12 +576,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -73.5569,
     "phone": "(716) 257-3645",
     "website": "http://gracebiblebaptistlv.com",
-    "pastor": "DANA DICE",
+    "pastor": "7 N MAIN ST LIBERTY NY 12754 SS 945,SM 11,SN 6,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANA DICE. 7968 REED HILL RD LITTLE VALLEY NY 14755 SS 10,SM 11,SN 6,W 7 GRACE CHRISTIAN ACADEMY , K-12 NEEDS PASTOR 7 N MAIN ST LIBERTY NY 12754 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "LITTLE VALLEY NY 14755 SS 10,SM 11,SN 6,W 7 GRACE CHRISTIAN ACADEMY , K-12 NEEDS"
   },
   {
     "id": "3030",
@@ -599,12 +599,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM DONATH. 172-23 HILLSIDE AVE JAMAICA NY 11432 SS 945,SM 11,SN 630,W 730 KJB church."
+    "description": "JAMAICA NY 11432 SS 945,SM 11,SN 630,W 730 KJB church"
   },
   {
     "id": "3031",
     "name": "EVANGELICAL BAPTIST CHURCH",
-    "address": "141 LUDINGTON ST",
+    "address": "711 SWAGGERTOWN RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -617,7 +617,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON WAMPLER. 141 LUDINGTON ST BUFFALO NY 14206 711 SWAGGERTOWN RD SCOTIA NY 12302 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BUFFALO NY 14206 SCOTIA NY 12302 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3032",
@@ -635,7 +635,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JASON MEAD. 68 GRAND ST GLOVERSVILLE NY 12078 SS 1015,SM 11,SN 630,W 630 KJB church."
+    "description": "GLOVERSVILLE NY 12078 SS 1015,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "3033",
@@ -653,7 +653,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS GRIMES. 1506 8TH AVE BROOKLYN NY 11215-5602 SS 945,SM 11,SN 1,W 730 KJB church."
+    "description": "BROOKLYN NY 11215-5602 SS 945,SM 11,SN 1,W 730 KJB church"
   },
   {
     "id": "3034",
@@ -671,7 +671,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6500 FRAZIER RD MORAVIA NY 13118"
+    "description": "MORAVIA NY 13118"
   },
   {
     "id": "3035",
@@ -689,7 +689,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HIRAM DAVIS. SS 945,SM 11,SN 2,W 630 KJB,HEARTLAND-BC"
+    "description": "SS 945,SM 11,SN 2,W 630 KJB,HEARTLAND-BC"
   },
   {
     "id": "3036",
@@ -707,7 +707,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HIRAM DAVIS. 985 OLD RT 28 FLEISCHMANNS NY 12430 SS 10,SM 11,SN 6,W 7 KJB, HEARTLAND-BC"
+    "description": "985 OLD RT 28 FLEISCHMANNS NY 12430 SS 10,SM 11,SN 6,W 7 KJB, HEARTLAND-BC"
   },
   {
     "id": "3037",
@@ -725,7 +725,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEN DOYLE. 4041 NY 28A WEST SHOKAN NY 12494 KJB church."
+    "description": "4041 NY 28A WEST SHOKAN NY 12494 KJB church"
   },
   {
     "id": "3038",
@@ -743,7 +743,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED DARLING. 5416 RT 353 LITTLE VALLEY NY 14755 SS 945,SM 1050,SN 7,W 7 KJB church."
+    "description": "5416 RT 353 LITTLE VALLEY NY 14755 SS 945,SM 1050,SN 7,W 7 KJB church"
   },
   {
     "id": "3039",
@@ -761,7 +761,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH FREUNDSCHUH. 443 CENTER ST SALAMANCA NY 14779 KJB,HYLES"
+    "description": "SALAMANCA NY 14779 KJB,HYLES"
   },
   {
     "id": "3040",
@@ -779,7 +779,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN JON TAALA. 4444 HUMPHREY RD GREAT VALLEY NY 14741 SS 10,SM 11,SN 1230,TH 7 KJB church."
+    "description": "GREAT VALLEY NY 14741 SS 10,SM 11,SN 1230,TH 7 KJB church"
   },
   {
     "id": "3041",
@@ -797,12 +797,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETER WIGDOR. PO BOX 720606 37-15 89TH ST JACKSON HEIGHTS NY 11372 This is in the QUEENS area SM 9,SS 4,SN 5 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "PO BOX 720606 JACKSON HEIGHTS NY 11372 This is in the QUEENS area SM 9,SS 4,SN 5 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3042",
     "name": "CHARITY BAPTIST CHURCH",
-    "address": "350 AUSTIN ST",
+    "address": "5810 BUFFALO ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -815,7 +815,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN FRIEDMAN. 350 AUSTIN ST BUFFALO NY 14207 ‘SS 10,SM 11,TH 7 RESCUE MISSION, FOOD PANTRY 35B E MAIN ST SPRINGVILLE NY 14141 5810 BUFFALO ST SANBORN NY 14132 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE KJB church."
+    "description": "BUFFALO NY 14207 ‘SS 10,SM 11,TH 7 RESCUE MISSION, FOOD PANTRY 35B E MAIN ST SPRINGVILLE NY 14141 SANBORN NY 14132 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3043",
@@ -833,7 +833,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROGER W UPTEGROVE. 4371 COLLEGE AVE CORNING NY 14830 SM 1030,SN 6,W 7 KJB church."
+    "description": "CORNING NY 14830 SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3044",
@@ -851,12 +851,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEWEY STEWART. PO BOX 257 SILVER LAKE NY 14549 6545 BURKE HILL RD in PERRY NY SS 1015,SM 11 KJB, HBBC"
+    "description": "PO BOX 257 SILVER LAKE NY 14549 SS 1015,SM 11 KJB, HBBC"
   },
   {
     "id": "3045",
     "name": "WATERTOWN BAPTIST TEMPLE",
-    "address": "",
+    "address": "7 FORT DR",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -869,12 +869,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL HERDZIK. 26200 NYS RT 3 WATERTOWN NY 13601 SS 10,SM 11,SN 6,W 7 FORT DRUM (3 MILES) KJB church."
+    "description": "26200 NYS RT 3 WATERTOWN NY 13601 SS 10,SM 11,SN 6,W UM (3 MILES) KJB church"
   },
   {
     "id": "3046",
     "name": "NEW BEGINNINGS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 15",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -887,12 +887,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH BALMER. PO BOX 15 638 RT 394 KENNEDY NY 14747 AUDIO SERMONS ONLINE KJB church."
+    "description": "638 RT 394 KENNEDY NY 14747 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3047",
     "name": "HUDSON VIEW BAPTIST CHURCH",
-    "address": "",
+    "address": "10701 PROPHETS CHAMBER HUDSON VIEW CHRIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -905,12 +905,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "170 HUDSON TERRACE YONKERS NY 10701 PROPHETS CHAMBER HUDSON VIEW CHRISTIAN ACADEMY KJB church."
+    "description": "170 HUDSON TERRACE YONKERS NY IAN ACADEMY KJB church"
   },
   {
     "id": "3048",
     "name": "SAVING GRACE BAPTIST CHURCH",
-    "address": "271 BUCYRUS DR",
+    "address": "3 AUDIO SERMONS ONLINE KING JAMES BIBLE INST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -923,7 +923,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL A CESAR. 2615 NY HWY 30A OLD PLANK RD FONDA NY 12068 SM 1030, SN 6,W 7 PO BOX 433 WILLIAMSVILLE NY 14231-433 271 BUCYRUS DR AMHERST NY 14228 SS 10,SM 1130,TH 7 MP3 AUDIO SERMONS ONLINE KING JAMES BIBLE INSTITU KJB church."
+    "description": "2615 NY HWY 30A OLD PLANK RD FONDA NY 12068 SM 1030, SN 6,W 7 PO BOX 433 WILLIAMSVILLE NY 14231-433 NY 14228 SS 10,SM 1130,TH 7 MPITU KJB church"
   },
   {
     "id": "3049",
@@ -941,7 +941,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL BANNISTER. 43 ACADEMY STREET MAYVILLE NY 14757 SS 945, SM  11, SN 6, W 6 BUS, YOUTH, TEENS, LADIES, SENIORS, VISITATION PROPHETS CHAMBER AUDIO SERMONS ONLINE KJB,FISHER"
+    "description": "MAYVILLE NY 14757 SS 945, SM 11, SN 6, W 6 BUS, YOUTH, TEENS, LADIES, SENIORS, VISITATION PROPHETS CHAMBER AUDIO SERMONS ONLINE KJB,FISHER"
   },
   {
     "id": "3050",
@@ -960,7 +960,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARSHALL GREEN. 701 KOSSUTH AVE UTICA NY 13501 SS 10,SM 11,SN 5,W 7 11501 RAPIDS RD AKRON NY 14001 KJB,UNAFFILIATED"
+    "description": "UTICA NY 13501 SS 10,SM 11,SN 5,W 7 11501 RAPIDS RD AKRON NY 14001 KJB,UNAFFILIATED"
   },
   {
     "id": "3051",
@@ -978,7 +978,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CASWELL A REEVES. PO BOX 404 21 COLUMBIA RD MASSENA NY 13662 SS 10, SM 11, SN 6, W 7 5923 SR 17 C ENDICOTT NY 13760 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
+    "description": "PO BOX 404 MASSENA NY 13662 SS 10, SM 11, SN 6, W 7 5923 SR 17 C ENDICOTT NY 13760 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
   },
   {
     "id": "3052",
@@ -997,7 +997,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FRANK DONNELLY. PO BOX 306 210 WADSWORTH AVE NEW YORK NY 10033 SS 10,SM 11,W 7 AUDIO SERMONS ONLINE KJB,TTU,UNAFFILIATED"
+    "description": "PO BOX 306 NEW YORK NY 10033 SS 10,SM 11,W 7 AUDIO SERMONS ONLINE KJB,TTU,UNAFFILIATED"
   },
   {
     "id": "3053",
@@ -1017,12 +1017,12 @@ export const newyorkChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MICHAEL WATSON. 32 W MAIN ST SIDNEY NY 13838 SS 10,SM 11,SN 4,W 630 SOULWINNING KJB,UNAFFILIATED"
+    "description": "SIDNEY NY 13838 SS 10,SM 11,SN 4,W 630 SOULWINNING KJB,UNAFFILIATED"
   },
   {
     "id": "3054",
     "name": "TRINITY BAPTIST CHURCH",
-    "address": "650 MERCHANTS RD",
+    "address": "650 MERCHANTS RD ROCHEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1035,7 +1035,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT SMITH. 650 MERCHANTS RD ROCHESTER NY 14609 SS 10,SM 11,SN 3,W 7, RU FRIDAY 7 MP3 AUDIO SERMONS ONLINE 926 S JENSEN RD VESTAL NY 13850 SM 11,SN 7,W 7 STREET PREACHING KJB church."
+    "description": "ER NY 14609 SS 10,SM 11,SN 3,W 7, RU FRIDAY 7 MP3 AUDIO SERMONS ONLINE 926 S JENSEN RD VESTAL NY 13850 SM 11,SN 7,W 7 STREET PREACHING KJB church"
   },
   {
     "id": "3055",
@@ -1048,12 +1048,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -74.0227,
     "phone": "(518) 696-5494",
     "website": "http://www.lynwoodbaptistchurch.org",
-    "pastor": "RICHARD M PERRY",
+    "pastor": "KJB,UNAFFILLIATED",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD M PERRY. 4291 S SHORE RD HADLEY NY 12835 SS 10,SM 11,SN 130,W 7 PO BOX 4 3113 MAIN ST YORKSHIRE NY 14173 NEEDS PASTOR KJB,UNAFFILLIATED"
+    "description": "HADLEY NY 12835 SS 10,SM 11,SN 130,W 7 PO BOX 4 3113 MAIN ST YORKSHIRE NY 14173 NEEDS"
   },
   {
     "id": "3056",
@@ -1072,7 +1072,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSEPH MANN. 501 TUSCARORA RD CHITTENANGO NY 13037 SS 945,SM 11,SN 6,TUE 7 LOCATED 15 MINUTES EAST OF SYRACUSE ON RT 5 KJB,UNAFFILIATED,HEARTLAND-BBC 2604 US ROUTE 11 PARISH NY 13131 near CENTRAL SQUARE & HASTINGS"
+    "description": "CHITTENANGO NY 13037 SS 945,SM 11,SN 6,TUE 7 LOCATED 15 MINUTES EAST OF SYRACUSE ON RT 5 KJB,UNAFFILIATED,HEARTLAND-BBC 2604 US ROUTE 11 PARISH NY 13131 near CENTRAL SQUARE & HASTINGS"
   },
   {
     "id": "3057",
@@ -1085,17 +1085,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -74.1522,
     "phone": "(607) 651-6002",
     "website": "https://www.facebook.com/West-Branch-Bible-Baptist-Church-176396612476072",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "117 FRONT ST DEPOSIT NY 13754 (TWO MILES OFF ROUTE 17, LOCATED ACROSS FROM PANDA RESTAURANT DOWNTOWN) SS 10, SM 11, SN 7, TH 7 NEEDS PASTOR KJB church."
+    "description": "DEPOSIT NY 13754 (TWO MILES OFF ROUTE 17, LOCATED ACROSS FROM PANDA RESTAURANT DOWNTOWN) SS 10, SM 11, SN 7, TH 7 NEEDS"
   },
   {
     "id": "3058",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 205",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1108,12 +1108,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAYSON TOTH. PO BOX 205 1742 SR 72 PARISHVILLE NY 13672 SS 10,SM 11,SN 6,W 7 KJB, GIBF, HEARTLAND BBC, WEST COAST BC"
+    "description": "1742 SR 72 PARISHVILLE NY 13672 SS 10,SM 11,SN 6,W 7 KJB, GIBF, HEARTLAND BBC, WEST COAST BC"
   },
   {
     "id": "3059",
     "name": "NEW HOPE BAPTIST CHURCH",
-    "address": "140 SMITH AVE",
+    "address": "61 ON LONG ISLAND EXPRESSWAY",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1127,7 +1127,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICH DAMEY. 140 SMITH AVE HOLBROOK NY 11741 SS 10, SM 11, SN 6, TH 7 YOUTH, SUNDAY SCHOOL, BUS, SOUL WINNING, MP3 AUDIO SERMONS ONLINE EXIT 61 ON LONG ISLAND EXPRESSWAY 17 E MAIN ST PO BOX 622 FREWSBURG NY 14738  KJB church."
+    "description": "HOLBROOK NY 11741 SS 10, SM 11, SN 6, TH 7 YOUTH, SUNDAY SCHOOL, BUS, SOUL WINNING, MP3 AUDIO SERMONS ONLINE EXIT 17 E MAIN ST PO BOX 622 FREWSBURG NY 14738 KJB church"
   },
   {
     "id": "3060",
@@ -1145,7 +1145,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "3064 N GRAVEL RD MEDINA NY 14103 SS 10,SM 11,SN 6,W 7 BUS,KINGS KIDS,SOULWINNING,TAPE FAITH CHRISTIAN ACADEMY,K5-12"
+    "description": "MEDINA NY 14103 SS 10,SM 11,SN 6,W 7 BUS,KINGS KIDS,SOULWINNING,TAPE FAITH CHRISTIAN ACADEMY,K5-12"
   },
   {
     "id": "3061",
@@ -1163,7 +1163,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD JOHNSON.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3062",
@@ -1181,7 +1181,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEXTER L TAYLOR. 97 LINCOLN PLACE BROOKLYN NY 11217 SS 10,SM 11,SN 5,W 7 KJB church."
+    "description": "BROOKLYN NY 11217 SS 10,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "3063",
@@ -1199,7 +1199,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT M NEISEN. 4532 RT 9 N PORTER CORNERS NY 12859 SS 10, SM 11, SN 6, W 7 KJB,HYLES"
+    "description": "4532 RT 9 N PORTER CORNERS NY 12859 SS 10, SM 11, SN 6, W 7 KJB,HYLES"
   },
   {
     "id": "3064",
@@ -1217,7 +1217,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "72 E NIAGARA ST TONAWANDA NY 14150 SS 10,SM 11,SN 630,W 7 WMA AUDIO SERMONS ONLINE"
+    "description": "TONAWANDA NY 14150 SS 10,SM 11,SN 630,W 7 WMA AUDIO SERMONS ONLINE"
   },
   {
     "id": "3065",
@@ -1236,12 +1236,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CURTIS KING. 624 HYDE PARK BLVD NIAGARA FALLS NY 14301 SS 930,SM 1045,SN 6,W 630 KJB,UNAFFILIATED"
+    "description": "NIAGARA FALLS NY 14301 SS 930,SM 1045,SN 6,W 630 KJB,UNAFFILIATED"
   },
   {
     "id": "3066",
     "name": "ROCKLAND BIBLE BAPTIST CHURCH",
-    "address": "73 SUFFERN LN",
+    "address": "20 MINUTES FROM WEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1254,12 +1254,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TEW FORMER NAVY. 73 SUFFERN LN THIELLS NY 10984 SM 11,SN 7,W 730 STREET,HOSPITAL,YOUTH 20 MINUTES FROM WEST POINT KJB,GRAY-TX,RUCKMAN,ROLOFF,HYLES"
+    "description": "THIELLS NY 10984 SM 11,SN 7,W 730 STREET,HOSPITAL,YOUTH POINT KJB,GRAY-TX,RUCKMAN,ROLOFF,HYLES"
   },
   {
     "id": "3067",
     "name": "GRACE BAPTIST CHURCH",
-    "address": "612 4TH AVE",
+    "address": "530 MEADOW DR",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1274,7 +1274,7 @@ export const newyorkChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID COSTANTINO. 612 4TH AVE TROY NY 12181 SS 10,SM 11,SN 6,W 7 SOULWINNING,STREET PREACHING,SMASHING THE STATUES LADIES USE HEAD COVERINGS 530 MEADOW DR N TONAWANDA NY 14120 SS 945,SM 11,SN 6,W 7 WMA AUDIO SERMONS ON KJB church."
+    "description": "612 4TH AVE TROY NY 12181 SS 10,SM 11,SN 6,W 7 SOULWINNING,STREET PREACHING,SMASHING THE STATUES LADIES USE HEAD COVERINGS N TONAWANDA NY 14120 SS 945,SM 11,SN 6,W 7 WMA AUDIO SERMONS ON KJB church"
   },
   {
     "id": "3068",
@@ -1292,7 +1292,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON HAWKINS. C/O DEAN 1326 GREGORY RD CAMDEN NY 13316 2 MILES S OF OSCEOLA VILLAGE ON FLORENCE-OSCEOLA RD SS 930,SM 1030,SN 630,W 7 SN YOUTH GROUP 630 KJB,HYLES"
+    "description": "C/O DEAN CAMDEN NY 13316 2 MILES S OF OSCEOLA VILLAGE ON FLORENCE-OSCEOLA RD SS 930,SM 1030,SN 630,W 7 SN YOUTH GROUP 630 KJB,HYLES"
   },
   {
     "id": "3069",
@@ -1311,12 +1311,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MARK EMKE. 62 MAIN ST HUDSON FALLS NY 12839 SS 945,SM 1050,SN 6,W 7 BUS,JAIL,SOULWINNING,GROWING IN GRACE KJB,HYLES"
+    "description": "HUDSON FALLS NY 12839 SS 945,SM 1050,SN 6,W 7 BUS,JAIL,SOULWINNING,GROWING IN GRACE KJB,HYLES"
   },
   {
     "id": "3070",
     "name": "OPEN DOOR BAPTIST CHURCH",
-    "address": "3576 LUCE RD",
+    "address": "406 INGERSOLL AVE",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1329,7 +1329,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EMKE EX-USAF. 3576 LUCE RD CASSADAGA NY 14718 SS 945,SM 11,SN 6,W 7 OPEN DOOR ACADEMY 406 INGERSOLL AVE FRANKFORT NY 13406 SM 1030,SN 7,W 7 NEEDS PASTOR KJB church."
+    "description": "CASSADAGA NY 14718 SS 945,SM 11,SN 6,W 7 OPEN DOOR ACADEMY FRANKFORT NY 13406 SM 1030,SN 7,W 7 NEEDS"
   },
   {
     "id": "3071",
@@ -1342,17 +1342,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -75.0041,
     "phone": "(585) 973-7158",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "43 W MAIN ST FRIENDSHIP NY 14739 SS 10,SM 11,SN 7,W 7 NEEDS PASTOR KJB church."
+    "description": "FRIENDSHIP NY 14739 SS 10,SM 11,SN 7,W 7 NEEDS"
   },
   {
     "id": "3072",
     "name": "GREATER GLENS FALLS BIBLE BAPTIST",
-    "address": "1 1/2 WEST ST",
+    "address": "7 PATCH PIRATE GREATER GLENS FALLS CHRISTIAN ACADEMY BAPTIST BIBLE INST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1366,7 +1366,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CARL LUBIN. 1 1/2 WEST ST HUDSON FALLS NY 12839 SS 10,SM 11,SN 630,W 7 PATCH PIRATE GREATER GLENS FALLS CHRISTIAN ACADEMY BAPTIST BIBLE INSTITUTE & COLLEGE MP3 AUDIO SERMONS ONLINE KJB,UNAFFILIATED 779 ELMONT RD"
+    "description": "HUDSON FALLS NY 12839 SS 10,SM 11,SN 630,W ITUTE & COLLEGE MP3 AUDIO SERMONS ONLINE KJB,UNAFFILIATED 779 ELMONT RD"
   },
   {
     "id": "3073",
@@ -1384,7 +1384,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "745 MINERAL SPRINGS RD COBLESKILL NY 12043 Near MIDDLEBURGH SS 10, SM 11, SN 5, W 7"
+    "description": "COBLESKILL NY 12043 Near MIDDLEBURGH SS 10, SM 11, SN 5, W 7"
   },
   {
     "id": "3074",
@@ -1404,7 +1404,7 @@ export const newyorkChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MATTHEW WEBER. ALL SERVICES BROADCAST LIVE, CHOIR, TEENS, KIDS CLUB, JUNIOR CHURCH, SOULWINNING, DISCIPLESHIP PROGRAM KJB,UNAFFILIATED"
+    "description": "ALL SERVICES BROADCAST LIVE, CHOIR, TEENS, KIDS CLUB, JUNIOR CHURCH, SOULWINNING, DISCIPLESHIP PROGRAM KJB,UNAFFILIATED"
   },
   {
     "id": "3075",
@@ -1422,7 +1422,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT E GRIESE. PO BOX 502 7035 W MAIN ST PORT LEYDEN NY 13433 KJB church."
+    "description": "PO BOX 502 PORT LEYDEN NY 13433 KJB church"
   },
   {
     "id": "3076",
@@ -1440,7 +1440,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID A DUNBAR. 146 CR 41A FERNWOOD NY 13142-2116 NEAR PULASKI NY BS 9,SS 10,SM 11 KJB church."
+    "description": "146 CR 41A FERNWOOD NY 13142-2116 NEAR PULASKI NY BS 9,SS 10,SM 11 KJB church"
   },
   {
     "id": "3077",
@@ -1458,12 +1458,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLEN HAMILTON. PO BOX 2021 3324 E GENESEE ST AUBURN NY 13021 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
+    "description": "PO BOX 2021 AUBURN NY 13021 SS 10,SM 11,SN 6,W 7 KJB,HYLES"
   },
   {
     "id": "3078",
     "name": "RENSSELAER OPEN BIBLE BAPTIST",
-    "address": "1615 3RD ST",
+    "address": "8723 CHURCH ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1476,7 +1476,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG KING. 1615 3RD ST RENSSELAER NY 12144 SS 10,SM 11,SN 6,W 730 KJB, GARBC,PCC PO BOX 326 8723 CHURCH ST THREE MILE BAY NY  13693 TRADITIONAL WORSHIP SERVICES, SUNDAY SCHOOL FOR ALL AGES, CHILDREN CHURCH, MP3"
+    "description": "1615 3RD ST RENSSELAER NY 12144 SS 10,SM 11,SN 6,W 730 KJB, GARBC,PCC PO BOX 326 THREE MILE BAY NY 13693 TRADITIONAL WORSHIP SERVICES, SUNDAY SCHOOL FOR ALL AGES, CHILDREN CHURCH, MP3"
   },
   {
     "id": "3079",
@@ -1494,7 +1494,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "125 LONG ISLAND AVE HOLTSVILLE NY 11742 SS 10,SM 11,SN 6,W 7 CHOIR,YOUTH"
+    "description": "HOLTSVILLE NY 11742 SS 10,SM 11,SN 6,W 7 CHOIR,YOUTH"
   },
   {
     "id": "3080",
@@ -1513,12 +1513,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by VINCE GIARDINO. BIBLE INSTITUTE KJB,RUCKMAN,HYLES ANDERSON,UNAFFILIATED"
+    "description": "BIBLE INSTITUTE KJB,RUCKMAN,HYLES ANDERSON,UNAFFILIATED"
   },
   {
     "id": "3081",
     "name": "GOSPEL LIGHT BIBLE BAPTIST CHURCH",
-    "address": "4393 LYELL RD",
+    "address": "4393 LYELL RD ROCHEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1532,12 +1532,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DARREN PERSONS. 4393 LYELL RD ROCHESTER NY 14124 SS 10,SM 11,SN 6,W 7 SOULWINNING,AUDIO AND VISUAL,INTERNET MINISTRY,STREET PREACHING,SENIORS, PATCH CLUB,TEENS, MP3 AUDIO SERMONS ONLINE, MISSIONARY HOUSING KJB church."
+    "description": "ER NY 14124 SS 10,SM 11,SN 6,W 7 SOULWINNING,AUDIO AND VISUAL,INTERNET MINISTRY,STREET PREACHING,SENIORS, PATCH CLUB,TEENS, MP3 AUDIO SERMONS ONLINE, MISSIONARY HOUSING KJB church"
   },
   {
     "id": "3082",
     "name": "OLDE LIBERTY BAPTIST CHURCH",
-    "address": "600 STATE HWY 67",
+    "address": "7 FELLOWSHIP CHRIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1550,12 +1550,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON PITMAN. 600 STATE HWY 67 MALTA NY 12020 SS 10,SM 11,SN 6,W 7 FELLOWSHIP CHRISTIAN ACADEMY MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "600 STATE HWY 67 MALTA NY 12020 SS 10,SM 11,SN 6,W IAN ACADEMY MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3083",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "11791 E CORNING RD",
+    "address": "7 SOLID ROCK YOUTH MINISTRIES KINGS WAY CHRIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "11791",
@@ -1568,7 +1568,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "11791 E CORNING RD CORNING NY 14830 SS 10,SM 11,SN 6,W 7 SOLID ROCK YOUTH MINISTRIES KINGS WAY CHRISTIAN ACADEMY,K-12"
+    "description": "CORNING NY 14830 SS 10,SM 11,SN 6,W IAN ACADEMY,K-12"
   },
   {
     "id": "3084",
@@ -1581,17 +1581,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -73.9229,
     "phone": "(585) 344-1898",
     "website": "http://brightwaybaptist.org",
-    "pastor": "JOSHUA CALABRESE",
+    "pastor": "CATTARAUGUS NY 14719 SS 10,SM 11 KJB,RUCKMAN 350 SCOTTSVILLE-CHILI RD CHURCHVILLE NY 14428 SS 945,SM 830 & 1045,SN 6,W 7 TEENS,YOUTH,D",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA CALABRESE. 3515 GALLOWAY RD BATAVIA NY 14020 SS 10,SM 11,SN 6,W 7 23 GAIL DR CATTARAUGUS NY 14719 SS 10,SM 11 KJB,RUCKMAN 350 SCOTTSVILLE-CHILI RD CHURCHVILLE NY 14428 SS 945,SM 830 & 1045,SN 6,W 7 TEENS,YOUTH,D"
+    "description": "BATAVIA NY 14020 SS 10,SM 11,SN 6,W 7 23 GAIL DR CATTARAUGUS NY 14719 SS 10,SM 11 KJB,RUCKMAN 350 SCOTTSVILLE-CHILI RD CHURCHVILLE NY 14428 SS 945,SM 830 & 1045,SN 6,W 7 TEENS,YOUTH,D"
   },
   {
     "id": "3085",
     "name": "FIRST BIBLE BAPTIST CHURCH",
-    "address": "555 CENTRAL AVE",
+    "address": "555 CENTRAL AVE LANCAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1604,7 +1604,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE BURKINSHAW SR. 555 CENTRAL AVE LANCASTER NY 14086 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB,RUCKMAN,GIPP"
+    "description": "ER NY 14086 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB,RUCKMAN,GIPP"
   },
   {
     "id": "3086",
@@ -1622,12 +1622,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE CHRISTIAN BRUNS. PO BOX 405 585 W MAIN ST ELBRIDGE NY 13060 VIDEO SERMONS ONLINE KJB church."
+    "description": "PO BOX 405 ELBRIDGE NY 13060 VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "3087",
     "name": "HENDRICKSON AVE BIBLE CHURCH",
-    "address": "72 EDWARD ST",
+    "address": "730 BEREAN BIBLE INST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1640,12 +1640,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN SHEDD. 72 EDWARD ST LYNBROOK NY 11563 SS 10,SM 11,SN 7,W 730 BEREAN BIBLE INSTITUTE KJB,CONSERVATIVE 13 SHEEHAN RD GRANVILLE NY 12832 SM 11,SN 130 WEDNESDAY NIGHT BIBLE COLLEGE"
+    "description": "LYNBROOK NY 11563 SS 10,SM 11,SN 7,W ITUTE KJB,CONSERVATIVE 13 SHEEHAN RD GRANVILLE NY 12832 SM 11,SN 130 WEDNESDAY NIGHT BIBLE COLLEGE"
   },
   {
     "id": "3088",
     "name": "OLD PATHS BIBLE BAPTIST CHURCH",
-    "address": "4782 HALL RD",
+    "address": "14470 ROCHESTER AREA UPSTATE BIBLE INST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1658,7 +1658,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL SHAFER. 4782 HALL RD HOLLEY NY 14470 ROCHESTER AREA UPSTATE BIBLE INSTITUTE SM 10,W 7 KJB,TRINITY-BC-JXFL"
+    "description": "HOLLEY NY ITUTE SM 10,W 7 KJB,TRINITY-BC-JXFL"
   },
   {
     "id": "3089",
@@ -1676,7 +1676,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD RICE. 86-76 80TH ST WOODHAVEN NY 11421 in QUEENS SS 930,SM 11,SN 130,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "WOODHAVEN NY 11421 in QUEENS SS 930,SM 11,SN 130,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3090",
@@ -1694,12 +1694,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICE EX-USAF. 54 MAIN ST BOX 99 DRESDEN NY 14441 MAIN & CORNELIA SS 10,SM 11,SN 6,W 7,SW TH 7 KJB church."
+    "description": "DRESDEN NY 14441 MAIN & CORNELIA SS 10,SM 11,SN 6,W 7,SW TH 7 KJB church"
   },
   {
     "id": "3091",
     "name": "ANNSVILLE BAPTIST CHURCH",
-    "address": "705 HUDSON AVE",
+    "address": "7 IGLESIA BAUTIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1712,12 +1712,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSE SARAVIA. 705 HUDSON AVE PEEKSKILL NY 10566 SS 10,SM 11,SN 6,W 7 IGLESIA BAUTISTA INTERNACIONAL DE CORTLANDT 5745 ALBANY POST RD CORTLANDT MANOR NY 10567 SN 6,W 730 KJB church."
+    "description": "PEEKSKILL NY 10566 SS 10,SM 11,SN 6,W A INTERNACIONAL DE CORTLANDT 5745 ALBANY POST RD CORTLANDT MANOR NY 10567 SN 6,W 730 KJB church"
   },
   {
     "id": "3092",
     "name": "CENTER RD BAPTIST CHURCH",
-    "address": "412 CENTER RD",
+    "address": "412 CENTER RD WEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1730,7 +1730,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICOLAS. 412 CENTER RD WEST SENECA NY 14224 SS 10,SM 11,SN 630,W 630 DAYCARE,BUS,CHURCH PLANTING, ALL SERVICES STREAMED LIVE CENTER RD CHRISTIAN ACADEMY,K-12,ACE BIBLE INSTITUTE KJB,RUCKMAN"
+    "description": "SENECA NY 14224 SS 10,SM 11,SN 630,W 630 DAYCARE,BUS,CHURCH PLANTING, ALL SERVICES STREAMED LIVE CENTER RD CHRISTIAN ACADEMY,K-12,ACE BIBLE INSTITUTE KJB,RUCKMAN"
   },
   {
     "id": "3093",
@@ -1748,12 +1748,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "865 MORRIS PARK AVE BRONX NY 10462"
+    "description": "BRONX NY 10462"
   },
   {
     "id": "3094",
     "name": "BBBAPTIST",
-    "address": "2919 W LYDIUS ST",
+    "address": "2919 W LYDIUS ST SCHENECT",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1767,7 +1767,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL UTLEY. SS 10,SM 12,TH 8 KJB,UNAFFILIATED 2919 W LYDIUS ST SCHENECTADY NY 12303 SS 10,SM 11,SN 6,W 7 MONTHLY MENS AND LADIES MEETINGS KJB,GIPP"
+    "description": "SS 10,SM 12,TH 8 KJB,UNAFFILIATED ADY NY 12303 SS 10,SM 11,SN 6,W 7 MONTHLY MENS AND LADIES MEETINGS KJB,GIPP"
   },
   {
     "id": "3095",
@@ -1786,12 +1786,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BRIAN BALZAMO. PO BOX 215 981 BOWEN RD ELMA NY 14059 SS 10,SM 11,SN 6,W 7 CHOIR,ORCHESTRA,TEEN MP3 SERMONS ONLINE KJB church."
+    "description": "PO BOX 215 ELMA NY 14059 SS 10,SM 11,SN 6,W 7 CHOIR,ORCHESTRA,TEEN MP3 SERMONS ONLINE KJB church"
   },
   {
     "id": "3096",
     "name": "SOUTH BAPTIST CHURCH",
-    "address": "197 MAIN ST",
+    "address": "3 AUDIO SERMONS ONLINE NEEDS PAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1799,12 +1799,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -75.0878,
     "phone": "(718) 605-3500",
     "website": "https://www.facebook.com/southbaptistchurchny",
-    "pastor": "NICHOLAS RUSSO",
+    "pastor": "119 CHURCH ST GROTON NY 13073 SS 10,SM 11,W 6 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICHOLAS RUSSO. 197 MAIN ST STATEN ISLAND NY 10307-1228 TOTTENVILLE AREA SM 10,W 630 MP3 AUDIO SERMONS ONLINE NEEDS PASTOR 119 CHURCH ST GROTON NY 13073 SS 10,SM 11,W 6 KJB church."
+    "description": "ATEN ISLAND NY 10307-1228 TOTTENVILLE AREA SM 10,W 630 MP3 AUDIO SERMONS ONLINE NEEDS"
   },
   {
     "id": "3097",
@@ -1822,7 +1822,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1425 WALKER LAKE ONTARIO RD HILTON NY 14468 SS 10,SM 11,SN 6,W 7 BUS,MASTERS CLUB"
+    "description": "HILTON NY 14468 SS 10,SM 11,SN 6,W 7 BUS,MASTERS CLUB"
   },
   {
     "id": "3098",
@@ -1840,7 +1840,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW BAILEY.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3099",
@@ -1858,7 +1858,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALEX REDUCZ. 7184 HUNTERS CREEK RD HOLLAND NY 14080 SS 10,SM 11,SN 630,W 7 25 MILES SE OF BUFFALO KJB,IFFB 105 WYGANT RD HORSEHEADS NY 14845 SS 10,SM 11,SN 130,W 7"
+    "description": "HOLLAND NY 14080 SS 10,SM 11,SN 630,W 7 25 MILES SE OF BUFFALO KJB,IFFB 105 WYGANT RD HORSEHEADS NY 14845 SS 10,SM 11,SN 130,W 7"
   },
   {
     "id": "3100",
@@ -1878,7 +1878,7 @@ export const newyorkChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by JOHN VETTRAINO. 483 MECHANIC ST IRVING NY 14081 SS 10,SM 11,SN 7,W 715, PATCH PIRATE CLUB, INSTITUTE 6145 WISCOY-MILLS RD FILLMORE NY 14735 KJB,RUCKMAN,PBI 949 LINCOLN AVE LOCKPORT NY 14094 SS 10,SM 11,SN 630,W 7 LOC"
+    "description": "IRVING NY 14081 SS 10,SM 11,SN 7,W 715, PATCH PIRATE CLUB, INSTITUTE 6145 WISCOY-MILLS RD FILLMORE NY 14735 KJB,RUCKMAN,PBI 949 LINCOLN AVE LOCKPORT NY 14094 SS 10,SM 11,SN 630,W 7 LOC"
   },
   {
     "id": "3101",
@@ -1896,12 +1896,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 129 15564 SR 104 MARTVILLE NY 13111 SS 930,SM 1030,SN 6,W 7 TEEN,YOUTH,STREET PREACHING, NURSING 2ND CHANCE CHRISTIAN NEWSLETTER / JAIL"
+    "description": "PO BOX 129 15564 SR 104 MARTVILLE NY 13111 SS 930,SM 1030,SN 6,W 7 TEEN,YOUTH,STREET PREACHING, NURSING"
   },
   {
     "id": "3102",
     "name": "PRISON MINISTRY HTTP",
-    "address": "746 NORTON ST",
+    "address": "746 NORTON ST ROCHEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1915,7 +1915,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HECTOR SOTOMAYOR. KJB,UNAFFILIATED 746 NORTON ST ROCHESTER NY 14621 SS 10,SM 11,W 645 CHRISTIAN SCHOOL,K-12 KJB,BIMI"
+    "description": "KJB,UNAFFILIATED ER NY 14621 SS 10,SM 11,W 645 CHRISTIAN SCHOOL,K-12 KJB,BIMI"
   },
   {
     "id": "3103",
@@ -1933,7 +1933,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE COSTA. PO BOX 1370 BRONX NY 10475 MEETING AT 934 NEILL AVE SM 1030, TUE 7, SPANISH KJB,RUCKMAN 3656 RT 112 CORAM NY 11727 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB,WOL"
+    "description": "PO BOX 1370 BRONX NY 10475 SM 1030, TUE 7, SPANISH KJB,RUCKMAN 3656 RT 112 CORAM NY 11727 SS 10,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB,WOL"
   },
   {
     "id": "3104",
@@ -1951,12 +1951,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD ROSCOE. 7524 14TH AVE BROOKLYN NY 11228 SS 10,SM 11,SN RU 6,W 730 REFORMERS UNANIMOUS KJB, GIPP, FISHER, WYATT, PBI"
+    "description": "BROOKLYN NY 11228 SS 10,SM 11,SN RU 6,W 730 REFORMERS UNANIMOUS KJB, GIPP, FISHER, WYATT, PBI"
   },
   {
     "id": "3105",
     "name": "CHILI BIBLE BAPTIST CHURCH",
-    "address": "4154 BUFFALO RD",
+    "address": "4154 BUFFALO RD ROCHEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1971,12 +1971,12 @@ export const newyorkChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JACK YOUNG. PO BOX 26203 4154 BUFFALO RD ROCHESTER NY 14626 SS 930 SM 1030 SN 6, TH 7 WMA AUDIO SERMONS & MUSIC ONLINE BUS, YOUTH, CHOIR, SOULWINNING, STREET PREACHING, INSTITUTE YOUTH ABLAZE CONFERENCE EVERY FEB KJB church."
+    "description": "PO BOX 26203 ER NY 14626 SS 930 SM 1030 SN 6, TH 7 WMA AUDIO SERMONS & MUSIC ONLINE BUS, YOUTH, CHOIR, SOULWINNING, STREET PREACHING, INSTITUTE YOUTH ABLAZE CONFERENCE EVERY FEB KJB church"
   },
   {
     "id": "3106",
     "name": "LIGHTHOUSE BIBLE BAPTIST CHURCH",
-    "address": "48 S ESTATE DR",
+    "address": "48 S ESTATE DR WEBST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -1984,12 +1984,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -76.0856,
     "phone": "(585) 545-4025",
     "website": "http://www.lbbc.info",
-    "pastor": "",
+    "pastor": "WEBSTER NY 14580 Near ROCHESTER SS 930,SM 1030,SN 6,W 7",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "48 S ESTATE DR WEBSTER NY 14580 Near ROCHESTER SS 930,SM 1030,SN 6,W 7"
+    "description": "ER NY 14580 Near ROCHESTER SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "3107",
@@ -2007,7 +2007,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETE MONTORO. KJB,HEARTLAND-BBC"
+    "description": "KJB,HEARTLAND-BBC"
   },
   {
     "id": "3108",
@@ -2025,7 +2025,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREGORY FERGUSON. 30-85 35TH ST ASTORIA NY 11103-4701 2052 31ST ASTORIA NY 11106 SM 1030,SN 6,THU 730 FORT HAMILTON KJB church."
+    "description": "ASTORIA NY 11103-4701 2052 31ST ASTORIA NY 11106 SM 1030,SN 6,THU 730 FORT HAMILTON KJB church"
   },
   {
     "id": "3109",
@@ -2043,7 +2043,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5349 BUCKSETLEMENT RD BATH NY 14810 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS ONLINE"
+    "description": "BATH NY 14810 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS ONLINE"
   },
   {
     "id": "3110",
@@ -2061,12 +2061,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE VEACH. KJB, RUCKMAN"
+    "description": "KJB, RUCKMAN"
   },
   {
     "id": "3111",
     "name": "FIRST BIBLE CHURCH",
-    "address": "6200 AMBOY RD",
+    "address": "6200 AMBOY RD ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2079,7 +2079,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN UHL. 6200 AMBOY RD STATEN ISLAND NY 10309 SM 10,SN 6,W 7 THE BIBLE ON... MINISTRY TRAINING INSTITUTE KJB church."
+    "description": "ATEN ISLAND NY 10309 SM 10,SN 6,W 7 THE BIBLE ON... MINISTRY TRAINING INSTITUTE KJB church"
   },
   {
     "id": "3112",
@@ -2097,12 +2097,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE HARNESS. 1206 CANANDIAGUA RD PALMYRA NY 14522 KJB,PRE-TRIB,PRE-MIL (NOT RUCKMAN)"
+    "description": "PALMYRA NY 14522 KJB,PRE-TRIB,PRE-MIL (NOT RUCKMAN)"
   },
   {
     "id": "3113",
     "name": "WILTON BAPTIST CHURCH",
-    "address": "755 SARATOGA RD",
+    "address": "12 ORCHARD RIDGE RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2117,7 +2117,7 @@ export const newyorkChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by LARRY HOLLAND. 755 SARATOGA RD PO BOX 2075 WILTON NY 12831 SS 10,SM 11,SN 6,W 630 KJB,TBC-FL,BBF,IFFB 12 ORCHARD RIDGE RD CHAPPAQUA NY 10514 SS 10,SM 11,SN 6,W 730 WMA AUDIO SERMONS ONLINE KJB,HYLES 2032 CHAMBERS RD"
+    "description": "PO BOX 2075 WILTON NY 12831 SS 10,SM 11,SN 6,W 630 KJB,TBC-FL,BBF,IFFB CHAPPAQUA NY 10514 SS 10,SM 11,SN 6,W 730 WMA AUDIO SERMONS ONLINE KJB,HYLES 2032 CHAMBERS RD"
   },
   {
     "id": "3114",
@@ -2135,12 +2135,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LOU GUADAGNO. 315 MCKINLEY AVE BROOKLYN NY 11218 SS 10,SM 11,W 730 KJB church."
+    "description": "BROOKLYN NY 11218 SS 10,SM 11,W 730 KJB church"
   },
   {
     "id": "3115",
     "name": "OLD TIME BAPTIST CHURCH",
-    "address": "5599 CAMP RD",
+    "address": "14301 NEEDS PAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2153,7 +2153,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL POLZELLA. PO BOX 120 5599 CAMP RD HAMBURG NY 14075 SS 10,SM 1105,SN 630,W 7 REAL AUDIO SERMONS ONLINE 1110 19TH ST NIAGARA FALLS NY 14301 NEEDS PASTOR KJB church."
+    "description": "PO BOX 120 HAMBURG NY 14075 SS 10,SM 1105,SN 630,W 7 REAL AUDIO SERMONS ONLINE 1110 19TH ST NIAGARA FALLS NY 14301 NEEDS"
   },
   {
     "id": "3116",
@@ -2172,7 +2172,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DON HAGEN. 301-5 PACIFIC ST BROOKLYN NY 11201 SM 1030,SN 6 SPANISH MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "BROOKLYN NY 11201 SM 1030,SN 6 SPANISH MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3117",
@@ -2190,7 +2190,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL GRASSI. 8505 SOUTH STREET RD PORT BYRON NY 13140 SS 10,SM 11,SN 6,TH 630 KJB church."
+    "description": "PORT BYRON NY 13140 SS 10,SM 11,SN 6,TH 630 KJB church"
   },
   {
     "id": "3118",
@@ -2208,7 +2208,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARRETT HALL. 1276 COMMONWEALTH AVE BRONX NY 10472 SS 10,SM 11,TH 7 6875 E WILLIAM ST EXT BATH NY 14810 SS 10,SM 11,SN ,W 7 VIDEO SERMONS ONLINE GRACE CHRISTIAN ACADEMY, PK-12 KJB church."
+    "description": "BRONX NY 10472 SS 10,SM 11,TH 7 6875 E WILLIAM ST EXT BATH NY 14810 SS 10,SM 11,SN ,W 7 VIDEO SERMONS ONLINE GRACE CHRISTIAN ACADEMY, PK-12 KJB church"
   },
   {
     "id": "3119",
@@ -2226,7 +2226,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by COLIN LUCID. 6962 SWEENEY RD GREIG NY 13345 SS 930, SM1030,SN 6,W 6 PO BOX 642 HIGHLAND RD MASSENA NY 13662 SS 945,SM 11,SN 6,W 7 BIBLE INSTITUTE 381 CAMP ST JAMESTOWN NY 14701 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GREIG NY 13345 SS 930, SM1030,SN 6,W 6 PO BOX 642 HIGHLAND RD MASSENA NY 13662 SS 945,SM 11,SN 6,W 7 BIBLE INSTITUTE 381 CAMP ST JAMESTOWN NY 14701 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3120",
@@ -2245,7 +2245,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by NICHOLAS CULTRARA. 7682 SR 104 OSWEGO NY 13126 SS 945,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "7682 SR 104 OSWEGO NY 13126 SS 945,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "3121",
@@ -2263,12 +2263,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD HACK. 5571 CRITTENDEN RD AKRON NY 14001 SS 945,SM 11,SN 1230,W 6 YOUTH,SINGLES,SOUL-WINNING NIAGARA FALLS AFB (40 MILES) KJB, HYLES 209 GARDNER RD HORSEHEADS NY 14845 NEAR ELMIRA SS 945, SM 11, SN 6, W 7 PO"
+    "description": "AKRON NY 14001 SS 945,SM 11,SN 1230,W 6 YOUTH,SINGLES,SOUL-WINNING NIAGARA FALLS AFB (40 MILES) KJB, HYLES 209 GARDNER RD HORSEHEADS NY 14845 NEAR ELMIRA SS 945, SM 11, SN 6, W 7 PO"
   },
   {
     "id": "3122",
     "name": "AV BAPTIST CHURCH",
-    "address": "441 PARK AVE",
+    "address": "441 PARK AVE WAVE",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2276,12 +2276,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -76.2802,
     "phone": "(570) 886-0727",
     "website": "https://www.facebook.com/100064802587656",
-    "pastor": "EVANGELIST JERRY NOSEWORTHY",
+    "pastor": "4898 STATE HWY 28 COOPERSTOWN NY 13326 SS 10,SM 11,SN 6,W 7 4635 STATE ROUTE 9 PLATTSBURGH NY 12901 SS 945,SM 11,SN 6,W 7 LAKESHORE KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EVANGELIST JERRY NOSEWORTHY. 441 PARK AVE WAVERLY NY 14892 SS 945, SM 11, SN 7, W 7 NEEDS PASTOR 4898 STATE HWY 28 COOPERSTOWN NY 13326 SS 10,SM 11,SN 6,W 7 4635 STATE ROUTE 9 PLATTSBURGH NY 12901 SS 945,SM 11,SN 6,W 7 LAKESHORE  KJB church."
+    "description": "RLY NY 14892 SS 945, SM 11, SN 7, W 7 NEEDS"
   },
   {
     "id": "3123",
@@ -2299,12 +2299,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4962 BUCKLEY RD LIVERPOOL NY 13088 SS 945,SM 830 & 1045,SN 7,W 7 BUS,DEAF"
+    "description": "LIVERPOOL NY 13088 SS 945,SM 830 & 1045,SN 7,W 7 BUS,DEAF"
   },
   {
     "id": "3124",
     "name": "NYS CHURCH PLANTERS",
-    "address": "8721 TRAVEL RD",
+    "address": "7 MARANATHA CHRIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2317,7 +2317,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN KUHN. 8721 TRAVEL RD LYONS NY 14489-9316 SS 945,SM 11,SN 6,W 7 MARANATHA CHRISTIAN SCHOOL,K-12,ACE KJB church."
+    "description": "LYONS NY 14489-9316 SS 945,SM 11,SN 6,W IAN SCHOOL,K-12,ACE KJB church"
   },
   {
     "id": "3125",
@@ -2335,7 +2335,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "1859 AUBURN RD SENECA FALLS NY 13148 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "SENECA FALLS NY 13148 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3126",
@@ -2353,7 +2353,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW SLUDER. AUDIO & SERMON OUTLINES ONLINE KJB church."
+    "description": "AUDIO & SERMON OUTLINES ONLINE KJB church"
   },
   {
     "id": "3127",
@@ -2372,7 +2372,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by FRANK CALABRESE. 6 STEWART DR (RT 30) CONSTABLE NY 12926 131 CLARK RD FORT PLAIN NY 13339 SS 10,SM 11,SN 630,W 630 BUS, SOULWINNING, KIDS CLUBS, VICTORY CHRISTIAN ADADEMY,K5-8 KJB,TRAD-MUSIC 34 E SEARSVILLE RD MONTGOM"
+    "description": "CONSTABLE NY 12926 131 CLARK RD FORT PLAIN NY 13339 SS 10,SM 11,SN 630,W 630 BUS, SOULWINNING, KIDS CLUBS, VICTORY CHRISTIAN ADADEMY,K5-8 KJB,TRAD-MUSIC 34 E SEARSVILLE RD MONTGOM"
   },
   {
     "id": "3128",
@@ -2390,7 +2390,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5266 WILCOX RD WHITESBORO NY 13492 SS 10,SM 11,SN 7,W 7"
+    "description": "WHITESBORO NY 13492 SS 10,SM 11,SN 7,W 7"
   },
   {
     "id": "3129",
@@ -2408,12 +2408,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY NUTT.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3130",
     "name": "LAKE ERIE BAPTIST CHURCH",
-    "address": "9500 LAKE AVE",
+    "address": "9500 LAKE AVE BROCT",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2426,7 +2426,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "9500 LAKE AVE BROCTON NY 14716"
+    "description": "ON NY 14716"
   },
   {
     "id": "3131",
@@ -2444,7 +2444,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS BARAN. 8688 S MAIN ST EDEN NY 14057 INFO ON WEBSITE,BIOGRAPHIES,LOTSA TOPICS SS 950,SM 1050,SN 630,W 7 NIAGARA FALLS AFB 20 MILES KJB church."
+    "description": "EDEN NY 14057 INFO ON WEBSITE,BIOGRAPHIES,LOTSA TOPICS SS 950,SM 1050,SN 630,W 7 NIAGARA FALLS AFB 20 MILES KJB church"
   },
   {
     "id": "3132",
@@ -2463,7 +2463,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KENT SAGER. PO BOX 341 64 REEVES RD HENRIETTA NY 14467 SS 945,SM 11,SN 6,W 7 KJB,CBA,BBF 798 HEMPSTEAD TPKE FRANKLIN SQUARE NY 11011 SS 9,SM 1130,SN 130,W 730 11 ESTATE BLVD NEWBURGH NY 12550 SS 10,SM 11,SN 6,W 6"
+    "description": "PO BOX 341 HENRIETTA NY 14467 SS 945,SM 11,SN 6,W 7 KJB,CBA,BBF 798 HEMPSTEAD TPKE FRANKLIN SQUARE NY 11011 SS 9,SM 1130,SN 130,W 730 11 ESTATE BLVD NEWBURGH NY 12550 SS 10,SM 11,SN 6,W 6"
   },
   {
     "id": "3133",
@@ -2481,7 +2481,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEREMIAH BUCKLAND. 2295 DOWNER ST BALDWINSVILLE NY 13027 SS 10, SM 11, SN 6, W 7 KJB,PBI"
+    "description": "BALDWINSVILLE NY 13027 SS 10, SM 11, SN 6, W 7 KJB,PBI"
   },
   {
     "id": "3134",
@@ -2500,12 +2500,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN GEBO. 5950 CR 14 ALPINE NY 14805 NEAR ITHACA & ELMIRA SS 10,SM 11 KJV-PREACHED/RECOMMENDED,UNAFFILIATED KJB church."
+    "description": "5950 CR 14 ALPINE NY 14805 NEAR ITHACA & ELMIRA SS 10,SM 11 KJV-PREACHED/RECOMMENDED,UNAFFILIATED KJB church"
   },
   {
     "id": "3135",
     "name": "TRUTHVILLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 157",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2518,7 +2518,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN J RACITE. PO BOX 157 39 COUNTY ROUTE 12A NORTH GRANVILLE NY 12854 AUDIO SERMONS ONLINE, TRADITIONAL MUSIC AND WORSHIP SERVICE TRUTHVILLE CHRISTIAN ACADEMY,K5-12 KJV,FFBC,PCC KJB church."
+    "description": "39 COUNTY ROUTE 12A NORTH GRANVILLE NY 12854 AUDIO SERMONS ONLINE, TRADITIONAL MUSIC AND WORSHIP SERVICE TRUTHVILLE CHRISTIAN ACADEMY,K5-12 KJV,FFBC,PCC KJB church"
   },
   {
     "id": "3136",
@@ -2536,7 +2536,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE ROOF. 213 MAIN ST CORNWALL NY 12518 SS 945,SM 11,SN 6,W 7 KJV,FOFBC,BJU,NORTHLAND-BC KJB church."
+    "description": "CORNWALL NY 12518 SS 945,SM 11,SN 6,W 7 KJV,FOFBC,BJU,NORTHLAND-BC KJB church"
   },
   {
     "id": "3137",
@@ -2554,7 +2554,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERAL LEWIS. 12 LAUNFEL ST ALBANY NY 12205 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "ALBANY NY 12205 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3138",
@@ -2572,12 +2572,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE SNAVELY. 22517 143RD AVE LAURELTON NY 11413 SS 945,SM 11,SN 5 PREACH-KJV,FFBC,FBFI OLD STATE RD HIGHLAND FALLS NY 10928 SS 945,SM 11,SN 6,W 7 PATCH PIRATE,TEEN TIME YOUNG ADULT BIBLE STUDY @ WEST POINT WEST PO KJB church."
+    "description": "LAURELTON NY 11413 SS 945,SM 11,SN 5 PREACH-KJV,FFBC,FBFI OLD STATE RD HIGHLAND FALLS NY 10928 SS 945,SM 11,SN 6,W 7 PATCH PIRATE,TEEN TIME YOUNG ADULT BIBLE STUDY @ WEST POINT WEST PO KJB church"
   },
   {
     "id": "3139",
     "name": "RIDGEWOOD BAPTIST CHURCH",
-    "address": "6413 CATALPA AVE",
+    "address": "271 BUCYRUS DR AMHERST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2585,17 +2585,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -74.9184,
     "phone": "(718) 386-1830",
     "website": "http://www.theridgewoodchurch.com",
-    "pastor": "MICHAEL A CESAR",
+    "pastor": "AMHERST NY 14228 SS 945,SM 11,TH 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL A CESAR. 6413 CATALPA AVE RIDGEWOOD NY 11385 SM 1030,W 7 271 BUCYRUS DR AMHERST NY 14228 SS 945,SM 11,TH 7 KJB church."
+    "description": "RIDGEWOOD NY 11385 SM 1030,W 7 NY 14228 SS 945,SM 11,TH 7 KJB church"
   },
   {
     "id": "3140",
     "name": "PIKE BAPTIST CHURCH",
-    "address": "72 MAIN ST",
+    "address": "23 BIRDSALL ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2608,7 +2608,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT FRAYER. PO BOX 192 72 MAIN ST PIKE NY 14130 23 BIRDSALL ST NORWICH NY 13815-1813 KJB church."
+    "description": "PO BOX 192 PIKE NY 14130 NORWICH NY 13815-1813 KJB church"
   },
   {
     "id": "3141",
@@ -2626,7 +2626,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE POST. SS 10,SM 11,SN 6,W 630 (I was a bus kid at this church) KJB church."
+    "description": "SS 10,SM 11,SN 6,W 630 (I was a bus kid at this church) KJB church"
   },
   {
     "id": "3142",
@@ -2644,7 +2644,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANA CLINE. PO BOX 31 37 WILLSEYVILLE RD WILLSEYVILLE NY 13864 SS 945, SM 11, SN 630, W 630 KJV, BJU 511 UNION RD WEST SENECA NY 14224 SS 9,SM 1015,SN 6,W 7 KINGS KIDS, WILDS, COLLEGE/CAREER, MP3 AUDIO SERMONS ON KJB church."
+    "description": "PO BOX 31 WILLSEYVILLE NY 13864 SS 945, SM 11, SN 630, W 630 KJV, BJU 511 UNION RD WEST SENECA NY 14224 SS 9,SM 1015,SN 6,W 7 KINGS KIDS, WILDS, COLLEGE/CAREER, MP3 AUDIO SERMONS ON KJB church"
   },
   {
     "id": "3143",
@@ -2663,7 +2663,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY THOMAS. 6483 RT 55 WINGDALE NY 12594 RT 55 & SS 945,SM 11,SN 6,W 7 PDF SERMONS ONLINE 1060 COVERED BRIDGE RD UNADILLA NY 13849 SS 10,SM 11,SN 630,W 630 KJB,UNAFFILIATED"
+    "description": "6483 RT 55 WINGDALE NY 12594 RT 55 & SS 945,SM 11,SN 6,W 7 PDF SERMONS ONLINE UNADILLA NY 13849 SS 10,SM 11,SN 630,W 630 KJB,UNAFFILIATED"
   },
   {
     "id": "3144",
@@ -2682,7 +2682,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ANTHONY BACINO. 15 E MAIN ST (STORE FRONT) GOUVERNEUR NY 13642 SS 10,SN 6,W 630 BIBLE-BELIEVING, SOUL WINNING, DOOR TO DOOR, STREET PREACHING 30 MILES NORTH OF FT DRUM KJB, BJU 6483 RT 55 WINGDALE NY 12594 RT 55 & SS"
+    "description": "GOUVERNEUR NY 13642 SS 10,SN 6,W 630 BIBLE-BELIEVING, SOUL WINNING, DOOR TO DOOR, STREET PREACHING 30 MILES NORTH OF FT DRUM KJB, BJU 6483 RT 55 WINGDALE NY 12594 RT 55 & SS"
   },
   {
     "id": "3145",
@@ -2700,7 +2700,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 754296 97-40 64TH AVE REGO PARK NY 11374 QUEENS AREA SS 10,SM 11, W 130, FRI 7"
+    "description": "PO BOX 754296 REGO PARK NY 11374 QUEENS AREA SS 10,SM 11, W 130, FRI 7"
   },
   {
     "id": "3146",
@@ -2718,12 +2718,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC KESSEL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "3147",
     "name": "FARMERSVILLE BAPTIST CHURCH",
-    "address": "9791 CHURCH ST",
+    "address": "9791 CHURCH ST FARMERSVILLE ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2736,12 +2736,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID UNDERWOOD. 9791 CHURCH ST FARMERSVILLE STATION NY 14060 KJB church."
+    "description": "ATION NY 14060 KJB church"
   },
   {
     "id": "3148",
     "name": "WATERLOO BAPTIST CHURCH",
-    "address": "",
+    "address": "630 NEEDS PAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2749,12 +2749,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -74.9991,
     "phone": "(315) 539-2029",
     "website": "http://waterloobaptistchurch.org",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 108 WATERLOO NY 13165-0108 SS 945,SM 11,SN 630,W 630 NEEDS PASTOR KJB church."
+    "description": "PO BOX 108 WATERLOO NY 13165-0108 SS 945,SM 11,SN 630,W 630 NEEDS"
   },
   {
     "id": "3149",
@@ -2773,7 +2773,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by PAUL TIMMERMAN. 4964 ROME-NEW LONDON RD ROME NY 13440 SS 10,SM 830 & 11,SN 6,W 6 TEEN,YOUTH,SUNDAY SCHOOL,SINGLES,COUNSELING GRIFFIS AFB IS CLOSED BUT GRIFFIS-ROME LABS ARE STILL THERE 108 CR 38 EAST WORCESTER  NY 12 KJB church."
+    "description": "ROME NY 13440 SS 10,SM 830 & 11,SN 6,W 6 TEEN,YOUTH,SUNDAY SCHOOL,SINGLES,COUNSELING GRIFFIS AFB IS CLOSED BUT GRIFFIS-ROME LABS ARE STILL THERE 108 CR 38 EAST WORCESTER NY 12 KJB church"
   },
   {
     "id": "3150",
@@ -2791,7 +2791,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE MACKEY. 1 MAIN ST HORNELL NY 14843 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HORNELL NY 14843 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3151",
@@ -2810,7 +2810,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JIM KROHN. 7484 W BERGEN RD BERGEN NY 14416 KJB,IBBF"
+    "description": "BERGEN NY 14416 KJB,IBBF"
   },
   {
     "id": "3152",
@@ -2828,7 +2828,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1850 FAIRPORT NINE MILE POINT RD PENFIELD NY 14526 WALWORTH NY TEEN, DEAF, KIDS CLUBS, BOOKSTORE, YOUNG ADULTS, SENIORS SOUTHEAST CHRISTIAN ACADEMY, K-12"
+    "description": "PENFIELD NY 14526 WALWORTH NY TEEN, DEAF, KIDS CLUBS, BOOKSTORE, YOUNG ADULTS, SENIORS SOUTHEAST CHRISTIAN ACADEMY, K-12"
   },
   {
     "id": "3153",
@@ -2847,7 +2847,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SHAWN KELLY. PO BOX 48 1000 S MAIN ST NEWARK NY 14513 SS 930,SM 1030,SN 6, W 7 BUS,SOULWINNING,FAITH PROMISE MISSIONS,TEENS, MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "PO BOX 48 NEWARK NY 14513 SS 930,SM 1030,SN 6, W 7 BUS,SOULWINNING,FAITH PROMISE MISSIONS,TEENS, MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "3154",
@@ -2866,7 +2866,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RICKY GEORGES. 4530 WILCOX PLACE JAMESVILLE NY 13078 KJB church."
+    "description": "JAMESVILLE NY 13078 KJB church"
   },
   {
     "id": "3155",
@@ -2884,12 +2884,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TIM BUTTON. 2314 SNYDER AVE, 2ND FLOOR BROOKLYN NY 11226 SS 1045,SM 1130,TH 730"
+    "description": "2ND FLOOR BROOKLYN NY 11226 SS 1045,SM 1130,TH 730"
   },
   {
     "id": "3156",
     "name": "SMYRNA BAPTIST CHURCH",
-    "address": "22 MAIN ST",
+    "address": "13464 MAIN ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2897,12 +2897,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -73.9912,
     "phone": "(607) 627-6717",
     "website": "https://obbccambridgeny.org",
-    "pastor": "MARK H BALLARD",
+    "pastor": "PO BOX 106 MAIN ST MT UPTON NY 13809 BBF,IFCA PO BOX 0250 5 W MAIN ST CAMBRIDGE NY 12816 SS 930,SM 11,W 7",
     "category": "BBF",
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MARK H BALLARD. PO BOX 22 22 MAIN ST SMYRNA NY 13464 MAIN ST SS 945,SM 11,SN 7,W 7 NEEDS PASTOR PO BOX 106 MAIN ST MT UPTON NY 13809 BBF,IFCA PO BOX 0250 5 W MAIN ST CAMBRIDGE NY 12816 SS 930,SM 11,W 7"
+    "description": "PO BOX 22 SMYRNA NY SS 945,SM 11,SN 7,W 7 NEEDS"
   },
   {
     "id": "3157",
@@ -2920,12 +2920,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by PAUL G ANOBILE. (SEE VICTORY BAPTIST CHURCH, ROCHESTER) PO BOX 17199 ROCHESTER NY 14617 2919 LYDIUS ST SCHENECTADY NY 12303 BBF, IFCA"
+    "description": "(SEE VICTORY BAPTIST CHURCH, ROCHESTER) PO BOX 17199 ROCHESTER NY 14617 SCHENECTADY NY 12303 BBF, IFCA"
   },
   {
     "id": "3158",
     "name": "FIRST BAPTIST BIBLE CHURCH",
-    "address": "",
+    "address": "PO BOX 503",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2938,7 +2938,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 503 4331 NY 150 WEST SAND LAKE NY 12196"
+    "description": "4331 NY SAND LAKE NY 12196"
   },
   {
     "id": "3159",
@@ -2956,12 +2956,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ROBERT STUART. VIDEO SERMONS ONLINE GARBC,NFIBC"
+    "description": "VIDEO SERMONS ONLINE GARBC,NFIBC"
   },
   {
     "id": "3160",
     "name": "MONTEREY BAPTIST CHURCH",
-    "address": "",
+    "address": "16 BEAVE",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -2974,7 +2974,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by C LESLIE WELLS. 913 CR 16 BEAVER DAMS NY 14812 1108 SR 19 S WELLSVILLE NY 14895 NOT KJV ONLY, GARBC KJB church."
+    "description": "913 CR R DAMS NY 14812 1108 SR 19 S WELLSVILLE NY 14895 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3161",
@@ -2992,7 +2992,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NORM CULVER. 1135 VESTAL AVE BINGHAMTON NY 13903 NOT KJV ONLY,GARBC 15 MONITOR ST SCHENEVUS NY 12155 NOT KJV ONLY, GARBC KJB church."
+    "description": "BINGHAMTON NY 13903 NOT KJV ONLY,GARBC 15 MONITOR ST SCHENEVUS NY 12155 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3162",
@@ -3010,12 +3010,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALFRED HARTWIG. 7 NORTH RD WINDSOR NY 13865 NOT KJV ONLY, GARBC PO BOX 46 CASTLE CREEK NY 13744-0046 NOT KJV ONLY,GARBC,ESFRBC KJB church."
+    "description": "WINDSOR NY 13865 NOT KJV ONLY, GARBC PO BOX 46 CASTLE CREEK NY 13744-0046 NOT KJV ONLY,GARBC,ESFRBC KJB church"
   },
   {
     "id": "3163",
     "name": "BRADFORD BAPTIST CHURCH",
-    "address": "",
+    "address": "17 BRADFORD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3028,12 +3028,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM GAGE. 7223 CR 17 BRADFORD NY 14815 NOT KJV ONLY, GARBC KJB church."
+    "description": "7223 CR NY 14815 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3164",
     "name": "BROOKLYN BAPTIST CHURCH",
-    "address": "733 44TH ST",
+    "address": "1521 NEEDS PAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3041,12 +3041,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -73.6306,
     "phone": "(718) 435-8317",
     "website": "http://brooklynbaptist.org",
-    "pastor": "",
+    "pastor": "PREACH KJV, LOOSLY AFFILIATED NFIBC, GARBC 9 WILLETTS AVE BELMONT NY 14813 SS 10,SM 11,SN 6,W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "733 44TH ST BROOKLYN NY 11220-1521 NEEDS PASTOR PREACH KJV, LOOSLY AFFILIATED NFIBC, GARBC 9 WILLETTS AVE BELMONT NY 14813 SS 10,SM 11,SN  6,W 7 KJB church."
+    "description": "733 44TH ST BROOKLYN NY 11220-OR PREACH KJV, LOOSLY AFFILIATED NFIBC, GARBC 9 WILLETTS AVE BELMONT NY 14813 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "3165",
@@ -3064,7 +3064,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY W BANTLE. STARTS 630 PM NOT KJV ONLY,GARBC 3040 WALWORTH RD MARION NY 14505 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,CCM KJB church."
+    "description": "STARTS 630 PM NOT KJV ONLY,GARBC MARION NY 14505 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,CCM KJB church"
   },
   {
     "id": "3166",
@@ -3082,7 +3082,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GRANT SMITH SR. 108 CROSBY RD SPRAKERS NY 12166 SS 945,SM 11,SN 6,W 7 FAITH BIBLE ACADEMY NOT KJV ONLY,GARBC,NOT-CCM,BJU KJB church."
+    "description": "SPRAKERS NY 12166 SS 945,SM 11,SN 6,W 7 FAITH BIBLE ACADEMY NOT KJV ONLY,GARBC,NOT-CCM,BJU KJB church"
   },
   {
     "id": "3167",
@@ -3101,7 +3101,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "3024 STATE HWY 8 SOUTH NEW BERLIN NY 13843 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "SOUTH NEW BERLIN NY 13843 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3168",
@@ -3119,7 +3119,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "302 DUKE ST ENDICOTT NY 13760 NOT KJV ONLY KJB church."
+    "description": "ENDICOTT NY 13760 NOT KJV ONLY KJB church"
   },
   {
     "id": "3169",
@@ -3137,7 +3137,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DALE MOORE. 605 JENNINGS CREEK RD BOX 25 KILLAWOG NY 13794 NOT KJV ONLY, GARBC 39 E MAIN ST RANDOLPH NY 14772-1125 NOT KJV ONLY, GARBC 3019 RT 13 NEW WOODSTOCK NY 13122 NOT KJV ONLY, GARBC KJB church."
+    "description": "KILLAWOG NY 13794 NOT KJV ONLY, GARBC 39 E MAIN ST RANDOLPH NY 14772-1125 NOT KJV ONLY, GARBC 3019 RT 13 NEW WOODSTOCK NY 13122 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3170",
@@ -3155,12 +3155,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON HOUSEMAN. 6879 CR 18 WEST WINFIELD NY 13491 NOT KJV ONLY,NFIBC,CEDARVILLE-U 12752 LEWIS RD AKRON NY 14001 NOT KJV ONLY, GARBC,CEDARVILLE 2954 S UNION ROCHESTER NY 14624-1926 PREACH KJV,STUDY OTHERS KJB church."
+    "description": "6879 CR 18 WEST WINFIELD NY 13491 NOT KJV ONLY,NFIBC,CEDARVILLE-U AKRON NY 14001 NOT KJV ONLY, GARBC,CEDARVILLE 2954 S UNION ROCHESTER NY 14624-1926 PREACH KJV,STUDY OTHERS KJB church"
   },
   {
     "id": "3171",
     "name": "LIBERTY VIEW BAPTIST CHURCH",
-    "address": "512 TOMPKINS AVE",
+    "address": "512 TOMPKINS AVE ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3174,12 +3174,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DENNIS MURRAY. 512 TOMPKINS AVE STATEN ISLAND NY 10305 SS 10, SM 11, SN 6, TH 7, Individual Bible Studies Weekly SOULWINNING, DISCIPLESHIP, 10 MINS FROM FORT WADSWORTH, MULTI-CULTURAL NOT KJV ONLY, GARBC KJB church."
+    "description": "ATEN ISLAND NY 10305 SS 10, SM 11, SN 6, TH 7, Individual Bible Studies Weekly SOULWINNING, DISCIPLESHIP, 10 MINS FROM FORT WADSWORTH, MULTI-CULTURAL NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3172",
     "name": "SIDNEY CENTER BAPTIST CHURCH",
-    "address": "10440 MAIN ST",
+    "address": "200 HUNT RD JAMEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "10440",
@@ -3192,7 +3192,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL STEVENS. 10440 MAIN ST SIDNEY CENTER NY 13839 NOT KJV ONLY, GARBC 200 HUNT RD JAMESTOWN NY 14701 SS 930,SM 1040,SN 6,W 7 KJB church."
+    "description": "SIDNEY CENTER NY 13839 NOT KJV ONLY, GARBC OWN NY 14701 SS 930,SM 1040,SN 6,W 7 KJB church"
   },
   {
     "id": "3173",
@@ -3210,7 +3210,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN STITZEL. NOT KJV ONLY,GARBC,NFIBC KJB church."
+    "description": "NOT KJV ONLY,GARBC,NFIBC KJB church"
   },
   {
     "id": "3174",
@@ -3228,7 +3228,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM BICKEL. 521 LAKE RD RT 19 MERRITT HALL HAMLIN NY 14464 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,SHALOM MINISTRIES,BJU KJB church."
+    "description": "MERRITT HALL HAMLIN NY 14464 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY,SHALOM MINISTRIES,BJU KJB church"
   },
   {
     "id": "3175",
@@ -3247,7 +3247,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by PAUL A DOUGLASS. 2304 VOORHIES AVE BROOKLYN NY 11235 SM 10,SN 1230,W 730 FORT HAMILTON ARMY BASE 6 MILES KJV-NASV,GARBC,NFIBC 3142 JOHNSON RD GENEVA NY 14456-9522 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC 118 CHURCH S KJB church."
+    "description": "BROOKLYN NY 11235 SM 10,SN 1230,W 730 FORT HAMILTON ARMY BASE 6 MILES KJV-NASV,GARBC,NFIBC 3142 JOHNSON RD GENEVA NY 14456-9522 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC 118 CHURCH S KJB church"
   },
   {
     "id": "3176",
@@ -3265,7 +3265,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM BARNES. 2900 ITALY HILL TURNPIKE BRANCHPORT NY 14418 NOT KJV ONLY,GARBC 16 CHURCH ST MAINE NY 13802 NOT KJV ONLY,GARBC KJB church."
+    "description": "2900 ITALY HILL TURNPIKE BRANCHPORT NY 14418 NOT KJV ONLY,GARBC MAINE NY 13802 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3177",
@@ -3283,7 +3283,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MONTE FLAGG. 2416 CR 26 CLIMAX NY 12042 AUDIO SERMONS ONLINE NOT KJV ONLY, GARBC,NFIBC KJB church."
+    "description": "2416 CR 26 CLIMAX NY 12042 AUDIO SERMONS ONLINE NOT KJV ONLY, GARBC,NFIBC KJB church"
   },
   {
     "id": "3178",
@@ -3301,7 +3301,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON HOLLIS. BELFAST NY 14711 SS 10,SM 11,SN 130 NOT KJV ONLY, GARBC KJB church."
+    "description": "BELFAST NY 14711 SS 10,SM 11,SN 130 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3179",
@@ -3319,7 +3319,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 277 PORTVILLE NY 14770 24 TEMPLE ST"
+    "description": "PO BOX 277 PORTVILLE NY 14770"
   },
   {
     "id": "3180",
@@ -3337,12 +3337,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID CIALINI. 2367 PALMYRA MARION RD PALMYRA NY 14522 SS 10,SM 11,SN 7,W 715 NOT KJV ONLY, GARBC KJB church."
+    "description": "PALMYRA NY 14522 SS 10,SM 11,SN 7,W 715 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3181",
     "name": "DRYDEN BAPTIST CHURCH",
-    "address": "138 VIRGIL RD",
+    "address": "138 VIRGIL RD DR",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3355,7 +3355,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ART GEORGE JR. 138 VIRGIL RD DRYDEN NY 13053 SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY,GARBC KJB church."
+    "description": "YDEN NY 13053 SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3182",
@@ -3373,7 +3373,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 217 MEMPHIS NY 13112 6425 BENNETTS CORNER RD"
+    "description": "PO BOX 217 MEMPHIS NY 13112"
   },
   {
     "id": "3183",
@@ -3392,7 +3392,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by LEWIS MANWARREN. SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC 405 LINCOLN AVE LOCKPORT NY 14094 KJB church."
+    "description": "SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, GARBC LOCKPORT NY 14094 KJB church"
   },
   {
     "id": "3184",
@@ -3410,7 +3410,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVE GREY. PO BOX 245 156 GREEN HOLLOW RD BERLIN NY 12022 NOT KJV ONLY,GARBC 922 W 1ST ST FULTON NY 13069 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, WOL 3850 MAIN ST WARRENSBURG NY 12885 KJB church."
+    "description": "PO BOX 245 BERLIN NY 12022 NOT KJV ONLY,GARBC 922 W 1ST ST FULTON NY 13069 SS 930,SM 1045,SN 6,W 7 NOT KJV ONLY, WOL 3850 MAIN ST WARRENSBURG NY 12885 KJB church"
   },
   {
     "id": "3185",
@@ -3423,17 +3423,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -75.0813,
     "phone": "(716) 243-0200",
     "website": "http://www.netacc.net/~gbc",
-    "pastor": "LARRY HERTZLER",
+    "pastor": "NORWICH NY 13815-1032 YOUTH,SENIORS, VALLEY HEIGHTS CHRISTIAN ACADEMY,PS-12 NOT KJV ONLY, GARBC HCR 63 BOX 13 CADOS KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY HERTZLER. 26-28 CENTER ST GENESEO NY 14454 SS 9,SM 1015 GARBC,NFIBC,NOT-KJV-ONLY 75 CALVARY DR NORWICH NY 13815-1032 YOUTH,SENIORS, VALLEY HEIGHTS CHRISTIAN ACADEMY,PS-12 NOT KJV ONLY, GARBC HCR 63 BOX 13 CADOS KJB church."
+    "description": "GENESEO NY 14454 SS 9,SM 1015 GARBC,NFIBC,NOT-KJV-ONLY 75 CALVARY DR NORWICH NY 13815-1032 YOUTH,SENIORS, VALLEY HEIGHTS CHRISTIAN ACADEMY,PS-12 NOT KJV ONLY, GARBC HCR 63 BOX 13 CADOS KJB church"
   },
   {
     "id": "3186",
     "name": "WATERVILLE BAPTIST CHURCH",
-    "address": "351 WHITE ST",
+    "address": "5958 STATE FARM RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3441,17 +3441,17 @@ export const newyorkChurches: Church[] = [
     "longitude": -75.138,
     "phone": "(315) 841-8266",
     "website": "http://www.graceguilderland.org",
-    "pastor": "RICK HANNA",
+    "pastor": "NOT KJV ONLY, GARBC 6065 NY SR 86 WILMINGTO KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK HANNA. 351 WHITE ST WATERVILLE NY 13480-1218 NOT KJV ONLY,GARBC,NFIBC 5958 STATE FARM RD GUILDERLAND NY 12084 near SCHENECTADY SS 915,SM 1030,SN 6,W 7 NEEDS PASTOR NOT KJV ONLY, GARBC 6065 NY SR 86 WILMINGTO KJB church."
+    "description": "WATERVILLE NY 13480-1218 NOT KJV ONLY,GARBC,NFIBC GUILDERLAND NY 12084 near SCHENECTADY SS 915,SM 1030,SN 6,W 7 NEEDS"
   },
   {
     "id": "3187",
     "name": "CALVARY BAPTIST CHURCH OF GIBSON",
-    "address": "40 MAIN ST",
+    "address": "7312 VAN BUREN RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3464,12 +3464,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE BALEY. 40 MAIN ST CORNING NY 14830-3595 S.GRACE TULIP,NFIBC 7312 VAN BUREN RD BALDWINSVILLE NY 13027 SS 945,SM 1055,SN 6,W 7 PATCH PIRATE,SENIORS,PROTEENS BALDWINSVILLE CHRISTIAN ACADEMY,TRAD,A BEKA,K5-12 NO KJB church."
+    "description": "CORNING NY 14830-3595 S.GRACE TULIP,NFIBC BALDWINSVILLE NY 13027 SS 945,SM 1055,SN 6,W 7 PATCH PIRATE,SENIORS,PROTEENS BALDWINSVILLE CHRISTIAN ACADEMY,TRAD,A BEKA,K5-12 NO KJB church"
   },
   {
     "id": "3188",
     "name": "BETHEL BAPTIST CHURCH OF SHENANDOAH",
-    "address": "191 SHENANDOAH RD",
+    "address": "191 SHENANDOAH RD HOPEWELL JUNCT",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3482,12 +3482,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN PROIOS. 191 SHENANDOAH RD HOPEWELL JUNCTION NY 12533 BETHEL CHRISTIAN ACADEMY, K5-12 NOT KJV ONLY,GARBC KJB church."
+    "description": "ION NY 12533 BETHEL CHRISTIAN ACADEMY, K5-12 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3189",
     "name": "PLEASANT VALLEY BAPTIST CHURCH",
-    "address": "4431 MIDDLE SETTLEMENT RD",
+    "address": "4431 MIDDLE SETTLEMENT RD NEW HARTFORD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3500,7 +3500,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J DOUGLAS HANBACK. ROUTE 438 IRVING NY 14081 SENECA NATION - CATTARAUGUS TERRITORY NOT KJV ONLY,GARBC, 4431 MIDDLE SETTLEMENT RD NEW HARTFORD NY 13413 SS 930,SM 1050,SN 6,W 7 MARANATHA CHRISTIAN ACADEMY,K5-12 NOT KJV ON KJB church."
+    "description": "ROUTE 438 IRVING NY 14081 SENECA NATION - CATTARAUGUS TERRITORY NOT KJV ONLY,GARBC, NY 13413 SS 930,SM 1050,SN 6,W 7 MARANATHA CHRISTIAN ACADEMY,K5-12 NOT KJV ON KJB church"
   },
   {
     "id": "3190",
@@ -3518,7 +3518,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN TRZASKOS. 100 WOODMACY LN FAYETTEVILLE NY 13066 NOT KJV ONLY,GARBC KJB church."
+    "description": "FAYETTEVILLE NY 13066 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3191",
@@ -3536,12 +3536,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by C MATHEW RECKER. 3 SINCLAIR RD EDINBURG NY 12134 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY,FBF,COMFORT,BJU PO BOX 7925 NEW YORK NY 10116 SUNDAY MORNING LOCATION 331 W 25TH ST THE MCCARTON SCHOOL WEDNESDAY LOCATION 715 519 8TH KJB church."
+    "description": "EDINBURG NY 12134 SS 10,SM 11,SN 7,W 7 NOT KJV ONLY,FBF,COMFORT,BJU PO BOX 7925 NEW YORK NY 10116 SUNDAY MORNING LOCATION 331 W 25TH ST THE MCCARTON SCHOOL WEDNESDAY LOCATION 715 519 8TH KJB church"
   },
   {
     "id": "3192",
     "name": "DEAF CHURCH LOCATION",
-    "address": "519 8TH AVE @ 36TH ST",
+    "address": "11 HERITAGE DISCIPLESHIP INST",
     "city": "ROOM 807",
     "state": "NY",
     "zipCode": "",
@@ -3555,7 +3555,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by EMMANUEL STERLIN. 519 8TH AVE @ 36TH ST, ROOM 807 SS 10,SM 11 HERITAGE DISCIPLESHIP INSTITUTE SS 10,SM 11,W 7 ESV,GARBC,NFIBC PO BOX 95 130 CR 13 SOUTH OTSELIC NY 13155-0095 SS 930, SM 11, SN 6 NOT KJV ONLY,GARBC KJB church."
+    "description": "519 8TH AVE @ 36TH ST, ROOM 807 SS 10,SM ITUTE SS 10,SM 11,W 7 ESV,GARBC,NFIBC PO BOX 95 130 CR 13 SOUTH OTSELIC NY 13155-0095 SS 930, SM 11, SN 6 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3193",
@@ -3573,7 +3573,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALAN LINDMARK. 155 DEPOT ST WINDSOR NY NOT KJV ONLY,GARBC, NFIBC, BJU, WOL KJB church."
+    "description": "WINDSOR NY NOT KJV ONLY,GARBC, NFIBC, BJU, WOL KJB church"
   },
   {
     "id": "3194",
@@ -3591,7 +3591,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "7860 SR 54 BATH NY 14810-7954 NOT KJV ONLY, S.GRACE-TULIP,SPROUL-MCARTHUR KJB church."
+    "description": "7860 SR 54 BATH NY 14810-7954 NOT KJV ONLY, S.GRACE-TULIP,SPROUL-MCARTHUR KJB church"
   },
   {
     "id": "3195",
@@ -3609,7 +3609,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by L D MAXSON. 622 BOYD ST WATERTOWN NY 13601 SS 10,SM 11,SN 6,W 7 FORT DRUM (7 MILES) NOT KJV ONLY, GARBC, NFIBC KJB church."
+    "description": "WATERTOWN NY 13601 SS 10,SM 11,SN 6,W 7 FORT DRUM (7 MILES) NOT KJV ONLY, GARBC, NFIBC KJB church"
   },
   {
     "id": "3196",
@@ -3630,12 +3630,12 @@ export const newyorkChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by TIMOTHY I MILLER. 441 COOK RD ADDISON NY 14801 SS 930, SM 1045, SN 6, W 7 KJV & NKJV, UNAFFILIATED KJB church."
+    "description": "ADDISON NY 14801 SS 930, SM 1045, SN 6, W 7 KJV & NKJV, UNAFFILIATED KJB church"
   },
   {
     "id": "3197",
     "name": "LIGHT WALKERS BAPTIST CHURCH",
-    "address": "",
+    "address": "730 NEEDS PAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3643,13 +3643,13 @@ export const newyorkChurches: Church[] = [
     "longitude": -74.1826,
     "phone": "(607) 263-2353",
     "website": "http://www.facebook.com/LightWalkersBaptistChurch",
-    "pastor": "",
+    "pastor": "NOT KJV ONLY, BBF KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "193 CR 49 MORRIS NY 13808 SS 930, SM 1030, W 730 NEEDS PASTOR NOT KJV ONLY, BBF KJB church."
+    "description": "193 CR 49 MORRIS NY 13808 SS 930, SM 1030, W 730 NEEDS"
   },
   {
     "id": "3198",
@@ -3667,7 +3667,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATE PETERSEN. 30 LISZT ST HICKSVILLE NY 11801 SS 10,SM 11,SN 6,W 730 VAN, PATCH PIRATE PREACH-KJV, NOT KJV ONLY,BJU,NORTHLAND-BBC KJB church."
+    "description": "HICKSVILLE NY 11801 SS 10,SM 11,SN 6,W 730 VAN, PATCH PIRATE PREACH-KJV, NOT KJV ONLY,BJU,NORTHLAND-BBC KJB church"
   },
   {
     "id": "3199",
@@ -3686,7 +3686,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATTHEW C HOSKINSON. 1431 STATE HWY 29 GLOVERSVILLE NY 12078 NKJV, ESV 265 W 79TH ST NEW YORK NY 10024 GARBC,NFIBC,NOT KJV ONLY 59 S ERIE ST MAYVILLE NY 14757 TEEN,YOUTH,CHOIR, SS 945,SM 11,SN 6,W NOT KJV ONLY 13 HARPENDI KJB church."
+    "description": "GLOVERSVILLE NY 12078 NKJV, ESV 265 W 79TH ST NEW YORK NY 10024 GARBC,NFIBC,NOT KJV ONLY 59 S ERIE ST MAYVILLE NY 14757 TEEN,YOUTH,CHOIR, SS 945,SM 11,SN 6,W NOT KJV ONLY 13 HARPENDI KJB church"
   },
   {
     "id": "3200",
@@ -3705,7 +3705,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by STEVE LITTLE. 1444 PINES BROOK RD WALTON NY 13856 SS 10,SM 11,SN 630,W 7 NKJV,GARBC,NFIBC KJB church."
+    "description": "WALTON NY 13856 SS 10,SM 11,SN 630,W 7 NKJV,GARBC,NFIBC KJB church"
   },
   {
     "id": "3201",
@@ -3724,7 +3724,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by STEVEN PAWLEY. ROUTE 13 CAMDEN NY 13316 2 MILES N OF CAMDEN, RT 13 SM 1030,SN 6,W 7 KJB church."
+    "description": "ROUTE 13 CAMDEN NY 13316 2 MILES N OF CAMDEN, RT 13 SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "3202",
@@ -3743,7 +3743,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by MIKE SANDERS. 4649 ALABAMA RD MEDINA NY 14103 NOT KJV ONLY, GARBC,NFIBC KJB church."
+    "description": "MEDINA NY 14103 NOT KJV ONLY, GARBC,NFIBC KJB church"
   },
   {
     "id": "3203",
@@ -3761,7 +3761,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB BRIDGE. 3624 FIVE MILE RD ALLEGANY NY 14706 FIVE MILE & MORGAN HOLLOW RDS SS 945,SM 11,SN 7 NOT KJV ONLY,GARBC KJB church."
+    "description": "ALLEGANY NY 14706 FIVE MILE & MORGAN HOLLOW RDS SS 945,SM 11,SN 7 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3204",
@@ -3780,12 +3780,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CRAIG BRITTINGHAM. 13342 MORTON CORNERS RD SPRINGVILLE NY 14141 NKJV,GARBC KJB church."
+    "description": "SPRINGVILLE NY 14141 NKJV,GARBC KJB church"
   },
   {
     "id": "3205",
     "name": "HILLSIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "14843 NEEDS PAST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3793,12 +3793,12 @@ export const newyorkChurches: Church[] = [
     "longitude": -76.0494,
     "phone": "(607) 324-0309",
     "website": "http://hillsidebaptisthornell.com",
-    "pastor": "",
+    "pastor": "KJB,GARBC, CALVANISTIC, S",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "805 CR 66 HORNELL NY 14843 NEEDS PASTOR KJB,GARBC, CALVANISTIC, S.GRACE, DISPENSATIONAL"
+    "description": "805 CR 66 HORNELL NY 14843 NEEDS GRACE, DISPENSATIONAL"
   },
   {
     "id": "3206",
@@ -3817,7 +3817,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by J SCOTT MCELYEA. PO BOX 665 122 CORKINS LN LIVERPOOL NY 13212-0665 SS 945,SM 11,SN 6,W 7 PREACH KJV,STUDY OTHERS, WOL 16 CR 57A PHOENIX NY 13135 NOT KJV ONLY, GARBC,NFIBC KJB church."
+    "description": "PO BOX 665 LIVERPOOL NY 13212-0665 SS 945,SM 11,SN 6,W 7 PREACH KJV,STUDY OTHERS, WOL 16 CR 57A PHOENIX NY 13135 NOT KJV ONLY, GARBC,NFIBC KJB church"
   },
   {
     "id": "3207",
@@ -3835,7 +3835,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 64 3236 MAPLE AVE ALLEGANY NY 14706"
+    "description": "PO BOX 64 ALLEGANY NY 14706"
   },
   {
     "id": "3208",
@@ -3854,12 +3854,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DOUG BLANC. NKJV,GARBC KJB church."
+    "description": "NKJV,GARBC KJB church"
   },
   {
     "id": "3209",
     "name": "BROADALBIN BAPTIST CHURCH",
-    "address": "40 W MAIN ST",
+    "address": "9501 WESTON RD NEW HARTFORD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -3872,7 +3872,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VIN UPHAM. 40 W MAIN ST BROADALBIN NY 12025 SS 950,SM 1050,SN 7,W 7 MOPS,AWANA,YOUTH NOT-KJV-ONLY,PROMISE KEEPERS 9501 WESTON RD NEW HARTFORD NY 13413 SS 930,SM 11,W 630 AWANA,SENIORS KJB church."
+    "description": "ALBIN NY 12025 SS 950,SM 1050,SN 7,W 7 MOPS,AWANA,YOUTH NOT-KJV-ONLY,PROMISE KEEPERS NY 13413 SS 930,SM 11,W 630 AWANA,SENIORS KJB church"
   },
   {
     "id": "3210",
@@ -3909,7 +3909,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATTHEW SMITH. 429 DELAWARE AVE ALBANY NY 12209 SS 9,SM 1030,SN 6,W 645 NASB,GARBC 1731 RT 13 N CORTLAND NY 13045 SS 11,SM 930,SN 6 YOUTH,TEEN,COUPLES,SENIORS,DEAF NOT KJV ONLY,GARBC,ABWE 2608 BAPTIST AVE CINCINNATU KJB church."
+    "description": "ALBANY NY 12209 SS 9,SM 1030,SN 6,W 645 NASB,GARBC 1731 RT 13 N CORTLAND NY 13045 SS 11,SM 930,SN 6 YOUTH,TEEN,COUPLES,SENIORS,DEAF NOT KJV ONLY,GARBC,ABWE 2608 BAPTIST AVE CINCINNATU KJB church"
   },
   {
     "id": "3212",
@@ -3928,7 +3928,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEVIN RENFROW. 1019 N CAYUGA ITHACA NY 14850 SS 945,SM 11,SN 630,W 7 YOUTH, COLLEGE, TEEN KJB church."
+    "description": "1019 N CAYUGA ITHACA NY 14850 SS 945,SM 11,SN 630,W 7 YOUTH, COLLEGE, TEEN KJB church"
   },
   {
     "id": "3213",
@@ -3946,7 +3946,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "97-02 129TH ST RICHMOND HILL NY 11419 QUEENS AREA"
+    "description": "RICHMOND HILL NY 11419 QUEENS AREA"
   },
   {
     "id": "3214",
@@ -3964,7 +3964,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ELIJAH BELTZ. SS 10,SM 11,SN 1,W 7 NOT KJV ONLY, NFIBC, S.GRACE-TULIP KJB church."
+    "description": "SS 10,SM 11,SN 1,W 7 NOT KJV ONLY, NFIBC, S.GRACE-TULIP KJB church"
   },
   {
     "id": "3215",
@@ -3983,7 +3983,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MARK WALKER. 7582 NEW FLOYD RD ROME NY 13440 ESV NKJV 2585 SR 417 GREENWOOD NY 14839 SS 10,SM 11,SN 6,W 7 NIV,GARBC KJB church."
+    "description": "ROME NY 13440 ESV NKJV 2585 SR 417 GREENWOOD NY 14839 SS 10,SM 11,SN 6,W 7 NIV,GARBC KJB church"
   },
   {
     "id": "3216",
@@ -4002,7 +4002,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by BRUCE SCOTT. NORTH ST PANAMA NY 14767 NOT-KJV-ONLY,GARBC,PROMISE-KEEPERS KJB church."
+    "description": "NORTH ST PANAMA NY 14767 NOT-KJV-ONLY,GARBC,PROMISE-KEEPERS KJB church"
   },
   {
     "id": "3217",
@@ -4020,7 +4020,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALAN POTTER. 22 WEST DANBY RD DANBY NY 14896 NOT KJV ONLY KJB church."
+    "description": "DANBY NY 14896 NOT KJV ONLY KJB church"
   },
   {
     "id": "3218",
@@ -4038,7 +4038,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID SILVA. 7274 STATE HWY 10 AMES NY 13317-3215 NOT KJV ONLY, GARBC 509 MAIN ST EXTENSION LAKE KATRINE NY 12449 JUST OFF SAWKILL RD KJB church."
+    "description": "AMES NY 13317-3215 NOT KJV ONLY, GARBC 509 MAIN ST EXTENSION LAKE KATRINE NY 12449 JUST OFF SAWKILL RD KJB church"
   },
   {
     "id": "3219",
@@ -4056,12 +4056,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRISTOPHER ANDERSON. SS 10,SM 11,W 7 STREET PREACHING,YOUTH,TEEN,LADIES BIBLE INSTITUTE NOT KJV ONLY, GARBC KJB church."
+    "description": "SS 10,SM 11,W 7 STREET PREACHING,YOUTH,TEEN,LADIES BIBLE INSTITUTE NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3220",
     "name": "HUNTS CORNER BAPTIST CHURCH",
-    "address": "423 VALLEY DR",
+    "address": "1082 DUNNSVILLE RD SCHENECT",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4075,12 +4075,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CONROY LEWIS. MARATHON NY 13803 NOT KJV ONLY, S.GRACE-TULIP 423 VALLEY DR SYRACUSE NY 13207 BBF,FALWELL,PREACH-KJV, NOT KJV ONLY SONRISE BIBLE (BAPTIST) CHURCH 1082 DUNNSVILLE RD SCHENECTADY NY 12306 ROTTERDAM NY S KJB church."
+    "description": "MARATHON NY 13803 NOT KJV ONLY, S.GRACE-TULIP SYRACUSE NY 13207 BBF,FALWELL,PREACH-KJV, NOT KJV ONLY SONRISE BIBLE (BAPTIST) CHURCH ADY NY 12306 ROTTERDAM NY S KJB church"
   },
   {
     "id": "3221",
     "name": "FAITH BAPTIST TABERNACLE",
-    "address": "10 UTICA RD",
+    "address": "9500 NOT KJV ONLY FIRST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4093,7 +4093,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD RIZZI. 10 UTICA RD SHERBURNE NY 13460-9500 NOT KJV ONLY FIRST (BERLIN) BAPTIST CHURCH N MAIN BERLIN NY 12022 SS 10,SM 11,W 7 NOT KJV ONLY,GARBC,NFIBC KJB church."
+    "description": "SHERBURNE NY 13460- (BERLIN) BAPTIST CHURCH N MAIN BERLIN NY 12022 SS 10,SM 11,W 7 NOT KJV ONLY,GARBC,NFIBC KJB church"
   },
   {
     "id": "3222",
@@ -4111,7 +4111,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN HADLEY. 495 WATERVLIET-SHAKER RD LATHAM NY 12110 SS 930,SM 1045,SN 6,W 7 LATHAM CHRISTIAN ACADEMY PREACH KJV,NOT KJV ONLY,GARBC KJB church."
+    "description": "LATHAM NY 12110 SS 930,SM 1045,SN 6,W 7 LATHAM CHRISTIAN ACADEMY PREACH KJV,NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3223",
@@ -4129,7 +4129,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM HOUTZ. 255 CHURCH ST NIOBE NY 14758 SS 945,SM 1055,SN 6,W 6 WMA AUDIO & TEXT SERMONS ONLINE PREACH KJV,STUDY KJV NASV,BJU KJB church."
+    "description": "NIOBE NY 14758 SS 945,SM 1055,SN 6,W 6 WMA AUDIO & TEXT SERMONS ONLINE PREACH KJV,STUDY KJV NASV,BJU KJB church"
   },
   {
     "id": "3224",
@@ -4147,7 +4147,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "11648 WOLCOTT RD NORTH ROSE NY 14516"
+    "description": "NORTH ROSE NY 14516"
   },
   {
     "id": "3225",
@@ -4165,7 +4165,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TEDDY R HERRON. SS 10,SM 11,SN 6,W 7 PATCH PIRATE NOT KJV ONLY, GARBC KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 PATCH PIRATE NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3226",
@@ -4184,12 +4184,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DANIEL F TODD. 3311 READING RD WATKINS GLEN NY 14891 SS 945, SM 11, SN 6, W 7 PREACH-KJV,STUDY KJV-NIV KJB church."
+    "description": "WATKINS GLEN NY 14891 SS 945, SM 11, SN 6, W 7 PREACH-KJV,STUDY KJV-NIV KJB church"
   },
   {
     "id": "3227",
     "name": "FAITH INDEPENDENT BAPTIST CHURCH",
-    "address": "10 MAPLE ST",
+    "address": "10 MAPLE ST CANIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4204,12 +4204,12 @@ export const newyorkChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by LARRY J ALLEN. PO BOX 64 10 MAPLE ST CANISTEO NY 14823 SS 945,SM 11,SN 7,W 7 NOT KJV ONLY, GARBC 128 MAIN ST RICHBURG NY 14774 SM 9, SS 10, SM 11, W 7 NIV,GARBC KJB church."
+    "description": "PO BOX 64 EO NY 14823 SS 945,SM 11,SN 7,W 7 NOT KJV ONLY, GARBC 128 MAIN ST RICHBURG NY 14774 SM 9, SS 10, SM 11, W 7 NIV,GARBC KJB church"
   },
   {
     "id": "3228",
     "name": "WEST HILLS BAPTIST CHURCH",
-    "address": "317 W HILLS RD",
+    "address": "317 W HILLS RD HUNTINGTON ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4222,7 +4222,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ZATKIEWICZ. 317 W HILLS RD HUNTINGTON STATION NY 11746 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBC-PA,NFIBC 4232 RESERVOIR RD GENESEE NY 14454 SS 945,SM 11,SN 630,W 630 NOT KJV ONLY,GARBC KJB church."
+    "description": "ATION NY 11746 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBC-PA,NFIBC 4232 RESERVOIR RD GENESEE NY 14454 SS 945,SM 11,SN 630,W 630 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3229",
@@ -4240,7 +4240,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6363 CROFOOT RD MORAVIA NY 13118 PHYSICAL ADD: 6339 CROFOOT RD SS 1015, SM 1130, SN 745, W 730"
+    "description": "MORAVIA NY 13118 PHYSICAL ADD: 6339 CROFOOT RD SS 1015, SM 1130, SN 745, W 730"
   },
   {
     "id": "3230",
@@ -4259,7 +4259,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JIM MURPHY. NOT KJV ONLY,GARBC 12 BALDWIN ST JOHNSON CITY NY 13790 NOT KJV ONLY,TULIP-S.GRACE 41 S MAIN ST SALAMANCA NY 14779 1 CHURCH ST AVOCA NY 14809 SS 945,SM 815 & 11,SN 6,W 7 AWANA,CHOIR PREACH-KJV,STUDY OT KJB church."
+    "description": "NOT KJV ONLY,GARBC JOHNSON CITY NY 13790 NOT KJV ONLY,TULIP-S.GRACE 41 S MAIN ST SALAMANCA NY 14779 1 CHURCH ST AVOCA NY 14809 SS 945,SM 815 & 11,SN 6,W 7 AWANA,CHOIR PREACH-KJV,STUDY OT KJB church"
   },
   {
     "id": "3231",
@@ -4277,7 +4277,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT SNYDER. 10 ROMANS RD HYDE PARK NY 12538 NOT KJV ONLY,GARBC,BBC PA KJB church."
+    "description": "HYDE PARK NY 12538 NOT KJV ONLY,GARBC,BBC PA KJB church"
   },
   {
     "id": "3232",
@@ -4295,7 +4295,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GRANT M APPELL. 240 CHURCH ST BREESPORT NY 14816 NOT KJV ONLY, GARBC KJB church."
+    "description": "BREESPORT NY 14816 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3233",
@@ -4313,7 +4313,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by ROBERT E WISOR. PO BOX 335 18 CHURCH ST DELEVAN NY 14042 SS 945,SM 11,SN 630,W 7 DUTCHESS COUNTY INTERFAITH COUNCIL"
+    "description": "PO BOX 335 DELEVAN NY 14042 SS 945,SM 11,SN 630,W 7 DUTCHESS COUNTY INTERFAITH COUNCIL"
   },
   {
     "id": "3234",
@@ -4331,12 +4331,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN LEARY. 1068 BEEKMAN RD BEEKMAN NY 12533 NOT KJV ONLY,GARBC 120 MAIN ST HAMBURG NY 14075 NOT KJV ONLY,GARBC 332 MAIN ST PENN YAN NY 14527 KJB church."
+    "description": "BEEKMAN NY 12533 NOT KJV ONLY,GARBC 120 MAIN ST HAMBURG NY 14075 NOT KJV ONLY,GARBC 332 MAIN ST PENN YAN NY 14527 KJB church"
   },
   {
     "id": "3235",
     "name": "EMMANUEL BAPTIST ACADEMY",
-    "address": "15 WEST RD",
+    "address": "691 MAIN ST FAIR HAVE",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4349,12 +4349,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HAROLD H COMINGS. NOT KJV ONLY,GARBC 15 WEST RD CORTLAND NY 13045 SS 945,SM 11,SN 630,W 7 TEEN,DEAF NOT KJV ONLY,GARBC 691 MAIN ST FAIR HAVEN NY 13064 NOT KJV ONLY,GARBC,BBC-PA KJB church."
+    "description": "NOT KJV ONLY,GARBC CORTLAND NY 13045 SS 945,SM 11,SN 630,W 7 TEEN,DEAF NOT KJV ONLY,GARBC N NY 13064 NOT KJV ONLY,GARBC,BBC-PA KJB church"
   },
   {
     "id": "3236",
     "name": "NORTH BAPTIST CHURCH",
-    "address": "2052 ST PAUL ST",
+    "address": "2052 ST PAUL ST ROCHEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4367,7 +4367,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2052 ST PAUL ST ROCHESTER NY 14621"
+    "description": "ER NY 14621"
   },
   {
     "id": "3237",
@@ -4385,7 +4385,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAM MCALLISTER. KJB,BJU,PIPER,TULIP-S.GRACE 10955 N LAKE ST PAVILION NY 14525 SS 945,SM 11,SN 6,W 7"
+    "description": "KJB,BJU,PIPER,TULIP-S.GRACE PAVILION NY 14525 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "3238",
@@ -4403,7 +4403,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BARRY SOMERVILLE. NOT-KJV-ONLY,BJU,NORTHLANDS, CLEARWATER KJB church."
+    "description": "NOT-KJV-ONLY,BJU,NORTHLANDS, CLEARWATER KJB church"
   },
   {
     "id": "3239",
@@ -4421,7 +4421,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK BROWN. 1000 YALE STATION RD GENEVA NY 14458 NOT KJV ONLY,GARBC KJB church."
+    "description": "GENEVA NY 14458 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3240",
@@ -4439,7 +4439,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by KENNETH PHILLIPS. 1548 MAPLE AVE ELMIRA NY 14904 PATCH PIRATE NIV OTHERS,GARBC Non-KJV church."
+    "description": "ELMIRA NY 14904 PATCH PIRATE NIV OTHERS,GARBC Non-KJV church"
   },
   {
     "id": "3241",
@@ -4458,7 +4458,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DRUE CORBETT. 5220 LAKE RD S BROCKPORT NY 14420 SS 945,SM 11,SN 6,W 7 GARBC,REFORMED,FOUNDERS FRIENDLY 7035 RT 63 N DANSVILLE NY 14437-9749 SS 945,SM 11,SN 6,W 7 NKJV,MBBC,NBBC,FBF 105-01 37TH AVE CORONA NY 11368 Q KJB church."
+    "description": "BROCKPORT NY 14420 SS 945,SM 11,SN 6,W 7 GARBC,REFORMED,FOUNDERS FRIENDLY 7035 RT 63 N DANSVILLE NY 14437-9749 SS 945,SM 11,SN 6,W 7 NKJV,MBBC,NBBC,FBF 105-01 37TH AVE CORONA NY 11368 Q KJB church"
   },
   {
     "id": "3242",
@@ -4477,12 +4477,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BILL SNYDER. 1143 FLATBUSH AVE BROOKLYN NY 11226-7003 AUDIO SERMONS ONLINE SS 10,SM 11,SN 630,W 730 NOT KJV ONLY 466 CHENANGO ST BINGHAMTON NY 13901 SS 930,SM 1045,SN 6,W 7 NKJV, BMM, GARBC KJB church."
+    "description": "BROOKLYN NY 11226-7003 AUDIO SERMONS ONLINE SS 10,SM 11,SN 630,W 730 NOT KJV ONLY 466 CHENANGO ST BINGHAMTON NY 13901 SS 930,SM 1045,SN 6,W 7 NKJV, BMM, GARBC KJB church"
   },
   {
     "id": "3243",
     "name": "REPENTANCE BAPTIST FELLOWSHIP",
-    "address": "289 VANDERBILT AVE",
+    "address": "289 VANDERBILT AVE PARK HILL HOUSING DEVELOPMENT ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4496,7 +4496,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BILL MILLER. 289 VANDERBILT AVE PARK HILL HOUSING DEVELOPMENT STATEN ISLAND NY 10304 MINISTRY TO LIBERIANS KJV, NKJV, GARBC, NFIBC 1606 SR 12 BINGHAMTON NY 13901-5507 SS 930,SM 1045,SN 6,W 7 AWANA,WORD OF LIFE,SEN KJB church."
+    "description": "ATEN ISLAND NY 10304 MINISTRY TO LIBERIANS KJV, NKJV, GARBC, NFIBC 1606 SR 12 BINGHAMTON NY 13901-5507 SS 930,SM 1045,SN 6,W 7 AWANA,WORD OF LIFE,SEN KJB church"
   },
   {
     "id": "3244",
@@ -4514,7 +4514,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID FORD. NOT KJV ONLY,GARBC KJB church."
+    "description": "NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3245",
@@ -4533,12 +4533,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by MICHAEL J STITZEL. 18 PARK CIRCLE ANGELICA NY 14709 NOT KJV ONLY,GARBC KJB church."
+    "description": "ANGELICA NY 14709 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3246",
     "name": "FORESTVILLE BAPTIST CHURCH",
-    "address": "5 PROSPECT ST",
+    "address": "5 PROSPECT ST FOREST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4551,12 +4551,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by VICTOR WATKINS. PO BOX 67 5 PROSPECT ST FORESTVILLE NY 14062 NOT KJV ONLY,CCM,AB-COLLEGE KJB church."
+    "description": "PO BOX 67 VILLE NY 14062 NOT KJV ONLY,CCM,AB-COLLEGE KJB church"
   },
   {
     "id": "3247",
     "name": "BEACON BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 157",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4570,7 +4570,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by JOSEPH KRYGIER. PO BOX 157 4800 ROUTE 31 CLAY NY 13041 NASB, ESV, NKJV,GARBC,NFIBC KJB church."
+    "description": "4800 ROUTE 31 CLAY NY 13041 NASB, ESV, NKJV,GARBC,NFIBC KJB church"
   },
   {
     "id": "3248",
@@ -4589,7 +4589,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by TIM MINGE. 985 CHURCH RD ANGOLA NY 14006 SS 915,SM 11,SN 1 ESV & OTHERS,GARBC 113 CHURCH ST SHERMAN NY 14781 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, GARBC, BBC-CLARKSDALE, NFIBC 35 HOWARD AVE BINGHAMTON NY 13904 SS KJB church."
+    "description": "ANGOLA NY 14006 SS 915,SM 11,SN 1 ESV & OTHERS,GARBC 113 CHURCH ST SHERMAN NY 14781 SS 10,SM 11,SN 6,W 730 NOT KJV ONLY, GARBC, BBC-CLARKSDALE, NFIBC 35 HOWARD AVE BINGHAMTON NY 13904 SS KJB church"
   },
   {
     "id": "3249",
@@ -4607,12 +4607,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL MILROY. 2609 ROSE HILL RD MARIETTA NY 13110 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY,NFIBC,BMM,ABWE 3713 CLARENDON RD ALBION NY 14411 NOT KJV ONLY,GARBC, NFIBC KJB church."
+    "description": "MARIETTA NY 13110 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY,NFIBC,BMM,ABWE 3713 CLARENDON RD ALBION NY 14411 NOT KJV ONLY,GARBC, NFIBC KJB church"
   },
   {
     "id": "3250",
     "name": "HEDSTROM BAPTIST CHURCH",
-    "address": "55 LOSSON RD",
+    "address": "57 GENESSEE ST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4627,7 +4627,7 @@ export const newyorkChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by R BOB TEACHOUT. 55 LOSSON RD CHEEKTOWAGA NY 14227 NKJV,UNAFFILIATED 57 GENESSEE ST CAMILLUS NY 13031 KJB church."
+    "description": "CHEEKTOWAGA NY 14227 NKJV,UNAFFILIATED CAMILLUS NY 13031 KJB church"
   },
   {
     "id": "3251",
@@ -4645,7 +4645,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS GARDNER. SM 1030 NOT KJV ONLY,DRAMA,CCM KJB church."
+    "description": "SM 1030 NOT KJV ONLY,DRAMA,CCM KJB church"
   },
   {
     "id": "3252",
@@ -4663,12 +4663,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1625 85TH ST BROOKLYN NY 11214"
+    "description": "BROOKLYN NY 11214"
   },
   {
     "id": "3253",
     "name": "METROPOLITAN BAPTIST ACADEMY",
-    "address": "12 JAMES ST",
+    "address": "300 N JENSON RD VEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4682,7 +4682,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PETER R ELLIS. NOT KJV ONLY,CBA 12 JAMES ST GLOVERSVILLE NY 12078 SS 945,SM 11,SN 630,W 645 NOT KJV ONLY, GARBC 300 N JENSON RD VESTAL NY 13850 SS 945, SM 11, SN 6, W 7 NOT KJV ONLY,NFIBC PO BOX 331 FREDONIA NY 1406 KJB church."
+    "description": "NOT KJV ONLY,CBA GLOVERSVILLE NY 12078 SS 945,SM 11,SN 630,W 645 NOT KJV ONLY, GARBC AL NY 13850 SS 945, SM 11, SN 6, W 7 NOT KJV ONLY,NFIBC PO BOX 331 FREDONIA NY 1406 KJB church"
   },
   {
     "id": "3254",
@@ -4700,12 +4700,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GLENN LAMBERTZ. 96 STEWART AVE BETHPAGE NY 11714 ON LONG ISLAND SM 830 &11,SN 7,W 730 NOT KJV ONLY,GARBC KJB church."
+    "description": "BETHPAGE NY 11714 ON LONG ISLAND SM 830 &11,SN 7,W 730 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3255",
     "name": "PRATTSBURGH BAPTIST CHURCH",
-    "address": "5 N MAIN ST",
+    "address": "660 NEW PALTZ RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4719,12 +4719,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by DARRELL LEWIS. 5 N MAIN ST PRATTSBURGH NY 14873 NOT KJV ONLY,BBC-PA 660 NEW PALTZ RD HIGHLAND NY 12528 NOT KJV ONLY,GARBC,BBC-PA 11651 BULLIS RD MARILLA NY 14102 SS 945,SM 830 & 11,SN 6,W 7 CHOIR, MARILLA BIBLE INST KJB church."
+    "description": "PRATTSBURGH NY 14873 NOT KJV ONLY,BBC-PA HIGHLAND NY 12528 NOT KJV ONLY,GARBC,BBC-PA 11651 BULLIS RD MARILLA NY 14102 SS 945,SM 830 & 11,SN 6,W 7 CHOIR, MARILLA BIBLE INST KJB church"
   },
   {
     "id": "3256",
     "name": "CALVARY BAPTIST TABERNACLE",
-    "address": "729 MAIN ST",
+    "address": "729 MAIN ST VEST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4737,7 +4737,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL HILLS. 729 MAIN ST VESTAL NY 13850 AUDIO SERMONS ONLINE NOT KJV ONLY, GARBC KJB church."
+    "description": "AL NY 13850 AUDIO SERMONS ONLINE NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3257",
@@ -4755,7 +4755,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LESLIE E CHAMBERS. 122 ALBRO RD SHERBURNE NY 13460 NOT KJV ONLY,GARBC KJB church."
+    "description": "SHERBURNE NY 13460 NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3258",
@@ -4773,12 +4773,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL SPEIGEL. BOX 56 RR 305 CLARKSVILLE NY 14786 NOT KJV ONLY, GARBC KJB church."
+    "description": "BOX 56 RR 305 CLARKSVILLE NY 14786 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3259",
     "name": "FIRST BAPTIST CHURCH OF NEWARK VALLEY",
-    "address": "40 WHIG ST",
+    "address": "6180 RIDGE RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4793,12 +4793,12 @@ export const newyorkChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by ALFRED HARTWIG. 40 WHIG ST NEWARK VALLEY NY 13811 SS 930, SM 1045, SN 6, W 645 NOT KJV ONLY, NFIBC 6110 SR 30 (SABEAL RD) INDIAN LAKE NY 12842 SS 915,SM 11,W 7 NKJV,BBF,CCM PO BOX 293 6180 RIDGE RD SODUS NY 14551 KJV KJB church."
+    "description": "NEWARK VALLEY NY 13811 SS 930, SM 1045, SN 6, W 645 NOT KJV ONLY, NFIBC 6110 SR 30 (SABEAL RD) INDIAN LAKE NY 12842 SS 915,SM 11,W 7 NKJV,BBF,CCM PO BOX 293 SODUS NY 14551 KJV KJB church"
   },
   {
     "id": "3260",
     "name": "CHRISTIAN LIFE BAPTIST CHURCH",
-    "address": "2523 BROWN HOLLOW RD",
+    "address": "267 JACKSON ST HEMPST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4812,7 +4812,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PHILLIP SELL. 2523 BROWN HOLLOW RD CORNING NY 14830 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,BBF,WOL PO BOX 276 3110 HWY 11 HARTWICK NY 13348 SS 930, SM 1045, W 7 NOT KJV ONLY, GARBC, NFIBC 267 JACKSON ST HEMPSTEAD NY  KJB church."
+    "description": "CORNING NY 14830 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,BBF,WOL PO BOX 276 3110 HWY 11 HARTWICK NY 13348 SS 930, SM 1045, W 7 NOT KJV ONLY, GARBC, NFIBC EAD NY KJB church"
   },
   {
     "id": "3261",
@@ -4831,12 +4831,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by TERRY JANKS. SS 10,SM 11,SN 6,W 8 NOT KJV ONLY, GARBC KJB church."
+    "description": "SS 10,SM 11,SN 6,W 8 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3262",
     "name": "MAPLEHURST BAPTIST CHURCH",
-    "address": "5 MAIN ST",
+    "address": "5 MAIN ST MARATHON CHRIST",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4850,7 +4850,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CHRIS ANDERSON. 1349 CR 446 HINSDALE NY 14743 NOT KJV ONLY, GARBC PO BOX 579 MARATHON NY 13803 5 MAIN ST MARATHON CHRISTIAN ACADEMY,PS-12 NKJV,GARBC PO BOX 146 5049 SR 219 GREAT VALLEY NY 14741 CORNER OF RT 219 & MUT KJB church."
+    "description": "1349 CR 446 HINSDALE NY 14743 NOT KJV ONLY, GARBC PO BOX 579 MARATHON NY 13803 IAN ACADEMY,PS-12 NKJV,GARBC PO BOX 146 5049 SR 219 GREAT VALLEY NY 14741 CORNER OF RT 219 & MUT KJB church"
   },
   {
     "id": "3263",
@@ -4868,12 +4868,12 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN PARK. BOX 80 SMYRNA NY 13464-9738 NOT KJV ONLY,GARBC, NFIBC KJB church."
+    "description": "BOX 80 SMYRNA NY 13464-9738 NOT KJV ONLY,GARBC, NFIBC KJB church"
   },
   {
     "id": "3264",
     "name": "NICHOLS BAPTIST CHURCH",
-    "address": "90 ROKI BLVD",
+    "address": "990 MANITOU RD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4887,12 +4887,12 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by KEVIN PETSKE. PO BOX 156 90 ROKI BLVD NICHOLS NY 13812 KJB,RUCKMAN,CCM,TRINITY-BC-FL 990 MANITOU RD HILTON NY 14468 SM 9 & 11,SN 6,W 7 CHILDREN,DEAF,BUS,SINGLES,TEENS,DISCIPLESHIP, SPORTS, AUDIO SERMONS ONLINE NORT"
+    "description": "PO BOX 156 NICHOLS NY 13812 KJB,RUCKMAN,CCM,TRINITY-BC-FL HILTON NY 14468 SM 9 & 11,SN 6,W 7 CHILDREN,DEAF,BUS,SINGLES,TEENS,DISCIPLESHIP, SPORTS, AUDIO SERMONS ONLINE NORT"
   },
   {
     "id": "3265",
     "name": "FIRST BAPTIST CHURCH OF RIPLEY",
-    "address": "9869 E SIDE HILL RD",
+    "address": "9869 E SIDE HILL RD RIPL",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4906,7 +4906,7 @@ export const newyorkChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ROBERT FINCH. 9869 E SIDE HILL RD RIPLEY NY 14775 SS 930,SM 1045,SN 7,W 7 NOT KJV ONLY, GARBC 2293 GRAND CENTRAL AVE HORSEHEADS NY 14845-2573 SM 1030,SN 6,W 7 NKJV, KJV, NIV, GARBC KJB church."
+    "description": "EY NY 14775 SS 930,SM 1045,SN 7,W 7 NOT KJV ONLY, GARBC 2293 GRAND CENTRAL AVE HORSEHEADS NY 14845-2573 SM 1030,SN 6,W 7 NKJV, KJV, NIV, GARBC KJB church"
   },
   {
     "id": "3266",
@@ -4924,7 +4924,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN BRACKBILL. 18 HOADELY HILL RD WINDSOR NY 13865 NOT KJV ONLY GFA,BJU,CLEARWATER,NBBC KJB church."
+    "description": "WINDSOR NY 13865 NOT KJV ONLY GFA,BJU,CLEARWATER,NBBC KJB church"
   },
   {
     "id": "3267",
@@ -4942,7 +4942,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD LLOYD. 35 CAMPUS DR PORT WASHINGTON NY 11050 SS 945,SM 11,SE 630,W 7 NOT KJV ONLY, GARBC KJB church."
+    "description": "PORT WASHINGTON NY 11050 SS 945,SM 11,SE 630,W 7 NOT KJV ONLY, GARBC KJB church"
   },
   {
     "id": "3268",
@@ -4960,7 +4960,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETER SEIDEL. 2311 SLATERVILLE RD BROOKTONDALE NY 14817 NOT KJV ONLY,GARBC 30 S MAIN ST NEW BERLIN NY 13411 NOT KJV ONLY,WOL PO BOX 1044 555 ALBANY ST LITTLE FALLS NY 13365 MOHAWK VALLEY CHRISTIAN ACADEMY,K5-8 NOT  KJB church."
+    "description": "BROOKTONDALE NY 14817 NOT KJV ONLY,GARBC 30 S MAIN ST NEW BERLIN NY 13411 NOT KJV ONLY,WOL PO BOX 1044 555 ALBANY ST LITTLE FALLS NY 13365 MOHAWK VALLEY CHRISTIAN ACADEMY,K5-8 NOT KJB church"
   },
   {
     "id": "3269",
@@ -4980,12 +4980,12 @@ export const newyorkChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by CHRIS ELLIS. 4101 58TH ST FLUSHING NY 11377 NEAR WOODSIDE NY SM 830 & 11,SN 6,W 730 AWANA, VIDEO SERMONS ON YOUTUBE KJV,GARBC,S-GRACE,PRE-MIL,PRE-TRIB ROUTE 11B MT VISION NY 13810 SS 930,SM 1030,SN 6, W 7 ESV, BJU KJB church."
+    "description": "FLUSHING NY 11377 NEAR WOODSIDE NY SM 830 & 11,SN 6,W 730 AWANA, VIDEO SERMONS ON YOUTUBE KJV,GARBC,S-GRACE,PRE-MIL,PRE-TRIB ROUTE 11B MT VISION NY 13810 SS 930,SM 1030,SN 6, W 7 ESV, BJU KJB church"
   },
   {
     "id": "3270",
     "name": "NORTH SHORE BAPTIST CHURCH",
-    "address": "202-09 42ND AVE",
+    "address": "11 CHURCH NEAR NORTHERN BLVD",
     "city": "Albany",
     "state": "NY",
     "zipCode": "",
@@ -4998,7 +4998,7 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by C E. 202-09 42ND AVE BAYSIDE NY 11361 SM 9 & 11, SN 6 TEENS: FRIDAY NIGHT 7-11 CHURCH NEAR NORTHERN BLVD. AND FRANCIS LEWIS BLVD NOT KJV ONLY,GARBC KJB church."
+    "description": "202-09 42ND AVE BAYSIDE NY 11361 SM 9 & 11, SN 6 TEENS: FRIDAY NIGHT 7-. AND FRANCIS LEWIS BLVD NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "3271",
@@ -5016,6 +5016,6 @@ export const newyorkChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5071 HARRIS HILL RD WILLIAMSVILLE NY 14221-4221"
+    "description": "WILLIAMSVILLE NY 14221-4221"
   }
 ];

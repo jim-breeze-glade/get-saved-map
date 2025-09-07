@@ -17,7 +17,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by J D LEAKE. 2011 MAGOFFIN RD EL PASO TX 79901 SIGN LANGUAGE & GED PREP CLASSES, DEAF CENTER KJB church."
+    "description": "EL PASO TX 79901 SIGN LANGUAGE & GED PREP CLASSES, DEAF CENTER KJB church"
   },
   {
     "id": "4733",
@@ -36,7 +36,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by BEAU HICKS. PO BOX 110 205 S ALLEN DR ALLEN TX 75013 SM 10, SN 6, TH 7 HYMN SINGING, SOULWINNING KJB church."
+    "description": "PO BOX 110 ALLEN TX 75013 SM 10, SN 6, TH 7 HYMN SINGING, SOULWINNING KJB church"
   },
   {
     "id": "4734",
@@ -59,7 +59,7 @@ export const texasChurches: Church[] = [
   {
     "id": "4735",
     "name": "JONESPRAIRIEBAPTIST",
-    "address": "",
+    "address": "PO BOX 324",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -72,7 +72,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BUBBA MILLS. SS 10,SM 11,SN 130,W 630 TRADITIONAL WORSHIP PO BOX 324 VENUS TX 76084 10501 FM 1807, ALVARADO TX 76009 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "SS 10,SM 11,SN 130,W 630 TRADITIONAL WORSHIP VENUS TX 76084 10501 FM 1807, ALVARADO TX 76009 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "4736",
@@ -91,7 +91,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID WARNER. PO BOX 28; 557 HUNT ST (FM 604 S) CLYDE TX 79510 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "CLYDE TX 79510 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4737",
@@ -109,12 +109,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES A MCWHORTER. 13913 BLOOMING DESERT DR HORIZON CITY TX 79928 SS 10, SM 11, SN 630, W 630 FREE INTERNET BIBLE COLLEGE (BACHELOR THRU DOCTORATE) KJB church."
+    "description": "HORIZON CITY TX 79928 SS 10, SM 11, SN 630, W 630 FREE INTERNET BIBLE COLLEGE (BACHELOR THRU DOCTORATE) KJB church"
   },
   {
     "id": "4738",
     "name": "WILDWOOD BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 988",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -128,12 +128,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by STEVE PARKER. PO BOX 988; 275 VZ CR 2710 MABANK TX 75147 MAILING ADD 342 EDITH CONVERSE TX 78109 MEETING AT LONGHORN CAFE, 1667 TX 46, NEW BRAUNFELS TX 78132 SN 230 KJB church."
+    "description": "275 VZ CR 2710 MABANK TX 75147 MAILING ADD 342 EDITH CONVERSE TX 78109 MEETING AT LONGHORN CAFE, 1667 TX 46, NEW BRAUNFELS TX 78132 SN 230 KJB church"
   },
   {
     "id": "4739",
     "name": "QUINLAN BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 3127",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -146,7 +146,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRENTON STEVICKS. PO BOX 3127, 9813 FM 751 QUINLAN TX 75474 SS 10, SM 11, SN 6, W 7 KJB church."
+    "description": "9813 FM 751 QUINLAN TX 75474 SS 10, SM 11, SN 6, W 7 KJB church"
   },
   {
     "id": "4740",
@@ -166,7 +166,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DARYL E MILLER. 121 JERRY DR NEDERLAND TX 77627 SS 945,SM 11, SN 6, W 7 SOULWINNING KJB, UNAFFILIATED"
+    "description": "NEDERLAND TX 77627 SS 945,SM 11, SN 6, W 7 SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "4741",
@@ -185,7 +185,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DANIEL LEDFORD. 1800 N WARE RD MCALLEN TX 78501 SS 945,SM 1045,SN 6,W 7 SOULWINNING, FAITH BIBLE INSTITUTE, BUS, TEENS, AUDIO & VIDEO SERMONS KJB,CROWN"
+    "description": "MCALLEN TX 78501 SS 945,SM 1045,SN 6,W 7 SOULWINNING, FAITH BIBLE INSTITUTE, BUS, TEENS, AUDIO & VIDEO SERMONS KJB,CROWN"
   },
   {
     "id": "4742",
@@ -204,7 +204,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GLEN FOGG. 7443 HWY 66 ROYSE CITY TX 75132 SS 10,SM 11,SN 6,W 730 VIDEO SERMONS KJB, UNAFFILIATED"
+    "description": "7443 HWY 66 ROYSE CITY TX 75132 SS 10,SM 11,SN 6,W 730 VIDEO SERMONS KJB, UNAFFILIATED"
   },
   {
     "id": "4743",
@@ -223,12 +223,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TYRONE BARFIELD. 809 N. ELM ST DENTON TX 76201 SS 945, SM 11, SN 6, W 7 BUS, SOULWINNING, STREET PREACHING, AUDIO SERMONS KJB, HBBC"
+    "description": "DENTON TX 76201 SS 945, SM 11, SN 6, W 7 BUS, SOULWINNING, STREET PREACHING, AUDIO SERMONS KJB, HBBC"
   },
   {
     "id": "4744",
     "name": "CALVARY INDEPENDENT BAPTIST CHURCH",
-    "address": "301C WESTLAWN DR",
+    "address": "4406 MOCKINGBIRD LANE",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -236,14 +236,14 @@ export const texasChurches: Church[] = [
     "longitude": -98.0508,
     "phone": "(501) 722-3687",
     "website": "https://vtext.com",
-    "pastor": "ROBB FOREMAN",
+    "pastor": "TEXARKANA TX 75501 SS 10,SM 11,SN 6,W 7 PO BOX 80322, MIDLAND TX 79708 SS 10,SM 11,SN 6,W 7 SOULWINNING, PATCH CLUBS, TEENS KJB, UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by ROBB FOREMAN. 301C WESTLAWN DR TEXARKANA TX 75501 SS 10,SM 11,SN 6,W 7 PO BOX 80322, 4406 MOCKINGBIRD LANE MIDLAND TX 79708 SS 10,SM 11,SN 6,W 7 SOULWINNING, PATCH CLUBS, TEENS KJB, UNAFFILIATED"
+    "description": "301C WESTLAWN DR TEXARKANA TX 75501 SS 10,SM 11,SN 6,W 7 PO BOX 80322, MIDLAND TX 79708 SS 10,SM 11,SN 6,W 7 SOULWINNING, PATCH CLUBS, TEENS KJB, UNAFFILIATED"
   },
   {
     "id": "4745",
@@ -263,7 +263,7 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by LEE GONZALES. 505 W UNIVERSITY AVE #109 GEORGETOWN TX 78626 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "GEORGETOWN TX 78626 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "4746",
@@ -282,7 +282,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by MICHAEL JAMES. 17914 CYPRESS ROSE HILL CYPRESS TX 77429 S 10,SM 11,SN 6,W 7 KJB church."
+    "description": "17914 CYPRESS ROSE HILL CYPRESS TX 77429 S 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4747",
@@ -300,7 +300,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEEGAN HALL. 18304 HUFSMITH KOHRVILLE RD TOMBALL TX 77375 SS 10,SM 11,SN 115,W 7 KJB church."
+    "description": "TOMBALL TX 77375 SS 10,SM 11,SN 115,W 7 KJB church"
   },
   {
     "id": "4748",
@@ -318,7 +318,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOB HAYNES. 370 N FM 1702 INDIAN GAP TX SS 1015,SM 11,W 630 KEQX 89.7 RADIO VERY SUNDAY AT 1130, AUDIO & VIDEO SERMONS KJB church."
+    "description": "370 N FM 1702 INDIAN GAP TX SS 1015,SM 11,W 630 KEQX 89.7 RADIO VERY SUNDAY AT 1130, AUDIO & VIDEO SERMONS KJB church"
   },
   {
     "id": "4749",
@@ -337,12 +337,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ADDISON BROWN. 509 S COLORADO ST IOWA PARK TX 76367 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER & RV HOOKUP 1440 FM 1446 WAXAHACHIE TX 75165 SS 930,SM 1045,SN 6,W 7 KINGS KIDS KJB, UNAFFILIATED"
+    "description": "IOWA PARK TX 76367 SS 10,SM 11,SN 6,W 7 PROPHETS CHAMBER & RV HOOKUP 1440 FM 1446 WAXAHACHIE TX 75165 SS 930,SM 1045,SN 6,W 7 KINGS KIDS KJB, UNAFFILIATED"
   },
   {
     "id": "4750",
     "name": "FIRST TEXAS INDIAN BAPTIST CHURCH",
-    "address": "",
+    "address": "190 E LIVINGST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -357,7 +357,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "ABA"
     ],
-    "description": "Led by MIKE WELLS. 17120 US HWY 190 E LIVINGSTON TX 77351 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "17120 US HWY ON TX 77351 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4751",
@@ -375,7 +375,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "1729 GROSS RD MESQUITE TX 75149 SS 945, SM 1045, SN 6, W 7, TH SW 945 AM & 7 PM, SAT SW 10 SOULWINNING, SPANISH, CHOIR, BUS, BOOKSTORE, MUCH MORE"
+    "description": "MESQUITE TX 75149 SS 945, SM 1045, SN 6, W 7, TH SW 945 AM & 7 PM, SAT SW 10 SOULWINNING, SPANISH, CHOIR, BUS, BOOKSTORE, MUCH MORE"
   },
   {
     "id": "4752",
@@ -412,7 +412,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by RICK REED. 1102 S 35TH ST TEMPLE TX 76503 SS 10,SM 11,SN 630,W 630 KJB church."
+    "description": "TEMPLE TX 76503 SS 10,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "4754",
@@ -431,7 +431,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL NEFF. 3900 FM 511 BROWNSVILLE TX 78526 KJB, UNAFFILIATED"
+    "description": "3900 FM 511 BROWNSVILLE TX 78526 KJB, UNAFFILIATED"
   },
   {
     "id": "4755",
@@ -444,13 +444,13 @@ export const texasChurches: Church[] = [
     "longitude": -96.7022,
     "phone": "(915) 545-3456",
     "website": "http://www.newheightselpaso.com",
-    "pastor": "JOSHUA KELLEY",
+    "pastor": "WED SERVICE AT THE PASTOR'S HOUSE, CALL OR EMAIL FOR LOCATION SM 1030, W 715 15 MINUTES FROM FORT BLISS KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOSHUA KELLEY. PO BOX 962697 El PASO TX 79996 PHYSICAL ADDRESS SM SERVICE @ PELLICANO HALL, 11500 PELLICANO DR WED SERVICE AT THE PASTOR'S HOUSE, CALL OR EMAIL FOR LOCATION SM 1030, W 715 15 MINUTES FROM FORT BLISS  KJB church."
+    "description": "PO BOX 962697 El PASO TX 79996 PHYSICAL ADDRESS , 11500 PELLICANO DR WED SERVICE AT THE PASTOR'S HOUSE, CALL OR EMAIL FOR LOCATION SM 1030, W 715 15 MINUTES FROM FORT BLISS KJB church"
   },
   {
     "id": "4756",
@@ -469,7 +469,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHNNY STEWART. 15335 ORANGE TOWER HELOTES TX 78023 SS 10, SM 11, SN 7, W 7 30 MINS FROM LACKLAND AFB KJB, UNAFFILIATED 1400 W VILLA MARIA RD STE #200 BRYAN TX 77801 SS 10,SM 11,SN 6,W 6,SW SAT 945 & M-F 5 PM"
+    "description": "15335 ORANGE TOWER HELOTES TX 78023 SS 10, SM 11, SN 7, W 7 30 MINS FROM LACKLAND AFB KJB, UNAFFILIATED BRYAN TX 77801 SS 10,SM 11,SN 6,W 6,SW SAT 945 & M-F 5 PM"
   },
   {
     "id": "4757",
@@ -488,7 +488,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE GILBERT. 1005 JACKSON RD CARROLLTON TX 75006 BUS, KINGS KIDS, SOULWINNING, INTERNET CORRESPONDENCE, SENIORS, COLLEGE CAREER, TEENS KJB church."
+    "description": "CARROLLTON TX 75006 BUS, KINGS KIDS, SOULWINNING, INTERNET CORRESPONDENCE, SENIORS, COLLEGE CAREER, TEENS KJB church"
   },
   {
     "id": "4758",
@@ -508,12 +508,12 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DWIGHT K PATTERSON. PO BOX 118 SOMERSET TX 78069 16170 SOMERSET RD VON ORMY TX 78073 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, UNAFFILIATED"
+    "description": "PO BOX 118 SOMERSET TX 78069 VON ORMY TX 78073 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "4759",
     "name": "BIBLE BELIEVERS BAPTIST CHURCH",
-    "address": "420 LAWNDALE DR",
+    "address": "420 LAWNDALE DR RICHARD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -526,7 +526,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL TAYLOR. 420 LAWNDALE DR RICHARDSON TX 75080 DISPENSATIONAL, FAMILY ORIENTED CHURCH KJB church."
+    "description": "SON TX 75080 DISPENSATIONAL, FAMILY ORIENTED CHURCH KJB church"
   },
   {
     "id": "4760",
@@ -544,7 +544,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEITH BIRDSONG. 4895 CR 353 BRAZORIA TX 77422 SS 945,SM 11,SN 1,W 7 KJB church."
+    "description": "4895 CR 353 BRAZORIA TX 77422 SS 945,SM 11,SN 1,W 7 KJB church"
   },
   {
     "id": "4761",
@@ -562,7 +562,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSEPH GRAB. 2220 29TH ST N TEXAS CITY TX 77590 SS 10,SM 1045,SN 2,W 7 BUS, FAITH BIBLE INSTITUTE; TRINITY BAPTIST CHRISTIAN SCHOOL,BEKA ACE BJU,K5-12 KJB church."
+    "description": "TEXAS CITY TX 77590 SS 10,SM 1045,SN 2,W 7 BUS, FAITH BIBLE INSTITUTE; TRINITY BAPTIST CHRISTIAN SCHOOL,BEKA ACE BJU,K5-12 KJB church"
   },
   {
     "id": "4762",
@@ -580,12 +580,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK OWENS. 102 NORTHEN DOVE LN COPPERAS COVE TX 76522 SS 10, SM 11, SN 6, Th 7 FORT HOOD 4 MILES KJB church."
+    "description": "COPPERAS COVE TX 76522 SS 10, SM 11, SN 6, Th 7 FORT HOOD 4 MILES KJB church"
   },
   {
     "id": "4763",
     "name": "FAITH BAPTIST CHURCH",
-    "address": "208 37TH ST",
+    "address": "1208 S WW WHITE RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -600,7 +600,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MICHAEL MARTIN SR. 208 37TH ST SNYDER TX 79549 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1208 S WW WHITE RD SAN ANTONIO TX 78220 SS 10,SM 11,SN 7,W 7 FAMILY ORIENTED, SOULWINNING PO BOX 246; 211 WILLOW ST STRAWN TX 76475 S"
+    "description": "208 37TH ST SNYDER TX 79549 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED SAN ANTONIO TX 78220 SS 10,SM 11,SN 7,W 7 FAMILY ORIENTED, SOULWINNING PO BOX 246; 211 WILLOW ST STRAWN TX 76475 S"
   },
   {
     "id": "4764",
@@ -618,7 +618,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "458 LANARK RD SAN ANTONIO TX 78218 SS 10,SM 11,SN 6,W 7"
+    "description": "SAN ANTONIO TX 78218 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4765",
@@ -637,12 +637,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DON CABBAGE. SOULWINNING, BUS, AUDIO SERMONS KJB church."
+    "description": "SOULWINNING, BUS, AUDIO SERMONS KJB church"
   },
   {
     "id": "4766",
     "name": "MIRACLE SIGN DEAF BAPTIST CHURCH",
-    "address": "3820 N ZARAGOSA RD",
+    "address": "321 N WILBARGER ST ELECT",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -650,13 +650,13 @@ export const texasChurches: Church[] = [
     "longitude": -97.672,
     "phone": "(915) 330-4887",
     "website": "http://missionsociety.us",
-    "pastor": "TERRY HICKMAN",
+    "pastor": "WICHITA FALLS TX 76302 SS 945,SM 11,SN 7,W 730 13341 STATE HWY 195 KILLEEN TX 76542 S KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "SBC"
     ],
-    "description": "Led by TERRY HICKMAN. 3820 N ZARAGOSA RD EL PASO TX 79937 321 N WILBARGER ST ELECTRA TX 76360 SHEPPARD AFB 25 MILES 5109 PROFESSIONAL DR WICHITA FALLS TX 76302 SS 945,SM 11,SN 7,W 730 13341 STATE HWY 195 KILLEEN TX 76542 S KJB church."
+    "description": "EL PASO TX 79937 RA TX 76360 SHEPPARD AFB 25 MILES 5109 PROFESSIONAL DR WICHITA FALLS TX 76302 SS 945,SM 11,SN 7,W 730 13341 STATE HWY 195 KILLEEN TX 76542 S KJB church"
   },
   {
     "id": "4767",
@@ -674,7 +674,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT SPERBECK. 103 SHADY GROVE RD BURNET TX 78611 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "BURNET TX 78611 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4768",
@@ -693,7 +693,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SCOTTY THOMPSON. PO BOX 11601 6601 S FORT HOOD ST KILLEEN TX 76542 SS 10,SM 11,SN 6,W 7 BUS, SOLDIERS, SOULWINNING, PROPHETS CHAMBER, 4 MILES FROM FORT HOODE KJB church."
+    "description": "PO BOX 11601 KILLEEN TX 76542 SS 10,SM 11,SN 6,W 7 BUS, SOLDIERS, SOULWINNING, PROPHETS CHAMBER, 4 MILES FROM FORT HOODE KJB church"
   },
   {
     "id": "4769",
@@ -713,7 +713,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOE COLLIER. 3434 S COLLINS ARLINGTON TX 76014 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED PO BOX 108; 108 N PRESTON BURKBURNETT TX 76354 SS 10, SM 11, SN 5, W 7 VAN, SOULWINNING, PROPHET’S CHAMBER, 6 MILES SHEPPARD"
+    "description": "3434 S COLLINS ARLINGTON TX 76014 SS 930,SM 1030,SN 6,W 7 KJB, UNAFFILIATED BURKBURNETT TX 76354 SS 10, SM 11, SN 5, W 7 VAN, SOULWINNING, PROPHET’S CHAMBER, 6 MILES SHEPPARD"
   },
   {
     "id": "4770",
@@ -731,7 +731,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JUAN R JUAREZ. 1212 S BELTLINE RD MESQUITE TX  75149 SS 945,SM 11,SN 6,W 7 SPANISH,DEAF,BUS,TEEN; MESQUITE BAPTIST ACADEMY KJB church."
+    "description": "MESQUITE TX 75149 SS 945,SM 11,SN 6,W 7 SPANISH,DEAF,BUS,TEEN; MESQUITE BAPTIST ACADEMY KJB church"
   },
   {
     "id": "4771",
@@ -749,12 +749,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED THIERBACH. 431 E PYRON AVE SAN ANTONIO TX 78214 SPANISH KJB church."
+    "description": "SAN ANTONIO TX 78214 SPANISH KJB church"
   },
   {
     "id": "4772",
     "name": "RANCHERO DRIVE BAPTIST CHURCH",
-    "address": "801 RANCHERO DR",
+    "address": "1015 S COMMERCIAL AVE",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -767,7 +767,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG THAMES. 801 RANCHERO DR KERRVILLE TX 78028 SS 10,SM 11,SN 6,W 7 1015 S COMMERCIAL AVE COLEMAN TX 76834 PO BOX 222; 700 W 18TH ST CISCO TX 76437 SS 10,SM 11,SN 6,W 630 KJB church."
+    "description": "KERRVILLE TX 78028 SS 10,SM 11,SN 6,W 7 COLEMAN TX 76834 PO BOX 222; 700 W 18TH ST CISCO TX 76437 SS 10,SM 11,SN 6,W 630 KJB church"
   },
   {
     "id": "4773",
@@ -780,12 +780,12 @@ export const texasChurches: Church[] = [
     "longitude": -98.1823,
     "phone": "(817) 431-9030",
     "website": "http://twinoaksbaptist.wordpress.com",
-    "pastor": "",
+    "pastor": "KJB, IBFI",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 795; 1301 S MAIN ST KELLER TX 76248 SS 945,SM 1030,SN 5,W 7 AUDIO SERMONS PASTOR KJB, IBFI"
+    "description": "KELLER TX 76248 SS 945,SM 1030,SN 5,W 7 AUDIO SERMONS"
   },
   {
     "id": "4774",
@@ -803,7 +803,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIMOTHY HOLLINGSHED. PO BOX 291; 915 COUNTRY CLUB RD CLEBURNE TX 76033 SS 10,SM 11,SN 6,W 7 PO BOX 420; 1295 US HWY 84 W TEAGUE TX 75838 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "CLEBURNE TX 76033 SS 10,SM 11,SN 6,W 7 PO BOX 420; 1295 US HWY 84 W TEAGUE TX 75838 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "4775",
@@ -816,13 +816,13 @@ export const texasChurches: Church[] = [
     "longitude": -98.9508,
     "phone": "(817) 834-2572",
     "website": "http://www.flbctx.org",
-    "pastor": "ROBERT GRAF",
+    "pastor": "SANGER, TX 76266 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, VIDEO SERMONS KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT GRAF. 3136 FRIENDLY LN HALTOM CITY TX 76117 SS 10, SM 11, SN 6, WN 7 SOULWINNING 207 KATHRYN DR SANGER, TX 76266 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, VIDEO SERMONS KJB church."
+    "description": "HALTOM CITY TX 76117 SS 10, SM 11, SN 6, WN 7 SOULWINNING 207 KATHRYN DR SANGER, TX 76266 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, VIDEO SERMONS KJB church"
   },
   {
     "id": "4776",
@@ -840,7 +840,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BUDDY HIMES. PO BOX 10368; FM 2484, YOUNGSPORT RD KILLEEN TX 76547 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, FORT HOOD KJB church."
+    "description": "YOUNGSPORT RD KILLEEN TX 76547 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS, FORT HOOD KJB church"
   },
   {
     "id": "4777",
@@ -858,7 +858,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHARLES GANDY. 8006 HWY 191 MIDLAND TX 79707 SS 930,SM 1030,SN 630,W 7 VIDEO SERMONS KJB church."
+    "description": "8006 HWY 191 MIDLAND TX 79707 SS 930,SM 1030,SN 630,W 7 VIDEO SERMONS KJB church"
   },
   {
     "id": "4778",
@@ -878,7 +878,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MATT PERKINS. 11209 LYRIC LN BALCH SPRINGS TX 75180 SS 945,SM 1040,SN 5,W 7 PO BOX 1345; 1613 W 24TH PLAINVIEW TX 79073 SS 10,SM 11,SN 6,W 7 KJB, CONSERVATIVE MUSIC, HBBC, UNAFFILIATED 340 HOOPER RD WYLIE TX 75098"
+    "description": "BALCH SPRINGS TX 75180 SS 945,SM 1040,SN 5,W 7 PO BOX 1345; 1613 W 24TH PLAINVIEW TX 79073 SS 10,SM 11,SN 6,W 7 KJB, CONSERVATIVE MUSIC, HBBC, UNAFFILIATED 340 HOOPER RD WYLIE TX 75098"
   },
   {
     "id": "4779",
@@ -896,7 +896,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL PISNEY. PO BOX 416; 21762 FOREST GROVE DR CHANDLER TX 75758 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "CHANDLER TX 75758 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "4780",
@@ -914,12 +914,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LANE MITZELFELT. 3201 ROBIN RD GREENVILLE TX 75402 VIDEO SERMONS SS 930,SM 1030,SN 6,W 7 KJB,FAMILY INTEGRATED"
+    "description": "GREENVILLE TX 75402 VIDEO SERMONS SS 930,SM 1030,SN 6,W 7 KJB,FAMILY INTEGRATED"
   },
   {
     "id": "4781",
     "name": "HARMONY BAPTIST CHURCH",
-    "address": "",
+    "address": "440 TIFFANY TRAIL RICHARD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -934,7 +934,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JOSE MORENO. 440 TIFFANY TRAIL RICHARDSON TX 75081 SOULWINNING, CORRESPONDENCE LESSONS, STREET PREACHING, SENIORS KJB,UNAFFILIATED"
+    "description": "SON TX 75081 SOULWINNING, CORRESPONDENCE LESSONS, STREET PREACHING, SENIORS KJB,UNAFFILIATED"
   },
   {
     "id": "4782",
@@ -952,7 +952,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK MCDONALD. 4929 GATEWOOD RD GARLAND TX 75044 SS 10, SM 11, PM 115, W 7 RR 4 BOX 1576 3608 N URANUS ODESSA TX 79764 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GARLAND TX 75044 SS 10, SM 11, PM 115, W 7 RR 4 BOX 1576 3608 N URANUS ODESSA TX 79764 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4783",
@@ -970,7 +970,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BEZALEEL. 710 E BOWIE ST BEEVILLE TX 78102 SS 10,SM 11,SN 6,W 7 KJB, IBFI, PBI-RUCKMAN"
+    "description": "BEEVILLE TX 78102 SS 10,SM 11,SN 6,W 7 KJB, IBFI, PBI-RUCKMAN"
   },
   {
     "id": "4784",
@@ -988,7 +988,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIE HAAK. 1339 W HUISACHE AVE SAN ANTONIO TX 78201 SS 10,SM 11,SN 630,W 630 POT OF GOLD YOUTH CAMP, RANDOLPH,SAM HOUSTON,BROOKS,LACKLAND KJB church."
+    "description": "SAN ANTONIO TX 78201 SS 10,SM 11,SN 630,W 630 POT OF GOLD YOUTH CAMP, RANDOLPH,SAM HOUSTON,BROOKS,LACKLAND KJB church"
   },
   {
     "id": "4785",
@@ -1007,7 +1007,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by R A SMITH. RR 1 BOX 544 B 350 AGNES N SPRINGTOWN TX 76082 SS 10,SM 11,SN 630,W 7 VIDEO SERMONS KJB, HAC"
+    "description": "RR 1 BOX 544 B 350 AGNES N SPRINGTOWN TX 76082 SS 10,SM 11,SN 630,W 7 VIDEO SERMONS KJB, HAC"
   },
   {
     "id": "4786",
@@ -1025,12 +1025,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CALEB SHIPMAN. 301 RALPH ST FORT WORTH TX 76108 SS 10,SM 11,SN 7,W 730,SW TH 7,SAT 10 BUS; FORT WORTH BAPTIST ACADEMY K4-12; NAS FORTH WORTH KJB, OLD FASHIONED, HBBC, GIBF"
+    "description": "FORT WORTH TX 76108 SS 10,SM 11,SN 7,W 730,SW TH 7,SAT 10 BUS; FORT WORTH BAPTIST ACADEMY K4-12; NAS FORTH WORTH KJB, OLD FASHIONED, HBBC, GIBF"
   },
   {
     "id": "4787",
     "name": "GOSPEL LIGHT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1826",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1044,7 +1044,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID A BEATY. 601 COUNTRY CLUB PKWY MINERAL WELLS TX 76067 SS 945,SM 1045,SN 6,W 7 GOSPEL LIGHT BA,K5-6 PO BOX 1826; 248 TX HWY 19 HUNTSVILLE TX 77342 SS 10,SM 11,SN 6 WISE GUYS KIDS, SOUL-WINNING, PRISON, SENIORS, KJB church."
+    "description": "601 COUNTRY CLUB PKWY MINERAL WELLS TX 76067 SS 945,SM 1045,SN 6,W 7 GOSPEL LIGHT BA,K5-6 ; 248 TX HWY 19 HUNTSVILLE TX 77342 SS 10,SM 11,SN 6 WISE GUYS KIDS, SOUL-WINNING, PRISON, SENIORS, KJB church"
   },
   {
     "id": "4788",
@@ -1062,12 +1062,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUSSELL WHITE. 2001 HAYMARKET RD DALLAS TX 75253 PO BOX 217; 745 FM 203 STEPHENVILLE TX 76401 SS 10,SM 11,SN 7,W 7 PATCH PIRATE, AUDIO SERMONS KJB, IBFI"
+    "description": "DALLAS TX 75253 PO BOX 217; 745 FM 203 STEPHENVILLE TX 76401 SS 10,SM 11,SN 7,W 7 PATCH PIRATE, AUDIO SERMONS KJB, IBFI"
   },
   {
     "id": "4789",
     "name": "CALVARY BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 837",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1080,7 +1080,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRIAN FISHER. PO BOX 837; 98 CR NE 2010 MT VERNON TX 75494 near WINNSBORO SS 10,SM 11,SBS 530,SN 6,W 7 KJB church."
+    "description": "98 CR NE 2010 MT VERNON TX 75494 near WINNSBORO SS 10,SM 11,SBS 530,SN 6,W 7 KJB church"
   },
   {
     "id": "4790",
@@ -1093,13 +1093,13 @@ export const texasChurches: Church[] = [
     "longitude": -97.2729,
     "phone": "(817) 244-0825",
     "website": "http://www.longvuebaptistchurch.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "SBC"
     ],
-    "description": "3420 LONGVUE AVE FORT WORTH TX 76116 SS 10,SM 11,SN 6,W 7 BUS, LIVE & AUDIO SERMONS NEEDS PASTOR KJB church."
+    "description": "FORT WORTH TX 76116 SS 10,SM 11,SN 6,W 7 BUS, LIVE & AUDIO SERMONS NEEDS"
   },
   {
     "id": "4791",
@@ -1117,12 +1117,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH MERELL. PO BOX 10066; 206 KOLDIN LN FORT WORTH TX 76114 SS 10,SM 1045,SN 630,W 730 KJB church."
+    "description": "FORT WORTH TX 76114 SS 10,SM 1045,SN 630,W 730 KJB church"
   },
   {
     "id": "4792",
     "name": "SOUTH SIDE BAPTIST CHURCH",
-    "address": "1115 S BRAZOS ST",
+    "address": "1115 S BRAZOS ST WEATHERFORD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1135,7 +1135,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "SBC"
     ],
-    "description": "1115 S BRAZOS ST WEATHERFORD TX 76086 (817) 594- 3239 CH SS 10,SM 11,SN 6,W 7 SBC church."
+    "description": "TX 76086 (817) 594- 3239 CH SS 10,SM 11,SN 6,W 7 SBC church"
   },
   {
     "id": "4793",
@@ -1153,7 +1153,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERRY SUTTON.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4794",
@@ -1173,7 +1173,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GARY REDFIELD. 101 BRAZOSWORD DR CLUTE TX 77531 SS 945,SM 11,SN 6,W 7 AWANA, SENIORS, FOOD PANTRY, TEENS 1ST BIBLE BAPTIST CHURCH PO BOX 596; 209 W 3RD ST KENNEDALE TX 76060 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, UNA"
+    "description": "CLUTE TX 77531 SS 945,SM 11,SN 6,W 7 AWANA, SENIORS, FOOD PANTRY, TEENS 1ST BIBLE BAPTIST CHURCH PO BOX 596; 209 W 3RD ST KENNEDALE TX 76060 SS 10,SM 11,SN 6,W 7 SOULWINNING KJB, UNA"
   },
   {
     "id": "4795",
@@ -1191,12 +1191,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1026; 1635 RUNNEBURG RD CROSBY TX 77532"
+    "description": "CROSBY TX 77532"
   },
   {
     "id": "4796",
     "name": "NEFREEWAYBAPTIST",
-    "address": "",
+    "address": "6 PAMPA CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1209,7 +1209,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL HUDSON. PO BOX 1435; 500 E KINGSMILL PAMPA TX 79066 SS 10,SM 11,SN 5,W 6 PAMPA CHRISTIAN SCHOOL 6013 FM 429 KAUFMAN TX 75142 HWY 243 & HWY 429 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "PO BOX 1435; 500 E KINGSMILL PAMPA TX 79066 SS 10,SM 11,SN 5,W IAN SCHOOL 6013 FM 429 KAUFMAN TX 75142 HWY 243 & HWY 429 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "4797",
@@ -1227,7 +1227,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID STONE. PO BOX 388; 104 PYKA RD FREDERICKSBURG TX 78624 SS 10,SM 11,SN 6,W 6 AUDIO AND VIDEO SERMONS KJB church."
+    "description": "FREDERICKSBURG TX 78624 SS 10,SM 11,SN 6,W 6 AUDIO AND VIDEO SERMONS KJB church"
   },
   {
     "id": "4798",
@@ -1245,7 +1245,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JONATHAN MANN. 5801 FM 1960 E HUMBLE TX 77396 SS 945,SM 11,SN 6,W 7 KJB, CROWN-BC"
+    "description": "5801 FM 1960 E HUMBLE TX 77396 SS 945,SM 11,SN 6,W 7 KJB, CROWN-BC"
   },
   {
     "id": "4799",
@@ -1263,12 +1263,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TYLER BITTNER. PO BOX 40221; 1301 MCPHERSON RD FORT WORTH TX 76140 SS 10,SM 1050,SN 6,W 630 KJB, NO CCM"
+    "description": "FORT WORTH TX 76140 SS 10,SM 1050,SN 6,W 630 KJB, NO CCM"
   },
   {
     "id": "4800",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1139",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1282,7 +1282,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by MATT WILKERSON. PO BOX 1139 1030 N MORRIS GAINESVILLE TX 76240 SS 945,SM 11, CENTRAL CHRISTIAN SCHOOL,PK-12 KJB, CROWN-BC"
+    "description": "1030 N MORRIS GAINESVILLE TX 76240 SS 945,SM 11, CENTRAL CHRISTIAN SCHOOL,PK-12 KJB, CROWN-BC"
   },
   {
     "id": "4801",
@@ -1300,7 +1300,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED NEAL. 1155 N HWY 67 CEDAR HILL TX 75104 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "1155 N HWY 67 CEDAR HILL TX 75104 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "4802",
@@ -1319,7 +1319,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by LELTON L JAMES. 205 S BRIDGEFARMER RD MCKINNEY TX 75069 SS 10,SM 1050,SN 6,W 730 KJB, BBF, IBFI"
+    "description": "MCKINNEY TX 75069 SS 10,SM 1050,SN 6,W 730 KJB, BBF, IBFI"
   },
   {
     "id": "4803",
@@ -1337,7 +1337,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1034 E ENON AVE EVERMAN TX 71640 (817) 483- 9899 CH    (817) 293- 7914 HM SS 10,SM 11,SN 6,W 7"
+    "description": "EVERMAN TX 71640 (817) 483- 9899 CH (817) 293- 7914 HM SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4804",
@@ -1355,12 +1355,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by BOB JACKSON."
+    "description": ""
   },
   {
     "id": "4805",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "2416 95TH ST",
+    "address": "79423 PHYSICAL ADDR",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1375,12 +1375,12 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MARC MCENDREE. KJB, UNAFFILIATED 2416 95TH ST LUBBOCK TX 79423 PHYSICAL ADDRESS: 4023 34TH ST SM 1030, SN 6, W 7 SOULWINNING, AUDIO SERMONS PART 2"
+    "description": "KJB, UNAFFILIATED 2416 95TH ST LUBBOCK TX ESS: 4023 34TH ST SM 1030, SN 6, W 7 SOULWINNING, AUDIO SERMONS PART 2"
   },
   {
     "id": "4806",
     "name": "CROSS TIMBERS BAPTIST CHURCH",
-    "address": "1400 N MCCART ST",
+    "address": "1400 N MCCART ST ST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1394,7 +1394,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID WHITLEY. 1400 N MCCART ST STEPHENVILLE TX 76401 SS 10,SM 11,SN 6,W 630 KJB,UNAFFILIATED"
+    "description": "EPHENVILLE TX 76401 SS 10,SM 11,SN 6,W 630 KJB,UNAFFILIATED"
   },
   {
     "id": "4807",
@@ -1414,7 +1414,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MATTHEW SCHUMACHER. 2507 CEDAR KNOB RD HARKER HEIGHTS TX 76548 SS 945,SM 11,SN 630,W 7 4 MILES FROM FORT HOODS MAIN GATE KJB, FUNDAMENTAL 122 W FILMORE AVE HARLINGEN TX 78550 SS 945, SM 10, SN 630, W 730 SOULWINNING, MAS"
+    "description": "HARKER HEIGHTS TX 76548 SS 945,SM 11,SN 630,W 7 4 MILES FROM FORT HOODS MAIN GATE KJB, FUNDAMENTAL 122 W FILMORE AVE HARLINGEN TX 78550 SS 945, SM 10, SN 630, W 730 SOULWINNING, MAS"
   },
   {
     "id": "4808",
@@ -1433,12 +1433,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHNNY CHAE. 2006 S 5TH ST TEMPLE TX 76504 SS 945,SM 1045,SN 630,W 7 KJB, UNAFFILIATED"
+    "description": "TEMPLE TX 76504 SS 945,SM 1045,SN 630,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4809",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "5217 YORKTOWN BLVD",
+    "address": "5217 YORKTOWN BLVD CORPUS CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1452,12 +1452,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ALFONSO MEJIA. 5217 YORKTOWN BLVD CORPUS CHRISTI TX 78413 SS 10, SM 11, SN 6, W 7:15 SOULWINNING, VISITATION, AUDIO SERMONS, TEENS KJB,HYLES"
+    "description": "I TX 78413 SS 10, SM 11, SN 6, W 7:15 SOULWINNING, VISITATION, AUDIO SERMONS, TEENS KJB,HYLES"
   },
   {
     "id": "4810",
     "name": "LONE STAR BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 19481",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1471,7 +1471,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JK MARTHERS. IGLESIA BAUTISTA SHALOM PO BOX 19481; AMARILLO TX 79114 1305 SW 8TH (806) 656-O458 CH KJB, BBFI"
+    "description": "IGLESIA BAUTISTA SHALOM ; AMARILLO TX 79114 1305 SW 8TH (806) 656-O458 CH KJB, BBFI"
   },
   {
     "id": "4811",
@@ -1491,7 +1491,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by ERIC COMBS. 301 RALPH WHITE SETTLEMENT, TX 76108 SS 945, SM 1030, SN 6, W 7 NASJRB, FORT WORTH KJB, UNAFFILIATED 1364 PARKER RD WYLIE TX 75098 SS 10, SM 11, SN 630, W 730"
+    "description": "301 RALPH WHITE SETTLEMENT, TX 76108 SS 945, SM 1030, SN 6, W 7 NASJRB, FORT WORTH KJB, UNAFFILIATED WYLIE TX 75098 SS 10, SM 11, SN 630, W 730"
   },
   {
     "id": "4812",
@@ -1513,7 +1513,7 @@ export const texasChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by LES RYAN. KJB, UNAFFILIATED 2631 SPRING CYPRESS RD SPRING TX 77388 SS 930, SM 1030, SN 130, W 7 KJB, NORRIS-BBS, IBFI,HBBC 700 E WILLOW ST NOCONA TX  76255 SS 10,SM 11,SN 6,W 7 BUS,JUNIOR CHURCH, SOULWINNING,YO"
+    "description": "KJB, UNAFFILIATED SPRING TX 77388 SS 930, SM 1030, SN 130, W 7 KJB, NORRIS-BBS, IBFI,HBBC 700 E WILLOW ST NOCONA TX 76255 SS 10,SM 11,SN 6,W 7 BUS,JUNIOR CHURCH, SOULWINNING,YO"
   },
   {
     "id": "4813",
@@ -1532,7 +1532,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by CHARLES PUGH. 5601 HARTFORD ST ABILENE TX 79605 SS 945,SM 1045,SN 6,W 7 SOULWINNING 1 MILE FROM DYESS AFB MAIN GATE KJB,ARLINGTON-BC 145 CR 3355 PARADISE TX 76073 in COTTONDALE SS 10,SM 11,SN 6,W 630 AUDIO SERMONS"
+    "description": "ABILENE TX 79605 SS 945,SM 1045,SN 6,W 7 SOULWINNING 1 MILE FROM DYESS AFB MAIN GATE KJB,ARLINGTON-BC 145 CR 3355 PARADISE TX 76073 in COTTONDALE SS 10,SM 11,SN 6,W 630 AUDIO SERMONS"
   },
   {
     "id": "4814",
@@ -1552,7 +1552,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by THOMAS RAWLS. 208 WHITEHOUSE DR LUFKIN TX 75901 SS 945,SM 1045,SN 6,W 630 KJB,UNAFFILIATED PO BOX  2046 11141 NORTH L ST LA PORTE TX 77572 SS 945, SM 11, SN 6, W 7 BUS,CHILDRENS CHURCH,CHOIR,SOULWINNING; GRACE BAPT"
+    "description": "LUFKIN TX 75901 SS 945,SM 1045,SN 6,W 630 KJB,UNAFFILIATED PO BOX 2046 11141 NORTH L ST LA PORTE TX 77572 SS 945, SM 11, SN 6, W 7 BUS,CHILDRENS CHURCH,CHOIR,SOULWINNING; GRACE BAPT"
   },
   {
     "id": "4815",
@@ -1571,7 +1571,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by CHUCK OSBORNE. PO BOX 312; 1248 W HURST BLVD HURST TX 76053 WE ARE LOCATED AT 820 AND HWY 10 SS 10, SM 11, SN 6, W 7 KJB, WBF"
+    "description": "HURST TX 76053 WE ARE LOCATED AT 820 AND HWY 10 SS 10, SM 11, SN 6, W 7 KJB, WBF"
   },
   {
     "id": "4816",
@@ -1590,7 +1590,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROY MEKSCH. 2109 S CENTER ST ARLINGTON TX 76010 SS 10, SM 11, SN 6, W 7 KJB, IBFI, PCC, BJU, CBC 1389 VINE ST ABILENE TX 79602 SS 9,SM 10,SN 6,W 7 PATCH PIRATE & PEE WEE CLUBS,RADIO,CHILDRENS, TEEN,ADULT, AUDIO S"
+    "description": "ARLINGTON TX 76010 SS 10, SM 11, SN 6, W 7 KJB, IBFI, PCC, BJU, CBC 1389 VINE ST ABILENE TX 79602 SS 9,SM 10,SN 6,W 7 PATCH PIRATE & PEE WEE CLUBS,RADIO,CHILDRENS, TEEN,ADULT, AUDIO S"
   },
   {
     "id": "4817",
@@ -1608,12 +1608,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURT RUTLEDGE. 18347 IH 10 VIDOR TX 77662 SS 945,SM 1050,SN 630,W 7 KJB church."
+    "description": "18347 IH 10 VIDOR TX 77662 SS 945,SM 1050,SN 630,W 7 KJB church"
   },
   {
     "id": "4818",
     "name": "EAST TO WEST BAPTIST CHURCH",
-    "address": "2100 SAND RD",
+    "address": "415 LEUTY ST JUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1627,12 +1627,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BRIAN MAY. 2100 SAND RD VERNON TX 76384 SS 10,SM 11,SN 2,W 7 PO BOX 809; 415 LEUTY ST JUSTIN TX 76247 SS 945,SM 11,SN 6,W 7 PATCH PIRATE, BIBLE BAPTIST CHRISTIAN SCHOOL 300 E GEO RICHEY RD GLADEWATER TX 75647 SS KJB church."
+    "description": "VERNON TX 76384 SS 10,SM 11,SN 2,W 7 PO BOX 809; IN TX 76247 SS 945,SM 11,SN 6,W 7 PATCH PIRATE, BIBLE BAPTIST CHRISTIAN SCHOOL 300 E GEO RICHEY RD GLADEWATER TX 75647 SS KJB church"
   },
   {
     "id": "4819",
     "name": "WAYNE AVENUE BAPTIST CHURCH",
-    "address": "5505 WAYNE AVE",
+    "address": "11515 N SAM HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1646,7 +1646,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by GARRY CASTNER. 5505 WAYNE AVE LUBBOCK TX 79414 SS 945,SM 1045,SN 6,W 7 KJB, UNAFFILIATED 11515 N SAM HOUSTON PKWY E HUMBLE TX  77396 SS 945,SM 1045,SN 6,W 7"
+    "description": "LUBBOCK TX 79414 SS 945,SM 1045,SN 6,W 7 KJB, UNAFFILIATED ON PKWY E HUMBLE TX 77396 SS 945,SM 1045,SN 6,W 7"
   },
   {
     "id": "4820",
@@ -1665,7 +1665,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WARREN JOHNSON. RR 1 BOX 158 625 FM 2461 RANGER TX 76470 SS 10,SM 11,SN 630,W 7 3200 FIREWHEEL DR. FLOWER MOUND TX 75028 SS 10,SM 11,SN 6,W 7 AWANA,TEEN, COLLEGE CAREER, AUDIO SERMONS, VIDEO STEAMING; GRACE CHRISTIAN KJB church."
+    "description": "RR 1 BOX 158 625 FM 2461 RANGER TX 76470 SS 10,SM 11,SN 630,W 7 FLOWER MOUND TX 75028 SS 10,SM 11,SN 6,W 7 AWANA,TEEN, COLLEGE CAREER, AUDIO SERMONS, VIDEO STEAMING; GRACE CHRISTIAN KJB church"
   },
   {
     "id": "4821",
@@ -1685,7 +1685,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by DAVID GRICE. 7924 GATEWAY E SUITE 103 EL PASO TX 79915 SPANISH 9,SS 10,SM 11,SN 6, W 7 SPANISH, CHILDREN’S,DISCIPLESHIP, BUS, NURSERY, SOULWINNING, FORT BLISS 6 MILES 410 NE 27TH ST GRAND PRAIRIE TX 75050 SS 10,SM KJB church."
+    "description": "EL PASO TX 79915 SPANISH 9,SS 10,SM 11,SN 6, W 7 SPANISH, CHILDREN’S,DISCIPLESHIP, BUS, NURSERY, SOULWINNING, FORT BLISS 6 MILES 410 NE 27TH ST GRAND PRAIRIE TX 75050 SS 10,SM KJB church"
   },
   {
     "id": "4822",
@@ -1704,7 +1704,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAMES WORLEY. IGLESIA BAUTISTA BIBLICA INDEPENDIENTE 315 BAPTIST AVE ROMA TX 78584 404 SOLON RD WAXAHACHIE TX 75165 SS 10,SM 11,SN 6,W 7 CLASSES ALL AGES,TLC YOUTH, CHOIR, SOULWINNING 1701 RAND MORGAN RD CORPUS CHR KJB church."
+    "description": "IGLESIA BAUTISTA BIBLICA INDEPENDIENTE ROMA TX 78584 404 SOLON RD WAXAHACHIE TX 75165 SS 10,SM 11,SN 6,W 7 CLASSES ALL AGES,TLC YOUTH, CHOIR, SOULWINNING 1701 RAND MORGAN RD CORPUS CHR KJB church"
   },
   {
     "id": "4823",
@@ -1717,12 +1717,12 @@ export const texasChurches: Church[] = [
     "longitude": -97.4326,
     "phone": "(972) 285-4832",
     "website": "https://www.visitmbc.org",
-    "pastor": "",
+    "pastor": "MESQUITE TX 75150 SS 930,SM 1045, SN 630, W 7 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "2214 FRANKLIN DR MESQUITE TX  75150 SS 930,SM 1045, SN 630, W 7 KJB church."
+    "description": "MESQUITE TX 75150 SS 930,SM 1045, SN 630, W 7 KJB church"
   },
   {
     "id": "4824",
@@ -1741,7 +1741,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by SHANNON EATON. 2471 CR 305 JONESBORO TX76538 SS 10,SM 11,WED 630 YOUTH, BENEVOLENCE, FORT HOOD 35 MILES PO BOX 24133; 625 WILLIAMS RD FORT WORTH TX 76124 SS 945,SM 11,SN 6,W 7 PO BOX 1285;  4150 EAST HWY 29 BURNET T KJB church."
+    "description": "2471 CR 305 JONESBORO TX76538 SS 10,SM 11,WED 630 YOUTH, BENEVOLENCE, FORT HOOD 35 MILES FORT WORTH TX 76124 SS 945,SM 11,SN 6,W 7 PO BOX 1285; 4150 EAST HWY 29 BURNET T KJB church"
   },
   {
     "id": "4825",
@@ -1760,12 +1760,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DON LOFTON. 5475 FM 1187 BURLESON TX 76028 SS 10,SM 11,SN 6,W 7 CARSWELL JOINT RESERVE BASE 25 MILES KJB, PRE-MIL 444 FM RD 83 BROADDUS TX 75929 SS 10,SM 11,SN 6 (AWANA 445),W 7 AWANA,SENIORS; FT POLK, LA KJB, UN"
+    "description": "5475 FM 1187 BURLESON TX 76028 SS 10,SM 11,SN 6,W 7 CARSWELL JOINT RESERVE BASE 25 MILES KJB, PRE-MIL BROADDUS TX 75929 SS 10,SM 11,SN 6 (AWANA 445),W 7 AWANA,SENIORS; FT POLK, LA KJB, UN"
   },
   {
     "id": "4826",
     "name": "SILSBEE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1652",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1778,12 +1778,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ONOFRE LEAL. PO BOX 1652; 7820 FM 1122 SILSBEE TX SS 10,SM 11,SN 6,W 730 KJB, HAC"
+    "description": "7820 FM 1122 SILSBEE TX SS 10,SM 11,SN 6,W 730 KJB, HAC"
   },
   {
     "id": "4827",
     "name": "EL CORDERO BAPTIST CHURCH OR IGLESIA BAUTISTA EL CORDERO DE DIOS",
-    "address": "3336 MCARDLE RD",
+    "address": "3336 MCARDLE RD CORPUS CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1796,7 +1796,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3336 MCARDLE RD CORPUS CHRISTI TX 78415-2838"
+    "description": "I TX 78415-2838"
   },
   {
     "id": "4828",
@@ -1814,7 +1814,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LUTHER WHITE. KJB, IBFI"
+    "description": "KJB, IBFI"
   },
   {
     "id": "4829",
@@ -1832,7 +1832,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOM DAVIS. 201 J E WOODY RD SPRINGTOWN TX 76082 SS 10,SM 1050,SN 6,W 7 VIDEO SERMONS KJB, HAC, OBC, TRINITY-BC-ARLINGTON"
+    "description": "SPRINGTOWN TX 76082 SS 10,SM 1050,SN 6,W 7 VIDEO SERMONS KJB, HAC, OBC, TRINITY-BC-ARLINGTON"
   },
   {
     "id": "4830",
@@ -1852,12 +1852,12 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by SHAWN NICHOLS. PO BOX 1345; 100 COLLEGE ST ALVARADO TX 76009 SS 10,SM 11,SN 6,W 7 SOULWINNING, SPANISH, CHILDREN’S CHURCH KJB church."
+    "description": "ALVARADO TX 76009 SS 10,SM 11,SN 6,W 7 SOULWINNING, SPANISH, CHILDREN’S CHURCH KJB church"
   },
   {
     "id": "4831",
     "name": "BAYOU DRIVE BAPTIST CHURCH",
-    "address": "612 E DUMBLE ST",
+    "address": "1910 S JOHN REDDITT DR",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1865,13 +1865,13 @@ export const texasChurches: Church[] = [
     "longitude": -96.8699,
     "phone": "(281) 585-8061",
     "website": "http://www.bayoubaptist.com",
-    "pastor": "JIM HOUSLEY",
+    "pastor": "LUFKIN TX 75904 SS 945,SM 1045,SN 6,W 7 MASTERS CLUBS, CROSSTRAINERS, YOUTH, FAITH BIBLE INSTITUTE KJB, UN",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIM HOUSLEY. 612 E DUMBLE ST ALVIN TX 77511 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED 1910 S JOHN REDDITT DR LUFKIN TX 75904 SS 945,SM 1045,SN 6,W 7 MASTERS CLUBS, CROSSTRAINERS, YOUTH, FAITH BIBLE INSTITUTE KJB, UN"
+    "description": "ALVIN TX 77511 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED LUFKIN TX 75904 SS 945,SM 1045,SN 6,W 7 MASTERS CLUBS, CROSSTRAINERS, YOUTH, FAITH BIBLE INSTITUTE KJB, UN"
   },
   {
     "id": "4832",
@@ -1890,7 +1890,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID MANNING. 1097 W HWY 287 BYPASS WAXAHACHIE TX 75165 SS 930,SM 1030,SN 5,W 7 KJB, BBF"
+    "description": "1097 W HWY 287 BYPASS WAXAHACHIE TX 75165 SS 930,SM 1030,SN 5,W 7 KJB, BBF"
   },
   {
     "id": "4833",
@@ -1910,7 +1910,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by PHILLIP CONNER. 594 HWY 80 W FORNEY TX 75126 SS 10,SM 11,SN 630,W 730 SOULWINNING KJB, UNAFFILIATED"
+    "description": "594 HWY 80 W FORNEY TX 75126 SS 10,SM 11,SN 630,W 730 SOULWINNING KJB, UNAFFILIATED"
   },
   {
     "id": "4834",
@@ -1928,7 +1928,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TOMMY CAMPBELL. PO BOX 92534; 100 DAVIS BLVD SOUTHLAKE TX 76092 SS 10,SM 11,SN 6,W 7 MUSIC, YOUTH, ACTS CLUBS, CAMP PO BOX 876; 512 YATES ST MT VERNON TX 75457 KJB church."
+    "description": "SOUTHLAKE TX 76092 SS 10,SM 11,SN 6,W 7 MUSIC, YOUTH, ACTS CLUBS, CAMP PO BOX 876; 512 YATES ST MT VERNON TX 75457 KJB church"
   },
   {
     "id": "4835",
@@ -1946,12 +1946,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUSSELL RIGGS. SS 10,SM 11,SN 6,W 7 PATCH PIRATE KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 PATCH PIRATE KJB church"
   },
   {
     "id": "4836",
     "name": "TOWN EAST BAPTIST CHURCH",
-    "address": "2030 BIBLE ST",
+    "address": "1985 N MAIN ST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -1965,7 +1965,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by CHARLES LOTT. 2030 BIBLE ST SAN ANTONIO TX 78220 SS 945,SM 1045,SN 630,W 7 1985 N MAIN ST VIDOR TX 77662 KJB, HAC, GOMEZ"
+    "description": "SAN ANTONIO TX 78220 SS 945,SM 1045,SN 630,W 7 VIDOR TX 77662 KJB, HAC, GOMEZ"
   },
   {
     "id": "4837",
@@ -1985,7 +1985,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by GREG KERN. 1220 GARNER FIELD RD UVALDE TX 78801 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, LAUGHLIN AFB 65 MILES KJB, UNAFFILIATE 10400 BROADWAY AVE SAN ANTONIO TX 78217 SS 10,SM 11,SN 6,W 7 YOUTH, RANDOLPH,SAM HOUS"
+    "description": "UVALDE TX 78801 SS 10,SM 11,SN 6,W 7 BUS, SOULWINNING, LAUGHLIN AFB 65 MILES KJB, UNAFFILIATE 10400 BROADWAY AVE SAN ANTONIO TX 78217 SS 10,SM 11,SN 6,W 7 YOUTH, RANDOLPH,SAM HOUS"
   },
   {
     "id": "4838",
@@ -2003,7 +2003,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JODY WITTS. PO BOX 460639; 801 WEST BUCKINGHAM RD GARLAND TX 75056 SS 915,SM 1030,SN 6,W 7 CHOIR, ORCHESTRA, TEEN, CHILDREN’S, DRAMA, SINGLES, AUDIO SERMONS , BIBLE INSTITUTE KJB, HAC"
+    "description": "GARLAND TX 75056 SS 915,SM 1030,SN 6,W 7 CHOIR, ORCHESTRA, TEEN, CHILDREN’S, DRAMA, SINGLES, AUDIO SERMONS , BIBLE INSTITUTE KJB, HAC"
   },
   {
     "id": "4839",
@@ -2021,7 +2021,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD L WALLACE. 310 NE 8TH ST GRAND PRAIRIE TX 75051 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "GRAND PRAIRIE TX 75051 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4840",
@@ -2041,7 +2041,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by STEPHEN  PHILLIPS. 2501 NORTHSHORE BLVD FLOWER MOUND TX 75028 SS 930,SM 1030,SN 7,W 730 BUS, CHOIR, AWANA, TEENS, SINGLES, SENOIRS, AUDIO SERMONS; TEMPLE CHRISTIAN ACADEMY (TRAD),K3-12 KJB, BBFI, HBBC PO BOX 1228; 602 M"
+    "description": "FLOWER MOUND TX 75028 SS 930,SM 1030,SN 7,W 730 BUS, CHOIR, AWANA, TEENS, SINGLES, SENOIRS, AUDIO SERMONS; TEMPLE CHRISTIAN ACADEMY (TRAD),K3-12 KJB, BBFI, HBBC PO BOX 1228; 602 M"
   },
   {
     "id": "4841",
@@ -2060,12 +2060,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JAMES SMITH. 520 E WASHINGTON ROCKWALL TX  75087 SS 945,SM 1045,SN 6,W 730 KJB, BBF"
+    "description": "520 E WASHINGTON ROCKWALL TX 75087 SS 945,SM 1045,SN 6,W 730 KJB, BBF"
   },
   {
     "id": "4842",
     "name": "FUNDAMENTAL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 99",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2079,7 +2079,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVE SEIFERT. PO BOX 99; 207 W JEFFERSON PALMER TX 75152 VIDEO SERMONS SS 945,SM 1045,SN 630,W 7 KJB church."
+    "description": "207 W JEFFERSON PALMER TX 75152 VIDEO SERMONS SS 945,SM 1045,SN 630,W 7 KJB church"
   },
   {
     "id": "4843",
@@ -2099,7 +2099,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BOB PAGE. 216 WAKE VILLAGE RD WAKE VILLAGE TX 75501 SS 945,SM 11,SN 6,W 7 BUS, PROPHETS CHAMBER, TRADITIONAL & CONSERVATIVE KJB,UNAFFILIATED 2500 GILMER RD LONGVIEW TX 75604 SS 945,SM 1045,SN 630,W 730 BUS, SOU"
+    "description": "WAKE VILLAGE TX 75501 SS 945,SM 11,SN 6,W 7 BUS, PROPHETS CHAMBER, TRADITIONAL & CONSERVATIVE KJB,UNAFFILIATED 2500 GILMER RD LONGVIEW TX 75604 SS 945,SM 1045,SN 630,W 730 BUS, SOU"
   },
   {
     "id": "4844",
@@ -2118,12 +2118,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by BOB PARKER. PO BOX 6582; 3400 OLD JACKSONVILLE RD TYLER TX 75711 SS 10,SM 11,SN 7,W 7 KJB,HBBC"
+    "description": "TYLER TX 75711 SS 10,SM 11,SN 7,W 7 KJB,HBBC"
   },
   {
     "id": "4845",
     "name": "BOULEVARD BAPTIST CHURCH",
-    "address": "315 N BURLESON BLVD",
+    "address": "703 GILLESPIE RD PALEST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2138,7 +2138,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by MALCOLM HARRISON. 315 N BURLESON BLVD BURLESON TX 76028 SS 10,SM 11,SN 6,W 730 KINGS KIDS, TEEN, BUS; BOULEVARD BAPTIST CHRISTIAN SCHOOL, PS-12, AACS 703 GILLESPIE RD PALESTINE TX 75802 SS 10,SM 11,SN 6,W 7 KJB,OBC 909"
+    "description": "BURLESON TX 76028 SS 10,SM 11,SN 6,W 730 KINGS KIDS, TEEN, BUS; BOULEVARD BAPTIST CHRISTIAN SCHOOL, PS-12, AACS INE TX 75802 SS 10,SM 11,SN 6,W 7 KJB,OBC 909"
   },
   {
     "id": "4846",
@@ -2156,12 +2156,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON BAXTER. 4900 CAMPUS DR FORT WORTH TX 76119-0141 SS 10,SM 11,SN 6,W 715 AUDIO SERMONS, AWANA, SPANISH,YOUTH, SENIORS, SINGLES, CARSWELL AFB,GRAND PRAIRIE NAS KJB church."
+    "description": "FORT WORTH TX 76119-0141 SS 10,SM 11,SN 6,W 715 AUDIO SERMONS, AWANA, SPANISH,YOUTH, SENIORS, SINGLES, CARSWELL AFB,GRAND PRAIRIE NAS KJB church"
   },
   {
     "id": "4847",
     "name": "NEW HOPE BAPTIST CHURCH",
-    "address": "6402 MCARDLE RD",
+    "address": "6402 MCARDLE RD CORPUS CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2174,7 +2174,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "6402 MCARDLE RD CORPUS CHRISTI TX 78412 SS 10,SM 11,SN 6,W 7"
+    "description": "I TX 78412 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4848",
@@ -2192,7 +2192,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES H TURNER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4849",
@@ -2210,7 +2210,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN DARTER. 6051 AZLE AVE FORT WORTH TX 76135 KJB church."
+    "description": "FORT WORTH TX 76135 KJB church"
   },
   {
     "id": "4850",
@@ -2229,12 +2229,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by M M MOSLEY. 5101 WESTERN CTR FORT WORTH TX 76137 SS 10,SM 11,SN 630,W 730 CHOIR, PROPHETS CHAMBER; INDEPENDENT BAPTIST COLLEGE KJB church."
+    "description": "FORT WORTH TX 76137 SS 10,SM 11,SN 630,W 730 CHOIR, PROPHETS CHAMBER; INDEPENDENT BAPTIST COLLEGE KJB church"
   },
   {
     "id": "4851",
     "name": "FIRST BAPTIST CHURCH OF HALTOM CITY",
-    "address": "5828 WHITLEY RD",
+    "address": "2221 N CARROLL BLVD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2248,12 +2248,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by PAUL SHELTON. 5828 WHITLEY RD FORT WORTH TX 76148 SS 10,SM 11,SN 6,W 730 SOULWINNING, BUS; FIRST BAPTIST CHRISTIAN SCHOOL,K-12 KJB,HBBC 2221 N CARROLL BLVD DENTON TX 76201 DALLAS FORT WORTH AREA SS 945,SM 1045,SN 6"
+    "description": "FORT WORTH TX 76148 SS 10,SM 11,SN 6,W 730 SOULWINNING, BUS; FIRST BAPTIST CHRISTIAN SCHOOL,K-12 KJB,HBBC DENTON TX 76201 DALLAS FORT WORTH AREA SS 945,SM 1045,SN 6"
   },
   {
     "id": "4852",
     "name": "IMMANUEL BAPTIST CHURCH",
-    "address": "106 S LANE ST",
+    "address": "2201 W CAROLINA ST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2268,7 +2268,7 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by RANDY TAYLOR JR. 106 S LANE ST DECATUR TX 76234 SS 10,SM 1045,SN 6,W 7 BUS, LADIES BIBLE STUDY, SOULWINNING KJB, OBC 2201 W CAROLINA ST GAINESVILLE TX 76240 SS 945,SM 11,SN 7,W 7"
+    "description": "DECATUR TX 76234 SS 10,SM 1045,SN 6,W 7 BUS, LADIES BIBLE STUDY, SOULWINNING KJB, OBC GAINESVILLE TX 76240 SS 945,SM 11,SN 7,W 7"
   },
   {
     "id": "4853",
@@ -2287,7 +2287,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARK RANDOLPH. PO BOX 605; 702 HANES BLVD HUGHES SPRINGS TX 75656 SS 10,SM 11,SN 630,W 7 1400 MIDWESTERN PKY WICHITA FALLS TX 76302 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS, SHEPPARD AFB KJB, UNAFFILIATED 4608 CORONADO"
+    "description": "HUGHES SPRINGS TX 75656 SS 10,SM 11,SN 630,W 7 1400 MIDWESTERN PKY WICHITA FALLS TX 76302 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS, SHEPPARD AFB KJB, UNAFFILIATED 4608 CORONADO"
   },
   {
     "id": "4854",
@@ -2306,12 +2306,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL BRAGDON. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "4855",
     "name": "GATEWAY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 724",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2325,7 +2325,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by WELDON HUTSON. PO BOX 724; HWY 36 GATESVILLE TX 76528 SS 10,SM 11,SN 130,,W 7 TV 14, AUDIO SERMONS & BIBLE STUDIES, FORT HOOD KJB church."
+    "description": "HWY 36 GATESVILLE TX 76528 SS 10,SM 11,SN 130,,W 7 TV 14, AUDIO SERMONS & BIBLE STUDIES, FORT HOOD KJB church"
   },
   {
     "id": "4856",
@@ -2343,7 +2343,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY CHUTE. PO BOX 458; 905 PONDEROSA RD HOWE TX 75459 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "HOWE TX 75459 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "4857",
@@ -2361,12 +2361,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT L DUNN. 16811 FM 2920 TOMBALL TX 77375 SS 900,SM 1015,SN 6,W 700 AWANA, YOUTH, CHOIR, KJB church."
+    "description": "16811 FM 2920 TOMBALL TX 77375 SS 900,SM 1015,SN 6,W 700 AWANA, YOUTH, CHOIR, KJB church"
   },
   {
     "id": "4858",
     "name": "BIBLE WAY BAPTIST CHURCH",
-    "address": "4544 BRINKMAN ST",
+    "address": "4544 BRINKMAN ST HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2381,7 +2381,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by ADAM GARBER. 4544 BRINKMAN ST HOUSTON TX  77018 SS 945,SM 11,SN 6 1800 W HWY 190 NOLANVILLE TX 76559 (254) 690-NSBC (6722) SS 10, SM 11, SN 7, W 7 KJB,BBF"
+    "description": "ON TX 77018 SS 945,SM 11,SN 6 1800 W HWY 190 NOLANVILLE TX 76559 (254) 690-NSBC (6722) SS 10, SM 11, SN 7, W 7 KJB,BBF"
   },
   {
     "id": "4859",
@@ -2399,7 +2399,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERALD CLARK. 4346 N GALLOWAY AVE DALLAS TX 75217 SS 945,SM 1045,SN 630,W 7 DEAF, AWANA, BUS, CHILDREN’S CHURCHES KJB church."
+    "description": "DALLAS TX 75217 SS 945,SM 1045,SN 630,W 7 DEAF, AWANA, BUS, CHILDREN’S CHURCHES KJB church"
   },
   {
     "id": "4860",
@@ -2417,7 +2417,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE BOURGEOIS. 2460 JOMAR ST SAN ANGELO TX 76901 SS 10,SM 11,SN 6,W 7 GOODFELLOW AFB KJB church."
+    "description": "SAN ANGELO TX 76901 SS 10,SM 11,SN 6,W 7 GOODFELLOW AFB KJB church"
   },
   {
     "id": "4861",
@@ -2436,12 +2436,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHNNY POPE. 3980 W HOUSTON HARTE EXPY SAN ANGELO TX 76901 SS 10,SM 11,SN 630,W 7,SW TH BUS,KINGS KIDS, GOODFELLOW AFB PART 4 KJB, UNAFFILIATED"
+    "description": "SAN ANGELO TX 76901 SS 10,SM 11,SN 630,W 7,SW TH BUS,KINGS KIDS, GOODFELLOW AFB PART 4 KJB, UNAFFILIATED"
   },
   {
     "id": "4862",
     "name": "CHRISTCHURCH BAPTIST FELLOWSHIP",
-    "address": "12501 CHAMPION FOREST DR",
+    "address": "12501 CHAMPION FOREST DR HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "12501",
@@ -2454,7 +2454,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD SKINNER. 12501 CHAMPION FOREST DR HOUSTON TX 77066-2345 ESM 8,SS 915,SM 1030,SN 6,W 730 SERMON OUTLINES, BUS, PATCH PIRATE,TEEN, AWANA, JAIL KJB church."
+    "description": "ON TX 77066-2345 ESM 8,SS 915,SM 1030,SN 6,W 730 SERMON OUTLINES, BUS, PATCH PIRATE,TEEN, AWANA, JAIL KJB church"
   },
   {
     "id": "4863",
@@ -2472,7 +2472,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM HAMMONS. 20300 CYPRESSWOOD DR HUMBLE TX 77338 SS 10,SM 11,SN 6,W 7 PO BOX 1380; 816 W 10TH ST BORGER TX 79008 SS 930,SM 1030,W 7 KJB, HAC PO BOX 338; 208 N HOLLY CLEVELAND TX 77328 SS 10,SM 11,SN 6,W 7"
+    "description": "HUMBLE TX 77338 SS 10,SM 11,SN 6,W 7 PO BOX 1380; 816 W 10TH ST BORGER TX 79008 SS 930,SM 1030,W 7 KJB, HAC PO BOX 338; 208 N HOLLY CLEVELAND TX 77328 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4864",
@@ -2490,12 +2490,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARC SHIFFLETT. PO BOX 494; 809 E BERNARD ST WEST COLUMBIA TX 77486 SS 10,11,W 6 KJB, UNAFFILLIATED"
+    "description": "WEST COLUMBIA TX 77486 SS 10,11,W 6 KJB, UNAFFILLIATED"
   },
   {
     "id": "4865",
     "name": "GARTH ROAD BAPTIST CHURCH",
-    "address": "8622 GARTH RD",
+    "address": "3401 N FRAZIER ST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2509,7 +2509,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MARK PARKER. 8622 GARTH RD BAYTOWN TX 77521 SS 10, SM 11, SN 6, W 7 SOULWINNING, CHILDREN’S PROGRAM, TEEN’S PROGRAM, REFORMERS UNANIMOUS, DEAF 3401 N FRAZIER ST CONROE TX 77303 SS 945,SM 11,SN 6,W 7 KJB church."
+    "description": "BAYTOWN TX 77521 SS 10, SM 11, SN 6, W 7 SOULWINNING, CHILDREN’S PROGRAM, TEEN’S PROGRAM, REFORMERS UNANIMOUS, DEAF CONROE TX 77303 SS 945,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4866",
@@ -2528,7 +2528,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID CRIPPS SR. 1800 E ARCHER RD BAYTOWN TX 77521 SS 10,SM 11,SN 630,W 7 BUS; FAITH BIBLE INSTITUTE KJB, HBBC PO BOX 521; 184 CUBA RD BRIDGEPORT TX 76426 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED 3500 HWY 326 KOUNTZE"
+    "description": "BAYTOWN TX 77521 SS 10,SM 11,SN 630,W 7 BUS; FAITH BIBLE INSTITUTE KJB, HBBC PO BOX 521; 184 CUBA RD BRIDGEPORT TX 76426 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED 3500 HWY 326 KOUNTZE"
   },
   {
     "id": "4867",
@@ -2546,12 +2546,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT GREEN. PO BOX 1817; 7270 ENLACE RD LAREDO TX 78041 SS 10,SM 11,SN 7,W 7 CHILDREN’S ON WED; CHILDREN’S CHOIR & BIBLE CLUB EVERY OTHER FRIDAY, FREE CORRESPONDENCE COURSES KJB church."
+    "description": "LAREDO TX 78041 SS 10,SM 11,SN 7,W 7 CHILDREN’S ON WED; CHILDREN’S CHOIR & BIBLE CLUB EVERY OTHER FRIDAY, FREE CORRESPONDENCE COURSES KJB church"
   },
   {
     "id": "4868",
     "name": "NEW LIFE BAPTIST CHURCH",
-    "address": "101 NORTH ST",
+    "address": "7 ADULT BIBLE STUDY MAST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2564,7 +2564,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS DOWNER. 101 NORTH ST CONVERSE TX 78109 NE SAN ANTONIO AREA SS 915,SM 1030,SN 6,W 7 ADULT BIBLE STUDY MASTERS CLUBS; FAITH BIBLE INSTITUTE; RANDOLPH AFB 3 MILES KJB, WBF PO BOX 458; 525 W PANHANDLE AVE SLATON"
+    "description": "CONVERSE TX 78109 NE SAN ANTONIO AREA SS 915,SM 1030,SN 6,W ERS CLUBS; FAITH BIBLE INSTITUTE; RANDOLPH AFB 3 MILES KJB, WBF PO BOX 458; 525 W PANHANDLE AVE SLATON"
   },
   {
     "id": "4869",
@@ -2584,12 +2584,12 @@ export const texasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DAVID BEATTY SR. 1204 S 7TH AVE DENISON TX 75020 SS 10,SM 11,SN 6 177 W KLEIN RD NEW BRAUNFELS TX 78130 SS 10,SM 11,SN 6,W 7 BUS,YOUTH,JAIL, AUDIO SERMONS; CALVARY BAPTIST ACADEMY, K-12; FAITH BIBLE INSTITUTE; RANDOLP KJB church."
+    "description": "DENISON TX 75020 SS 10,SM 11,SN 6 177 W KLEIN RD NEW BRAUNFELS TX 78130 SS 10,SM 11,SN 6,W 7 BUS,YOUTH,JAIL, AUDIO SERMONS; CALVARY BAPTIST ACADEMY, K-12; FAITH BIBLE INSTITUTE; RANDOLP KJB church"
   },
   {
     "id": "4870",
     "name": "WESTERN HILLS BAPTIST CHURCH",
-    "address": "1076 RAAB RD",
+    "address": "1076 RAAB RD VICT",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2602,7 +2602,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN SNYDER. 1076 RAAB RD VICTORIA TX 77904 SS 10,SM 11,SN 630,W 730 1118 BAKER AVE BACLIFF TX 77518 KJB church."
+    "description": "ORIA TX 77904 SS 10,SM 11,SN 630,W 730 1118 BAKER AVE BACLIFF TX 77518 KJB church"
   },
   {
     "id": "4871",
@@ -2620,12 +2620,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CALEB CARRIZALES. PO BOX 40368; 4398 BLUEMEL RD SAN ANTONIO TX 78213 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "SAN ANTONIO TX 78213 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "4872",
     "name": "PUERTO LA HERMOSA BAPTIST",
-    "address": "538 SURREY AVE",
+    "address": "7 BEAUTIFUL GATE BIBLE INST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2640,7 +2640,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DEWAYNE NICHOLS. 538 SURREY AVE SAN ANTONIO TX 78225 SM ENGLISH 930,SS 1030,SM SPANISH 1130,SN 7,W 7 BEAUTIFUL GATE BIBLE INSTITUTE; AUDIO SERMONS, RANDOLPH,SAM HOUSTON,BROOKS,LACKLAND KJB, UNAFFILIATED 7421 MARBACH R"
+    "description": "SAN ANTONIO TX 78225 SM ENGLISH 930,SS 1030,SM SPANISH 1130,SN 7,W ITUTE; AUDIO SERMONS, RANDOLPH,SAM HOUSTON,BROOKS,LACKLAND KJB, UNAFFILIATED 7421 MARBACH R"
   },
   {
     "id": "4873",
@@ -2658,12 +2658,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE BURKHOLDER. 7619 CRESTWAY DR SAN ANTONIO TX 78239-3062 SS 10,SM 11,SN 6,W 7 BIBLE INSTITUTE, VIDEO SERMONS, RADIO KJB church."
+    "description": "SAN ANTONIO TX 78239-3062 SS 10,SM 11,SN 6,W 7 BIBLE INSTITUTE, VIDEO SERMONS, RADIO KJB church"
   },
   {
     "id": "4874",
     "name": "LEON VALLEY BAPTIST CHURCH",
-    "address": "7990 GRISSOM RD",
+    "address": "37 CORPUS CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2677,12 +2677,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STEVE EXENDINE. 7990 GRISSOM RD SAN ANTONIO TX 78251 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED 10919 W IH 37 CORPUS CHRISTI TX 78410 SS 10,SM 11,SN 6,W 7 NAS CC, NAS KINGSVILLE, SUB BASE ARANZES"
+    "description": "SAN ANTONIO TX 78251 SS 10,SM 11,SN 630,W 7 KJB, UNAFFILIATED 10919 W IH I TX 78410 SS 10,SM 11,SN 6,W 7 NAS CC, NAS KINGSVILLE, SUB BASE ARANZES"
   },
   {
     "id": "4875",
     "name": "CAPITOL CITY BAPTIST CHURCH",
-    "address": "1300 REDD ST",
+    "address": "1300 REDD ST AUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2695,12 +2695,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM TILLEY. 1300 REDD ST AUSTIN TX 78745 SM 10,SN 6,W 730 STREET PREACHING, AUDIO SERMONS; CAPITOL CITY BAPTIST SCHOOL,K5-12; BERGSTROM KJB church."
+    "description": "IN TX 78745 SM 10,SN 6,W 730 STREET PREACHING, AUDIO SERMONS; CAPITOL CITY BAPTIST SCHOOL,K5-12; BERGSTROM KJB church"
   },
   {
     "id": "4876",
     "name": "PEOPLES BAPTIST CHURCH",
-    "address": "",
+    "address": "7 NAS CORPUS CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2713,7 +2713,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW WOLFENBARGER. 1355 FM 665 CORPUS CHRISTI TX 78415 SS 10,SM 11,SN 630,TH 7 NAS CORPUS CHRISTI 15 MILES KJB church."
+    "description": "1355 FM I TX 78415 SS 10,SM 11,SN 630,TH I 15 MILES KJB church"
   },
   {
     "id": "4877",
@@ -2732,12 +2732,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by TIM DEVENNEY. PO BOX 1210; 3231 SW WILSHIRE BLVD JOSHUA TX 76058 BUS, SPANISH, COUPLES, SENIORS, AUDIO & VIDEO SERMONS; JOSHUA CHRISTIAN ACADEMY,PREK-12 PO BOX 1247; 201 SPRING ST DEL RIO TX 78840 PATCH THE PIRATE, KJB church."
+    "description": "JOSHUA TX 76058 BUS, SPANISH, COUPLES, SENIORS, AUDIO & VIDEO SERMONS; JOSHUA CHRISTIAN ACADEMY,PREK-12 PO BOX 1247; 201 SPRING ST DEL RIO TX 78840 PATCH THE PIRATE, KJB church"
   },
   {
     "id": "4878",
     "name": "CAPROCK BAPTIST CHURCH",
-    "address": "3627 E 29TH ST",
+    "address": "12200 W ROCKWELL RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2752,7 +2752,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by GLEN A STOCKER. 3627 E 29TH ST AMARILLO TX 79103 SS 10,SM 11,SN 6,W 7 KJB,RUCKMAN 12200 W ROCKWELL RD AMARILLO TX 79119 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED 1911 34TH ST LUBBOCK TX 79411 SS 945,SM 1045,SN 6,W 7 BOO"
+    "description": "3627 E 29TH ST AMARILLO TX 79103 SS 10,SM 11,SN 6,W 7 KJB,RUCKMAN AMARILLO TX 79119 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED 1911 34TH ST LUBBOCK TX 79411 SS 945,SM 1045,SN 6,W 7 BOO"
   },
   {
     "id": "4879",
@@ -2770,7 +2770,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DUANE MYERS. 4710 HERCULES DR EL PASO TX 79904 SS 10,SM 11,SN 6,W 7 KJB, IBFI 1632 NEW MARKET MESQUITE TX 75149 SS 940,SM 1050,SN 6,W 7"
+    "description": "EL PASO TX 79904 SS 10,SM 11,SN 6,W 7 KJB, IBFI 1632 NEW MARKET MESQUITE TX 75149 SS 940,SM 1050,SN 6,W 7"
   },
   {
     "id": "4880",
@@ -2789,12 +2789,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE LEWIS. 12081 FM 317 MURCHISON TX 75778 SS 945,SM 1045,SN 6,W 7 1102 S 51ST ST TEMPLE TX 76504 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "12081 FM 317 MURCHISON TX 75778 SS 945,SM 1045,SN 6,W 7 TEMPLE TX 76504 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4881",
     "name": "JESUS IS LORD BAPTIST CHURCH",
-    "address": "3800 HOOPER RD",
+    "address": "3800 HOOPER RD LOCATED IN LMC BUILDING HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2807,7 +2807,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT QUIDLEY. 3800 HOOPER RD LOCATED IN LMC BUILDING HOUSTON TX 77093 SM 11, TH 730 KJB church."
+    "description": "ON TX 77093 SM 11, TH 730 KJB church"
   },
   {
     "id": "4882",
@@ -2825,7 +2825,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ZAC HATTON. 714 MCCAULEY AVE SAN ANTONIO TX 78211 SS 10,SM 11,SN 630,W 7 REFORMERS UNANIMOUS, RANDOLPH,SAM HOUSTON,BROOKS,LACKLAND KJB church."
+    "description": "SAN ANTONIO TX 78211 SS 10,SM 11,SN 630,W 7 REFORMERS UNANIMOUS, RANDOLPH,SAM HOUSTON,BROOKS,LACKLAND KJB church"
   },
   {
     "id": "4883",
@@ -2843,7 +2843,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUDY ELIZONDO. 4445 HODGKINS RD FORT WORTH TX 76135 SS 10,SM 11,SN 6,W 730 CHOIR, PUBLISHING, FULL TEXT SERMONS KJB church."
+    "description": "FORT WORTH TX 76135 SS 10,SM 11,SN 6,W 730 CHOIR, PUBLISHING, FULL TEXT SERMONS KJB church"
   },
   {
     "id": "4884",
@@ -2861,12 +2861,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRAD WITBRACHT. PO BOX 236; 312 W WETZ ST MARION TX 78124 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "MARION TX 78124 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4885",
     "name": "SHADY ACRES BAPTIST CHURCH",
-    "address": "7330 VOGEL RD",
+    "address": "7330 VOGEL RD HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2879,7 +2879,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRYAN SPURGIN. 7330 VOGEL RD HOUSTON TX 77088 SS 10,SM 11,SN 6,W 730 KJB, RUCKMAN 606 W ERWIN AVE MCKINNEY TX 75069 SS 10,SM 11,SN 6,W 7 PO BOX 57828; 420 SLOSSEN ST WEBSTER TX 77598 SS 930,SM 1030,SN 6,W 645 AWANA,"
+    "description": "ON TX 77088 SS 10,SM 11,SN 6,W 730 KJB, RUCKMAN 606 W ERWIN AVE MCKINNEY TX 75069 SS 10,SM 11,SN 6,W 7 PO BOX 57828; 420 SLOSSEN ST WEBSTER TX 77598 SS 930,SM 1030,SN 6,W 645 AWANA"
   },
   {
     "id": "4886",
@@ -2898,7 +2898,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL CASARES. PO BOX 983; HWY 1485 E NEW CANEY TX 77357 SS 10,SM 11,SN 6,W 730 MASTER CLUBS, PRO TEENS 1ST MEXICAN FUNDAMENTAL BAPTIST 455 AVANT AVE SAN ANTONIO TX 78210 SS 10,SM 11,SN 6,W 7 SEMINARIO BIBLICO BAUTI KJB church."
+    "description": "PO BOX 983; HWY 1485 E NEW CANEY TX 77357 SS 10,SM 11,SN 6,W 730 MASTER CLUBS, PRO TEENS 455 AVANT AVE SAN ANTONIO TX 78210 SS 10,SM 11,SN 6,W 7 SEMINARIO BIBLICO BAUTI KJB church"
   },
   {
     "id": "4887",
@@ -2916,12 +2916,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATTHEW COX. SS 10,SM 11,SN 6,W 7 BUS, PRISON, YOUTH, YARD SIGNS, BOOKSTORE, STREET PREACHING; CHRISTIAN SCHOOL KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 BUS, PRISON, YOUTH, YARD SIGNS, BOOKSTORE, STREET PREACHING; CHRISTIAN SCHOOL KJB church"
   },
   {
     "id": "4888",
     "name": "SCENIC HILLS BAPTIST CHURCH",
-    "address": "8305 MOWINKLE DR",
+    "address": "8305 MOWINKLE DR AUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2936,12 +2936,12 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by MICHAEL HERBERT. 8305 MOWINKLE DR AUSTIN TX 78736 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS PO BOX 942; 201 W MESQUITE COLEMAN TX 76834 SS 10,SM 11,SN 6,W 7 PO BOX 247; 2601 N ST MARYS ST BEEVILLE TX 78102 SS 94 KJB church."
+    "description": "IN TX 78736 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS PO BOX 942; 201 W MESQUITE COLEMAN TX 76834 SS 10,SM 11,SN 6,W 7 PO BOX 247; 2601 N ST MARYS ST BEEVILLE TX 78102 SS 94 KJB church"
   },
   {
     "id": "4889",
     "name": "LAMPASAS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 909",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2955,12 +2955,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROY WEBSTER. PO BOX 909; 133 CR 4126 LAMPASAS TX 76550 SS 10,SM 11,SN 6,W 7 BUS, TEEN, SOULWINNING, 25 MILES FROM FT HOOD KJB church."
+    "description": "133 CR 4126 LAMPASAS TX 76550 SS 10,SM 11,SN 6,W 7 BUS, TEEN, SOULWINNING, 25 MILES FROM FT HOOD KJB church"
   },
   {
     "id": "4890",
     "name": "GRAYSON BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "7 GRAYSON CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2974,12 +2974,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN GRISWOOD. 4400 E HWY 82 SHERMAN TX 75090 SS 10,SM 11,SN 6,W 7 GRAYSON CHRISTIAN SCHOOL,PRE-12 KJB, UNAFFILIATED"
+    "description": "4400 E HWY 82 SHERMAN TX 75090 SS 10,SM 11,SN 6,W IAN SCHOOL,PRE-12 KJB, UNAFFILIATED"
   },
   {
     "id": "4891",
     "name": "LAKEWOOD BAPTIST CHURCH",
-    "address": "212 W 1ST",
+    "address": "PO BOX 613",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -2993,7 +2993,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHNNY WIDENER. RT 1 PO BOX 613; HWY 271 N POWDERLY TX 75473 212 W 1ST DUMAS TX 79029 SS 10,SM 830 & 11,SN 630,W 7 BUS, AWANA, SPANISH KJB, UNAFFILIATED"
+    "description": "RT 1 ; HWY 271 N POWDERLY TX 75473 212 W 1ST DUMAS TX 79029 SS 10,SM 830 & 11,SN 630,W 7 BUS, AWANA, SPANISH KJB, UNAFFILIATED"
   },
   {
     "id": "4892",
@@ -3011,7 +3011,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF COFFMAN. I-27 & ROCKWELL RD AMARILLO TX 79118 SS 10,SM 11,SN 6,W 730,SW TH 7 1733 W AVE C MULESHOE TX 79347 SS 9 & 5 PM,SM 1045,SN 6,W 6 KJB church."
+    "description": "I-27 & ROCKWELL RD AMARILLO TX 79118 SS 10,SM 11,SN 6,W 730,SW TH 7 MULESHOE TX 79347 SS 9 & 5 PM,SM 1045,SN 6,W 6 KJB church"
   },
   {
     "id": "4893",
@@ -3030,7 +3030,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TOM BOYLE. PO BOX 60143; 5210 ALDINE BENDER RD HOUSTON TX 77205 SPANISH, AUDIO SERMONS KJB, IBFI, BBF, NBBI 2609 HWY 16 S GRAHAM TX 76450"
+    "description": "HOUSTON TX 77205 SPANISH, AUDIO SERMONS KJB, IBFI, BBF, NBBI 2609 HWY 16 S GRAHAM TX 76450"
   },
   {
     "id": "4894",
@@ -3049,7 +3049,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN HINTON. SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING, KINGS KIDS KJB, IBFI 134 S 12TH ST ARANSAS PASS TX 78336 SS 945,SM 11,SN 130,W AWANA 645,W 7 BUS, AWANA, SOULWINNING, BASE MINISTRY, PRISON, CHILDREN’S; FAITH"
+    "description": "SS 930,SM 1030,SN 6,W 7 BUS, SOULWINNING, KINGS KIDS KJB, IBFI ARANSAS PASS TX 78336 SS 945,SM 11,SN 130,W AWANA 645,W 7 BUS, AWANA, SOULWINNING, BASE MINISTRY, PRISON, CHILDREN’S; FAITH"
   },
   {
     "id": "4895",
@@ -3068,7 +3068,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by JAMES C MCINTIRE JR. 5715 PEEK RD KATY TX 77449 SS 10,SM 11,SN 130,W 7 PATCH PIRATE, JAIL 1031 W 4TH FREEPORT TX 77541 SS 945,SM 11,SN 630,W 7 KJB, HAC 1601 SW 58TH AVE AMARILLO TX 79110 SS 945,SM 11,SN 630,W 7 PO BOX 590"
+    "description": "KATY TX 77449 SS 10,SM 11,SN 130,W 7 PATCH PIRATE, JAIL 1031 W 4TH FREEPORT TX 77541 SS 945,SM 11,SN 630,W 7 KJB, HAC 1601 SW 58TH AVE AMARILLO TX 79110 SS 945,SM 11,SN 630,W 7 PO BOX 590"
   },
   {
     "id": "4896",
@@ -3087,7 +3087,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAN JACKSON. PO BOX 13068; 901 W BORDERLAND RD EL PASO TX 79932 SS 945,SM 11,SN 6,W 7 BUS, AUDIO SERMONS, FORT BLISS PO BOX 310; 801 CULWELL SAN ANGELO TX 76901 SS 10,SM 11,SN 5,W 6 BUS, GOODFELLOW AFB KJB, BBF 28"
+    "description": "EL PASO TX 79932 SS 945,SM 11,SN 6,W 7 BUS, AUDIO SERMONS, FORT BLISS PO BOX 310; 801 CULWELL SAN ANGELO TX 76901 SS 10,SM 11,SN 5,W 6 BUS, GOODFELLOW AFB KJB, BBF 28"
   },
   {
     "id": "4897",
@@ -3105,7 +3105,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by L L MORRIS. PO BOX 2766; 16622 LEE RD HUMBLE TX 77347 SS 945,SM 1045 PO BOX 1242 1301 AUDRA LN DENTON TX 76202 MARANATHA CHRISTIAN ACADEMY KJB church."
+    "description": "HUMBLE TX 77347 SS 945,SM 1045 PO BOX 1242 1301 AUDRA LN DENTON TX 76202 MARANATHA CHRISTIAN ACADEMY KJB church"
   },
   {
     "id": "4898",
@@ -3125,7 +3125,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by BRYCE VANDEVER. 500 INDIANA ST GRAHAM TX 76450 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS, YOUTH, TEENS, SERMONS ONLINE; FUNDAMENTAL BAPTIST COLLEGE PO BOX 628; 4804 E Hwy 377 GRANBURY TX 76048 SS 10,SM 11,SN 6,W 7 CARSWE KJB church."
+    "description": "GRAHAM TX 76450 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS, YOUTH, TEENS, SERMONS ONLINE; FUNDAMENTAL BAPTIST COLLEGE PO BOX 628; 4804 E Hwy 377 GRANBURY TX 76048 SS 10,SM 11,SN 6,W 7 CARSWE KJB church"
   },
   {
     "id": "4899",
@@ -3143,7 +3143,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NICK DIGNAN. 1010 TYLER ST BORGER TX 79001 SS 10,SN 11,SN 6,W 7 KJB church."
+    "description": "BORGER TX 79001 SS 10,SN 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4900",
@@ -3161,7 +3161,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "3900 CLEVELAND AVE GROVES TX 77619 SOULWINNING, SPANISH, BUS, LIVE STREAM SERVICES, AUDIO SERMONS; ACADEMY; DAYCARE"
+    "description": "GROVES TX 77619 SOULWINNING, SPANISH, BUS, LIVE STREAM SERVICES, AUDIO SERMONS; ACADEMY; DAYCARE"
   },
   {
     "id": "4901",
@@ -3180,7 +3180,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HUNTER SHEARIN. 724 JAMES WRIGHT FWY FORT WORTH TX 76108 PO BOX 189; 2001 14TH ST BROWNWOOD TX 76804 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "724 JAMES WRIGHT FWY FORT WORTH TX 76108 BROWNWOOD TX 76804 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "4902",
@@ -3198,7 +3198,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANIEL LAREY. 1405 W PIONEER DR IRVING TX 75061 SOUWINNING; NORTH TEXAS BAPTIST SEMINARY; 15 MINS FROM DFW AIRPORT KJB church."
+    "description": "IRVING TX 75061 SOUWINNING; NORTH TEXAS BAPTIST SEMINARY; 15 MINS FROM DFW AIRPORT KJB church"
   },
   {
     "id": "4903",
@@ -3218,7 +3218,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by JEFF THOMPSON. 111 FARREN RD TEXARKANA TX 75503 KJB, ABA PO BOX 233; 113 LEGG ST TRINIDAD TX 75163 SS 10,SM 1045 KJB, IBFI BBF PO BOX 404 212 E ARCHER JACKSBORO TX 76458 SS 10,SM 11,SN 5,W 530 700 E YOUNG ST HWY 29"
+    "description": "TEXARKANA TX 75503 KJB, ABA PO BOX 233; 113 LEGG ST TRINIDAD TX 75163 SS 10,SM 1045 KJB, IBFI BBF PO BOX 404 212 E ARCHER JACKSBORO TX 76458 SS 10,SM 11,SN 5,W 530 700 E YOUNG ST HWY 29"
   },
   {
     "id": "4904",
@@ -3236,7 +3236,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CLAUD SUTTON. 4402 40TH ST LUBBOCK TX 79414 SS 945,SM 11,SN 615,W 7 KJB, IBFI"
+    "description": "LUBBOCK TX 79414 SS 945,SM 11,SN 615,W 7 KJB, IBFI"
   },
   {
     "id": "4905",
@@ -3255,12 +3255,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENT D BIRD. PO BOX 178 1390 S MAIN ST MANSFIELD TX 76063 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED, ARLINGTON-BC"
+    "description": "PO BOX 178 MANSFIELD TX 76063 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED, ARLINGTON-BC"
   },
   {
     "id": "4906",
     "name": "BELL STREET BAPTIST CHURCH",
-    "address": "808 BELL ST",
+    "address": "700 WOODARD AVE",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3273,12 +3273,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM TALIAFERRO. 808 BELL ST MARSHALL TX 75670 SS 945,SM 11,SN 6,W 7 WED KIDS CLUB KJB,OBC 2142 CR 337 MCKINNEY TX 75069 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS, BUS, CHOIR Part 6 700 WOODARD AVE CLEBURNE TX 76031 SM 830,S"
+    "description": "MARSHALL TX 75670 SS 945,SM 11,SN 6,W 7 WED KIDS CLUB KJB,OBC 2142 CR 337 MCKINNEY TX 75069 SS 10,SM 11,SN 7,W 7 AUDIO SERMONS, BUS, CHOIR Part 6 CLEBURNE TX 76031 SM 830,S"
   },
   {
     "id": "4907",
     "name": "GLORY BAPTIST CHURCH",
-    "address": "211 BRAND LN",
+    "address": "1775 E WHITESTONE BLVD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3293,12 +3293,12 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by SCOTT KELSEY. 211 BRAND LN STAFFORD TX 77477 SS 10,SM 11,SN 6,W 7 PO BOX 787 1775 E WHITESTONE BLVD CEDAR PARK TX 78613 SERMONS ONLINE SS 10,SM 11,SN 6,W 7 AWANA,CHOIR; CENTRAL TEXAS BIBLE INSTITUTE PO BOX 202 PLUM KJB church."
+    "description": "TX 77477 SS 10,SM 11,SN 6,W 7 PO BOX 787 CEDAR PARK TX 78613 SERMONS ONLINE SS 10,SM 11,SN 6,W 7 AWANA,CHOIR; CENTRAL TEXAS BIBLE INSTITUTE PO BOX 202 PLUM KJB church"
   },
   {
     "id": "4908",
     "name": "FAITH COMMUNITY BAPTIST CHURCH",
-    "address": "2105 WILSON RD",
+    "address": "75479 IN THE HISTORIC METHODIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3314,7 +3314,7 @@ export const texasChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by MIKE HERON. PO BOX 317; 12676 W HWY 82 SAVOY TX 75479 IN THE HISTORIC METHODIST BUILDING SM 11,SN 6,W 7 YOUTH, PATCH CLUBS, SOULWINNING, VISION FOR RETIREMENT COTTAGES FOR GOD’S SERVANTS 2105 WILSON RD HUMBLE TX  KJB church."
+    "description": "PO BOX 317; 12676 W HWY 82 SAVOY TX BUILDING SM 11,SN 6,W 7 YOUTH, PATCH CLUBS, SOULWINNING, VISION FOR RETIREMENT COTTAGES FOR GOD’S SERVANTS 2105 WILSON RD HUMBLE TX KJB church"
   },
   {
     "id": "4909",
@@ -3332,7 +3332,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE TIMS. 3300 W SEMINARY DR FORT WORTH TX 76133 SS 945,SM 1045,SN 7,W 7,SW TH 7 BUS,YOUTH, GIRLS & BOYS CLUBS,SINGLES,COUPLES; TEMPLE BAPTIST SCHOOL,K-12,ACE; TEMPLE BAPTIST COLLEGE KJB, WBF PO BOX 1100; 512 N"
+    "description": "FORT WORTH TX 76133 SS 945,SM 1045,SN 7,W 7,SW TH 7 BUS,YOUTH, GIRLS & BOYS CLUBS,SINGLES,COUPLES; TEMPLE BAPTIST SCHOOL,K-12,ACE; TEMPLE BAPTIST COLLEGE KJB, WBF PO BOX 1100; 512 N"
   },
   {
     "id": "4910",
@@ -3350,7 +3350,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT LINK. PO BOX 37; HWY 150 COLDSPRING TX 77331 PO BOX 606; 5319 HWY 77 ODEM TX 78370 SS 10,SM 11,SN 6,W 7 5413 38TH ST LUBBOCK TX 79414 SS 945,SM 1045,SN 6,W 7 YOUTH, BUS, BIBLE INSTITUTE FREE LESSONS, AUDIO  KJB church."
+    "description": "PO BOX 37; HWY 150 COLDSPRING TX 77331 PO BOX 606; 5319 HWY 77 ODEM TX 78370 SS 10,SM 11,SN 6,W 7 LUBBOCK TX 79414 SS 945,SM 1045,SN 6,W 7 YOUTH, BUS, BIBLE INSTITUTE FREE LESSONS, AUDIO KJB church"
   },
   {
     "id": "4911",
@@ -3368,7 +3368,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT C BUTTS. 2719 KINGSBROOK LN MISSOURI CITY TX 77459 SS 915,SM 1030,SN 6,W 7 MASTER CLUBS, BUS, CHOIR KJB church."
+    "description": "MISSOURI CITY TX 77459 SS 915,SM 1030,SN 6,W 7 MASTER CLUBS, BUS, CHOIR KJB church"
   },
   {
     "id": "4912",
@@ -3387,7 +3387,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MARTIN JACKSON. 301 CR 259 LIBERTY HILL TX 78642 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "301 CR 259 LIBERTY HILL TX 78642 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "4913",
@@ -3405,7 +3405,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2700 SANDY LN FORT WORTH TX 76112-6708 SS 10, SM 1055,SN P6 W630,W 730"
+    "description": "FORT WORTH TX 76112-6708 SS 10, SM 1055,SN P6 W630,W 730"
   },
   {
     "id": "4914",
@@ -3423,12 +3423,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JARRELL.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4915",
     "name": "PINE FOREST BAPTIST CHURCH",
-    "address": "609 S CENTRAL ST",
+    "address": "1104 GOODNIGHT BLVD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3443,7 +3443,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by JEREMY OGDIE. PO BOX 654 609 S CENTRAL ST HALLSVILLE TX 75650 SS 10,SM 11,SN 6,W 630 PO BOX 471 1104 GOODNIGHT BLVD WILLS POINT TX 75169 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS KJB, WCBC 2500 W RANDOL MILL RD ARLINGT"
+    "description": "PO BOX 654 HALLSVILLE TX 75650 SS 10,SM 11,SN 6,W 630 PO BOX 471 WILLS POINT TX 75169 SS 10,SM 11,SN 6,W 7 SOULWINNING, BUS KJB, WCBC 2500 W RANDOL MILL RD ARLINGT"
   },
   {
     "id": "4916",
@@ -3461,12 +3461,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRANK STRINGHAM. 3551 CINDY DR FORT WORTH TX 76111 SS 945,SM 1050,SN 630,W 7 AWANA, CHOIR, TEENS, BUS; LAKELAND BAPTIST CHRISTIAN ACADEMY,K-12 KJB church."
+    "description": "FORT WORTH TX 76111 SS 945,SM 1050,SN 630,W 7 AWANA, CHOIR, TEENS, BUS; LAKELAND BAPTIST CHRISTIAN ACADEMY,K-12 KJB church"
   },
   {
     "id": "4917",
     "name": "MT PLEASANT BAPTIST CHURCH",
-    "address": "1108 W 16TH ST",
+    "address": "11435 RAVENVIEW RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3479,7 +3479,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE GASTON. PO BOX 628 1108 W 16TH ST MT PLEASANT TX 75456 11435 RAVENVIEW RD DALLAS TX 75253 KJB church."
+    "description": "PO BOX 628 1108 W 16TH ST MT PLEASANT TX 75456 DALLAS TX 75253 KJB church"
   },
   {
     "id": "4918",
@@ -3497,7 +3497,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RALPH BROWN. 4846 TITANIC AVE EL PASO TX 79904 CHURCH SERVICES ARE IN SPANISH; ACADEMY, ABEKA-DVD KJB church."
+    "description": "EL PASO TX 79904 CHURCH SERVICES ARE IN SPANISH; ACADEMY, ABEKA-DVD KJB church"
   },
   {
     "id": "4919",
@@ -3515,7 +3515,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROY CASTILLO. 1541 S HWY 121 BONHAM TX 75418 KJB, UNAFFLIATED"
+    "description": "1541 S HWY 121 BONHAM TX 75418 KJB, UNAFFLIATED"
   },
   {
     "id": "4920",
@@ -3533,7 +3533,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARREN SIMPSON. 423 E ASHLEY RD SAN ANTONIO TX 78221 SS 930,SM 1030,SN 6,W 7 KJB church."
+    "description": "SAN ANTONIO TX 78221 SS 930,SM 1030,SN 6,W 7 KJB church"
   },
   {
     "id": "4921",
@@ -3551,7 +3551,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG LOCKE. 1710 W 34 ST HOUSTON TX 77018 SS 945,SM 1050,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "HOUSTON TX 77018 SS 945,SM 1050,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "4922",
@@ -3564,12 +3564,12 @@ export const texasChurches: Church[] = [
     "longitude": -96.6334,
     "phone": "(903) 896-1431",
     "website": "http://www.willow-springs.org",
-    "pastor": "LARRY LEFRENIERE",
+    "pastor": "WICHITA FALLS TX 76301 211 BRAND LN STAFFORD TX 77477 SS 10,SM 11,SN 6,W 7 KJB, BIMI 2810 FM 321",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY LEFRENIERE. PO BOX 554; WILLOW SPRINGS RD EDGEWOOD TX 75117 SS 950,SM 1050,SN 6,W 7 NEEDS PASTOR 1961 WINDTHORST RD WICHITA FALLS TX 76301 211 BRAND LN STAFFORD TX 77477 SS 10,SM 11,SN 6,W 7 KJB, BIMI 2810 FM 321"
+    "description": "PO BOX 554; WILLOW SPRINGS RD EDGEWOOD TX 75117 SS 950,SM 1050,SN 6,W 7 NEEDS"
   },
   {
     "id": "4923",
@@ -3589,7 +3589,7 @@ export const texasChurches: Church[] = [
       "ABA",
       "SBC"
     ],
-    "description": "Led by LONNIE JOHNSON. 403 TEMPLETON GARRETT TX 74120 SS 10,SM 11,SN 6,W 7 KJB, ABA"
+    "description": "GARRETT TX 74120 SS 10,SM 11,SN 6,W 7 KJB, ABA"
   },
   {
     "id": "4924",
@@ -3607,7 +3607,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID GARCES SR. 1510 PIONEER RD MESQUITE TX 75149-4849 SS 945,SM 11,SN 5,W 7 KJB church."
+    "description": "MESQUITE TX 75149-4849 SS 945,SM 11,SN 5,W 7 KJB church"
   },
   {
     "id": "4925",
@@ -3625,7 +3625,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BYRON HOWARD. 927 MARCH AVE SAN ANTONIO TX 78214 SS 10,SM 11,SN 7,W 7 13745 FM 16 W LINDALE TX 75771 SS 930,SM 1030,SN 6,W 630 KJB, HBBC"
+    "description": "SAN ANTONIO TX 78214 SS 10,SM 11,SN 7,W 7 13745 FM 16 W LINDALE TX 75771 SS 930,SM 1030,SN 6,W 630 KJB, HBBC"
   },
   {
     "id": "4926",
@@ -3643,12 +3643,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF PAGET. PO BOX 69; 982 E OVILLA RD RED OAK TX 75154 SS 10,SM 11,SN 6,W 630 KINGS KIDS, VIDEO SERMONS 2021 AUSTIN ST SAN ANGELO TX 76903 SS 945,SM 11,SN 6,W 7 BUS, YOUTH, TEEN, GOODFELLOW AFB 5 MINUTES 2701 W  KJB church."
+    "description": "RED OAK TX 75154 SS 10,SM 11,SN 6,W 630 KINGS KIDS, VIDEO SERMONS 2021 AUSTIN ST SAN ANGELO TX 76903 SS 945,SM 11,SN 6,W 7 BUS, YOUTH, TEEN, GOODFELLOW AFB 5 MINUTES 2701 W KJB church"
   },
   {
     "id": "4927",
     "name": "SANTE FE BAPTIST CHURCH",
-    "address": "1502 SANTA FE DR",
+    "address": "1502 SANTA FE DR WEATHERFORD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3656,12 +3656,12 @@ export const texasChurches: Church[] = [
     "longitude": -98.3498,
     "phone": "(817) 594-2863",
     "website": "https://www.sfbctx.com",
-    "pastor": "DARRELL BURNS",
+    "pastor": "HOUSTON TX 77291 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL BURNS. 1502 SANTA FE DR WEATHERFORD TX 76086 SS 10,SM 11,SN 6,W 7 PO BOX 256; 13567 HWY 31 BROWNSBORO TX 75756 SS 10,SM 11,W 7 IGLESIA BAUTISTA LIBERTAD 6111 BREEN DR HOUSTON TX 77291 KJB church."
+    "description": "TX 76086 SS 10,SM 11,SN 6,W 7 PO BOX 256; 13567 HWY 31 BROWNSBORO TX 75756 SS 10,SM 11,W 7 IGLESIA BAUTISTA LIBERTAD 6111 BREEN DR HOUSTON TX 77291 KJB church"
   },
   {
     "id": "4928",
@@ -3679,12 +3679,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALTON W BYRD. KJB, IBFI, NBBI PO BOX 1450; 8124 MAIN ST FRISCO TX 75034 SS 945,SM 11,SN 6,W 7"
+    "description": "KJB, IBFI, NBBI FRISCO TX 75034 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "4929",
     "name": "BROADWAY BAPTIST CHURCH",
-    "address": "710 E 3RD ST",
+    "address": "600 MORSE AVE ST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3697,7 +3697,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED FERREN. 710 E 3RD ST SWEETWATER TX 79556 SS 10,SM 11,SN 6,W 7 4793 FM 1810 CHICO TX 76431 SS 930, SM 1045,SN 6,W 630 PO BOX 3344; 600 MORSE AVE STINNETT TX 79083 SS 10,SM 11,SN 6,W 7 1007 N ADAMS ST ALICE TX  KJB church."
+    "description": "710 E 3RD ST SWEETWATER TX 79556 SS 10,SM 11,SN 6,W 7 4793 FM 1810 CHICO TX 76431 SS 930, SM 1045,SN 6,W 630 PO BOX 3344; INNETT TX 79083 SS 10,SM 11,SN 6,W 7 1007 N ADAMS ST ALICE TX KJB church"
   },
   {
     "id": "4930",
@@ -3715,7 +3715,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC CRAWFORD. 8425 S OSAGE ST AMARILLO TX 79101 SS 10,SM 11,SN 630,W 7 KJB, IBFI 6700 B AZLE AVE LAKE WORTH TX 76135 SS 945,SM 1050,SN 630,W 7 AWANA,PUPPETS, AUDIO & VIDEO SERMONS PO BOX 2; 2300 S 20TH ST ABILENE T"
+    "description": "AMARILLO TX 79101 SS 10,SM 11,SN 630,W 7 KJB, IBFI 6700 B AZLE AVE LAKE WORTH TX 76135 SS 945,SM 1050,SN 630,W 7 AWANA,PUPPETS, AUDIO & VIDEO SERMONS PO BOX 2; 2300 S 20TH ST ABILENE T"
   },
   {
     "id": "4931",
@@ -3733,12 +3733,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON DENSON. 120 BRIGGS RD KILLEEN TX 76549 SS 10,SM 11,SN 6,W 7 FT HOOD KJB church."
+    "description": "KILLEEN TX 76549 SS 10,SM 11,SN 6,W 7 FT HOOD KJB church"
   },
   {
     "id": "4932",
     "name": "ARDEN RD BAPTIST CHURCH",
-    "address": "6701 ARDEN RD",
+    "address": "325 S COWAN AVE",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3752,7 +3752,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK BUTCHER. 6701 ARDEN RD AMARILLO TX 79109 PHYSICAL ADD: 4602 SCOTTSWOOD SS 920,SM 1030,SN 6,W 7 VIDEO SERMONS KJB, BBF & IGLESIA BAUTISTA CENTRAL 325 S COWAN AVE LEWISVILLE TX 75057 SS 10,SM 11,SN 6,W 7"
+    "description": "AMARILLO TX 79109 PHYSICAL ADD: 4602 SCOTTSWOOD SS 920,SM 1030,SN 6,W 7 VIDEO SERMONS KJB, BBF & IGLESIA BAUTISTA CENTRAL LEWISVILLE TX 75057 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "4933",
@@ -3770,7 +3770,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHAD FITTS. 3400 LAMAR AVE PARIS TX 75460 SS 930,SM 1030,W 630 AUDIO & VIDEO SERMONS KJB church."
+    "description": "PARIS TX 75460 SS 930,SM 1030,W 630 AUDIO & VIDEO SERMONS KJB church"
   },
   {
     "id": "4934",
@@ -3788,12 +3788,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEWART LOWE. PO BOX 14338; 4950 N HALTOM RD HALTOM CITY TX 76117 SS 10,SM 11,SN 530,W 7 6782 HWY 84 JOAQUIN TX 75954 1515 OLD JACKSBORO RD GRAHAM TX 76450 SS 10,SM 11,SN 7,W 7 KJB, IBFI"
+    "description": "HALTOM CITY TX 76117 SS 10,SM 11,SN 530,W 7 6782 HWY 84 JOAQUIN TX 75954 1515 OLD JACKSBORO RD GRAHAM TX 76450 SS 10,SM 11,SN 7,W 7 KJB, IBFI"
   },
   {
     "id": "4935",
     "name": "CONCHO BAPTIST CHURCH",
-    "address": "216 W 10TH ST",
+    "address": "1800 OLD RANCH RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3806,7 +3806,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ERIC BARBOSA. 216 W 10TH ST COLEMAN TX 76834 SS 945,SM 1045,SN 6,W 7 PO BOX 1085 1800 OLD RANCH RD 12 SAN MARCOS TX 78666 SS 10, SM 11, SN 6, W 7 KJB, HAC, GRAY-TX"
+    "description": "216 W 10TH ST COLEMAN TX 76834 SS 945,SM 1045,SN 6,W 7 PO BOX 1085 12 SAN MARCOS TX 78666 SS 10, SM 11, SN 6, W 7 KJB, HAC, GRAY-TX"
   },
   {
     "id": "4936",
@@ -3819,13 +3819,13 @@ export const texasChurches: Church[] = [
     "longitude": -97.2074,
     "phone": "(903) 567-4837",
     "website": "https://www.facebook.com/WSBBC",
-    "pastor": "T HADEN LEDFORD",
+    "pastor": "CARROLLTON TX 75011 SS 9,SM 10,SN 6,W 730 BUS, COLLEGE",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by T HADEN LEDFORD. 4280 FM 2909 CANTON TX 75103 SS 10,SM 11,SN 530,W 6 KJB, CCM PO BOX 383; 4301 THOMASON DR MIDLAND TX 79705 KJB, BBF PO BOX 110597; 2000 DENTON DR CARROLLTON TX 75011 SS 9,SM 10,SN 6,W 730 BUS, COLLEGE"
+    "description": "4280 FM 2909 CANTON TX 75103 SS 10,SM 11,SN 530,W 6 KJB, CCM MIDLAND TX 79705 KJB, BBF PO BOX 110597; 2000 DENTON DR CARROLLTON TX 75011 SS 9,SM 10,SN 6,W 730 BUS, COLLEGE"
   },
   {
     "id": "4937",
@@ -3843,12 +3843,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TYLER POOLE. PO BOX 30812; 90 MCMASTERS ST AMARILLO TX 79120 SS 10,SM 11,SS 6,W 7 KJB, ARLINGTON-BC"
+    "description": "AMARILLO TX 79120 SS 10,SM 11,SS 6,W 7 KJB, ARLINGTON-BC"
   },
   {
     "id": "4938",
     "name": "PATRICK BAPTIST CHURCH",
-    "address": "2006 PARKINSON RD",
+    "address": "309 E CAMPBELL ST STAMFORD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3861,12 +3861,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JESSE MORTON. RR 2 BOX 142 2006 PARKINSON RD FERRIS TX 75125 SS 10,SM 11,SN 630,W 630 PO BOX 209; 309 E CAMPBELL ST STAMFORD TX 79553 STAMFORD CHRISTIAN ACADEMY KJB, IBFI PO BOX 21; 3303 APPLE ST SNYDER TX 79549 SS"
+    "description": "RR 2 BOX 142 FERRIS TX 75125 SS 10,SM 11,SN 630,W 630 PO BOX 209; TX 79553 STAMFORD CHRISTIAN ACADEMY KJB, IBFI PO BOX 21; 3303 APPLE ST SNYDER TX 79549 SS"
   },
   {
     "id": "4939",
     "name": "WEST MAIN BAPTIST CHURCH",
-    "address": "1403 W MAIN ST",
+    "address": "23473 SORTERS RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3879,12 +3879,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by YADIR RODRIGUEZ. 1403 W MAIN ST HENDERSON TX 75652 SS 930,SM 1030,SN 430,W 6 PO BOX 1310; 23473 SORTERS RD PORTER TX 77365 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HENDERSON TX 75652 SS 930,SM 1030,SN 430,W 6 PO BOX 1310; PORTER TX 77365 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4940",
     "name": "CORNERSTONE BAPTIST ACADEMY",
-    "address": "801 AVE C NW",
+    "address": "801 AVE C NW CHILDR",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -3897,7 +3897,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BENSON KENNEDY. PO BOX 247; 130 FM 718 NEWARK TX 76071 801 AVE C NW CHILDRESS TX 79201 SS 10,SM 11,SN 6,W 6 KJB church."
+    "description": "PO BOX 247; 130 FM 718 NEWARK TX 76071 ESS TX 79201 SS 10,SM 11,SN 6,W 6 KJB church"
   },
   {
     "id": "4941",
@@ -3915,7 +3915,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENT WILSON. 912 EAST LOOP 340 WACO TX 76705 SS 945,SM 1055,SN 630,W 7 VIDEO SERMONS, BUS, YOUTH, TEENS, COUPLES, SENIORS KJB church."
+    "description": "WACO TX 76705 SS 945,SM 1055,SN 630,W 7 VIDEO SERMONS, BUS, YOUTH, TEENS, COUPLES, SENIORS KJB church"
   },
   {
     "id": "4942",
@@ -3933,7 +3933,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LEE HARTMAN. 15229 SOUTH DR CHANNELVIEW TX  77530 SS 930,SM 1030,SN 615,W 7 KINGS KIDS KJB church."
+    "description": "CHANNELVIEW TX 77530 SS 930,SM 1030,SN 615,W 7 KINGS KIDS KJB church"
   },
   {
     "id": "4943",
@@ -3952,7 +3952,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by KYLE OHSFELDT. 9501 THOMPSON RD ALVARADO TX 76009 SS 945,SM 11,SN 630,W 7 BUS, CHOIR, KINGS KIDS, SPANISH, BUS, CHOIR, KING KIDS PO BOX 839; 824 S BANKS ST PAMPA TX 79066 SS 10,SM 11,SN 5,W 7 Part 7 PO BOX 598; 402  KJB church."
+    "description": "ALVARADO TX 76009 SS 945,SM 11,SN 630,W 7 BUS, CHOIR, KINGS KIDS, SPANISH, BUS, CHOIR, KING KIDS PO BOX 839; 824 S BANKS ST PAMPA TX 79066 SS 10,SM 11,SN 5,W 7 Part 7 PO BOX 598; 402 KJB church"
   },
   {
     "id": "4944",
@@ -3971,7 +3971,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by JOSEPH JOHNSON. 11524 SEAGOVILLE RD BALCH SPRINGS TX 75180 1301 VERNON ST PLAINVIEW TX 79072 SS 10,SM 11,SN 6,W 7 KJB, ABC PO BOX 775; 1501 W AVE F MIDLOTHIAN TX 76065 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
+    "description": "BALCH SPRINGS TX 75180 1301 VERNON ST PLAINVIEW TX 79072 SS 10,SM 11,SN 6,W 7 KJB, ABC PO BOX 775; 1501 W AVE F MIDLOTHIAN TX 76065 SS 10,SM 11,SN 6,W 7 AUDIO SERMONS"
   },
   {
     "id": "4945",
@@ -3989,7 +3989,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON STEPHENS. 1818 MARGUERITE ST BAY CITY TX 77414 SS 945, SM 1045,SN 2,W 7 BAY CITY CHRISTIAN ACADEMY PO BOX 2398; 216 ACADEMY RD EAGLE PASS TX 78853 KJB church."
+    "description": "BAY CITY TX 77414 SS 945, SM 1045,SN 2,W 7 BAY CITY CHRISTIAN ACADEMY PO BOX 2398; 216 ACADEMY RD EAGLE PASS TX 78853 KJB church"
   },
   {
     "id": "4946",
@@ -4007,7 +4007,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARTIN HOLLAND. 3800 HWY 123 SAN MARCOS TX 78666 SS 10,SM 11,SN 6,W 7 4509 W TRIMMER RD KILLEEN TX 76542 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS, FT HOOD KJB church."
+    "description": "3800 HWY 123 SAN MARCOS TX 78666 SS 10,SM 11,SN 6,W 7 KILLEEN TX 76542 SS 10,SM 11,SN 630,W 7 AUDIO SERMONS, FT HOOD KJB church"
   },
   {
     "id": "4947",
@@ -4025,7 +4025,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS MINEFEE. 3220 N 15 A WACO TX 76708 SS 945,SM 11,SN 6,W 715 AWANA, TEEN, HISPANIC, VAN PO BOX 845; 1125 E CORSICANA ST ATHENS TX 75751 SS 930,SM 1030,SN 630,W 7 KJB, UNREG PO BOX 369; 205 PR 3902 D MT ENTERPRIZ"
+    "description": "3220 N 15 A WACO TX 76708 SS 945,SM 11,SN 6,W 715 AWANA, TEEN, HISPANIC, VAN ATHENS TX 75751 SS 930,SM 1030,SN 630,W 7 KJB, UNREG PO BOX 369; 205 PR 3902 D MT ENTERPRIZ"
   },
   {
     "id": "4948",
@@ -4043,7 +4043,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS WEBSTER.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "4949",
@@ -4062,7 +4062,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by RICK L TIMMONS. PO BOX 8695; 2200 ENSIGN RD ENNIS TX 75120 PO BOX 655; 108 N 6TH ST CANADIAN TX 79014 SS 10,SM 11,SN 6 KJB, ABA"
+    "description": "ENNIS TX 75120 PO BOX 655; 108 N 6TH ST CANADIAN TX 79014 SS 10,SM 11,SN 6 KJB, ABA"
   },
   {
     "id": "4950",
@@ -4080,7 +4080,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by B G BOWDEN. 916 W SABINE ST CARTHAGE TX 75633 SS 10,SM 1050,SN 6,W 630 PO BOX 716; 303 SHORT ST CLARKSVILLE TX 75426 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "CARTHAGE TX 75633 SS 10,SM 1050,SN 6,W 630 PO BOX 716; 303 SHORT ST CLARKSVILLE TX 75426 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4951",
@@ -4098,7 +4098,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SAMUEL RIOS. MISION BAUTISTA NUEVA VIDA PO BOX 1465; 602 S JACKSON ST ALVIN TX 77512 KJB, IBFI"
+    "description": "MISION BAUTISTA NUEVA VIDA ALVIN TX 77512 KJB, IBFI"
   },
   {
     "id": "4952",
@@ -4117,7 +4117,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JOHN CORLEY. 6190 RENDON NEW HOPE RD FORT WORTH TX 76140 (817) 478- 4878 CH SS 945,SM 11,SN 630,W 7 SOULWINNING, AUDIO SERMONS KJB church."
+    "description": "FORT WORTH TX 76140 (817) 478- 4878 CH SS 945,SM 11,SN 630,W 7 SOULWINNING, AUDIO SERMONS KJB church"
   },
   {
     "id": "4953",
@@ -4135,12 +4135,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANNY KOONCE. 1123 STATE HWY 155 N GILMER TX 75644 KJB church."
+    "description": "GILMER TX 75644 KJB church"
   },
   {
     "id": "4954",
     "name": "& CALVARIO IGLESIA BAPTISTA",
-    "address": "22402 LAURA LN",
+    "address": "22402 LAURA LN HEMPST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "22402",
@@ -4153,7 +4153,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WES STEVENS. BOX 442 22402 LAURA LN HEMPSTEAD TX 77445 SS 10,SM 11,SN 6,W 7 PO BOX 312; 711 SW 24TH PERRYTON TX 79070 2304 STONE RD KILGORE TX 75662 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS NEEDS PASTOR KJB church."
+    "description": "BOX 442 EAD TX 77445 SS 10,SM 11,SN 6,W 7 PO BOX 312; 711 SW 24TH PERRYTON TX 79070 2304 STONE RD KILGORE TX 75662 SS 10,SM 11,SN 6,W 7 VIDEO SERMONS NEEDS"
   },
   {
     "id": "4955",
@@ -4171,7 +4171,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN TISDALE. PO BOX 440; 201 EAST OAK ST SANDERSON TX 79848 KJB church."
+    "description": "SANDERSON TX 79848 KJB church"
   },
   {
     "id": "4956",
@@ -4189,12 +4189,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN MURRAY. 806 S VETERANS BLVD PHARR TX 78577 SS 945,SM 1050,SN 6,W 7, SPANISH TH 630 ANCHOR THEOLOGICAL SEMINARY & BIBLE INSTITUTE KJB church."
+    "description": "PHARR TX 78577 SS 945,SM 1050,SN 6,W 7, SPANISH TH 630 ANCHOR THEOLOGICAL SEMINARY & BIBLE INSTITUTE KJB church"
   },
   {
     "id": "4957",
     "name": "FLO COMMUNITY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 31",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4207,7 +4207,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RC KELLY. PO BOX 31 17159 FM 831 BUFFALO TX 75831 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "17159 FM 831 BUFFALO TX 75831 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4958",
@@ -4226,12 +4226,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KEVIN HYMER. 1201 E MORGAN ST MERIDIAN TX 76665 SS 10,SM 11,SN 6,W 630 KJB, BBF, WBF"
+    "description": "MERIDIAN TX 76665 SS 10,SM 11,SN 6,W 630 KJB, BBF, WBF"
   },
   {
     "id": "4959",
     "name": "FAIRPARK BAPTIST CHURCH",
-    "address": "6000 CROWLEY RD",
+    "address": "622 E FRANCIS AVE",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4244,7 +4244,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEL OSBORNE. 6000 CROWLEY RD FORT WORTH TX 76134 PO BOX 1954; 622 E FRANCIS AVE PAMPA TX 79065 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "FORT WORTH TX 76134 PO BOX 1954; PAMPA TX 79065 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "4960",
@@ -4263,7 +4263,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JIMMY MCNEIL. 315 WEST TEXAS AVE WASKOM TX 75692 KJB, ARLINGTON-BC"
+    "description": "WASKOM TX 75692 KJB, ARLINGTON-BC"
   },
   {
     "id": "4961",
@@ -4281,7 +4281,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RUDY RIOS. 4400 PLEASANTVIEW DR ARLINGTON TX 76017 SS 915, SM 1015, SN 6,W 7 YOUTH, TEENS, SPANISH, SENIORS, CHOIR, ORCHESTRA, AUDIO SERMONS PO BOX 2157; 1200 22ND ST N TEXAS CITY TX 77590 PO BOX 370; 400 GASKIN KJB church."
+    "description": "ARLINGTON TX 76017 SS 915, SM 1015, SN 6,W 7 YOUTH, TEENS, SPANISH, SENIORS, CHOIR, ORCHESTRA, AUDIO SERMONS PO BOX 2157; 1200 22ND ST N TEXAS CITY TX 77590 PO BOX 370; 400 GASKIN KJB church"
   },
   {
     "id": "4962",
@@ -4300,7 +4300,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MANLY PERRY. 101 S 30TH ST CORSICANA TX 75151 SS 945,SM 11,SN 6,W 7 KING KIDS CO-PASTORS JAMES HOGUE & HEATH HOGUE KJB, IBFI 2545 WARRIOR TRAIL GRAND PRAIRIE TX 75052 SS 945,SM 1045,SN 6,W 7"
+    "description": "CORSICANA TX 75151 SS 945,SM 11,SN 6,W 7 KING KIDS CO-PASTORS JAMES HOGUE & HEATH HOGUE KJB, IBFI 2545 WARRIOR TRAIL GRAND PRAIRIE TX 75052 SS 945,SM 1045,SN 6,W 7"
   },
   {
     "id": "4963",
@@ -4320,7 +4320,7 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "BMA"
     ],
-    "description": "Led by DAVID KIZER. 12145 TX-107 LOOP UNIT 3 ADKINS TX 78101 SOULWINNING, OLD FASHIONED, HYMNS, FAMILY INTEGRATED KJB, BMA"
+    "description": "12145 TX-107 LOOP UNIT 3 ADKINS TX 78101 SOULWINNING, OLD FASHIONED, HYMNS, FAMILY INTEGRATED KJB, BMA"
   },
   {
     "id": "4964",
@@ -4339,7 +4339,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by AL MORT. PO BOX 1127; 992 FARM RD 1520 PITTSBURG TX 75686 SS 945,SM 1045,SN 6,W 630 KJB, ABA"
+    "description": "PITTSBURG TX 75686 SS 945,SM 1045,SN 6,W 630 KJB, ABA"
   },
   {
     "id": "4965",
@@ -4357,12 +4357,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN HYMER. PO BOX 448; 304 W FRONT ST ARP TX 75750 SS 945,SM 1045,SN 6,W 7 TEENS, SENIORS, ALL THE KINGS MEN KJB church."
+    "description": "ARP TX 75750 SS 945,SM 1045,SN 6,W 7 TEENS, SENIORS, ALL THE KINGS MEN KJB church"
   },
   {
     "id": "4966",
     "name": "REGENCY BAPTIST CHURCH",
-    "address": "311 E 3RD ST",
+    "address": "433 N MAIN ST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4375,7 +4375,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY METZ. 311 E 3RD ST ARLINGTON TX 76010 SS 10,SM 11,SN 6 724 FM 1187 W CROWLEY TX 76036 KJB, IBFI,ARLINGTON-BC PO BOX 1328; 433 N MAIN ST SPRINGTOWN TX 76082 SS 945,SM 1050,SN 6,W 630"
+    "description": "311 E 3RD ST ARLINGTON TX 76010 SS 10,SM 11,SN 6 724 FM 1187 W CROWLEY TX 76036 KJB, IBFI,ARLINGTON-BC PO BOX 1328; SPRINGTOWN TX 76082 SS 945,SM 1050,SN 6,W 630"
   },
   {
     "id": "4967",
@@ -4394,7 +4394,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MYRES DREW. 1847 W HUISACHE AVE SAN ANTONIO TX 78201-4943 KJB, BBFI"
+    "description": "SAN ANTONIO TX 78201-4943 KJB, BBFI"
   },
   {
     "id": "4968",
@@ -4412,12 +4412,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUG SHELLEY. 3120 TALLEY RD SAN ANTONIO TX 78253 KJB church."
+    "description": "SAN ANTONIO TX 78253 KJB church"
   },
   {
     "id": "4969",
     "name": "EAST SIDE BAPTIST CHURCH",
-    "address": "1108 E 6TH ST",
+    "address": "1809 S STORY RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4432,12 +4432,12 @@ export const texasChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by JEFFREY CHAPMAN. 1108 E 6TH ST BIG SPRING TX 79720 SM 1045,SN 145 PO BOX 612; 507 NE 4TH ST ANDREWS TX 79714 Part 8 1809 S STORY RD IRVING TX 75060 RR 2 BOX 197 C BOYD TX 76023 SS 9,SM 10,SN 1230,W 7 KJB church."
+    "description": "1108 E 6TH ST BIG SPRING TX 79720 SM 1045,SN 145 PO BOX 612; 507 NE 4TH ST ANDREWS TX 79714 Part 8 IRVING TX 75060 RR 2 BOX 197 C BOYD TX 76023 SS 9,SM 10,SN 1230,W 7 KJB church"
   },
   {
     "id": "4970",
     "name": "BEAUMONT PLACE BAPTIST CHURCH",
-    "address": "",
+    "address": "13101 IVYDALE HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4450,7 +4450,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JACK GREEN. 13101 IVYDALE HOUSTON TX 77049"
+    "description": "ON TX 77049"
   },
   {
     "id": "4971",
@@ -4463,12 +4463,12 @@ export const texasChurches: Church[] = [
     "longitude": -97.0249,
     "phone": "(512) 388-1340",
     "website": "https://myfaithbc.org",
-    "pastor": "JERALD CHADWICK",
+    "pastor": "3625 GATTIS SCHL RD ROUND ROCK TX 78664 SS 10,SM 11,SN 6,W 7 BBF church",
     "category": "BBF",
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JERALD CHADWICK. 5609 LOWER BIRDVILLE RD FORT WORTH TX 76117 NEEDS PASTOR 3625 GATTIS SCHL RD ROUND ROCK TX 78664 SS 10,SM 11,SN 6,W 7 BBF church."
+    "description": "FORT WORTH TX 76117 NEEDS"
   },
   {
     "id": "4972",
@@ -4487,12 +4487,12 @@ export const texasChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by MARVIN B WEIDO. PO BOX 33122; 1616 S VERNON ST AMARILLO TX 79120 2120 W SUBLETT RD ARLINGTON TX 76017 12460 LOS INDIOS TRL AUSTIN TX 78729 1649 SE PARKWAY AZLE TX 76020 400 DAVIDSON ST BENBROOK TX 76126 NEEDS PASTOR  BBF church."
+    "description": "AMARILLO TX 79120 2120 W SUBLETT RD ARLINGTON TX 76017 12460 LOS INDIOS TRL AUSTIN TX 78729 1649 SE PARKWAY AZLE TX 76020 400 DAVIDSON ST BENBROOK TX 76126 NEEDS"
   },
   {
     "id": "4973",
     "name": "TRIANGLE BAPTIST CHURCH",
-    "address": "6446 GARRISON DR",
+    "address": "79226 IGLESIA BAUTIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4505,7 +4505,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by MILTON RAMIREZ. 6446 GARRISON DR (& HWY 408) ORANGE TX 77630 SS 10,SM 11,SN  6,W 7 BBF, IBFI PO BOX 363; 620 E 2ND ST CLARENDON TX 79226 IGLESIA BAUTISTA MISIONERA 9320 SANDYLAND BLVD DALLAS TX 75217"
+    "description": "(& HWY 408) ORANGE TX 77630 SS 10,SM 11,SN 6,W 7 BBF, IBFI PO BOX 363; 620 E 2ND ST CLARENDON TX A MISIONERA 9320 SANDYLAND BLVD DALLAS TX 75217"
   },
   {
     "id": "4974",
@@ -4523,7 +4523,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by A F CASEY. PO BOX 103; 3811 FM 8 STEPHENVILLE TX 76401 PO BOX 389; 116 DEPOT ST ELGIN TX 78621 PO BOX 697; 205 S RIDGELAND FRITCH TX 79036 BBF church."
+    "description": "PO BOX 103; 3811 FM 8 STEPHENVILLE TX 76401 ELGIN TX 78621 PO BOX 697; 205 S RIDGELAND FRITCH TX 79036 BBF church"
   },
   {
     "id": "4975",
@@ -4541,7 +4541,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "PO BOX 150157; 1309 S CHERRY LN FORT WORTH TX 76108 BBF church."
+    "description": "FORT WORTH TX 76108 BBF church"
   },
   {
     "id": "4976",
@@ -4560,12 +4560,12 @@ export const texasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by WAYNE DENMAN. PO BOX 546 449 JOSSERAND RD GROVETON TX 75845 BBF church."
+    "description": "PO BOX 546 GROVETON TX 75845 BBF church"
   },
   {
     "id": "4977",
     "name": "COLONIAL HILLS BAPTIST CHURCH",
-    "address": "14935 LILLJA RD",
+    "address": "14935 LILLJA RD HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "14935",
@@ -4578,12 +4578,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BOBBY A HERRELL. 14935 LILLJA RD HOUSTON TX 77060 BBF church."
+    "description": "ON TX 77060 BBF church"
   },
   {
     "id": "4978",
     "name": "BROWN TRAIL BAPTIST CHURCH",
-    "address": "",
+    "address": "415 BROWN TRAIL HURST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4596,12 +4596,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ROLAND DELEON. PO BOX 383 415 BROWN TRAIL HURST TX 76053 BBF church."
+    "description": "PO BOX 383 TX 76053 BBF church"
   },
   {
     "id": "4979",
     "name": "COUNTRY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1618",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4614,12 +4614,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by CHARLES ONEAL JR. PO BOX 1618 LYTLE TX 78052 PHYSICAL 17800 FM471 S, NATALIA TX SS 945,SM 1050,SN 6,W 730 BBF church."
+    "description": "LYTLE TX 78052 PHYSICAL 17800 FM471 S, NATALIA TX SS 945,SM 1050,SN 6,W 730 BBF church"
   },
   {
     "id": "4980",
     "name": "SOUTHRIDGE BAPTIST TEMPLE",
-    "address": "300 SAWYER RD",
+    "address": "707 S BRADFORD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4633,7 +4633,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by TED CREECH. PO BOX 817; HWY 1187 & 1715 GERTIE BARRETT MANSFIELD TX 76063 300 SAWYER RD MCCAMEY TX 79752 SS 10,SM 11,SN 6,W 7 PO BOX 292; 707 S BRADFORD OVERTON TX 75684 SS 10,SM 11,SN 6 BBF, BMA"
+    "description": "PO BOX 817; HWY 1187 & 1715 GERTIE BARRETT MANSFIELD TX 76063 MCCAMEY TX 79752 SS 10,SM 11,SN 6,W 7 PO BOX 292; OVERTON TX 75684 SS 10,SM 11,SN 6 BBF, BMA"
   },
   {
     "id": "4981",
@@ -4646,13 +4646,13 @@ export const texasChurches: Church[] = [
     "longitude": -97.2311,
     "phone": "(281) 689-6396",
     "website": "https://www.facebook.com/VictoryParkSprings",
-    "pastor": "JAY WEBB",
+    "pastor": "FLOYDADA TX 79235",
     "category": "BBF",
     "affiliation": [
       "BBF",
       "ABA"
     ],
-    "description": "Led by JAY WEBB. PO BOX 412 26787 FM 2090 SPLENDORA TX 77372 BBF, IBFI 4346 N HWY 101 SUNSET TX 76270 PASTOR 810 S 3RD ST FLOYDADA TX 79235"
+    "description": "PO BOX 412 26787 FM 2090 SPLENDORA TX 77372 BBF, IBFI 4346 N HWY 101 SUNSET TX 76270"
   },
   {
     "id": "4982",
@@ -4670,7 +4670,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BILLY HENSARLING. 825 SOUTHEAST PARKWAY ARLINGTON TX 76018 SS 930,SM 1030,SN 6,W 7 FAITH BIBLE INSTITUTE BBF church."
+    "description": "ARLINGTON TX 76018 SS 930,SM 1030,SN 6,W 7 FAITH BIBLE INSTITUTE BBF church"
   },
   {
     "id": "4983",
@@ -4688,7 +4688,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BMA"
     ],
-    "description": "Led by JEREMY WILLIS. PO BOX 1148; 58 TRAM ROADWAY SPLENDORA TX 77372 BMA church."
+    "description": "SPLENDORA TX 77372 BMA church"
   },
   {
     "id": "4984",
@@ -4706,7 +4706,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BMA"
     ],
-    "description": "Led by WALTER D ELLIS. 2102 49TH ST LUBBOCK TX 79414 SS 945,SM 1045,SN 6,W 7 BMA church."
+    "description": "LUBBOCK TX 79414 SS 945,SM 1045,SN 6,W 7 BMA church"
   },
   {
     "id": "4985",
@@ -4724,12 +4724,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MIKE GUMIENNY. 1023 APACHE ST AMARILLO TX 79107 SS 945,SM 11,SN 6, W 7"
+    "description": "AMARILLO TX 79107 SS 945,SM 11,SN 6, W 7"
   },
   {
     "id": "4986",
     "name": "KATY INDEPENDENT BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 5333",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4742,12 +4742,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Independent"
     ],
-    "description": "Led by DON BRADFORD. PO BOX 5333 KATY TX 77491 PO BOX 696 POCOLA TX 74902 RV1960 Independent church."
+    "description": "KATY TX 77491 PO BOX 696 POCOLA TX 74902 RV1960 Independent church"
   },
   {
     "id": "4987",
     "name": "IGLESIA BAPTISTA FUNDAMENTAL",
-    "address": "409 N TAYLOR ST",
+    "address": "76240 IGLESIA BAUTIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4762,7 +4762,7 @@ export const texasChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by PEDRO COVARRUBIAS. 409 N TAYLOR ST GAINESVILLE TX 76240 IGLESIA BAUTISTA DEL CALVARIO PO BOX 1092; 4514 KANSAS ST FRESNO TX 77545 Non-KJV church."
+    "description": "GAINESVILLE TX A DEL CALVARIO PO BOX 1092; 4514 KANSAS ST FRESNO TX 77545 Non-KJV church"
   },
   {
     "id": "4988",
@@ -4780,12 +4780,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by STEPHEN DAILY. 315 W SHADOWBEND FRIENDSWOOD TX 77546"
+    "description": "315 W SHADOWBEND FRIENDSWOOD TX 77546"
   },
   {
     "id": "4989",
     "name": "SHADYCREST BAPTIST CHURCH",
-    "address": "3214 HAMM RD",
+    "address": "700 N WALNUT CREEK DR",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4793,13 +4793,13 @@ export const texasChurches: Church[] = [
     "longitude": -96.3106,
     "phone": "(281) 485-1481",
     "website": "https://cbcmansfield.com",
-    "pastor": "RANDY TUCKER",
+    "pastor": "MANSFIELD TX 76063 SS 945,SM 1045,SN 630,W 730 NOT KJV ONLY",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RANDY TUCKER. 3214 HAMM RD PEARLAND TX 77581 BBF, CCM 1921 SW 3RD ST GRAND PRAIRIE TX 75051 SS 10,SM 11,SN 6,W 7 KJB, ABC, CCM 700 N WALNUT CREEK DR MANSFIELD TX 76063 SS 945,SM 1045,SN 630,W 730 NOT KJV ONLY"
+    "description": "PEARLAND TX 77581 BBF, CCM 1921 SW 3RD ST GRAND PRAIRIE TX 75051 SS 10,SM 11,SN 6,W 7 KJB, ABC, CCM MANSFIELD TX 76063 SS 945,SM 1045,SN 630,W 730 NOT KJV ONLY"
   },
   {
     "id": "4990",
@@ -4818,7 +4818,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by PAUL CHANDLER. 909 N BISHOP ST WAKE VILLAGE TX 75501 TEXARKANA AREA SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BMA 6347 FM 2088 WINNSBORO TX 75494 S.GRACE-TULIP KJB church."
+    "description": "WAKE VILLAGE TX 75501 TEXARKANA AREA SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BMA 6347 FM 2088 WINNSBORO TX 75494 S.GRACE-TULIP KJB church"
   },
   {
     "id": "4991",
@@ -4836,7 +4836,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES. 218 LACKLAND ST COLEMAN TX 76834 SS 945,SM 1045,SN 630,W 630 KJB, CCM, CONTEMPORARY SERVICES"
+    "description": "COLEMAN TX 76834 SS 945,SM 1045,SN 630,W 630 KJB, CCM, CONTEMPORARY SERVICES"
   },
   {
     "id": "4992",
@@ -4856,7 +4856,7 @@ export const texasChurches: Church[] = [
       "BMA",
       "ABA"
     ],
-    "description": "Led by JIM NIMMONS. 201 DERTING RD AURORA TX 76078 SS 10,SM 830 & 11,SN 6,W 7 AWANA, BUS, NOT KJV ONLY, BMA KJB church."
+    "description": "AURORA TX 76078 SS 10,SM 830 & 11,SN 6,W 7 AWANA, BUS, NOT KJV ONLY, BMA KJB church"
   },
   {
     "id": "4993",
@@ -4876,12 +4876,12 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by CRIS POWELL. PO BOX 175; 3400 FM 2693 RD W NEW WAVERLY TX 77358 CHOIR, AWANA KJV-NKJV, BBFI, CCM KJB church."
+    "description": "NEW WAVERLY TX 77358 CHOIR, AWANA KJV-NKJV, BBFI, CCM KJB church"
   },
   {
     "id": "4994",
     "name": "CASTLEBERRY BAPTIST CHURCH",
-    "address": "",
+    "address": "7 COUPL",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4895,12 +4895,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DON GREENWAY & KEVIN GREENWAY. 1250 JAMES WRIGHT FWY N FORT WORTH TX 76108 820 N @SILVER CREEK RD EXIT, WHITE SETTLEMENT SS 10,SM 11,SN 6,W 7 COUPLES, SINGLES, TEENS, KIDS, NASJRB, FORT WORTH NOT KJV ONLY, CCM, BBF KJB church."
+    "description": "1250 JAMES WRIGHT FWY N FORT WORTH TX 76108 820 N @SILVER CREEK RD EXIT, WHITE SETTLEMENT SS 10,SM 11,SN 6,W ES, SINGLES, TEENS, KIDS, NASJRB, FORT WORTH NOT KJV ONLY, CCM, BBF KJB church"
   },
   {
     "id": "4995",
     "name": "NORTH SIDE BAPTIST CHURCH",
-    "address": "2474 WESTWOOD DR",
+    "address": "2449 MEADOWBROOK RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4908,7 +4908,7 @@ export const texasChurches: Church[] = [
     "longitude": -97.4908,
     "phone": "(325) 673-6243",
     "website": "https://www.facebook.com/NSBCAbileneTX",
-    "pastor": "DANNY WILLIS",
+    "pastor": "NOT KJV ONLY, BBF, BBC-MO, CCM, DRAMA PO BOX 3355; 870 WOODLAWN ABILENE TX 79603 DYESS AFB NOT KJV ONLY, B KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -4916,7 +4916,7 @@ export const texasChurches: Church[] = [
       "BMA",
       "SBC"
     ],
-    "description": "Led by DANNY WILLIS. 2474 WESTWOOD DR ABILENE TX 79603 2449 MEADOWBROOK RD SS 10,SM 11,SN 7,W 730 DYESS AFB PASTOR NOT KJV ONLY, BBF, BBC-MO, CCM, DRAMA PO BOX 3355; 870 WOODLAWN ABILENE TX 79603 DYESS AFB NOT KJV ONLY, B KJB church."
+    "description": "ABILENE TX 79603 SS 10,SM 11,SN 7,W 730 DYESS AFB"
   },
   {
     "id": "4996",
@@ -4934,12 +4934,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by COLTON GRISHAM. 1701 TX 83 LOOP TX 79342 SS 10,SM 1045 NOT KJV ONLY, CONTEMPORARY SERVICES 506 RUNNELS ST MERKEL TX 79536 NOT KJV ONLY, IBFI KJB church."
+    "description": "1701 TX 83 LOOP TX 79342 SS 10,SM 1045 NOT KJV ONLY, CONTEMPORARY SERVICES MERKEL TX 79536 NOT KJV ONLY, IBFI KJB church"
   },
   {
     "id": "4997",
     "name": "MIRACLE FAITH BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 312",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -4952,7 +4952,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN A BRAY. PO BOX 312; 820 TEXAS 276 EMORY TX 75440 SS 9,SM 10,SN 5,W 7 NOT KJV ONLY, BJU, NORTHLAND-BBC, PCC KJB church."
+    "description": "820 TEXAS 276 EMORY TX 75440 SS 9,SM 10,SN 5,W 7 NOT KJV ONLY, BJU, NORTHLAND-BBC, PCC KJB church"
   },
   {
     "id": "4998",
@@ -4989,7 +4989,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CLARENCE MOORE. NOT KJV ONLY 501 COUNTRY RD 24 LAMESA TX 79331 SS 9,SM 10 NOT KJV ONLY, BBF, BBC-MO PO BOX 56; 840 CONNALLY ST SULPHUR SPRINGS TX 75483 NOT KJV ONLY, ARLINGTON-BC PO BOX 725 1609 AVE E CISCO TX 76437  KJB church."
+    "description": "NOT KJV ONLY LAMESA TX 79331 SS 9,SM 10 NOT KJV ONLY, BBF, BBC-MO PO BOX 56; 840 CONNALLY ST SULPHUR SPRINGS TX 75483 NOT KJV ONLY, ARLINGTON-BC PO BOX 725 1609 AVE E CISCO TX 76437 KJB church"
   },
   {
     "id": "5000",
@@ -5026,7 +5026,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by STEVEN MCGEHEE. SS 10,SM 11,SN 5,W 645 NOT KJV ONLY, ABA, MBA KJB church."
+    "description": "SS 10,SM 11,SN 5,W 645 NOT KJV ONLY, ABA, MBA KJB church"
   },
   {
     "id": "5002",
@@ -5045,7 +5045,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RICK ROSS. PO BOX 552; 3900 BAKER DR DICKINSON TX 77539 SS 945,SM 1050,SN 6,W 7 KJB, ARLINGTON-BC, CCM PO BOX 1510; 3116 BORTON LN WICHITA FALLS TX 76307 SS 930,SM 830 & 1030,SN 6,W 7 BUS, YOUTH, TEENS, CHOIR, S"
+    "description": "DICKINSON TX 77539 SS 945,SM 1050,SN 6,W 7 KJB, ARLINGTON-BC, CCM PO BOX 1510; 3116 BORTON LN WICHITA FALLS TX 76307 SS 930,SM 830 & 1030,SN 6,W 7 BUS, YOUTH, TEENS, CHOIR, S"
   },
   {
     "id": "5003",
@@ -5064,12 +5064,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TERRY STRACK. 1520 LAVON DR GARLAND TX 75040 SS 930,SM 1050,SN 6,W 730 SS 930,SM 1050,SN 6,W 730 NOT KJV ONLY, BBF KJB church."
+    "description": "GARLAND TX 75040 SS 930,SM 1050,SN 6,W 730 SS 930,SM 1050,SN 6,W 730 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "5004",
     "name": "GIDEON BAPTIST CHURCH",
-    "address": "8311 FULTON ST",
+    "address": "8311 FULTON ST HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5082,7 +5082,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by NEIL A HIGGINBOTHAM. 8311 FULTON ST HOUSTON TX 77022 BBF, WOMEN OF FAITH,"
+    "description": "ON TX 77022 BBF, WOMEN OF FAITH"
   },
   {
     "id": "5005",
@@ -5100,12 +5100,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SALOMON LARA. RR 2 BOX 306 E BEAUMONT TX 77705 22044 BURRELL WINGATE RD, FANNETT 77705 NOT KJV ONLY,FERMENTED WINE FOR LORD’S SUPPER KJB church."
+    "description": "RR 2 BOX 306 E BEAUMONT TX 77705 , FANNETT 77705 NOT KJV ONLY,FERMENTED WINE FOR LORD’S SUPPER KJB church"
   },
   {
     "id": "5006",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "10250 N FREEWAY",
+    "address": "10250 N FREEWAY HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "10250",
@@ -5118,7 +5118,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAWN DUNIGAN. 10250 N FREEWAY HOUSTON TX 77037 SS 945, SM 11, SN 2, W 7 NOT KJV ONLY, CONTEMPORARY SERVICES, CCM PO BOX 388; 305 N DEAHL BORGER TX 79007 SS 930,SM 1045,SN 6,W 7 CHOIR, PRAISE TEAM, SS 2-ADULT, CHILD KJB church."
+    "description": "ON TX 77037 SS 945, SM 11, SN 2, W 7 NOT KJV ONLY, CONTEMPORARY SERVICES, CCM PO BOX 388; 305 N DEAHL BORGER TX 79007 SS 930,SM 1045,SN 6,W 7 CHOIR, PRAISE TEAM, SS 2-ADULT, CHILD KJB church"
   },
   {
     "id": "5007",
@@ -5137,7 +5137,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by AARON MCNEIL. 8210 S 1ST ST AUSTIN TX  78748 SS 10,SM 11,W 630 BUS, SOULWINNING, TEEN, DEAF, AUDIO SERMONS, BERGSTROM AFB Part 9 NOT KJV ONLY KJB church."
+    "description": "AUSTIN TX 78748 SS 10,SM 11,W 630 BUS, SOULWINNING, TEEN, DEAF, AUDIO SERMONS, BERGSTROM AFB Part 9 NOT KJV ONLY KJB church"
   },
   {
     "id": "5008",
@@ -5156,7 +5156,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by ROY PRAITHER. 901 DEBBIE LN ARLINGTON TX 76002 SS 930,SM 1030,SN 7 NOT KJV ONLY, BMA KJB church."
+    "description": "ARLINGTON TX 76002 SS 930,SM 1030,SN 7 NOT KJV ONLY, BMA KJB church"
   },
   {
     "id": "5009",
@@ -5176,12 +5176,12 @@ export const texasChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by ROGER HICKMAN. PO BOX 1212; 1009 FIFTH ST LEVELLAND TX 79336 SS 945,SM 1050,SN 6,W NOT KJV ONLY, UNAFFILIATED KJB church."
+    "description": "LEVELLAND TX 79336 SS 945,SM 1050,SN 6,W NOT KJV ONLY, UNAFFILIATED KJB church"
   },
   {
     "id": "5010",
     "name": "WHITEHOUSE BAPTIST FELLOWSHIP",
-    "address": "2200 FERELL DR",
+    "address": "4811 W UNIVERSITY DR",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5189,7 +5189,7 @@ export const texasChurches: Church[] = [
     "longitude": -96.2069,
     "phone": "(903) 839-7398",
     "website": "https://whbf.org",
-    "pastor": "CHRIS KNOWLES",
+    "pastor": "EDINBURG TX 78539 SS 10,SM KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -5198,12 +5198,12 @@ export const texasChurches: Church[] = [
       "BMA",
       "SBC"
     ],
-    "description": "Led by CHRIS KNOWLES. 10495 CR 2167 WHITEHOUSE TX  75791 KJV, BBF, WOL, CCM, CONTEMPORARY SERVICES 2200 FERELL DR SEAGOVILLE TX 75159 SS 10,SM 11,SN 630,W 7 NOT KJV ONLY, BMA 4811 W UNIVERSITY DR EDINBURG TX 78539 SS 10,SM KJB church."
+    "description": "10495 CR 2167 WHITEHOUSE TX 75791 KJV, BBF, WOL, CCM, CONTEMPORARY SERVICES SEAGOVILLE TX 75159 SS 10,SM 11,SN 630,W 7 NOT KJV ONLY, BMA EDINBURG TX 78539 SS 10,SM KJB church"
   },
   {
     "id": "5011",
     "name": "SUN VALLEY BAPTIST TEMPLE",
-    "address": "",
+    "address": "7 NORTHEAST CHRIST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5216,7 +5216,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GERALD HAWK. 9901 MCCOMBS EL PASO TX 79924 SS 945,SM 11,SN 630,W 7 NORTHEAST CHRISTIAN ACADEMY,PS-12; FORT BLISS NOT KJV ONLY, BMM KJB church."
+    "description": "9901 MCCOMBS EL PASO TX 79924 SS 945,SM 11,SN 630,W IAN ACADEMY,PS-12; FORT BLISS NOT KJV ONLY, BMM KJB church"
   },
   {
     "id": "5012",
@@ -5234,12 +5234,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JACOB MENDOZA. PO BOX 6657; 2502 KATY HOCKLEY CUT OFF RD KATY TX 77491 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "KATY TX 77491 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY KJB church"
   },
   {
     "id": "5013",
     "name": "HELMERS STREET BAPTIST CHURCH",
-    "address": "7721 HELMERS ST",
+    "address": "7721 HELMERS ST HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5254,7 +5254,7 @@ export const texasChurches: Church[] = [
       "BMA",
       "SBC"
     ],
-    "description": "Led by DOUG HARRIS. 7721 HELMERS ST HOUSTON TX 77022 NOT KJV ONLY 2010 CENTER ST DEER PARK TX 77536 SS 930,SM 1030,SN 6,W 630 NOT KJV ONLY, BMA KJB church."
+    "description": "ON TX 77022 NOT KJV ONLY 2010 CENTER ST DEER PARK TX 77536 SS 930,SM 1030,SN 6,W 630 NOT KJV ONLY, BMA KJB church"
   },
   {
     "id": "5014",
@@ -5273,7 +5273,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by FLOYD KING. 1211 SUBLETT RD ARLINGTON TX 76010 SS 930,SM 1030,SN 6,W 7 KJB, S.GRACE-TULIP, UNAFFILIATED"
+    "description": "ARLINGTON TX 76010 SS 930,SM 1030,SN 6,W 7 KJB, S.GRACE-TULIP, UNAFFILIATED"
   },
   {
     "id": "5015",
@@ -5291,12 +5291,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TU TRAN. PO BOX 4020; 5206 FAIRWAY BLVD WICHITA FALLS TX 76308 SS 945,SM 1050,SN 6,W 7 SHEPPARD AFB NOT KJV ONLY, S.GRACE-TULIP KJB church."
+    "description": "WICHITA FALLS TX 76308 SS 945,SM 1050,SN 6,W 7 SHEPPARD AFB NOT KJV ONLY, S.GRACE-TULIP KJB church"
   },
   {
     "id": "5016",
     "name": "WOODCLIFF BAPTIST CHURCH",
-    "address": "11015 DESSAU RD",
+    "address": "11015 DESSAU RD AUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "11015",
@@ -5310,7 +5310,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by JERRY FULTON. 11015 DESSAU RD AUSTIN TX 78757 SS 945,SM 11,SN 630,W 7 NOT KJV ONLY, BMA PO BOX 188; 201 DALLAS ST RICE TX 75155 SS 10,SM 11,SN 6,W 615 NOT KJV ONLY KJB church."
+    "description": "IN TX 78757 SS 945,SM 11,SN 630,W 7 NOT KJV ONLY, BMA PO BOX 188; 201 DALLAS ST RICE TX 75155 SS 10,SM 11,SN 6,W 615 NOT KJV ONLY KJB church"
   },
   {
     "id": "5017",
@@ -5330,7 +5330,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by DAN BROWER. 854 N HWY 96 PINELAND TX  75968 NOT KJV ONLY, BBF 2829 CLAY MATHIS RD MESQUITE TX 75181-1817 KJB, UNAFFILIATED, TULIP-S.GRACE"
+    "description": "854 N HWY 96 PINELAND TX 75968 NOT KJV ONLY, BBF MESQUITE TX 75181-1817 KJB, UNAFFILIATED, TULIP-S.GRACE"
   },
   {
     "id": "5018",
@@ -5350,12 +5350,12 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by WESLEY BYGEL. 3484 FM 92 SILSBEE TX 77656 SS 10,SM 11,SN 2,W 7 NKJV, KJV, BBF KJB church."
+    "description": "3484 FM 92 SILSBEE TX 77656 SS 10,SM 11,SN 2,W 7 NKJV, KJV, BBF KJB church"
   },
   {
     "id": "5019",
     "name": "LUBBOCK BAPTIST TEMPLE",
-    "address": "6011 HARTFORD",
+    "address": "14400 IMMANUEL RD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5370,12 +5370,12 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by MICHAEL WOOLSTRUM. 6011 HARTFORD LUBBOCK TX 79413 3215 60TH ST SS 945,SM 1030,SN 630,W 7 YOUTH, TEEN PREACHES & TEACHES KJV, NOT KJ  ONLY, BBF 14400 IMMANUEL RD PFLUGERVILLE TX 78660 K-12 ABEKA, AOP ONLINE; LIVE STREAMI KJB church."
+    "description": "LUBBOCK TX 79413 3215 60TH ST SS 945,SM 1030,SN 630,W 7 YOUTH, TEEN PREACHES & TEACHES KJV, NOT KJ ONLY, BBF PFLUGERVILLE TX 78660 K-12 ABEKA, AOP ONLINE; LIVE STREAMI KJB church"
   },
   {
     "id": "5020",
     "name": "HILLBURN DRIVE GRACE BAPTIST CHURCH",
-    "address": "2613 JONES RD",
+    "address": "2613 JONES RD AUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5390,7 +5390,7 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by JIM EVANS. 150 PARADISE VALLEY SAN ANTONIO TX 78227 NOT KJV ONLY, BBF 2613 JONES RD AUSTIN TX 78745 SS 10,SM 11,SN 6,W 7 PO BOX 1028; 617 W 3RD ST DENVER CITY TX 79323-1028 SM 1030,W 7 NOT KJV ONLY, BBF 2973 E H KJB church."
+    "description": "150 PARADISE VALLEY SAN ANTONIO TX 78227 NOT KJV ONLY, BBF IN TX 78745 SS 10,SM 11,SN 6,W 7 PO BOX 1028; 617 W 3RD ST DENVER CITY TX 79323-1028 SM 1030,W 7 NOT KJV ONLY, BBF 2973 E H KJB church"
   },
   {
     "id": "5021",
@@ -5411,7 +5411,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by GEORGE WHITE. 3883 LAKES OF BRIDGEWATER DR KATY TX 77449 BUS, PATCH CLUB, SOULWINNING, TEENS, AUDIO SERMONS; WESTSIDE BAPTIST ACADEMY,K5-12,TRAD,BJU PRESS,ACCS NOT KJV ONLY, BBF, CCM 311 N MADDOX ST DUMAS TX 79029  KJB church."
+    "description": "KATY TX 77449 BUS, PATCH CLUB, SOULWINNING, TEENS, AUDIO SERMONS; WESTSIDE BAPTIST ACADEMY,K5-12,TRAD,BJU PRESS,ACCS NOT KJV ONLY, BBF, CCM 311 N MADDOX ST DUMAS TX 79029 KJB church"
   },
   {
     "id": "5022",
@@ -5430,7 +5430,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by STEVE COWART. 14010 N US HWY 59 NACOGDOCHES TX 75964 SS 10, SM 1045, SN 7, W 7 AUDIO SERMONS & MUSIC NOT KJV ONLY, BBFI, BBC-MO 2909 E LUFKIN AVE LUFKIN TX 75901 SS 930,SM 1030,SN 6,W 7 CHOIR, HANDBELL S.GRACE, BBF KJB church."
+    "description": "14010 N US HWY 59 NACOGDOCHES TX 75964 SS 10, SM 1045, SN 7, W 7 AUDIO SERMONS & MUSIC NOT KJV ONLY, BBFI, BBC-MO LUFKIN TX 75901 SS 930,SM 1030,SN 6,W 7 CHOIR, HANDBELL S.GRACE, BBF KJB church"
   },
   {
     "id": "5023",
@@ -5448,7 +5448,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRANDON CARTER. PO BOX 431; 4501 PEPPERTREE RD GRANBURY TX 76048 PREACH KJV, STUDY OTHERS KJB church."
+    "description": "GRANBURY TX 76048 PREACH KJV, STUDY OTHERS KJB church"
   },
   {
     "id": "5024",
@@ -5466,7 +5466,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by SETH SEALE. 3303 W FM 5 ANNETTA TX 76008 BBF, CONTEMPORARY"
+    "description": "3303 W FM 5 ANNETTA TX 76008 BBF, CONTEMPORARY"
   },
   {
     "id": "5025",
@@ -5486,12 +5486,12 @@ export const texasChurches: Church[] = [
       "Soulwinning",
       "BMA"
     ],
-    "description": "Led by MIKE WAITS. PO BOX 570; 200 AVE P SUNRAY TX 79086 NOT KJV ONLY PO BOX 207; 400 E MOWRY CRANDALL TX 75114 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING TULIP-S.GRACE 10390#1 O’BRIEN RD ATASCOSA TX 78002 SS 930,SM 11,W 73 KJB church."
+    "description": "SUNRAY TX 79086 NOT KJV ONLY PO BOX 207; 400 E MOWRY CRANDALL TX 75114 SS 945,SM 11,SN 6,W 7 BUS, SOULWINNING TULIP-S.GRACE 10390#1 O’BRIEN RD ATASCOSA TX 78002 SS 930,SM 11,W 73 KJB church"
   },
   {
     "id": "5026",
     "name": "FAIRVIEW BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 151826",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5504,7 +5504,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 151826; 3742 FM 2108 LUFKIN TX 75915"
+    "description": "3742 FM 2108 LUFKIN TX 75915"
   },
   {
     "id": "5027",
@@ -5524,7 +5524,7 @@ export const texasChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by STEVE MCSWAIN. SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, WBF, BBC-MO 1119 W SHADY GROVE IRVING TX 75060 3434 W ROCHELLE SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, CCM PO BOX 8499; 6824 RANDOL MILL RD FORT WORTH TX 76124  KJB church."
+    "description": "SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, WBF, BBC-MO 1119 W SHADY GROVE IRVING TX 75060 3434 W ROCHELLE SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBF, CCM FORT WORTH TX 76124 KJB church"
   },
   {
     "id": "5028",
@@ -5543,12 +5543,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BILL CAMPBELL. 402 W SCHARBAUER DR MIDLAND TX 79705 NOT KJV ONLY, BBF, BBC-MO, BBC-MA KJB church."
+    "description": "MIDLAND TX 79705 NOT KJV ONLY, BBF, BBC-MO, BBC-MA KJB church"
   },
   {
     "id": "5029",
     "name": "CYPRESS CREEK BAPTIST CHURCH",
-    "address": "21870 HEMPSTEAD HWY",
+    "address": "21870 HEMPSTEAD HWY HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "21870",
@@ -5561,7 +5561,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CURTIS BLAKE. 21870 HEMPSTEAD HWY HOUSTON TX 77040 CYPRESS AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, ARLINGTON-BC, CCM 3155 PINE MILL RD PARIS TX 75460 SS 9,SM 10,SN 630,W 7 S.GRACE-TULIP"
+    "description": "ON TX 77040 CYPRESS AREA SS 10,SM 11,SN 6,W 7 AUDIO SERMONS KJB, ARLINGTON-BC, CCM 3155 PINE MILL RD PARIS TX 75460 SS 9,SM 10,SN 630,W 7 S.GRACE-TULIP"
   },
   {
     "id": "5030",
@@ -5582,12 +5582,12 @@ export const texasChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by JEFF ARMSTRONG. RT 1 FM 3389 DIVIDE COMMUNITY SHIRLEY BRASHEAR TX 75420 NKJV, BMA PO BOX 548; 230 S MARKET CARTHAGE TX 75633 SS 915 & 945,SM 850 & 1050,SN 6,W 7 ESV, FBF, ROLOFF 4301 N SHARY RD MISSION TX 78572 SS 93 KJB church."
+    "description": "RT 1 FM 3389 DIVIDE COMMUNITY SHIRLEY BRASHEAR TX 75420 NKJV, BMA PO BOX 548; 230 S MARKET CARTHAGE TX 75633 SS 915 & 945,SM 850 & 1050,SN 6,W 7 ESV, FBF, ROLOFF 4301 N SHARY RD MISSION TX 78572 SS 93 KJB church"
   },
   {
     "id": "5031",
     "name": "MEADOWCREEK BAPTIST CHURCH",
-    "address": "2403 BEDFORD DR",
+    "address": "2403 BEDFORD DR BEDFORD",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5602,7 +5602,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by MICHAEL MCARTHUR. 2403 BEDFORD DR BEDFORD TX 76021 DALLAS FORT WORTH AREA SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY, BBF, ABA KJB church."
+    "description": "TX 76021 DALLAS FORT WORTH AREA SS 930,SM 1030,SN 630,W 7 NOT KJV ONLY, BBF, ABA KJB church"
   },
   {
     "id": "5032",
@@ -5620,12 +5620,12 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by DAVID PLEDGER. 14998 FM 139 SHELBYVILLE TX 75973 SS 945,SM 11,SN 5,W 7 S.GRACE-TULIP"
+    "description": "14998 FM 139 SHELBYVILLE TX 75973 SS 945,SM 11,SN 5,W 7 S.GRACE-TULIP"
   },
   {
     "id": "5033",
     "name": "LINCOLNWOOD BAPTIST CHURCH",
-    "address": "11803 ADEL RD",
+    "address": "11803 ADEL RD HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "11803",
@@ -5642,7 +5642,7 @@ export const texasChurches: Church[] = [
       "ABA",
       "Independent"
     ],
-    "description": "Led by BRADLEY JOHNSON. 11803 ADEL RD HOUSTON TX 77067 SS 10,SM 1045,SN 6,W 7 AUDIO SERMONS, TV-KPBX/49 NOT KJV ONLY, BBF, CCM 1814 W ARKANSAS LN ARLINGTON TX 76013 SS 9,SM 10,W 7 AWANA,WOF PREACH KJV,STUDY OTHERS, UNAFFILIA KJB church."
+    "description": "ON TX 77067 SS 10,SM 1045,SN 6,W 7 AUDIO SERMONS, TV-KPBX/49 NOT KJV ONLY, BBF, CCM 1814 W ARKANSAS LN ARLINGTON TX 76013 SS 9,SM 10,W 7 AWANA,WOF PREACH KJV,STUDY OTHERS, UNAFFILIA KJB church"
   },
   {
     "id": "5034",
@@ -5661,7 +5661,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JOE REED. 15555 W AIRPORT RD SUGAR LAND TX 77478 SS 930,SM 1030,SN 6,W 7 KJB, CCM 490 GRAND ST VIDOR TX 77662 SS 945,SM 11,SN 6,W 630 AWANA, TEENS NOT KJV ONLY, ABA"
+    "description": "SUGAR LAND TX 77478 SS 930,SM 1030,SN 6,W 7 KJB, CCM 490 GRAND ST VIDOR TX 77662 SS 945,SM 11,SN 6,W 630 AWANA, TEENS NOT KJV ONLY, ABA"
   },
   {
     "id": "5035",
@@ -5680,12 +5680,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by JEREMY FRANKLIN. 2102 W LANG ST ALVIN TX 77511 NOT KJV ONLY, CCM-ROCK, BMAA KJB church."
+    "description": "ALVIN TX 77511 NOT KJV ONLY, CCM-ROCK, BMAA KJB church"
   },
   {
     "id": "5036",
     "name": "LAKERIDGE BAPTIST CHURCH",
-    "address": "4601 82ND ST",
+    "address": "7 PIONEER CLUBS NEEDS PAST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "",
@@ -5698,7 +5698,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LYNDEL LEE SR. 4601 82ND ST LUBBOCK TX 79424 SS 930,SM 1040,SN 6,W 7 PIONEER CLUBS NEEDS PASTOR PREACH KJV, NOT KJV ONLY 2715 INGRAM RD SACHSE TX 75048 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBC-MO, CCM, ARLINGTON-BC KJB church."
+    "description": "4601 82ND ST LUBBOCK TX 79424 SS 930,SM 1040,SN 6,W OR PREACH KJV, NOT KJV ONLY 2715 INGRAM RD SACHSE TX 75048 SS 945,SM 11,SN 6,W 7 NOT KJV ONLY, BBC-MO, CCM, ARLINGTON-BC KJB church"
   },
   {
     "id": "5037",
@@ -5716,7 +5716,7 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3737 TANGLEWOOD LN ODESSA TX 79762"
+    "description": "ODESSA TX 79762"
   },
   {
     "id": "5038",
@@ -5735,7 +5735,7 @@ export const texasChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ERIC DOUCET. SS 10,SM 1050,SN 6,W 7 NKJV, BBC-MO, BBC-MA KJB church."
+    "description": "SS 10,SM 1050,SN 6,W 7 NKJV, BBC-MO, BBC-MA KJB church"
   },
   {
     "id": "5039",
@@ -5748,7 +5748,7 @@ export const texasChurches: Church[] = [
     "longitude": -98.2646,
     "phone": "(979) 696-6000",
     "website": "http://texasavenue.org",
-    "pastor": "JOHN FLETCHER",
+    "pastor": "ARLINGTON TX 76013 SS 94 KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -5757,7 +5757,7 @@ export const texasChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by JOHN FLETCHER. 3400 HWY 6 S COLLEGE STATION TX 77845 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, BBF, CCM 2910 LAYTON AVE FORT WORTH TX 76117 SS 945,SM 11,SN 630,W 7 KJV, NKJV, BMA 2101 S DAVIS DR ARLINGTON TX 76013 SS 94 KJB church."
+    "description": "3400 HWY 6 S COLLEGE STATION TX 77845 SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY, BBF, CCM FORT WORTH TX 76117 SS 945,SM 11,SN 630,W 7 KJV, NKJV, BMA 2101 S DAVIS DR ARLINGTON TX 76013 SS 94 KJB church"
   },
   {
     "id": "5040",
@@ -5776,12 +5776,12 @@ export const texasChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by SALVADOR ALVAREZ. 332 TEXAS ST CEDAR HILL, TX 75104 KJB, POST-TRIB,STEVE ANDERSON"
+    "description": "CEDAR HILL, TX 75104 KJB, POST-TRIB,STEVE ANDERSON"
   },
   {
     "id": "5041",
     "name": "PURE WORDS BAPTIST CHURCH",
-    "address": "14567 MAIN ST",
+    "address": "14567 MAIN ST HOUST",
     "city": "Austin",
     "state": "TX",
     "zipCode": "14567",
@@ -5794,6 +5794,6 @@ export const texasChurches: Church[] = [
     "affiliation": [
       "Soulwinning"
     ],
-    "description": "14567 MAIN ST HOUSTON TX 77035 SOULWINNING"
+    "description": "ON TX 77035 SOULWINNING"
   }
 ];

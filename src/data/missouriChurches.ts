@@ -18,7 +18,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KENNETH V OSTER. 8366 W STATE HWY 266 SPRINGFIELD MO 65802 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "SPRINGFIELD MO 65802 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2559",
@@ -36,7 +36,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT FRY. 13345 TT HWY REPUBLIC MO 65738 SS 10,SM 11,SN 630,W 630 KJB church."
+    "description": "13345 TT HWY REPUBLIC MO 65738 SS 10,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "2560",
@@ -54,7 +54,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TERRY FAULKNER. 306 SE WILSON ST LEE’S SUMMIT MO 64063 SS 930,SM 1030,SN 4,W 7 KJB church."
+    "description": "LEE’S SUMMIT MO 64063 SS 930,SM 1030,SN 4,W 7 KJB church"
   },
   {
     "id": "2561",
@@ -67,13 +67,13 @@ export const missouriChurches: Church[] = [
     "longitude": -92.176,
     "phone": "(417) 754-8807",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "280 E 380TH RD DUNNEGAN MO 65640 SS 10, SM 11,W 7 BUS, KINGS KIDS, SOULWINNING, PREACHING CDS NEEDS PASTOR KJB church."
+    "description": "DUNNEGAN MO 65640 SS 10, SM 11,W 7 BUS, KINGS KIDS, SOULWINNING, PREACHING CDS NEEDS"
   },
   {
     "id": "2562",
@@ -92,7 +92,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DUANE HAMPTON. 815 ELM ST CHILLICOTHE MO 64601 SS 10, SM 11 KJB, UNAFFILIATED"
+    "description": "CHILLICOTHE MO 64601 SS 10, SM 11 KJB, UNAFFILIATED"
   },
   {
     "id": "2563",
@@ -111,7 +111,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by LARRY L SPARKS. 202 N STATE ST DESLOGE MO 63601 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
+    "description": "DESLOGE MO 63601 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2564",
@@ -129,12 +129,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSH WRIGHT. 712 E 32ND ST SUITE 1 JOPLIN MO 64804 SM 1030,SN 5,W 6 KJB church."
+    "description": "JOPLIN MO 64804 SM 1030,SN 5,W 6 KJB church"
   },
   {
     "id": "2565",
     "name": "RIVERSIDE BAPTIST CHURCH",
-    "address": "14088 CLAYTON RD",
+    "address": "14088 CLAYTON RD CHEST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "14088",
@@ -147,12 +147,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHANE HUGHES. PO BOX 4183 14088 CLAYTON RD CHESTERFIELD MO 63017 SM 230, W 7 KJB church."
+    "description": "PO BOX 4183 ERFIELD MO 63017 SM 230, W 7 KJB church"
   },
   {
     "id": "2566",
     "name": "BEREAN BAPTIST CHURCH",
-    "address": "600 N OLD ORCHARD DR",
+    "address": "600 N OLD ORCHARD DR STRAFFORD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -165,7 +165,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDDIE MARTIN. PO BOX 132 600 N OLD ORCHARD DR STRAFFORD MO 65757 SS 10, SM 11,SN 6, W 7 KJB church."
+    "description": "PO BOX 132 MO 65757 SS 10, SM 11,SN 6, W 7 KJB church"
   },
   {
     "id": "2567",
@@ -178,12 +178,12 @@ export const missouriChurches: Church[] = [
     "longitude": -93.1651,
     "phone": "(417) 548-3591",
     "website": "",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "1205 HIGH ST SARCOXIE MO 64862 NEEDS PASTOR KJB church."
+    "description": "SARCOXIE MO 64862 NEEDS"
   },
   {
     "id": "2568",
@@ -202,7 +202,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MIKE MILLER. 5000 E BARBARA ST ROGERSVILLE MO 65742 SM 1030,SN 5,TU 7 KJB, UNAFFILIATED"
+    "description": "ROGERSVILLE MO 65742 SM 1030,SN 5,TU 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2569",
@@ -221,7 +221,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID OATES. PO BOX 532 3 S CANE AVE ELLSINORE MO 63937 SM 1030, SN 6, W 7 AUDIO SERMONS , RADIO KJB, UNAFFILIATED"
+    "description": "PO BOX 532 ELLSINORE MO 63937 SM 1030, SN 6, W 7 AUDIO SERMONS , RADIO KJB, UNAFFILIATED"
   },
   {
     "id": "2570",
@@ -240,12 +240,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RICK TONEY. PO BOX 207 113 S CENTRAL AVE MARIONVILLE MO 65705 SS 10, SM 11, W 7 1097 E MO 176 GALENA MO 65656 SM 1030,SN 6,W 6 KJB, UNAFFILIATED"
+    "description": "PO BOX 207 MARIONVILLE MO 65705 SS 10, SM 11, W 7 1097 E MO 176 GALENA MO 65656 SM 1030,SN 6,W 6 KJB, UNAFFILIATED"
   },
   {
     "id": "2571",
     "name": "LIGHTHOUSE BIBLE BAPTIST CHURCH",
-    "address": "2826 INDEPENDENCE ST",
+    "address": "2 MILES FROM SOUTHEAST MISSOURI ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -259,7 +259,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by BRADLEY FRIESEN. 2826 INDEPENDENCE ST CAPE GIRARDEAU MO 63703 SS 10,SM 11,SN 6,W 7 2 MILES FROM SOUTHEAST MISSOURI STATE UNIVERSITY KJB church."
+    "description": "EAU MO 63703 SS 10,SM 11,SN 6,W 7 ATE UNIVERSITY KJB church"
   },
   {
     "id": "2572",
@@ -277,7 +277,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ELMO PARKER. 7676 COUNTY RD 200 JOPLIN MO 64801 KJB church."
+    "description": "JOPLIN MO 64801 KJB church"
   },
   {
     "id": "2573",
@@ -313,7 +313,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY SCHMIDT. KJB, ROA"
+    "description": "KJB, ROA"
   },
   {
     "id": "2575",
@@ -331,7 +331,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT KAISER. 1812 E MCCARTY ST JEFFERSON CITY MO 65101 SS 930,SM 1030,SN 630,TH 7 REFORMERS UNANIMOUS, TEEN, LADIES, BUS, JR CHURCH, AUDIO SERMONS, AWANA KJB church."
+    "description": "JEFFERSON CITY MO 65101 SS 930,SM 1030,SN 630,TH 7 REFORMERS UNANIMOUS, TEEN, LADIES, BUS, JR CHURCH, AUDIO SERMONS, AWANA KJB church"
   },
   {
     "id": "2576",
@@ -350,7 +350,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DARREN THARP. 5640 OLD ROUTE 21 IMPERIAL MO 63052 SS 945, SM 1030, SN 6, W 7 SOULWINNING, BUS, LADIES BIBLE STUDY, NURSERY, JR CHURCH KJB, TRADITIONAL MUSIC, MIDWESTERN-BC GRAD 18000 E LEXINGTON RD INDEPENDENCE MO"
+    "description": "5640 OLD ROUTE 21 IMPERIAL MO 63052 SS 945, SM 1030, SN 6, W 7 SOULWINNING, BUS, LADIES BIBLE STUDY, NURSERY, JR CHURCH KJB, TRADITIONAL MUSIC, MIDWESTERN-BC GRAD INDEPENDENCE MO"
   },
   {
     "id": "2577",
@@ -368,12 +368,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEREK ECKELS.  KJB church."
+    "description": "KJB church"
   },
   {
     "id": "2578",
     "name": "CALVARY BAPTIST CHURCH",
-    "address": "206 SMALLEY ST",
+    "address": "507 E NORTON RD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -386,12 +386,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFFREY E ABLES. PO BOX 456 206 SMALLEY ST NIXA MO 65714 SS 10,SM 11,SN 6,W 7 KJB, HBBC, PRE-MIL 507 E NORTON RD SPRINGFIELD MO 65803 SS 10,SM 11,SN 6, FREE BIBLE COURSES,AUDIO SERMONS, BIBLE INSTITUTE COURSES, BUS, T"
+    "description": "PO BOX 456 NIXA MO 65714 SS 10,SM 11,SN 6,W 7 KJB, HBBC, PRE-MIL SPRINGFIELD MO 65803 SS 10,SM 11,SN 6, FREE BIBLE COURSES,AUDIO SERMONS, BIBLE INSTITUTE COURSES, BUS, T"
   },
   {
     "id": "2579",
     "name": "KETHA HEIGHTS BAPTIST CHURCH",
-    "address": "3479 FRONTIER RD",
+    "address": "3479 FRONTIER RD FEST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -404,7 +404,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHANE MALLARD. 3479 FRONTIER RD FESTUS MO 63028 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "US MO 63028 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2580",
@@ -423,7 +423,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOHN MAGAS. 401 N ONE MILE RD DEXTER MO 63841 SS 945,SM 1045,SN 6,W 7 KJB, OBC, UNAFFILIATED"
+    "description": "DEXTER MO 63841 SS 945,SM 1045,SN 6,W 7 KJB, OBC, UNAFFILIATED"
   },
   {
     "id": "2581",
@@ -441,7 +441,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BART W GOETZ. 9916 NW HWY 45 PARKVILLE MO 64152 (NW KANSAS CITY, MO) SM1030, SN 6, W 7 KJB church."
+    "description": "9916 NW HWY 45 PARKVILLE MO 64152 (NW KANSAS CITY, MO) SM1030, SN 6, W 7 KJB church"
   },
   {
     "id": "2582",
@@ -459,7 +459,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL GARN. 625 BURKS RD (HWY EE) FARMINGTON MO 63640 PROPHETS CHAMBER SS 10,SM 11,SN 6,W 7 KJB, MIDWESTERN-BC"
+    "description": "FARMINGTON MO 63640 PROPHETS CHAMBER SS 10,SM 11,SN 6,W 7 KJB, MIDWESTERN-BC"
   },
   {
     "id": "2583",
@@ -477,7 +477,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN REEVES. 9719 MIDLAND OVERLAND MO 63114 SS 10,SM 11,SN 630,W 730 TEXT SERMONS KJB, IBFI,PRE-MIL"
+    "description": "9719 MIDLAND OVERLAND MO 63114 SS 10,SM 11,SN 630,W 730 TEXT SERMONS KJB, IBFI,PRE-MIL"
   },
   {
     "id": "2584",
@@ -496,7 +496,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DENNIS NORWOOD. 15905 HWY 64 LEBANON MO 65536 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
+    "description": "15905 HWY 64 LEBANON MO 65536 SS 10,SM 11,SN 6,W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "2585",
@@ -516,12 +516,12 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TIM MILLER. 2101 N JOHNSTON RD SPRINGFIELD MO  65803 SS 10,SM 11,SN 630,W 7 4001 HWY 5 NEW FRANKLIN MO 65274 SS 930,SM 1030,SN 6,W 7 BUS, TEEN, YOUTH, SOULWINNING; GRACE N GLORY CHRISTIAN ACADEMY,K-12 2316 CR 159 KJB church."
+    "description": "SPRINGFIELD MO 65803 SS 10,SM 11,SN 630,W 7 4001 HWY 5 NEW FRANKLIN MO 65274 SS 930,SM 1030,SN 6,W 7 BUS, TEEN, YOUTH, SOULWINNING; GRACE N GLORY CHRISTIAN ACADEMY,K-12 2316 CR 159 KJB church"
   },
   {
     "id": "2586",
     "name": "MIDWAY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 33",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -534,7 +534,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAN ROBERTS. PO BOX 33 21383 US HWY 136 UNIONVILLE MO 63565 KJB church."
+    "description": "21383 US HWY 136 UNIONVILLE MO 63565 KJB church"
   },
   {
     "id": "2587",
@@ -552,12 +552,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LAVERN WILLIFORD. 300 E CLEMENT ST DESOTO MO 63020 KJB church."
+    "description": "DESOTO MO 63020 KJB church"
   },
   {
     "id": "2588",
     "name": "MT ZION BAPTIST CHURCH",
-    "address": "",
+    "address": "65109 MT ZION CHRIST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -570,7 +570,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ED KEITHLEY. 7422 HERITAGE HWY JEFFERSON CITY MO 65109 MT ZION CHRISTIAN SCHOOL KJB church."
+    "description": "7422 HERITAGE HWY JEFFERSON CITY MO IAN SCHOOL KJB church"
   },
   {
     "id": "2589",
@@ -589,7 +589,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TOM SAUNDERS. PO BOX 112 1530 N 18TH ST OZARK MO 65721 SS 10,SM 11,SN 130,W 7 KINGS KIDS KJB, UNAFFILIATED 15493 HWY A PHILLIPSBURG MO 65722 LEBANON, MARSHFIELD, CONWAY AREAS"
+    "description": "PO BOX 112 OZARK MO 65721 SS 10,SM 11,SN 130,W 7 KINGS KIDS KJB, UNAFFILIATED 15493 HWY A PHILLIPSBURG MO 65722 LEBANON, MARSHFIELD, CONWAY AREAS"
   },
   {
     "id": "2590",
@@ -608,12 +608,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DENNIS ULREY. 610 S EISENHOWER ST MONETT MO 65708 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED, CONSERVATIVE, TRADITIONAL SERVICE, OLD FASHIONED HYMNS"
+    "description": "MONETT MO 65708 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED, CONSERVATIVE, TRADITIONAL SERVICE, OLD FASHIONED HYMNS"
   },
   {
     "id": "2591",
     "name": "HOUSTON BIBLE BAPTIST CHURCH",
-    "address": "16700 OAK HILL RD",
+    "address": "16700 OAK HILL RD HOUST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "16700",
@@ -627,12 +627,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DELBERT DAVIS. 16700 OAK HILL RD HOUSTON MO 65483 SS 10,SM 11,SN 6,W 7 KJB, BBF"
+    "description": "ON MO 65483 SS 10,SM 11,SN 6,W 7 KJB, BBF"
   },
   {
     "id": "2592",
     "name": "TALKING ROCK ROAD BAPTIST CHURCH",
-    "address": "1106 TALKING ROCKS RD",
+    "address": "1106 TALKING ROCKS RD BRANSON WEST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -646,7 +646,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ALVIN SIPE. PO BOX 1026 1106 TALKING ROCKS RD BRANSON WEST MO 65737 MIDWEST BEARING PRECIOUS SEED / SEEDLINE, MASTER’S CLUB KJB, BBF 3304 S INGRAM SEDALIA MO 65301 SS 945,SM 1045,SN 6,W 7 KJB, T.R. , CONSERVATIVE"
+    "description": "PO BOX 1026 MO 65737 MIDWEST BEARING PRECIOUS SEED / SEEDLINE, MASTER’S CLUB KJB, BBF 3304 S INGRAM SEDALIA MO 65301 SS 945,SM 1045,SN 6,W 7 KJB, T.R. , CONSERVATIVE"
   },
   {
     "id": "2593",
@@ -666,7 +666,7 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by JAMES BROOKS. 8000 W FARM RD 140 SPRINGFIELD MO 65802 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, SOULWINNING, DISCIPLESHIP, TEEN GROUP, KINGS KIDS KJB, BBF"
+    "description": "SPRINGFIELD MO 65802 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS, SOULWINNING, DISCIPLESHIP, TEEN GROUP, KINGS KIDS KJB, BBF"
   },
   {
     "id": "2594",
@@ -703,7 +703,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BOBBY ROGERS. KJB, UNAFFILIATED"
+    "description": "KJB, UNAFFILIATED"
   },
   {
     "id": "2596",
@@ -721,7 +721,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "413 GREGORY BLVD TIPTON MO 65081"
+    "description": "TIPTON MO 65081"
   },
   {
     "id": "2597",
@@ -739,12 +739,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ADAM WEBB. SS 945,SM 1045,SN 6,W 7 AWANA, TAPE, SENIORS, TEENS, AUDIO SERMONS KJB church."
+    "description": "SS 945,SM 1045,SN 6,W 7 AWANA, TAPE, SENIORS, TEENS, AUDIO SERMONS KJB church"
   },
   {
     "id": "2598",
     "name": "BLESSED HOPE BAPTIST CHURCH",
-    "address": "1710 DOUBET RD",
+    "address": "4730 COUNTRY CLUB DR",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -752,7 +752,7 @@ export const missouriChurches: Church[] = [
     "longitude": -91.1955,
     "phone": "(573) 366-6966",
     "website": "http://www.blessedhopebaptist.org",
-    "pastor": "RANDY DIGNAN",
+    "pastor": "JEFFERSON CITY MO 64058 PHY KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
@@ -760,12 +760,12 @@ export const missouriChurches: Church[] = [
       "BMA",
       "Independent"
     ],
-    "description": "Led by RANDY DIGNAN. 1710 DOUBET RD FARMINGTON MO 63640 SS 930,SM 1030,SN 6,W 6 SOULWINNING, PATCH PIRATE, JAIL, SENIOR SAINTS, PROPHETS CHAMBER, JUVENILE DETENTION, LADIES 4730 COUNTRY CLUB DR JEFFERSON CITY MO 64058 PHY KJB church."
+    "description": "FARMINGTON MO 63640 SS 930,SM 1030,SN 6,W 6 SOULWINNING, PATCH PIRATE, JAIL, SENIOR SAINTS, PROPHETS CHAMBER, JUVENILE DETENTION, LADIES JEFFERSON CITY MO 64058 PHY KJB church"
   },
   {
     "id": "2599",
     "name": "MERAMEC VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "6 MARAMEC VALLEY CHRIST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -778,7 +778,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by HYLTON LAWRENCE. PO BOX 566 SULLIVAN MO 63080 SS 10,SM 11,SN 6,W 6 MARAMEC VALLEY CHRISTIAN SCHOOL,PS-12,AACS KJB church."
+    "description": "PO BOX 566 SULLIVAN MO 63080 SS 10,SM 11,SN 6,W IAN SCHOOL,PS-12,AACS KJB church"
   },
   {
     "id": "2600",
@@ -796,12 +796,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CALVIN HINES. 17902 WHITNEY RD INDEPENDENCE MO 64058 SS 945,SM 1045,SN 6,W 7 KJB church."
+    "description": "INDEPENDENCE MO 64058 SS 945,SM 1045,SN 6,W 7 KJB church"
   },
   {
     "id": "2601",
     "name": "CORNERSTONE BAPTIST CHURCH",
-    "address": "17402 N 112 ST",
+    "address": "1125 WAGGONER JOPL",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "17402",
@@ -814,7 +814,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF J HASTINGS. 17402 N 112 ST LIBERTY MO 64068 SS 10, SM 11, SN 6, W 7 BUS, YOUTH; CORNERSTONE BAPTIST ACADEMY, K-12 ACE KJB, UNAFFLIATED 7201 E HWY WW COLUMBIA MO 65201 SS 10,SM 11,SN 6,W 7 1125 WAGGONER JOPLIN MO"
+    "description": "17402 N 112 ST LIBERTY MO 64068 SS 10, SM 11, SN 6, W 7 BUS, YOUTH; CORNERSTONE BAPTIST ACADEMY, K-12 ACE KJB, UNAFFLIATED 7201 E HWY WW COLUMBIA MO 65201 SS 10,SM 11,SN 6,W 7 IN MO"
   },
   {
     "id": "2602",
@@ -832,7 +832,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK VELDER. 1010 W BURTON ST KIRKSVILLE MO 63501 SS 10,SM 11,SN 630,W 630 BUS, AUDIO SERMONS KJB, UNAFFILATED, RUCKMAN"
+    "description": "KIRKSVILLE MO 63501 SS 10,SM 11,SN 630,W 630 BUS, AUDIO SERMONS KJB, UNAFFILATED, RUCKMAN"
   },
   {
     "id": "2603",
@@ -851,12 +851,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICK JOHNSON. 19702 E OLD LEXINGTON RD INDEPENDENCE MO 64058 SS 945,SM 11,SN 6,W 7 SOULWINNING, STREET PREACHING, DOOR KNOCKING, BIBLE CLUB FOR KIDS KJB church."
+    "description": "INDEPENDENCE MO 64058 SS 945,SM 11,SN 6,W 7 SOULWINNING, STREET PREACHING, DOOR KNOCKING, BIBLE CLUB FOR KIDS KJB church"
   },
   {
     "id": "2604",
     "name": "FIRST BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 864",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -870,7 +870,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ROBERT SORENSEN. PO BOX 864 1441 SE ADAMS DAIRY PKWY BLUE SPRINGS MO 64013 KJB, UNAFFILIATED"
+    "description": "1441 SE ADAMS DAIRY PKWY BLUE SPRINGS MO 64013 KJB, UNAFFILIATED"
   },
   {
     "id": "2605",
@@ -889,7 +889,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MATT STAHLMAN. PO BOX 757 302 VALENTINE RD AVA MO 65608 SS 10,SM 11,SN 6,W 7 KJB, UNAFILLIATED 2525 N 14TH ST POPLAR BLUFF MO 63901 SM 1030,SN 6,TH 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 757 AVA MO 65608 SS 10,SM 11,SN 6,W 7 KJB, UNAFILLIATED 2525 N 14TH ST POPLAR BLUFF MO 63901 SM 1030,SN 6,TH 7 KJB, UNAFFILIATED"
   },
   {
     "id": "2606",
@@ -909,12 +909,12 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by MIKE LEONARD. 4501 PITTMAN RD KANSAS CITY MO 64133 SS 10,SM 11,SN 6,W 7,SAT SW 10 BUS, TEEN, SOULWINNING, KINGS KIDS, RICHARDS GEBAUER KJB, HAC"
+    "description": "KANSAS CITY MO 64133 SS 10,SM 11,SN 6,W 7,SAT SW 10 BUS, TEEN, SOULWINNING, KINGS KIDS, RICHARDS GEBAUER KJB, HAC"
   },
   {
     "id": "2607",
     "name": "MID-AMERICA BAPTIST CHURCH",
-    "address": "328 2ND ST",
+    "address": "401 MAIDEN LANE",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -929,7 +929,7 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by JASON BELL. 328 2ND ST WINFIELD MO 63389 SS 930,SM 1030,SN 630,W 7 HYMNS, SOULWINNING, SENIOR LIVING, PATCH CLUB, TEEN 401 MAIDEN LANE CUBA MO 65453 SS 10,SM 11,SN 630,W 705 BUS, NURSING, TRUCK DRIVERS KJB, UNAFF"
+    "description": "328 2ND ST WINFIELD MO 63389 SS 930,SM 1030,SN 630,W 7 HYMNS, SOULWINNING, SENIOR LIVING, PATCH CLUB, TEEN CUBA MO 65453 SS 10,SM 11,SN 630,W 705 BUS, NURSING, TRUCK DRIVERS KJB, UNAFF"
   },
   {
     "id": "2608",
@@ -947,7 +947,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT REAGAN. 829 W ST JOSEPH ST PERRYVILLE MO 63775 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PERRYVILLE MO 63775 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2609",
@@ -966,12 +966,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MICHAEL MCDOWELL. RR 2 BOX 153A 2860 HWY W SUMMERSVILLE MO 65571 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED 17617 MANCHESTER RD WILDWOOD MO 63038"
+    "description": "RR 2 BOX 153A 2860 HWY W SUMMERSVILLE MO 65571 SS 10,SM 11,SN 7,W 7 KJB, UNAFFILIATED WILDWOOD MO 63038"
   },
   {
     "id": "2610",
     "name": "CORNERSTONEBAPTIST",
-    "address": "",
+    "address": "7 NEEDS PAST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -985,7 +985,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by EDWARD J BRAGG. SS 930, SM 1030, SN 6, W 7 NEEDS PASTOR 799 E US HWY 160 LAMAR MO 64759 SS 10, SM11, SN 6, W 6 AUDIO SERMONS, SOULWINNING - DISCIPLESHIP KJB church."
+    "description": "SS 930, SM 1030, SN 6, W OR 799 E US HWY 160 LAMAR MO 64759 SS 10, SM11, SN 6, W 6 AUDIO SERMONS, SOULWINNING - DISCIPLESHIP KJB church"
   },
   {
     "id": "2611",
@@ -1004,7 +1004,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by ROBERT L MORGAN. 18810 HWY 100 PACIFIC MO 63069 IN THE WILDWOOD AREA SS 935,SM 1030,SN 6,W 730 KINGS KIDS; LAFAYETTE BIBLE BAPTIST ACADEMY,K4-12,A-BEKA; BIBLE INSTITUTE KJB church."
+    "description": "18810 HWY 100 PACIFIC MO 63069 IN THE WILDWOOD AREA SS 935,SM 1030,SN 6,W 730 KINGS KIDS; LAFAYETTE BIBLE BAPTIST ACADEMY,K4-12,A-BEKA; BIBLE INSTITUTE KJB church"
   },
   {
     "id": "2612",
@@ -1022,12 +1022,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DONALD R BALL JR. PO BOX 676 17534 STATE HIGHWAY 96 CARTHAGE MO 64836 SS 10,SM 11,SN 6,W 730 KJB, HBBC"
+    "description": "PO BOX 676 CARTHAGE MO 64836 SS 10,SM 11,SN 6,W 730 KJB, HBBC"
   },
   {
     "id": "2613",
     "name": "TABERNACLE BAPTIST CHURCH",
-    "address": "929 SPRINGFIELD RD",
+    "address": "7 TABERNACLE CHRISTIAN ACADEMY FORT LEONARD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1040,7 +1040,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TRACY NIX. PO BOX 369 929 SPRINGFIELD RD LEBANON MO 65536 SS 10,SM 11,SN 545,W 7 TABERNACLE CHRISTIAN ACADEMY FORT LEONARD WOOD, FREE DAY AWAY SOLDIER MINISTRY KJB, WCBC"
+    "description": "PO BOX 369 LEBANON MO 65536 SS 10,SM 11,SN 545,W WOOD, FREE DAY AWAY SOLDIER MINISTRY KJB, WCBC"
   },
   {
     "id": "2614",
@@ -1058,12 +1058,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JAMES KING. 801 HAWKINS RD FENTON MO 63026 SM 10 TH 630 KJB, HBBC, MBU"
+    "description": "FENTON MO 63026 SM 10 TH 630 KJB, HBBC, MBU"
   },
   {
     "id": "2615",
     "name": "SECOND BAPTIST CHURCH",
-    "address": "723 HORINE RD",
+    "address": "723 HORINE RD FEST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1076,12 +1076,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JIM CLEMENSON. PO BOX 88 723 HORINE RD FESTUS MO 63028 SS 945 SM 1045 SN 6 W 7 KJB, HAC"
+    "description": "PO BOX 88 US MO 63028 SS 945 SM 1045 SN 6 W 7 KJB, HAC"
   },
   {
     "id": "2616",
     "name": "AGAPE BAPTIST CHURCH",
-    "address": "",
+    "address": "9204 AGAPE BOARD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1094,7 +1094,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS CRUTCHFIELD. RT 4 BOX 17 A STOCKTON MO 65785-9204 AGAPE BOARDING SCHOOL,AACS,K5-12 KJB church."
+    "description": "RT 4 BOX OCKTON MO 65785-ING SCHOOL,AACS,K5-12 KJB church"
   },
   {
     "id": "2617",
@@ -1112,12 +1112,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANTHONY FUSCO. 300 N MAIN HUNTSVILLE MO 65259 3909 BROWN STATION RD COLUMBIA MO 65202 SS 945,SM 11,SN 6,W 7 PO BOX 199 800 S BAKER BLVD CARTHAGE MO 64836 SS 10,SM 11,SN 6,W 7 BUS, CAMP, TEENS; BIBLE BAPTIST CHRISTIA KJB church."
+    "description": "300 N MAIN HUNTSVILLE MO 65259 COLUMBIA MO 65202 SS 945,SM 11,SN 6,W 7 PO BOX 199 800 S BAKER BLVD CARTHAGE MO 64836 SS 10,SM 11,SN 6,W 7 BUS, CAMP, TEENS; BIBLE BAPTIST CHRISTIA KJB church"
   },
   {
     "id": "2618",
     "name": "ARNOLD BAPTIST TABERNACLE",
-    "address": "3705 TELEGRAPH RD",
+    "address": "3705 TELEGRAPH RD ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1130,7 +1130,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BURTON SQUIRES. 3705 TELEGRAPH RD ST LOUIS MO 63010 SS 10,SM 11,SN 6,W 715 KJB, HAC"
+    "description": "LOUIS MO 63010 SS 10,SM 11,SN 6,W 715 KJB, HAC"
   },
   {
     "id": "2619",
@@ -1149,7 +1149,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JEROME F GENNARIA. 16081 CLAYTON RD BALLWIN MO 63011 BUS, PATCH PIRATE, CHOIR SS 930,SM 1045,SN 6,W 7 9128 LACKLAND RD OVERLAND MO 63114 KJB, BBF"
+    "description": "BALLWIN MO 63011 BUS, PATCH PIRATE, CHOIR SS 930,SM 1045,SN 6,W 7 9128 LACKLAND RD OVERLAND MO 63114 KJB, BBF"
   },
   {
     "id": "2620",
@@ -1169,7 +1169,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by BRIAN WAGAHOFF. 9500 E 53RD ST RAYTOWN MO 64133-2236 SS 10,SM 11,SN 5,W 7 RICHARDS-GABAUR 2424 E 20TH ST JOPLIN MO 64804 SS 10, SM 11, SN 6, W 630 KJB, BBFI, BBC"
+    "description": "RAYTOWN MO 64133-2236 SS 10,SM 11,SN 5,W 7 RICHARDS-GABAUR 2424 E 20TH ST JOPLIN MO 64804 SS 10, SM 11, SN 6, W 630 KJB, BBFI, BBC"
   },
   {
     "id": "2621",
@@ -1188,12 +1188,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by L SCOTT MILLER. PO BOX 1056 10145 CR 3060 ROLLA MO 65401 SS 10,SM 11,SN 6,W 7 RR 1 BOX 2610 HWY 181 DORA MO 65637 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 304 1681 SPOKANE RD SPOKANE MO 65754 SS 10,SM 11,SN 7,W"
+    "description": "PO BOX 1056 10145 CR 3060 ROLLA MO 65401 SS 10,SM 11,SN 6,W 7 RR 1 BOX 2610 HWY 181 DORA MO 65637 SS 10,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 304 SPOKANE MO 65754 SS 10,SM 11,SN 7,W"
   },
   {
     "id": "2622",
     "name": "WESTWOOD BAPTIST CHURCH",
-    "address": "2445 WESTWOOD BLVD",
+    "address": "2445 WESTWOOD BLVD POPL",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1206,7 +1206,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 86 2445 WESTWOOD BLVD POPLAR BLUFF MO 63902 SS 815 & 945 & 11,SM 930 & 11,SN 6,W 7"
+    "description": "PO BOX 86 AR BLUFF MO 63902 SS 815 & 945 & 11,SM 930 & 11,SN 6,W 7"
   },
   {
     "id": "2623",
@@ -1219,18 +1219,18 @@ export const missouriChurches: Church[] = [
     "longitude": -92.6825,
     "phone": "(660) 727-2626",
     "website": "https://yahoo.com",
-    "pastor": "ORLIE G YODER",
+    "pastor": "BROOKFIELD MO 64628 SS 930,SM 1030,S",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ORLIE G YODER. KJB/TR, UNAFFILIATED, CONSERVATIVE MUSIC PO BOX 154 HWY 136 E KAHOKA MO 63445 SS 930,SM 1030,SN 630,W 7 FAMILY ORIENTATED, PATCH PIRATE NEEDS PASTOR 324 N GRANT ST BROOKFIELD MO 64628 SS 930,SM 1030,S"
+    "description": "KJB/TR, UNAFFILIATED, CONSERVATIVE MUSIC PO BOX 154 HWY 136 E KAHOKA MO 63445 SS 930,SM 1030,SN 630,W 7 FAMILY ORIENTATED, PATCH PIRATE NEEDS"
   },
   {
     "id": "2624",
     "name": "BIBLE BAPTIST TEMPLE",
-    "address": "2606 SYCAMORE CT",
+    "address": "2606 SYCAMORE CT ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1243,7 +1243,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBERT FRANSEEN. 2606 SYCAMORE CT ST JOSEPH MO 64503 KJB church."
+    "description": "JOSEPH MO 64503 KJB church"
   },
   {
     "id": "2625",
@@ -1262,12 +1262,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GARY BOOKOUT. 5600 N BRIGHTON AVE KANSAS CITY MO 64119 SS 930,SM 1045,SN 6,W 7 KJB, BBFI, SBF"
+    "description": "KANSAS CITY MO 64119 SS 930,SM 1045,SN 6,W 7 KJB, BBFI, SBF"
   },
   {
     "id": "2626",
     "name": "CRUSADE BAPTIST TEMPLE",
-    "address": "3600 UNION RD",
+    "address": "3600 UNION RD ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1280,7 +1280,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3600 UNION RD ST LOUIS MO 63125"
+    "description": "LOUIS MO 63125"
   },
   {
     "id": "2627",
@@ -1298,7 +1298,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PHIL HUDSON. SS 930,SM 1030,SN 6,W 7 AWANA, SCOTT AFB 30 MILES KJB, HAC PRE-MIL"
+    "description": "SS 930,SM 1030,SN 6,W 7 AWANA, SCOTT AFB 30 MILES KJB, HAC PRE-MIL"
   },
   {
     "id": "2628",
@@ -1317,12 +1317,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEITH CARNAHAN. 1403 W SPRINGFIELD AVE UNION MO 63084 SS 10,SM 11,SN 6,W 630 KJB, UNAFFILIATED"
+    "description": "UNION MO 63084 SS 10,SM 11,SN 6,W 630 KJB, UNAFFILIATED"
   },
   {
     "id": "2629",
     "name": "MARANATHA BAPTIST CHURCH",
-    "address": "200 ACORN DR",
+    "address": "200 ACORN DR ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1336,12 +1336,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DON VEAZEY. 200 ACORN DR ST ROBERT MO 65584 NEAR WAYNESVILLE AREA SS 10,SM 11,SN 6,W 630 KJB, HBBC PO BOX 415 F.R. 2180 FASCO RD CASSVILLE MO 65625 0.5 MILES E of JACOBS FORD on FASCO RD SS 10,SM 11,SN 7,W 7 AUDI"
+    "description": "ROBERT MO 65584 NEAR WAYNESVILLE AREA SS 10,SM 11,SN 6,W 630 KJB, HBBC PO BOX 415 F.R. 2180 FASCO RD CASSVILLE MO 65625 0.5 MILES E of JACOBS FORD on FASCO RD SS 10,SM 11,SN 7,W 7 AUDI"
   },
   {
     "id": "2630",
     "name": "FAITH BAPTIST CHURCH OF DARDENNE PRAIRIE",
-    "address": "2300 BATES RD",
+    "address": "150 READING AVE",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1356,12 +1356,12 @@ export const missouriChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by JOE CASSADA. PO BOX 483 2300 BATES RD O'FALLON MO 63366 SS 10,SM 11,SN 6,SN 645 KJB, UNAFFILIATED 150 READING AVE MARYLAND HEIGHTS MO 63043 SS 10,SM 11,SN 630,W 7 KJB, HBBC 4249 E 13TH ST JOPLIN MO 64804 SS 10,SM"
+    "description": "PO BOX 483 O'FALLON MO 63366 SS 10,SM 11,SN 6,SN 645 KJB, UNAFFILIATED MARYLAND HEIGHTS MO 63043 SS 10,SM 11,SN 630,W 7 KJB, HBBC 4249 E 13TH ST JOPLIN MO 64804 SS 10,SM"
   },
   {
     "id": "2631",
     "name": "CENTRAL CALVARY BAPTIST CHURCH",
-    "address": "4607 ST RT CC",
+    "address": "4607 ST RT CC WEST PL",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1374,7 +1374,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "4607 ST RT CC WEST PLAINS MO 65775 SS 10,SM 11,SN 6,W 7"
+    "description": "AINS MO 65775 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2632",
@@ -1393,7 +1393,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TONY WOOD. PO BOX 525 715 NORTH AVE CAMPBELL MO 63933 NORTH & MIDLAND SS 10,SM 11,SN 6,W 7 BUS, CAMP KJB, HAC"
+    "description": "PO BOX 525 CAMPBELL MO 63933 NORTH & MIDLAND SS 10,SM 11,SN 6,W 7 BUS, CAMP KJB, HAC"
   },
   {
     "id": "2633",
@@ -1411,7 +1411,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NE. COLUMBIA MO 65202 SS 10,SM 11,SN 7,W 7 KJB church."
+    "description": "COLUMBIA MO 65202 SS 10,SM 11,SN 7,W 7 KJB church"
   },
   {
     "id": "2634",
@@ -1429,7 +1429,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD L ROBERTS SR. (Meets in PARKER RD BAPTIST CHURCH 2675 PARKER RD FLORISSANT MO 63032 KJB, CONSERVATIVE, TRADITIONAL SERVICE, OLD FASHIONED HYMNS"
+    "description": "(Meets in PARKER RD BAPTIST CHURCH FLORISSANT MO 63032 KJB, CONSERVATIVE, TRADITIONAL SERVICE, OLD FASHIONED HYMNS"
   },
   {
     "id": "2635",
@@ -1449,7 +1449,7 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by ROGER STEVENS. 901 E 23RD ST INDEPENDENCE MO 64055 SS 945, SM 1045,SN 6,W 7 SOULWINNING, ADDICTIONS PROGRAM, KIDS CLUB KJB, BBF"
+    "description": "INDEPENDENCE MO 64055 SS 945, SM 1045,SN 6,W 7 SOULWINNING, ADDICTIONS PROGRAM, KIDS CLUB KJB, BBF"
   },
   {
     "id": "2636",
@@ -1467,7 +1467,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN A JOHNSON. PO BOX 85 2791 HWY D PHILADELPHIA MO 63463 725 W WASHINGTON ST (HWY 80) EAST PRAIRIE MO 63845 KJB church."
+    "description": "PO BOX 85 2791 HWY D PHILADELPHIA MO 63463 EAST PRAIRIE MO 63845 KJB church"
   },
   {
     "id": "2637",
@@ -1485,7 +1485,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALLEN GOLDEN. 3092 SR AA HOLTS SUMMIT MO 65043 SS 10,SM 11,SN 630,W 7 KJB, FAIRHAVEN"
+    "description": "3092 SR AA HOLTS SUMMIT MO 65043 SS 10,SM 11,SN 630,W 7 KJB, FAIRHAVEN"
   },
   {
     "id": "2638",
@@ -1504,7 +1504,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN DAVIS. 1106 ST MARYS BLVD JEFFERSON CITY MO 65109 KJB, CONS MUSIC, BBF 2101 GEORGIA ST LOUISIANA MO 63353 SS 945,SM 1045,SN 6,W 7 BUS; CHRISTIAN SCHOOL,K-12 KJB, HAC"
+    "description": "JEFFERSON CITY MO 65109 KJB, CONS MUSIC, BBF 2101 GEORGIA ST LOUISIANA MO 63353 SS 945,SM 1045,SN 6,W 7 BUS; CHRISTIAN SCHOOL,K-12 KJB, HAC"
   },
   {
     "id": "2639",
@@ -1523,12 +1523,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by TIM GIBSON. 310 N WADE ST MEXICO MO 65265 SS 10,SM 11,SN 5,W 7 KJAB CHRISTIAN RADIO, SOULWINNING, YOUTH, CHILDREN’S OUTREACH,  TRADITIONAL HYMNS KJB church."
+    "description": "MEXICO MO 65265 SS 10,SM 11,SN 5,W 7 KJAB CHRISTIAN RADIO, SOULWINNING, YOUTH, CHILDREN’S OUTREACH, TRADITIONAL HYMNS KJB church"
   },
   {
     "id": "2640",
     "name": "SWEET SPRINGS BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 152",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1541,12 +1541,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 152 1027 CR 2445 HUNTSVILLE MO 65259-0152 SS 10,SM 11,SN 6,W 7"
+    "description": "1027 CR 2445 HUNTSVILLE MO 65259-0152 SS 10,SM 11,SN 6,W 7"
   },
   {
     "id": "2641",
     "name": "SWEET SPRINGS BAPTIST ACADEMY",
-    "address": "11642 RIVERVIEW DR",
+    "address": "11642 RIVERVIEW DR ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "11642",
@@ -1560,12 +1560,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BMA"
     ],
-    "description": "Led by KEN SPILGER. 11642 RIVERVIEW DR ST LOUIS MO 63138 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, AMBASSADOR-BC"
+    "description": "LOUIS MO 63138 SS 930,SM 1045,SN 6,W 7 AUDIO SERMONS KJB, AMBASSADOR-BC"
   },
   {
     "id": "2642",
     "name": "FIRST BAPTIST CHURCH",
-    "address": "517 S LOCUST ST",
+    "address": "63472 LOCATED JUST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1578,7 +1578,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JERRY BONE. PO BOX 281 WAYLAND MO 63472 LOCATED JUST 1/8 MILE NORTH OF HWY 136 ON HWY B SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS PO BOX 361 517 S LOCUST ST BUFFALO MO 65622 SS 930,SM 1045,SN 630 KJB church."
+    "description": "PO BOX 281 WAYLAND MO 1/8 MILE NORTH OF HWY 136 ON HWY B SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS PO BOX 361 517 S LOCUST ST BUFFALO MO 65622 SS 930,SM 1045,SN 630 KJB church"
   },
   {
     "id": "2643",
@@ -1597,7 +1597,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID GRIGGS. 8595 OLD HWY 60 MOUNTAIN GROVE MO 65711 SS 10,SM 11,SN 6,W 7 WHETSTONE CA KJB, MBAA, PRE-MIL 405 HOFFMEISTER ST ST LOUIS MO 63125 LEMAY AREA SS 945,SM 1045,SN 630,W 7 KJB, BBF"
+    "description": "8595 OLD HWY 60 MOUNTAIN GROVE MO 65711 SS 10,SM 11,SN 6,W 7 WHETSTONE CA KJB, MBAA, PRE-MIL ST LOUIS MO 63125 LEMAY AREA SS 945,SM 1045,SN 630,W 7 KJB, BBF"
   },
   {
     "id": "2644",
@@ -1617,7 +1617,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "BMA"
     ],
-    "description": "Led by KEVIN KOLB. PO BOX 20 HWY 5 S CAMDENTON MO 65020 SS 945,SM 1045,SN 6,W 7 MASTERS CLUB; CAMDEN CHRISTIAN SCHOOL,K5-12,AACS,MACS,MCSSA; AUDIO SERMONS KJB, BBFI 3601 EHLMANN RD ST CHARLES MO 63301 SS 930,SM 1045,SN"
+    "description": "PO BOX 20 HWY 5 S CAMDENTON MO 65020 SS 945,SM 1045,SN 6,W 7 MASTERS CLUB; CAMDEN CHRISTIAN SCHOOL,K5-12,AACS,MACS,MCSSA; AUDIO SERMONS KJB, BBFI ST CHARLES MO 63301 SS 930,SM 1045,SN"
   },
   {
     "id": "2645",
@@ -1636,7 +1636,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ADAM STEEVES. 6411 S FR 115 BROOKLINE MO 65619 5 MILES SOUTHWEST OF SPRINGFIELD MO SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS, PRISON, CHURCH PLANTING, KINGS KIDS, PATCH CLUB, GRADED SUNDAY SCHOOL KJB, HBBC, CONSERVATIV"
+    "description": "6411 S FR 115 BROOKLINE MO 65619 SS 945,SM 1045,SN 6,W 7 AUDIO SERMONS, PRISON, CHURCH PLANTING, KINGS KIDS, PATCH CLUB, GRADED SUNDAY SCHOOL KJB, HBBC, CONSERVATIV"
   },
   {
     "id": "2646",
@@ -1654,7 +1654,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by THOMAS TENNEY. 2738 STATE HWY Z BRUNER MO 65620 KJB, HBBC"
+    "description": "BRUNER MO 65620 KJB, HBBC"
   },
   {
     "id": "2647",
@@ -1673,12 +1673,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PAUL T HATHAWAY. 111 W 9TH ST FULTON MO 65251 SS 10,SM 11,SN 6,W 630 KJB, BBFI, CCM"
+    "description": "FULTON MO 65251 SS 10,SM 11,SN 6,W 630 KJB, BBFI, CCM"
   },
   {
     "id": "2648",
     "name": "NORTHSIDE BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 147",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1691,7 +1691,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOE D DECKER JR. PO BOX 147 HWY 174 & HWY 39 MT VERNON MO 65712 SM 1030,SN 6,W 7 YOUTH,ADULT,CHILDREN KJB church."
+    "description": "HWY 174 & HWY 39 MT VERNON MO 65712 SM 1030,SN 6,W 7 YOUTH,ADULT,CHILDREN KJB church"
   },
   {
     "id": "2649",
@@ -1709,7 +1709,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TONY DENNEY. 927 S CAMPBELL AVE SPRINGFIELD MO 65806 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church."
+    "description": "SPRINGFIELD MO 65806 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2650",
@@ -1727,7 +1727,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DELBERT MCLAUGHLIN. 2619 PRINCETON RD TRENTON MO 64683 AUDIO SERMONS SS 945,SM 11,SN 630,W 630 KJB church."
+    "description": "TRENTON MO 64683 AUDIO SERMONS SS 945,SM 11,SN 630,W 630 KJB church"
   },
   {
     "id": "2651",
@@ -1746,12 +1746,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by MATT LAHMAN. PO BOX 385 93 RIPLEY 142 E-4 DONIPHAN MO 63935 SS 930,SM 1030,SN 6,W 7 KJV, WCBC, UNAFFILIATED KJB church."
+    "description": "PO BOX 385 DONIPHAN MO 63935 SS 930,SM 1030,SN 6,W 7 KJV, WCBC, UNAFFILIATED KJB church"
   },
   {
     "id": "2652",
     "name": "CITY LIGHT BAPTIST CHURCH",
-    "address": "1 JASON COURT",
+    "address": "1 JASON COURT ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1766,12 +1766,12 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RODNEY HAGGETT. 1 JASON COURT ST CHARLES MO 63304 SS 9,SM 10,TUE 7 SOULWINNING, NURSERY, CHILDREN’S CHURCH 1823 S MIAMI ST MARSHALL MO 65340 SS 10, SM 11, SN 6, W 7 BUS, TEEN, TAPE KJB, UNAFFILIATED"
+    "description": "CHARLES MO 63304 SS 9,SM 10,TUE 7 SOULWINNING, NURSERY, CHILDREN’S CHURCH 1823 S MIAMI ST MARSHALL MO 65340 SS 10, SM 11, SN 6, W 7 BUS, TEEN, TAPE KJB, UNAFFILIATED"
   },
   {
     "id": "2653",
     "name": "ABUNDANT LIFE BAPTIST CHURCH",
-    "address": "21 S RIDGE RD",
+    "address": "252 N NICHOLAS RD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1784,7 +1784,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOEY D FAUST. 21 S RIDGE RD TROY MO 63379 SS 930,SM 1030,SN 530,W 630 AUDIO SERMONS CO-PASTORS RAY BRINSON & JONATHAN KRAWCZYK 252 N NICHOLAS RD NIXA MO 65714 SS 930,SM 1045,SN 530,W 630 LITTLE TREASURES DAYCARE KJB church."
+    "description": "TROY MO 63379 SS 930,SM 1030,SN 530,W 630 AUDIO SERMONS CO-PASTORS RAY BRINSON & JONATHAN KRAWCZYK NIXA MO 65714 SS 930,SM 1045,SN 530,W 630 LITTLE TREASURES DAYCARE KJB church"
   },
   {
     "id": "2654",
@@ -1802,7 +1802,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BUD EVERETT. PO BOX 410 104 US HWY 160 W THEODOSIA MO 65761 227 E BROOKS AVE REPUBLIC MO 65738 SS 10,SM 12,SN 6,W 7 KJB church."
+    "description": "PO BOX 410 104 US HWY 160 W THEODOSIA MO 65761 REPUBLIC MO 65738 SS 10,SM 12,SN 6,W 7 KJB church"
   },
   {
     "id": "2655",
@@ -1821,7 +1821,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by GENE MCCUBBIN. HCR 69 BOX 78 OLDFIELD MO 65720 BBF church."
+    "description": "HCR 69 BOX 78 OLDFIELD MO 65720 BBF church"
   },
   {
     "id": "2656",
@@ -1839,7 +1839,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DWIGHT SCOTT. 501 NE 111 ST KANSAS CITY MO  64155 SM 9,SN 530,TH 7 BBF church."
+    "description": "KANSAS CITY MO 64155 SM 9,SN 530,TH 7 BBF church"
   },
   {
     "id": "2657",
@@ -1857,7 +1857,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "7503 E BANNISTER RD KANSAS CITY MO 64134 SS 945,SM 11,SN 6,W 7"
+    "description": "KANSAS CITY MO 64134 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "2658",
@@ -1875,7 +1875,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by JOHN TUCKER.  BBF church."
+    "description": "BBF church"
   },
   {
     "id": "2659",
@@ -1893,12 +1893,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LARRY LINDSEY. 9412 E INDEPENDENCE AVE KANSAS CITY MO 64126 BBF church."
+    "description": "KANSAS CITY MO 64126 BBF church"
   },
   {
     "id": "2660",
     "name": "EASTSIDE BAPTIST CHURCH",
-    "address": "",
+    "address": "2400 N BELT HWY ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -1911,7 +1911,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2400 N BELT HWY ST JOSEPH MO 64506 SS 930,SM 1030,SN 6,W 7"
+    "description": "JOSEPH MO 64506 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "2661",
@@ -1929,7 +1929,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by CLAUDE R FIELDS. BBF, MO-BBF"
+    "description": "BBF, MO-BBF"
   },
   {
     "id": "2662",
@@ -1948,7 +1948,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM AUTIN. 1595 W VEST ST MARSHALL MO 65340 SS 10,SM 11,SN 6,W 7 KINGS KIDS, WHITEMAN AFB KJB, BBF, CCM"
+    "description": "MARSHALL MO 65340 SS 10,SM 11,SN 6,W 7 KINGS KIDS, WHITEMAN AFB KJB, BBF, CCM"
   },
   {
     "id": "2663",
@@ -1967,7 +1967,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by JOHN KIRBY. 431 S OLIVE ST MARSHFIELD MO 65706 SS 10,SM 11,SN 6,W 7 1205 KRAUS DR ELDON MO 65026 17818 LAWRENCE 2200 AURORA MO 65605 AURORA CHRISTIAN ACADEMY,K-12 PASTOR KJB church."
+    "description": "MARSHFIELD MO 65706 SS 10,SM 11,SN 6,W 7 1205 KRAUS DR ELDON MO 65026 17818 LAWRENCE 2200 AURORA MO 65605 AURORA CHRISTIAN ACADEMY,K-12"
   },
   {
     "id": "2664",
@@ -1986,7 +1986,7 @@ export const missouriChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by RICHARD A PAGE. 2631 S MCCAN AVE SPRINGFIELD MO 65804 SS 930,SM 1030,SN 6,W 7 903 E OHIO ST CLINTON MO 64735 126 VAUGHN ST EXCELSIOR SPRINGS MO 64024 HC 3 BOX 78 W HWY 160 GAINESVILLE MO 65655 SS 10,SM 11,SN 6,W 6 Non-KJV church."
+    "description": "SPRINGFIELD MO 65804 SS 930,SM 1030,SN 6,W 7 903 E OHIO ST CLINTON MO 64735 126 VAUGHN ST EXCELSIOR SPRINGS MO 64024 HC 3 BOX 78 W HWY 160 GAINESVILLE MO 65655 SS 10,SM 11,SN 6,W 6 Non-KJV church"
   },
   {
     "id": "2665",
@@ -2004,12 +2004,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by ROD ALBERT. 7971 HWY 173 CAPE FEAR MO 65656 GALENA AREA BBF church."
+    "description": "7971 HWY 173 CAPE FEAR MO 65656 GALENA AREA BBF church"
   },
   {
     "id": "2666",
     "name": "HOLDEN BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 275",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2022,7 +2022,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by LAVERN WILLIFORD. PO BOX 275 605 N LEXINGTON HOLDEN MO 64040 SS 10,SM 11,SN 6,W 7 7422 HERITAGE HWY JEFFERSON CITY MO 65109 BBF church."
+    "description": "605 N LEXINGTON HOLDEN MO 64040 SS 10,SM 11,SN 6,W 7 7422 HERITAGE HWY JEFFERSON CITY MO 65109 BBF church"
   },
   {
     "id": "2667",
@@ -2040,12 +2040,12 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by DON PREUSCH. 395 S WASHINGTON AVE LEBANON MO 65536 FORT LEONARD WOOD 1604 N MAIN ST MARYVILLE MO 64468 BBF church."
+    "description": "LEBANON MO 65536 FORT LEONARD WOOD 1604 N MAIN ST MARYVILLE MO 64468 BBF church"
   },
   {
     "id": "2668",
     "name": "FUNDAMENTAL BAPTIST CHURCH",
-    "address": "211 W LEWIS ST",
+    "address": "211 W LEWIS ST PL",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2059,7 +2059,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "Independent"
     ],
-    "description": "Led by MICHAEL D MCVEY. 211 W LEWIS ST PLEASANT HOPE MO 65725-9712 PO BOX 287 HWY 54 & D HWY PRESTON MO 65732 BBF church."
+    "description": "EASANT HOPE MO 65725-9712 PO BOX 287 HWY 54 & D HWY PRESTON MO 65732 BBF church"
   },
   {
     "id": "2669",
@@ -2077,7 +2077,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by BRETT WHITE. 805 N BROWN AVE SPRINGFIELD MO 65802 BBF, IBFI 1255 S MAIN TROY MO 63379 CH SS 10,SM 11,SN 6"
+    "description": "SPRINGFIELD MO 65802 BBF, IBFI 1255 S MAIN TROY MO 63379 CH SS 10,SM 11,SN 6"
   },
   {
     "id": "2670",
@@ -2095,7 +2095,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JIM NULL. 10315 PLEASANT HILL CHURCH RD FARMINGTON MO 63640 SS 930, SM 1030"
+    "description": "FARMINGTON MO 63640 SS 930, SM 1030"
   },
   {
     "id": "2671",
@@ -2113,7 +2113,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KENT LEWIS. RT 2 BOX 790 HWY 51 MARBLE HILL MO 63764 NOT KJV ONLY KJB church."
+    "description": "RT 2 BOX 790 HWY 51 MARBLE HILL MO 63764 NOT KJV ONLY KJB church"
   },
   {
     "id": "2672",
@@ -2126,14 +2126,14 @@ export const missouriChurches: Church[] = [
     "longitude": -91.4418,
     "phone": "(573) 769-4639",
     "website": "http://missionhillbaptistchurch.com",
-    "pastor": "DAN GONNERMAN",
+    "pastor": "NOT KJV ONLY PO BOX 387 100 S MULBERRY ADRIAN MO 64720 SS 945,SM 1045,SN 6,W 7 NOT KJV ONLY KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DAN GONNERMAN. 4653 BUS 61 S PALMYRA MO 63461 SS 930,SM 1030,SN 6,W 7 MISSION HILL CHRISTIAN ACADEMY,ACE,PS-12 NEEDS PASTOR NOT KJV ONLY PO BOX 387 100 S MULBERRY ADRIAN MO 64720 SS 945,SM 1045,SN 6,W 7 NOT KJV ONLY KJB church."
+    "description": "4653 BUS 61 S PALMYRA MO 63461 SS 930,SM 1030,SN 6,W 7 MISSION HILL CHRISTIAN ACADEMY,ACE,PS-12 NEEDS"
   },
   {
     "id": "2673",
@@ -2152,7 +2152,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ROBERT R SHARP. 4221 S NATIONAL AVE SPRINGFIELD MO 65810 SS 930,SM 1030,SN 6,W 7 AUDIO VIDEO SERMONS, ORCHESTRA, CHOIR NOT KJV ONLY,BBF,BBC-MO 5626 JOE BALD RD KIMBERLING CITY MO 65686 SM 945,SN 6 CHILDREN’S CHURCH N KJB church."
+    "description": "SPRINGFIELD MO 65810 SS 930,SM 1030,SN 6,W 7 AUDIO VIDEO SERMONS, ORCHESTRA, CHOIR NOT KJV ONLY,BBF,BBC-MO 5626 JOE BALD RD KIMBERLING CITY MO 65686 SM 945,SN 6 CHILDREN’S CHURCH N KJB church"
   },
   {
     "id": "2674",
@@ -2172,7 +2172,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by ROB HOFFMAN. 1510 NW VIVION RD KANSAS CITY MO 64118 SS 930,SM 1030,SN 7,W 7 AWANA, ALETHIA BAPTIST MINISTRIES, AUDIO SERMONS NOT KJV ONLY, BBFI, BBC-MO KJB church."
+    "description": "KANSAS CITY MO 64118 SS 930,SM 1030,SN 7,W 7 AWANA, ALETHIA BAPTIST MINISTRIES, AUDIO SERMONS NOT KJV ONLY, BBFI, BBC-MO KJB church"
   },
   {
     "id": "2675",
@@ -2192,7 +2192,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by CHRISTOPHER BECK. 3104 DIVISION ST SPRINGFIELD MO 65802 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBFI, BBC-MO KJB church."
+    "description": "SPRINGFIELD MO 65802 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, BBFI, BBC-MO KJB church"
   },
   {
     "id": "2676",
@@ -2211,12 +2211,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GENE MCCUBBIN. W HWY 60 REPUBLIC MO 65738 SS 930,SM 1045,SN 630,W 7 TEEN,YOUTH NOT KJV ONLY, BBF 501 NE 111 ST KANSAS CITY MO  64155 SM 9,SN 530,TH 7 NOT KJV ONLY, BBF, CCM KJB church."
+    "description": "W HWY 60 REPUBLIC MO 65738 SS 930,SM 1045,SN 630,W 7 TEEN,YOUTH NOT KJV ONLY, BBF KANSAS CITY MO 64155 SM 9,SN 530,TH 7 NOT KJV ONLY, BBF, CCM KJB church"
   },
   {
     "id": "2677",
     "name": "AURORA BAPTIST TEMPLE",
-    "address": "",
+    "address": "PO BOX 227",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2230,12 +2230,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ERIC L CAMPBELL. PO BOX 227 1111 S ELLIOT AURORA MO 65605 SS 915,SM 1015,SN 6,W 7 AWANA, AUDIO SERMONS NOT KJV ONLY, CCM, UNAFFILIATED KJB church."
+    "description": "1111 S ELLIOT AURORA MO 65605 SS 915,SM 1015,SN 6,W 7 AWANA, AUDIO SERMONS NOT KJV ONLY, CCM, UNAFFILIATED KJB church"
   },
   {
     "id": "2678",
     "name": "VALLEY VIEW BAPTIST CHURCH",
-    "address": "208 E VALLEY VIEW DR",
+    "address": "208 E VALLEY VIEW DR WALN",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2249,7 +2249,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MAX HARDY. 208 E VALLEY VIEW DR WALNUT GROVE MO 65770 SS 945,SM 1045,SN 6,W 7 NOT KJV ONLY, BBF KJB church."
+    "description": "UT GROVE MO 65770 SS 945,SM 1045,SN 6,W 7 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2679",
@@ -2267,7 +2267,7 @@ export const missouriChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KEVIN CARSON. 2024 CHURCH RD PARK HILLS MO 63601 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, NANC, MCARTHUR, PIPER, TULIP-S.GRACE KJB church."
+    "description": "PARK HILLS MO 63601 SS 10,SM 11,SN 6,W 7 NOT KJV ONLY, NANC, MCARTHUR, PIPER, TULIP-S.GRACE KJB church"
   },
   {
     "id": "2680",
@@ -2286,7 +2286,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "PO BOX 903 1701 S 6TH AVE OZARK MO 65721 SS 915,SM 10,W 630 JOSHUA MATTHEWS NOT KJV ONLY, S-BBF KJB church."
+    "description": "PO BOX 903 OZARK MO 65721 SS 915,SM 10,W 630 JOSHUA MATTHEWS NOT KJV ONLY, S-BBF KJB church"
   },
   {
     "id": "2681",
@@ -2305,12 +2305,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by WAYNE REYNOLDS. 1100 W HWY 174 REPUBLIC MO 65738 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS KJB, UNAFFILIATED, TULIP-S.GRACE"
+    "description": "1100 W HWY 174 REPUBLIC MO 65738 SS 10,SM 11,SN 6,W 630 AUDIO SERMONS KJB, UNAFFILIATED, TULIP-S.GRACE"
   },
   {
     "id": "2682",
     "name": "INDEPENDENCE BAPTIST CHURCH",
-    "address": "431 S OLIVE ST",
+    "address": "124 S MAIN FORIST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2324,7 +2324,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM AUTIN. PO BOX 70 124 S MAIN FORISTELL MO 63348 SS 10,SM 11,SN 430,W 7 RADIO 730 AM KWRE,TEXT SERMONS ONLINE KJB, BBF, CCM 431 S OLIVE ST MARSHFIELD MO 65706 E HWY 38 & OLIVE SS 10,SM 11,SN 6,W 7 NOT KJV ONLY"
+    "description": "PO BOX 70 ELL MO 63348 SS 10,SM 11,SN 430,W 7 RADIO 730 AM KWRE,TEXT SERMONS ONLINE KJB, BBF, CCM 431 S OLIVE ST MARSHFIELD MO 65706 E HWY 38 & OLIVE SS 10,SM 11,SN 6,W 7 NOT KJV ONLY"
   },
   {
     "id": "2683",
@@ -2343,7 +2343,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by EDDIE LYONS. 5010 SOUTH FARM RD 135 SPRINGFIELD MO 65810 SS 9,SM 10,SN 6,W 7 BBF, WCA, HYBLES, NOT KJV ONLY KJB church."
+    "description": "SPRINGFIELD MO 65810 SS 9,SM 10,SN 6,W 7 BBF, WCA, HYBLES, NOT KJV ONLY KJB church"
   },
   {
     "id": "2684",
@@ -2363,7 +2363,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by FRED ALLEN. 900 N EASTGATE AVE SPRINGFIELD MO 65802 NOT KJV ONLY, BBF LEE’S SUMMIT BAPTIST TEMPLE 114 SE 3RD ST LEES SUMMIT MO 64081 SS 930,SM 11,SN 530,W 7 KIDDIE KOLLEGE PRESCHOOL, AUDIO SERMONS & LIVE LSBT SCH KJB church."
+    "description": "SPRINGFIELD MO 65802 NOT KJV ONLY, BBF LEE’S SUMMIT BAPTIST TEMPLE 114 SE 3RD ST LEES SUMMIT MO 64081 SS 930,SM 11,SN 530,W 7 KIDDIE KOLLEGE PRESCHOOL, AUDIO SERMONS & LIVE LSBT SCH KJB church"
   },
   {
     "id": "2685",
@@ -2383,7 +2383,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by MILIONI. 1201 S OAK GROVE SPRINGFIELD MO 65804 SS 930,SM 1030,SN 6,W 630 MON NIGHT FOOTBALL, BUS, AWANA, CHOIR, YOUTH, REFORMERS UNANIMOUS, GROW OUTREACH NOT KJV ONLY, BBC-MO, BBF, CCM KJB church."
+    "description": "1201 S OAK GROVE SPRINGFIELD MO 65804 SS 930,SM 1030,SN 6,W 630 MON NIGHT FOOTBALL, BUS, AWANA, CHOIR, YOUTH, REFORMERS UNANIMOUS, GROW OUTREACH NOT KJV ONLY, BBC-MO, BBF, CCM KJB church"
   },
   {
     "id": "2686",
@@ -2403,12 +2403,12 @@ export const missouriChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by MICAH PANJADA. PO BOX 270 WILLARD MO 65801 8.5 Miles N OF I-44 ON HWY 13 near SPRINGFIELD SS 10,SM 11,SN 6,W 7 KINGDOM KIDS NOT KJV ONLY, BBF, MCARBC 1422 E MCKINSEY ST MOBERLY MO 65270 CHRISTIAN SCHOOL,K-12 NOT KJV KJB church."
+    "description": "PO BOX 270 WILLARD MO 65801 8.5 Miles N OF I-44 ON HWY 13 near SPRINGFIELD SS 10,SM 11,SN 6,W 7 KINGDOM KIDS NOT KJV ONLY, BBF, MCARBC MOBERLY MO 65270 CHRISTIAN SCHOOL,K-12 NOT KJV KJB church"
   },
   {
     "id": "2687",
     "name": "NEW LIFE BAPTIST CHURCH",
-    "address": "414 NEW MELVIN RD",
+    "address": "414 NEW MELVIN RD WILLARD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2423,7 +2423,7 @@ export const missouriChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by FRED YOUNG. 414 NEW MELVIN RD WILLARD MO 65781 SS 10,SM 830 & 11,SN 6,W 7 YOUTH, BUS, TEENS, SENIORS, SOULWINNING NOT KJV ONLY, BBF, R.WARREN, CCM KJB church."
+    "description": "MO 65781 SS 10,SM 830 & 11,SN 6,W 7 YOUTH, BUS, TEENS, SENIORS, SOULWINNING NOT KJV ONLY, BBF, R.WARREN, CCM KJB church"
   },
   {
     "id": "2688",
@@ -2443,7 +2443,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by BILL BOREN. 19901 E STATE RT INDEPENDENCE MO 64057 SS 9 & 1045,SM 9 & 1045,SN 6,W 7 BBF, WCA-HYBLES, NOT KJV ONLY KJB church."
+    "description": "INDEPENDENCE MO 64057 SS 9 & 1045,SM 9 & 1045,SN 6,W 7 BBF, WCA-HYBLES, NOT KJV ONLY KJB church"
   },
   {
     "id": "2689",
@@ -2462,7 +2462,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TYRONE ADRIAN. 10306 BLUE RIDGE BLVD KANSAS CITY MO 64134 NOT KJV ONLY, BBF KJB church."
+    "description": "KANSAS CITY MO 64134 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2690",
@@ -2481,7 +2481,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by BOB BAIER. 3710 N HOLMES ST KANSAS CITY MO 64116 NOT KJV ONLY, BBF, CCM KJB church."
+    "description": "KANSAS CITY MO 64116 NOT KJV ONLY, BBF, CCM KJB church"
   },
   {
     "id": "2691",
@@ -2500,7 +2500,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by NATHAN BEAL. 800 NE 72ND ST GLADSTONE MO 64118 KANSAS CITY MO SS 930,SM 815 & 11,SN 6,W 645 AWANA,SENIORS,AUDIO SERMONS NOT KJV ONLY, BBF KJB church."
+    "description": "GLADSTONE MO 64118 KANSAS CITY MO SS 930,SM 815 & 11,SN 6,W 645 AWANA,SENIORS,AUDIO SERMONS NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2692",
@@ -2513,13 +2513,13 @@ export const missouriChurches: Church[] = [
     "longitude": -92.8715,
     "phone": "(417) 724-0966",
     "website": "",
-    "pastor": "",
+    "pastor": "PREACH KJV, STUDY OTHERS, UNAFFILIATED KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "PO BOX 14 NIXA MO 65714 135 JONES RD in OZARK SS 10,SM 11,SN 2,W 7 NEEDS PASTOR PREACH KJV, STUDY OTHERS, UNAFFILIATED KJB church."
+    "description": "PO BOX 14 NIXA MO 65714 SS 10,SM 11,SN 2,W 7 NEEDS"
   },
   {
     "id": "2693",
@@ -2538,7 +2538,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by TIM ZIELINSKI. 180 S MOORE SCHOOL RD HWY 47 W TROY MO 63379 SS 930,SM 1045 NOT KJV ONLY, R.WARREN, BBF KJB church."
+    "description": "HWY 47 W TROY MO 63379 SS 930,SM 1045 NOT KJV ONLY, R.WARREN, BBF KJB church"
   },
   {
     "id": "2694",
@@ -2557,12 +2557,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by SAM BURKHOLDER. PO BOX 259 1601 E MAIN ST RICHMOND MO 65085 SM 11,SN 6,W 7 AWANA, BUS, SENIORS PREACH KJV, S.GRACE-TULIP 502 N FLORENCE KIRKSVILLE MO 63501 SS 10,SM 11,SN 5,W 7 BAPTIST FAITH MISSIONS NOT KJV ONLY, BB KJB church."
+    "description": "PO BOX 259 RICHMOND MO 65085 SM 11,SN 6,W 7 AWANA, BUS, SENIORS PREACH KJV, S.GRACE-TULIP 502 N FLORENCE KIRKSVILLE MO 63501 SS 10,SM 11,SN 5,W 7 BAPTIST FAITH MISSIONS NOT KJV ONLY, BB KJB church"
   },
   {
     "id": "2695",
     "name": "ROSE HILL BAPTIST CHURCH",
-    "address": "9903 N STATE HWY Z",
+    "address": "9903 N STATE HWY Z WILLARD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2576,7 +2576,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MARK ROUNSAVILLE. 9903 N STATE HWY Z WILLARD MO 65781 NOT KJV ONLY, BBF, BBC-MO KJB church."
+    "description": "MO 65781 NOT KJV ONLY, BBF, BBC-MO KJB church"
   },
   {
     "id": "2696",
@@ -2595,7 +2595,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DR HUNTER B SHERMAN. 2655 N GRANT SPRINGFIELD MO 65803 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, BBF KJB church."
+    "description": "2655 N GRANT SPRINGFIELD MO 65803 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2697",
@@ -2608,12 +2608,12 @@ export const missouriChurches: Church[] = [
     "longitude": -92.1543,
     "phone": "(417) 833-2748",
     "website": "http://www.bellview.org",
-    "pastor": "RON BARR",
+    "pastor": "NOT KJV ONLY, BJU, NORTHLAND-BC KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON BARR. 5105 N FARM RD 169 SPRINGFIELD MO 65803 4217 N BLUFF DR NOT KJV ONLY, BJU, NORTHLAND-BC KJB church."
+    "description": "SPRINGFIELD MO 65803 4217 N BLUFF DR NOT KJV ONLY, BJU, NORTHLAND-BC KJB church"
   },
   {
     "id": "2698",
@@ -2632,7 +2632,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by PHILLIP HOUSLEY. 430 NE DUNCAN RD BLUE SPRINGS MO 64014 SS 930,SM 1030,SN 6, W 7 TRI-CITY CHRISTIAN PRESCHOOL; KIDS 4 TRUTH. WHITEMAN AFB NOT KJV ONLY, BBFI KJB church."
+    "description": "BLUE SPRINGS MO 64014 SS 930,SM 1030,SN 6, W 7 TRI-CITY CHRISTIAN PRESCHOOL; KIDS 4 TRUTH. WHITEMAN AFB NOT KJV ONLY, BBFI KJB church"
   },
   {
     "id": "2699",
@@ -2651,12 +2651,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by KEITH GILLMING. 816 W REPUBLIC SPRINGFIELD MO 65807 SS 945,SM 830 & 11,SN 6,W 7, AWANA, CHOIR NOT KJV ONLY, BBF KJB church."
+    "description": "816 W REPUBLIC SPRINGFIELD MO 65807 SS 945,SM 830 & 11,SN 6,W 7, AWANA, CHOIR NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2700",
     "name": "LIGHTHOUSE BAPTIST CHURCH",
-    "address": "",
+    "address": "3025 N LINDBERGH ST",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2670,7 +2670,7 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CHAD HARKRIDER. 3025 N LINDBERGH ST LOUIS MO 63074 9404 AETNA SM 830 & 11,SN 630,W 7 NOT KJV ONLY, BBF KJB church."
+    "description": "LOUIS MO 63074 9404 AETNA SM 830 & 11,SN 630,W 7 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2701",
@@ -2690,7 +2690,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by JAMES RUSSELL. 465 S GRANT AVE SPRINGFIELD MO 65806 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, BBF, CCM KJB church."
+    "description": "SPRINGFIELD MO 65806 SS 930,SM 1030,SN 6,W 7 AUDIO SERMONS NOT KJV ONLY, BBF, CCM KJB church"
   },
   {
     "id": "2702",
@@ -2710,7 +2710,7 @@ export const missouriChurches: Church[] = [
       "Non-KJV",
       "BBF"
     ],
-    "description": "Led by DAVID LINGO. 4101 S HWY 7 BLUE SPRINGS MO 64014 SS 10,SM 11,SN 6 CHOIR, DRAMA, KINGS KIDS, AUDIO SERMONS, WHITEMAN AFB NOT KJV ONLY, BBC-MO 4450 SCENIC AVE BOLIVAR MO 65613 NKJV, BBF KJB church."
+    "description": "4101 S HWY 7 BLUE SPRINGS MO 64014 SS 10,SM 11,SN 6 CHOIR, DRAMA, KINGS KIDS, AUDIO SERMONS, WHITEMAN AFB NOT KJV ONLY, BBC-MO BOLIVAR MO 65613 NKJV, BBF KJB church"
   },
   {
     "id": "2703",
@@ -2729,12 +2729,12 @@ export const missouriChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DANIEL GARCIA. PO BOX 338 MEETING at 811 S WALNUT CAMERON MO 64429 NOT KJV ONLY, BBF KJB church."
+    "description": "PO BOX 338 CAMERON MO 64429 NOT KJV ONLY, BBF KJB church"
   },
   {
     "id": "2704",
     "name": "HERITAGE BAPTIST TEMPLE",
-    "address": "",
+    "address": "7 FORT LEONARD",
     "city": "Jefferson City",
     "state": "MO",
     "zipCode": "",
@@ -2750,7 +2750,7 @@ export const missouriChurches: Church[] = [
       "BBF",
       "SBC"
     ],
-    "description": "Led by STEVE PARKS. PO BOX 685 N HWY 5 LEBANON MO 65536 SS 10,SM 11,SN 6,W 7 FORT LEONARD WOOD NOT KJV ONLY, BBF PO BOX 11 ST CHARLES MO 63302 I-70 & HWY 94 SS 945,SM 1050,SN 630,W 7 NKJV-KJV, IFCA KJB church."
+    "description": "PO BOX 685 N HWY 5 LEBANON MO 65536 SS 10,SM 11,SN 6,W WOOD NOT KJV ONLY, BBF PO BOX 11 ST CHARLES MO 63302 I-70 & HWY 94 SS 945,SM 1050,SN 630,W 7 NKJV-KJV, IFCA KJB church"
   },
   {
     "id": "2705",

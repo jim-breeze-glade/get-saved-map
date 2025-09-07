@@ -17,7 +17,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAEL KOEHN. 812 8TH ST LEWISTON ID 83501 SS 10,SM 11,SN 530,W 630 KJB church."
+    "description": "LEWISTON ID 83501 SS 10,SM 11,SN 530,W 630 KJB church"
   },
   {
     "id": "1187",
@@ -37,7 +37,7 @@ export const idahoChurches: Church[] = [
       "Soulwinning",
       "SBC"
     ],
-    "description": "Led by DOYCE WALTON. 2399 S ORCHARD RD BOISE ID 83705 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS ONLINE KJB church."
+    "description": "BOISE ID 83705 SS 10,SM 11,SN 6,W 7 SOULWINNING, AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1188",
@@ -56,7 +56,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by STE. PO BOX 190123 BOISE ID 83719 BOISE ID 83713 (817) 851- 5692 CH/HM SM 10,TH 7 KJB, UNAFFILIATED"
+    "description": "PO BOX 190123 BOISE ID 83719 BOISE ID 83713 (817) 851- 5692 CH/HM SM 10,TH 7 KJB, UNAFFILIATED"
   },
   {
     "id": "1189",
@@ -75,7 +75,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KIM R HARRIS. PO BOX 944 210 TRIANGLE DR #B PONDERAY ID 83852 SM 10, W 630 KJB, UNAFFILIATED"
+    "description": "PO BOX 944 PONDERAY ID 83852 SM 10, W 630 KJB, UNAFFILIATED"
   },
   {
     "id": "1190",
@@ -95,12 +95,12 @@ export const idahoChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by SETH HOHENSTREET. PO BOX 731 120 W CAMERON AVE KELLOGG ID 83837 SS 10, SM 11, SN 6,W 7 VAN,YOUTH, ANNUAL BIBLE CAMP, SOULWINNING, MEN'S BIBLE STUDY, WOMEN'S BIBLE STUDY, FUTURE BIBLE COLLEGE, MISSION CHURCH, FAITH PROM KJB church."
+    "description": "PO BOX 731 KELLOGG ID 83837 SS 10, SM 11, SN 6,W 7 VAN,YOUTH, ANNUAL BIBLE CAMP, SOULWINNING, MEN'S BIBLE STUDY, WOMEN'S BIBLE STUDY, FUTURE BIBLE COLLEGE, MISSION CHURCH, FAITH PROM KJB church"
   },
   {
     "id": "1191",
     "name": "POST FALLS BAPTIST CHURCH",
-    "address": "1608 N SPOKANE ST",
+    "address": "1608 N SPOKANE ST POST",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -113,7 +113,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED R FOWLER. 1608 N SPOKANE ST POST FALLS ID 83854 SS 10,SM 11,SN 5,W 630 KJB church."
+    "description": "FALLS ID 83854 SS 10,SM 11,SN 5,W 630 KJB church"
   },
   {
     "id": "1192",
@@ -126,12 +126,12 @@ export const idahoChurches: Church[] = [
     "longitude": -114.4547,
     "phone": "(509) 243-4274",
     "website": "https://aol.com",
-    "pastor": "",
+    "pastor": "KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB"
     ],
-    "description": "18750 CLOVERLAND RD ASOTIN WA 99402 near LEWISTON ID SS 945,SM 11,SN 7,W 730 NEEDS PASTOR KJB church."
+    "description": "ASOTIN WA 99402 near LEWISTON ID SS 945,SM 11,SN 7,W 730 NEEDS"
   },
   {
     "id": "1193",
@@ -150,7 +150,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID MORROW. 901 CLINIC RD CHALLIS ID 83226 KJB, UNAFFILIATED"
+    "description": "CHALLIS ID 83226 KJB, UNAFFILIATED"
   },
   {
     "id": "1194",
@@ -168,7 +168,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEAN HERRING. 2148 MAIN ST GOODING ID 83330 KINGS KIDS KJB church."
+    "description": "GOODING ID 83330 KINGS KIDS KJB church"
   },
   {
     "id": "1195",
@@ -186,7 +186,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRUCE CARLSON. PO BOX 338 ALCON RIDGE CHARTER SCHOOL 278 S TEN MILE RD KUNA ID 83634 SS 10,SM 11,W 7 AUDIO SERMONS ONLINE 315 SHOUP AVE W TWIN FALLS ID 83301 SS 930,SM 1030,SN 530,W 630 DEAF,KINGS KIDS, REFORMERS UN KJB church."
+    "description": "PO BOX 338 ALCON RIDGE CHARTER SCHOOL KUNA ID 83634 SS 10,SM 11,W 7 AUDIO SERMONS ONLINE 315 SHOUP AVE W TWIN FALLS ID 83301 SS 930,SM 1030,SN 530,W 630 DEAF,KINGS KIDS, REFORMERS UN KJB church"
   },
   {
     "id": "1196",
@@ -205,7 +205,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ROBERT HUMPHRIES. 2345 W BROADWAY IDAHO FALLS ID 83402 SS 930,SM 1045,SN 6,W 7 SOULWINNING, PRISON KJB, UNAFILLIATED"
+    "description": "IDAHO FALLS ID 83402 SS 930,SM 1045,SN 6,W 7 SOULWINNING, PRISON KJB, UNAFILLIATED"
   },
   {
     "id": "1197",
@@ -224,7 +224,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by HUMPHRIES RET. 335 W 13TH ST BURLEY ID 83318 520 N 2300 E ST ANTHONY ID 83445 SS 10,SM 11,SN 630,W 630 KINGS KIDS KJB,UNAFFILIATED"
+    "description": "BURLEY ID 83318 520 N 2300 E ST ANTHONY ID 83445 SS 10,SM 11,SN 630,W 630 KINGS KIDS KJB,UNAFFILIATED"
   },
   {
     "id": "1198",
@@ -242,7 +242,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NEVIN J NEAL. 511 N ASH ST BLACKFOOT ID 83221 KJB,UNAFFLIATED"
+    "description": "BLACKFOOT ID 83221 KJB,UNAFFLIATED"
   },
   {
     "id": "1199",
@@ -261,12 +261,12 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by N ASA SAMPLES III. PO BOX 1087 6892 CODY ST BONNERS FERRY ID 83805 SS 10, SM 11, SN 6, TH 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 1087 BONNERS FERRY ID 83805 SS 10, SM 11, SN 6, TH 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1200",
     "name": "NORTH IDAHO BAPTIST CHURCH",
-    "address": "",
+    "address": "7 CHILDRENS KIDS FOR CHRIST",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -280,7 +280,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by STEVE HENSLEY. 101 N BOYER SAND POINT ID 83864 SM 1030,SN 2,TH 7 CHILDRENS KIDS FOR CHRIST,YOUTH,SOULWINNING KJB church."
+    "description": "101 N BOYER SAND POINT ID 83864 SM 1030,SN 2,TH ,YOUTH,SOULWINNING KJB church"
   },
   {
     "id": "1201",
@@ -298,12 +298,12 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM HAVEMAN. 1212 1ST AVE S PAYETTE ID 83661 SS 10,SM 11,SN 5,W 7 KJB, KNOX, RUCKMAN"
+    "description": "PAYETTE ID 83661 SS 10,SM 11,SN 5,W 7 KJB, KNOX, RUCKMAN"
   },
   {
     "id": "1202",
     "name": "HERITAGE BAPTIST CHURCH",
-    "address": "8076 W PRAIRIE AVE",
+    "address": "8076 W PRAIRIE AVE POST",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -317,7 +317,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BRIAN GRIFFIN. 8076 W PRAIRIE AVE POST FALLS ID 83854 SS 930, SM 1045, SN 6, W 7 MP3 AUDIO SERMONS ONLINE KJB,UNAFFILIATED,FRIENDS: FBF-NBM-BJU-PCC,"
+    "description": "FALLS ID 83854 SS 930, SM 1045, SN 6, W 7 MP3 AUDIO SERMONS ONLINE KJB,UNAFFILIATED,FRIENDS: FBF-NBM-BJU-PCC"
   },
   {
     "id": "1203",
@@ -336,7 +336,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TIM KNUTSON. 190 W CHAPEL POCATELLO ID 83201 SS 9,SM 10,SN 5,SN YOUTH 6,W 7 MP3 AUDIO SERMONS ONLINE KJB, HEARTLAND, SIBF, UNAFFILIATED"
+    "description": "190 W CHAPEL POCATELLO ID 83201 SS 9,SM 10,SN 5,SN YOUTH 6,W 7 MP3 AUDIO SERMONS ONLINE KJB, HEARTLAND, SIBF, UNAFFILIATED"
   },
   {
     "id": "1204",
@@ -355,7 +355,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES E BLISS. PO BOX 87 132 2ND AVE E JEROME ID 83338 SS 10, SM 11, SN 6, W 7 KJB,UNAFFILIATED"
+    "description": "PO BOX 87 JEROME ID 83338 SS 10, SM 11, SN 6, W 7 KJB,UNAFFILIATED"
   },
   {
     "id": "1205",
@@ -373,12 +373,12 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN CARR. 8885 LAKESHORE DR NAMPA ID 83653 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "NAMPA ID 83653 SS 945,SM 11,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1206",
     "name": "CLARK FORK BAPTIST CHURCH",
-    "address": "109 W 2ND AVE",
+    "address": "1555 AMERICAN LEGION BLVD",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -391,7 +391,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MICHAH BRACKETT. PO BOX 268 109 W 2ND AVE CLARK FORK ID 83811 AUDIO SERMONS ONLINE SS 10,SM 11,SN 6 W 7 PO BOX 898 1555 AMERICAN LEGION BLVD SS 10,SM 11,SN 6,W 7 SERMONS ONLINE,SENIORS,YOUTH,CHOIR,RU RECOVERY PROGRAM KJB church."
+    "description": "PO BOX 268 109 W 2ND AVE CLARK FORK ID 83811 AUDIO SERMONS ONLINE SS 10,SM 11,SN 6 W 7 PO BOX 898 SS 10,SM 11,SN 6,W 7 SERMONS ONLINE,SENIORS,YOUTH,CHOIR,RU RECOVERY PROGRAM KJB church"
   },
   {
     "id": "1207",
@@ -409,7 +409,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICK DEMICHELE. 388 WEBSTER ST MONTPELIER ID 83254 KJB,PBI-RUCKMAN,"
+    "description": "MONTPELIER ID 83254 KJB,PBI-RUCKMAN"
   },
   {
     "id": "1208",
@@ -427,7 +427,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by WILLIAM. 1300 S TEARE AVE MERIDIAN ID 83642 SS 10,SM 11,SN 5,W 7 RADIO,PRISON,MARRIED,BUS, AUDIO SERMONS ONLINE BIBLE INSTITUTE KJB church."
+    "description": "MERIDIAN ID 83642 SS 10,SM 11,SN 5,W 7 RADIO,PRISON,MARRIED,BUS, AUDIO SERMONS ONLINE BIBLE INSTITUTE KJB church"
   },
   {
     "id": "1209",
@@ -446,7 +446,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "732 S JEFFERSON ST MOSCOW ID 83843 SS 10, SM 11,SN 6,TH 7 KJB,BBF,IBFI"
+    "description": "MOSCOW ID 83843 SS 10, SM 11,SN 6,TH 7 KJB,BBF,IBFI"
   },
   {
     "id": "1210",
@@ -464,12 +464,12 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRITT LANDERS. 800 E ALAMEDA DR POCATELLO ID 83201 CHUBBUCK AREA KJB church."
+    "description": "POCATELLO ID 83201 CHUBBUCK AREA KJB church"
   },
   {
     "id": "1211",
     "name": "LIGHTHOUSE BIBLE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 662",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -482,7 +482,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "PO BOX 662 REXBURG ID 83440 1816 N HWY 33 SUGAR CITY  ID 83448 KJB,GIBF"
+    "description": "REXBURG ID 83440 1816 N HWY 33 SUGAR CITY ID 83448 KJB,GIBF"
   },
   {
     "id": "1212",
@@ -501,7 +501,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by TONY VAN MANEN. PO BOX 632 OSBURN ID 83849 220 CAMERON AVE KELLOGG ID 83837 KJB, WEST COAST, HEARTLAND, UNAFFILIATED"
+    "description": "PO BOX 632 OSBURN ID 83849 KELLOGG ID 83837 KJB, WEST COAST, HEARTLAND, UNAFFILIATED"
   },
   {
     "id": "1213",
@@ -519,7 +519,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "3626 E USTICK RD CALDWELL ID 83605 SS 945,SM 11,SN 6,W 7"
+    "description": "CALDWELL ID 83605 SS 945,SM 11,SN 6,W 7"
   },
   {
     "id": "1214",
@@ -538,7 +538,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by CLARENCE E KNUTSON. CHILDRENS CENTER PO BOX 2276 13041 N YELLOWSTONE HWY POCATELLO ID 83206-2276 SS 10,SM 11,SN 6,W 7 KJV,BBF KJB church."
+    "description": "CHILDRENS CENTER PO BOX 2276 POCATELLO ID 83206-2276 SS 10,SM 11,SN 6,W 7 KJV,BBF KJB church"
   },
   {
     "id": "1215",
@@ -557,12 +557,12 @@ export const idahoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RUBEN GARCIA. PO BOX 332 CLEAR LAKES RD BUHL ID 83316 CLEAR LAKES CHRISTIAN ACADEMY UNAFFLIATED, KJB 3983 W PRAIRIE AVE HAYDEN ID 83835 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE KJB,BBFI PO BOX 77 ST MARIES ID"
+    "description": "PO BOX 332 CLEAR LAKES RD BUHL ID 83316 CLEAR LAKES CHRISTIAN ACADEMY UNAFFLIATED, KJB HAYDEN ID 83835 SS 10,SM 11,SN 6,W 7 WMA AUDIO SERMONS ONLINE KJB,BBFI PO BOX 77 ST MARIES ID"
   },
   {
     "id": "1216",
     "name": "SAGLE VICTORY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 664",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -575,7 +575,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK SJOSTROM. PO BOX 664 SAGLE ID 83860-0664 SAGLE COMMUNITY HALL Near SANDPOINT SS 10,SM 11,W 7 AUDIO SERMONS ONLINE KJB church."
+    "description": "SAGLE ID 83860-0664 SAGLE COMMUNITY HALL Near SANDPOINT SS 10,SM 11,W 7 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "1217",
@@ -593,7 +593,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by N. TWIN FALLS ID 83301"
+    "description": "TWIN FALLS ID 83301"
   },
   {
     "id": "1218",
@@ -611,7 +611,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by NATHAN GIPP. SS 930,SM 1030,SN 6,W 7 KJB, RUCKMAN"
+    "description": "SS 930,SM 1030,SN 6,W 7 KJB, RUCKMAN"
   },
   {
     "id": "1219",
@@ -629,7 +629,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY STANCHFIELD. 710 13TH AVE LEWISTON ID 83501 SS 930,SM 1045,W 7 KJB church."
+    "description": "LEWISTON ID 83501 SS 930,SM 1045,W 7 KJB church"
   },
   {
     "id": "1220",
@@ -647,7 +647,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD CAMBELL. 296 W SUNSET AVE SUITE 8 COEUR D ALENE ID 83814 SM 930,SN 6,W 7 KJB church."
+    "description": "COEUR D ALENE ID 83814 SM 930,SN 6,W 7 KJB church"
   },
   {
     "id": "1221",
@@ -666,12 +666,12 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DANIEL J PERRY. 704 DENVER ST CALDWELL ID 83605 YOUTH RALLY’S, CHURCH CAMP, SCHOOL OF BIBLE, & MORE KJB, UNAFFILIATED, FUNDAMENTAL"
+    "description": "CALDWELL ID 83605 YOUTH RALLY’S, CHURCH CAMP, SCHOOL OF BIBLE, & MORE KJB, UNAFFILIATED, FUNDAMENTAL"
   },
   {
     "id": "1222",
     "name": "GENESIS CHRISTIAN FELLOWSHIP",
-    "address": "",
+    "address": "15093 N NIXON LOOP RATHDR",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -684,7 +684,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by TY RUBOTTOM. 15093 N NIXON LOOP RATHDRUM ID 83858 SM 1030"
+    "description": "UM ID 83858 SM 1030"
   },
   {
     "id": "1223",
@@ -702,12 +702,12 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JEFF ESTES. PO BOX 224 3866 E 400 N RIGBY ID 83442 SS 945,SM 11,SN 6,W 7 MARANATHA-BC,NORTHLAND,BJU 11621 W RAINER AVE NAMPA ID 83651 PHYSICAL ADD: 1824 W 3RD ST in MERIDIAN, 83642 SM 1030,SN 6,W 7 MP3 AUDIO SERM"
+    "description": "PO BOX 224 3866 E 400 N RIGBY ID 83442 SS 945,SM 11,SN 6,W 7 MARANATHA-BC,NORTHLAND,BJU NAMPA ID 83651 PHYSICAL ADD: 1824 W 3RD ST in MERIDIAN, 83642 SM 1030,SN 6,W 7 MP3 AUDIO SERM"
   },
   {
     "id": "1224",
     "name": "NEW TESTAMENT BAPTIST CHURCH",
-    "address": "651 THAIN RD",
+    "address": "651 THAIN RD LEWIST",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -720,7 +720,7 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JOE LACY. 651 THAIN RD LEWISTON ID 83540 262 N 2ND WEST REXBURG ID 83440 2975 E 1ST AMMON ID 83402"
+    "description": "ON ID 83540 262 N 2ND WEST REXBURG ID 83440 2975 E 1ST AMMON ID 83402"
   },
   {
     "id": "1225",
@@ -739,12 +739,12 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by K DAVID OLDFIELD. 428 W PINE AVE MERIDIAN ID 83642 SS 930,SM 1045,SN 6,W 7 KJB,UNAFFILIATED,S.GRACE-TULIP"
+    "description": "MERIDIAN ID 83642 SS 930,SM 1045,SN 6,W 7 KJB,UNAFFILIATED,S.GRACE-TULIP"
   },
   {
     "id": "1226",
     "name": "CALVARY INDEPENDENT BAPTIST CHURCH",
-    "address": "100 W 12TH AVE",
+    "address": "83854 SPOKANE ST",
     "city": "Boise",
     "state": "ID",
     "zipCode": "",
@@ -758,7 +758,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JOE JONES. 100 W 12TH AVE POST FALLS ID 83854 SPOKANE ST  AT 12 AVE SS 945,SM 11,SN 6,W 730 TEXT SERMONS & BIBLE STUDIES ONLINE On line Index to B.H. Carroll’s “Interpretation of the English Bible” KJB,S ANDERSO"
+    "description": "100 W 12TH AVE POST FALLS ID AT 12 AVE SS 945,SM 11,SN 6,W 730 TEXT SERMONS & BIBLE STUDIES ONLINE On line Index to B.H. Carroll’s “Interpretation of the English Bible” KJB,S ANDERSO"
   },
   {
     "id": "1227",
@@ -777,7 +777,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by MIKE MAUDLIN. 2312 N COLE RD STE J BOISE ID 83704 SM 1030,SN 6,W 7 NOT KJV ONLY,BBF,WARREN, KJB church."
+    "description": "BOISE ID 83704 SM 1030,SN 6,W 7 NOT KJV ONLY,BBF,WARREN, KJB church"
   },
   {
     "id": "1228",
@@ -796,7 +796,7 @@ export const idahoChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID R HETHORN. 12565 W RED SPRUCE BOISE ID 83616 291 N FIRST ST,EAGLE ID 83616 AWANA,DRAMA, KJB, S.GRACE-TULIP, OLD SCHOOL LANDMARK, 1646 LONDON CONFESSION, UNAFFILIATED,"
+    "description": "12565 W RED SPRUCE BOISE ID 83616 ,EAGLE ID 83616 AWANA,DRAMA, KJB, S.GRACE-TULIP, OLD SCHOOL LANDMARK, 1646 LONDON CONFESSION, UNAFFILIATED"
   },
   {
     "id": "1229",
@@ -814,6 +814,6 @@ export const idahoChurches: Church[] = [
     "affiliation": [
       "SBC"
     ],
-    "description": "1713 W MARLBOROUGH AVE COEUR D ALENE ID 83815 SS 10, SM 11, LUNCH 12, SA 2 PORTAL TO: THE OLD SCHOOL PARTICULAR BAPTIST LIBRARY SBC church."
+    "description": "COEUR D ALENE ID 83815 SS 10, SM 11, LUNCH 12, SA 2 PORTAL TO: THE OLD SCHOOL PARTICULAR BAPTIST LIBRARY SBC church"
   }
 ];

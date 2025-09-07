@@ -17,7 +17,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SCOTT DAVIS. 559 S SALIMAN RD CARSON CITY NV 89701 SS 10,SM 11,TH 7 KJB church."
+    "description": "CARSON CITY NV 89701 SS 10,SM 11,TH 7 KJB church"
   },
   {
     "id": "2799",
@@ -36,7 +36,7 @@ export const nevadaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by ERIC TASTET. 880 FRANKLIN AVE LOVELOCK NV 89419 SS 10,SM 11 AUDIO SERMONS, SOULWINNING KJB church."
+    "description": "LOVELOCK NV 89419 SS 10,SM 11 AUDIO SERMONS, SOULWINNING KJB church"
   },
   {
     "id": "2800",
@@ -56,7 +56,7 @@ export const nevadaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RANDY RALSTIN. 13600 STEAD BLVD RENO NV 89506 SM 1030 SN 5 SOULWINNING, SENIORS, TEENS, JUNIOR CHURCH, COLLEGE CAREER,NURSERY KJB,UNAFFILIATED,HAC"
+    "description": "RENO NV 89506 SM 1030 SN 5 SOULWINNING, SENIORS, TEENS, JUNIOR CHURCH, COLLEGE CAREER,NURSERY KJB,UNAFFILIATED,HAC"
   },
   {
     "id": "2801",
@@ -74,7 +74,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE MESSER. 5350 PEMBROKE DR RENO NV 89502 SS 10,SM 11,SN 630,W 7 BUS, CHOIR, SENIORS, YOUTH, TEEN; LIGHTHOUSE BAPTIST CHRISTIAN ACADEMY, K-12, ACE; FALLON NAVAL STATION KJB church."
+    "description": "RENO NV 89502 SS 10,SM 11,SN 630,W 7 BUS, CHOIR, SENIORS, YOUTH, TEEN; LIGHTHOUSE BAPTIST CHRISTIAN ACADEMY, K-12, ACE; FALLON NAVAL STATION KJB church"
   },
   {
     "id": "2802",
@@ -92,7 +92,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RICHARD T CERVI. 321 N PECOS RD SUITE #110 HENDERSON NV 89074 SS 930,SM 1030,SN 530,W 7 AUDIO SERMONS KJB church."
+    "description": "HENDERSON NV 89074 SS 930,SM 1030,SN 530,W 7 AUDIO SERMONS KJB church"
   },
   {
     "id": "2803",
@@ -111,12 +111,12 @@ export const nevadaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by EDWARD MORRISON. 5715 ELM ST SILVER SPRINGS NV 89429 SS 10, SM 11, SN 530, W 7 BUS, KINGS KIDS, SOULWINNING, TAPE, SENIORS, TEENS; FAITH BAPTIST ACADEMY K5 ABEKA, 1-12 ACE; KJB, RUCKMAN, ESTEP"
+    "description": "SILVER SPRINGS NV 89429 SS 10, SM 11, SN 530, W 7 BUS, KINGS KIDS, SOULWINNING, TAPE, SENIORS, TEENS; FAITH BAPTIST ACADEMY K5 ABEKA, 1-12 ACE; KJB, RUCKMAN, ESTEP"
   },
   {
     "id": "2804",
     "name": "MORNING STAR BAPTIST CHURCH",
-    "address": "3655 S DECATUR BLVD",
+    "address": "3655 S DECATUR  BLVD",
     "city": "Carson City",
     "state": "NV",
     "zipCode": "",
@@ -129,7 +129,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARREN ROBINSON. PO BOX  14-228 3655 S DECATUR  BLVD LAS VEGAS NV 89103 KJB church."
+    "description": "PO BOX 14-228 LAS VEGAS NV 89103 KJB church"
   },
   {
     "id": "2805",
@@ -147,7 +147,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CARL ENGLAND JR. 630 MARK WAY CARSON CITY NV 89721 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "CARSON CITY NV 89721 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2806",
@@ -165,7 +165,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DOUGLAS MONDT. 340 W MESQUITE PAHRUMP NV 89060 SS-SM 830 & 11,SN 6,W 6 AWANA, REFORMERS UNANIMOUS CHRISTIAN SCHOOL, K-12 PO BOX 1392 WINNEMUCCA NV 89446 226 E 4TH ST SS 10,SM 11,SN 6,W 7 KINGS KIDS, TRAC, KJB, BMFP"
+    "description": "340 W MESQUITE PAHRUMP NV 89060 SS-SM 830 & 11,SN 6,W 6 AWANA, REFORMERS UNANIMOUS CHRISTIAN SCHOOL, K-12 PO BOX 1392 WINNEMUCCA NV 89446 SS 10,SM 11,SN 6,W 7 KINGS KIDS, TRAC, KJB, BMFP"
   },
   {
     "id": "2807",
@@ -183,7 +183,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDY THOMPSON. 615 LIVELY FIESTA WAY HENDERSON NV 89015 600 W SUNSET RD SUITE 105 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "HENDERSON NV 89015 600 W SUNSET RD SUITE 105 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "2808",
@@ -202,7 +202,7 @@ export const nevadaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID ELLIS. 47 E ATLANTIC AVE HENDERSON NV 89015 SS 930,SM 8 & 11,SN 6,W 7 SENIORS, YOUTH-HS & JR HIGH, CHOIR, BIBLE STUDY, BIBLE INSTITUTE, NELLIS AFB KJB, BBF"
+    "description": "HENDERSON NV 89015 SS 930,SM 8 & 11,SN 6,W 7 SENIORS, YOUTH-HS & JR HIGH, CHOIR, BIBLE STUDY, BIBLE INSTITUTE, NELLIS AFB KJB, BBF"
   },
   {
     "id": "2809",
@@ -220,7 +220,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RAY DAUGHERTY. 1900 N GATEWAY RD LAS VEGAS NV 89115 SS 945,SM 1050,SN 6,W 7 KJB church."
+    "description": "LAS VEGAS NV 89115 SS 945,SM 1050,SN 6,W 7 KJB church"
   },
   {
     "id": "2810",
@@ -240,7 +240,7 @@ export const nevadaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by ERNIE CARRILLO. 6140 MAE ANNE AVE SUITE A1 RENO NV 89523 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 230116 LAS VEGAS NV 89123 HENDERSON NV 89014 SS 10,SM 11,SN 630,W 7 YOUTH, SOULWINNING, BUS, PATCH PIRATE, AUDIO"
+    "description": "RENO NV 89523 SS 945,SM 11,SN 6,W 7 KJB, UNAFFILIATED PO BOX 230116 LAS VEGAS NV 89123 HENDERSON NV 89014 SS 10,SM 11,SN 630,W 7 YOUTH, SOULWINNING, BUS, PATCH PIRATE, AUDIO"
   },
   {
     "id": "2811",
@@ -258,7 +258,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PETE MCKENZIE. 538 S MLK BLVD LAS VEGAS NV 89106 KJB church."
+    "description": "LAS VEGAS NV 89106 KJB church"
   },
   {
     "id": "2812",
@@ -271,12 +271,12 @@ export const nevadaChurches: Church[] = [
     "longitude": -118.2571,
     "phone": "(702) 452-2622",
     "website": "http://www.visitbiblebaptist.com",
-    "pastor": "MILTON CARR",
+    "pastor": "CBM, NBBC 847 C ST BOX 1568 HAWTHORNE NV 89415 SS 945,SM 11",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "Led by MILTON CARR. 2238 SANDY LANE LAS VEGAS NV 89115 SS 945,SM 11,SN 6,W 7 A.V.  INSTITUTE OF BIBLICAL STUDIES, PATCH THE PIRATE CLUB, NELLIS AFB NEEDS PASTOR CBM, NBBC 847 C ST BOX 1568 HAWTHORNE NV 89415 SS 945,SM 11"
+    "description": "LAS VEGAS NV 89115 SS 945,SM 11,SN 6,W 7 A.V. INSTITUTE OF BIBLICAL STUDIES, PATCH THE PIRATE CLUB, NELLIS AFB NEEDS"
   },
   {
     "id": "2813",
@@ -295,7 +295,7 @@ export const nevadaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by AARON F YOUNG. 3365 E DONALD LN WINNEMUCCA NV 89446 KJV, NKJV, NASB, BJU 3030 N 5TH ST ELKO NV 89801 SS 945,SM 11,SN 6,W 7 CHILDREN, YOUTH, ADULT NOT KJV ONLY, CCM, GARBC KJB church."
+    "description": "WINNEMUCCA NV 89446 KJV, NKJV, NASB, BJU 3030 N 5TH ST ELKO NV 89801 SS 945,SM 11,SN 6,W 7 CHILDREN, YOUTH, ADULT NOT KJV ONLY, CCM, GARBC KJB church"
   },
   {
     "id": "2814",
@@ -313,7 +313,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MATT SMITH. 1881 HARVARD WAY RENO NV 89502 SS 945,SM 830 & 11,SN 6,W 7 FILIPINO, DEAF; CALVARY BAPTIST CHURCH SCHOOL, K-12 NOT KJV ONLY, CCM KJB church."
+    "description": "RENO NV 89502 SS 945,SM 830 & 11,SN 6,W 7 FILIPINO, DEAF; CALVARY BAPTIST CHURCH SCHOOL, K-12 NOT KJV ONLY, CCM KJB church"
   },
   {
     "id": "2815",
@@ -331,7 +331,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON MCBRIDE. PO BOX 33999 7830 W ANN RD #230 LAS VEGAS NV 89133-3999 SS 945,SM 11,SN 7,W 7 NELLIS AFB PREACH-KJV, STUDY OTHERS KJB church."
+    "description": "PO BOX 33999 LAS VEGAS NV 89133-3999 SS 945,SM 11,SN 7,W 7 NELLIS AFB PREACH-KJV, STUDY OTHERS KJB church"
   },
   {
     "id": "2816",
@@ -350,7 +350,7 @@ export const nevadaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DAVID M TEIS. 1445 LUCAS RD FALLON NV 89406 SS 10, SM 11, SA 130,W 7 CHILDREN’S CHURCH, COMMUNITY OUTREACH, BIBLE STUDY, LIVESTREAM SERVICES. 10 MILES FROM NAS FALLON KJB, BBF, CCM, MBBC"
+    "description": "FALLON NV 89406 SS 10, SM 11, SA 130,W 7 CHILDREN’S CHURCH, COMMUNITY OUTREACH, BIBLE STUDY, LIVESTREAM SERVICES. 10 MILES FROM NAS FALLON KJB, BBF, CCM, MBBC"
   },
   {
     "id": "2817",
@@ -368,7 +368,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOHN RICHARDSON. 6501 W LAKE MEADE BLVD LAS VEGAS NV 89108 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, AWANA; LIBERTY BAPTIST ACADEMY; NELLIS AFB PREACH-KJV, NOT KJV ONLY KJB church."
+    "description": "LAS VEGAS NV 89108 SS 945,SM 11,SN 6,W 7 AUDIO SERMONS, AWANA; LIBERTY BAPTIST ACADEMY; NELLIS AFB PREACH-KJV, NOT KJV ONLY KJB church"
   },
   {
     "id": "2818",
@@ -386,12 +386,12 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by AARON FLANAGAN. 6319 LONE MOUNTAIN RD LAS VEGAS NV 89119 SS 10,SM 11,SN 6,W 630 NOT KJV ONLY, CCM KJB church."
+    "description": "LAS VEGAS NV 89119 SS 10,SM 11,SN 6,W 630 NOT KJV ONLY, CCM KJB church"
   },
   {
     "id": "2819",
     "name": "OASIS BAPTIST CHURCH",
-    "address": "3256 ALOHA ST",
+    "address": "4824 E DESERT INN RD",
     "city": "Carson City",
     "state": "NV",
     "zipCode": "",
@@ -404,7 +404,7 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA TEIS. 3256 ALOHA ST LAS VEGAS NV 89121 4824 E DESERT INN RD SS 945,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS NOT KJV ONLY, CONTEMPORARY SERVICES KJB church."
+    "description": "LAS VEGAS NV 89121 SS 945,SM 11,SN 6,W 7 AWANA, AUDIO SERMONS NOT KJV ONLY, CONTEMPORARY SERVICES KJB church"
   },
   {
     "id": "2820",
@@ -422,6 +422,6 @@ export const nevadaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "5840 LA COSTA CANYON CT LAS VEGAS NV 89139 SS 10,SM 830 & 11,SN 6,W 7"
+    "description": "LAS VEGAS NV 89139 SS 10,SM 830 & 11,SN 6,W 7"
   }
 ];

@@ -4,7 +4,7 @@ export const arizonaChurches: Church[] = [
   {
     "id": "55",
     "name": "LIBERTY BAPTIST CHURCH",
-    "address": "2171 B ST",
+    "address": "2171 B ST OVERGAARD",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -17,12 +17,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by PAUL SONDERGAARD. PO BOX 674 HEBER AZ 85928 MEETING AT RIM COUNTRY SENIOR CENTER 2171 B ST OVERGAARD AZ 85933 SS 10,SM 11 KJB church."
+    "description": "PO BOX 674 HEBER AZ 85928 MEETING AT RIM COUNTRY SENIOR CENTER AZ 85933 SS 10,SM 11 KJB church"
   },
   {
     "id": "56",
     "name": "LIVING WATERS BAPTIST CHURCH",
-    "address": "2400 W HORSESHOE BEND DR",
+    "address": "2400 W HORSESHOE BEND DR CAMP VERD",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -35,7 +35,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JEFF GATTEN. 2400 W HORSESHOE BEND DR CAMP VERDE AZ 86322 SS 9,SM 10,SN 5,W 6 KJB, HBBC"
+    "description": "E AZ 86322 SS 9,SM 10,SN 5,W 6 KJB, HBBC"
   },
   {
     "id": "57",
@@ -53,12 +53,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MITCHELL CRITTENDEN. 7886 AZ HWY 287 COOLIDGE AZ 85128 SS 10,SM 11,SN 530,W 7 KJB church."
+    "description": "7886 AZ HWY 287 COOLIDGE AZ 85128 SS 10,SM 11,SN 530,W 7 KJB church"
   },
   {
     "id": "58",
     "name": "HILLCREST BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 42238",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -71,7 +71,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID JOSEPH MACLELLAN. PO BOX 42238 RIDGELINE ACADEMY 33625 N NORTH VALLEY PKWY PHOENIX AZ 85085 SM 1030, SN 530, W 7 KJB church."
+    "description": "RIDGELINE ACADEMY 33625 N NORTH VALLEY PKWY PHOENIX AZ 85085 SM 1030, SN 530, W 7 KJB church"
   },
   {
     "id": "59",
@@ -90,7 +90,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by RICK LEWIS. 879 N PLAZA DR SUITE 104B APACHE JUNCTION AZ 85120 TRADITIONAL SERVICES, CHURCH PLANTING, SOULWINNING, YOUTUBE SERMONS KJB, UNAFFILLIATED, TRADITIONAL SERVICES"
+    "description": "SUITE 104B APACHE JUNCTION AZ 85120 TRADITIONAL SERVICES, CHURCH PLANTING, SOULWINNING, YOUTUBE SERMONS KJB, UNAFFILLIATED, TRADITIONAL SERVICES"
   },
   {
     "id": "60",
@@ -108,7 +108,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEPHEN ZIMMERMAN. PO BOX 491 16791 W HARDSCRABBLE RD ARIVACA AZ 85601 KJB,HBBC"
+    "description": "PO BOX 491 ARIVACA AZ 85601 KJB,HBBC"
   },
   {
     "id": "61",
@@ -128,7 +128,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by EX-AIRFORCE. PO BOX 91248 TUCSON AZ 85752 2850 WEST INA RD, SUITE 140 TUCSON AZ 85741 SM 830,SN 4,W 630 ONLINE KJB,UNAFFILIATED,NON-REGISTERED"
+    "description": "PO BOX 91248 TUCSON AZ 85752 , SUITE 140 TUCSON AZ 85741 SM 830,SN 4,W 630 ONLINE KJB,UNAFFILIATED,NON-REGISTERED"
   },
   {
     "id": "62",
@@ -147,7 +147,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by VICTOR CREWS. PO BOX 41652 1502 E SANDRA TERRACE PHOENIX AZ 85080 PROPHETS CHAMBER KJB, FUNDAMENTAL"
+    "description": "PO BOX 41652 PHOENIX AZ 85080 PROPHETS CHAMBER KJB, FUNDAMENTAL"
   },
   {
     "id": "63",
@@ -167,7 +167,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DR JOSEPH O ELWELL. (doing business as TUCSON INDEPENDENT BAPTIST CHURCH) 2609 N PARK AVE TUCSON AZ 85719 BUS ,CHILDREN CHURCH, SOULWINNING 7875 E 24TH ST SUITE #4 YUMA AZ 85365 KJB, UNAFFILIATED"
+    "description": "(doing business as TUCSON INDEPENDENT BAPTIST CHURCH) TUCSON AZ 85719 BUS ,CHILDREN CHURCH, SOULWINNING 7875 E 24TH ST SUITE #4 YUMA AZ 85365 KJB, UNAFFILIATED"
   },
   {
     "id": "64",
@@ -185,7 +185,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DON RANDALL JR. PO BOX 8741 CATALINA AZ 85738-0741 PHYSICAL ADD 14901 N SWAN RD TUCSON AZ 85739 SM 1030, TU 7 KJB church."
+    "description": "PO BOX 8741 CATALINA AZ 85738-0741 PHYSICAL ADD TUCSON AZ 85739 SM 1030, TU 7 KJB church"
   },
   {
     "id": "65",
@@ -203,7 +203,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1041 HANCOCK RD SUITE 2/3 BULLHEAD CITY AZ 86442"
+    "description": "SUITE 2/3 BULLHEAD CITY AZ 86442"
   },
   {
     "id": "66",
@@ -222,7 +222,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by DAVID ZIMMERMAN. SM 10, SN 6, TH 7 SOULWINNING MISSIONS MINDED KJB, HBBC, WCBC PO BOX 608 MARICOPA AZ 85138 MEETING AT: SEQUOIA PATHWAY ACADEMY 19265 N PORTER RD SS 10,SM 11,SN 5 MIDWEEK SERVICE MEETS AT 40132 W MARY"
+    "description": "SM 10, SN 6, TH 7 SOULWINNING MISSIONS MINDED KJB, HBBC, WCBC PO BOX 608 MARICOPA AZ 85138 MEETING AT: SEQUOIA PATHWAY ACADEMY SS 10,SM 11,SN 5 MIDWEEK SERVICE MEETS AT 40132 W MARY"
   },
   {
     "id": "67",
@@ -240,12 +240,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ANDREW MAGNARELLA. PO BOX 553 12900 E PRESCOTT DELLS RANCH RD DEWEY-HUMBOLDT AZ 86329 SS 10,SM 11,SN 530,W 7 MINISTRIES FOR ALL AGE GROUPS, CHURCH PLANTING KJB,OBC"
+    "description": "PO BOX 553 DEWEY-HUMBOLDT AZ 86329 SS 10,SM 11,SN 530,W 7 MINISTRIES FOR ALL AGE GROUPS, CHURCH PLANTING KJB,OBC"
   },
   {
     "id": "68",
     "name": "BETHEL BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 854",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -258,7 +258,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by LARRY PONDOFF. PO BOX 854 HOTEVILLA AZ 86030 PHYSICAL: 389.6 HWY 264 FIRST MESA AZ 86042 SS 950,SM 11,SN 6,W 7 KJB church."
+    "description": "HOTEVILLA AZ 86030 PHYSICAL: 389.6 HWY MESA AZ 86042 SS 950,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "69",
@@ -276,7 +276,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE SHAFER. 2300 W CALVARY LN BENSON AZ 85602 SS 9,SM 10,SN 6,W 7 KJB church."
+    "description": "BENSON AZ 85602 SS 9,SM 10,SN 6,W 7 KJB church"
   },
   {
     "id": "70",
@@ -294,7 +294,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by RON MANUEL. 13419 W OCOTILLO RD GLENDALE AZ 85307 SS 10, SM 11, SN 6, W 7 VISION CHRISTIAN ACADEMY K3-8TH GRADES, ABEKA CHILDRENS CLUB, BUS, TEEN, ADULT, LUKE AFB KJB church."
+    "description": "GLENDALE AZ 85307 SS 10, SM 11, SN 6, W 7 VISION CHRISTIAN ACADEMY K3-8TH GRADES, ABEKA CHILDRENS CLUB, BUS, TEEN, ADULT, LUKE AFB KJB church"
   },
   {
     "id": "71",
@@ -313,7 +313,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by CLIFF LAWTON. PO BOX 755 COLLIER ELEMENTARY SCHOOL 350 S 118TH AVE AVONDALE AZ 85323 SM 1030,SN 6,W 7 KJB,FUNDAMENTAL"
+    "description": "PO BOX 755 COLLIER ELEMENTARY SCHOOL AVONDALE AZ 85323 SM 1030,SN 6,W 7 KJB,FUNDAMENTAL"
   },
   {
     "id": "72",
@@ -333,7 +333,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by TONY BULAWA. PO BOX 5352 50 W DRACHMAN ST TUCSON AZ 85703 SOULWINNING KJB, FUNDAMENTAL"
+    "description": "PO BOX 5352 TUCSON AZ 85703 SOULWINNING KJB, FUNDAMENTAL"
   },
   {
     "id": "73",
@@ -352,12 +352,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "SBC"
     ],
-    "description": "Led by RYAN LASATER. 13260 W FOXFIRE DR SURPRISE AZ 85378 SS 9,SM 10,SN 6,TUE 7 KJB church."
+    "description": "SURPRISE AZ 85378 SS 9,SM 10,SN 6,TUE 7 KJB church"
   },
   {
     "id": "74",
     "name": "VICTORY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 924",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -370,7 +370,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHANE MONTGOMERY. PO BOX 924 13540 E GARIGANS GULCH VAIL AZ 85641 KJB church."
+    "description": "13540 E GARIGANS GULCH VAIL AZ 85641 KJB church"
   },
   {
     "id": "75",
@@ -388,12 +388,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MONTGOMERY SON-IN-LAW IN ARMY GUARD & SON IN USAF. PO BOX 11883 CURRENTLY MEETING AT 2492 N TREKELL RD CASA GRANDE AZ 85230 SS 930,SM 1030,SN 630,W 7 ONLINE BIBLE STUDIES KJB, WEST COAST BC,"
+    "description": "PO BOX 11883 CURRENTLY MEETING AT CASA GRANDE AZ 85230 SS 930,SM 1030,SN 630,W 7 ONLINE BIBLE STUDIES KJB, WEST COAST BC"
   },
   {
     "id": "76",
     "name": "SOUTHWEST BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 358",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -406,12 +406,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DR J C JOINER. PO BOX 358 LAKE HAVASU CITY AZ 86405 MEETING AT: 2150 N KIOWA, SUITE B102 SS 10, SN 6, W 7 KJB church."
+    "description": "LAKE HAVASU CITY AZ 86405 MEETING AT: 2150 N KIOWA, SUITE B102 SS 10, SN 6, W 7 KJB church"
   },
   {
     "id": "77",
     "name": "NEW TESTAMENT BAPTIST CHURCH",
-    "address": "2855 N CRAYCROFT RD",
+    "address": "5 MILES CONSERVATIVE STYLE RECORD",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -424,7 +424,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID EKBLAD. 2855 N CRAYCROFT RD TUCSON AZ 85712 SS 945,SM 11,SN 6,W 7 AWANA, REFORMERS UNANIMOUS DAVIS MONTHAN AFB 5 MILES CONSERVATIVE STYLE RECORDED MUSIC KJB church."
+    "description": "TUCSON AZ 85712 SS 945,SM 11,SN 6,W 7 AWANA, REFORMERS UNANIMOUS DAVIS MONTHAN AFB ED MUSIC KJB church"
   },
   {
     "id": "78",
@@ -442,12 +442,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALFRED KING. 3213 E SOUTHERN PHOENIX AZ 85040 SS 10, SM 11, SN 6, W 7 31 MILES FROM LUKE AFB, 3 MILES S OF SKYHARBOR AIRPORT (5 BY ROAD) KJB, HEARTLAND-BBC"
+    "description": "3213 E SOUTHERN PHOENIX AZ 85040 SS 10, SM 11, SN 6, W 7 , 3 MILES S OF SKYHARBOR AIRPORT (5 BY ROAD) KJB, HEARTLAND-BBC"
   },
   {
     "id": "79",
     "name": "NORTH VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 68733",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -461,7 +461,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JAMES L PITTS. PO BOX 68733 700 PALISADES ORO VALLEY AZ 85737 KJB,UNAFFILIATED"
+    "description": "700 PALISADES ORO VALLEY AZ 85737 KJB,UNAFFILIATED"
   },
   {
     "id": "80",
@@ -479,7 +479,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "1301 E 15TH ST DOUGLAS AZ 85607 SS 10,SM 11,SN 6,W 6 50 MILES TO FT HUACHUCA ACROSS FROM 15TH ST PARK (JOE CAUSEY PARK) IGLESIA BAUTISTA BIBLICA AVENIDA 33, CALLE 10,  ESQ #956 AGUA PRIETA, SONORA, ME"
+    "description": "DOUGLAS AZ 85607 SS 10,SM 11,SN 6,W 6 50 MILES TO FT HUACHUCA ACROSS FROM 15TH ST PARK (JOE CAUSEY PARK) IGLESIA BAUTISTA BIBLICA AVENIDA 33, CALLE 10, ESQ #956 AGUA PRIETA, SONORA, ME"
   },
   {
     "id": "81",
@@ -498,7 +498,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ADAM ZAMORA. ALL SERVICES TRANSLATED SPANISH TO ENGLISH GREAT OPPORTUNITY TO LEARN SPANISH OR ENGLISH WHILE SERVING KJB, UNAFFILIATED"
+    "description": "ALL SERVICES TRANSLATED SPANISH TO ENGLISH GREAT OPPORTUNITY TO LEARN SPANISH OR ENGLISH WHILE SERVING KJB, UNAFFILIATED"
   },
   {
     "id": "82",
@@ -516,7 +516,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DEREK WHEELAND. JASINSKI ELEMENTARY 4280 S 246TH AVE BUCKEYE AZ 85326 SM 10,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "JASINSKI ELEMENTARY BUCKEYE AZ 85326 SM 10,SN 6,W 7 MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "83",
@@ -535,7 +535,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by JUSTIN LEASURE. 3654 GORDON ST MIAMI AZ 85539 SS 10,SM 11,SN 5,W 630 KJB, UNAFFILIATED"
+    "description": "MIAMI AZ 85539 SS 10,SM 11,SN 5,W 630 KJB, UNAFFILIATED"
   },
   {
     "id": "84",
@@ -555,12 +555,12 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by DAVID CHICOINE. PO BOX 13787 8150 S MCCLINTOCK DR TEMPE AZ 85284 SS 930,SM 1030,SN 630,W 7 SOULWINNING, PUBLIC EVANGELISM, RADIO, PRINTING PUBLISHING, SPANISH KJB, UNAFFILIATED"
+    "description": "PO BOX 13787 TEMPE AZ 85284 SS 930,SM 1030,SN 630,W 7 SOULWINNING, PUBLIC EVANGELISM, RADIO, PRINTING PUBLISHING, SPANISH KJB, UNAFFILIATED"
   },
   {
     "id": "85",
     "name": "OPPORTUNITY BIBLE BAPTIST CHURCH",
-    "address": "1804 W PALOMINO DR",
+    "address": "85224 PHYSICAL ADDR",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -573,7 +573,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARK HAYNES. 1804 W PALOMINO DR CHANDLER AZ 85224 PHYSICAL ADDRESS: ATRIA CHANDLER VILLAS COMMUNITY CENTER 101 S YUCCA ST SS 930 SM 1030 SN 6 W 630 KJB church."
+    "description": "CHANDLER AZ ESS: ATRIA CHANDLER VILLAS COMMUNITY CENTER 101 S YUCCA ST SS 930 SM 1030 SN 6 W 630 KJB church"
   },
   {
     "id": "86",
@@ -591,12 +591,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STAN STRINGER. PO BOX 458 AZ HWY 264 GANADO AZ 86505 NAVAJO INDIAN RESERVATION MP3 AUDIO SERMONS ONLINE 11080 S BRANDYWINE LN TUCSON AZ 85736-1366 SS 10,SM 11,SN 630,W 7 KJB church."
+    "description": "PO BOX 458 AZ HWY 264 GANADO AZ 86505 NAVAJO INDIAN RESERVATION MP3 AUDIO SERMONS ONLINE TUCSON AZ 85736-1366 SS 10,SM 11,SN 630,W 7 KJB church"
   },
   {
     "id": "87",
     "name": "FAITH BAPTIST ACADEMY",
-    "address": "",
+    "address": "7 MISSION BAUTIST",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -609,12 +609,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DARRELL ROE. Tohono O’odham Indian Reservation HEAVEN’S VIEW BAPTIST CHURCH PO BOX 3828 12945 S SAN SIMON ARIZONA CITY AZ 85223 SS 10,SM 11,SN 6,W 7 MISSION BAUTISTA RESURRECION KJB church."
+    "description": "Tohono O’odham Indian Reservation HEAVEN’S VIEW BAPTIST CHURCH PO BOX 3828 12945 S SAN SIMON ARIZONA CITY AZ 85223 SS 10,SM 11,SN 6,W A RESURRECION KJB church"
   },
   {
     "id": "88",
     "name": "RESURRECTION BAPTIST MISSION",
-    "address": "",
+    "address": "7 CHURCH LOCATED ACROSS THE BORD",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -627,12 +627,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BOBBY PERRY. HC 2 BOX 30 NOGALES AZ 85621 15 DE ENERO NOGALES, SON (WILL PROVIDE TRANSPORTATION) SS 10,SM 11,W 7 CHURCH LOCATED ACROSS THE BORDER IN NOGALES MEXICO. SERVICES ARE BILINGUAL, AND TRANSPORTATION IS AV KJB church."
+    "description": "HC 2 BOX 30 NOGALES AZ 85621 15 DE ENERO NOGALES, SON (WILL PROVIDE TRANSPORTATION) SS 10,SM 11,W ER IN NOGALES MEXICO. SERVICES ARE BILINGUAL, AND TRANSPORTATION IS AV KJB church"
   },
   {
     "id": "89",
     "name": "MOUNTAIN VISTA BAPTIST CHURCH",
-    "address": "970 E FRY BLVD",
+    "address": "970 E FRY BLVD SIERRA VIST",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -646,12 +646,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "ABA"
     ],
-    "description": "Led by JAMES ROY. 970 E FRY BLVD SIERRA VISTA AZ 85635 SS 10,SM 11,SN 6,W 630 NURSERY, JUNIOR CHURCH, ADULT SS FORT HUACHUCA KJB church."
+    "description": "A AZ 85635 SS 10,SM 11,SN 6,W 630 NURSERY, JUNIOR CHURCH, ADULT SS FORT HUACHUCA KJB church"
   },
   {
     "id": "90",
     "name": "BUCKEYE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 141",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -664,7 +664,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROY EX-USAF. PO BOX 141 BUCKEYE AZ 85326 SM 11,SN 6,W 7 LUKE AFB 21 MILES KJB church."
+    "description": "BUCKEYE AZ 85326 SM 11,SN 6,W 7 LUKE AFB 21 MILES KJB church"
   },
   {
     "id": "91",
@@ -682,7 +682,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVE BAXTER. PO BOX 6625 PEORIA AZ 85385 MEETING AT: THE CHALLENGER SPACE CENTER, 21170 N 83RD AVE SM 10, SN 6, W 7 LUKE AFB KJB church."
+    "description": "PO BOX 6625 PEORIA AZ 85385 , 21170 N 83RD AVE SM 10, SN 6, W 7 LUKE AFB KJB church"
   },
   {
     "id": "92",
@@ -700,7 +700,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY SCHWER. 20609 W PATTON RD WITTMANN AZ 85361 SS 930, SM 1030, SN 6, TH 7 KJB church."
+    "description": "WITTMANN AZ 85361 SS 930, SM 1030, SN 6, TH 7 KJB church"
   },
   {
     "id": "93",
@@ -719,7 +719,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by MIKE STORTI. 235 N CRISMON DR MESA AZ 85207 near QUEEN CREEK, TEMPE, GILBERT, SCOTTSDALE SS 930,SM 1045,SN 6,THU 7 BUS, SOULWINNING, CHOIR, REFORMERS UNANIMOUS, SPANISH, WMA AUDIO SERMONS ONLINE, FAMILY ORIENTATED KJB church."
+    "description": "MESA AZ 85207 near QUEEN CREEK, TEMPE, GILBERT, SCOTTSDALE SS 930,SM 1045,SN 6,THU 7 BUS, SOULWINNING, CHOIR, REFORMERS UNANIMOUS, SPANISH, WMA AUDIO SERMONS ONLINE, FAMILY ORIENTATED KJB church"
   },
   {
     "id": "94",
@@ -739,7 +739,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by T P COLEMAN. 5000 N LaCHOLLA - LOT 76 TUCSON AZ 85705 KJB,UNAFFILIATED 35TH AVENUE BAPTIST CHURCH 2522 N 35TH AVE PHOENIX AZ 85009 SS 10,SM 11,SN 6,W 7 SOULWINNING LUKE AFB 25 MINS KJB, HEARTLAND, CROWN, WEST COAS"
+    "description": "5000 N LaCHOLLA - LOT 76 TUCSON AZ 85705 KJB,UNAFFILIATED 2522 N 35TH AVE PHOENIX AZ 85009 SS 10,SM 11,SN 6,W 7 SOULWINNING LUKE AFB 25 MINS KJB, HEARTLAND, CROWN, WEST COAS"
   },
   {
     "id": "95",
@@ -758,7 +758,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GREG E HARDESTY. 4670 DUDLEYVILLE RD WINKELMAN AZ 85292 SS 930,SM 11,SN 7,W 7 DISCOVERY,SENIOR SAINTS,LADIES FELLOWSHIP KJB, IBBF"
+    "description": "WINKELMAN AZ 85292 SS 930,SM 11,SN 7,W 7 DISCOVERY,SENIOR SAINTS,LADIES FELLOWSHIP KJB, IBBF"
   },
   {
     "id": "96",
@@ -776,7 +776,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "12301 W GLENDALE AVE GLENDALE AZ 85307 SS 9, SM 10, SN 530, W 7 SINGLES, SENIORS, PRISON, BUS"
+    "description": "GLENDALE AZ 85307 SS 9, SM 10, SN 530, W 7 SINGLES, SENIORS, PRISON, BUS"
   },
   {
     "id": "97",
@@ -789,13 +789,13 @@ export const arizonaChurches: Church[] = [
     "longitude": -110.4482,
     "phone": "",
     "website": "",
-    "pastor": "BILL HOWARD",
+    "pastor": "KJB,UNAFFILIATED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by BILL HOWARD. LUKE AFB MISSIONARY PASTOR KJB,UNAFFILIATED"
+    "description": "LUKE AFB MISSIONARY"
   },
   {
     "id": "98",
@@ -815,7 +815,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "Independent"
     ],
-    "description": "Led by RONALD MOXON. 2310 W CANADA ST TUCSON AZ 85746 SS 10,SM 11,SN 7,W 7 MP3 AUDIO SERMONS ONLINE, SOULWINNING, MISSIONS DAVID MONTHAN AFB 8 MILES KJB,UNAFFILIATED,CCM"
+    "description": "TUCSON AZ 85746 SS 10,SM 11,SN 7,W 7 MP3 AUDIO SERMONS ONLINE, SOULWINNING, MISSIONS DAVID MONTHAN AFB 8 MILES KJB,UNAFFILIATED,CCM"
   },
   {
     "id": "99",
@@ -833,7 +833,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MIKE HENRY. 10425 N THORNYDALE RD TUCSON AZ 85752 SS 9,SM 10,SN 6,W 7 DEAF,YOUTH,CAMPS DAVIS MONTHAM 20-30 MINS AWAY 201 E ELLIOT RD KJB church."
+    "description": "TUCSON AZ 85752 SS 9,SM 10,SN 6,W 7 DEAF,YOUTH,CAMPS DAVIS MONTHAM 20-30 MINS AWAY 201 E ELLIOT RD KJB church"
   },
   {
     "id": "100",
@@ -851,7 +851,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GEORGE F GILBERT. GILBERT AZ 85234 SS 930,SM 1030,SN 7,W 7 WILLIAMS AFB,LUKE AFB MP3 AUDIO SERMONS ONLINE KJB church."
+    "description": "GILBERT AZ 85234 SS 930,SM 1030,SN 7,W 7 WILLIAMS AFB,LUKE AFB MP3 AUDIO SERMONS ONLINE KJB church"
   },
   {
     "id": "101",
@@ -864,18 +864,18 @@ export const arizonaChurches: Church[] = [
     "longitude": -110.0657,
     "phone": "(928) 757-1212",
     "website": "https://citlink.net",
-    "pastor": "",
+    "pastor": "KINGMAN AZ 86401 SS 10,SM 11,SN 6,W 630 SOULWINNING KJB church",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Soulwinning"
     ],
-    "description": "4220 N SIERRA DR KINGMAN AZ 86401 SS 10,SM 11,SN 6,W 630 SOULWINNING KJB church."
+    "description": "KINGMAN AZ 86401 SS 10,SM 11,SN 6,W 630 SOULWINNING KJB church"
   },
   {
     "id": "102",
     "name": "VALLEY BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 115",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -888,7 +888,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROY PHIL. PO BOX 115 PAULDEN AZ 86334 KJB church."
+    "description": "PAULDEN AZ 86334 KJB church"
   },
   {
     "id": "103",
@@ -907,7 +907,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by GENE NOEL. 9120 N 95TH AVE PEORIA AZ 85345 PHOENIX AND GLENDALE AREA SS 9,SM 10,SN 6,W 7 AWANA,BUS,SENIORS, SINGLES, TEENS LUKE AFB 15 MINS AWAY 2109 E ROSE GARDEN LANE PHOENIX AZ 85024-4421 SS 10,SM 11,SN 6,W 7 KJB church."
+    "description": "PEORIA AZ 85345 PHOENIX AND GLENDALE AREA SS 9,SM 10,SN 6,W 7 AWANA,BUS,SENIORS, SINGLES, TEENS LUKE AFB 15 MINS AWAY 2109 E ROSE GARDEN LANE PHOENIX AZ 85024-4421 SS 10,SM 11,SN 6,W 7 KJB church"
   },
   {
     "id": "104",
@@ -925,7 +925,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by BRENT ARMSTRONG. 1402 N POWER RD MESA AZ 85205 SS 9,SM 10,SN 6,W 7 CHOIR,SUNDAY SCHOOL SAGUARO HILLS CHRISTIAN SCHOOL; K4-12 LUKE AFB 60 MILES KJB,BBC-MO,ABC,MBBC"
+    "description": "MESA AZ 85205 SS 9,SM 10,SN 6,W 7 CHOIR,SUNDAY SCHOOL SAGUARO HILLS CHRISTIAN SCHOOL; K4-12 LUKE AFB 60 MILES KJB,BBC-MO,ABC,MBBC"
   },
   {
     "id": "105",
@@ -943,7 +943,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by STEVEN A MORRIS. 1525 S COLUMBUS TUCSON AZ 85711 SS 10,SM 11,SN 630,W 7 DAVIS MONTHAN AFB KJB church."
+    "description": "1525 S COLUMBUS TUCSON AZ 85711 SS 10,SM 11,SN 630,W 7 DAVIS MONTHAN AFB KJB church"
   },
   {
     "id": "106",
@@ -961,7 +961,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "8811 W AVRA VALLEY RD MARANA AZ 85653 SS 10,SM 830 & 11,SN 6,TH 630 BUS,KJV-AWANA, AUDIO & VIDEO SERMONS ONLINE KJB church."
+    "description": "MARANA AZ 85653 SS 10,SM 830 & 11,SN 6,TH 630 BUS,KJV-AWANA, AUDIO & VIDEO SERMONS ONLINE KJB church"
   },
   {
     "id": "107",
@@ -980,12 +980,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ALFRED E MAESE. SUN & SHIELD BIBLE INSTITUTE KJV,BBF,IBFI PO BOX 4236 1780 E 24TH ST YUMA AZ 85366 SS 10,SM 11,SN 6,W 7 YUMA PROVING GRNDS,BARRY M GOLDWATER AFR KJB, WCBC, HEARTLAND"
+    "description": "SUN & SHIELD BIBLE INSTITUTE KJV,BBF,IBFI PO BOX 4236 YUMA AZ 85366 SS 10,SM 11,SN 6,W 7 YUMA PROVING GRNDS,BARRY M GOLDWATER AFR KJB, WCBC, HEARTLAND"
   },
   {
     "id": "108",
     "name": "SONRISE BAPTIST CHURCH",
-    "address": "2861 W PELSTON ST",
+    "address": "604 W ASPEN AVE FLAGST",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1000,7 +1000,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by GEORGE W FEASTER. 2861 W PELSTON ST TUCSON AZ 85746 SS 9, SM 10, SN 5, W 7 PATCH CLUB, SOULWINNING, COLLEGE CAREER, TEENS, SPANISH 604 W ASPEN AVE FLAGSTAFF AZ 86001 SS 10,SM 11,SN 6,W 7 KJB,BBF"
+    "description": "TUCSON AZ 85746 SS 9, SM 10, SN 5, W 7 PATCH CLUB, SOULWINNING, COLLEGE CAREER, TEENS, SPANISH AFF AZ 86001 SS 10,SM 11,SN 6,W 7 KJB,BBF"
   },
   {
     "id": "109",
@@ -1018,7 +1018,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "13792 E PONY LN GILBERT AZ 85296-5212 SS 930,SM 1030,SN 6,W 7"
+    "description": "GILBERT AZ 85296-5212 SS 930,SM 1030,SN 6,W 7"
   },
   {
     "id": "110",
@@ -1041,7 +1041,7 @@ export const arizonaChurches: Church[] = [
   {
     "id": "111",
     "name": "GATEWAY BAPTIST ACADEMY",
-    "address": "555 S MOUNTAIN RD",
+    "address": "555 S MOUNTAIN RD APACHE JUNCT",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1055,7 +1055,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by KEVIN COWLING. LUKE AFB 25 MILES,GOLDWATER AFB KJB,UNAFFILIATED,HYLES 555 S MOUNTAIN RD APACHE JUNCTION AZ 85220 SS 9,SM 10,SN 6,W 730"
+    "description": "LUKE AFB 25 MILES,GOLDWATER AFB KJB,UNAFFILIATED,HYLES ION AZ 85220 SS 9,SM 10,SN 6,W 730"
   },
   {
     "id": "112",
@@ -1073,7 +1073,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by EDWARD WARE. KJB,RUCKMAN"
+    "description": "KJB,RUCKMAN"
   },
   {
     "id": "113",
@@ -1092,12 +1092,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Soulwinning"
     ],
-    "description": "Led by JAMES M DUTTON. 6801 W GLENDALE AVE GLENDALE AZ 85303 NEAR PHOENIX SS 915,SM 1030,SN 5,W 630 LUKE AFB KJB, PBI, RUCKMAN 2945 N STATE HWY 89 CHINO VALLEAPPELLLY AZ 86323 SS 10, SM 11,SN 6, W 7 NURSERY PROVIDED FOR ALL"
+    "description": "GLENDALE AZ 85303 NEAR PHOENIX SS 915,SM 1030,SN 5,W 630 LUKE AFB KJB, PBI, RUCKMAN 2945 N STATE HWY 89 CHINO VALLEAPPELLLY AZ 86323 SS 10, SM 11,SN 6, W 7 NURSERY PROVIDED FOR ALL"
   },
   {
     "id": "114",
     "name": "BETHEL NAVAJO BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 623",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1110,7 +1110,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by SHAWN SCRIBNER. PO BOX 623 HWY 9052 NEAR HWY 264 GANADO AZ 86505 KJB church."
+    "description": "HWY 9052 NEAR HWY 264 GANADO AZ 86505 KJB church"
   },
   {
     "id": "115",
@@ -1128,7 +1128,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ULISES VELASQUEZ. 11770 S AVE B YUMA AZ 85365 SS 9,SM 11,SN 6,W 7 SPANISH SERVICES SS 130,SM 230,TH 6 YUMA PROVING GRNDS, BARRY M GOLDWATER AFR KJB,HEARTLAND-BBC"
+    "description": "YUMA AZ 85365 SS 9,SM 11,SN 6,W 7 SPANISH SERVICES SS 130,SM 230,TH 6 YUMA PROVING GRNDS, BARRY M GOLDWATER AFR KJB,HEARTLAND-BBC"
   },
   {
     "id": "116",
@@ -1148,7 +1148,7 @@ export const arizonaChurches: Church[] = [
       "BBF",
       "ABA"
     ],
-    "description": "Led by SCOTT NAILL. 752 S ELLSWORTH RD MESA AZ 85208 OFF HWY 60 -- NORTH OF SOUTHERN SS 9,SM 10,SN 5 SENIORS, SPANISH, FOOD BANK, PRISON, PROPHETS CHAMBER LUKE AFB KJB,BBF"
+    "description": "MESA AZ 85208 OFF HWY 60 -- NORTH OF SOUTHERN SS 9,SM 10,SN 5 SENIORS, SPANISH, FOOD BANK, PRISON, PROPHETS CHAMBER LUKE AFB KJB,BBF"
   },
   {
     "id": "117",
@@ -1166,12 +1166,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JON ROY. 8490 W CAMELBACK RD GLENDALE AZ 85305 BUCKEYE AREA SS 930,SM 1015,SN 6,W 7 LUKE AFB PHOENIX AZ 85032-3340 SS 9,SM 10,SN 6,W 7 AWANA,SPANISH, LUKE AFB,WILLIAMS AFB KJB church."
+    "description": "GLENDALE AZ 85305 BUCKEYE AREA SS 930,SM 1015,SN 6,W 7 LUKE AFB PHOENIX AZ 85032-3340 SS 9,SM 10,SN 6,W 7 AWANA,SPANISH, LUKE AFB,WILLIAMS AFB KJB church"
   },
   {
     "id": "118",
     "name": "CANYON SPRINGS BAPTIST CHURCH",
-    "address": "",
+    "address": "178 S MOUNTAIN VIEW APACHE JUNCT",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1184,12 +1184,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by MARSHALL YAZIE. PO BOX 4212 178 S MOUNTAIN VIEW APACHE JUNCTION AZ 85219 SS 930,SM 1030,SN 6,W 7 DISCOVERY CLUB, AUDIO SERMONS ONLINE KJB,ARLINGTON-BC,"
+    "description": "PO BOX 4212 ION AZ 85219 SS 930,SM 1030,SN 6,W 7 DISCOVERY CLUB, AUDIO SERMONS ONLINE KJB,ARLINGTON-BC"
   },
   {
     "id": "119",
     "name": "BAPTIST INDIAN CHAPEL",
-    "address": "",
+    "address": "PO BOX 960",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1202,7 +1202,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 960 PIMA INDIAN RESERVATION GILA RIVER AZ 85221"
+    "description": "PIMA INDIAN RESERVATION GILA RIVER AZ 85221"
   },
   {
     "id": "120",
@@ -1215,13 +1215,13 @@ export const arizonaChurches: Church[] = [
     "longitude": -110.6948,
     "phone": "(928) 783-6500",
     "website": "http://www.faithbaptistyuma.com",
-    "pastor": "ANTHONY GARRISI",
+    "pastor": "KJB, UNAFFILIATED YUMA AZ 85364 SS 10, SM 11, SN 6, W 7 MCAS; YPG; GOLDWATER AFR KJB,UNREGISTERED",
     "category": "KJB",
     "affiliation": [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ANTHONY GARRISI. NEEDS PASTOR KJB, UNAFFILIATED 1798 S ARIZONA AVE YUMA AZ 85364 SS 10, SM 11, SN 6, W 7 MCAS; YPG; GOLDWATER AFR KJB,UNREGISTERED"
+    "description": "NEEDS"
   },
   {
     "id": "121",
@@ -1239,7 +1239,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by TIM THACKER. PO BOX 8 303 W MAIN ST PAYSON AZ 85541 SS 945,SM 11,SN 2,W 630 MP3 AUDIO SERMONS & MUSIC ONLINE KJB church."
+    "description": "PO BOX 8 PAYSON AZ 85541 SS 945,SM 11,SN 2,W 630 MP3 AUDIO SERMONS & MUSIC ONLINE KJB church"
   },
   {
     "id": "122",
@@ -1257,12 +1257,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DENNIS STERKEL. PO BOX 469 PEARCE AZ 85625 1538 N HWY 191 COCHISE AZ 85625 SS 10,SM 11,SN 6,W 7 PERR-FECT FOR WOMEN,ON THE WEBSITE, CAMP,PRINTING,SPANISH, MP3 AUDIO SERMONS ONLINE KJB,HYLES 200 S BOWE AVE WILLCOX AZ"
+    "description": "PO BOX 469 PEARCE AZ 85625 1538 N HWY 191 COCHISE AZ 85625 SS 10,SM 11,SN 6,W 7 PERR-FECT FOR WOMEN,ON THE WEBSITE, CAMP,PRINTING,SPANISH, MP3 AUDIO SERMONS ONLINE KJB,HYLES WILLCOX AZ"
   },
   {
     "id": "123",
     "name": "OASIS BAPTIST CHURCH",
-    "address": "617 W NEVADA ST",
+    "address": "2501 FIRST AVE SAFFORD",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1277,12 +1277,12 @@ export const arizonaChurches: Church[] = [
       "SBC",
       "Independent"
     ],
-    "description": "Led by RANDALL A MACDONALD. 617 W NEVADA ST TUCSON AZ 85706 SS 9,SM 10,SN 6,W 7 SPANISH, MP3 AUDO SERMONS ONLINE DAVIS MONTHAN AFB KJB, UNAFFILIATED 2501 FIRST AVE SAFFORD AZ 85546 SS 10,SM 11,SN 6,TH 7 Serving Pima, Thatcher an"
+    "description": "TUCSON AZ 85706 SS 9,SM 10,SN 6,W 7 SPANISH, MP3 AUDO SERMONS ONLINE DAVIS MONTHAN AFB KJB, UNAFFILIATED AZ 85546 SS 10,SM 11,SN 6,TH 7 Serving Pima, Thatcher an"
   },
   {
     "id": "124",
     "name": "CENTRAL BAPTIST CHURCH",
-    "address": "200 N 5TH ST",
+    "address": "267 SIERRA VIST",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1295,7 +1295,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ROBBIE ROBINSON. PO BOX 267 200 N 5TH ST SIERRA VISTA AZ 85636 SS 945,SM 11,SN 630,W 730 MP3 AUDIO SERMONS ONLINE FT HUACHUCA KJB church."
+    "description": "PO BOX A AZ 85636 SS 945,SM 11,SN 630,W 730 MP3 AUDIO SERMONS ONLINE FT HUACHUCA KJB church"
   },
   {
     "id": "125",
@@ -1313,7 +1313,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CRAIG EVINS. 306 S 23RD  AVE YUMA AZ 85364 YUMA PROVING GRNDS, MARINE CORPS AIR STATION YUMA KJV,FBF,BJU KJB church."
+    "description": "YUMA AZ 85364 YUMA PROVING GRNDS, MARINE CORPS AIR STATION YUMA KJV,FBF,BJU KJB church"
   },
   {
     "id": "126",
@@ -1332,7 +1332,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by ANDREW ESTES. 1941 HAVASUPAI DR BULLHEAD CITY AZ 86442 SS 10,SM 11,SN 6,W 7 TEEN,AWANA,CAMP IRONWOOD,MEN’S BIBLE STUDY, WOMENS KJB, AIBF, BBFI"
+    "description": "BULLHEAD CITY AZ 86442 SS 10,SM 11,SN 6,W 7 TEEN,AWANA,CAMP IRONWOOD,MEN’S BIBLE STUDY, WOMENS KJB, AIBF, BBFI"
   },
   {
     "id": "127",
@@ -1351,12 +1351,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by AARON CLARK. 712 S WILMOT RD TUCSON AZ 85711 SM 1030, W 7 KJB, UNAFFILIATED"
+    "description": "TUCSON AZ 85711 SM 1030, W 7 KJB, UNAFFILIATED"
   },
   {
     "id": "128",
     "name": "DESERT SUNRISE CHURCH",
-    "address": "",
+    "address": "PO BOX 1757",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1369,7 +1369,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GREGORY A DAWSON. PO BOX 1757 CIMIRRON SPRINGS SCHOOL 17032 W SURPRISE FARMS LOOP S SURPRISE AZ 85378 SS 930, SM 1030, SN 6 CALL FOR WEDNESDAY SERVICE LOCATION 10 MINUTES FROM LUKE AFB NURSERY, CHILDREN’S MINISTRIES KJB church."
+    "description": "CIMIRRON SPRINGS SCHOOL 17032 W SURPRISE FARMS LOOP S SURPRISE AZ 85378 SS 930, SM 1030, SN 6 CALL FOR WEDNESDAY SERVICE LOCATION 10 MINUTES FROM LUKE AFB NURSERY, CHILDREN’S MINISTRIES KJB church"
   },
   {
     "id": "129",
@@ -1387,7 +1387,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by KIM PRESTON GRAY. PO BOX 16113 5745 E 26TH ST TUCSON AZ 85711 SS 930,SM 1045,SN 5,W 6 MP3 AUDIO SERMONS ONLINE KJB, WCBC"
+    "description": "PO BOX 16113 TUCSON AZ 85711 SS 930,SM 1045,SN 5,W 6 MP3 AUDIO SERMONS ONLINE KJB, WCBC"
   },
   {
     "id": "130",
@@ -1405,7 +1405,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by JAMES A BRACKLEY II. 535 N SARIVAL AVE GOODYEAR AZ 85338 near PHOENIX SS 9,SM 10,SN 6.W 7 MP3 AUDIO SERMONS ONLINE"
+    "description": "GOODYEAR AZ 85338 near PHOENIX SS 9,SM 10,SN 6.W 7 MP3 AUDIO SERMONS ONLINE"
   },
   {
     "id": "131",
@@ -1423,7 +1423,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by JAMES P KESTER. 9227 E UNIVERSITY DR MESA AZ 85207 WILLIAMS AFB,LUKE AFB Non-KJV church."
+    "description": "MESA AZ 85207 WILLIAMS AFB,LUKE AFB Non-KJV church"
   },
   {
     "id": "132",
@@ -1441,12 +1441,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "BBF"
     ],
-    "description": "Led by SCOTT MERRITT. 10361 OLD SPANISH TRAIL TUCSON AZ 85748-8201 SS 945,SM 11,SN 6,W 7 DAVIS MONTHAN AFB BBF church."
+    "description": "10361 OLD SPANISH TRAIL TUCSON AZ 85748-8201 SS 945,SM 11,SN 6,W 7 DAVIS MONTHAN AFB BBF church"
   },
   {
     "id": "133",
     "name": "CHI HOOTSO BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 1483",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1459,7 +1459,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 1483 ST MICHAELS AZ 86511"
+    "description": "ST MICHAELS AZ 86511"
   },
   {
     "id": "134",
@@ -1472,12 +1472,12 @@ export const arizonaChurches: Church[] = [
     "longitude": -111.1723,
     "phone": "(928) 757-2976",
     "website": "http://www.kingmanaz.net/~calvary",
-    "pastor": "RICHARD ZEHRUNG",
+    "pastor": "KINGMAN AZ 86401-2253 SS 930,SM 1045,SN 6,W 630",
     "category": "Other",
     "affiliation": [
       "Other"
     ],
-    "description": "Led by RICHARD ZEHRUNG. NEEDS PASTOR 3575 SHAEFFER AVE KINGMAN AZ 86401-2253 SS 930,SM 1045,SN 6,W 630"
+    "description": "NEEDS"
   },
   {
     "id": "135",
@@ -1500,7 +1500,7 @@ export const arizonaChurches: Church[] = [
   {
     "id": "136",
     "name": "NORTH VILLAGE BAPTIST CHURCH",
-    "address": "1010 E ALICE AVE",
+    "address": "39731 N PRINCE AVE",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1514,7 +1514,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by CHIP VAN EMMERIK. 1010 E ALICE AVE PHOENIX AZ 85020-3213 LUKE AFB KJV & NKJV PO BOX 683 39731 N PRINCE AVE QUEEN CREEK AZ 85242 SS 930,SM 1030,SN 6,W 7 ADULT BIBLE STUDY,EXPLORER CLUB,QUALITY NURSERY EVERY SERVICE NOT  KJB church."
+    "description": "PHOENIX AZ 85020-3213 LUKE AFB KJV & NKJV PO BOX 683 QUEEN CREEK AZ 85242 SS 930,SM 1030,SN 6,W 7 ADULT BIBLE STUDY,EXPLORER CLUB,QUALITY NURSERY EVERY SERVICE NOT KJB church"
   },
   {
     "id": "137",
@@ -1532,7 +1532,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Non-KJV"
     ],
-    "description": "Led by DAVE BALSLEY. 1401 E JEFFERSON ST PHOENIX AZ 85034 PRISON,CHOIR NASB,CBA Non-KJV church."
+    "description": "PHOENIX AZ 85034 PRISON,CHOIR NASB,CBA Non-KJV church"
   },
   {
     "id": "138",
@@ -1550,7 +1550,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2101 W AJO WAY TUCSON AZ 85705"
+    "description": "TUCSON AZ 85705"
   },
   {
     "id": "139",
@@ -1569,7 +1569,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ROGER WILLIAMS JR. SS 9,SM 10,SN 6,W 7 TEEN,YOUTH,LADIES & MENS BIBLE STUDY,SPANISH PRIMARY SCHOOL 1-4 DAVIS MONTHAN AFB KJ-PREACH GARBC 3810 E UNIVERSITY MESA AZ 85205 SS 9,SM 1015,SN 6,W 7 AWANA,CUBBIES,CHOIR,NURSING  KJB church."
+    "description": "SS 9,SM 10,SN 6,W 7 TEEN,YOUTH,LADIES & MENS BIBLE STUDY,SPANISH PRIMARY SCHOOL 1-4 DAVIS MONTHAN AFB KJ-PREACH GARBC 3810 E UNIVERSITY MESA AZ 85205 SS 9,SM 1015,SN 6,W 7 AWANA,CUBBIES,CHOIR,NURSING KJB church"
   },
   {
     "id": "140",
@@ -1587,7 +1587,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "2211 W GERMANN RD CHANDLER AZ 85286 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS ONLINE TRI-CITY CHRISTIAN ACADEMY,PS-12"
+    "description": "CHANDLER AZ 85286 SS 915,SM 1030,SN 6,W 7 AUDIO SERMONS ONLINE TRI-CITY CHRISTIAN ACADEMY,PS-12"
   },
   {
     "id": "141",
@@ -1606,7 +1606,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by THOMAS PETRO. LUKE AFB PREACH-KJV, GARBC  STUDY-KJV & NASB KJB church."
+    "description": "LUKE AFB PREACH-KJV, GARBC STUDY-KJV & NASB KJB church"
   },
   {
     "id": "142",
@@ -1625,12 +1625,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by WILLIAM PERRY. 8451 E STEVENS DR PRESCOTT VALLEY AZ 86314-8139 SS 9.SM 10,SN 6,W 6 NKJV, KJV KJB church."
+    "description": "PRESCOTT VALLEY AZ 86314-8139 SS 9.SM 10,SN 6,W 6 NKJV, KJV KJB church"
   },
   {
     "id": "143",
     "name": "COMMUNITY CHRISTIAN CHURCH",
-    "address": "",
+    "address": "PO BOX 295",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1643,7 +1643,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "PO BOX 295 11334 VAH KI INN VALLEY FARMS AZ 85191 SS 9,SM 1130 CALL FOR MIDWEEK SERVICE LOCATION"
+    "description": "11334 VAH KI INN VALLEY FARMS AZ 85191 SS 9,SM 1130 CALL FOR MIDWEEK SERVICE LOCATION"
   },
   {
     "id": "144",
@@ -1662,7 +1662,7 @@ export const arizonaChurches: Church[] = [
       "Non-KJV",
       "Soulwinning"
     ],
-    "description": "Led by JOHN SKAGGS.  Non-KJV church."
+    "description": "Non-KJV church"
   },
   {
     "id": "145",
@@ -1680,7 +1680,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DAVID BANCROFT. PO BOX 1447 CLAYPOOL AZ 85532 SERMONS ONLINE NOT KJV ONLY,CBA 215 E 5TH TUCSON AZ 85705 DAVIS MONTHAN AFB PREACH KJV,NOT KJV ONLY,FBF,AARBC 1225 E COTTONWOOD LN CASA GRANDE AZ 85122 SS 930,SM 1030 AWA KJB church."
+    "description": "PO BOX 1447 CLAYPOOL AZ 85532 SERMONS ONLINE NOT KJV ONLY,CBA 215 E 5TH TUCSON AZ 85705 DAVIS MONTHAN AFB PREACH KJV,NOT KJV ONLY,FBF,AARBC CASA GRANDE AZ 85122 SS 930,SM 1030 AWA KJB church"
   },
   {
     "id": "146",
@@ -1698,12 +1698,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by ALBERTO MARQUEZ. 5729 E 22ND ST TUCSON AZ 85710 DAVIS MONTHAN AFB NOT KJV ONLY,GARBC,FBF,RV 1960 7233 N 75TH AVE GLENDALE AZ 85303-2006 BILINUAL (English Spanish) LUKE AFB PREACH-KJV, STUDY OTHERS KJB church."
+    "description": "TUCSON AZ 85710 DAVIS MONTHAN AFB NOT KJV ONLY,GARBC,FBF,RV 1960 7233 N 75TH AVE GLENDALE AZ 85303-2006 BILINUAL (English Spanish) LUKE AFB PREACH-KJV, STUDY OTHERS KJB church"
   },
   {
     "id": "147",
     "name": "DESERT FOOTHILLS BAPTIST CHURCH",
-    "address": "10655 N SHANNON RD",
+    "address": "3 AUDIO SERMONS ONLINE SERVING COMMUNITIES OF NORTHWEST",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "10655",
@@ -1718,7 +1718,7 @@ export const arizonaChurches: Church[] = [
       "Soulwinning",
       "BBF"
     ],
-    "description": "Led by JOHN W LEONARD. 10655 N SHANNON RD TUCSON AZ 85742 KINGDOM KIDS, HEARTS ALIVE, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, MP3 AUDIO SERMONS ONLINE SERVING COMMUNITIES OF NORTHWEST TUCSON, MARANA, AND ORO VALLEY PRE KJB church."
+    "description": "TUCSON AZ 85742 KINGDOM KIDS, HEARTS ALIVE, SOULWINNING, SENIORS, COLLEGE CAREER, TEENS, MP TUCSON, MARANA, AND ORO VALLEY PRE KJB church"
   },
   {
     "id": "148",
@@ -1737,12 +1737,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by RANDY MILLER. 6902 E GOLF LINKS TUCSON AZ 85730 DAVIS MONTHAN AFB PREACH KJV, NOT KJV ONLY, UNAFFILIATED KJB church."
+    "description": "6902 E GOLF LINKS TUCSON AZ 85730 DAVIS MONTHAN AFB PREACH KJV, NOT KJV ONLY, UNAFFILIATED KJB church"
   },
   {
     "id": "149",
     "name": "NORTHLAND BAPTIST CHURCH",
-    "address": "4005 N KASPAR AVE",
+    "address": "4005 N KASPAR AVE FLAGST",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1756,7 +1756,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by RYAN HORKAVY. 4005 N KASPAR AVE FLAGSTAFF AZ 86004-2311 NKJV,FBFI,BJU KJB church."
+    "description": "AFF AZ 86004-2311 NKJV,FBFI,BJU KJB church"
   },
   {
     "id": "150",
@@ -1775,12 +1775,12 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by DICK MERCADO JR. PO BOX 1022 BUCKEYE AZ 85326 MEETING AT VERRAD0 MIDDLE SCHOOL (SUNDAY AM & SUNDAY SCHOOL ONLY) 20880 W MAIN ST BUCKEYE AZ 85396 4609 N 189TH AVE (WEDNESDAY PM) LITCHFIELD PARK AZ 85340 KIDS4TRUTH,YOUT KJB church."
+    "description": "PO BOX 1022 BUCKEYE AZ 85326 MEETING AT VERRAD0 MIDDLE SCHOOL (SUNDAY AM & SUNDAY SCHOOL ONLY) BUCKEYE AZ 85396 4609 N 189TH AVE (WEDNESDAY PM) LITCHFIELD PARK AZ 85340 KIDS4TRUTH,YOUT KJB church"
   },
   {
     "id": "151",
     "name": "WESTPOINTE BAPTIST CHURCH",
-    "address": "",
+    "address": "PO BOX 774",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1793,7 +1793,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by JOSHUA MATTESON. PO BOX 774 LITCHFIELD PARK AZ  85340 MEETING AT DESERT THUNDER SCHOOL 16750 W GARFIELD GOODYEAR AZ AWANA,YOUTH,SMALL GROUPS,CHOIR,ENSEMBLES MISSION CHRISTIAN SCHOOL LUKE AFB 2 MILES NOT KJV ONLY,BJU KJB church."
+    "description": "LITCHFIELD PARK AZ 85340 MEETING AT DESERT THUNDER SCHOOL 16750 W GARFIELD GOODYEAR AZ AWANA,YOUTH,SMALL GROUPS,CHOIR,ENSEMBLES MISSION CHRISTIAN SCHOOL LUKE AFB 2 MILES NOT KJV ONLY,BJU KJB church"
   },
   {
     "id": "152",
@@ -1812,7 +1812,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by RON CANNELL. 6017 E GREENWAY SCOTTSDALE AZ 85254 NOT KJV ONLY,BBF KJB church."
+    "description": "SCOTTSDALE AZ 85254 NOT KJV ONLY,BBF KJB church"
   },
   {
     "id": "153",
@@ -1831,7 +1831,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "BBF"
     ],
-    "description": "Led by DANIEL DENNIS. PO BOX 7599 CHANDLER AZ 85246 MEETING AT: R.G.B. ELEMENTARY SCHOOL, 1625 E FRYE RD SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,CCM,S-BBF KJB church."
+    "description": "PO BOX 7599 CHANDLER AZ 85246 , 1625 E FRYE RD SS 930,SM 1030,SN 6,W 7 NOT KJV ONLY,CCM,S-BBF KJB church"
   },
   {
     "id": "154",
@@ -1850,7 +1850,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by STEPHEN C HAIR SR. 5735 W THOMAS RD PHOENIX AZ 85031-3226 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY,MBBC, 241 E MCNEIL SHOW LOW AZ 85901 SS 930,SM 1045,SN 6,W 630 AWANA,PATCH PIRATE,RADIO AM970 SUN 11 WMA AUDIO SERMONS ONLINE KJ KJB church."
+    "description": "PHOENIX AZ 85031-3226 SS 9,SM 10,SN 6,W 7 NOT KJV ONLY,MBBC, 241 E MCNEIL SHOW LOW AZ 85901 SS 930,SM 1045,SN 6,W 630 AWANA,PATCH PIRATE,RADIO AM970 SUN 11 WMA AUDIO SERMONS ONLINE KJ KJB church"
   },
   {
     "id": "155",
@@ -1870,7 +1870,7 @@ export const arizonaChurches: Church[] = [
       "Non-KJV",
       "Independent"
     ],
-    "description": "Led by KEVIN E SHAAL. 10330 N COTTON LN WADDELL AZ 85355 SS 9,SM 1015, SN 6, W 7 LUKE AFB, 15 MINS PREACH-KJV,NKJV,UNAFFILIATED,BJU KJB church."
+    "description": "WADDELL AZ 85355 SS 9,SM 1015, SN 6, W 7 LUKE AFB, 15 MINS PREACH-KJV,NKJV,UNAFFILIATED,BJU KJB church"
   },
   {
     "id": "156",
@@ -1889,7 +1889,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Non-KJV"
     ],
-    "description": "Led by ROY KEISTER. 4030 W YORKSHIRE GLENDALE AZ 85308 SS 935,SM 830 $ 1045,SN 7 AWANA,CHOIR,PATCH CLUB ARROWHEAD CHRISTIAN ACADEMY LUKE AFB NAS NIV ESV HCB,CBA PO BOX 4490 1173 HWY 92 BISBEE AZ 85603 FT HUACHUCA PREACH- KJB church."
+    "description": "4030 W YORKSHIRE GLENDALE AZ 85308 SS 935,SM 830 $ 1045,SN 7 AWANA,CHOIR,PATCH CLUB ARROWHEAD CHRISTIAN ACADEMY LUKE AFB NAS NIV ESV HCB,CBA PO BOX 4490 1173 HWY 92 BISBEE AZ 85603 FT HUACHUCA PREACH- KJB church"
   },
   {
     "id": "157",
@@ -1907,7 +1907,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by DANTE ANTONUCCI. 7770 E SPEEDWAY BLVD TUCSON AZ 85710 DAVIS MONTHAN AFB KJB, S.GRACE"
+    "description": "TUCSON AZ 85710 DAVIS MONTHAN AFB KJB, S.GRACE"
   },
   {
     "id": "158",
@@ -1925,7 +1925,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by GARY ELLIOTT. 201 E KORTSEN RD CASA GRANDE AZ 85222 SS 10, SM 11, SN 2, W 7 NOT KJV ONLY,CBA KJB church."
+    "description": "CASA GRANDE AZ 85222 SS 10, SM 11, SN 2, W 7 NOT KJV ONLY,CBA KJB church"
   },
   {
     "id": "159",
@@ -1944,7 +1944,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by ADAM ROLAND. 2200 N TANQUE VERDE RD TUCSON AZ 85710 SS 945,SM 1045,W 7 DAVIS MONTHAN AFB PREACH KJV, STUDY OTHERS, UNAFFILIATED KJB church."
+    "description": "TUCSON AZ 85710 SS 945,SM 1045,W 7 DAVIS MONTHAN AFB PREACH KJV, STUDY OTHERS, UNAFFILIATED KJB church"
   },
   {
     "id": "160",
@@ -1962,7 +1962,7 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by CHRIS LEAVELL. 5770 E PIMA ST TUCSON AZ 85712 SS 930, SM 1030, W 6 AUDIO SERMONS ONLINE NOT KJV ONLY,GARBC KJB church."
+    "description": "TUCSON AZ 85712 SS 930, SM 1030, W 6 AUDIO SERMONS ONLINE NOT KJV ONLY,GARBC KJB church"
   },
   {
     "id": "161",
@@ -1980,12 +1980,12 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "KJB"
     ],
-    "description": "Led by FRED BOYER. 2722 N COLLEGE AVE TEMPE AZ 85281 SS 930,SM 1030,SN 6,W 6 LUKE AFB NOT KJV ONLY,CBA KJB church."
+    "description": "TEMPE AZ 85281 SS 930,SM 1030,SN 6,W 6 LUKE AFB NOT KJV ONLY,CBA KJB church"
   },
   {
     "id": "162",
     "name": "WEST HIGH BAPTIST CHURCH",
-    "address": "3301 N 19TH AVE",
+    "address": "8049 E ASHLEY DR",
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "",
@@ -1999,7 +1999,7 @@ export const arizonaChurches: Church[] = [
       "KJB",
       "Independent"
     ],
-    "description": "Led by DAVID PARKER. 3301 N 19TH AVE PHOENIX AZ 85015 SS 945,SM 1045,SN 6,W 7 LUKE AFB PREACH-KJV, STUDY OTHERS,UNAFFILIATED AMAZING GRACE (an independent Baptist fellowship) 8049 E ASHLEY DR PRESCOTT VALLEY AZ  86314 SS  KJB church."
+    "description": "3301 N 19TH AVE PHOENIX AZ 85015 SS 945,SM 1045,SN 6,W 7 LUKE AFB PREACH-KJV, STUDY OTHERS,UNAFFILIATED AMAZING GRACE (an independent Baptist fellowship) PRESCOTT VALLEY AZ 86314 SS KJB church"
   },
   {
     "id": "163",
@@ -2017,6 +2017,6 @@ export const arizonaChurches: Church[] = [
     "affiliation": [
       "Other"
     ],
-    "description": "Led by PARKER FORMER-USMC."
+    "description": ""
   }
 ];
