@@ -54,7 +54,7 @@ const MapBounds: React.FC<{ churches: Church[] }> = ({ churches }) => {
       const lngSpan = bounds.getEast() - bounds.getWest();
       
       // Dynamic padding based on the spread of churches
-      let padding = [20, 20];
+      let padding: [number, number] = [20, 20];
       if (latSpan > 8 || lngSpan > 8) {
         // Large states like California, Texas - use more padding
         padding = [50, 50];
@@ -67,7 +67,7 @@ const MapBounds: React.FC<{ churches: Church[] }> = ({ churches }) => {
       const maxZoom = churches.length === 1 ? 10 : 12;
       
       map.fitBounds(bounds, { 
-        padding: padding,
+        padding: padding as L.PointTuple,
         maxZoom: maxZoom 
       });
     }
